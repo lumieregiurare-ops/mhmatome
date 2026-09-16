@@ -1,0 +1,137 @@
+{
+  "port": 3260,
+  "host": "127.0.0.1",
+  "watchdogMinutes": 15,
+  "maxArticleAgeDays": 7,
+
+  "site": {
+    "title": "狩猟速報",
+    "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
+    "url": "https://mh.gamelab.website/",
+    "contactUrl": ""
+  },
+
+  "feeds": [
+    { "name": "4Gamer", "url": "https://www.4gamer.net/rss/index.xml" },
+    { "name": "Game*Spark", "url": "https://www.gamespark.jp/rss20/index.rdf" },
+    { "name": "インサイド", "url": "https://www.inside-games.jp/rss20/index.rdf" },
+    { "name": "電ファミニコゲーマー", "url": "https://news.denfaminicogamer.jp/feed" },
+    { "name": "AUTOMATON", "url": "https://automaton-media.com/feed/" },
+    { "name": "GAME Watch", "url": "https://game.watch.impress.co.jp/data/rss/1.0/gmw/feed.rdf" },
+    { "name": "IGN Japan", "url": "https://jp.ign.com/feed.xml" }
+  ],
+
+  "steamNews": {
+    "enabled": true,
+    "count": 8,
+    "apps": [
+      { "name": "ワイルズ公式（Steam）", "appid": 2246340, "series": "wilds" },
+      { "name": "ライズ公式（Steam）", "appid": 1446780, "series": "rise" },
+      { "name": "ワールド公式（Steam）", "appid": 582010, "series": "world" }
+    ]
+  },
+
+  "googleNews": {
+    "enabled": true,
+    "within": "3d",
+    "perQuery": 40,
+    "queries": [
+      "モンスターハンター",
+      "モンハン",
+      "モンスターハンターワイルズ",
+      "モンハンワイルズ",
+      "モンスターハンターNow",
+      "モンハン コラボ",
+      "モンスターハンター 映画",
+      "カプコン モンスターハンター"
+    ]
+  },
+
+  "keywords": [
+    "モンスターハンター",
+    "モンハン",
+    "\\bMonster ?Hunter\\b",
+    "\\bMH(?:Wilds|Rise|World|Now|St)\\b",
+    "サンブレイク",
+    "アイスボーン",
+    "ハンター(?:ノート|ランク)",
+    "アイルー",
+    "ガルク",
+    "オトモ",
+    "リオレウス",
+    "リオレイア",
+    "ナルガクルガ",
+    "ジンオウガ",
+    "ティガレックス",
+    "イビルジョー",
+    "ミラボレアス",
+    "アルシュベルド",
+    "ゾ・シア"
+  ],
+
+  "series": [
+    { "id": "wilds", "label": "ワイルズ", "keywords": ["ワイルズ", "\\bWilds\\b", "MHWilds"] },
+    { "id": "rise", "label": "ライズ / サンブレイク", "keywords": ["モンハンライズ", "モンスターハンターライズ", "サンブレイク", "\\bSunbreak\\b", "MHRise"] },
+    { "id": "world", "label": "ワールド / アイスボーン", "keywords": ["モンハンワールド", "モンスターハンター:?\\s?ワールド", "アイスボーン", "\\bIceborne\\b", "MHWorld", "MHW"] },
+    { "id": "now", "label": "Now", "keywords": ["モンハンNow", "Monster ?Hunter ?Now", "MHNow"] },
+    { "id": "stories", "label": "ストーリーズ", "keywords": ["ストーリーズ", "\\bStories\\b"] },
+    { "id": "outlanders", "label": "アウトランダーズ", "keywords": ["アウトランダーズ", "\\bOutlanders\\b"] }
+  ],
+
+  "categories": [
+    { "id": "new", "label": "新作・発表", "keywords": ["発表", "新作", "続報", "ティザー", "発売日", "予約", "体験版", "ベータ", "発売決定", "始動"] },
+    { "id": "update", "label": "アップデート", "keywords": ["アップデート", "タイトルアップデート", "無料大型", "Ver\\.?\\s?\\d", "パッチ", "修正", "不具合", "バランス調整"] },
+    { "id": "event", "label": "イベント・クエスト", "keywords": ["イベントクエスト", "限定クエスト", "配信クエスト", "祭事", "季節イベント", "キャンペーン", "ログインボーナス"] },
+    { "id": "collab", "label": "コラボ", "keywords": ["コラボ", "コラボレーション", "タイアップ"] },
+    { "id": "goods", "label": "グッズ・フィギュア", "keywords": ["グッズ", "フィギュア", "ぬいぐるみ", "一番くじ", "amiibo", "アミーボ", "プライズ", "受注生産", "予約受付", "Tシャツ", "アクリル"] },
+    { "id": "media", "label": "映像・音楽・書籍", "keywords": ["アニメ", "映画", "実写", "サウンドトラック", "サントラ", "オーケストラ", "コンサート", "書籍", "画集", "小説", "漫画"] },
+    { "id": "guide", "label": "攻略・データ", "keywords": ["攻略", "ビルド", "装備", "立ち回り", "最強", "おすすめ", "効率", "テンプレ", "スキル"] },
+    { "id": "sale", "label": "セール", "keywords": ["セール", "割引", "お買い得", "特価", "半額", "無料配布"] },
+    { "id": "community", "label": "大会・コミュニティ", "keywords": ["大会", "トーナメント", "eスポーツ", "配信者", "実況", "コミュニティ", "ファン"] },
+    { "id": "sales", "label": "売上・記録", "keywords": ["売上", "販売本数", "出荷", "万本", "記録", "同時接続", "決算", "ランキング"] }
+  ],
+  "fallbackCategory": { "id": "other", "label": "その他" },
+
+  "prSources": ["PR TIMES", "プレスリリース", "@Press", "ValuePress"],
+
+  "note2": "見出しがこれに当たるものは載せない。ウォーカープラスなどの画像ギャラリーのページが、何年も前の記事なのに新着として流れてくるため。",
+  "blockTitlePatterns": [
+    "^[＜<]?\\s*画像\\s*\\d+\\s*[/／]\\s*\\d+\\s*[＞>]",
+    "^\\s*\\d+\\s*[/／]\\s*\\d+\\s*[＞>]"
+  ],
+
+  "cluster": {
+    "enabled": true,
+    "windowHours": 48,
+    "minSources": 2,
+    "threshold": 0.34,
+    "stopwords": [
+      "モンスターハンター", "モンハン", "ゲーム", "情報", "発表", "公開", "記事", "配信", "今日", "本日",
+      "monster", "hunter", "capcom", "com", "www", "https", "steam", "nintendo", "switch",
+      "カプコン", "シリーズ", "対応", "実施", "開始", "予定", "登場", "紹介", "最新", "話題"
+    ]
+  },
+
+  "entities": [
+    "モンスターハンターワイルズ", "モンハンワイルズ", "サンブレイク", "アイスボーン",
+    "モンハンNow", "アウトランダーズ", "カプコン", "ミラボレアス", "リオレウス", "アルシュベルド"
+  ],
+
+  "note": "武器種は「今日の武器おみくじ」で使う。シリーズ共通の 14 種。",
+  "weapons": [
+    { "id": "greatsword", "name": "大剣", "hint": "ためて斬る。抜刀斬りと溜め斬りが主役" },
+    { "id": "longsword", "name": "太刀", "hint": "練気ゲージをためて見切り斬りを狙う" },
+    { "id": "swordshield", "name": "片手剣", "hint": "手数と機動力。抜刀したままアイテムが使える" },
+    { "id": "dualblades", "name": "双剣", "hint": "鬼人化で一気に手数を稼ぐ" },
+    { "id": "hammer", "name": "ハンマー", "hint": "頭を狙ってスタンを取る" },
+    { "id": "huntinghorn", "name": "狩猟笛", "hint": "旋律で味方を強化しつつ殴る" },
+    { "id": "lance", "name": "ランス", "hint": "ガードとカウンター。張り付いて突く" },
+    { "id": "gunlance", "name": "ガンランス", "hint": "砲撃と竜撃砲。肉質を無視して削る" },
+    { "id": "switchaxe", "name": "スラッシュアックス", "hint": "斧と剣を切り替えて零距離解放" },
+    { "id": "chargeblade", "name": "チャージアックス", "hint": "ビンをためて超高出力属性解放斬り" },
+    { "id": "insectglaive", "name": "操虫棍", "hint": "猟虫でエキスを集めて空中戦" },
+    { "id": "lightbowgun", "name": "ライトボウガン", "hint": "速射と機動力で立ち回る" },
+    { "id": "heavybowgun", "name": "ヘビィボウガン", "hint": "据え置いて火力を出す。狙撃と砲撃" },
+    { "id": "bow", "name": "弓", "hint": "溜め段階とクセのある立ち回り。距離が命" }
+  ]
+}
