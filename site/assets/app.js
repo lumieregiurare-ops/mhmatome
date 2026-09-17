@@ -32,7 +32,7 @@
 
   let fav = store.get(FAV_KEY, []);
   let read = store.get(READ_KEY, []);
-  const state = Object.assign({ series: "all", cat: "all", q: "", hidePR: false, sort: "new" }, store.get(STATE_KEY, {}));
+  const state = Object.assign({ cat: "all", q: "", hidePR: false, sort: "new" }, store.get(STATE_KEY, {}));
 
   // ---------- 小物 ----------
   function hhmm(iso) {
@@ -135,7 +135,6 @@
   function visible() {
     const q = state.q.trim().toLowerCase();
     return data.items.filter((it) => {
-      if (state.series !== "all" && !(it.series || []).includes(state.series)) return false;
       if (state.cat !== "all" && !it.categories.includes(state.cat)) return false;
       if (state.hidePR && it.isPR) return false;
       if (q && !`${it.title} ${it.summary || ""} ${it.source}`.toLowerCase().includes(q)) return false;
@@ -195,13 +194,33 @@
     star.title = "あとで読む";
     star.addEventListener("click", () => {
       toggleFav(it.id);
-      star.classList.toggle("on", fav.includes(it.id));
-      star.textContent = fav.includes(it.id) ? "★" : "☆";
+      const isOn = fav.includes(it.id);
+      star.classList.toggle("on", isOn);
+      star.textContent = isOn ? "★" : "☆";
+      if (isOn) burstStar(star);
       onFavChanged();
     });
 
     row.append(thumb, body, star);
     return row;
+  }
+
+  function burstStar(el) {
+    el.classList.remove("pop");
+    void el.offsetWidth;
+    el.classList.add("pop");
+    const burst = document.createElement("span");
+    burst.className = "fav-burst";
+    const n = 6;
+    for (let i = 0; i < n; i++) {
+      const p = document.createElement("i");
+      p.className = "fav-burst-star";
+      p.style.setProperty("--angle", `${(360 / n) * i}deg`);
+      p.style.animationDelay = `${i * 12}ms`;
+      burst.appendChild(p);
+    }
+    el.appendChild(burst);
+    setTimeout(() => burst.remove(), 700);
   }
 
   function badge(text, cls) {
@@ -348,18 +367,6 @@
 
   // ---------- 左カラム ----------
   function renderFilters() {
-    const nav = $("#seriesNav");
-    nav.innerHTML = "";
-    const seriesTabs = [{ id: "all", label: "すべて", count: data.total }, ...data.series.filter((s) => s.count > 0)];
-    for (const s of seriesTabs) {
-      const b = document.createElement("button");
-      b.type = "button";
-      b.setAttribute("aria-pressed", String(state.series === s.id));
-      b.innerHTML = `${s.label}<span class="n">${s.count}</span>`;
-      b.addEventListener("click", () => set({ series: s.id }));
-      nav.appendChild(b);
-    }
-
     const cl = $("#catList");
     cl.innerHTML = "";
     const cats = [{ id: "all", label: "すべて", count: data.total }, ...data.categories.filter((c) => c.count > 0)];
@@ -544,6 +551,7 @@
     history.replaceState(null, "", location.pathname + location.search);
     hideFavView();
   });
+  document.querySelectorAll(".global-nav a").forEach((a) => a.addEventListener("click", () => hideFavView()));
   $("#hidePR").addEventListener("change", (e) => set({ hidePR: e.target.checked }));
   for (const b of document.querySelectorAll("#sortSeg button")) {
     b.addEventListener("click", () => {
