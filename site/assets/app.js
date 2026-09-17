@@ -197,7 +197,7 @@
       toggleFav(it.id);
       star.classList.toggle("on", fav.includes(it.id));
       star.textContent = fav.includes(it.id) ? "★" : "☆";
-      renderFav();
+      onFavChanged();
     });
 
     row.append(thumb, body, star);
@@ -229,7 +229,18 @@
     const box = $("#list");
     box.innerHTML = "";
 
-    $("#count").textContent = `${all.length} 件${state.q ? `「${state.q}」で絞り込み中` : ""}`;
+    const countEl = $("#count");
+    countEl.innerHTML = "";
+    countEl.append(`${all.length} 件`);
+    if (state.q) {
+      countEl.append(`「${state.q}」で絞り込み中 `);
+      const clear = document.createElement("button");
+      clear.type = "button";
+      clear.className = "q-clear";
+      clear.textContent = "✕ 解除";
+      clear.addEventListener("click", () => set({ q: "" }));
+      countEl.appendChild(clear);
+    }
     $("#empty").hidden = all.length > 0;
 
     if (state.sort === "shuffle") {
@@ -406,8 +417,8 @@
       b.type = "button";
       b.textContent = `${w} ${n}`;
       b.addEventListener("click", () => {
-        $("#q").value = w;
         set({ q: w });
+        $("#feedSection")?.scrollIntoView({ behavior: "smooth", block: "start" });
       });
       box.appendChild(b);
     }
@@ -465,31 +476,53 @@
     }
   }
 
-  function renderFav() {
-    const box = $("#favList");
+  function updateFavCount() {
+    const el = $("#favCount");
+    el.hidden = fav.length === 0;
+    el.textContent = String(fav.length);
+  }
+
+  function renderFavView() {
+    const box = $("#favViewBody");
     box.innerHTML = "";
     const items = fav.map((id) => data.items.find((it) => it.id === id)).filter(Boolean);
-    $("#favDesc").textContent = items.length ? "このブラウザにだけ保存しています。" : "記事の ☆ を押すとここに貯まります。";
-    for (const it of items.slice(0, 12)) {
-      const li = document.createElement("li");
-      const a = document.createElement("a");
-      a.href = it.url;
-      a.target = "_blank";
-      a.rel = "noopener noreferrer";
-      a.textContent = it.title;
-      const del = document.createElement("button");
-      del.type = "button";
-      del.className = "fav-del";
-      del.textContent = "×";
-      del.title = "外す";
-      del.addEventListener("click", () => {
-        toggleFav(it.id);
-        renderFav();
-        renderList();
-      });
-      li.append(a, del);
-      box.appendChild(li);
+    $("#favViewEmpty").hidden = items.length > 0;
+    if (!items.length) return;
+    const rows = document.createElement("div");
+    rows.className = "rows";
+    for (const it of items) rows.appendChild(makeRow(it));
+    box.appendChild(rows);
+  }
+
+  function onFavChanged() {
+    updateFavCount();
+    if (favViewOpen) renderFavView();
+  }
+
+  // ---------- あとで読む（中央エリアだけを差し替える簡易ルーティング） ----------
+  let favViewOpen = false;
+  const BASE_TITLE = document.title;
+  function showFavView() {
+    favViewOpen = true;
+    for (const id of ["topicsSection", "feedSection"]) {
+      const el = document.getElementById(id);
+      if (el) el.hidden = true;
     }
+    $("#favView").hidden = false;
+    renderFavView();
+    document.title = `あとで読む｜${BASE_TITLE}`;
+    window.scrollTo({ top: 0, behavior: "instant" });
+  }
+  function hideFavView() {
+    favViewOpen = false;
+    $("#favView").hidden = true;
+    $("#topicsSection").hidden = !(data?.topics?.length);
+    $("#feedSection").hidden = false;
+    document.title = BASE_TITLE;
+  }
+  function syncFavView() {
+    if (location.hash === "#favorites") showFavView();
+    else hideFavView();
   }
 
   // ---------- 更新の様子 ----------
@@ -507,7 +540,6 @@
   // ---------- 起動 ----------
   async function boot() {
     $("#year").textContent = new Date().getFullYear();
-    $("#q").value = state.q;
 
     try {
       const r = await fetch(`data/news.json?t=${Math.floor(Date.now() / 300000)}`);
@@ -530,14 +562,15 @@
     renderList();
     renderGacha();
     renderOfficial();
-    renderFav();
+    updateFavCount();
+    syncFavView();
   }
 
   // ---------- 操作 ----------
-  let qTimer = 0;
-  $("#q").addEventListener("input", (e) => {
-    clearTimeout(qTimer);
-    qTimer = setTimeout(() => set({ q: e.target.value }), 200);
+  window.addEventListener("hashchange", syncFavView);
+  $("#favBack").addEventListener("click", () => {
+    history.replaceState(null, "", location.pathname + location.search);
+    hideFavView();
   });
   $("#hidePR").addEventListener("change", (e) => set({ hidePR: e.target.checked }));
   for (const b of document.querySelectorAll("#sortSeg button")) {
@@ -555,12 +588,6 @@
     renderTopics();
   });
   $("#gachaAgain").addEventListener("click", () => swapWithSpinner($("#gachaBody"), renderGacha));
-  document.addEventListener("keydown", (e) => {
-    if (e.key === "/" && document.activeElement !== $("#q")) {
-      e.preventDefault();
-      $("#q").focus();
-    }
-  });
   const toTop = $("#toTop");
   const onScroll = () => (toTop.hidden = window.scrollY < 500);
   window.addEventListener("scroll", onScroll, { passive: true });
