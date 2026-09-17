@@ -213,7 +213,6 @@ await writeJson(OUT, {
   todayCount: items.filter((i) => new Date(new Date(i.publishedAt).getTime() + 9 * 3600000).toISOString().slice(0, 10) === today).length,
   categories: [...cats.map((c) => ({ id: c.id, label: c.label })), fallback].map((c) => ({ ...c, count: catCounts[c.id] || 0 })),
   series: seriesDefs.map((s) => ({ id: s.id, label: s.label, count: seriesCounts[s.id] || 0 })),
-  weapons: config.weapons || [],
   sources: Object.entries(sourceCounts)
     .sort((a, b) => b[1] - a[1])
     .map(([name, count]) => ({ name, count })),

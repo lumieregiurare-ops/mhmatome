@@ -209,11 +209,6 @@ button {
   color: var(--ember);
 }
 
-.header-meta .next {
-  margin-left: 8px;
-  opacity: .85;
-}
-
 /* ---------- layout ---------- */
 main.wrap {
   padding-top: 20px;
@@ -291,11 +286,6 @@ main.wrap {
 .mod-gacha {
   border-color: var(--amber);
   background: linear-gradient(180deg, #fffdf6, var(--amber-soft));
-}
-
-.mod-weapon {
-  border-color: var(--moss);
-  background: linear-gradient(180deg, #fbfffc, var(--moss-soft));
 }
 
 .mod-official {
@@ -450,28 +440,6 @@ main.wrap {
   font-weight: 700;
   line-height: 1.5;
   margin-top: 2px;
-}
-
-.weapon-card {
-  margin-top: 8px;
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: 9px;
-  padding: 11px 10px;
-  text-align: center;
-}
-
-.weapon-name {
-  font-family: var(--font-display);
-  font-size: 19px;
-  color: var(--moss);
-}
-
-.weapon-hint {
-  margin-top: 3px;
-  font-size: 11.5px;
-  color: var(--ink-muted);
-  line-height: 1.5;
 }
 
 /* 公式アナウンス */
@@ -1017,8 +985,18 @@ main.wrap {
     grid-template-columns: minmax(0, 1fr) 280px;
   }
 
+  /* 話題・ニュースを先に見せて、フィルタ類は下に回す */
+  .col-main {
+    order: 1;
+  }
+
+  .side-right {
+    order: 2;
+  }
+
   .side-left {
     grid-column: 1 / -1;
+    order: 3;
     position: static;
     flex-direction: row;
     flex-wrap: wrap;

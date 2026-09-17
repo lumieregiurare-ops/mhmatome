@@ -446,30 +446,6 @@
     box.appendChild(a);
   }
 
-  let weaponId = "";
-  function renderWeapon() {
-    const list = data.weapons || [];
-    const box = $("#weaponBody");
-    box.innerHTML = "";
-    if (!list.length) {
-      $(".mod-weapon").hidden = true;
-      return;
-    }
-    const from = list.filter((w) => w.id !== weaponId);
-    const w = from[Math.floor(Math.random() * from.length)] || list[0];
-    weaponId = w.id;
-    const card = document.createElement("div");
-    card.className = "weapon-card";
-    const name = document.createElement("div");
-    name.className = "weapon-name";
-    name.textContent = w.name;
-    const hint = document.createElement("p");
-    hint.className = "weapon-hint";
-    hint.textContent = w.hint || "";
-    card.append(name, hint);
-    box.appendChild(card);
-  }
-
   function renderOfficial() {
     const list = data.items.filter((it) => it.isOfficial).slice(0, 5);
     if (!list.length) return;
@@ -525,23 +501,7 @@
       return;
     }
     el.hidden = false;
-    el.innerHTML = `前回から <b>${c.newCount}</b> 本が新着<span class="next" id="nextUpdate"></span>`;
-    tickCountdown();
-    setInterval(tickCountdown, 30000);
-  }
-
-  function tickCountdown() {
-    const el = $("#nextUpdate");
-    if (!el) return;
-    const left = data.nextUpdateAt ? new Date(data.nextUpdateAt).getTime() - Date.now() : 0;
-    if (left > 0) {
-      const m = Math.round(left / 60000);
-      el.textContent = m >= 60 ? `・次の更新まで約 ${Math.round(m / 60)} 時間` : `・次の更新まで約 ${Math.max(1, m)} 分`;
-      return;
-    }
-    // 目安を過ぎたら「まもなく」と言い続けず、最後に更新した時刻を出す
-    const min = Math.max(0, Math.round((Date.now() - new Date(data.updatedAt).getTime()) / 60000));
-    el.textContent = min < 120 ? `・最終更新 ${min} 分前` : `・最終更新 ${Math.round(min / 60)} 時間前`;
+    el.innerHTML = `前回から <b>${c.newCount}</b> 本が新着`;
   }
 
   // ---------- 起動 ----------
@@ -569,7 +529,6 @@
     renderTopics();
     renderList();
     renderGacha();
-    renderWeapon();
     renderOfficial();
     renderFav();
   }
@@ -596,7 +555,6 @@
     renderTopics();
   });
   $("#gachaAgain").addEventListener("click", () => swapWithSpinner($("#gachaBody"), renderGacha));
-  $("#weaponAgain").addEventListener("click", () => swapWithSpinner($("#weaponBody"), renderWeapon));
   document.addEventListener("keydown", (e) => {
     if (e.key === "/" && document.activeElement !== $("#q")) {
       e.preventDefault();
