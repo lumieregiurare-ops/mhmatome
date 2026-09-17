@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-17T02:00:15.356Z",
+  "updatedAt": "2026-09-17T02:30:16.742Z",
   "site": {
     "title": "狩猟速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mh.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 69,
-  "todayCount": 23,
+  "total": 72,
+  "todayCount": 25,
   "categories": [
     {
       "id": "new",
@@ -32,7 +32,7 @@
     {
       "id": "goods",
       "label": "グッズ・フィギュア",
-      "count": 6
+      "count": 5
     },
     {
       "id": "media",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 44
+      "count": 47
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 44
+      "count": 46
     },
     {
       "id": "rise",
@@ -94,7 +94,7 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 1
+      "count": 2
     }
   ],
   "weapons": [
@@ -176,15 +176,19 @@
     },
     {
       "name": "Game*Spark",
-      "count": 7
+      "count": 6
     },
     {
       "name": "AUTOMATON",
       "count": 6
     },
     {
-      "name": "famitsu.com",
+      "name": "ファミ通",
       "count": 6
+    },
+    {
+      "name": "PR TIMES",
+      "count": 4
     },
     {
       "name": "電ファミニコゲーマー",
@@ -195,11 +199,11 @@
       "count": 4
     },
     {
-      "name": "4Gamer",
-      "count": 3
+      "name": "Yahoo!ニュース",
+      "count": 4
     },
     {
-      "name": "Yahoo!ニュース",
+      "name": "4Gamer",
       "count": 3
     },
     {
@@ -207,7 +211,7 @@
       "count": 2
     },
     {
-      "name": "Gamer",
+      "name": "gamer.ne.jp",
       "count": 2
     },
     {
@@ -227,15 +231,15 @@
       "count": 2
     },
     {
-      "name": "PR TIMES",
-      "count": 2
-    },
-    {
       "name": "玩具人 TOY PEOPLE",
       "count": 2
     },
     {
-      "name": "blog.ja.playstation.com",
+      "name": "youtu.be",
+      "count": 1
+    },
+    {
+      "name": "PlayStation.Blog 日本語",
       "count": 1
     },
     {
@@ -243,7 +247,7 @@
       "count": 1
     },
     {
-      "name": "ニュースメディアVOIX",
+      "name": "voix.jp",
       "count": 1
     },
     {
@@ -267,7 +271,7 @@
       "count": 1
     },
     {
-      "name": "hobby.dengeki.com",
+      "name": "電撃ホビーウェブ",
       "count": 1
     },
     {
@@ -279,7 +283,7 @@
       "count": 1
     },
     {
-      "name": "AppBank",
+      "name": "appbank.net",
       "count": 1
     }
   ],
@@ -292,8 +296,8 @@
       "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260917-468142-header.jpg",
       "leadSource": "AUTOMATON",
       "publishedAt": "2026-09-17T01:01:03.000Z",
-      "sourceCount": 13,
-      "articleCount": 26,
+      "sourceCount": 14,
+      "articleCount": 25,
       "categories": [
         "other",
         "guide"
@@ -321,21 +325,21 @@
         {
           "title": "『モンスターハンターワイルズ：アセンダンス』試遊レビュー！ 3つのクエストで新モンスターの狩猟に挑む！",
           "url": "https://blog.ja.playstation.com/2026/09/17/20260917-mhw-hands-on-preview-s/",
-          "source": "blog.ja.playstation.com",
+          "source": "PlayStation.Blog 日本語",
           "publishedAt": "2026-09-17T01:00:00.000Z",
           "isPR": false
         },
         {
           "title": "「モンスターハンターワイルズ：アセンダンス」新モンスター・アラケータ＆復活古龍のテオ・テスカトルに挑戦！新要素やブーストブレイサーの手触りもレポート【TGS2026】",
           "url": "https://www.gamer.ne.jp/news/202609170010/",
-          "source": "Gamer",
+          "source": "gamer.ne.jp",
           "publishedAt": "2026-09-17T01:00:00.000Z",
           "isPR": false
         },
         {
           "title": "『モンハンワイルズ：アセンダンス』ブーストブレイサーを使った新アクションが気持ちよすぎ！ 既存アクションにもうれしい新要素。テオ・テスカトルはあの大技も健在【TGS2026】",
           "url": "https://www.famitsu.com/article/202609/88117",
-          "source": "famitsu.com",
+          "source": "ファミ通",
           "publishedAt": "2026-09-17T01:00:00.000Z",
           "isPR": false
         },
@@ -370,8 +374,8 @@
       "image": "http://www.gamespark.jp/imgs/rss/1193149.jpg",
       "leadSource": "Game*Spark",
       "publishedAt": "2026-09-17T01:35:45.000Z",
-      "sourceCount": 4,
-      "articleCount": 4,
+      "sourceCount": 5,
+      "articleCount": 5,
       "categories": [
         "other"
       ],
@@ -391,8 +395,15 @@
         {
           "title": "『モンハンワイルズ：アセンダンス』太刀の紹介動画が公開。目にも止まらぬ連続斬りを披露。相殺からの追撃アクションもカッコいい",
           "url": "https://www.famitsu.com/article/202609/88018",
-          "source": "famitsu.com",
+          "source": "ファミ通",
           "publishedAt": "2026-09-15T07:39:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『モンハンワイルズ：アセンダンス』更にスタイリッシュに進化する「太刀」！全武器種の新要素「ブーストブレイサー」紹介映像が出揃う（Game Spark）",
+          "url": "https://news.yahoo.co.jp/articles/ec0f8285638da7631d23ece8e4e6a3c9f31003cb",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-09-15T07:15:03.000Z",
           "isPR": false
         },
         {
@@ -427,7 +438,7 @@
         {
           "title": "「モンスターハンターワイルズ」季節イベント「交わりの祭事【夢灯の儀】」が開催！大集会所の装飾が一味違った妖しげな様子に変化",
           "url": "https://www.gamer.ne.jp/news/202609160018/",
-          "source": "Gamer",
+          "source": "gamer.ne.jp",
           "publishedAt": "2026-09-16T06:41:00.000Z",
           "isPR": false
         },
@@ -463,7 +474,7 @@
         {
           "title": "『モンスターハンター』巨戟龍ゴグマジオスがリアルな大型ソフビ製フィギュアとなって登場！あみあみで予約受付中！",
           "url": "https://hobby.dengeki.com/news/3161939/",
-          "source": "hobby.dengeki.com",
+          "source": "電撃ホビーウェブ",
           "publishedAt": "2026-09-15T05:14:10.000Z",
           "isPR": false
         },
@@ -499,7 +510,7 @@
         {
           "title": "カプコンがモンハン新作拡張を発表、キャラ再編集を無料化",
           "url": "https://voix.jp/biz/news-analysis/178953/",
-          "source": "ニュースメディアVOIX",
+          "source": "voix.jp",
           "publishedAt": "2026-09-16T22:02:04.000Z",
           "isPR": false
         },
@@ -548,6 +559,34 @@
       ]
     },
     {
+      "id": "5de1eaccc3cf",
+      "title": "『モンスターハンター アウトランダーズ』ルガ・エアルダと戦う新映像公開。ロボットのようなものに乗るオトモ（？）の姿も【カプコンスポットライト】",
+      "summary": "",
+      "url": "https://www.famitsu.com/article/202609/88242",
+      "image": "https://cimg.kgl-systems.io/camion/files/88242/thumbnail_toaE.jpg?x=1280",
+      "leadSource": "ファミ通",
+      "publishedAt": "2026-09-17T02:00:03.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "アウトランダーズ",
+        "カプコン",
+        "カプコンスポットライト"
+      ],
+      "articles": [
+        {
+          "title": "カプコンスポットライト｜TGS 2026で最新トレーラー解禁！『モンスターハンターアウトランダーズ』のオリジナル古龍種「ルガ・エアルダ」の狩猟シーンや新たな冒険者を初公開",
+          "url": "https://prtimes.jp/main/html/rd/p/000000153.000120153.html",
+          "source": "PR TIMES",
+          "publishedAt": "2026-09-17T02:00:03.000Z",
+          "isPR": true
+        }
+      ]
+    },
+    {
       "id": "84f07733244c",
       "title": "プレスリリース：アサシン クリード、ゴッド・オブ・ウォー、モンスターハンターなど世界的人気ゲームタイトルの上質なトランプが9月17日より予約販売開始（PR TIMES）",
       "summary": "",
@@ -581,7 +620,7 @@
       "summary": "",
       "url": "https://www.famitsu.com/article/202609/87854",
       "image": "https://cimg.kgl-systems.io/camion/files/87854/thumbnail_gzZb.jpg?x=1280",
-      "leadSource": "famitsu.com",
+      "leadSource": "ファミ通",
       "publishedAt": "2026-09-14T04:20:00.000Z",
       "sourceCount": 2,
       "articleCount": 2,
@@ -597,7 +636,7 @@
         {
           "title": "「東京ゲームショウ2026」カプコンブース追加試遊情報公開！ モンハンワイルズやバイオハザードリメイクなど9月17日から体験可能",
           "url": "https://www.appbank.net/2026/09/14/game/3102275.php",
-          "source": "AppBank",
+          "source": "appbank.net",
           "publishedAt": "2026-09-14T03:00:53.000Z",
           "isPR": false
         }
@@ -605,13 +644,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-17T01:27:56.937Z",
-    "previousCount": 71,
-    "newCount": 1
+    "previousAt": "2026-09-17T02:00:15.356Z",
+    "previousCount": 69,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-17T02:30:15.356Z",
+  "nextUpdateAt": "2026-09-17T03:00:16.742Z",
   "items": [
+    {
+      "id": "06eecb643ebf",
+      "title": "カプコンスポットライト｜TGS 2026で最新トレーラー解禁！『モンスターハンターアウトランダーズ』のオリジナル古龍種「ルガ・エアルダ」の狩猟シーンや新たな冒険者を初公開",
+      "url": "https://prtimes.jp/main/html/rd/p/000000153.000120153.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-09-17T02:00:03.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/120153/153/120153-153-44c1b7f709db76423aae7f6e4cdbb455-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "dac77c965efb",
       "title": "『モンスターハンターワイルズ』スイッチ2版のグラフィック設定を確認―「品質優先／フレームレート優先」の切り替えと「30fps固定」の項目が",
@@ -697,6 +757,27 @@
       "isNew": false
     },
     {
+      "id": "87179c9f0f81",
+      "title": "『モンスターハンターワイルズ：アセンダンス』試遊レポート：スラッシュアックス/操虫棍/チャージアックス/太刀/ランス",
+      "url": "https://youtu.be/-Ev3QvRl8I8?si",
+      "host": "youtu.be",
+      "source": "youtu.be",
+      "summary": "",
+      "publishedAt": "2026-09-17T01:00:11.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "70c5efddc6e3",
       "title": "「モンスターハンターワイルズ：アセンダンス」TGS2026出展バージョンを先行プレイ。新装備「ブーストブレイサー」を駆使し，噴衝鳥アラケータと炎王龍テオ・テスカトルに挑む",
       "url": "https://www.4gamer.net/games/013/G101399/20260916021/",
@@ -743,7 +824,7 @@
       "title": "『モンスターハンターワイルズ：アセンダンス』試遊レビュー！ 3つのクエストで新モンスターの狩猟に挑む！",
       "url": "https://blog.ja.playstation.com/2026/09/17/20260917-mhw-hands-on-preview-s/",
       "host": "blog.ja.playstation.com",
-      "source": "blog.ja.playstation.com",
+      "source": "PlayStation.Blog 日本語",
       "summary": "",
       "publishedAt": "2026-09-17T01:00:00.000Z",
       "image": "https://blog.ja.playstation.com/tachyon/sites/7/2026/09/a13c7cd992dcc52d8187c4a560d638fa27221faa.jpg",
@@ -764,52 +845,10 @@
       "title": "「モンスターハンターワイルズ：アセンダンス」新モンスター・アラケータ＆復活古龍のテオ・テスカトルに挑戦！新要素やブーストブレイサーの手触りもレポート【TGS2026】",
       "url": "https://www.gamer.ne.jp/news/202609170010/",
       "host": "gamer.ne.jp",
-      "source": "Gamer",
+      "source": "gamer.ne.jp",
       "summary": "",
       "publishedAt": "2026-09-17T01:00:00.000Z",
       "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e7eeeed8a48c",
-      "title": "『モンハンワイルズ：アセンダンス』ブーストブレイサーを使った新アクションが気持ちよすぎ！ 既存アクションにもうれしい新要素。テオ・テスカトルはあの大技も健在【TGS2026】",
-      "url": "https://www.famitsu.com/article/202609/88117",
-      "host": "famitsu.com",
-      "source": "famitsu.com",
-      "summary": "",
-      "publishedAt": "2026-09-17T01:00:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/88117/thumbnail_NYSb.jpg?x=1280",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "43bf3a4d6ad4",
-      "title": "『モンハンワイルズ：アセンダンス』先行レビュー：太刀・大剣・片手剣の新技を検証。 ブースト納刀からの相殺斬り【一閃】など、太刀のブーストアクションが気持ちよすぎる！",
-      "url": "https://dengekionline.com/article/202609/87935",
-      "host": "dengekionline.com",
-      "source": "電撃オンライン",
-      "summary": "",
-      "publishedAt": "2026-09-17T01:00:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/87935/ogp_QZtX.jpg?x=1280",
       "categories": [
         "other"
       ],
@@ -844,6 +883,48 @@
       "isNew": false
     },
     {
+      "id": "43bf3a4d6ad4",
+      "title": "『モンハンワイルズ：アセンダンス』先行レビュー：太刀・大剣・片手剣の新技を検証。 ブースト納刀からの相殺斬り【一閃】など、太刀のブーストアクションが気持ちよすぎる！",
+      "url": "https://dengekionline.com/article/202609/87935",
+      "host": "dengekionline.com",
+      "source": "電撃オンライン",
+      "summary": "",
+      "publishedAt": "2026-09-17T01:00:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/87935/ogp_QZtX.jpg?x=1280",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "e7eeeed8a48c",
+      "title": "『モンハンワイルズ：アセンダンス』ブーストブレイサーを使った新アクションが気持ちよすぎ！ 既存アクションにもうれしい新要素。テオ・テスカトルはあの大技も健在【TGS2026】",
+      "url": "https://www.famitsu.com/article/202609/88117",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-09-17T01:00:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/88117/thumbnail_NYSb.jpg?x=1280",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "0a5b25305f16",
       "title": "カプコン、『モンスターハンターワイルズ：アセンダンス』でテオ・テスカトルが登場！身だしなみチケットの仕様変更も発表",
       "url": "https://gamebiz.jp/news/432868",
@@ -862,7 +943,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "192742488c69",
@@ -890,7 +971,7 @@
       "title": "カプコンがモンハン新作拡張を発表、キャラ再編集を無料化",
       "url": "https://voix.jp/biz/news-analysis/178953/",
       "host": "voix.jp",
-      "source": "ニュースメディアVOIX",
+      "source": "voix.jp",
       "summary": "",
       "publishedAt": "2026-09-16T22:02:04.000Z",
       "image": "https://voix.jp/biz/wp-content/uploads/sites/3/2026/09/thumb_20260917070204.png",
@@ -912,7 +993,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-09-16T17:24:23.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1788423769",
       "categories": [
         "guide"
       ],
@@ -931,7 +1012,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-09-16T17:14:12.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574841.png?date=1788344689",
       "categories": [
         "other"
       ],
@@ -1070,14 +1151,14 @@
       "isNew": false
     },
     {
-      "id": "d9bc9d33738a",
-      "title": "『モンハンワイルズ：アセンダンス』に「テオ・テスカトル」が登場決定！ワールド・ライズと引き続きの参戦、「東京ゲームショウ2026」で討伐クエストに挑戦可能",
-      "url": "http://www.gamespark.jp/article/2026/09/17/172379.html",
-      "host": "gamespark.jp",
-      "source": "Game*Spark",
+      "id": "37598fdadf05",
+      "title": "『モンスターハンターワイルズ：アセンダンス』でテオ・テスカトルが登場！ 「カプコンスポットライト｜TGS 2026」で、『モンスターハンターワイルズ』関連の新情報が公開！",
+      "url": "https://prtimes.jp/main/html/rd/p/000006066.000013450.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
       "summary": "",
-      "publishedAt": "2026-09-16T15:06:27.000Z",
-      "image": "https://www.gamespark.jp/imgs/ogp_f/1192980.jpg",
+      "publishedAt": "2026-09-16T15:02:29.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/13450/6066/13450-6066-c0de08f96adb9e7a56d4cb946a5b4553-3840x2160.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "categories": [
         "other"
       ],
@@ -1085,10 +1166,10 @@
         "wilds"
       ],
       "isOfficial": false,
-      "isPR": false,
+      "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "ed81a324c94c",
@@ -1183,7 +1264,7 @@
       "source": "iyusuke.jp",
       "summary": "",
       "publishedAt": "2026-09-16T14:37:20.000Z",
-      "image": "",
+      "image": "https://iyusuke.jp/wp-content/uploads/2026/09/mhws-ascendance-12.webp",
       "categories": [
         "other"
       ],
@@ -1243,7 +1324,7 @@
       "title": "『モンハンワイルズ：アセンダンス』新映像公開。古龍テオ・テスカトルが復活、TGSのプレイアブル試遊でも挑める【カプコンスポットライト】",
       "url": "https://www.famitsu.com/article/202609/88220",
       "host": "famitsu.com",
-      "source": "famitsu.com",
+      "source": "ファミ通",
       "summary": "",
       "publishedAt": "2026-09-16T14:32:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/88220/thumbnail_pXCj.jpg?x=1280",
@@ -1285,7 +1366,7 @@
       "title": "『モンスターハンター アウトランダーズ』ルガ・エアルダと戦う新映像公開。ロボットのようなものに乗るオトモ（？）の姿も【カプコンスポットライト】",
       "url": "https://www.famitsu.com/article/202609/88242",
       "host": "famitsu.com",
-      "source": "famitsu.com",
+      "source": "ファミ通",
       "summary": "",
       "publishedAt": "2026-09-16T14:30:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/88242/thumbnail_toaE.jpg?x=1280",
@@ -1369,7 +1450,7 @@
       "title": "“カプコンスポットライト｜TGS 2026”まとめ。『モンハンワイルズ：アセンダンス』テオ復活や新作『ロックマン』ブルースの詳細、『スト6』C.ヴァイパー水着など盛りだくさん",
       "url": "https://www.famitsu.com/article/202609/88126",
       "host": "famitsu.com",
-      "source": "famitsu.com",
+      "source": "ファミ通",
       "summary": "",
       "publishedAt": "2026-09-16T11:00:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/88126/thumbnail_EepW.jpg?x=1280",
@@ -1393,7 +1474,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "All-new actions are coming to Monster Hunter Wilds: Ascendance, a massive expansion scheduled to release in 2027. Here's your first look at what's in store for…",
       "publishedAt": "2026-09-16T08:49:24.000Z",
-      "image": "https://clan.fastly.steamstatic.com/images/44795648/691d31874561e8e5fb63b9c20c8c8bd6eedd344c.png",
+      "image": "https://clan.akamai.steamstatic.com/images/44795648/691d31874561e8e5fb63b9c20c8c8bd6eedd344c.png",
       "categories": [
         "other"
       ],
@@ -1412,12 +1493,11 @@
       "url": "https://news.denfaminicogamer.jp/news/2609162t",
       "host": "news.denfaminicogamer.jp",
       "source": "電ファミニコゲーマー",
-      "summary": "エース（A）にはリオレウス、ティガレックス、ナルガクルガ、クシャルダオラが鋭い眼光でデザイン。9月17日より予約受付が開始",
-      "publishedAt": "2026-09-16T08:06:37.000Z",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/sub18-20-1024x1024.jpg",
+      "summary": "",
+      "publishedAt": "2026-09-16T08:06:00.000Z",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/sub18-20.jpg",
       "categories": [
-        "new",
-        "goods"
+        "new"
       ],
       "series": [],
       "isOfficial": false,
@@ -1471,7 +1551,7 @@
       "title": "「モンスターハンターワイルズ」季節イベント「交わりの祭事【夢灯の儀】」が開催！大集会所の装飾が一味違った妖しげな様子に変化",
       "url": "https://www.gamer.ne.jp/news/202609160018/",
       "host": "gamer.ne.jp",
-      "source": "Gamer",
+      "source": "gamer.ne.jp",
       "summary": "",
       "publishedAt": "2026-09-16T06:41:00.000Z",
       "image": "",
@@ -1713,7 +1793,7 @@
       "title": "『モンハンワイルズ：アセンダンス』太刀の紹介動画が公開。目にも止まらぬ連続斬りを披露。相殺からの追撃アクションもカッコいい",
       "url": "https://www.famitsu.com/article/202609/88018",
       "host": "famitsu.com",
-      "source": "famitsu.com",
+      "source": "ファミ通",
       "summary": "",
       "publishedAt": "2026-09-15T07:39:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/88018/thumbnail_wEyl.jpg?x=1280",
@@ -1730,6 +1810,27 @@
       "isNew": false
     },
     {
+      "id": "bb79066d8820",
+      "title": "『モンハンワイルズ：アセンダンス』更にスタイリッシュに進化する「太刀」！全武器種の新要素「ブーストブレイサー」紹介映像が出揃う（Game Spark）",
+      "url": "https://news.yahoo.co.jp/articles/ec0f8285638da7631d23ece8e4e6a3c9f31003cb",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-09-15T07:15:03.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260915-00000031-gamespav-000-1-view.jpg?exp=10800",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "c8dc7e1ce842",
       "title": "モンハンワイルズ：アセンダンス「ブーストブレイサー」新アクションまとめ｜武器種別に解説",
       "url": "https://iyusuke.jp/mhws-ascendance-boost-weapons/",
@@ -1737,7 +1838,7 @@
       "source": "iyusuke.jp",
       "summary": "",
       "publishedAt": "2026-09-15T07:00:00.000Z",
-      "image": "",
+      "image": "https://iyusuke.jp/wp-content/uploads/2026/09/mhws-boostblaser-1.webp",
       "categories": [
         "other"
       ],
@@ -1837,7 +1938,7 @@
       "title": "『モンスターハンター』巨戟龍ゴグマジオスがリアルな大型ソフビ製フィギュアとなって登場！あみあみで予約受付中！",
       "url": "https://hobby.dengeki.com/news/3161939/",
       "host": "hobby.dengeki.com",
-      "source": "hobby.dengeki.com",
+      "source": "電撃ホビーウェブ",
       "summary": "",
       "publishedAt": "2026-09-15T05:14:10.000Z",
       "image": "https://hobby.dengeki.com/ss/hobby/2026/09/469b052e3131133723f1851142a51ec0_H7cakvED1zwAEAkOa4Ey0cNKYaZjGJRc_s4oul-0kK-p_zo0yk6J_30peGsyLKimV.jpg",
@@ -1975,7 +2076,7 @@
       "title": "【東京ゲームショウ】『モンハンワイルズ』Switch2版が遊べる。カプコンブースの出展タイトル追加情報が公開",
       "url": "https://www.famitsu.com/article/202609/87854",
       "host": "famitsu.com",
-      "source": "famitsu.com",
+      "source": "ファミ通",
       "summary": "",
       "publishedAt": "2026-09-14T04:20:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/87854/thumbnail_gzZb.jpg?x=1280",
@@ -1996,7 +2097,7 @@
       "title": "「東京ゲームショウ2026」カプコンブース追加試遊情報公開！ モンハンワイルズやバイオハザードリメイクなど9月17日から体験可能",
       "url": "https://www.appbank.net/2026/09/14/game/3102275.php",
       "host": "appbank.net",
-      "source": "AppBank",
+      "source": "appbank.net",
       "summary": "",
       "publishedAt": "2026-09-14T03:00:53.000Z",
       "image": "https://www.appbank.net/wp-content/uploads/2026/09/20260912_065745_197_01.webp",
@@ -2020,7 +2121,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "The online program Capcom Spotlight | TGS 2026 will deliver the latest information on upcoming Capcom titles. The program will also feature news on Monster Hun…",
       "publishedAt": "2026-09-10T04:59:47.000Z",
-      "image": "https://clan.fastly.steamstatic.com/images/44795648/994c23dd9344ceb5a407d700196ef8fdba4dc2e4.png",
+      "image": "https://clan.akamai.steamstatic.com/images/44795648/994c23dd9344ceb5a407d700196ef8fdba4dc2e4.png",
       "categories": [
         "other"
       ],
