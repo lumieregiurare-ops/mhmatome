@@ -97,7 +97,6 @@
           <div class="sec-head">
             <h2 class="sec-title">新着ニュース</h2>
             <div class="feed-tools">
-              <label class="toggle"><input type="checkbox" id="hidePR"><span>プレスリリースを除く</span></label>
               <div class="seg" id="sortSeg" role="group" aria-label="並び順">
                 <button type="button" data-sort="new" class="active">新着順</button>
                 <button type="button" data-sort="shuffle">おまかせ</button>
@@ -133,6 +132,13 @@
           <p class="mod-desc">まだ読んでいない記事から 1 本引きます。</p>
           <div id="gachaBody"></div>
           <button class="mod-btn" id="gachaAgain" type="button">もう一度引く</button>
+        </section>
+
+        <section class="mod" id="otherMod" hidden>
+          <h2 class="mod-head"><span class="mod-icon" aria-hidden="true">◆</span>その他のニュース</h2>
+          <p class="mod-desc">モンハン以外のゲームニュースです。</p>
+          <ul class="other-list" id="otherList"></ul>
+          <a class="mod-link" href="other.html">もっと見る</a>
         </section>
 
       </aside>
