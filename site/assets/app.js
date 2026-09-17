@@ -479,8 +479,7 @@
       const el = document.getElementById(id);
       if (el) el.hidden = true;
     }
-    $(".side-left").hidden = true;
-    $(".side-right").hidden = true;
+    $(".side-left").classList.add("fav-hide");
     $("#favView").hidden = false;
     renderFavView();
     document.title = `あとで読む｜${BASE_TITLE}`;
@@ -491,8 +490,7 @@
     $("#favView").hidden = true;
     $("#topicsSection").hidden = !(data?.topics?.length);
     $("#feedSection").hidden = false;
-    $(".side-left").hidden = false;
-    $(".side-right").hidden = false;
+    $(".side-left").classList.remove("fav-hide");
     document.title = BASE_TITLE;
   }
   function syncFavView() {
