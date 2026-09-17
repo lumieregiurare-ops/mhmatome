@@ -372,16 +372,6 @@
       cl.appendChild(b);
     }
 
-    const sl = $("#seriesList");
-    sl.innerHTML = "";
-    const max = Math.max(1, ...data.series.map((s) => s.count));
-    for (const s of data.series) {
-      const li = document.createElement("li");
-      li.innerHTML = `<div class="bar-row"><span>${s.label}</span><span class="c">${s.count}</span></div>
-        <div class="bar"><span style="width:${Math.round((s.count / max) * 100)}%"></span></div>`;
-      sl.appendChild(li);
-    }
-
     const srcs = $("#srcList");
     srcs.innerHTML = "";
     for (const s of data.sources.slice(0, 12)) {
@@ -457,25 +447,6 @@
     box.appendChild(a);
   }
 
-  function renderOfficial() {
-    const list = data.items.filter((it) => it.isOfficial).slice(0, 5);
-    if (!list.length) return;
-    $("#officialMod").hidden = false;
-    const box = $("#officialList");
-    box.innerHTML = "";
-    for (const it of list) {
-      const li = document.createElement("li");
-      const a = document.createElement("a");
-      a.href = it.url;
-      a.target = "_blank";
-      a.rel = "noopener noreferrer";
-      a.innerHTML = `<span class="src">${it.source}</span>${it.title}`;
-      a.addEventListener("click", () => markRead(it.id));
-      li.appendChild(a);
-      box.appendChild(li);
-    }
-  }
-
   function updateFavCount() {
     const el = $("#favCount");
     el.hidden = fav.length === 0;
@@ -508,6 +479,8 @@
       const el = document.getElementById(id);
       if (el) el.hidden = true;
     }
+    $(".side-left").hidden = true;
+    $(".side-right").hidden = true;
     $("#favView").hidden = false;
     renderFavView();
     document.title = `あとで読む｜${BASE_TITLE}`;
@@ -518,6 +491,8 @@
     $("#favView").hidden = true;
     $("#topicsSection").hidden = !(data?.topics?.length);
     $("#feedSection").hidden = false;
+    $(".side-left").hidden = false;
+    $(".side-right").hidden = false;
     document.title = BASE_TITLE;
   }
   function syncFavView() {
@@ -561,7 +536,6 @@
     renderTopics();
     renderList();
     renderGacha();
-    renderOfficial();
     updateFavCount();
     syncFavView();
   }

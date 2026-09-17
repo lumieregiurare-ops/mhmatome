@@ -289,11 +289,6 @@ main.wrap {
   background: linear-gradient(180deg, #fffdf6, var(--amber-soft));
 }
 
-.mod-official {
-  border-color: var(--sky);
-  background: linear-gradient(180deg, #fafdff, var(--sky-soft));
-}
-
 /* カテゴリの絞り込み */
 .cat-list {
   display: flex;
@@ -328,44 +323,6 @@ main.wrap {
   margin-left: 4px;
   font-size: 10.5px;
   opacity: .8;
-}
-
-/* シリーズ別の横棒 */
-.bar-list {
-  margin-top: 8px;
-  display: flex;
-  flex-direction: column;
-  gap: 6px;
-}
-
-.bar-list li {
-  font-size: 12px;
-}
-
-.bar-row {
-  display: flex;
-  justify-content: space-between;
-  gap: 8px;
-}
-
-.bar-row .c {
-  color: var(--ink-muted);
-  font-variant-numeric: tabular-nums;
-}
-
-.bar {
-  margin-top: 2px;
-  height: 6px;
-  border-radius: 999px;
-  background: var(--bg-2);
-  overflow: hidden;
-}
-
-.bar span {
-  display: block;
-  height: 100%;
-  border-radius: 999px;
-  background: linear-gradient(90deg, var(--amber), var(--ember));
 }
 
 /* よく出ている語 */
@@ -441,31 +398,6 @@ main.wrap {
   font-weight: 700;
   line-height: 1.5;
   margin-top: 2px;
-}
-
-/* 公式アナウンス */
-.official-list {
-  margin-top: 8px;
-  display: flex;
-  flex-direction: column;
-  gap: 7px;
-}
-
-.official-list a {
-  display: block;
-  font-size: 12px;
-  font-weight: 500;
-  line-height: 1.5;
-}
-
-.official-list a:hover {
-  color: var(--sky);
-}
-
-.official-list .src {
-  display: block;
-  font-size: 10.5px;
-  color: var(--ink-muted);
 }
 
 /* ---------- サムネイル ---------- */
