@@ -1,4 +1,4 @@
-# 狩猟速報（モンハン関連ニュースまとめ）
+# モンハン速報（モンハン関連ニュースまとめ）
 
 モンスターハンター関連のニュースを集めてまとめる静的サイトです。`docs/` がサイトルートで、そのままロリポップ（FTP）に置いて公開できます。
 
@@ -116,7 +116,7 @@ curl -X POST -H "Accept: application/vnd.github+json" -H "Authorization: Bearer 
 
 ## サイト名について
 
-「狩猟速報」を仮の名前にしています。商標を名前に含めないためですが、変える場合は `config.json` の `site.title`、`site/index.html` の `<title>`・ロゴ・OGP・フッターを直してください（ドメインは変更不要です）。
+サイト名は「モンハン速報」です。変える場合は `config.json` の `site.title`、`site/index.html` の `<title>`・ロゴ・OGP・フッターを直してください（ドメインは変更不要です）。
 
 ## 収集元を増やすには
 
