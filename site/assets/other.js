@@ -2,15 +2,69 @@
   const $ = (s) => document.querySelector(s);
   const PAGE_SIZE = 20;
   const SPIN_MS = 280;
+  const READ_KEY = "mh:read";
 
-  let items = [];
-  let page = 1;
+  const store = {
+    get(key, fallback) {
+      try {
+        const v = JSON.parse(localStorage.getItem(key) || "null");
+        return v === null ? fallback : v;
+      } catch {
+        return fallback;
+      }
+    },
+    set(key, value) {
+      try {
+        localStorage.setItem(key, JSON.stringify(value));
+      } catch {
+        /* プライベートモードなどでは保存しない */
+      }
+    },
+  };
 
-  function hhmm(iso) {
-    const d = new Date(iso);
-    return `${String(d.getHours()).padStart(2, "0")}:${String(d.getMinutes()).padStart(2, "0")}`;
+  let read = store.get(READ_KEY, []);
+  function markRead(id) {
+    if (read.includes(id)) return;
+    read = [id, ...read].slice(0, 400);
+    store.set(READ_KEY, read);
   }
 
+  // ---------- サムネイル ----------
+  const CAT_EMOJI = {
+    new: "✨", update: "🛠️", event: "🎪", collab: "🤝", goods: "🎁",
+    media: "🎬", guide: "📖", sale: "🏷️", community: "🎮", sales: "📈", other: "📰",
+  };
+  function hashHue(str) {
+    let h = 0;
+    for (let i = 0; i < str.length; i++) h = (h * 31 + str.charCodeAt(i)) >>> 0;
+    return h % 360;
+  }
+  function applyPlaceholder(box, seed, glyph) {
+    const hue = hashHue(seed);
+    box.classList.add("thumb-ph");
+    box.style.background = `linear-gradient(135deg, hsl(${hue} 68% 62%), hsl(${(hue + 46) % 360} 68% 46%))`;
+    box.textContent = glyph;
+  }
+  function thumbNode(url, seed, glyph, className) {
+    const box = document.createElement("div");
+    box.className = className;
+    if (url) {
+      const img = document.createElement("img");
+      img.src = url;
+      img.alt = "";
+      img.loading = "lazy";
+      img.decoding = "async";
+      img.referrerPolicy = "no-referrer";
+      img.addEventListener("error", () => {
+        img.remove();
+        applyPlaceholder(box, seed, glyph);
+      });
+      box.appendChild(img);
+    } else {
+      applyPlaceholder(box, seed, glyph);
+    }
+    return box;
+  }
   function spinnerNode() {
     const sp = document.createElement("span");
     sp.className = "spinner";
@@ -18,6 +72,60 @@
     sp.setAttribute("aria-label", "読み込み中");
     return sp;
   }
+  function swapWithSpinner(box, render, { min = 76, max = 260 } = {}) {
+    const h = Math.min(max, Math.max(min, box.offsetHeight || 0));
+    box.style.minHeight = `${h}px`;
+    box.classList.add("is-loading");
+    box.innerHTML = "";
+    box.appendChild(spinnerNode());
+    setTimeout(() => {
+      render();
+      box.classList.remove("is-loading");
+      box.style.minHeight = "";
+    }, SPIN_MS);
+  }
+  function hhmm(iso) {
+    const d = new Date(iso);
+    return `${String(d.getHours()).padStart(2, "0")}:${String(d.getMinutes()).padStart(2, "0")}`;
+  }
+
+  // ---------- ニュースガチャ ----------
+  let newsData = null;
+  let gachaId = "";
+  function renderGacha() {
+    const box = $("#gachaBody");
+    if (!newsData) return;
+    const pool = newsData.items.filter((it) => !it.isPR);
+    box.innerHTML = "";
+    if (!pool.length) return;
+    const unread = pool.filter((it) => !read.includes(it.id) && it.id !== gachaId);
+    const from = unread.length ? unread : pool.filter((it) => it.id !== gachaId);
+    const it = (from.length ? from : pool)[Math.floor(Math.random() * (from.length || pool.length))];
+    gachaId = it.id;
+
+    const a = document.createElement("a");
+    a.className = "gacha-item";
+    a.href = it.url;
+    a.target = "_blank";
+    a.rel = "noopener noreferrer";
+    a.addEventListener("click", () => markRead(it.id));
+    const thumb = thumbNode(it.image, it.title, CAT_EMOJI[it.categories[0]] || CAT_EMOJI.other, "gacha-thumb");
+    const info = document.createElement("div");
+    info.className = "gacha-info";
+    const meta = document.createElement("div");
+    meta.className = "gacha-meta";
+    meta.textContent = `${it.source} ・ ${hhmm(it.publishedAt)}`;
+    const t = document.createElement("div");
+    t.className = "gacha-title";
+    t.textContent = it.title;
+    info.append(meta, t);
+    a.append(thumb, info);
+    box.appendChild(a);
+  }
+
+  // ---------- その他のニュース一覧（ページネーション） ----------
+  let items = [];
+  let page = 1;
 
   function totalPages() {
     return Math.max(1, Math.ceil(items.length / PAGE_SIZE));
@@ -118,6 +226,7 @@
 
   async function boot() {
     $("#year").textContent = new Date().getFullYear();
+
     try {
       const r = await fetch(`data/other.json?t=${Math.floor(Date.now() / 300000)}`);
       const data = await r.json();
@@ -125,11 +234,21 @@
     } catch {
       $("#otherBody").innerHTML = "";
       $("#empty").hidden = false;
-      return;
     }
     renderList();
     renderPagination();
+
+    try {
+      const r = await fetch(`data/news.json?t=${Math.floor(Date.now() / 300000)}`);
+      newsData = await r.json();
+    } catch {
+      $("#gachaBody").innerHTML = `<p class="mod-desc">読み込めませんでした。</p>`;
+      return;
+    }
+    renderGacha();
   }
+
+  $("#gachaAgain").addEventListener("click", () => swapWithSpinner($("#gachaBody"), renderGacha));
 
   boot();
 })();
