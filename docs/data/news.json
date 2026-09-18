@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T09:00:19.409Z",
+  "updatedAt": "2026-09-18T09:30:52.775Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -12,7 +12,7 @@
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 11
+      "count": 10
     },
     {
       "id": "update",
@@ -32,7 +32,7 @@
     {
       "id": "goods",
       "label": "グッズ・フィギュア",
-      "count": 3
+      "count": 2
     },
     {
       "id": "media",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 49
+      "count": 50
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 48
+      "count": 49
     },
     {
       "id": "rise",
@@ -107,7 +107,7 @@
       "count": 6
     },
     {
-      "name": "inside-games.jp",
+      "name": "インサイド",
       "count": 5
     },
     {
@@ -123,8 +123,8 @@
       "count": 4
     },
     {
-      "name": "Game*Spark",
-      "count": 4
+      "name": "prtimes.jp",
+      "count": 3
     },
     {
       "name": "ワイルズ公式（Steam）",
@@ -132,6 +132,10 @@
     },
     {
       "name": "4Gamer.net",
+      "count": 3
+    },
+    {
+      "name": "Game*Spark",
       "count": 3
     },
     {
@@ -151,10 +155,6 @@
       "count": 2
     },
     {
-      "name": "PR TIMES",
-      "count": 2
-    },
-    {
       "name": "GAME Watch",
       "count": 2
     },
@@ -163,19 +163,19 @@
       "count": 2
     },
     {
-      "name": "時事ドットコム",
-      "count": 1
-    },
-    {
       "name": "IGN Japan",
       "count": 1
     },
     {
-      "name": "AERA DIGITAL",
+      "name": "dot.asahi.com",
       "count": 1
     },
     {
-      "name": "Dtimes",
+      "name": "게임메카",
+      "count": 1
+    },
+    {
+      "name": "dtimes.jp",
       "count": 1
     },
     {
@@ -220,8 +220,8 @@
       "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260916-468122-header.jpg",
       "leadSource": "AUTOMATON",
       "publishedAt": "2026-09-18T00:09:47.000Z",
-      "sourceCount": 11,
-      "articleCount": 16,
+      "sourceCount": 12,
+      "articleCount": 17,
       "categories": [
         "other",
         "new"
@@ -235,14 +235,21 @@
         {
           "title": "『モンスターハンターワイルズ：アセンダンス』でテオ・テスカトルが登場！ 「カプコンスポットライト｜TGS 2026」で、『モンスターハンターワイルズ』関連の新情報が公開！",
           "url": "https://dot.asahi.com/articles/photo/293004",
-          "source": "AERA DIGITAL",
+          "source": "dot.asahi.com",
           "publishedAt": "2026-09-18T00:09:47.000Z",
+          "isPR": false
+        },
+        {
+          "title": "[TGS 26] 久しぶりにテオと遊びました、モンスターハンターワイルズ アセンダンス",
+          "url": "https://www.gamemeca.com/ja/view.php?gid",
+          "source": "게임메카",
+          "publishedAt": "2026-09-17T13:59:58.000Z",
           "isPR": false
         },
         {
           "title": "古龍「テオ・テスカトル」の登場が決定！カプコン「モンスターハンターワイルズ：アセンダンス」",
           "url": "https://dtimes.jp/post-1381488/",
-          "source": "Dtimes",
+          "source": "dtimes.jp",
           "publishedAt": "2026-09-17T11:41:30.000Z",
           "isPR": false
         },
@@ -279,13 +286,6 @@
           "url": "https://gamebiz.jp/news/432868",
           "source": "gamebiz【ゲームビズ】",
           "publishedAt": "2026-09-17T00:50:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『モンハンワイルズ：アセンダンス』でキャラクリが仕様変更！身だしなみチケット撤廃、無料で何度でも再編集可能に - inside-games.jp",
-          "url": "https://www.inside-games.jp/article/2026/09/17/187854.html",
-          "source": "inside-games.jp",
-          "publishedAt": "2026-09-16T15:40:08.000Z",
           "isPR": false
         }
       ]
@@ -567,20 +567,20 @@
         {
           "title": "『モンスターハンターワイルズ』にて、季節イベント「交わりの祭事【夢灯の儀】」を2026年9月16日（水）～11月4日（水）まで開催中！",
           "url": "https://prtimes.jp/main/html/rd/p/000006052.000013450.html",
-          "source": "PR TIMES",
+          "source": "prtimes.jp",
           "publishedAt": "2026-09-16T00:48:30.000Z",
-          "isPR": true
+          "isPR": false
         }
       ]
     }
   ],
   "churn": {
-    "previousAt": "2026-09-18T08:30:15.954Z",
+    "previousAt": "2026-09-18T09:00:19.409Z",
     "previousCount": 71,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-18T09:30:19.409Z",
+  "nextUpdateAt": "2026-09-18T10:00:52.775Z",
   "items": [
     {
       "id": "0566cafbce90",
@@ -614,26 +614,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1788423769",
       "categories": [
         "guide"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "c583e5a48af9",
-      "title": "『モンスターハンターオーケストラコンサート～狩猟音楽祭2026～』ライブ録音アルバム、11月11日（水）発売決定！",
-      "url": "https://www.jiji.com/jc/article?k",
-      "host": "jiji.com",
-      "source": "時事ドットコム",
-      "summary": "",
-      "publishedAt": "2026-09-18T04:45:00.000Z",
-      "image": "",
-      "categories": [
-        "media",
-        "new"
       ],
       "series": [],
       "isOfficial": false,
@@ -681,6 +661,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "c1df38f8e960",
+      "title": "『モンスターハンターオーケストラコンサート〜狩猟音楽祭2026〜』ライブ録音アルバム、11月11日（水）発売決定！",
+      "url": "https://prtimes.jp/main/html/rd/p/000000009.000088797.html",
+      "host": "prtimes.jp",
+      "source": "prtimes.jp",
+      "summary": "",
+      "publishedAt": "2026-09-18T03:00:02.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/88797/9/88797-9-4b871aef93fe1e16cb55e3c596a47b3f-1500x1500.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "media",
+        "new"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "3cc04d1f9afe",
@@ -748,7 +748,7 @@
       "title": "『モンスターハンターワイルズ：アセンダンス』でテオ・テスカトルが登場！ 「カプコンスポットライト｜TGS 2026」で、『モンスターハンターワイルズ』関連の新情報が公開！",
       "url": "https://dot.asahi.com/articles/photo/293004",
       "host": "dot.asahi.com",
-      "source": "AERA DIGITAL",
+      "source": "dot.asahi.com",
       "summary": "",
       "publishedAt": "2026-09-18T00:09:47.000Z",
       "image": "https://aeradot.ismcdn.jp/mwimgs/7/2/1200xm/img_727fd2da6c780336295357254ed2a8dd120357.jpg",
@@ -786,6 +786,27 @@
       "isNew": false
     },
     {
+      "id": "2c3a5c490b91",
+      "title": "[TGS 26] 久しぶりにテオと遊びました、モンスターハンターワイルズ アセンダンス",
+      "url": "https://www.gamemeca.com/ja/view.php?gid",
+      "host": "gamemeca.com",
+      "source": "게임메카",
+      "summary": "",
+      "publishedAt": "2026-09-17T13:59:58.000Z",
+      "image": "https://cdn.gamemeca.com/g17/images/common/meca_logo_sns.gif",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "46ab930cbc6c",
       "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/563077",
@@ -811,7 +832,7 @@
       "title": "古龍「テオ・テスカトル」の登場が決定！カプコン「モンスターハンターワイルズ：アセンダンス」",
       "url": "https://dtimes.jp/post-1381488/",
       "host": "dtimes.jp",
-      "source": "Dtimes",
+      "source": "dtimes.jp",
       "summary": "",
       "publishedAt": "2026-09-17T11:41:30.000Z",
       "image": "https://dtimes.jp/wp-content/uploads/2026/09/13450-6066-bfae6b39e21ba56816ef407148c22ace-3840x2160-20260917-d77148.jpg",
@@ -997,7 +1018,7 @@
       "title": "『モンスターハンターパズル アイルーアイランド』 協力イベント「【復刻】みんなで秘境探索！＜プケぐるみ＞」を開催！",
       "url": "https://prtimes.jp/main/html/rd/p/000006055.000013450.html",
       "host": "prtimes.jp",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "summary": "",
       "publishedAt": "2026-09-17T04:00:01.000Z",
       "image": "https://prcdn.freetls.fastly.net/release_image/13450/6055/13450-6055-6f2e8e1cd91b542de3369dd940acfb4f-1200x1200.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
@@ -1006,7 +1027,7 @@
       ],
       "series": [],
       "isOfficial": false,
-      "isPR": true,
+      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -1053,10 +1074,10 @@
     },
     {
       "id": "ee83ac985b84",
-      "title": "『モンハンワイルズ：アセンダンス』各武器種ごとの新アクション早見表が公開！技の特徴や操作方法が一目で分かる - inside-games.jp",
+      "title": "『モンハンワイルズ：アセンダンス』各武器種ごとの新アクション早見表が公開！技の特徴や操作方法が一目で分かる",
       "url": "https://www.inside-games.jp/article/2026/09/17/187880.html",
       "host": "inside-games.jp",
-      "source": "inside-games.jp",
+      "source": "インサイド",
       "summary": "",
       "publishedAt": "2026-09-17T03:15:02.000Z",
       "image": "https://www.inside-games.jp/imgs/ogp_f/1781711.jpg",
@@ -1137,10 +1158,10 @@
     },
     {
       "id": "dac77c965efb",
-      "title": "『モンスターハンターワイルズ』スイッチ2版のグラフィック設定を確認―「品質優先／フレームレート優先」の切り替えと「30fps固定」の項目が - inside-games.jp",
+      "title": "『モンスターハンターワイルズ』スイッチ2版のグラフィック設定を確認―「品質優先／フレームレート優先」の切り替えと「30fps固定」の項目が",
       "url": "https://www.inside-games.jp/article/2026/09/17/187865.html",
       "host": "inside-games.jp",
-      "source": "inside-games.jp",
+      "source": "インサイド",
       "summary": "",
       "publishedAt": "2026-09-17T01:00:07.000Z",
       "image": "https://www.inside-games.jp/imgs/ogp_f/1780935.jpg",
@@ -1158,10 +1179,10 @@
     },
     {
       "id": "4b0c0f587cdb",
-      "title": "『モンハンワイルズ：アセンダンス』インプレッション―新アクションはドーパミンドパドパ、セクレト武器切り替え爆速、テオ・テスカトルと久々再会 - inside-games.jp",
+      "title": "『モンハンワイルズ：アセンダンス』インプレッション―新アクションはドーパミンドパドパ、セクレト武器切り替え爆速、テオ・テスカトルと久々再会",
       "url": "https://www.inside-games.jp/article/2026/09/17/187864.html",
       "host": "inside-games.jp",
-      "source": "inside-games.jp",
+      "source": "インサイド",
       "summary": "",
       "publishedAt": "2026-09-17T01:00:03.000Z",
       "image": "https://www.inside-games.jp/imgs/ogp_f/1780956.jpg",
@@ -1404,7 +1425,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d605748fb698",
@@ -1450,10 +1471,10 @@
     },
     {
       "id": "e362926ada62",
-      "title": "『モンハンワイルズ：アセンダンス』でキャラクリが仕様変更！身だしなみチケット撤廃、無料で何度でも再編集可能に - inside-games.jp",
+      "title": "『モンハンワイルズ：アセンダンス』でキャラクリが仕様変更！身だしなみチケット撤廃、無料で何度でも再編集可能に",
       "url": "https://www.inside-games.jp/article/2026/09/17/187854.html",
       "host": "inside-games.jp",
-      "source": "inside-games.jp",
+      "source": "インサイド",
       "summary": "",
       "publishedAt": "2026-09-16T15:40:08.000Z",
       "image": "https://www.inside-games.jp/imgs/ogp_f/1781487.jpg",
@@ -1492,10 +1513,10 @@
     },
     {
       "id": "5e6e47f8c66c",
-      "title": "『アサクリ』トランプに“隠し刃”が搭載されている！？『モンハン』や『ブラボ』など人気ゲームの公式ライセンストランプ全20種が9月17日より予約開始 - inside-games.jp",
+      "title": "『アサクリ』トランプに“隠し刃”が搭載されている！？『モンハン』や『ブラボ』など人気ゲームの公式ライセンストランプ全20種が9月17日より予約開始",
       "url": "https://www.inside-games.jp/article/2026/09/17/187852.html",
       "host": "inside-games.jp",
-      "source": "inside-games.jp",
+      "source": "インサイド",
       "summary": "",
       "publishedAt": "2026-09-16T15:15:02.000Z",
       "image": "https://www.inside-games.jp/imgs/ogp_f/1781247.jpg",
@@ -1949,7 +1970,7 @@
       "title": "『モンスターハンターワイルズ』にて、季節イベント「交わりの祭事【夢灯の儀】」を2026年9月16日（水）～11月4日（水）まで開催中！",
       "url": "https://prtimes.jp/main/html/rd/p/000006052.000013450.html",
       "host": "prtimes.jp",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "summary": "",
       "publishedAt": "2026-09-16T00:48:30.000Z",
       "image": "https://prcdn.freetls.fastly.net/release_image/13450/6052/13450-6052-50f561df14d49fc24a44a41321e7f579-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
@@ -1960,7 +1981,7 @@
         "wilds"
       ],
       "isOfficial": false,
-      "isPR": true,
+      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -2025,26 +2046,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "3e05829b5521",
-      "title": "『モンハン』“超大型”テーマの新フィギュアシリーズ始動！第1弾として「ゴグマジオス」が巨大ソフビ化",
-      "url": "https://www.gamespark.jp/article/2026/09/15/172300.html",
-      "host": "gamespark.jp",
-      "source": "Game*Spark",
-      "summary": "",
-      "publishedAt": "2026-09-15T09:15:03.000Z",
-      "image": "https://www.gamespark.jp/imgs/ogp_f/1192208.jpg",
-      "categories": [
-        "new",
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     }
   ]
 }
