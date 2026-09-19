@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-19T22:00:14.197Z",
+  "updatedAt": "2026-09-19T22:30:14.103Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 84,
+  "total": 83,
   "todayCount": 1,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 9
+      "count": 8
     },
     {
       "id": "sale",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 56
+      "count": 55
     },
     {
       "id": "rise",
@@ -100,15 +100,11 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 23
+      "count": 22
     },
     {
       "name": "電ファミニコゲーマー",
       "count": 6
-    },
-    {
-      "name": "GAME Watch",
-      "count": 5
     },
     {
       "name": "ファミ通",
@@ -135,15 +131,19 @@
       "count": 3
     },
     {
-      "name": "PR TIMES",
+      "name": "GAME Watch",
       "count": 3
     },
     {
-      "name": "インサイド",
+      "name": "prtimes.jp",
       "count": 3
     },
     {
-      "name": "dengekionline.com",
+      "name": "inside-games.jp",
+      "count": 3
+    },
+    {
+      "name": "電撃オンライン",
       "count": 2
     },
     {
@@ -151,7 +151,7 @@
       "count": 2
     },
     {
-      "name": "ASCII.jp",
+      "name": "ascii.jp",
       "count": 2
     },
     {
@@ -160,6 +160,10 @@
     },
     {
       "name": "Saiga NAK",
+      "count": 2
+    },
+    {
+      "name": "game.watch.impress.co.jp",
       "count": 2
     },
     {
@@ -175,7 +179,7 @@
       "count": 1
     },
     {
-      "name": "日経クロストレンド",
+      "name": "xtrend.nikkei.com",
       "count": 1
     },
     {
@@ -199,15 +203,15 @@
       "count": 1
     },
     {
+      "name": "キャラグー",
+      "count": 1
+    },
+    {
       "name": "PlayStation.Blog 日本語",
       "count": 1
     },
     {
       "name": "4Gamer.net",
-      "count": 1
-    },
-    {
-      "name": "ニュースメディアVOIX",
       "count": 1
     }
   ],
@@ -220,8 +224,8 @@
       "image": "https://www.4gamer.net/games/013/G101399/20260919040/SS/011.jpg",
       "leadSource": "4Gamer",
       "publishedAt": "2026-09-19T06:59:18.000Z",
-      "sourceCount": 8,
-      "articleCount": 12,
+      "sourceCount": 7,
+      "articleCount": 11,
       "categories": [
         "other",
         "new"
@@ -275,17 +279,17 @@
           "isPR": false
         },
         {
-          "title": "東京ゲームショウで『モンハンワイルズ：アセンダンス』を試遊―整理券はビジネスデイでも1時間以内に終了、巨大ディスプレイは一見の価値あり【TGS2026】",
-          "url": "https://www.inside-games.jp/article/2026/09/18/187985.html",
-          "source": "インサイド",
-          "publishedAt": "2026-09-18T14:35:03.000Z",
-          "isPR": false
-        },
-        {
           "title": "「モンハンワイルズ：アセンダンス」を世界初試遊出展！等身大ザンギエフや「バイオ」シューティングレンジも登場するカプコンブースを紹介【TGS2026】",
           "url": "https://www.gamer.ne.jp/news/202609180059/",
           "source": "Gamer",
           "publishedAt": "2026-09-18T14:09:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "カプコンブースは裏手に回れ！ Switch 2版『モンハンワイルズ』を遊びつつモンスターの“実物サイズ”に圧倒",
+          "url": "https://ascii.jp/elem/000/004/436/4436376/",
+          "source": "ascii.jp",
+          "publishedAt": "2026-09-18T07:35:00.000Z",
           "isPR": false
         }
       ]
@@ -334,7 +338,7 @@
         {
           "title": "「モンハンワイルズ：アセンダンス」先行レポート！アラケータとテオ・テスカトルに新アクションで挑む【TGS2026】",
           "url": "https://game.watch.impress.co.jp/docs/preview/2140981.html",
-          "source": "GAME Watch",
+          "source": "game.watch.impress.co.jp",
           "publishedAt": "2026-09-17T01:00:00.000Z",
           "isPR": false
         },
@@ -363,7 +367,7 @@
       "leadSource": "AUTOMATON",
       "publishedAt": "2026-09-19T19:33:45.000Z",
       "sourceCount": 4,
-      "articleCount": 10,
+      "articleCount": 8,
       "categories": [
         "other",
         "guide"
@@ -422,13 +426,6 @@
           "source": "AppBank",
           "publishedAt": "2026-09-19T03:40:47.000Z",
           "isPR": false
-        },
-        {
-          "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/575038",
-          "source": "GameWith",
-          "publishedAt": "2026-09-18T22:25:22.000Z",
-          "isPR": false
         }
       ]
     },
@@ -459,9 +456,9 @@
           "isPR": false
         },
         {
-          "title": "『モンハンワイルズ：アセンダンス』開発者インタビュー―目指したのは「ワイルズの正統進化」、ブーストブレイサーは“チャンスメイクの新しい手段”、ラオシャンロンは「結構進化する」【TGS2026】",
+          "title": "『モンハンワイルズ：アセンダンス』開発者インタビュー―目指したのは「ワイルズの正統進化」、ブーストブレイサーは“チャンスメイクの新しい手段”、ラオシャンロンは「結構進化する」【TGS2026】 - inside-games.jp",
           "url": "https://www.inside-games.jp/article/2026/09/19/187988.html",
-          "source": "インサイド",
+          "source": "inside-games.jp",
           "publishedAt": "2026-09-18T15:05:02.000Z",
           "isPR": false
         }
@@ -531,8 +528,43 @@
         {
           "title": "モンハン、FF、エスコン8……注目作だらけで整理券が消えた!? SIEブースの人気がすごい【TGS2026特集】",
           "url": "https://ascii.jp/elem/000/004/435/4435699/",
-          "source": "ASCII.jp",
+          "source": "ascii.jp",
           "publishedAt": "2026-09-17T03:20:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "2b6838ba0a24",
+      "title": "『モンハンワイルズ：アセンダンス』が世界初プレイアブル出展。『プラグマタ』ディアナ等身大像、1/1スケール“ロックバスター”等展示も充実したカプコンブースレポート【TGS2026】",
+      "summary": "",
+      "url": "https://dengekionline.com/article/202609/88331",
+      "image": "https://cimg.kgl-systems.io/camion/files/88331/ogp_Afwz.jpg?x=1280",
+      "leadSource": "電撃オンライン",
+      "publishedAt": "2026-09-18T03:42:00.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "モンハンワイルズ",
+        "カプコン",
+        "tgs2026"
+      ],
+      "articles": [
+        {
+          "title": "【アセンダンス】カプコンスポットライトの最新情報まとめ｜TGS2026【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/576752",
+          "source": "GameWith",
+          "publishedAt": "2026-09-17T02:37:12.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「東京ゲームショウ」カプコンブースで「モンハンワイルズ」の展示や「プラグマタ」ディアナの等身大立像をチェック【TGS2026】",
+          "url": "https://game.watch.impress.co.jp/docs/news/2141674.html",
+          "source": "game.watch.impress.co.jp",
+          "publishedAt": "2026-09-17T02:29:10.000Z",
           "isPR": false
         }
       ]
@@ -559,7 +591,7 @@
         {
           "title": "『モンハンワイルズ：アセンダンス』フルフル登場決定。視力を持たない特異な性質を持つ奇怪竜",
           "url": "https://dengekionline.com/article/202609/88655",
-          "source": "dengekionline.com",
+          "source": "電撃オンライン",
           "publishedAt": "2026-09-19T11:26:00.000Z",
           "isPR": false
         }
@@ -590,34 +622,6 @@
           "url": "https://www.appbank.net/2026/09/17/iphone-news/3107727.php",
           "source": "AppBank",
           "publishedAt": "2026-09-17T09:35:39.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "2b6838ba0a24",
-      "title": "『モンハンワイルズ：アセンダンス』が世界初プレイアブル出展。『プラグマタ』ディアナ等身大像、1/1スケール“ロックバスター”等展示も充実したカプコンブースレポート【TGS2026】",
-      "summary": "",
-      "url": "https://dengekionline.com/article/202609/88331",
-      "image": "https://cimg.kgl-systems.io/camion/files/88331/ogp_Afwz.jpg?x=1280",
-      "leadSource": "dengekionline.com",
-      "publishedAt": "2026-09-18T03:42:00.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other"
-      ],
-      "keywords": [
-        "モンハンワイルズ",
-        "カプコン",
-        "tgs2026"
-      ],
-      "articles": [
-        {
-          "title": "「東京ゲームショウ」カプコンブースで「モンハンワイルズ」の展示や「プラグマタ」ディアナの等身大立像をチェック【TGS2026】",
-          "url": "https://game.watch.impress.co.jp/docs/news/2141674.html",
-          "source": "GAME Watch",
-          "publishedAt": "2026-09-17T02:29:10.000Z",
           "isPR": false
         }
       ]
@@ -680,12 +684,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-19T21:30:14.083Z",
-    "previousCount": 85,
-    "newCount": 3
+    "previousAt": "2026-09-19T22:00:14.197Z",
+    "previousCount": 84,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-19T22:30:14.197Z",
+  "nextUpdateAt": "2026-09-19T23:00:14.103Z",
   "items": [
     {
       "id": "1fe46c8e8d4d",
@@ -774,7 +778,7 @@
       "title": "『モンハンワイルズ：アセンダンス』フルフル登場決定。視力を持たない特異な性質を持つ奇怪竜",
       "url": "https://dengekionline.com/article/202609/88655",
       "host": "dengekionline.com",
-      "source": "dengekionline.com",
+      "source": "電撃オンライン",
       "summary": "",
       "publishedAt": "2026-09-19T11:26:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/88655/ogp_pISW.jpg?x=1280",
@@ -809,7 +813,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "088d1f761599",
@@ -1043,7 +1047,7 @@
       "title": "「モンハン」最新拡張コンテンツ 幻想的な空中遺跡で新たな狩猟【TGS2026】",
       "url": "https://xtrend.nikkei.com/atcl/contents/18/01480/00093/?i_cid",
       "host": "xtrend.nikkei.com",
-      "source": "日経クロストレンド",
+      "source": "xtrend.nikkei.com",
       "summary": "",
       "publishedAt": "2026-09-19T06:06:00.000Z",
       "image": "https://xtrend.nikkei.com/atcl/contents/18/01480/00093/nxr_m.jpg",
@@ -1230,7 +1234,7 @@
       "title": "モンハン部限定 Nintendo Switch 2 版『モンスターハンターワイルズ』体験会参加者募集！",
       "url": "https://prtimes.jp/main/html/rd/p/000006075.000013450.html",
       "host": "prtimes.jp",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "summary": "",
       "publishedAt": "2026-09-19T04:26:36.000Z",
       "image": "https://prcdn.freetls.fastly.net/release_image/13450/6075/13450-6075-0b91c39ef429c01dabda0edd8124c225-1920x300.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
@@ -1241,7 +1245,7 @@
         "wilds"
       ],
       "isOfficial": false,
-      "isPR": true,
+      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -1352,27 +1356,6 @@
       "isNew": false
     },
     {
-      "id": "411bb4076b94",
-      "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/575038",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-18T22:25:22.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575038.png?date=1789770323",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "8c086bb7f518",
       "title": "【モンハンナウ】モンハンNow感謝祭【3周年記念】【モンハンNow】",
       "url": "https://gamewith.jp/monsterhunternow/article/show/577438",
@@ -1395,10 +1378,10 @@
     },
     {
       "id": "d2b45155477d",
-      "title": "『モンハンワイルズ：アセンダンス』開発者インタビュー―目指したのは「ワイルズの正統進化」、ブーストブレイサーは“チャンスメイクの新しい手段”、ラオシャンロンは「結構進化する」【TGS2026】",
+      "title": "『モンハンワイルズ：アセンダンス』開発者インタビュー―目指したのは「ワイルズの正統進化」、ブーストブレイサーは“チャンスメイクの新しい手段”、ラオシャンロンは「結構進化する」【TGS2026】 - inside-games.jp",
       "url": "https://www.inside-games.jp/article/2026/09/19/187988.html",
       "host": "inside-games.jp",
-      "source": "インサイド",
+      "source": "inside-games.jp",
       "summary": "",
       "publishedAt": "2026-09-18T15:05:02.000Z",
       "image": "https://www.inside-games.jp/imgs/ogp_f/1783217.jpg",
@@ -1479,10 +1462,10 @@
     },
     {
       "id": "24b15d581e5d",
-      "title": "東京ゲームショウで『モンハンワイルズ：アセンダンス』を試遊―整理券はビジネスデイでも1時間以内に終了、巨大ディスプレイは一見の価値あり【TGS2026】",
+      "title": "東京ゲームショウで『モンハンワイルズ：アセンダンス』を試遊―整理券はビジネスデイでも1時間以内に終了、巨大ディスプレイは一見の価値あり【TGS2026】 - inside-games.jp",
       "url": "https://www.inside-games.jp/article/2026/09/18/187985.html",
       "host": "inside-games.jp",
-      "source": "インサイド",
+      "source": "inside-games.jp",
       "summary": "",
       "publishedAt": "2026-09-18T14:35:03.000Z",
       "image": "https://www.inside-games.jp/imgs/ogp_f/1783149.jpg",
@@ -1543,7 +1526,7 @@
       "title": "カプコンブースは裏手に回れ！ Switch 2版『モンハンワイルズ』を遊びつつモンスターの“実物サイズ”に圧倒",
       "url": "https://ascii.jp/elem/000/004/436/4436376/",
       "host": "ascii.jp",
-      "source": "ASCII.jp",
+      "source": "ascii.jp",
       "summary": "",
       "publishedAt": "2026-09-18T07:35:00.000Z",
       "image": "https://ascii.jp/img/2026/09/18/4528066/xl/49319716039abaec.png?20200122",
@@ -1583,7 +1566,7 @@
       "title": "『モンハンワイルズ：アセンダンス』が世界初プレイアブル出展。『プラグマタ』ディアナ等身大像、1/1スケール“ロックバスター”等展示も充実したカプコンブースレポート【TGS2026】",
       "url": "https://dengekionline.com/article/202609/88331",
       "host": "dengekionline.com",
-      "source": "dengekionline.com",
+      "source": "電撃オンライン",
       "summary": "",
       "publishedAt": "2026-09-18T03:42:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/88331/ogp_Afwz.jpg?x=1280",
@@ -1623,7 +1606,7 @@
       "title": "『モンスターハンターオーケストラコンサート〜狩猟音楽祭2026〜』ライブ録音アルバム、11月11日（水）発売決定！",
       "url": "https://prtimes.jp/main/html/rd/p/000000009.000088797.html",
       "host": "prtimes.jp",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "summary": "",
       "publishedAt": "2026-09-18T03:00:02.000Z",
       "image": "https://prcdn.freetls.fastly.net/release_image/88797/9/88797-9-4b871aef93fe1e16cb55e3c596a47b3f-1500x1500.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
@@ -1633,7 +1616,7 @@
       ],
       "series": [],
       "isOfficial": false,
-      "isPR": true,
+      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -1719,27 +1702,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "36bf38ad62e4",
-      "title": "【モンハンワイルズ】序盤おすすめ装備まとめ｜下位装備おすすめ【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/485430",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-17T23:45:11.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485430.png?date=1787565141",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "ef1149edc523",
@@ -1948,7 +1910,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "13d86f12b83f",
@@ -2165,7 +2127,7 @@
       "title": "『モンスターハンターパズル アイルーアイランド』 協力イベント「【復刻】みんなで秘境探索！＜プケぐるみ＞」を開催！",
       "url": "https://prtimes.jp/main/html/rd/p/000006055.000013450.html",
       "host": "prtimes.jp",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "summary": "",
       "publishedAt": "2026-09-17T04:00:01.000Z",
       "image": "https://prcdn.freetls.fastly.net/release_image/13450/6055/13450-6055-6f2e8e1cd91b542de3369dd940acfb4f-1200x1200.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
@@ -2174,7 +2136,7 @@
       ],
       "series": [],
       "isOfficial": false,
-      "isPR": true,
+      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -2184,7 +2146,7 @@
       "title": "モンハン、FF、エスコン8……注目作だらけで整理券が消えた!? SIEブースの人気がすごい【TGS2026特集】",
       "url": "https://ascii.jp/elem/000/004/435/4435699/",
       "host": "ascii.jp",
-      "source": "ASCII.jp",
+      "source": "ascii.jp",
       "summary": "",
       "publishedAt": "2026-09-17T03:20:00.000Z",
       "image": "https://ascii.jp/img/2026/09/17/4527017/xl/8ad8d2308d2a6e40.png?20200122",
@@ -2220,11 +2182,51 @@
       "isNew": false
     },
     {
+      "id": "2f76c086742d",
+      "title": "【アセンダンス】カプコンスポットライトの最新情報まとめ｜TGS2026【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/576752",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-17T02:37:12.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/576752.png?date=1789120670",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "275bf2d3501c",
+      "title": "モンスターハンターのガチャガチャ最新一覧｜新作の発売日と設置場所まとめ",
+      "url": "https://charagoo.jp/monsterhunter-capsuletoy/",
+      "host": "charagoo.jp",
+      "source": "キャラグー",
+      "summary": "",
+      "publishedAt": "2026-09-17T02:33:30.000Z",
+      "image": "",
+      "categories": [
+        "new"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "e8e1ae6c0966",
       "title": "「東京ゲームショウ」カプコンブースで「モンハンワイルズ」の展示や「プラグマタ」ディアナの等身大立像をチェック【TGS2026】",
       "url": "https://game.watch.impress.co.jp/docs/news/2141674.html",
       "host": "game.watch.impress.co.jp",
-      "source": "GAME Watch",
+      "source": "game.watch.impress.co.jp",
       "summary": "",
       "publishedAt": "2026-09-17T02:29:10.000Z",
       "image": "https://game.watch.impress.co.jp/img/gmw/list/2141/674/7.jpg",
@@ -2242,10 +2244,10 @@
     },
     {
       "id": "dac77c965efb",
-      "title": "『モンスターハンターワイルズ』スイッチ2版のグラフィック設定を確認―「品質優先／フレームレート優先」の切り替えと「30fps固定」の項目が",
+      "title": "『モンスターハンターワイルズ』スイッチ2版のグラフィック設定を確認―「品質優先／フレームレート優先」の切り替えと「30fps固定」の項目が - inside-games.jp",
       "url": "https://www.inside-games.jp/article/2026/09/17/187865.html",
       "host": "inside-games.jp",
-      "source": "インサイド",
+      "source": "inside-games.jp",
       "summary": "",
       "publishedAt": "2026-09-17T01:00:07.000Z",
       "image": "https://www.inside-games.jp/imgs/ogp_f/1780935.jpg",
@@ -2329,10 +2331,10 @@
       "title": "「モンハンワイルズ：アセンダンス」先行レポート！アラケータとテオ・テスカトルに新アクションで挑む【TGS2026】",
       "url": "https://game.watch.impress.co.jp/docs/preview/2140981.html",
       "host": "game.watch.impress.co.jp",
-      "source": "GAME Watch",
+      "source": "game.watch.impress.co.jp",
       "summary": "",
       "publishedAt": "2026-09-17T01:00:00.000Z",
-      "image": "",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2140/981/1.png",
       "categories": [
         "other"
       ],
@@ -2381,25 +2383,6 @@
       "series": [
         "wilds"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "a1338cd14dcc",
-      "title": "カプコンがモンハン新作拡張を発表、キャラ再編集を無料化",
-      "url": "https://voix.jp/biz/news-analysis/178953/",
-      "host": "voix.jp",
-      "source": "ニュースメディアVOIX",
-      "summary": "",
-      "publishedAt": "2026-09-16T22:02:04.000Z",
-      "image": "https://voix.jp/biz/wp-content/uploads/sites/3/2026/09/thumb_20260917070204.png",
-      "categories": [
-        "new"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
