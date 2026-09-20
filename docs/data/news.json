@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T10:00:15.103Z",
+  "updatedAt": "2026-09-20T10:30:15.079Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": ""
   },
   "total": 75,
-  "todayCount": 18,
+  "todayCount": 19,
   "categories": [
     {
       "id": "new",
@@ -155,7 +155,7 @@
       "count": 2
     },
     {
-      "name": "prtimes.jp",
+      "name": "PR TIMES",
       "count": 2
     },
     {
@@ -265,6 +265,13 @@
           "isPR": false
         },
         {
+          "title": "【モンハンワイルズ】Switch2版の発売日・最新情報【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563066",
+          "source": "GameWith",
+          "publishedAt": "2026-09-20T02:14:10.000Z",
+          "isPR": false
+        },
+        {
           "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
           "url": "https://gamewith.jp/mhwilds/563096",
           "source": "GameWith",
@@ -283,13 +290,6 @@
           "url": "https://gamewith.jp/mhwilds/575036",
           "source": "GameWith",
           "publishedAt": "2026-09-19T21:49:44.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/563104",
-          "source": "GameWith",
-          "publishedAt": "2026-09-19T18:12:09.000Z",
           "isPR": false
         }
       ]
@@ -480,12 +480,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-20T09:30:16.557Z",
-    "previousCount": 74,
-    "newCount": 2
+    "previousAt": "2026-09-20T10:00:15.103Z",
+    "previousCount": 75,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-20T10:30:15.103Z",
+  "nextUpdateAt": "2026-09-20T11:00:15.079Z",
   "items": [
     {
       "id": "ee48fa6f5d1a",
@@ -506,7 +506,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "281effb14df1",
@@ -731,6 +731,27 @@
         "other"
       ],
       "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "010ece4575cd",
+      "title": "【モンハンワイルズ】Switch2版の発売日・最新情報【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/563066",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-20T02:14:10.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563066.png?date=1780886791",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "wilds"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -986,27 +1007,6 @@
       "isNew": false
     },
     {
-      "id": "010ece4575cd",
-      "title": "【モンハンワイルズ】Switch2版の発売日・最新情報【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563066",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-19T08:04:04.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563066.png?date=1780886791",
-      "categories": [
-        "new"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "4cd467a24cc4",
       "title": "【アセンダンス】双剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/577734",
@@ -1119,7 +1119,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "We revealed during a stage event at the Capcom booth at Tokyo Game Show 2026 that Khezu will appear in Monster Hunter Wilds: Ascendance. Khezu {STEAM_CLAN_IMAG…",
       "publishedAt": "2026-09-19T07:00:19.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/44795648/6287ba9d35d1ffa19386af4c6b9d0ec9e2de8625.png",
+      "image": "https://clan.fastly.steamstatic.com/images/44795648/6287ba9d35d1ffa19386af4c6b9d0ec9e2de8625.png",
       "categories": [
         "other"
       ],
@@ -1326,7 +1326,7 @@
       "title": "モンハン部限定 Nintendo Switch 2 版『モンスターハンターワイルズ』体験会参加者募集！",
       "url": "https://prtimes.jp/main/html/rd/p/000006075.000013450.html",
       "host": "prtimes.jp",
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "summary": "",
       "publishedAt": "2026-09-19T04:26:36.000Z",
       "image": "https://prcdn.freetls.fastly.net/release_image/13450/6075/13450-6075-0b91c39ef429c01dabda0edd8124c225-1920x300.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
@@ -1337,7 +1337,7 @@
         "wilds"
       ],
       "isOfficial": false,
-      "isPR": false,
+      "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -1655,7 +1655,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c9b6403393f5",
@@ -1782,7 +1782,7 @@
       "title": "『モンスターハンターオーケストラコンサート〜狩猟音楽祭2026〜』ライブ録音アルバム、11月11日（水）発売決定！",
       "url": "https://prtimes.jp/main/html/rd/p/000000009.000088797.html",
       "host": "prtimes.jp",
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "summary": "",
       "publishedAt": "2026-09-18T03:00:02.000Z",
       "image": "https://prcdn.freetls.fastly.net/release_image/88797/9/88797-9-4b871aef93fe1e16cb55e3c596a47b3f-1500x1500.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
@@ -1792,7 +1792,7 @@
       ],
       "series": [],
       "isOfficial": false,
-      "isPR": false,
+      "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -1990,7 +1990,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "Thank you so much for your continued support of Monster Hunter Wilds. In preparation for the release of Monster Hunter Wilds: Ascendance, scheduled for 2027, t…",
       "publishedAt": "2026-09-17T06:34:04.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/44795648/049b146a035654cc8c2558528402243f9aba3897.png",
+      "image": "https://clan.fastly.steamstatic.com/images/44795648/049b146a035654cc8c2558528402243f9aba3897.png",
       "categories": [
         "other"
       ],
@@ -2011,7 +2011,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "During Capcom Spotlight | TGS 2026, we revealed that the elder dragon Teostra will appear in Monster Hunter Wilds: Ascendance. Teostra {STEAM_CLAN_IMAGE}/44795…",
       "publishedAt": "2026-09-17T05:33:54.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/44795648/53b1c95a3d30e47cc625f6f570ae299ce07b9b6f.png",
+      "image": "https://clan.fastly.steamstatic.com/images/44795648/53b1c95a3d30e47cc625f6f570ae299ce07b9b6f.png",
       "categories": [
         "other"
       ],
@@ -2032,7 +2032,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "All-new actions are coming to Monster Hunter Wilds: Ascendance, a massive expansion scheduled to release in 2027. Here's your first look at what's in store for…",
       "publishedAt": "2026-09-16T08:49:24.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/44795648/691d31874561e8e5fb63b9c20c8c8bd6eedd344c.png",
+      "image": "https://clan.fastly.steamstatic.com/images/44795648/691d31874561e8e5fb63b9c20c8c8bd6eedd344c.png",
       "categories": [
         "other"
       ],
