@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-09-20T05:00:14.633Z",
+  "updatedAt": "2026-09-20T05:30:14.635Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 89,
+  "total": 82,
   "todayCount": 9,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 6
+      "count": 7
     },
     {
       "id": "update",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 68
+      "count": 60
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 58
+      "count": 57
     },
     {
       "id": "rise",
@@ -84,7 +84,7 @@
     {
       "id": "now",
       "label": "Now",
-      "count": 16
+      "count": 10
     },
     {
       "id": "stories",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 34
+      "count": 26
     },
     {
       "name": "電ファミニコゲーマー",
@@ -115,15 +115,11 @@
       "count": 3
     },
     {
-      "name": "Yahoo!ニュース",
+      "name": "news.yahoo.co.jp",
       "count": 3
     },
     {
       "name": "Gamer",
-      "count": 3
-    },
-    {
-      "name": "4Gamer",
       "count": 3
     },
     {
@@ -140,6 +136,10 @@
     },
     {
       "name": "電撃オンライン",
+      "count": 2
+    },
+    {
+      "name": "4Gamer",
       "count": 2
     },
     {
@@ -183,6 +183,14 @@
       "count": 1
     },
     {
+      "name": "SmartNews",
+      "count": 1
+    },
+    {
+      "name": "4Gamer.net",
+      "count": 1
+    },
+    {
       "name": "カワコレメディア",
       "count": 1
     },
@@ -217,83 +225,6 @@
   ],
   "topics": [
     {
-      "id": "0b163398fc65",
-      "title": "『モンスターハンターワイルズ：アセンダンス』では“『ワイルズ』の反省点”を徹底的に見直し、「もっと面白くなるところ」を伸ばす。全武器種ぶんブーストブレイサー実装の苦労など、開発陣に訊いた",
-      "summary": "『モンスターハンターワイルズ』をもとに、どのように『アセンダンス』の開発が進められたのか訊いた。",
-      "url": "https://automaton-media.com/articles/interviewsjp/20260919-468749/",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260919-468749-header.jpg",
-      "leadSource": "AUTOMATON",
-      "publishedAt": "2026-09-20T00:48:54.000Z",
-      "sourceCount": 10,
-      "articleCount": 17,
-      "categories": [
-        "other"
-      ],
-      "keywords": [
-        "アセンダンス",
-        "ワイルズ",
-        "モンハンワイルズ"
-      ],
-      "articles": [
-        {
-          "title": "【アセンダンス】モンハンワイルズ「ブーストブレイサー」全14武器種まとめ",
-          "url": "https://iyusuke.jp/mhws-ascendance-boost-weapons/",
-          "source": "iyusuke.jp",
-          "publishedAt": "2026-09-20T00:48:54.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/575036",
-          "source": "GameWith",
-          "publishedAt": "2026-09-19T21:49:44.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/563040",
-          "source": "GameWith",
-          "publishedAt": "2026-09-19T17:25:20.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「モンハンワイルズ：アセンダンス」開発陣インタビュー：「ワイルズ」の正当進化と新アクション「ブーストブレイサー」の狙いに迫る【TGS2026】",
-          "url": "https://www.gamer.ne.jp/news/202609190046/",
-          "source": "Gamer",
-          "publishedAt": "2026-09-19T14:14:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/563077",
-          "source": "GameWith",
-          "publishedAt": "2026-09-19T11:42:15.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/577281",
-          "source": "GameWith",
-          "publishedAt": "2026-09-19T09:04:08.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】フルフルの最新情報まとめ【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/485478",
-          "source": "GameWith",
-          "publishedAt": "2026-09-19T05:39:36.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『モンハンワイルズ：アセンダンス』フルフルの登場が判明！ 洞窟の壁から首をニョキッと伸ばして雷ブレスを吐くシーンも【TGS2026】",
-          "url": "https://www.famitsu.com/article/202609/88621",
-          "source": "famitsu.com",
-          "publishedAt": "2026-09-19T04:47:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "9f9d6f60798a",
       "title": "「モンスターハンターワイルズ：アセンダンス」には“フルフル”が登場！ TGS 2026スペシャルステージで明らかに［TGS2026］",
       "summary": "2026年9月19日，東京ゲームショウ2026のカプコンブースで，「『モンスターハンターワイルズ：アセンダンス』スペシャルステージ」が実施された。実機プレイでは，本作に「フルフル」が登場することが明かされている。",
@@ -302,15 +233,15 @@
       "leadSource": "4Gamer",
       "publishedAt": "2026-09-19T06:59:18.000Z",
       "sourceCount": 10,
-      "articleCount": 12,
+      "articleCount": 11,
       "categories": [
         "other",
         "new"
       ],
       "keywords": [
         "アセンダンス",
-        "tgs",
-        "モンスター"
+        "モンハンワイルズ",
+        "tgs"
       ],
       "articles": [
         {
@@ -321,6 +252,13 @@
           "isPR": false
         },
         {
+          "title": "『モンハンワイルズ：アセンダンス』フルフルの登場が判明！ 初の実機プレイでお披露目【TGS2026】",
+          "url": "https://app.famitsu.com/article/202609/88621",
+          "source": "app.famitsu.com",
+          "publishedAt": "2026-09-19T04:47:00.000Z",
+          "isPR": false
+        },
+        {
           "title": "「モンハンワイルズ：アセンダンス」に新たな環境生物「コマリモット」が登場！新マップの未公開エリアがお披露目",
           "url": "https://game.watch.impress.co.jp/docs/news/2142440.html",
           "source": "GAME Watch",
@@ -328,17 +266,10 @@
           "isPR": false
         },
         {
-          "title": "「モンハンワイルズ：アセンダンス」開発者インタビュー！「テオ・テスカトル」復活の経緯が明かされる【TGS2026】",
-          "url": "https://game.watch.impress.co.jp/docs/news/2142415.html",
-          "source": "GAME Watch",
-          "publishedAt": "2026-09-19T02:58:59.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『モンスターハンターワイルズ：アセンダンス』のメインモンスターは、「まだ登場していない」【『モンハンアセンダンス』インタビュー】",
-          "url": "https://news.denfaminicogamer.jp/interview/260919m",
+          "title": "『モンハンワイルズ：アセンダンス』“実機プレイ”が世界初公開！「フルフル」が登場！",
+          "url": "https://news.denfaminicogamer.jp/news/2609192n",
           "source": "電ファミニコゲーマー",
-          "publishedAt": "2026-09-18T15:00:00.000Z",
+          "publishedAt": "2026-09-19T04:31:00.000Z",
           "isPR": false
         },
         {
@@ -367,6 +298,147 @@
           "url": "https://ascii.jp/elem/000/004/436/4436376/",
           "source": "ASCII.jp",
           "publishedAt": "2026-09-18T07:35:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "c4982ce736ed",
+      "title": "【アセンダンス】モンハンワイルズ「ブーストブレイサー」全14武器種まとめ",
+      "summary": "",
+      "url": "https://iyusuke.jp/mhws-ascendance-boost-weapons/",
+      "image": "https://iyusuke.jp/wp-content/uploads/2026/09/mhws-boostblaser-1.webp",
+      "leadSource": "iyusuke.jp",
+      "publishedAt": "2026-09-20T00:48:54.000Z",
+      "sourceCount": 7,
+      "articleCount": 7,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "アセンダンス",
+        "ワイルズ",
+        "モンハンワイルズ"
+      ],
+      "articles": [
+        {
+          "title": "『モンハンワイルズ：アセンダンス』今集めている護石や作っている武器がMRに上がった瞬間「すべて使い物にならない」ようにはしない考え",
+          "url": "https://gamestalk.net/monster-hunter-wilds-ascendance-charms-weapons-master-rank/",
+          "source": "ゲーム情報！ゲームのはなし",
+          "publishedAt": "2026-09-19T19:33:45.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「モンハンワイルズ：アセンダンス」開発陣インタビュー：「ワイルズ」の正当進化と新アクション「ブーストブレイサー」の狙いに迫る【TGS2026】",
+          "url": "https://www.gamer.ne.jp/news/202609190046/",
+          "source": "Gamer",
+          "publishedAt": "2026-09-19T14:14:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「モンハンワイルズ：アセンダンス」開発者インタビュー！「テオ・テスカトル」復活の経緯が明かされる【TGS2026】",
+          "url": "https://game.watch.impress.co.jp/docs/news/2142415.html",
+          "source": "GAME Watch",
+          "publishedAt": "2026-09-19T02:58:59.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/574841",
+          "source": "GameWith",
+          "publishedAt": "2026-09-18T22:46:17.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『モンハンワイルズ：アセンダンス』開発者インタビュー―目指したのは「ワイルズの正統進化」、ブーストブレイサーは“チャンスメイクの新しい手段”、ラオシャンロンは「結構進化する」【TGS2026】",
+          "url": "https://www.inside-games.jp/article/2026/09/19/187988.html",
+          "source": "インサイド",
+          "publishedAt": "2026-09-18T15:05:02.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「モンスターハンターワイルズ：アセンダンス」でブーストブレイサーが目指す「チャンスを自分で作り出す」感覚，そしてテオを今出す理由［TGS2026］",
+          "url": "https://www.4gamer.net/games/013/G101399/20260918089/",
+          "source": "4Gamer.net",
+          "publishedAt": "2026-09-18T15:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "763d75dfe019",
+      "title": "『モンスターハンターワイルズ：アセンダンス』にてフルフルしれっとお披露目で大盛り上がり。“超伸び伸び首だけ乱入”のサプライズ登場",
+      "summary": "最も会場が盛り上がったのは新要素ではなく、愛されるモンスター「フルフル」の登場であった。",
+      "url": "https://automaton-media.com/articles/newsjp/20260919-468830/",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260919-468830-header.jpg",
+      "leadSource": "AUTOMATON",
+      "publishedAt": "2026-09-20T01:27:26.000Z",
+      "sourceCount": 4,
+      "articleCount": 12,
+      "categories": [
+        "guide",
+        "other"
+      ],
+      "keywords": [
+        "アセンダンス",
+        "モンハンワイルズ",
+        "最新情報"
+      ],
+      "articles": [
+        {
+          "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
+          "url": "https://gamewith.jp/mhwilds/563096",
+          "source": "GameWith",
+          "publishedAt": "2026-09-20T01:27:26.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/575036",
+          "source": "GameWith",
+          "publishedAt": "2026-09-19T21:49:44.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563040",
+          "source": "GameWith",
+          "publishedAt": "2026-09-19T17:25:20.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563077",
+          "source": "GameWith",
+          "publishedAt": "2026-09-19T11:42:15.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/577281",
+          "source": "GameWith",
+          "publishedAt": "2026-09-19T09:04:08.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】英傑に愛を込めての攻略と報酬【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/545381",
+          "source": "GameWith",
+          "publishedAt": "2026-09-19T07:34:11.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】フルフルの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/485478",
+          "source": "GameWith",
+          "publishedAt": "2026-09-19T05:39:36.000Z",
+          "isPR": false
+        },
+        {
+          "title": "テオ・テスカトルが『モンスターハンターワイルズ：アセンダンス』に登場！ 新モンスター「アラケータ」も判明",
+          "url": "https://www.appbank.net/2026/09/19/game/3107891.php",
+          "source": "AppBank",
+          "publishedAt": "2026-09-19T03:40:47.000Z",
           "isPR": false
         }
       ]
@@ -443,29 +515,37 @@
       ]
     },
     {
-      "id": "e6d79acfa4bd",
-      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
+      "id": "15df437f504b",
+      "title": "【モンハンワイルズ】金のお守りチケットの入手方法と使い道【モンスターハンターワイルズ】",
       "summary": "",
-      "url": "https://gamewith.jp/mhwilds/563096",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
+      "url": "https://gamewith.jp/mhwilds/545782",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563066.png?date=1780886791",
       "leadSource": "GameWith",
-      "publishedAt": "2026-09-19T22:11:11.000Z",
+      "publishedAt": "2026-09-19T10:52:32.000Z",
       "sourceCount": 2,
-      "articleCount": 2,
+      "articleCount": 3,
       "categories": [
-        "guide",
-        "other"
+        "other",
+        "new"
       ],
       "keywords": [
-        "アセンダンス",
-        "最新情報"
+        "モンハンワイルズ",
+        "モンスターハンターワイルズ",
+        "switch2"
       ],
       "articles": [
         {
-          "title": "本日（9/19）から2日間、TGS2026に合わせて『モンハンワイルズ：アセンダンス』、『ストレンジャー ザン ヘヴン』などゲーム最新情報をお届けする生放送をファミ通TUBEで配信！ MCは声優の青木瑠璃子さんが担当",
-          "url": "https://www.famitsu.com/article/202609/88593",
-          "source": "famitsu.com",
-          "publishedAt": "2026-09-19T03:10:00.000Z",
+          "title": "【モンハンワイルズ】Switch2版の発売日・最新情報【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563066",
+          "source": "GameWith",
+          "publishedAt": "2026-09-19T08:04:04.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「モンハンワイルズ」新作方針とSwitch2版仕様",
+          "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPTDdtQ1BHR2k2RmFjNjdhRWRoMHFwWWlpMGN6OTdnV1dFMTdHdl9WaWNQU2VSbVpVbUw2WEtYeWROV1ZrdXpOMWh6bkZOQlZLSmVWQTdoU1FoRmhGb1lBMGdGUjgzbTl4QmJWQ1htdGZmSzRtb2F5S3Y3cGV0UVBNVV9mX1BHZG1SdUhmbk12Y0xMTTVla3pES2dpQnJaOTFFU0R0ZWs2YVRiN2JBbGl2ckJjdnZoNDFDSnlCaHNfeGFyc29XNTlKUVoybGdPVzgzdllNbzZ1UElFRy1BM2pHQ2pxa1RnSXl1eENKWWxoUm9GbDdlRmhHdTQ1VUtHRmVIeW8tOWdYTTItaS12T0JJWkFXS1Z3R2s2bmhUdWVnbnQwOGJkam9pSjhGY1I3OUtDc2tZVlB5TExKSmVvX0otbTZIa2lJVDJjaUo2UA?oc=5",
+          "source": "SmartNews",
+          "publishedAt": "2026-09-19T03:11:00.000Z",
           "isPR": false
         }
       ]
@@ -533,7 +613,7 @@
       "summary": "",
       "url": "https://news.yahoo.co.jp/articles/61647697c4e000715a51b5deb5fcf7b79eaf1c2e",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-00010037-realsound-000-1-view.jpg?exp=10800",
-      "leadSource": "Yahoo!ニュース",
+      "leadSource": "news.yahoo.co.jp",
       "publishedAt": "2026-09-17T06:05:22.000Z",
       "sourceCount": 2,
       "articleCount": 2,
@@ -557,12 +637,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-20T04:30:15.679Z",
-    "previousCount": 83,
-    "newCount": 6
+    "previousAt": "2026-09-20T05:00:14.633Z",
+    "previousCount": 89,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-20T05:30:14.633Z",
+  "nextUpdateAt": "2026-09-20T06:00:14.635Z",
   "items": [
     {
       "id": "8ea36ad34257",
@@ -632,12 +712,31 @@
       "title": "「モンハン」最新拡張コンテンツ 幻想的な空中遺跡で新たな狩猟【TGS2026】（日経クロストレンド）",
       "url": "https://news.yahoo.co.jp/articles/2861b5895d43e5e7f57780b32257a6aebe0feeac",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-20T02:35:58.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260920-41758217-nkctrend-000-1-view.jpg?exp=10800",
       "categories": [
         "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "e6d79acfa4bd",
+      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
+      "url": "https://gamewith.jp/mhwilds/563096",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-20T01:27:26.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
+      "categories": [
+        "guide"
       ],
       "series": [],
       "isOfficial": false,
@@ -661,25 +760,6 @@
       "series": [
         "wilds"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e6d79acfa4bd",
-      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
-      "url": "https://gamewith.jp/mhwilds/563096",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-19T22:11:11.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
-      "categories": [
-        "guide"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1016,7 +1096,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1f42568b7be9",
@@ -1152,7 +1232,7 @@
       "source": "GAME Watch",
       "summary": "カプコンは、プレイステーション 5/XBOX Series X|S/Nintendo Switch 2/PC用ハンティングアクションゲーム「モンスターハンターワイルズ」における超大型拡張コンテンツ「モンスターハンターワイルズ：アセンダンス」について、実機プレイを公開。フルフルの登場が発表された。",
       "publishedAt": "2026-09-19T04:53:19.000Z",
-      "image": "",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2142/441/14.jpg",
       "categories": [
         "new"
       ],
@@ -1215,7 +1295,7 @@
       "source": "GAME Watch",
       "summary": "カプコンは、プレイステーション 5/XBOX Series X|S/Nintendo Switch 2/PC用ハンティングアクション「モンスターハンターワイルズ」における超大型拡張コンテンツ「モンスターハンターワイルズ：アセンダンス」において、新たなフィールド「雲居の遺跡群」の未公開エリアを公開した。",
       "publishedAt": "2026-09-19T04:45:28.000Z",
-      "image": "",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2142/440/1.png",
       "categories": [
         "other"
       ],
@@ -1313,6 +1393,27 @@
       "isNew": false
     },
     {
+      "id": "a512161b34da",
+      "title": "「モンハンワイルズ」新作方針とSwitch2版仕様",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPTDdtQ1BHR2k2RmFjNjdhRWRoMHFwWWlpMGN6OTdnV1dFMTdHdl9WaWNQU2VSbVpVbUw2WEtYeWROV1ZrdXpOMWh6bkZOQlZLSmVWQTdoU1FoRmhGb1lBMGdGUjgzbTl4QmJWQ1htdGZmSzRtb2F5S3Y3cGV0UVBNVV9mX1BHZG1SdUhmbk12Y0xMTTVla3pES2dpQnJaOTFFU0R0ZWs2YVRiN2JBbGl2ckJjdnZoNDFDSnlCaHNfeGFyc29XNTlKUVoybGdPVzgzdllNbzZ1UElFRy1BM2pHQ2pxa1RnSXl1eENKWWxoUm9GbDdlRmhHdTQ1VUtHRmVIeW8tOWdYTTItaS12T0JJWkFXS1Z3R2s2bmhUdWVnbnQwOGJkam9pSjhGY1I3OUtDc2tZVlB5TExKSmVvX0otbTZIa2lJVDJjaUo2UA?oc=5",
+      "host": "smartnews.com",
+      "source": "SmartNews",
+      "summary": "",
+      "publishedAt": "2026-09-19T03:11:00.000Z",
+      "image": "",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "0d642584d1d4",
       "title": "本日（9/19）から2日間、TGS2026に合わせて『モンハンワイルズ：アセンダンス』、『ストレンジャー ザン ヘヴン』などゲーム最新情報をお届けする生放送をファミ通TUBEで配信！ MCは声優の青木瑠璃子さんが担当",
       "url": "https://www.famitsu.com/article/202609/88593",
@@ -1339,7 +1440,7 @@
       "url": "https://game.watch.impress.co.jp/docs/news/2142415.html",
       "host": "game.watch.impress.co.jp",
       "source": "GAME Watch",
-      "summary": "カプコンは、プレイステーション 5/XBOX Series X|S/Nintendo Switch 2/PC用ハンティングアクション「モンスターハンターワイルズ」における超大型拡張コンテンツ「モンスターハンターワイルズ：アセンダンス（以下、アセンダンス）」を2027年に発売予定だ。",
+      "summary": "",
       "publishedAt": "2026-09-19T02:58:59.000Z",
       "image": "https://game.watch.impress.co.jp/img/gmw/list/2142/415/6.jpeg",
       "categories": [
@@ -1363,27 +1464,6 @@
       "summary": "",
       "publishedAt": "2026-09-19T02:38:00.000Z",
       "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/image11-17.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "8511963a30d5",
-      "title": "【アセンダンス】チャアクの操作と新要素・ブーストアクション【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/485556",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-18T22:54:02.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485556.png?date=1789754685",
       "categories": [
         "other"
       ],
@@ -1523,14 +1603,14 @@
       "isNew": false
     },
     {
-      "id": "e47bfe45746a",
-      "title": "「モンスターハンターワイルズ：アセンダンス」でブーストブレイサーが目指す「チャンスを自分で作り出す」感覚，そしてテオを今出す理由［TGS2026］",
-      "url": "https://www.4gamer.net/games/013/G101399/20260918089/",
-      "host": "4gamer.net",
-      "source": "4Gamer",
-      "summary": "TGS2026の会場で，「モンスターハンターワイルズ：アセンダンス」開発者への合同インタビューを実施した。新要素「ブーストブレイサー」の設計思想や，テオ・テスカトルを今出す理由などを聞いた。",
+      "id": "02cb2a74894e",
+      "title": "『モンスターハンターワイルズ：アセンダンス』のメインモンスターは、「まだ登場していない」【『モンハンアセンダンス』インタビュー】",
+      "url": "https://news.denfaminicogamer.jp/interview/260919m",
+      "host": "news.denfaminicogamer.jp",
+      "source": "電ファミニコゲーマー",
+      "summary": "",
       "publishedAt": "2026-09-18T15:00:00.000Z",
-      "image": "https://www.4gamer.net/games/013/G101399/20260918089/SS/007.jpg",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2027/09/7cbe9062ad7314e1970d8ac080002939-1024x576.png",
       "categories": [
         "other"
       ],
@@ -1544,14 +1624,14 @@
       "isNew": false
     },
     {
-      "id": "02cb2a74894e",
-      "title": "『モンスターハンターワイルズ：アセンダンス』のメインモンスターは、「まだ登場していない」【『モンハンアセンダンス』インタビュー】",
-      "url": "https://news.denfaminicogamer.jp/interview/260919m",
-      "host": "news.denfaminicogamer.jp",
-      "source": "電ファミニコゲーマー",
+      "id": "e47bfe45746a",
+      "title": "「モンスターハンターワイルズ：アセンダンス」でブーストブレイサーが目指す「チャンスを自分で作り出す」感覚，そしてテオを今出す理由［TGS2026］",
+      "url": "https://www.4gamer.net/games/013/G101399/20260918089/",
+      "host": "4gamer.net",
+      "source": "4Gamer.net",
       "summary": "",
       "publishedAt": "2026-09-18T15:00:00.000Z",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2027/09/7cbe9062ad7314e1970d8ac080002939-1024x576.png",
+      "image": "https://www.4gamer.net/games/013/G101399/20260918089/SS/007.jpg",
       "categories": [
         "other"
       ],
@@ -1605,27 +1685,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "0b68bd1287fd",
-      "title": "【アセンダンス】片手剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/577790",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-18T13:31:30.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577790.png?date=1789746410",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "c9b6403393f5",
@@ -1835,7 +1894,7 @@
       "title": "カプコンは「モンスターハンター」など人気タイトルが目白押し【TGS2026】（日経クロストレンド）",
       "url": "https://news.yahoo.co.jp/articles/7c7298c3c8a3df968b1b4595b9fa8195b54616ac",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-18T00:10:58.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-32638635-nkctrend-000-1-view.jpg?exp=10800",
@@ -1868,7 +1927,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "abb2b29be9dc",
@@ -2099,27 +2158,6 @@
       "isNew": false
     },
     {
-      "id": "005af29cf2aa",
-      "title": "【モンハンナウ】2024旧正月双剣チケットの入手方法と使い道【モンハンNow】",
-      "url": "https://gamewith.jp/monsterhunternow/article/show/435551",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-17T08:15:31.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "e532a79f9bb1",
       "title": "【モンハンナウ】リオレウスの弱点と攻略｜解放条件【モンハンNow】",
       "url": "https://gamewith.jp/monsterhunternow/article/show/415431",
@@ -2141,6 +2179,27 @@
       "isNew": false
     },
     {
+      "id": "c6fa6d522699",
+      "title": "【モンハンナウ】2025旧正月軽弩チケットの入手方法と使い道【モンハンNow】",
+      "url": "https://gamewith.jp/monsterhunternow/article/show/482610",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-17T07:46:01.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "4aba44f0d44c",
       "title": "【モンハンナウ】泥翁竜の尻尾の入手方法と使い道【モンハンNow】",
       "url": "https://gamewith.jp/monsterhunternow/article/show/551101",
@@ -2159,7 +2218,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "13d86f12b83f",
@@ -2208,7 +2267,7 @@
       "title": "『モンスターハンターワイルズ：アセンダンス』に古龍「テオ・テスカトル」参戦 キャラクリなども改善（リアルサウンド）",
       "url": "https://news.yahoo.co.jp/articles/61647697c4e000715a51b5deb5fcf7b79eaf1c2e",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-17T06:05:22.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-00010037-realsound-000-1-view.jpg?exp=10800",
@@ -2264,132 +2323,6 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "official",
-      "isNew": false
-    },
-    {
-      "id": "61f4e343688b",
-      "title": "【モンハンナウ】爆破属性強化クエストの開催期間とクエスト情報【モンハンNow】",
-      "url": "https://gamewith.jp/monsterhunternow/article/show/483014",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-17T05:13:55.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/483014.png?date=1739150062",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "2cad4340c7fe",
-      "title": "【モンハンナウ】モンスター素材一覧【モンハンNow】",
-      "url": "https://gamewith.jp/monsterhunternow/article/show/415453",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-17T05:13:08.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/415453.png?date=1693539051",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "01b3fa5f5b72",
-      "title": "【モンハンナウ】1.5周年感謝祭の開催期間とクエスト情報【モンハンNow】",
-      "url": "https://gamewith.jp/monsterhunternow/article/show/485398",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-17T05:12:18.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485398.png?date=1741742183",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "f6ff3ba8d179",
-      "title": "【モンハンナウ】ジンオウガイベントの開催期間と参加条件｜野を駆ける雷狼竜【モンハンNow】",
-      "url": "https://gamewith.jp/monsterhunternow/article/show/447137",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-17T05:11:18.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/447137.png?date=1716172758",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e9495dee91ab",
-      "title": "【モンハンナウ】亜種＆希少種モンスター一覧と出現条件【モンハンNow】",
-      "url": "https://gamewith.jp/monsterhunternow/article/show/420671",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-17T05:11:10.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/420671.png?date=1696327825",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "6d30639e484f",
-      "title": "【モンハンナウ】沼地の入手素材と出現モンスター【モンハンNow】",
-      "url": "https://gamewith.jp/monsterhunternow/article/show/413634",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-17T05:10:22.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/413634.png?date=1694418642",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
       "isNew": false
     },
     {
