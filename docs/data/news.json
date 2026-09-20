@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-20T16:30:18.306Z",
+  "updatedAt": "2026-09-20T17:00:16.676Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 74,
+  "total": 75,
   "todayCount": 0,
   "categories": [
     {
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 58
+      "count": 59
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 58
+      "count": 59
     },
     {
       "id": "rise",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 23
+      "count": 22
     },
     {
       "name": "Gamer",
@@ -112,6 +112,10 @@
     },
     {
       "name": "ファミ通",
+      "count": 4
+    },
+    {
+      "name": "電ファミニコゲーマー",
       "count": 4
     },
     {
@@ -128,10 +132,6 @@
     },
     {
       "name": "GAME Watch",
-      "count": 3
-    },
-    {
-      "name": "news.denfaminicogamer.jp",
       "count": 3
     },
     {
@@ -161,6 +161,10 @@
     {
       "name": "毎日キレイ",
       "count": 2
+    },
+    {
+      "name": "ゲーム情報！ゲームのはなし",
+      "count": 1
     },
     {
       "name": "ニコニコニュース",
@@ -430,12 +434,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-20T16:00:13.578Z",
-    "previousCount": 73,
-    "newCount": 1
+    "previousAt": "2026-09-20T16:30:18.306Z",
+    "previousCount": 74,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-20T17:00:18.306Z",
+  "nextUpdateAt": "2026-09-20T17:30:16.676Z",
   "items": [
     {
       "id": "14fb60394f4b",
@@ -811,6 +815,27 @@
       "isNew": false
     },
     {
+      "id": "1fe46c8e8d4d",
+      "title": "『モンハンワイルズ：アセンダンス』今集めている護石や作っている武器がMRに上がった瞬間「すべて使い物にならない」ようにはしない考え",
+      "url": "https://gamestalk.net/monster-hunter-wilds-ascendance-charms-weapons-master-rank/",
+      "host": "gamestalk.net",
+      "source": "ゲーム情報！ゲームのはなし",
+      "summary": "",
+      "publishedAt": "2026-09-19T19:33:45.000Z",
+      "image": "https://gamestalk.net/wp-content/uploads/2026/09/MHW-Ascendance_260920.webp",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "e08e6c8ea2a8",
       "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/563104",
@@ -861,6 +886,27 @@
       "summary": "",
       "publishedAt": "2026-09-19T14:14:00.000Z",
       "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "411bb4076b94",
+      "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/575038",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-19T14:08:11.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575038.png?date=1789770323",
       "categories": [
         "other"
       ],
@@ -1276,7 +1322,7 @@
       "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-09-19T04:45:28.000Z",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2142/440/1.png",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1294,7 +1340,7 @@
       "title": "『モンハンワイルズ：アセンダンス』“実機プレイ”が世界初公開！「フルフル」が登場！",
       "url": "https://news.denfaminicogamer.jp/news/2609192n",
       "host": "news.denfaminicogamer.jp",
-      "source": "news.denfaminicogamer.jp",
+      "source": "電ファミニコゲーマー",
       "summary": "",
       "publishedAt": "2026-09-19T04:31:00.000Z",
       "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/ae91180a-b46d-45d8-89f7-1c59a3c07382-1024x576.png",
@@ -1336,7 +1382,7 @@
       "title": "『モンハンワイルズ』Nintendo Switch 2版の実機映像が公開。近日配信予定の体験版は、ローカル通信にも対応",
       "url": "https://news.denfaminicogamer.jp/news/2609192i",
       "host": "news.denfaminicogamer.jp",
-      "source": "news.denfaminicogamer.jp",
+      "source": "電ファミニコゲーマー",
       "summary": "",
       "publishedAt": "2026-09-19T04:16:00.000Z",
       "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/HSimwaNbsAAFF1E.jpg",
@@ -1437,14 +1483,14 @@
       "isNew": false
     },
     {
-      "id": "8511963a30d5",
-      "title": "【アセンダンス】チャアクの操作と新要素・ブーストアクション【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/485556",
-      "host": "gamewith.jp",
-      "source": "GameWith",
+      "id": "b1094d4e63bb",
+      "title": "東京ゲームショウのSIEブースでは『モンスターハンターワイルズ：アセンダンス』『FF7 REVELATION』など4作品が試遊可能。一般公開の初日は、大盛況で整理券配布が早々に終了も、他の展示いろいろ",
+      "url": "https://news.denfaminicogamer.jp/kikakuthetower/2609192a",
+      "host": "news.denfaminicogamer.jp",
+      "source": "電ファミニコゲーマー",
       "summary": "",
-      "publishedAt": "2026-09-18T22:54:02.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485556.png?date=1789754685",
+      "publishedAt": "2026-09-19T02:38:00.000Z",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/image11-17.jpg",
       "categories": [
         "other"
       ],
@@ -1456,27 +1502,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": true
-    },
-    {
-      "id": "411bb4076b94",
-      "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/575038",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-18T22:25:22.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575038.png?date=1789770323",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
     },
     {
       "id": "d2b45155477d",
@@ -1546,7 +1571,7 @@
       "title": "『モンスターハンターワイルズ：アセンダンス』のメインモンスターは、「まだ登場していない」【『モンハンアセンダンス』インタビュー】",
       "url": "https://news.denfaminicogamer.jp/interview/260919m",
       "host": "news.denfaminicogamer.jp",
-      "source": "news.denfaminicogamer.jp",
+      "source": "電ファミニコゲーマー",
       "summary": "",
       "publishedAt": "2026-09-18T15:00:00.000Z",
       "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2027/09/7cbe9062ad7314e1970d8ac080002939-1024x576.png",
