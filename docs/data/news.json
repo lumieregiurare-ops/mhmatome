@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T17:00:16.231Z",
+  "updatedAt": "2026-09-21T17:30:15.769Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -47,7 +47,7 @@
     {
       "id": "sale",
       "label": "セール",
-      "count": 1
+      "count": 0
     },
     {
       "id": "community",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 52
+      "count": 53
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 57
+      "count": 58
     },
     {
       "id": "rise",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 27
+      "count": 28
     },
     {
       "name": "電ファミニコゲーマー",
@@ -119,11 +119,11 @@
       "count": 3
     },
     {
-      "name": "ガジェット通信",
+      "name": "Game*Spark",
       "count": 2
     },
     {
-      "name": "Game*Spark",
+      "name": "ゲーム情報！ゲームのはなし",
       "count": 2
     },
     {
@@ -155,6 +155,10 @@
       "count": 1
     },
     {
+      "name": "ガジェット通信",
+      "count": 1
+    },
+    {
       "name": "leveluplogy.jp",
       "count": 1
     },
@@ -163,15 +167,7 @@
       "count": 1
     },
     {
-      "name": "gamestalk.net",
-      "count": 1
-    },
-    {
       "name": "gamebiz【ゲームビズ】",
-      "count": 1
-    },
-    {
-      "name": "ゲーム情報！ゲームのはなし",
       "count": 1
     },
     {
@@ -552,12 +548,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-21T16:30:23.017Z",
+    "previousAt": "2026-09-21T17:00:16.231Z",
     "previousCount": 67,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-21T17:30:16.231Z",
+  "nextUpdateAt": "2026-09-21T18:00:15.769Z",
   "items": [
     {
       "id": "8c086bb7f518",
@@ -899,7 +895,7 @@
       "title": "『モンハンワイルズ』プレイヤーの腕前は想定以上だった――“期待値のズレ”踏まえ『アセンダンス』のエンドゲーム難度バランスを調整中",
       "url": "https://gamestalk.net/monster-hunter-wilds-ascendance-player-skill-difficulty-balance/",
       "host": "gamestalk.net",
-      "source": "gamestalk.net",
+      "source": "ゲーム情報！ゲームのはなし",
       "summary": "",
       "publishedAt": "2026-09-20T20:03:05.000Z",
       "image": "https://gamestalk.net/wp-content/uploads/2026/09/MHW-Ascendance_260921.webp",
@@ -1228,25 +1224,6 @@
       "isNew": false
     },
     {
-      "id": "fb0c4e10a216",
-      "title": "シルバーウィークを全て捧げよ / モンハン2作で2000円、バイオ3作で1万円の超絶セール開催中【Nintendo Switch】",
-      "url": "https://getnews.jp/archives/3744556",
-      "host": "getnews.jp",
-      "source": "ガジェット通信",
-      "summary": "",
-      "publishedAt": "2026-09-19T12:00:25.000Z",
-      "image": "https://rensai.jp/wp-content/uploads/2026/02/IMG_2831.png",
-      "categories": [
-        "sale"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "4d6d822cb2a9",
       "title": "【モンハンワイルズ】アズズのなめし革の入手方法と使い道【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/487724",
@@ -1308,6 +1285,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "e27b44df8593",
+      "title": "【モンハンワイルズ】モリバーのトッテオキの入手方法と使い道【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/503240",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-19T10:52:34.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "088d1f761599",
