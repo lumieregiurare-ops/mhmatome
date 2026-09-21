@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-21T08:30:15.959Z",
+  "updatedAt": "2026-09-21T09:00:14.564Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 61,
+  "total": 62,
   "todayCount": 9,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 2
+      "count": 3
     },
     {
       "id": "sale",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 51
+      "count": 52
     },
     {
       "id": "rise",
@@ -100,10 +100,14 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 19
+      "count": 21
     },
     {
       "name": "AppBank",
+      "count": 4
+    },
+    {
+      "name": "ファミ通",
       "count": 4
     },
     {
@@ -119,11 +123,7 @@
       "count": 3
     },
     {
-      "name": "famitsu.com",
-      "count": 3
-    },
-    {
-      "name": "news.denfaminicogamer.jp",
+      "name": "電ファミニコゲーマー",
       "count": 3
     },
     {
@@ -167,19 +167,11 @@
       "count": 1
     },
     {
-      "name": "ニコニコニュース",
-      "count": 1
-    },
-    {
-      "name": "ファミ通",
+      "name": "news.nicovideo.jp",
       "count": 1
     },
     {
       "name": "PR TIMES",
-      "count": 1
-    },
-    {
-      "name": "インサイド",
       "count": 1
     },
     {
@@ -204,15 +196,15 @@
       "image": "https://i3.gamebiz.jp/media/1bd8218d-4d4f-4575-a7bf-7997d2418107.jpg",
       "leadSource": "gamebiz【ゲームビズ】",
       "publishedAt": "2026-09-20T09:19:00.000Z",
-      "sourceCount": 7,
-      "articleCount": 7,
+      "sourceCount": 6,
+      "articleCount": 6,
       "categories": [
         "other"
       ],
       "keywords": [
         "アセンダンス",
-        "ワイルズ",
-        "tgs2026"
+        "モンスター",
+        "モンスターハンターワイルズ"
       ],
       "articles": [
         {
@@ -230,16 +222,9 @@
           "isPR": false
         },
         {
-          "title": "『モンハンワイルズ：アセンダンス』開発者インタビュー―目指したのは「ワイルズの正統進化」、ブーストブレイサーは“チャンスメイクの新しい手段”、ラオシャンロンは「結構進化する」【TGS2026】",
-          "url": "https://www.inside-games.jp/article/2026/09/19/187988.html",
-          "source": "インサイド",
-          "publishedAt": "2026-09-18T15:05:02.000Z",
-          "isPR": false
-        },
-        {
           "title": "『モンハンワイルズ：アセンダンス』インタビュー。メインモンスターは「まだ公開していない」。リリース時点でやり応えのあるエンドコンテンツを用意【TGS2026】",
           "url": "https://www.famitsu.com/article/202609/88517",
-          "source": "famitsu.com",
+          "source": "ファミ通",
           "publishedAt": "2026-09-18T15:00:00.000Z",
           "isPR": false
         },
@@ -253,7 +238,7 @@
         {
           "title": "『モンスターハンターワイルズ：アセンダンス』のメインモンスターは、「まだ登場していない」【『モンハンアセンダンス』インタビュー】",
           "url": "https://news.denfaminicogamer.jp/interview/260919m",
-          "source": "news.denfaminicogamer.jp",
+          "source": "電ファミニコゲーマー",
           "publishedAt": "2026-09-18T15:00:00.000Z",
           "isPR": false
         }
@@ -267,7 +252,7 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/576752.png?date=1789120670",
       "leadSource": "GameWith",
       "publishedAt": "2026-09-19T04:56:21.000Z",
-      "sourceCount": 6,
+      "sourceCount": 5,
       "articleCount": 6,
       "categories": [
         "other"
@@ -281,7 +266,7 @@
         {
           "title": "『モンハンワイルズ：アセンダンス』フルフルの登場が判明！ 洞窟の壁から首をニョキッと伸ばして雷ブレスを吐くシーンも【TGS2026】",
           "url": "https://www.famitsu.com/article/202609/88621",
-          "source": "famitsu.com",
+          "source": "ファミ通",
           "publishedAt": "2026-09-19T04:47:00.000Z",
           "isPR": false
         },
@@ -302,7 +287,7 @@
         {
           "title": "『モンハンワイルズ：アセンダンス』“実機プレイ”が世界初公開！「フルフル」が登場！",
           "url": "https://news.denfaminicogamer.jp/news/2609192n",
-          "source": "news.denfaminicogamer.jp",
+          "source": "電ファミニコゲーマー",
           "publishedAt": "2026-09-19T04:31:00.000Z",
           "isPR": false
         },
@@ -320,19 +305,19 @@
       "title": "カプコンブースで『モンハンワイルズ：アセンダンス』『ドラゴンズドグマ2：ダークアリズン』を試遊！フォトレポもあるよ【TGS2026】",
       "summary": "",
       "url": "https://leveluplogy.jp/archives/41189",
-      "image": "https://leveluplogy.jp/wp-content/uploads/2026/09/モンハン_R-1.jpg",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577281.png?date=1789571405",
       "leadSource": "leveluplogy.jp",
       "publishedAt": "2026-09-21T05:25:14.000Z",
       "sourceCount": 4,
-      "articleCount": 14,
+      "articleCount": 16,
       "categories": [
         "other",
         "guide"
       ],
       "keywords": [
         "モンハンワイルズ",
-        "アセンダンス",
-        "ワイルズ"
+        "ワイルズ",
+        "アセンダンス"
       ],
       "articles": [
         {
@@ -422,7 +407,7 @@
         {
           "title": "『モンハン』のアイルーや『バイオハザード』のケンド鉄砲店など、TGSのカプコンブースは見て楽しめる展示がたくさん。『ス",
           "url": "https://news.nicovideo.jp/watch/nw19793077",
-          "source": "ニコニコニュース",
+          "source": "news.nicovideo.jp",
           "publishedAt": "2026-09-19T08:30:28.000Z",
           "isPR": false
         },
@@ -500,12 +485,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-21T08:00:14.564Z",
-    "previousCount": 62,
-    "newCount": 1
+    "previousAt": "2026-09-21T08:30:15.959Z",
+    "previousCount": 61,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-21T09:00:15.959Z",
+  "nextUpdateAt": "2026-09-21T09:30:14.564Z",
   "items": [
     {
       "id": "48fc8d21e61c",
@@ -536,7 +521,7 @@
       "source": "leveluplogy.jp",
       "summary": "",
       "publishedAt": "2026-09-21T05:25:14.000Z",
-      "image": "https://leveluplogy.jp/wp-content/uploads/2026/09/モンハン_R-1.jpg",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -618,7 +603,7 @@
       "source": "ゲーム情報！ゲームのはなし",
       "summary": "",
       "publishedAt": "2026-09-20T20:03:05.000Z",
-      "image": "https://gamestalk.net/wp-content/uploads/2026/09/MHW-Ascendance_260921.webp",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -949,7 +934,7 @@
       "source": "ゲーム情報！ゲームのはなし",
       "summary": "",
       "publishedAt": "2026-09-19T19:33:45.000Z",
-      "image": "https://gamestalk.net/wp-content/uploads/2026/09/MHW-Ascendance_260920.webp",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1068,6 +1053,27 @@
       "isNew": false
     },
     {
+      "id": "fdd29d02084d",
+      "title": "【モンハンワイルズ】歴戦狩猟の証2の入手方法と使い道【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/487838",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-19T10:52:46.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "088d1f761599",
       "title": "「モンスターハンターワイルズ」Switch 2版が一足先に遊べる体験会が10月に東京と大阪で開催。参加記念品ももらえる",
       "url": "https://www.4gamer.net/games/014/G101402/20260919056/",
@@ -1093,7 +1099,7 @@
       "title": "『モンハン』のアイルーや『バイオハザード』のケンド鉄砲店など、TGSのカプコンブースは見て楽しめる展示がたくさん。『ス",
       "url": "https://news.nicovideo.jp/watch/nw19793077",
       "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
+      "source": "news.nicovideo.jp",
       "summary": "",
       "publishedAt": "2026-09-19T08:30:28.000Z",
       "image": "",
@@ -1129,6 +1135,27 @@
       "isNew": false
     },
     {
+      "id": "50023f713e3d",
+      "title": "【モンハンワイルズ】狩猟笛の操作方法と使い方・立ち回り【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/461262",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-19T07:35:24.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/461262.png?date=1727167113",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "faf564835115",
       "title": "【アセンダンス】弓の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/484164",
@@ -1157,7 +1184,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "We revealed during a stage event at the Capcom booth at Tokyo Game Show 2026 that Khezu will appear in Monster Hunter Wilds: Ascendance. Khezu {STEAM_CLAN_IMAG…",
       "publishedAt": "2026-09-19T07:00:19.000Z",
-      "image": "https://clan.fastly.steamstatic.com/images/44795648/6287ba9d35d1ffa19386af4c6b9d0ec9e2de8625.png",
+      "image": "https://clan.akamai.steamstatic.com/images/44795648/6287ba9d35d1ffa19386af4c6b9d0ec9e2de8625.png",
       "categories": [
         "other"
       ],
@@ -1178,7 +1205,7 @@
       "source": "iyusuke.jp",
       "summary": "",
       "publishedAt": "2026-09-19T07:00:00.000Z",
-      "image": "https://iyusuke.jp/wp-content/uploads/2026/09/mhws-boostblaser-1.webp",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1199,7 +1226,7 @@
       "source": "iyusuke.jp",
       "summary": "",
       "publishedAt": "2026-09-19T07:00:00.000Z",
-      "image": "https://iyusuke.jp/wp-content/uploads/2026/09/mhws-ascendance-12.webp",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1362,7 +1389,7 @@
       "title": "『モンハンワイルズ：アセンダンス』フルフルの登場が判明！ 洞窟の壁から首をニョキッと伸ばして雷ブレスを吐くシーンも【TGS2026】",
       "url": "https://www.famitsu.com/article/202609/88621",
       "host": "famitsu.com",
-      "source": "famitsu.com",
+      "source": "ファミ通",
       "summary": "",
       "publishedAt": "2026-09-19T04:47:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/88621/thumbnail_COJG.jpg?x=1280",
@@ -1425,7 +1452,7 @@
       "title": "『モンハンワイルズ：アセンダンス』“実機プレイ”が世界初公開！「フルフル」が登場！",
       "url": "https://news.denfaminicogamer.jp/news/2609192n",
       "host": "news.denfaminicogamer.jp",
-      "source": "news.denfaminicogamer.jp",
+      "source": "電ファミニコゲーマー",
       "summary": "",
       "publishedAt": "2026-09-19T04:31:00.000Z",
       "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/ae91180a-b46d-45d8-89f7-1c59a3c07382-1024x576.png",
@@ -1465,12 +1492,12 @@
     {
       "id": "151bf1bbb896",
       "title": "『モンハンワイルズ』Nintendo Switch 2版の実機映像が公開。近日配信予定の体験版は、ローカル通信にも対応",
-      "url": "https://news.denfaminicogamer.jp/?p",
+      "url": "https://news.denfaminicogamer.jp/news/2609192i",
       "host": "news.denfaminicogamer.jp",
-      "source": "news.denfaminicogamer.jp",
+      "source": "電ファミニコゲーマー",
       "summary": "",
       "publishedAt": "2026-09-19T04:16:00.000Z",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2021/08/header.png",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/HSimwaNbsAAFF1E.jpg",
       "categories": [
         "new"
       ],
@@ -1509,7 +1536,7 @@
       "title": "本日（9/19）から2日間、TGS2026に合わせて『モンハンワイルズ：アセンダンス』、『ストレンジャー ザン ヘヴン』などゲーム最新情報をお届けする生放送をファミ通TUBEで配信！ MCは声優の青木瑠璃子さんが担当",
       "url": "https://www.famitsu.com/article/202609/88593",
       "host": "famitsu.com",
-      "source": "famitsu.com",
+      "source": "ファミ通",
       "summary": "",
       "publishedAt": "2026-09-19T03:10:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/88593/thumbnail_Nzyt.jpg?x=1280",
@@ -1547,27 +1574,6 @@
       "isNew": false
     },
     {
-      "id": "d2b45155477d",
-      "title": "『モンハンワイルズ：アセンダンス』開発者インタビュー―目指したのは「ワイルズの正統進化」、ブーストブレイサーは“チャンスメイクの新しい手段”、ラオシャンロンは「結構進化する」【TGS2026】",
-      "url": "https://www.inside-games.jp/article/2026/09/19/187988.html",
-      "host": "inside-games.jp",
-      "source": "インサイド",
-      "summary": "",
-      "publishedAt": "2026-09-18T15:05:02.000Z",
-      "image": "https://www.inside-games.jp/imgs/ogp_f/1783217.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "0b163398fc65",
       "title": "『モンスターハンターワイルズ：アセンダンス』では“『ワイルズ』の反省点”を徹底的に見直し、「もっと面白くなるところ」を伸ばす。全武器種ぶんブーストブレイサー実装の苦労など、開発陣に訊いた",
       "url": "https://automaton-media.com/articles/interviewsjp/20260919-468749/",
@@ -1593,7 +1599,7 @@
       "title": "『モンハンワイルズ：アセンダンス』インタビュー。メインモンスターは「まだ公開していない」。リリース時点でやり応えのあるエンドコンテンツを用意【TGS2026】",
       "url": "https://www.famitsu.com/article/202609/88517",
       "host": "famitsu.com",
-      "source": "famitsu.com",
+      "source": "ファミ通",
       "summary": "",
       "publishedAt": "2026-09-18T15:00:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/88517/thumbnail_Irjq.jpg?x=1280",
@@ -1635,7 +1641,7 @@
       "title": "『モンスターハンターワイルズ：アセンダンス』のメインモンスターは、「まだ登場していない」【『モンハンアセンダンス』インタビュー】",
       "url": "https://news.denfaminicogamer.jp/interview/260919m",
       "host": "news.denfaminicogamer.jp",
-      "source": "news.denfaminicogamer.jp",
+      "source": "電ファミニコゲーマー",
       "summary": "",
       "publishedAt": "2026-09-18T15:00:00.000Z",
       "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2027/09/7cbe9062ad7314e1970d8ac080002939-1024x576.png",
@@ -1743,7 +1749,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "Thank you so much for your continued support of Monster Hunter Wilds. In preparation for the release of Monster Hunter Wilds: Ascendance, scheduled for 2027, t…",
       "publishedAt": "2026-09-17T06:34:04.000Z",
-      "image": "https://clan.fastly.steamstatic.com/images/44795648/049b146a035654cc8c2558528402243f9aba3897.png",
+      "image": "https://clan.akamai.steamstatic.com/images/44795648/049b146a035654cc8c2558528402243f9aba3897.png",
       "categories": [
         "other"
       ],
@@ -1764,7 +1770,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "During Capcom Spotlight | TGS 2026, we revealed that the elder dragon Teostra will appear in Monster Hunter Wilds: Ascendance. Teostra {STEAM_CLAN_IMAGE}/44795…",
       "publishedAt": "2026-09-17T05:33:54.000Z",
-      "image": "https://clan.fastly.steamstatic.com/images/44795648/53b1c95a3d30e47cc625f6f570ae299ce07b9b6f.png",
+      "image": "https://clan.akamai.steamstatic.com/images/44795648/53b1c95a3d30e47cc625f6f570ae299ce07b9b6f.png",
       "categories": [
         "other"
       ],
