@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-21T00:30:13.875Z",
+  "updatedAt": "2026-09-21T01:00:14.850Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 70,
-  "todayCount": 4,
+  "total": 72,
+  "todayCount": 5,
   "categories": [
     {
       "id": "new",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 57
+      "count": 59
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 55
+      "count": 57
     },
     {
       "id": "rise",
@@ -100,10 +100,14 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 20
+      "count": 21
     },
     {
       "name": "AppBank",
+      "count": 4
+    },
+    {
+      "name": "YouTube",
       "count": 4
     },
     {
@@ -117,10 +121,6 @@
     {
       "name": "ファミ通",
       "count": 4
-    },
-    {
-      "name": "YouTube",
-      "count": 3
     },
     {
       "name": "iyusuke.jp",
@@ -213,15 +213,15 @@
       "leadSource": "AUTOMATON",
       "publishedAt": "2026-09-20T20:03:05.000Z",
       "sourceCount": 9,
-      "articleCount": 21,
+      "articleCount": 22,
       "categories": [
         "other",
         "new"
       ],
       "keywords": [
         "ワイルズ",
-        "アセンダンス",
-        "モンハンワイルズ"
+        "モンハンワイルズ",
+        "アセンダンス"
       ],
       "articles": [
         {
@@ -522,12 +522,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-21T00:00:15.677Z",
-    "previousCount": 72,
-    "newCount": 1
+    "previousAt": "2026-09-21T00:30:13.875Z",
+    "previousCount": 70,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-21T01:00:13.875Z",
+  "nextUpdateAt": "2026-09-21T01:30:14.850Z",
   "items": [
     {
       "id": "b50511f10108",
@@ -538,6 +538,27 @@
       "summary": "",
       "publishedAt": "2026-09-21T00:11:37.000Z",
       "image": "https://www.appbank.net/wp-content/uploads/2026/09/004-34.webp",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "fce972bac836",
+      "title": "【モンハンワイルズ リハビリ 片手剣】ドシャグマ・リオレウス・オドガロン",
+      "url": "https://youtu.be/UShYq-6ITMA?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-09-20T23:52:29.000Z",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1088,6 +1109,27 @@
       "isNew": false
     },
     {
+      "id": "15df437f504b",
+      "title": "【モンハンワイルズ】金のお守りチケットの入手方法と使い道【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/545782",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-19T10:52:32.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "088d1f761599",
       "title": "「モンスターハンターワイルズ」Switch 2版が一足先に遊べる体験会が10月に東京と大阪で開催。参加記念品ももらえる",
       "url": "https://www.4gamer.net/games/014/G101402/20260919056/",
@@ -1219,7 +1261,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "We revealed during a stage event at the Capcom booth at Tokyo Game Show 2026 that Khezu will appear in Monster Hunter Wilds: Ascendance. Khezu {STEAM_CLAN_IMAG…",
       "publishedAt": "2026-09-19T07:00:19.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/44795648/6287ba9d35d1ffa19386af4c6b9d0ec9e2de8625.png",
+      "image": "https://clan.fastly.steamstatic.com/images/44795648/6287ba9d35d1ffa19386af4c6b9d0ec9e2de8625.png",
       "categories": [
         "other"
       ],
@@ -1927,7 +1969,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "Thank you so much for your continued support of Monster Hunter Wilds. In preparation for the release of Monster Hunter Wilds: Ascendance, scheduled for 2027, t…",
       "publishedAt": "2026-09-17T06:34:04.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/44795648/049b146a035654cc8c2558528402243f9aba3897.png",
+      "image": "https://clan.fastly.steamstatic.com/images/44795648/049b146a035654cc8c2558528402243f9aba3897.png",
       "categories": [
         "other"
       ],
@@ -1948,7 +1990,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "During Capcom Spotlight | TGS 2026, we revealed that the elder dragon Teostra will appear in Monster Hunter Wilds: Ascendance. Teostra {STEAM_CLAN_IMAGE}/44795…",
       "publishedAt": "2026-09-17T05:33:54.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/44795648/53b1c95a3d30e47cc625f6f570ae299ce07b9b6f.png",
+      "image": "https://clan.fastly.steamstatic.com/images/44795648/53b1c95a3d30e47cc625f6f570ae299ce07b9b6f.png",
       "categories": [
         "other"
       ],
@@ -1969,7 +2011,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "All-new actions are coming to Monster Hunter Wilds: Ascendance, a massive expansion scheduled to release in 2027. Here's your first look at what's in store for…",
       "publishedAt": "2026-09-16T08:49:24.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/44795648/691d31874561e8e5fb63b9c20c8c8bd6eedd344c.png",
+      "image": "https://clan.fastly.steamstatic.com/images/44795648/691d31874561e8e5fb63b9c20c8c8bd6eedd344c.png",
       "categories": [
         "other"
       ],
