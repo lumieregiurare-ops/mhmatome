@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T23:00:16.451Z",
+  "updatedAt": "2026-09-22T23:30:16.524Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": ""
   },
   "total": 49,
-  "todayCount": 3,
+  "todayCount": 4,
   "categories": [
     {
       "id": "new",
@@ -377,12 +377,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-22T22:30:16.294Z",
+    "previousAt": "2026-09-22T23:00:16.451Z",
     "previousCount": 49,
-    "newCount": 2
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-22T23:30:16.451Z",
+  "nextUpdateAt": "2026-09-23T00:00:16.524Z",
   "items": [
     {
       "id": "1522d4cef7f3",
@@ -416,6 +416,27 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545381.png?date=1771384851",
       "categories": [
         "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "d8b95bbbc335",
+      "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/563040",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-22T15:56:00.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563040.png?date=1789770455",
+      "categories": [
+        "other"
       ],
       "series": [
         "wilds"
@@ -691,27 +712,6 @@
       ],
       "series": [
         "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d8b95bbbc335",
-      "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563040",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-21T18:24:46.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563040.png?date=1789770455",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1366,7 +1366,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "official",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3cc04d1f9afe",
@@ -1408,7 +1408,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "official",
-      "isNew": true
+      "isNew": false
     }
   ]
 }
