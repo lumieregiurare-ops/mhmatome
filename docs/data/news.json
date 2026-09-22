@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-09-22T21:00:15.344Z",
+  "updatedAt": "2026-09-22T21:30:17.612Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 52,
+  "total": 51,
   "todayCount": 3,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 5
+      "count": 4
     },
     {
       "id": "update",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 4
+      "count": 3
     },
     {
       "id": "outlanders",
@@ -107,12 +107,12 @@
       "count": 8
     },
     {
-      "name": "AppMedia",
+      "name": "Yahoo!ニュース",
       "count": 3
     },
     {
-      "name": "Yahoo!ニュース",
-      "count": 3
+      "name": "AppMedia",
+      "count": 2
     },
     {
       "name": "電ファミニコゲーマー",
@@ -139,7 +139,7 @@
       "count": 1
     },
     {
-      "name": "ファミ通",
+      "name": "famitsu.com",
       "count": 1
     },
     {
@@ -201,7 +201,7 @@
         {
           "title": "『モンハンワイルズ：アセンダンス』フルフルベビーが登場。近くのものに反応して噛みつくフルフルの幼生。小さい尻尾がかわいい",
           "url": "https://www.famitsu.com/article/202609/88822",
-          "source": "ファミ通",
+          "source": "famitsu.com",
           "publishedAt": "2026-09-21T12:22:00.000Z",
           "isPR": false
         }
@@ -385,12 +385,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-22T20:30:21.885Z",
-    "previousCount": 51,
-    "newCount": 1
+    "previousAt": "2026-09-22T21:00:15.344Z",
+    "previousCount": 52,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-22T21:30:15.344Z",
+  "nextUpdateAt": "2026-09-22T22:00:17.612Z",
   "items": [
     {
       "id": "24347ba4d574",
@@ -411,7 +411,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ae22bde960f2",
@@ -442,7 +442,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-09-22T15:47:18.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
+      "image": "",
       "categories": [
         "guide"
       ],
@@ -488,27 +488,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "6fae96ec537f",
-      "title": "【モンハンストーリーズ3】体験版はどこまでできる？｜やっておきたいこと【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79521053",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-09-22T13:00:18.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2025/11/153717_b6xeo.webp",
-      "categories": [
-        "new"
-      ],
-      "series": [
-        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -859,7 +838,7 @@
       "title": "『モンハンワイルズ：アセンダンス』フルフルベビーが登場。近くのものに反応して噛みつくフルフルの幼生。小さい尻尾がかわいい",
       "url": "https://www.famitsu.com/article/202609/88822",
       "host": "famitsu.com",
-      "source": "ファミ通",
+      "source": "famitsu.com",
       "summary": "",
       "publishedAt": "2026-09-21T12:22:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/88822/thumbnail_BiJX.jpg?x=1280",
@@ -1067,7 +1046,7 @@
     {
       "id": "fce972bac836",
       "title": "【モンハンワイルズ リハビリ 片手剣】ドシャグマ・リオレウス・オドガロン",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BWWtyYTNscUplNTJNNXotZGZIdWpBbWVoUGs4ZjdFajFFdkJtZlRJZkFnZmxWcmdzNmhtMTl2MXUzM0QxQkYyWk00UmZHbEcxcUkwT0VyMDdnbWlB?oc=5",
+      "url": "https://youtu.be/UShYq-6ITMA?si",
       "host": "youtu.be",
       "source": "YouTube",
       "summary": "",
@@ -1081,7 +1060,7 @@
       ],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
