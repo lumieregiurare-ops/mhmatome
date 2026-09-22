@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-22T08:00:17.252Z",
+  "updatedAt": "2026-09-22T08:30:16.464Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 56,
+  "total": 54,
   "todayCount": 7,
   "categories": [
     {
@@ -47,7 +47,7 @@
     {
       "id": "sale",
       "label": "セール",
-      "count": 1
+      "count": 0
     },
     {
       "id": "community",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 46
+      "count": 45
     }
   ],
   "series": [
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 1
+      "count": 0
     },
     {
       "id": "outlanders",
@@ -115,10 +115,6 @@
       "count": 2
     },
     {
-      "name": "ガジェット通信",
-      "count": 2
-    },
-    {
       "name": "AppBank",
       "count": 2
     },
@@ -131,7 +127,7 @@
       "count": 2
     },
     {
-      "name": "news.yahoo.co.jp",
+      "name": "Yahoo!ニュース",
       "count": 2
     },
     {
@@ -143,15 +139,15 @@
       "count": 2
     },
     {
-      "name": "japan.storm.mg",
-      "count": 1
-    },
-    {
-      "name": "gamereactor.jp",
+      "name": "風傳媒",
       "count": 1
     },
     {
       "name": "ファミ通",
+      "count": 1
+    },
+    {
+      "name": "ガジェット通信",
       "count": 1
     },
     {
@@ -275,6 +271,13 @@
       ],
       "articles": [
         {
+          "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563077",
+          "source": "GameWith",
+          "publishedAt": "2026-09-22T05:01:05.000Z",
+          "isPR": false
+        },
+        {
           "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/574841",
           "source": "GameWith",
@@ -307,13 +310,6 @@
           "url": "https://gamewith.jp/mhwilds/577734",
           "source": "GameWith",
           "publishedAt": "2026-09-21T08:39:46.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/563077",
-          "source": "GameWith",
-          "publishedAt": "2026-09-21T08:08:21.000Z",
           "isPR": false
         },
         {
@@ -373,7 +369,7 @@
       "summary": "",
       "url": "https://japan.storm.mg/articles/1165951",
       "image": "https://images.storm.mg/cloud/1a2b7d7ba01c720c918a16700e3da4d811fa7259.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2217886%2Fy1HINtX36jwdm2BXMW6gKj9KItZYD4P5bNUZoTTo.jpg&g=fp&h=900&resize=fill&w=1600&x=0.5&y=0.63&format=jpg",
-      "leadSource": "japan.storm.mg",
+      "leadSource": "風傳媒",
       "publishedAt": "2026-09-22T03:15:46.000Z",
       "sourceCount": 2,
       "articleCount": 2,
@@ -454,12 +450,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-22T07:30:24.330Z",
-    "previousCount": 58,
-    "newCount": 8
+    "previousAt": "2026-09-22T08:00:17.252Z",
+    "previousCount": 56,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-22T08:30:17.252Z",
+  "nextUpdateAt": "2026-09-22T09:00:16.464Z",
   "items": [
     {
       "id": "488c58093be3",
@@ -483,11 +479,32 @@
       "isNew": false
     },
     {
+      "id": "46ab930cbc6c",
+      "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/563077",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-22T05:01:05.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "64f020745d7f",
       "title": "【TGS2026】カプコン新作を一挙試遊 『モンハンワイルズ』世界初、『ドラゴンズドグマ2』『ロックマン』 日本初",
       "url": "https://japan.storm.mg/articles/1165951",
       "host": "japan.storm.mg",
-      "source": "japan.storm.mg",
+      "source": "風傳媒",
       "summary": "",
       "publishedAt": "2026-09-22T03:15:46.000Z",
       "image": "https://images.storm.mg/cloud/1a2b7d7ba01c720c918a16700e3da4d811fa7259.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2217886%2Fy1HINtX36jwdm2BXMW6gKj9KItZYD4P5bNUZoTTo.jpg&g=fp&h=900&resize=fill&w=1600&x=0.5&y=0.63&format=jpg",
@@ -586,27 +603,6 @@
       "isNew": false
     },
     {
-      "id": "62718ef16644",
-      "title": "モンスターハンターストーリーズ3:ツイステッド・リフレクション - ゴー・フォーストレーラー(PS5)",
-      "url": "https://www.gamereactor.jp/video/788053/3+-+PS5/",
-      "host": "gamereactor.jp",
-      "source": "gamereactor.jp",
-      "summary": "",
-      "publishedAt": "2026-09-21T17:00:40.000Z",
-      "image": "https://www.gamereactor.jp/media/grtv/80/788053_w1600.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "f57ee25aeb4c",
       "title": "『モンハンワイルズ：アセンダンス』「フルフルベビー」の単体画像がお披露目。奇怪竜「フルフル」とともに登場、ちっちゃくてかわいい……かも",
       "url": "https://news.denfaminicogamer.jp/news/2609213a",
@@ -668,7 +664,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a0ebe7695864",
@@ -784,27 +780,6 @@
       "summary": "",
       "publishedAt": "2026-09-21T08:39:46.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577734.png?date=1789765976",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "46ab930cbc6c",
-      "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563077",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-21T08:08:21.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
       "categories": [
         "other"
       ],
@@ -962,7 +937,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "778fbb3d5344",
@@ -1025,7 +1000,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "14fb60394f4b",
@@ -1129,7 +1104,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2e75eb4018e2",
@@ -1157,7 +1132,7 @@
       "title": "スイッチ2版『モンハンワイルズ』過去アプデ全部入りでも他機器より容量大幅減/とにかく操作性にこだわった1,000回遊べる系ローグライク『勇者ローグ』10月31日リリース/任天堂が拒絶査定された『パルワールド』関連特許に不服審判請求【週刊ス…",
       "url": "https://news.yahoo.co.jp/articles/6e090dadb44012d41ca543f1aae3b5c329a83a0e",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-09-20T06:00:03.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260920-00000008-gamespav-000-1-view.jpg?exp=10800",
@@ -1192,14 +1167,14 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fb0c3b65f878",
       "title": "「モンハン」最新拡張コンテンツ 幻想的な空中遺跡で新たな狩猟【TGS2026】（日経クロストレンド）",
       "url": "https://news.yahoo.co.jp/articles/2861b5895d43e5e7f57780b32257a6aebe0feeac",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-09-20T02:35:58.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260920-41758217-nkctrend-000-1-view.jpg?exp=10800",
@@ -1253,7 +1228,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "92890d95fc1c",
@@ -1270,25 +1245,6 @@
       "series": [
         "wilds"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "fb0c4e10a216",
-      "title": "シルバーウィークを全て捧げよ / モンハン2作で2000円、バイオ3作で1万円の超絶セール開催中【Nintendo Switch】",
-      "url": "https://getnews.jp/archives/3744556",
-      "host": "getnews.jp",
-      "source": "ガジェット通信",
-      "summary": "",
-      "publishedAt": "2026-09-19T12:00:25.000Z",
-      "image": "https://rensai.jp/wp-content/uploads/2026/02/IMG_2831.png",
-      "categories": [
-        "sale"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1482,7 +1438,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "088d1f761599",
