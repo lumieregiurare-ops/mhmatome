@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-09-22T15:00:18.865Z",
+  "updatedAt": "2026-09-22T15:30:17.618Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 49,
+  "total": 50,
   "todayCount": 0,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 4
+      "count": 5
     },
     {
       "id": "update",
@@ -32,7 +32,7 @@
     {
       "id": "goods",
       "label": "グッズ・フィギュア",
-      "count": 1
+      "count": 0
     },
     {
       "id": "media",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 5
+      "count": 6
     },
     {
       "id": "sale",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 41
+      "count": 40
     },
     {
       "id": "rise",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 1
+      "count": 3
     },
     {
       "id": "outlanders",
@@ -111,15 +111,19 @@
       "count": 3
     },
     {
+      "name": "AppMedia",
+      "count": 2
+    },
+    {
       "name": "電ファミニコゲーマー",
       "count": 2
     },
     {
-      "name": "電撃オンライン",
+      "name": "dengekionline.com",
       "count": 2
     },
     {
-      "name": "AppBank",
+      "name": "appbank.net",
       "count": 2
     },
     {
@@ -139,11 +143,11 @@
       "count": 1
     },
     {
-      "name": "ファミ通",
+      "name": "famitsu.com",
       "count": 1
     },
     {
-      "name": "getnews.jp",
+      "name": "ガジェット通信",
       "count": 1
     },
     {
@@ -160,10 +164,6 @@
     },
     {
       "name": "Gamer",
-      "count": 1
-    },
-    {
-      "name": "AUTOMATON",
       "count": 1
     },
     {
@@ -194,14 +194,14 @@
         {
           "title": "『モンハンワイルズ：アセンダンス』フルフルベビーの高画質ビジュアル解禁",
           "url": "https://dengekionline.com/article/202609/88824",
-          "source": "電撃オンライン",
+          "source": "dengekionline.com",
           "publishedAt": "2026-09-21T13:11:00.000Z",
           "isPR": false
         },
         {
           "title": "『モンハンワイルズ：アセンダンス』フルフルベビーが登場。近くのものに反応して噛みつくフルフルの幼生。小さい尻尾がかわいい",
           "url": "https://www.famitsu.com/article/202609/88822",
-          "source": "ファミ通",
+          "source": "famitsu.com",
           "publishedAt": "2026-09-21T12:22:00.000Z",
           "isPR": false
         }
@@ -341,7 +341,7 @@
       "summary": "",
       "url": "https://getnews.jp/archives/3744786",
       "image": "https://rensai.jp/wp-content/uploads/2026/09/7a504b08a4ce2b5e2c6c7c4d3bc3900d.jpg",
-      "leadSource": "getnews.jp",
+      "leadSource": "ガジェット通信",
       "publishedAt": "2026-09-21T12:00:02.000Z",
       "sourceCount": 2,
       "articleCount": 2,
@@ -412,7 +412,7 @@
         {
           "title": "『モンハンワイルズ：アセンダンス』インタビュー。ブーストアクションの効果的な使い方は？ 初めての試遊にテオ・テスカトルを選んだ理由やSwitch2版のパフォーマンスにも注目【TGS2026】",
           "url": "https://dengekionline.com/article/202609/88426",
-          "source": "電撃オンライン",
+          "source": "dengekionline.com",
           "publishedAt": "2026-09-19T18:53:00.000Z",
           "isPR": false
         }
@@ -420,13 +420,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-22T14:34:24.406Z",
+    "previousAt": "2026-09-22T15:00:18.865Z",
     "previousCount": 49,
-    "newCount": 1
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-22T15:30:18.865Z",
+  "nextUpdateAt": "2026-09-22T16:00:17.618Z",
   "items": [
+    {
+      "id": "ced5755e5db0",
+      "title": "【モンハンストーリーズ3】おすすめオトモン｜進行度別に掲載【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79833716",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-09-22T14:20:51.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/173337_x0wn3.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "e6d79acfa4bd",
       "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
@@ -445,6 +466,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "6fae96ec537f",
+      "title": "【モンハンストーリーズ3】体験版はどこまでできる？｜やっておきたいこと【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79521053",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-09-22T13:00:18.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2025/11/153717_b6xeo.webp",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "5fc879b1cca5",
@@ -740,14 +782,14 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a0ebe7695864",
       "title": "『モンハンワイルズ：アセンダンス』フルフルベビーの高画質ビジュアル解禁",
       "url": "https://dengekionline.com/article/202609/88824",
       "host": "dengekionline.com",
-      "source": "電撃オンライン",
+      "source": "dengekionline.com",
       "summary": "",
       "publishedAt": "2026-09-21T13:11:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/88824/ogp_mkZd.jpg?x=1280",
@@ -789,7 +831,7 @@
       "title": "『モンハンワイルズ：アセンダンス』フルフルベビーが登場。近くのものに反応して噛みつくフルフルの幼生。小さい尻尾がかわいい",
       "url": "https://www.famitsu.com/article/202609/88822",
       "host": "famitsu.com",
-      "source": "ファミ通",
+      "source": "famitsu.com",
       "summary": "",
       "publishedAt": "2026-09-21T12:22:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/88822/thumbnail_BiJX.jpg?x=1280",
@@ -810,7 +852,7 @@
       "title": "『モンハンNow』プロモコードあり!! 中止になった東京ゲームショウ2026最終日ライブ配信リポート",
       "url": "https://getnews.jp/archives/3744786",
       "host": "getnews.jp",
-      "source": "getnews.jp",
+      "source": "ガジェット通信",
       "summary": "",
       "publishedAt": "2026-09-21T12:00:02.000Z",
       "image": "https://rensai.jp/wp-content/uploads/2026/09/7a504b08a4ce2b5e2c6c7c4d3bc3900d.jpg",
@@ -939,7 +981,7 @@
       "source": "leveluplogy.jp",
       "summary": "",
       "publishedAt": "2026-09-21T05:25:14.000Z",
-      "image": "https://leveluplogy.jp/wp-content/uploads/2026/09/モンハン_R-1.jpg",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -999,7 +1041,7 @@
       "title": "モンハン部限定！ Nintendo Switch 2版『モンスターハンターワイルズ』体験会、10月10日から東京・大阪で開催",
       "url": "https://www.appbank.net/2026/09/21/game/3111029.php",
       "host": "appbank.net",
-      "source": "AppBank",
+      "source": "appbank.net",
       "summary": "",
       "publishedAt": "2026-09-21T00:11:37.000Z",
       "image": "https://www.appbank.net/wp-content/uploads/2026/09/004-34.webp",
@@ -1023,7 +1065,7 @@
       "source": "ゲーム情報！ゲームのはなし",
       "summary": "",
       "publishedAt": "2026-09-20T20:03:05.000Z",
-      "image": "https://gamestalk.net/wp-content/uploads/2026/09/MHW-Ascendance_260921.webp",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1104,7 +1146,7 @@
       "title": "「モンスターハンター」オーケストラコンサートのライブ録音アルバムが11月11日発売決定",
       "url": "https://www.appbank.net/2026/09/20/iphone-news/3110556.php",
       "host": "appbank.net",
-      "source": "AppBank",
+      "source": "appbank.net",
       "summary": "",
       "publishedAt": "2026-09-20T13:11:27.000Z",
       "image": "https://www.appbank.net/wp-content/uploads/2026/09/001-11.webp",
@@ -1335,7 +1377,7 @@
       "source": "ゲーム情報！ゲームのはなし",
       "summary": "",
       "publishedAt": "2026-09-19T19:33:45.000Z",
-      "image": "https://gamestalk.net/wp-content/uploads/2026/09/MHW-Ascendance_260920.webp",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1353,7 +1395,7 @@
       "title": "『モンハンワイルズ：アセンダンス』インタビュー。ブーストアクションの効果的な使い方は？ 初めての試遊にテオ・テスカトルを選んだ理由やSwitch2版のパフォーマンスにも注目【TGS2026】",
       "url": "https://dengekionline.com/article/202609/88426",
       "host": "dengekionline.com",
-      "source": "電撃オンライン",
+      "source": "dengekionline.com",
       "summary": "",
       "publishedAt": "2026-09-19T18:53:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/88426/ogp_KtCv.JPG?x=1280",
@@ -1377,7 +1419,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "We revealed during a stage event at the Capcom booth at Tokyo Game Show 2026 that Khezu will appear in Monster Hunter Wilds: Ascendance. Khezu {STEAM_CLAN_IMAG…",
       "publishedAt": "2026-09-19T07:00:19.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/44795648/6287ba9d35d1ffa19386af4c6b9d0ec9e2de8625.png",
+      "image": "https://clan.fastly.steamstatic.com/images/44795648/6287ba9d35d1ffa19386af4c6b9d0ec9e2de8625.png",
       "categories": [
         "other"
       ],
@@ -1388,27 +1430,6 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "official",
-      "isNew": false
-    },
-    {
-      "id": "763d75dfe019",
-      "title": "『モンスターハンターワイルズ：アセンダンス』にてフルフルしれっとお披露目で大盛り上がり。“超伸び伸び首だけ乱入”のサプライズ登場",
-      "url": "https://automaton-media.com/articles/newsjp/20260919-468830/",
-      "host": "automaton-media.com",
-      "source": "AUTOMATON",
-      "summary": "最も会場が盛り上がったのは新要素ではなく、愛されるモンスター「フルフル」の登場であった。",
-      "publishedAt": "2026-09-19T05:17:49.000Z",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260919-468830-header.jpg",
-      "categories": [
-        "goods"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
       "isNew": false
     },
     {
@@ -1440,7 +1461,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "Thank you so much for your continued support of Monster Hunter Wilds. In preparation for the release of Monster Hunter Wilds: Ascendance, scheduled for 2027, t…",
       "publishedAt": "2026-09-17T06:34:04.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/44795648/049b146a035654cc8c2558528402243f9aba3897.png",
+      "image": "https://clan.fastly.steamstatic.com/images/44795648/049b146a035654cc8c2558528402243f9aba3897.png",
       "categories": [
         "other"
       ],
