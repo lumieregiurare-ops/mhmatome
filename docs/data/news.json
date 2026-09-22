@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T11:00:18.726Z",
+  "updatedAt": "2026-09-22T11:30:17.626Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -22,7 +22,7 @@
     {
       "id": "event",
       "label": "イベント・クエスト",
-      "count": 0
+      "count": 1
     },
     {
       "id": "collab",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 37
+      "count": 36
     }
   ],
   "series": [
@@ -99,19 +99,23 @@
   ],
   "sources": [
     {
-      "name": "gamewith.jp",
-      "count": 19
+      "name": "GameWith",
+      "count": 20
     },
     {
-      "name": "youtu.be",
+      "name": "YouTube",
       "count": 5
     },
     {
-      "name": "電撃オンライン",
+      "name": "news.yahoo.co.jp",
       "count": 3
     },
     {
       "name": "電ファミニコゲーマー",
+      "count": 2
+    },
+    {
+      "name": "電撃オンライン",
       "count": 2
     },
     {
@@ -127,11 +131,7 @@
       "count": 2
     },
     {
-      "name": "gamer.ne.jp",
-      "count": 2
-    },
-    {
-      "name": "Yahoo!ニュース",
+      "name": "Gamer",
       "count": 2
     },
     {
@@ -144,10 +144,6 @@
     },
     {
       "name": "ファミ通",
-      "count": 1
-    },
-    {
-      "name": "Game*Spark",
       "count": 1
     },
     {
@@ -236,7 +232,7 @@
         {
           "title": "「モンハンワイルズ：アセンダンス」開発陣インタビュー：「ワイルズ」の正当進化と新アクション「ブーストブレイサー」の狙いに迫る【TGS2026】",
           "url": "https://www.gamer.ne.jp/news/202609190046/",
-          "source": "gamer.ne.jp",
+          "source": "Gamer",
           "publishedAt": "2026-09-19T14:14:00.000Z",
           "isPR": false
         }
@@ -248,7 +244,7 @@
       "summary": "",
       "url": "https://youtu.be/qFGW2byalmg",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
-      "leadSource": "youtu.be",
+      "leadSource": "YouTube",
       "publishedAt": "2026-09-22T08:00:39.000Z",
       "sourceCount": 2,
       "articleCount": 3,
@@ -265,14 +261,14 @@
         {
           "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/563077",
-          "source": "gamewith.jp",
+          "source": "GameWith",
           "publishedAt": "2026-09-22T06:11:18.000Z",
           "isPR": false
         },
         {
           "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/574841",
-          "source": "gamewith.jp",
+          "source": "GameWith",
           "publishedAt": "2026-09-22T04:01:23.000Z",
           "isPR": false
         }
@@ -284,7 +280,7 @@
       "summary": "",
       "url": "https://youtu.be/biP2iTcSgiM?si",
       "image": "",
-      "leadSource": "youtu.be",
+      "leadSource": "YouTube",
       "publishedAt": "2026-09-22T08:12:23.000Z",
       "sourceCount": 2,
       "articleCount": 2,
@@ -300,7 +296,7 @@
         {
           "title": "【モンハンナウ】モンハンNow感謝祭【3周年記念】【モンハンNow】",
           "url": "https://gamewith.jp/monsterhunternow/article/show/577438",
-          "source": "gamewith.jp",
+          "source": "GameWith",
           "publishedAt": "2026-09-21T22:37:07.000Z",
           "isPR": false
         }
@@ -336,6 +332,34 @@
       ]
     },
     {
+      "id": "6418d3fc3646",
+      "title": "「一発で死ぬから！」→二発だったのでセーフ（アウト） #モンハンワイルズ #MHWilds #モンスターハンターワイルズ #ゲーム実況 #shorts",
+      "summary": "",
+      "url": "https://youtu.be/e-C5tCsXnV0?si",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/493838.png?date=1750982653",
+      "leadSource": "YouTube",
+      "publishedAt": "2026-09-21T13:35:11.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "community",
+        "event"
+      ],
+      "keywords": [
+        "モンスターハンターワイルズ",
+        "モンハンワイルズ"
+      ],
+      "articles": [
+        {
+          "title": "【モンハンワイルズ】交わりの祭事まとめ【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/493838",
+          "source": "GameWith",
+          "publishedAt": "2026-09-20T08:56:32.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "4ce9cf5f1e73",
       "title": "『モンハンNow』プロモコードあり!! 中止になった東京ゲームショウ2026最終日ライブ配信リポート",
       "summary": "",
@@ -356,19 +380,19 @@
         {
           "title": "【モンハンナウ】狩人たちの夏祭り2026【モンハンNow】",
           "url": "https://gamewith.jp/monsterhunternow/article/show/573258",
-          "source": "gamewith.jp",
+          "source": "GameWith",
           "publishedAt": "2026-09-20T07:33:22.000Z",
           "isPR": false
         }
       ]
     },
     {
-      "id": "48fc8d21e61c",
-      "title": "『モンハンターワイルズ：アセンダンス』TGS2026ブースで上映していた特別映像！5日目中止を受けてオンライン公開へ",
-      "summary": "アイルーのダンスがとにかく可愛い。",
-      "url": "http://www.gamespark.jp/article/2026/09/21/172599.html",
-      "image": "http://www.gamespark.jp/imgs/rss/1196462.png",
-      "leadSource": "Game*Spark",
+      "id": "ca13fe62e11b",
+      "title": "「モンスターハンターワイルズ：アセンダンス」，TGS 2026ブースの特別映像を公開。モンスターの生態やアイルーのダンスを収録［TGS2026］",
+      "summary": "カプコンは本日，ハンティングアクション「モンスターハンターワイルズ：アセンダンス」について，東京ゲームショウ2026のブースで放映された特別映像を公開した。映像では，モンスターたちの生態やアイルーのダンス，モンスター同士の比較などを確認できる。",
+      "url": "https://www.4gamer.net/games/013/G101399/20260921014/",
+      "image": "https://www.4gamer.net/games/013/G101399/20260921014/SS/008.jpg",
+      "leadSource": "4Gamer",
       "publishedAt": "2026-09-21T06:45:03.000Z",
       "sourceCount": 2,
       "articleCount": 2,
@@ -382,29 +406,29 @@
       ],
       "articles": [
         {
-          "title": "「モンスターハンターワイルズ：アセンダンス」，TGS 2026ブースの特別映像を公開。モンスターの生態やアイルーのダンスを収録［TGS2026］",
-          "url": "https://www.4gamer.net/games/013/G101399/20260921014/",
-          "source": "4Gamer",
-          "publishedAt": "2026-09-21T02:56:08.000Z",
+          "title": "『モンハンターワイルズ：アセンダンス』TGS2026ブースで上映していた特別映像！5日目中止を受けてオンライン公開へ",
+          "url": "https://news.yahoo.co.jp/articles/235dd56172ee79c7a38617d354d0cfdcfccee9c3",
+          "source": "news.yahoo.co.jp",
+          "publishedAt": "2026-09-21T06:45:03.000Z",
           "isPR": false
         }
       ]
     }
   ],
   "churn": {
-    "previousAt": "2026-09-22T10:30:22.684Z",
-    "previousCount": 56,
-    "newCount": 2
+    "previousAt": "2026-09-22T11:00:18.726Z",
+    "previousCount": 49,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-22T11:30:18.726Z",
+  "nextUpdateAt": "2026-09-22T12:00:17.626Z",
   "items": [
     {
       "id": "e6d79acfa4bd",
       "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
       "url": "https://gamewith.jp/mhwilds/563096",
       "host": "gamewith.jp",
-      "source": "gamewith.jp",
+      "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-09-22T09:16:15.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
@@ -423,7 +447,7 @@
       "title": "【モンハンnow】次元変異リオレウス亜種/アケノシルム武器は強い？他武器との比較やスタイル強化値、素材緩和など解説！【モンスターハンターNow/モンハンNOW/モンハンなう/モンハンナウ】",
       "url": "https://youtu.be/biP2iTcSgiM?si",
       "host": "youtu.be",
-      "source": "youtu.be",
+      "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-09-22T08:12:23.000Z",
       "image": "",
@@ -444,7 +468,7 @@
       "title": "【初心者&復帰勢へ】アセンダンスまでに作るべき最終・汎用大剣装備を紹介！【モンハンワイルズ】【MHWilds】【mhws】",
       "url": "https://youtu.be/qFGW2byalmg",
       "host": "youtu.be",
-      "source": "youtu.be",
+      "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-09-22T08:00:39.000Z",
       "image": "",
@@ -466,7 +490,7 @@
       "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/563077",
       "host": "gamewith.jp",
-      "source": "gamewith.jp",
+      "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-09-22T06:11:18.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
@@ -487,7 +511,7 @@
       "title": "【アセンダンス】ガンランスの操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/577811",
       "host": "gamewith.jp",
-      "source": "gamewith.jp",
+      "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-09-22T05:53:19.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577811.png?date=1789764143",
@@ -508,7 +532,7 @@
       "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/574841",
       "host": "gamewith.jp",
-      "source": "gamewith.jp",
+      "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-09-22T04:01:23.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574841.png?date=1789771579",
@@ -550,7 +574,7 @@
       "title": "【モンハンナウ】モンハンNow感謝祭【3周年記念】【モンハンNow】",
       "url": "https://gamewith.jp/monsterhunternow/article/show/577438",
       "host": "gamewith.jp",
-      "source": "gamewith.jp",
+      "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-09-21T22:37:07.000Z",
       "image": "",
@@ -571,7 +595,7 @@
       "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/563040",
       "host": "gamewith.jp",
-      "source": "gamewith.jp",
+      "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-09-21T18:24:46.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563040.png?date=1789770455",
@@ -634,7 +658,7 @@
       "title": "「一発で死ぬから！」→二発だったのでセーフ（アウト） #モンハンワイルズ #MHWilds #モンスターハンターワイルズ #ゲーム実況 #shorts",
       "url": "https://youtu.be/e-C5tCsXnV0?si",
       "host": "youtu.be",
-      "source": "youtu.be",
+      "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-09-21T13:35:11.000Z",
       "image": "",
@@ -649,7 +673,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a0ebe7695864",
@@ -677,7 +701,7 @@
       "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/563104",
       "host": "gamewith.jp",
-      "source": "gamewith.jp",
+      "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-09-21T12:35:09.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563104.png?date=1789770630",
@@ -740,7 +764,7 @@
       "title": "【アセンダンス】護竜リオレイアの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/575037",
       "host": "gamewith.jp",
-      "source": "gamewith.jp",
+      "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-09-21T09:47:29.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575037.png?date=1789770931",
@@ -754,14 +778,14 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0b68bd1287fd",
       "title": "【アセンダンス】片手剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/577790",
       "host": "gamewith.jp",
-      "source": "gamewith.jp",
+      "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-09-21T08:52:10.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577790.png?date=1789746410",
@@ -782,7 +806,7 @@
       "title": "【アセンダンス】双剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/577734",
       "host": "gamewith.jp",
-      "source": "gamewith.jp",
+      "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-09-21T08:39:46.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577734.png?date=1789765976",
@@ -801,12 +825,12 @@
     {
       "id": "48fc8d21e61c",
       "title": "『モンハンターワイルズ：アセンダンス』TGS2026ブースで上映していた特別映像！5日目中止を受けてオンライン公開へ",
-      "url": "http://www.gamespark.jp/article/2026/09/21/172599.html",
-      "host": "gamespark.jp",
-      "source": "Game*Spark",
-      "summary": "アイルーのダンスがとにかく可愛い。",
+      "url": "https://news.yahoo.co.jp/articles/235dd56172ee79c7a38617d354d0cfdcfccee9c3",
+      "host": "news.yahoo.co.jp",
+      "source": "news.yahoo.co.jp",
+      "summary": "",
       "publishedAt": "2026-09-21T06:45:03.000Z",
-      "image": "http://www.gamespark.jp/imgs/rss/1196462.png",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260921-00000012-gamespav-000-1-view.jpg?exp=10800",
       "categories": [
         "other"
       ],
@@ -824,7 +848,7 @@
       "title": "【モンハンワイルズ】Switch2版の発売日・最新情報【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/563066",
       "host": "gamewith.jp",
-      "source": "gamewith.jp",
+      "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-09-21T05:40:06.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563066.png?date=1780886791",
@@ -866,7 +890,7 @@
       "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/575038",
       "host": "gamewith.jp",
-      "source": "gamewith.jp",
+      "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-09-21T05:25:11.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575038.png?date=1789770323",
@@ -887,7 +911,7 @@
       "title": "【モンハンワイルズ】最強装備・おすすめ装備まとめ【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/485337",
       "host": "gamewith.jp",
-      "source": "gamewith.jp",
+      "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-09-21T03:45:19.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485337.png?date=1740668237",
@@ -971,7 +995,7 @@
       "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/577281",
       "host": "gamewith.jp",
-      "source": "gamewith.jp",
+      "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-09-20T19:28:18.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577281.png?date=1789571405",
@@ -992,7 +1016,7 @@
       "title": "【モンハンワイルズ】極熱重鎧グラビモスの報酬と周回装備【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/492800",
       "host": "gamewith.jp",
-      "source": "gamewith.jp",
+      "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-09-20T19:04:22.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/492800.png?date=1744168629",
@@ -1013,7 +1037,7 @@
       "title": "【モンハンワイルズ】英傑に愛を込めての攻略と報酬【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/545381",
       "host": "gamewith.jp",
-      "source": "gamewith.jp",
+      "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-09-20T15:43:54.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545381.png?date=1771384851",
@@ -1034,7 +1058,7 @@
       "title": "#モンスターハンターワイルズ 】【雑談&参加型】アセンダンスに向けて素材やお金や食券集め？( ˘ω˘)",
       "url": "https://youtu.be/uddXgk1j5zE",
       "host": "youtu.be",
-      "source": "youtu.be",
+      "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-09-20T14:34:02.000Z",
       "image": "",
@@ -1075,7 +1099,7 @@
       "title": "【アセンダンス】大剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/485475",
       "host": "gamewith.jp",
-      "source": "gamewith.jp",
+      "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-09-20T11:34:26.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485475.png?date=1789753003",
@@ -1096,7 +1120,7 @@
       "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/575036",
       "host": "gamewith.jp",
-      "source": "gamewith.jp",
+      "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-09-20T11:15:08.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575036.png?date=1789770113",
@@ -1134,11 +1158,32 @@
       "isNew": false
     },
     {
+      "id": "8b457230cbc6",
+      "title": "【モンハンワイルズ】交わりの祭事まとめ【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/493838",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-20T08:56:32.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/493838.png?date=1750982653",
+      "categories": [
+        "event"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "281effb14df1",
       "title": "「日本ゲーム大賞2026」フューチャー部門の受賞10作品が発表！「ペルソナ4 リバイバル」「モンハンワイルズ：アセンダンス」など選出",
       "url": "https://www.gamer.ne.jp/news/202609200023/",
       "host": "gamer.ne.jp",
-      "source": "gamer.ne.jp",
+      "source": "Gamer",
       "summary": "",
       "publishedAt": "2026-09-20T07:45:00.000Z",
       "image": "",
@@ -1159,7 +1204,7 @@
       "title": "【モンハンナウ】狩人たちの夏祭り2026【モンハンNow】",
       "url": "https://gamewith.jp/monsterhunternow/article/show/573258",
       "host": "gamewith.jp",
-      "source": "gamewith.jp",
+      "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-09-20T07:33:22.000Z",
       "image": "",
@@ -1180,7 +1225,7 @@
       "title": "スイッチ2版『モンハンワイルズ』過去アプデ全部入りでも他機器より容量大幅減/とにかく操作性にこだわった1,000回遊べる系ローグライク『勇者ローグ』10月31日リリース/任天堂が拒絶査定された『パルワールド』関連特許に不服審判請求【週刊ス…",
       "url": "https://news.yahoo.co.jp/articles/6e090dadb44012d41ca543f1aae3b5c329a83a0e",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-20T06:00:03.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260920-00000008-gamespav-000-1-view.jpg?exp=10800",
@@ -1201,7 +1246,7 @@
       "title": "休憩と同時にキャンプ破壊されるとどうなるのか ＃モンスターハンターワイルズ ＃モンハン",
       "url": "https://youtu.be/e_kQ54XHTx8?si",
       "host": "youtu.be",
-      "source": "youtu.be",
+      "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-09-20T02:45:15.000Z",
       "image": "",
@@ -1222,7 +1267,7 @@
       "title": "「モンハン」最新拡張コンテンツ 幻想的な空中遺跡で新たな狩猟【TGS2026】（日経クロストレンド）",
       "url": "https://news.yahoo.co.jp/articles/2861b5895d43e5e7f57780b32257a6aebe0feeac",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-20T02:35:58.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260920-41758217-nkctrend-000-1-view.jpg?exp=10800",
@@ -1283,7 +1328,7 @@
       "title": "「モンハンワイルズ：アセンダンス」開発陣インタビュー：「ワイルズ」の正当進化と新アクション「ブーストブレイサー」の狙いに迫る【TGS2026】",
       "url": "https://www.gamer.ne.jp/news/202609190046/",
       "host": "gamer.ne.jp",
-      "source": "gamer.ne.jp",
+      "source": "Gamer",
       "summary": "",
       "publishedAt": "2026-09-19T14:14:00.000Z",
       "image": "",
@@ -1319,27 +1364,6 @@
       "isNew": false
     },
     {
-      "id": "57925eaf5914",
-      "title": "『モンハンワイルズ：アセンダンス』フルフル登場決定。視力を持たない特異な性質を持つ奇怪竜",
-      "url": "https://dengekionline.com/article/202609/88655",
-      "host": "dengekionline.com",
-      "source": "電撃オンライン",
-      "summary": "",
-      "publishedAt": "2026-09-19T11:26:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/88655/ogp_pISW.jpg?x=1280",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "5a9515f44eba",
       "title": "Khezu Stretches into Monster Hunter Wilds: Ascendance!",
       "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010496733",
@@ -1347,7 +1371,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "We revealed during a stage event at the Capcom booth at Tokyo Game Show 2026 that Khezu will appear in Monster Hunter Wilds: Ascendance. Khezu {STEAM_CLAN_IMAG…",
       "publishedAt": "2026-09-19T07:00:19.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/44795648/6287ba9d35d1ffa19386af4c6b9d0ec9e2de8625.png",
+      "image": "https://clan.fastly.steamstatic.com/images/44795648/6287ba9d35d1ffa19386af4c6b9d0ec9e2de8625.png",
       "categories": [
         "other"
       ],
@@ -1410,7 +1434,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "Thank you so much for your continued support of Monster Hunter Wilds. In preparation for the release of Monster Hunter Wilds: Ascendance, scheduled for 2027, t…",
       "publishedAt": "2026-09-17T06:34:04.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/44795648/049b146a035654cc8c2558528402243f9aba3897.png",
+      "image": "https://clan.fastly.steamstatic.com/images/44795648/049b146a035654cc8c2558528402243f9aba3897.png",
       "categories": [
         "other"
       ],
