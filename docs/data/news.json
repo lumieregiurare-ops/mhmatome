@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T11:30:17.626Z",
+  "updatedAt": "2026-09-22T12:00:14.437Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": ""
   },
   "total": 49,
-  "todayCount": 9,
+  "todayCount": 11,
   "categories": [
     {
       "id": "new",
@@ -52,7 +52,7 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 1
+      "count": 0
     },
     {
       "id": "sales",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 36
+      "count": 37
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 41
+      "count": 40
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 2
+      "count": 1
     },
     {
       "id": "now",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 0
+      "count": 1
     },
     {
       "id": "outlanders",
@@ -103,8 +103,8 @@
       "count": 20
     },
     {
-      "name": "YouTube",
-      "count": 5
+      "name": "youtu.be",
+      "count": 4
     },
     {
       "name": "news.yahoo.co.jp",
@@ -140,6 +140,10 @@
     },
     {
       "name": "風傳媒",
+      "count": 1
+    },
+    {
+      "name": "gamereactor.jp",
       "count": 1
     },
     {
@@ -244,7 +248,7 @@
       "summary": "",
       "url": "https://youtu.be/qFGW2byalmg",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
-      "leadSource": "YouTube",
+      "leadSource": "youtu.be",
       "publishedAt": "2026-09-22T08:00:39.000Z",
       "sourceCount": 2,
       "articleCount": 3,
@@ -280,7 +284,7 @@
       "summary": "",
       "url": "https://youtu.be/biP2iTcSgiM?si",
       "image": "",
-      "leadSource": "YouTube",
+      "leadSource": "youtu.be",
       "publishedAt": "2026-09-22T08:12:23.000Z",
       "sourceCount": 2,
       "articleCount": 2,
@@ -327,34 +331,6 @@
           "url": "https://leveluplogy.jp/archives/41189",
           "source": "leveluplogy.jp",
           "publishedAt": "2026-09-21T05:25:14.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "6418d3fc3646",
-      "title": "「一発で死ぬから！」→二発だったのでセーフ（アウト） #モンハンワイルズ #MHWilds #モンスターハンターワイルズ #ゲーム実況 #shorts",
-      "summary": "",
-      "url": "https://youtu.be/e-C5tCsXnV0?si",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/493838.png?date=1750982653",
-      "leadSource": "YouTube",
-      "publishedAt": "2026-09-21T13:35:11.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "community",
-        "event"
-      ],
-      "keywords": [
-        "モンスターハンターワイルズ",
-        "モンハンワイルズ"
-      ],
-      "articles": [
-        {
-          "title": "【モンハンワイルズ】交わりの祭事まとめ【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/493838",
-          "source": "GameWith",
-          "publishedAt": "2026-09-20T08:56:32.000Z",
           "isPR": false
         }
       ]
@@ -416,12 +392,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-22T11:00:18.726Z",
+    "previousAt": "2026-09-22T11:30:17.626Z",
     "previousCount": 49,
-    "newCount": 1
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-22T12:00:17.626Z",
+  "nextUpdateAt": "2026-09-22T12:30:14.437Z",
   "items": [
     {
       "id": "e6d79acfa4bd",
@@ -447,7 +423,7 @@
       "title": "【モンハンnow】次元変異リオレウス亜種/アケノシルム武器は強い？他武器との比較やスタイル強化値、素材緩和など解説！【モンスターハンターNow/モンハンNOW/モンハンなう/モンハンナウ】",
       "url": "https://youtu.be/biP2iTcSgiM?si",
       "host": "youtu.be",
-      "source": "YouTube",
+      "source": "youtu.be",
       "summary": "",
       "publishedAt": "2026-09-22T08:12:23.000Z",
       "image": "",
@@ -468,7 +444,7 @@
       "title": "【初心者&復帰勢へ】アセンダンスまでに作るべき最終・汎用大剣装備を紹介！【モンハンワイルズ】【MHWilds】【mhws】",
       "url": "https://youtu.be/qFGW2byalmg",
       "host": "youtu.be",
-      "source": "YouTube",
+      "source": "youtu.be",
       "summary": "",
       "publishedAt": "2026-09-22T08:00:39.000Z",
       "image": "",
@@ -484,6 +460,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "310bc849231e",
+      "title": "【モンハンワイルズ】英雄の証の解放条件と報酬【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/545421",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-22T07:43:22.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545421.png?date=1771483075",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "46ab930cbc6c",
@@ -612,6 +609,27 @@
       "isNew": false
     },
     {
+      "id": "62718ef16644",
+      "title": "モンスターハンターストーリーズ3:ツイステッド・リフレクション - ゴー・フォーストレーラー(PS5)",
+      "url": "https://www.gamereactor.jp/video/788053/3+-+PS5/",
+      "host": "gamereactor.jp",
+      "source": "gamereactor.jp",
+      "summary": "",
+      "publishedAt": "2026-09-21T17:00:40.000Z",
+      "image": "https://www.gamereactor.jp/media/grtv/80/788053_w1600.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "f57ee25aeb4c",
       "title": "『モンハンワイルズ：アセンダンス』「フルフルベビー」の単体画像がお披露目。奇怪竜「フルフル」とともに登場、ちっちゃくてかわいい……かも",
       "url": "https://news.denfaminicogamer.jp/news/2609213a",
@@ -646,28 +664,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "6418d3fc3646",
-      "title": "「一発で死ぬから！」→二発だったのでセーフ（アウト） #モンハンワイルズ #MHWilds #モンスターハンターワイルズ #ゲーム実況 #shorts",
-      "url": "https://youtu.be/e-C5tCsXnV0?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-09-21T13:35:11.000Z",
-      "image": "",
-      "categories": [
-        "community"
-      ],
-      "series": [
-        "wilds",
-        "world"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -752,27 +748,6 @@
       ],
       "series": [
         "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "b5d6fe40ab2e",
-      "title": "【アセンダンス】護竜リオレイアの最新情報まとめ【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/575037",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-21T09:47:29.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575037.png?date=1789770931",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1058,7 +1033,7 @@
       "title": "#モンスターハンターワイルズ 】【雑談&参加型】アセンダンスに向けて素材やお金や食券集め？( ˘ω˘)",
       "url": "https://youtu.be/uddXgk1j5zE",
       "host": "youtu.be",
-      "source": "YouTube",
+      "source": "youtu.be",
       "summary": "",
       "publishedAt": "2026-09-20T14:34:02.000Z",
       "image": "",
@@ -1176,7 +1151,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "281effb14df1",
@@ -1246,7 +1221,7 @@
       "title": "休憩と同時にキャンプ破壊されるとどうなるのか ＃モンスターハンターワイルズ ＃モンハン",
       "url": "https://youtu.be/e_kQ54XHTx8?si",
       "host": "youtu.be",
-      "source": "YouTube",
+      "source": "youtu.be",
       "summary": "",
       "publishedAt": "2026-09-20T02:45:15.000Z",
       "image": "",
@@ -1371,7 +1346,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "We revealed during a stage event at the Capcom booth at Tokyo Game Show 2026 that Khezu will appear in Monster Hunter Wilds: Ascendance. Khezu {STEAM_CLAN_IMAG…",
       "publishedAt": "2026-09-19T07:00:19.000Z",
-      "image": "https://clan.fastly.steamstatic.com/images/44795648/6287ba9d35d1ffa19386af4c6b9d0ec9e2de8625.png",
+      "image": "https://clan.akamai.steamstatic.com/images/44795648/6287ba9d35d1ffa19386af4c6b9d0ec9e2de8625.png",
       "categories": [
         "other"
       ],
@@ -1434,7 +1409,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "Thank you so much for your continued support of Monster Hunter Wilds. In preparation for the release of Monster Hunter Wilds: Ascendance, scheduled for 2027, t…",
       "publishedAt": "2026-09-17T06:34:04.000Z",
-      "image": "https://clan.fastly.steamstatic.com/images/44795648/049b146a035654cc8c2558528402243f9aba3897.png",
+      "image": "https://clan.akamai.steamstatic.com/images/44795648/049b146a035654cc8c2558528402243f9aba3897.png",
       "categories": [
         "other"
       ],
