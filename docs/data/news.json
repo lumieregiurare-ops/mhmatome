@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T14:34:24.406Z",
+  "updatedAt": "2026-09-22T15:00:18.865Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": ""
   },
   "total": 49,
-  "todayCount": 12,
+  "todayCount": 0,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 6
+      "count": 5
     },
     {
       "id": "sale",
@@ -52,7 +52,7 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 0
+      "count": 1
     },
     {
       "id": "sales",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 1
+      "count": 2
     },
     {
       "id": "now",
@@ -100,26 +100,30 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 21
+      "count": 20
     },
     {
       "name": "YouTube",
-      "count": 5
+      "count": 6
     },
     {
       "name": "Yahoo!ニュース",
       "count": 3
     },
     {
+      "name": "電ファミニコゲーマー",
+      "count": 2
+    },
+    {
       "name": "電撃オンライン",
       "count": 2
     },
     {
-      "name": "appbank.net",
+      "name": "AppBank",
       "count": 2
     },
     {
-      "name": "gamestalk.net",
+      "name": "ゲーム情報！ゲームのはなし",
       "count": 2
     },
     {
@@ -135,19 +139,11 @@
       "count": 1
     },
     {
-      "name": "電ファミニコゲーマー",
-      "count": 1
-    },
-    {
-      "name": "news.denfaminicogamer.jp",
-      "count": 1
-    },
-    {
       "name": "ファミ通",
       "count": 1
     },
     {
-      "name": "ガジェット通信",
+      "name": "getnews.jp",
       "count": 1
     },
     {
@@ -184,7 +180,7 @@
       "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/HSvBNO0bsAAB3Ie-1024x576.png",
       "leadSource": "電ファミニコゲーマー",
       "publishedAt": "2026-09-21T13:41:11.000Z",
-      "sourceCount": 4,
+      "sourceCount": 3,
       "articleCount": 4,
       "categories": [
         "other"
@@ -312,12 +308,40 @@
       ]
     },
     {
+      "id": "6418d3fc3646",
+      "title": "「一発で死ぬから！」→二発だったのでセーフ（アウト） #モンハンワイルズ #MHWilds #モンスターハンターワイルズ #ゲーム実況 #shorts",
+      "summary": "",
+      "url": "https://youtu.be/e-C5tCsXnV0?si",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/493838.png?date=1750982653",
+      "leadSource": "YouTube",
+      "publishedAt": "2026-09-21T13:35:11.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "community",
+        "event"
+      ],
+      "keywords": [
+        "モンスターハンターワイルズ",
+        "モンハンワイルズ"
+      ],
+      "articles": [
+        {
+          "title": "【モンハンワイルズ】交わりの祭事まとめ【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/493838",
+          "source": "GameWith",
+          "publishedAt": "2026-09-20T08:56:32.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "4ce9cf5f1e73",
       "title": "『モンハンNow』プロモコードあり!! 中止になった東京ゲームショウ2026最終日ライブ配信リポート",
       "summary": "",
       "url": "https://getnews.jp/archives/3744786",
       "image": "https://rensai.jp/wp-content/uploads/2026/09/7a504b08a4ce2b5e2c6c7c4d3bc3900d.jpg",
-      "leadSource": "ガジェット通信",
+      "leadSource": "getnews.jp",
       "publishedAt": "2026-09-21T12:00:02.000Z",
       "sourceCount": 2,
       "articleCount": 2,
@@ -393,43 +417,15 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "8b457230cbc6",
-      "title": "【モンハンワイルズ】交わりの祭事まとめ【モンスターハンターワイルズ】",
-      "summary": "",
-      "url": "https://gamewith.jp/mhwilds/493838",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/493838.png?date=1750982653",
-      "leadSource": "GameWith",
-      "publishedAt": "2026-09-20T08:56:32.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "event",
-        "guide"
-      ],
-      "keywords": [
-        "モンスターハンターワイルズ",
-        "モンハンワイルズ"
-      ],
-      "articles": [
-        {
-          "title": "【モンハンワイルズ】アセンダンスに向けた最終アプデ後の夢灯の儀グラビ周回はこれ！高級お食事券＆タルコロ最高効率グラビモス周回ライトボウガン装備を解説！【秋イベ/ゴストゥラ/モンスターハンターワイルズ】",
-          "url": "https://youtu.be/D5MfgOrYfbA?si",
-          "source": "YouTube",
-          "publishedAt": "2026-09-20T06:10:10.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-09-22T14:00:18.276Z",
+    "previousAt": "2026-09-22T14:34:24.406Z",
     "previousCount": 49,
-    "newCount": 2
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-22T15:04:24.406Z",
+  "nextUpdateAt": "2026-09-22T15:30:18.865Z",
   "items": [
     {
       "id": "e6d79acfa4bd",
@@ -708,7 +704,7 @@
       "title": "『モンハンワイルズ：アセンダンス』「フルフルベビー」の画像がお披露目",
       "url": "https://news.denfaminicogamer.jp/news/2609213a",
       "host": "news.denfaminicogamer.jp",
-      "source": "news.denfaminicogamer.jp",
+      "source": "電ファミニコゲーマー",
       "summary": "",
       "publishedAt": "2026-09-21T13:41:00.000Z",
       "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/HSvBNO0bsAAB3Ie-1024x576.png",
@@ -723,6 +719,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "6418d3fc3646",
+      "title": "「一発で死ぬから！」→二発だったのでセーフ（アウト） #モンハンワイルズ #MHWilds #モンスターハンターワイルズ #ゲーム実況 #shorts",
+      "url": "https://youtu.be/e-C5tCsXnV0?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-09-21T13:35:11.000Z",
+      "image": "",
+      "categories": [
+        "community"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "a0ebe7695864",
@@ -792,7 +810,7 @@
       "title": "『モンハンNow』プロモコードあり!! 中止になった東京ゲームショウ2026最終日ライブ配信リポート",
       "url": "https://getnews.jp/archives/3744786",
       "host": "getnews.jp",
-      "source": "ガジェット通信",
+      "source": "getnews.jp",
       "summary": "",
       "publishedAt": "2026-09-21T12:00:02.000Z",
       "image": "https://rensai.jp/wp-content/uploads/2026/09/7a504b08a4ce2b5e2c6c7c4d3bc3900d.jpg",
@@ -956,27 +974,6 @@
       "isNew": false
     },
     {
-      "id": "5705da647fc7",
-      "title": "【モンハンワイルズ】最強装備・おすすめ装備まとめ【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/485337",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-21T03:45:19.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485337.png?date=1740668237",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "ca13fe62e11b",
       "title": "「モンスターハンターワイルズ：アセンダンス」，TGS 2026ブースの特別映像を公開。モンスターの生態やアイルーのダンスを収録［TGS2026］",
       "url": "https://www.4gamer.net/games/013/G101399/20260921014/",
@@ -1002,7 +999,7 @@
       "title": "モンハン部限定！ Nintendo Switch 2版『モンスターハンターワイルズ』体験会、10月10日から東京・大阪で開催",
       "url": "https://www.appbank.net/2026/09/21/game/3111029.php",
       "host": "appbank.net",
-      "source": "appbank.net",
+      "source": "AppBank",
       "summary": "",
       "publishedAt": "2026-09-21T00:11:37.000Z",
       "image": "https://www.appbank.net/wp-content/uploads/2026/09/004-34.webp",
@@ -1023,7 +1020,7 @@
       "title": "『モンハンワイルズ』プレイヤーの腕前は想定以上だった――“期待値のズレ”踏まえ『アセンダンス』のエンドゲーム難度バランスを調整中",
       "url": "https://gamestalk.net/monster-hunter-wilds-ascendance-player-skill-difficulty-balance/",
       "host": "gamestalk.net",
-      "source": "gamestalk.net",
+      "source": "ゲーム情報！ゲームのはなし",
       "summary": "",
       "publishedAt": "2026-09-20T20:03:05.000Z",
       "image": "https://gamestalk.net/wp-content/uploads/2026/09/MHW-Ascendance_260921.webp",
@@ -1107,7 +1104,7 @@
       "title": "「モンスターハンター」オーケストラコンサートのライブ録音アルバムが11月11日発売決定",
       "url": "https://www.appbank.net/2026/09/20/iphone-news/3110556.php",
       "host": "appbank.net",
-      "source": "appbank.net",
+      "source": "AppBank",
       "summary": "",
       "publishedAt": "2026-09-20T13:11:27.000Z",
       "image": "https://www.appbank.net/wp-content/uploads/2026/09/001-11.webp",
@@ -1267,7 +1264,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fe6e6f8f54aa",
@@ -1335,7 +1332,7 @@
       "title": "『モンハンワイルズ：アセンダンス』今集めている護石や作っている武器がMRに上がった瞬間「すべて使い物にならない」ようにはしない考え",
       "url": "https://gamestalk.net/monster-hunter-wilds-ascendance-charms-weapons-master-rank/",
       "host": "gamestalk.net",
-      "source": "gamestalk.net",
+      "source": "ゲーム情報！ゲームのはなし",
       "summary": "",
       "publishedAt": "2026-09-19T19:33:45.000Z",
       "image": "https://gamestalk.net/wp-content/uploads/2026/09/MHW-Ascendance_260920.webp",
