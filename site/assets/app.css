@@ -1224,3 +1224,9 @@ main.wrap {
     transform: rotate(360deg);
   }
 }
+
+/* フッターのお問い合わせリンク */
+.footer .contact a {
+  font-weight: 700;
+  text-decoration: underline;
+}
