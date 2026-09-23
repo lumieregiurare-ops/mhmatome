@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-09-23T06:00:16.354Z",
+  "updatedAt": "2026-09-23T06:30:15.106Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 50,
-  "todayCount": 11,
+  "total": 52,
+  "todayCount": 14,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 4
+      "count": 5
     },
     {
       "id": "update",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 6
+      "count": 7
     },
     {
       "id": "sale",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 38
+      "count": 37
     },
     {
       "id": "rise",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 4
+      "count": 7
     },
     {
       "id": "outlanders",
@@ -103,12 +103,12 @@
       "count": 19
     },
     {
-      "name": "YouTube",
+      "name": "appmedia.jp",
       "count": 6
     },
     {
-      "name": "AppMedia",
-      "count": 3
+      "name": "youtu.be",
+      "count": 5
     },
     {
       "name": "AppBank",
@@ -221,7 +221,7 @@
       "summary": "",
       "url": "https://youtu.be/biP2iTcSgiM?si",
       "image": "",
-      "leadSource": "YouTube",
+      "leadSource": "youtu.be",
       "publishedAt": "2026-09-22T08:12:23.000Z",
       "sourceCount": 2,
       "articleCount": 2,
@@ -278,7 +278,7 @@
       "summary": "",
       "url": "https://youtu.be/e-C5tCsXnV0?si",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/493838.png?date=1750982653",
-      "leadSource": "YouTube",
+      "leadSource": "youtu.be",
       "publishedAt": "2026-09-21T13:35:11.000Z",
       "sourceCount": 2,
       "articleCount": 2,
@@ -385,19 +385,61 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-23T05:30:17.281Z",
-    "previousCount": 49,
-    "newCount": 1
+    "previousAt": "2026-09-23T06:00:16.354Z",
+    "previousCount": 50,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-23T06:30:16.354Z",
+  "nextUpdateAt": "2026-09-23T07:00:15.106Z",
   "items": [
+    {
+      "id": "6fae96ec537f",
+      "title": "【モンハンストーリーズ3】体験版はどこまでできる？｜やっておきたいこと【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79521053",
+      "host": "appmedia.jp",
+      "source": "appmedia.jp",
+      "summary": "",
+      "publishedAt": "2026-09-23T05:05:50.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2025/11/153717_b6xeo.webp",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "b6fb0db0cf71",
+      "title": "【モンハンストーリーズ3】おすすめキャラ【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79834010",
+      "host": "appmedia.jp",
+      "source": "appmedia.jp",
+      "summary": "",
+      "publishedAt": "2026-09-23T03:54:27.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/190142_hb7wm.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "c33f7237cb4a",
       "title": "【モンハンストーリーズ3】取り返しのつかないこと【MHST3】",
       "url": "https://appmedia.jp/mhst3/79833269",
       "host": "appmedia.jp",
-      "source": "AppMedia",
+      "source": "appmedia.jp",
       "summary": "",
       "publishedAt": "2026-09-23T03:29:06.000Z",
       "image": "https://appmedia.jp/wp-content/uploads/2026/03/162356_gpczd.webp",
@@ -411,14 +453,14 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fbd709240fd8",
       "title": "【モンハンストーリーズ2】レベル上げにおすすめの方法・手順まとめ【MHST2】",
       "url": "https://appmedia.jp/mhst2/6648013",
       "host": "appmedia.jp",
-      "source": "AppMedia",
+      "source": "appmedia.jp",
       "summary": "",
       "publishedAt": "2026-09-23T03:09:25.000Z",
       "image": "https://appmedia.jp/wp-content/uploads/2021/07/cfd34185d634df738c4a56e4eec83502.jpg",
@@ -460,7 +502,7 @@
       "title": "【モンハンストーリーズ3】最強オトモンランキング【MHST3】",
       "url": "https://appmedia.jp/mhst3/79852682",
       "host": "appmedia.jp",
-      "source": "AppMedia",
+      "source": "appmedia.jp",
       "summary": "",
       "publishedAt": "2026-09-23T01:46:19.000Z",
       "image": "https://appmedia.jp/wp-content/uploads/2026/03/205551_ovsmj.webp",
@@ -495,6 +537,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "90b54f988b73",
+      "title": "【モンハンストーリーズ3】ネロミェールの攻略情報｜出現場所・入手素材【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79827026",
+      "host": "appmedia.jp",
+      "source": "appmedia.jp",
+      "summary": "",
+      "publishedAt": "2026-09-23T01:32:02.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2020/01/home_image.png",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "78d1677a7208",
@@ -688,7 +751,7 @@
       "title": "【モンハンnow】次元変異リオレウス亜種/アケノシルム武器は強い？他武器との比較やスタイル強化値、素材緩和など解説！【モンスターハンターNow/モンハンNOW/モンハンなう/モンハンナウ】",
       "url": "https://youtu.be/biP2iTcSgiM?si",
       "host": "youtu.be",
-      "source": "YouTube",
+      "source": "youtu.be",
       "summary": "",
       "publishedAt": "2026-09-22T08:12:23.000Z",
       "image": "",
@@ -709,7 +772,7 @@
       "title": "【初心者&復帰勢へ】アセンダンスまでに作るべき最終・汎用大剣装備を紹介！【モンハンワイルズ】【MHWilds】【mhws】",
       "url": "https://youtu.be/qFGW2byalmg",
       "host": "youtu.be",
-      "source": "YouTube",
+      "source": "youtu.be",
       "summary": "",
       "publishedAt": "2026-09-22T08:00:39.000Z",
       "image": "",
@@ -920,7 +983,7 @@
       "title": "「一発で死ぬから！」→二発だったのでセーフ（アウト） #モンハンワイルズ #MHWilds #モンスターハンターワイルズ #ゲーム実況 #shorts",
       "url": "https://youtu.be/e-C5tCsXnV0?si",
       "host": "youtu.be",
-      "source": "YouTube",
+      "source": "youtu.be",
       "summary": "",
       "publishedAt": "2026-09-21T13:35:11.000Z",
       "image": "",
@@ -1152,7 +1215,7 @@
       "title": "【モンハンワイルズ リハビリ 片手剣】ドシャグマ・リオレウス・オドガロン",
       "url": "https://youtu.be/UShYq-6ITMA?si",
       "host": "youtu.be",
-      "source": "YouTube",
+      "source": "youtu.be",
       "summary": "",
       "publishedAt": "2026-09-20T23:52:29.000Z",
       "image": "",
@@ -1194,7 +1257,7 @@
       "title": "#モンスターハンターワイルズ 】【雑談&参加型】アセンダンスに向けて素材やお金や食券集め？( ˘ω˘)",
       "url": "https://youtu.be/uddXgk1j5zE",
       "host": "youtu.be",
-      "source": "YouTube",
+      "source": "youtu.be",
       "summary": "",
       "publishedAt": "2026-09-20T14:34:02.000Z",
       "image": "",
@@ -1346,27 +1409,6 @@
       "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/09/21/https___news_jp_i_1474296164476207592_w640.webp",
       "categories": [
         "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e472ee2c9093",
-      "title": "【モンハンワイルズ】アセンダンスに向けた最終アプデ後の夢灯の儀グラビ周回はこれ！高級お食事券＆タルコロ最高効率グラビモス周回ライトボウガン装備を解説！【秋イベ/ゴストゥラ/モンスターハンターワイルズ】",
-      "url": "https://youtu.be/D5MfgOrYfbA?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-09-20T06:10:10.000Z",
-      "image": "",
-      "categories": [
-        "guide"
       ],
       "series": [
         "wilds"
