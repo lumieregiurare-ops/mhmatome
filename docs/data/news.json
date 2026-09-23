@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-23T05:30:17.281Z",
+  "updatedAt": "2026-09-23T06:00:16.354Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 49,
-  "todayCount": 9,
+  "total": 50,
+  "todayCount": 11,
   "categories": [
     {
       "id": "new",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 36
+      "count": 37
     }
   ],
   "series": [
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 3
+      "count": 4
     },
     {
       "id": "outlanders",
@@ -107,12 +107,12 @@
       "count": 6
     },
     {
-      "name": "AppBank",
+      "name": "AppMedia",
       "count": 3
     },
     {
-      "name": "AppMedia",
-      "count": 2
+      "name": "AppBank",
+      "count": 3
     },
     {
       "name": "電ファミニコゲーマー",
@@ -120,10 +120,6 @@
     },
     {
       "name": "電撃オンライン",
-      "count": 2
-    },
-    {
-      "name": "news.yahoo.co.jp",
       "count": 2
     },
     {
@@ -151,6 +147,10 @@
       "count": 1
     },
     {
+      "name": "Yahoo!ニュース",
+      "count": 1
+    },
+    {
       "name": "leveluplogy.jp",
       "count": 1
     },
@@ -168,6 +168,10 @@
     },
     {
       "name": "Gamer",
+      "count": 1
+    },
+    {
+      "name": "au Webポータル",
       "count": 1
     },
     {
@@ -345,7 +349,7 @@
         {
           "title": "『モンハンターワイルズ：アセンダンス』TGS2026ブースで上映していた特別映像！5日目中止を受けてオンライン公開へ",
           "url": "https://news.yahoo.co.jp/articles/235dd56172ee79c7a38617d354d0cfdcfccee9c3",
-          "source": "news.yahoo.co.jp",
+          "source": "Yahoo!ニュース",
           "publishedAt": "2026-09-21T06:45:03.000Z",
           "isPR": false
         }
@@ -381,13 +385,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-23T05:00:15.227Z",
-    "previousCount": 51,
-    "newCount": 0
+    "previousAt": "2026-09-23T05:30:17.281Z",
+    "previousCount": 49,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-23T06:00:17.281Z",
+  "nextUpdateAt": "2026-09-23T06:30:16.354Z",
   "items": [
+    {
+      "id": "c33f7237cb4a",
+      "title": "【モンハンストーリーズ3】取り返しのつかないこと【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79833269",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-09-23T03:29:06.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/162356_gpczd.webp",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "fbd709240fd8",
       "title": "【モンハンストーリーズ2】レベル上げにおすすめの方法・手順まとめ【MHST2】",
@@ -484,6 +509,27 @@
         "community"
       ],
       "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "411bb4076b94",
+      "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/575038",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-22T21:56:08.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575038.png?date=1789770323",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -606,27 +652,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563066.png?date=1780886791",
       "categories": [
         "new"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "411bb4076b94",
-      "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/575038",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-22T13:05:05.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575038.png?date=1789770323",
-      "categories": [
-        "other"
       ],
       "series": [
         "wilds"
@@ -1043,7 +1068,7 @@
       "title": "『モンハンターワイルズ：アセンダンス』TGS2026ブースで上映していた特別映像！5日目中止を受けてオンライン公開へ",
       "url": "https://news.yahoo.co.jp/articles/235dd56172ee79c7a38617d354d0cfdcfccee9c3",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-09-21T06:45:03.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260921-00000012-gamespav-000-1-view.jpg?exp=10800",
@@ -1311,16 +1336,16 @@
       "isNew": false
     },
     {
-      "id": "e472ee2c9093",
-      "title": "【モンハンワイルズ】アセンダンスに向けた最終アプデ後の夢灯の儀グラビ周回はこれ！高級お食事券＆タルコロ最高効率グラビモス周回ライトボウガン装備を解説！【秋イベ/ゴストゥラ/モンスターハンターワイルズ】",
-      "url": "https://youtu.be/D5MfgOrYfbA?si",
-      "host": "youtu.be",
-      "source": "YouTube",
+      "id": "fe6e6f8f54aa",
+      "title": "スイッチ2版『モンハンワイルズ』過去アプデ全部入りでも他機器より容量大幅減/とにかく操作性にこだわった1,000回遊べる系ローグライク『勇者ローグ』10月31日リリース/任天堂が拒絶査定された『パルワールド』関連特許に不服審判請求【週刊ス…",
+      "url": "https://article.auone.jp/432aaea7-a2dc-40c1-837f-bcddec17c4a0",
+      "host": "article.auone.jp",
+      "source": "au Webポータル",
       "summary": "",
-      "publishedAt": "2026-09-20T06:10:10.000Z",
-      "image": "",
+      "publishedAt": "2026-09-20T06:46:00.000Z",
+      "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/09/21/https___news_jp_i_1474296164476207592_w640.webp",
       "categories": [
-        "guide"
+        "other"
       ],
       "series": [
         "wilds"
@@ -1332,16 +1357,16 @@
       "isNew": false
     },
     {
-      "id": "fe6e6f8f54aa",
-      "title": "スイッチ2版『モンハンワイルズ』過去アプデ全部入りでも他機器より容量大幅減/とにかく操作性にこだわった1,000回遊べる系ローグライク『勇者ローグ』10月31日リリース/任天堂が拒絶査定された『パルワールド』関連特許に不服審判請求【週刊ス…",
-      "url": "https://news.yahoo.co.jp/articles/6e090dadb44012d41ca543f1aae3b5c329a83a0e",
-      "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "id": "e472ee2c9093",
+      "title": "【モンハンワイルズ】アセンダンスに向けた最終アプデ後の夢灯の儀グラビ周回はこれ！高級お食事券＆タルコロ最高効率グラビモス周回ライトボウガン装備を解説！【秋イベ/ゴストゥラ/モンスターハンターワイルズ】",
+      "url": "https://youtu.be/D5MfgOrYfbA?si",
+      "host": "youtu.be",
+      "source": "YouTube",
       "summary": "",
-      "publishedAt": "2026-09-20T06:00:03.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260920-00000008-gamespav-000-1-view.jpg?exp=10800",
+      "publishedAt": "2026-09-20T06:10:10.000Z",
+      "image": "",
       "categories": [
-        "other"
+        "guide"
       ],
       "series": [
         "wilds"
