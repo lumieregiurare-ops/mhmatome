@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-23T04:00:14.855Z",
+  "updatedAt": "2026-09-23T04:30:15.391Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 48,
-  "todayCount": 8,
+  "total": 49,
+  "todayCount": 9,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 5
+      "count": 6
     },
     {
       "id": "sale",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 2
+      "count": 3
     },
     {
       "id": "outlanders",
@@ -111,6 +111,10 @@
       "count": 3
     },
     {
+      "name": "AppMedia",
+      "count": 2
+    },
+    {
       "name": "電ファミニコゲーマー",
       "count": 2
     },
@@ -125,10 +129,6 @@
     {
       "name": "ワイルズ公式（Steam）",
       "count": 2
-    },
-    {
-      "name": "AppMedia",
-      "count": 1
     },
     {
       "name": "Game*Spark",
@@ -381,12 +381,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-23T03:30:15.030Z",
-    "previousCount": 50,
-    "newCount": 0
+    "previousAt": "2026-09-23T04:00:14.855Z",
+    "previousCount": 48,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-23T04:30:14.855Z",
+  "nextUpdateAt": "2026-09-23T05:00:15.391Z",
   "items": [
     {
       "id": "5d5ac0f499eb",
@@ -449,6 +449,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "90b54f988b73",
+      "title": "【モンハンストーリーズ3】ネロミェールの攻略情報｜出現場所・入手素材【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79827026",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-09-23T01:32:02.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2020/01/home_image.png",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "78d1677a7208",
@@ -1339,7 +1360,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "We revealed during a stage event at the Capcom booth at Tokyo Game Show 2026 that Khezu will appear in Monster Hunter Wilds: Ascendance. Khezu {STEAM_CLAN_IMAG…",
       "publishedAt": "2026-09-19T07:00:19.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/44795648/6287ba9d35d1ffa19386af4c6b9d0ec9e2de8625.png",
+      "image": "https://clan.fastly.steamstatic.com/images/44795648/6287ba9d35d1ffa19386af4c6b9d0ec9e2de8625.png",
       "categories": [
         "other"
       ],
@@ -1381,7 +1402,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "Thank you so much for your continued support of Monster Hunter Wilds. In preparation for the release of Monster Hunter Wilds: Ascendance, scheduled for 2027, t…",
       "publishedAt": "2026-09-17T06:34:04.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/44795648/049b146a035654cc8c2558528402243f9aba3897.png",
+      "image": "https://clan.fastly.steamstatic.com/images/44795648/049b146a035654cc8c2558528402243f9aba3897.png",
       "categories": [
         "other"
       ],
