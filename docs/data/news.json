@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-23T21:30:17.358Z",
+  "updatedAt": "2026-09-23T22:00:16.169Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 53,
+  "total": 54,
   "todayCount": 7,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 10
+      "count": 11
     },
     {
       "id": "sale",
@@ -52,7 +52,7 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 2
+      "count": 3
     },
     {
       "id": "sales",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 38
+      "count": 37
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 35
+      "count": 36
     },
     {
       "id": "rise",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 7
+      "count": 8
     },
     {
       "id": "outlanders",
@@ -108,14 +108,14 @@
     },
     {
       "name": "AppMedia",
-      "count": 6
+      "count": 7
     },
     {
       "name": "ガジェット通信",
       "count": 2
     },
     {
-      "name": "appbank.net",
+      "name": "AppBank",
       "count": 2
     },
     {
@@ -163,7 +163,7 @@
       "count": 1
     },
     {
-      "name": "chiba-tv.com",
+      "name": "千葉テレビ放送",
       "count": 1
     },
     {
@@ -334,13 +334,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-23T21:00:15.149Z",
-    "previousCount": 54,
-    "newCount": 2
+    "previousAt": "2026-09-23T21:30:17.358Z",
+    "previousCount": 53,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-23T22:00:17.358Z",
+  "nextUpdateAt": "2026-09-23T22:30:16.169Z",
   "items": [
+    {
+      "id": "ced5755e5db0",
+      "title": "【モンハンストーリーズ3】おすすめオトモン｜進行度別に掲載【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79833716",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-09-23T20:25:51.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/173337_x0wn3.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "0266ee8302dc",
       "title": "【モンハンストーリーズ2】竜の拠り地・7層の攻略と出現モンスター｜表裏対応【MHST2】",
@@ -360,7 +381,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "de32d12816a6",
@@ -415,27 +436,6 @@
       "image": "https://appmedia.jp/wp-content/uploads/2026/03/124144_ylvib.webp",
       "categories": [
         "other"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ced5755e5db0",
-      "title": "【モンハンストーリーズ3】おすすめオトモン｜進行度別に掲載【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79833716",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-09-23T17:04:14.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/173337_x0wn3.webp",
-      "categories": [
-        "guide"
       ],
       "series": [
         "stories"
@@ -507,6 +507,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "c1ce900bfe63",
+      "title": "【モンハンストーリーズ3】侵獣攻略一覧｜解放できる危惧種まとめ【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79844810",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-09-23T14:04:31.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/105921_5y7po.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "dfd162d56e9d",
@@ -610,14 +631,14 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5d5ac0f499eb",
       "title": "「モンハンNow」シーズン11が配信開始！ 大阪リアルイベントは11月14日から開催",
       "url": "https://www.appbank.net/2026/09/23/game/3112116.php",
       "host": "appbank.net",
-      "source": "appbank.net",
+      "source": "AppBank",
       "summary": "",
       "publishedAt": "2026-09-23T02:02:57.000Z",
       "image": "https://www.appbank.net/wp-content/uploads/2026/09/press-1a0af09a81e4-img001-image-18c73a7de0964f30_image-f7d8c815cd.webp",
@@ -842,6 +863,28 @@
       "isNew": false
     },
     {
+      "id": "8a8adf3ab3d8",
+      "title": "【ワイルズ1分】#19 1分実況してみた【MHWilds/魔物獵人荒野】",
+      "url": "https://youtu.be/vwUaVK68Hbg?si",
+      "host": "youtu.be",
+      "source": "youtu.be",
+      "summary": "",
+      "publishedAt": "2026-09-22T09:45:11.000Z",
+      "image": "",
+      "categories": [
+        "community"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "1805d6d44671",
       "title": "【モンハンnow】次元変異リオレウス亜種/アケノシルム武器は強い？他武器との比較やスタイル強化値、素材緩和など解説！【モンスターハンターNow/モンハンNOW/モンハンなう/モンハンナウ】",
       "url": "https://youtu.be/biP2iTcSgiM?si",
@@ -873,28 +916,6 @@
       "image": "",
       "categories": [
         "guide"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "446a8b1b3d08",
-      "title": "【TGS先行プレイ】アセンダンスの弓を触ってみて、良かったこと＆気になったこと【モンハンワイルズ/MHWilds】",
-      "url": "https://youtu.be/CMvMHGmITx0?si",
-      "host": "youtu.be",
-      "source": "youtu.be",
-      "summary": "",
-      "publishedAt": "2026-09-22T08:00:27.000Z",
-      "image": "",
-      "categories": [
-        "other"
       ],
       "series": [
         "wilds",
@@ -968,6 +989,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "1d442b019a05",
+      "title": "影が薄すぎる環境生物『マタタキウオ』の生態【モンハンワイルズ】",
+      "url": "https://youtu.be/jEs-l2Uw_9s?si",
+      "host": "youtu.be",
+      "source": "youtu.be",
+      "summary": "",
+      "publishedAt": "2026-09-22T03:00:15.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "40bccce677c8",
@@ -1202,25 +1244,6 @@
       "isNew": false
     },
     {
-      "id": "be54c159e597",
-      "title": "5年越しの悲願！モンハンの神『辻P』とツーショットきたぁあ！！【TGS2026】",
-      "url": "https://youtu.be/t_iiOMF5c5M?si",
-      "host": "youtu.be",
-      "source": "youtu.be",
-      "summary": "",
-      "publishedAt": "2026-09-21T09:17:46.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "dc1932363768",
       "title": "[MHWilds]零式オメガ・プラネテス検証戦 非火事場 ソロ散弾ヘビィ11分28秒/ Savage Omega Planetes Spread HBG",
       "url": "https://youtu.be/0lX2RXt-SFI?si",
@@ -1310,7 +1333,7 @@
       "title": "スイッチ2版『モンハンワイルズ』過去アプデ全部入りでも他機器より容量大幅減/とにかく操作性にこだわった1,000回遊べる系ローグライク『勇者ローグ』10月31日リリース/任天堂が拒絶査定された『パルワールド』関連特許に不服審判請求【週刊ス…",
       "url": "https://www.chiba-tv.com/plus/detail/2026092028207",
       "host": "chiba-tv.com",
-      "source": "chiba-tv.com",
+      "source": "千葉テレビ放送",
       "summary": "",
       "publishedAt": "2026-09-21T00:20:03.000Z",
       "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1474560418793145757/origin_1.jpg",
@@ -1331,7 +1354,7 @@
       "title": "モンハン部限定！ Nintendo Switch 2版『モンスターハンターワイルズ』体験会、10月10日から東京・大阪で開催",
       "url": "https://www.appbank.net/2026/09/21/game/3111029.php",
       "host": "appbank.net",
-      "source": "appbank.net",
+      "source": "AppBank",
       "summary": "",
       "publishedAt": "2026-09-21T00:11:37.000Z",
       "image": "https://www.appbank.net/wp-content/uploads/2026/09/004-34.webp",
@@ -1416,7 +1439,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "We revealed during a stage event at the Capcom booth at Tokyo Game Show 2026 that Khezu will appear in Monster Hunter Wilds: Ascendance. Khezu {STEAM_CLAN_IMAG…",
       "publishedAt": "2026-09-19T07:00:19.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/44795648/6287ba9d35d1ffa19386af4c6b9d0ec9e2de8625.png",
+      "image": "https://clan.fastly.steamstatic.com/images/44795648/6287ba9d35d1ffa19386af4c6b9d0ec9e2de8625.png",
       "categories": [
         "other"
       ],
