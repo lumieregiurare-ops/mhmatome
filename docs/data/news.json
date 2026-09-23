@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-22T23:30:16.524Z",
+  "updatedAt": "2026-09-23T00:00:16.846Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 49,
-  "todayCount": 4,
+  "total": 50,
+  "todayCount": 5,
   "categories": [
     {
       "id": "new",
@@ -52,7 +52,7 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 2
+      "count": 3
     },
     {
       "id": "sales",
@@ -125,6 +125,10 @@
     {
       "name": "ワイルズ公式（Steam）",
       "count": 2
+    },
+    {
+      "name": "Game*Spark",
+      "count": 1
     },
     {
       "name": "AppMedia",
@@ -377,13 +381,32 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-22T23:00:16.451Z",
+    "previousAt": "2026-09-22T23:30:16.524Z",
     "previousCount": 49,
-    "newCount": 0
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-23T00:00:16.524Z",
+  "nextUpdateAt": "2026-09-23T00:30:16.846Z",
   "items": [
+    {
+      "id": "78d1677a7208",
+      "title": "スローライフだけど狩猟は全然スローじゃない！『モンハン』を思わせる武器アクションも楽しい『Monster Fantasy』で心ゆくまで狩ろうぜ【テスト版プレイレポ】",
+      "url": "http://www.gamespark.jp/article/2026/09/23/172658.html",
+      "host": "gamespark.jp",
+      "source": "Game*Spark",
+      "summary": "ファンタジーなんだから魔法だってなんだってあり。",
+      "publishedAt": "2026-09-23T00:00:03.000Z",
+      "image": "http://www.gamespark.jp/imgs/rss/1197084.png",
+      "categories": [
+        "community"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "1522d4cef7f3",
       "title": "【モンハンストーリーズ3】天変古龍一覧と出現条件【MHST3】",
@@ -1355,7 +1378,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "We revealed during a stage event at the Capcom booth at Tokyo Game Show 2026 that Khezu will appear in Monster Hunter Wilds: Ascendance. Khezu {STEAM_CLAN_IMAG…",
       "publishedAt": "2026-09-19T07:00:19.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/44795648/6287ba9d35d1ffa19386af4c6b9d0ec9e2de8625.png",
+      "image": "https://clan.fastly.steamstatic.com/images/44795648/6287ba9d35d1ffa19386af4c6b9d0ec9e2de8625.png",
       "categories": [
         "other"
       ],
@@ -1397,7 +1420,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "Thank you so much for your continued support of Monster Hunter Wilds. In preparation for the release of Monster Hunter Wilds: Ascendance, scheduled for 2027, t…",
       "publishedAt": "2026-09-17T06:34:04.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/44795648/049b146a035654cc8c2558528402243f9aba3897.png",
+      "image": "https://clan.fastly.steamstatic.com/images/44795648/049b146a035654cc8c2558528402243f9aba3897.png",
       "categories": [
         "other"
       ],
