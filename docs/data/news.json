@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-23T00:00:16.846Z",
+  "updatedAt": "2026-09-23T00:30:15.547Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 50,
-  "todayCount": 5,
+  "total": 49,
+  "todayCount": 4,
   "categories": [
     {
       "id": "new",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 38
+      "count": 37
     }
   ],
   "series": [
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 2
+      "count": 1
     },
     {
       "id": "outlanders",
@@ -128,10 +128,6 @@
     },
     {
       "name": "Game*Spark",
-      "count": 1
-    },
-    {
-      "name": "AppMedia",
       "count": 1
     },
     {
@@ -381,12 +377,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-22T23:30:16.524Z",
-    "previousCount": 49,
-    "newCount": 1
+    "previousAt": "2026-09-23T00:00:16.846Z",
+    "previousCount": 50,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-23T00:30:16.846Z",
+  "nextUpdateAt": "2026-09-23T01:00:15.547Z",
   "items": [
     {
       "id": "78d1677a7208",
@@ -401,27 +397,6 @@
         "community"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "1522d4cef7f3",
-      "title": "【モンハンストーリーズ3】天変古龍一覧と出現条件【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79838603",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-09-22T19:43:31.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/191512_qv645.webp",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "stories"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -912,6 +887,27 @@
       "isNew": false
     },
     {
+      "id": "778fbb3d5344",
+      "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/577281",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-21T10:43:03.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577281.png?date=1789571405",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "b5d6fe40ab2e",
       "title": "【アセンダンス】護竜リオレイアの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/575037",
@@ -1088,27 +1084,6 @@
       "summary": "",
       "publishedAt": "2026-09-20T20:03:05.000Z",
       "image": "https://gamestalk.net/wp-content/uploads/2026/09/MHW-Ascendance_260921.webp",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "778fbb3d5344",
-      "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/577281",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-20T19:28:18.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577281.png?date=1789571405",
       "categories": [
         "other"
       ],
