@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-23T14:00:16.672Z",
+  "updatedAt": "2026-09-23T14:30:15.134Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
-    "contactUrl": ""
+    "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 51,
-  "todayCount": 18,
+  "total": 49,
+  "todayCount": 16,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 10
+      "count": 8
     },
     {
       "id": "sale",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 5
+      "count": 3
     },
     {
       "id": "outlanders",
@@ -107,11 +107,11 @@
       "count": 7
     },
     {
-      "name": "AppMedia",
-      "count": 4
+      "name": "ガジェット通信",
+      "count": 2
     },
     {
-      "name": "ガジェット通信",
+      "name": "AppMedia",
       "count": 2
     },
     {
@@ -119,11 +119,11 @@
       "count": 2
     },
     {
-      "name": "Game*Spark",
-      "count": 2
+      "name": "ｄメニューニュース",
+      "count": 1
     },
     {
-      "name": "ｄメニューニュース",
+      "name": "Game*Spark",
       "count": 1
     },
     {
@@ -148,6 +148,10 @@
     },
     {
       "name": "ファミ通",
+      "count": 1
+    },
+    {
+      "name": "gamespark.jp",
       "count": 1
     },
     {
@@ -305,7 +309,7 @@
         {
           "title": "『モンハンターワイルズ：アセンダンス』TGS2026ブースで上映していた特別映像！5日目中止を受けてオンライン公開へ",
           "url": "https://www.gamespark.jp/article/2026/09/21/172599.html",
-          "source": "Game*Spark",
+          "source": "gamespark.jp",
           "publishedAt": "2026-09-21T06:45:03.000Z",
           "isPR": false
         }
@@ -313,12 +317,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-23T13:30:16.376Z",
-    "previousCount": 48,
-    "newCount": 3
+    "previousAt": "2026-09-23T14:00:16.672Z",
+    "previousCount": 51,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-23T14:30:16.672Z",
+  "nextUpdateAt": "2026-09-23T15:00:15.134Z",
   "items": [
     {
       "id": "dfd162d56e9d",
@@ -339,7 +343,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8c086bb7f518",
@@ -363,16 +367,16 @@
       "isNew": false
     },
     {
-      "id": "0266ee8302dc",
-      "title": "【モンハンストーリーズ2】竜の拠り地・7層の攻略と出現モンスター｜表裏対応【MHST2】",
-      "url": "https://appmedia.jp/mhst2/6699850",
+      "id": "1522d4cef7f3",
+      "title": "【モンハンストーリーズ3】天変古龍一覧と出現条件【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79838603",
       "host": "appmedia.jp",
       "source": "AppMedia",
       "summary": "",
-      "publishedAt": "2026-09-23T12:42:32.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2021/04/d734a73587907638fae0c2b011103212.jpg",
+      "publishedAt": "2026-09-23T12:39:56.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/191512_qv645.webp",
       "categories": [
-        "guide"
+        "other"
       ],
       "series": [
         "stories"
@@ -382,27 +386,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": true
-    },
-    {
-      "id": "24347ba4d574",
-      "title": "【モンハンストーリーズ3】交易ポイントの効率的な集め方【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79820612",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-09-23T12:11:37.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/162218_i8g6p.webp",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
     },
     {
       "id": "754edca73ed0",
@@ -436,27 +419,6 @@
       "image": "https://appmedia.jp/wp-content/uploads/2026/03/183830_lg0m4.webp",
       "categories": [
         "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "600cd1e4e33d",
-      "title": "【モンハンストーリーズ3】 クリア後の追加要素とやり込み要素【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79843649",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-09-23T11:01:22.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/143439_w9hov.webp",
-      "categories": [
-        "other"
       ],
       "series": [
         "stories"
@@ -506,7 +468,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5d5ac0f499eb",
@@ -1162,7 +1124,7 @@
       "title": "『モンハンターワイルズ：アセンダンス』TGS2026ブースで上映していた特別映像！5日目中止を受けてオンライン公開へ",
       "url": "https://www.gamespark.jp/article/2026/09/21/172599.html",
       "host": "gamespark.jp",
-      "source": "Game*Spark",
+      "source": "gamespark.jp",
       "summary": "",
       "publishedAt": "2026-09-21T06:45:03.000Z",
       "image": "https://www.gamespark.jp/imgs/ogp_f/1196462.png",
@@ -1354,7 +1316,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "We revealed during a stage event at the Capcom booth at Tokyo Game Show 2026 that Khezu will appear in Monster Hunter Wilds: Ascendance. Khezu {STEAM_CLAN_IMAG…",
       "publishedAt": "2026-09-19T07:00:19.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/44795648/6287ba9d35d1ffa19386af4c6b9d0ec9e2de8625.png",
+      "image": "https://clan.fastly.steamstatic.com/images/44795648/6287ba9d35d1ffa19386af4c6b9d0ec9e2de8625.png",
       "categories": [
         "other"
       ],
