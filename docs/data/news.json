@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-09-23T12:00:15.764Z",
+  "updatedAt": "2026-09-23T12:30:15.441Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 46,
-  "todayCount": 10,
+  "total": 49,
+  "todayCount": 13,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 3
+      "count": 4
     },
     {
       "id": "update",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 34
+      "count": 36
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 36
+      "count": 37
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 2
+      "count": 3
     },
     {
       "id": "now",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 3
+      "count": 4
     },
     {
       "id": "outlanders",
@@ -104,22 +104,26 @@
     },
     {
       "name": "YouTube",
-      "count": 5
+      "count": 6
+    },
+    {
+      "name": "AppMedia",
+      "count": 3
     },
     {
       "name": "AppBank",
       "count": 3
     },
     {
-      "name": "AppMedia",
-      "count": 2
-    },
-    {
       "name": "Game*Spark",
       "count": 2
     },
     {
-      "name": "風傳媒",
+      "name": "ｄメニューニュース",
+      "count": 1
+    },
+    {
+      "name": "japan.storm.mg",
       "count": 1
     },
     {
@@ -127,7 +131,7 @@
       "count": 1
     },
     {
-      "name": "ニコニコニュース",
+      "name": "news.nicovideo.jp",
       "count": 1
     },
     {
@@ -155,7 +159,7 @@
       "count": 1
     },
     {
-      "name": "千葉テレビ放送",
+      "name": "chiba-tv.com",
       "count": 1
     },
     {
@@ -178,7 +182,7 @@
       "summary": "",
       "url": "https://news.nicovideo.jp/watch/nw19796721?news_ref",
       "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/HSvBNO0bsAAB3Ie-1024x576.png",
-      "leadSource": "ニコニコニュース",
+      "leadSource": "news.nicovideo.jp",
       "publishedAt": "2026-09-21T13:42:11.000Z",
       "sourceCount": 4,
       "articleCount": 4,
@@ -248,7 +252,7 @@
       "summary": "",
       "url": "https://japan.storm.mg/articles/1165951",
       "image": "https://images.storm.mg/cloud/1a2b7d7ba01c720c918a16700e3da4d811fa7259.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2217886%2Fy1HINtX36jwdm2BXMW6gKj9KItZYD4P5bNUZoTTo.jpg&g=fp&h=900&resize=fill&w=1600&x=0.5&y=0.63&format=jpg",
-      "leadSource": "風傳媒",
+      "leadSource": "japan.storm.mg",
       "publishedAt": "2026-09-22T03:15:46.000Z",
       "sourceCount": 2,
       "articleCount": 2,
@@ -301,13 +305,56 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-23T11:30:22.656Z",
-    "previousCount": 49,
-    "newCount": 0
+    "previousAt": "2026-09-23T12:00:15.764Z",
+    "previousCount": 46,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-23T12:30:15.764Z",
+  "nextUpdateAt": "2026-09-23T13:00:15.441Z",
   "items": [
+    {
+      "id": "600cd1e4e33d",
+      "title": "【モンハンストーリーズ3】 クリア後の追加要素とやり込み要素【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79843649",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-09-23T11:01:22.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/143439_w9hov.webp",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "f235e848f2a7",
+      "title": "【MHWilds】星9歴戦王ジン・ダハド 9'12\"98（狩猟笛/非火事場)【きりたん解説付き】",
+      "url": "https://youtu.be/6pJByCcbHWQ?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-09-23T08:31:51.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "b76a54b5b309",
       "title": "【モンハンストーリーズ3】キャラ・声優一覧【MHST3】",
@@ -328,6 +375,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "5e6e47f8c66c",
+      "title": "『アサクリ』トランプに“隠し刃”が搭載されている！？『モンハン』や『ブラボ』など人気ゲームの公式ライセンストランプ全20種が9月17日より予約開始",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORlRadDRTMmxXYjlHUVRhRFpZaW54SmpNTXhJc0NBeVBxNzd6QXRJQzJ0X2hKQ0FvdzZ3aE9nNVJ6a1pSck5vXzJYSXRSLURnOVZ4MTE0dFVaYVZnTm85eTBGSEVrUER4MXo5WjhkWFlpRFVybHFhNGpJSHN6YzZRbTdKZTF1TGxxeFJF0gGHAUFVX3lxTE81NGFDdGpab1ZmbFdTd3U4am83dHh1WER5b0JMQjh4X25pY3dSZmVMdDJrcEhxT0JZcHR2ZzhMUndGTWV3UWFTX0tYbnFGbEpiM1dRcmt6SnY4blNTY2hZdFR3YlBhOEcwdmR3UWpVR3dXdWVQdWxJTXZlaWZpd3J6dkZTWVBOMA?oc=5",
+      "host": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
+      "summary": "",
+      "publishedAt": "2026-09-23T08:20:56.000Z",
+      "image": "",
+      "categories": [
+        "new"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "5cb07b2b0347",
@@ -709,7 +775,7 @@
       "title": "【TGS2026】カプコン新作を一挙試遊 『モンハンワイルズ』世界初、『ドラゴンズドグマ2』『ロックマン』 日本初",
       "url": "https://japan.storm.mg/articles/1165951",
       "host": "japan.storm.mg",
-      "source": "風傳媒",
+      "source": "japan.storm.mg",
       "summary": "",
       "publishedAt": "2026-09-22T03:15:46.000Z",
       "image": "https://images.storm.mg/cloud/1a2b7d7ba01c720c918a16700e3da4d811fa7259.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2217886%2Fy1HINtX36jwdm2BXMW6gKj9KItZYD4P5bNUZoTTo.jpg&g=fp&h=900&resize=fill&w=1600&x=0.5&y=0.63&format=jpg",
@@ -814,7 +880,7 @@
       "title": "『モンハンワイルズ：アセンダンス』「フルフルベビー」の単体画像がお披露目。奇怪竜「フルフル」とともに登場、ちっちゃくて",
       "url": "https://news.nicovideo.jp/watch/nw19796721?news_ref",
       "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
+      "source": "news.nicovideo.jp",
       "summary": "",
       "publishedAt": "2026-09-21T13:42:11.000Z",
       "image": "",
@@ -1088,7 +1154,7 @@
       "title": "スイッチ2版『モンハンワイルズ』過去アプデ全部入りでも他機器より容量大幅減/とにかく操作性にこだわった1,000回遊べる系ローグライク『勇者ローグ』10月31日リリース/任天堂が拒絶査定された『パルワールド』関連特許に不服審判請求【週刊ス…",
       "url": "https://www.chiba-tv.com/plus/detail/2026092028207",
       "host": "chiba-tv.com",
-      "source": "千葉テレビ放送",
+      "source": "chiba-tv.com",
       "summary": "",
       "publishedAt": "2026-09-21T00:20:03.000Z",
       "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1474560418793145757/origin_1.jpg",
