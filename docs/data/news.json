@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-23T03:30:15.030Z",
+  "updatedAt": "2026-09-23T04:00:14.855Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 50,
-  "todayCount": 10,
+  "total": 48,
+  "todayCount": 8,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 7
+      "count": 5
     },
     {
       "id": "sale",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 4
+      "count": 2
     },
     {
       "id": "outlanders",
@@ -111,10 +111,6 @@
       "count": 3
     },
     {
-      "name": "AppMedia",
-      "count": 3
-    },
-    {
       "name": "電ファミニコゲーマー",
       "count": 2
     },
@@ -131,6 +127,10 @@
       "count": 2
     },
     {
+      "name": "AppMedia",
+      "count": 1
+    },
+    {
       "name": "Game*Spark",
       "count": 1
     },
@@ -143,7 +143,7 @@
       "count": 1
     },
     {
-      "name": "famitsu.com",
+      "name": "ファミ通",
       "count": 1
     },
     {
@@ -205,7 +205,7 @@
         {
           "title": "『モンハンワイルズ：アセンダンス』フルフルベビーが登場。近くのものに反応して噛みつくフルフルの幼生。小さい尻尾がかわいい",
           "url": "https://www.famitsu.com/article/202609/88822",
-          "source": "famitsu.com",
+          "source": "ファミ通",
           "publishedAt": "2026-09-21T12:22:00.000Z",
           "isPR": false
         }
@@ -381,12 +381,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-23T03:00:19.770Z",
-    "previousCount": 49,
-    "newCount": 2
+    "previousAt": "2026-09-23T03:30:15.030Z",
+    "previousCount": 50,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-23T04:00:15.030Z",
+  "nextUpdateAt": "2026-09-23T04:30:14.855Z",
   "items": [
     {
       "id": "5d5ac0f499eb",
@@ -429,7 +429,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e6d79acfa4bd",
@@ -444,48 +444,6 @@
         "guide"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "90b54f988b73",
-      "title": "【モンハンストーリーズ3】ネロミェールの攻略情報｜出現場所・入手素材【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79827026",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-09-23T01:32:02.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2020/01/home_image.png",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "d3cd7084b2c3",
-      "title": "【モンハンストーリーズ3】最強装備まとめ【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79849634",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-09-23T00:18:20.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/174453_f690s.webp",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -980,7 +938,7 @@
       "title": "『モンハンワイルズ：アセンダンス』フルフルベビーが登場。近くのものに反応して噛みつくフルフルの幼生。小さい尻尾がかわいい",
       "url": "https://www.famitsu.com/article/202609/88822",
       "host": "famitsu.com",
-      "source": "famitsu.com",
+      "source": "ファミ通",
       "summary": "",
       "publishedAt": "2026-09-21T12:22:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/88822/thumbnail_BiJX.jpg?x=1280",
