@@ -1,7 +1,7 @@
 (() => {
   const $ = (s) => document.querySelector(s);
   const PAGE = 40;
-  const TOPICS_FIRST = 4;
+  const TOPICS_FIRST = 5;
   const SPIN_MS = 320;
   const FAV_KEY = "mh:fav";
   const READ_KEY = "mh:read";
@@ -61,24 +61,23 @@
     return data.series.find((s) => s.id === id)?.label || "";
   }
   // ---------- サムネイル ----------
-  // 画像が取れなかった記事には、見出しから作った色つきのプレースホルダーを出す
-  const CAT_EMOJI = {
-    new: "✨", update: "🛠️", event: "🎪", collab: "🤝", goods: "🎁",
-    media: "🎬", guide: "📖", sale: "🏷️", community: "🎮", sales: "📈", other: "📰",
-  };
+  // 画像が取れなかった記事には、羊皮紙の地に見出しの頭の 1 文字を出す（絵文字は使わない）
+  const MONSTERS = ["リオレウス","リオレイア","ナルガクルガ","ジンオウガ","ティガレックス","イビルジョー","ミラボレアス","アルシュベルド","ゾ・シア","レ・ダウ","ドシャグマ","チャタカブラ","ケマトリス","ラバラ・バリナ","バーラハーラ","ババコンガ","ウズ・トゥナ","ジン・ダハド","ヌ・エグドラ","ゴア・マガラ","シャガルマガラ","タマミツネ","ラギアクルス","アルセルタス","ゲリョス","ドドブランゴ","クシャルダオラ","テオ・テスカトル","ナナ・テスカトリ","オオナズチ","ネルギガンテ","マガイマガド","ヤツカダキ","ラージャン","ディアブロス","ゴグマジオス","アカムトルム","ウカムルバス","ジエン・モーラン","ダラ・アマデュラ","アマツマガツチ","ナバルデウス","ベリオロス","バゼルギウス","ゼノ・ジーヴァ","ヴァルハザク","ドスジャグラス","プケプケ","クルルヤック","アンジャナフ","トビカガチ","パオウルムー","レイギエナ","フルフル","ドスランポス","イャンクック","ガララアジャラ","セルレギオス","ブラキディオス","ライゼクス","ディノバルド","ガムート","ナルハタタヒメ","イブシマキヒコ","メル・ゼナ","ガイアデルム","オストガロア","ゴシャハギ","ヨツミワドウ","オロミドロ","ビシュテンゴ","アケノシルム","リオレウス希少種","ヌシ・ジンオウガ","ルナガロン","ガランゴルム"];
+  const SEEN_KEY = "mh:seen";
   function hashHue(str) {
     let h = 0;
     for (let i = 0; i < str.length; i++) h = (h * 31 + str.charCodeAt(i)) >>> 0;
     return h % 360;
   }
-  function applyPlaceholder(box, seed, glyph) {
-    const hue = hashHue(seed);
+  function firstGlyph(str) {
+    return [...(str || "").trim()].find((c) => !/[「『【\[(（"'“”‘’\s]/.test(c)) || "狩";
+  }
+  function applyPlaceholder(box, seed) {
     box.classList.add("thumb-ph");
-    box.style.background = `linear-gradient(135deg, hsl(${hue} 68% 62%), hsl(${(hue + 46) % 360} 68% 46%))`;
-    box.textContent = glyph;
+    box.textContent = firstGlyph(seed);
   }
   // url があれば画像、なければプレースホルダー。画像の読み込みに失敗したらプレースホルダーに差し替える
-  function thumbNode(url, seed, glyph, className) {
+  function thumbNode(url, seed, className) {
     const box = document.createElement("div");
     box.className = className;
     if (url) {
@@ -90,11 +89,11 @@
       img.referrerPolicy = "no-referrer";
       img.addEventListener("error", () => {
         img.remove();
-        applyPlaceholder(box, seed, glyph);
+        applyPlaceholder(box, seed);
       });
       box.appendChild(img);
     } else {
-      applyPlaceholder(box, seed, glyph);
+      applyPlaceholder(box, seed);
     }
     return box;
   }
@@ -136,6 +135,7 @@
     const q = state.q.trim().toLowerCase();
     return data.items.filter((it) => {
       if (state.cat !== "all" && !it.categories.includes(state.cat)) return false;
+      if (state.sort === "fresh" && !isFresh(it)) return false;
       if (q && !`${it.title} ${it.summary || ""} ${it.source}`.toLowerCase().includes(q)) return false;
       return true;
     });
@@ -151,16 +151,17 @@
   // ---------- 記事の行 ----------
   function makeRow(it) {
     const row = document.createElement("article");
-    row.className = "row" + (it.isNew ? " is-new" : "");
+    const fresh = isFresh(it);
+    row.className = "row" + (fresh ? " is-new" : "");
 
-    const thumb = thumbNode(it.image, it.title, CAT_EMOJI[it.categories[0]] || CAT_EMOJI.other, "row-thumb");
+    const thumb = thumbNode(it.image, it.title, "row-thumb");
 
     const body = document.createElement("div");
     body.className = "row-body";
 
     const top = document.createElement("div");
     top.className = "row-top";
-    if (it.isNew) top.appendChild(badge("NEW", "badge-new"));
+    if (fresh) top.appendChild(badge("NEW", "badge-new"));
     if (it.isOfficial) top.appendChild(badge("公式", "badge-official"));
     for (const s of (it.series || []).slice(0, 1)) top.appendChild(badge(labelOfSeries(s), "badge-series"));
     for (const c of it.categories.slice(0, 1)) {
@@ -303,22 +304,22 @@
     sec.hidden = false;
     const grid = $("#topicGrid");
     grid.innerHTML = "";
-    for (const t of list.slice(0, topicsShown)) {
+    list.slice(0, topicsShown).forEach((t, i) => {
       const card = document.createElement("article");
-      card.className = "topic";
+      // 先頭（いちばん多くの媒体が報じた話題）だけ横長にする
+      card.className = "topic" + (i === 0 ? " is-lead" : "");
 
-      const thumb = thumbNode(t.image, t.title, CAT_EMOJI[(t.categories || [])[0]] || CAT_EMOJI.other, "topic-thumb");
+      const thumb = thumbNode(t.image, t.title, "topic-thumb");
 
       const top = document.createElement("div");
       top.className = "topic-top";
       const stars = document.createElement("span");
       stars.className = "topic-stars";
-      // 媒体数をそのまま★にする（最大 5 つ）
-      const n = Math.min(5, t.sourceCount);
-      stars.textContent = "★".repeat(n) + "☆".repeat(Math.max(0, 5 - n));
+      // 報じた媒体の数を、クエストの★の数として書く
+      stars.textContent = `★${Number(t.sourceCount) || 0}`;
       const count = document.createElement("span");
       count.className = "topic-count";
-      count.textContent = `${t.sourceCount} 媒体`;
+      count.textContent = `${t.sourceCount} 媒体が報道`;
       const time = document.createElement("span");
       time.className = "topic-time";
       time.textContent = hhmm(t.publishedAt || data.updatedAt);
@@ -358,7 +359,7 @@
       body.append(h, sum, links);
       card.append(thumb, top, body);
       grid.appendChild(card);
-    }
+    });
     const more = $("#topicMore");
     more.hidden = list.length <= topicsShown;
     more.textContent = `ほかの話題を見る（残り ${list.length - topicsShown} 件）`;
@@ -387,6 +388,10 @@
     }
     $("#sourceList").textContent = data.sources.map((s) => s.name).join(" / ");
 
+    const freshN = baseline ? data.items.filter(isFresh).length : 0;
+    const freshBtn = $("#sortSeg [data-sort=fresh]");
+    freshBtn.hidden = !freshN;
+    freshBtn.textContent = `前回から +${freshN}`;
     for (const b of document.querySelectorAll("#sortSeg button")) b.classList.toggle("active", b.dataset.sort === state.sort);
   }
 
@@ -438,7 +443,7 @@
     a.target = "_blank";
     a.rel = "noopener noreferrer";
     a.addEventListener("click", () => markRead(it.id));
-    const thumb = thumbNode(it.image, it.title, CAT_EMOJI[it.categories[0]] || CAT_EMOJI.other, "gacha-thumb");
+    const thumb = thumbNode(it.image, it.title, "gacha-thumb");
     const info = document.createElement("div");
     info.className = "gacha-info";
     const meta = document.createElement("div");
@@ -533,9 +538,68 @@
   }
 
   // ---------- 更新の様子 ----------
+  // ---------- 前回見たときから増えた記事 ----------
+  // 前回開いたときにあった記事の id を覚えておき、それ以外を新着とみなす。
+  // 同じタブで開き直しても基準が動かないよう、最初の値を sessionStorage に固定する
+  let baseline = null;
+  function setupBaseline() {
+    let prev = null;
+    try {
+      prev = JSON.parse(sessionStorage.getItem(SEEN_KEY) || "null");
+    } catch {
+      /* 読めなければ localStorage の値を使う */
+    }
+    if (!prev) {
+      prev = store.get(SEEN_KEY, []);
+      try {
+        sessionStorage.setItem(SEEN_KEY, JSON.stringify(prev));
+      } catch {
+        /* 保存できなくても動く */
+      }
+    }
+    store.set(SEEN_KEY, data.items.map((it) => it.id));
+    baseline = prev.length ? new Set(prev) : null;
+  }
+  function isFresh(it) {
+    return baseline ? !baseline.has(it.id) : !!it.isNew;
+  }
+
+  // ---------- 記事に出てきたモンスター ----------
+  function renderMonsters() {
+    const counts = new Map();
+    for (const it of data.items) {
+      const text = `${it.title} ${it.summary || ""}`;
+      for (const m of MONSTERS) if (text.includes(m)) counts.set(m, (counts.get(m) || 0) + 1);
+    }
+    const top = [...counts.entries()].sort((a, b) => b[1] - a[1]).slice(0, 8);
+    if (!top.length) return;
+    $("#monsterMod").hidden = false;
+    const box = $("#monsterList");
+    box.innerHTML = "";
+    top.forEach(([name, n], i) => {
+      const li = document.createElement("li");
+      const b = document.createElement("button");
+      b.type = "button";
+      b.innerHTML = `<span class="rk">${i + 1}</span><span class="mn"></span><span class="mc">${n} 本</span>`;
+      b.querySelector(".mn").textContent = name;
+      b.addEventListener("click", () => {
+        set({ q: name, sort: state.sort === "fresh" ? "new" : state.sort });
+        $("#feedSection")?.scrollIntoView({ behavior: "smooth", block: "start" });
+      });
+      li.appendChild(b);
+      box.appendChild(li);
+    });
+  }
+
   function renderChurn() {
     const c = data.churn;
     const el = $("#churn");
+    if (baseline) {
+      const n = data.items.filter(isFresh).length;
+      el.hidden = false;
+      el.innerHTML = n ? `前回見たときから <b>${n}</b> 本増えています` : "前回見たときから新しい記事はありません";
+      return;
+    }
     if (!c || !c.previousCount) {
       el.hidden = true;
       return;
@@ -562,7 +626,10 @@
     const u = new Date(data.updatedAt);
     $("#meta").textContent = `${data.total} 本のニュース ・ 今日 ${data.todayCount} 本 ・ ${data.topics.length} の話題 ・ 最終更新 ${u.getMonth() + 1}/${u.getDate()} ${hhmm(data.updatedAt)}`;
 
+    setupBaseline();
+    if (state.sort === "fresh" && !data.items.some(isFresh)) state.sort = "new";
     renderChurn();
+    renderMonsters();
     renderFilters();
     renderWords();
     renderTopics();
