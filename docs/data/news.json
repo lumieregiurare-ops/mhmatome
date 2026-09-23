@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-09-23T09:30:16.985Z",
+  "updatedAt": "2026-09-23T10:00:17.737Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 49,
+  "total": 48,
   "todayCount": 10,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 4
+      "count": 3
     },
     {
       "id": "update",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 39
+      "count": 38
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 4
+      "count": 3
     },
     {
       "id": "now",
@@ -104,7 +104,7 @@
     },
     {
       "name": "YouTube",
-      "count": 7
+      "count": 6
     },
     {
       "name": "AppBank",
@@ -115,7 +115,7 @@
       "count": 2
     },
     {
-      "name": "dengekionline.com",
+      "name": "電撃オンライン",
       "count": 2
     },
     {
@@ -163,7 +163,7 @@
       "count": 1
     },
     {
-      "name": "ゲーム情報！ゲームのはなし",
+      "name": "gamestalk.net",
       "count": 1
     },
     {
@@ -205,7 +205,7 @@
         {
           "title": "『モンハンワイルズ：アセンダンス』フルフルベビーの高画質ビジュアル解禁",
           "url": "https://dengekionline.com/article/202609/88824",
-          "source": "dengekionline.com",
+          "source": "電撃オンライン",
           "publishedAt": "2026-09-21T13:11:00.000Z",
           "isPR": false
         },
@@ -305,13 +305,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-23T09:00:18.284Z",
+    "previousAt": "2026-09-23T09:30:16.985Z",
     "previousCount": 49,
-    "newCount": 2
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-23T10:00:16.985Z",
+  "nextUpdateAt": "2026-09-23T10:30:17.737Z",
   "items": [
+    {
+      "id": "b76a54b5b309",
+      "title": "【モンハンストーリーズ3】キャラ・声優一覧【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79518029",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-09-23T08:29:54.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2025/11/111147_kl2nw.webp",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "5cb07b2b0347",
       "title": "【モンハンストーリーズ3】序盤の効率的な進め方｜押さえておきたいポイントまとめ【MHST3】",
@@ -323,27 +344,6 @@
       "image": "https://appmedia.jp/wp-content/uploads/2026/03/135446_cduob.webp",
       "categories": [
         "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "6fae96ec537f",
-      "title": "【モンハンストーリーズ3】体験版はどこまでできる？｜やっておきたいこと【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79521053",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-09-23T05:05:50.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2025/11/153717_b6xeo.webp",
-      "categories": [
-        "new"
       ],
       "series": [
         "stories"
@@ -601,7 +601,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1805d6d44671",
@@ -707,7 +707,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f4f222ac2e2d",
@@ -904,7 +904,7 @@
       "title": "『モンハンワイルズ：アセンダンス』フルフルベビーの高画質ビジュアル解禁",
       "url": "https://dengekionline.com/article/202609/88824",
       "host": "dengekionline.com",
-      "source": "dengekionline.com",
+      "source": "電撃オンライン",
       "summary": "",
       "publishedAt": "2026-09-21T13:11:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/88824/ogp_mkZd.jpg?x=1280",
@@ -1039,28 +1039,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "dc1932363768",
-      "title": "[MHWilds]零式オメガ・プラネテス検証戦 非火事場 ソロ散弾ヘビィ11分28秒/ Savage Omega Planetes Spread HBG",
-      "url": "https://youtu.be/0lX2RXt-SFI?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-09-21T07:55:29.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1220,7 +1198,7 @@
       "title": "『モンハンワイルズ』プレイヤーの腕前は想定以上だった――“期待値のズレ”踏まえ『アセンダンス』のエンドゲーム難度バランスを調整中",
       "url": "https://gamestalk.net/monster-hunter-wilds-ascendance-player-skill-difficulty-balance/",
       "host": "gamestalk.net",
-      "source": "ゲーム情報！ゲームのはなし",
+      "source": "gamestalk.net",
       "summary": "",
       "publishedAt": "2026-09-20T20:03:05.000Z",
       "image": "https://gamestalk.net/wp-content/uploads/2026/09/MHW-Ascendance_260921.webp",
@@ -1282,7 +1260,7 @@
       "title": "『モンハンワイルズ：アセンダンス』インタビュー。ブーストアクションの効果的な使い方は？ 初めての試遊にテオ・テスカトルを選んだ理由やSwitch2版のパフォーマンスにも注目【TGS2026】",
       "url": "https://dengekionline.com/article/images/202609/88426/874726",
       "host": "dengekionline.com",
-      "source": "dengekionline.com",
+      "source": "電撃オンライン",
       "summary": "",
       "publishedAt": "2026-09-20T10:53:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/dengeki/88426/af99687dd719c4e8bc6a39e946c3d9ef7.jpg?x=1280",
