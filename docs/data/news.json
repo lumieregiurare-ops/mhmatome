@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-09-23T15:30:21.069Z",
+  "updatedAt": "2026-09-23T16:00:16.684Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 51,
+  "total": 52,
   "todayCount": 0,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 2
+      "count": 3
     },
     {
       "id": "update",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 10
+      "count": 9
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 36
+      "count": 37
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 37
+      "count": 36
     },
     {
       "id": "rise",
@@ -100,14 +100,14 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 21
+      "count": 20
     },
     {
       "name": "YouTube",
-      "count": 7
+      "count": 8
     },
     {
-      "name": "appmedia.jp",
+      "name": "AppMedia",
       "count": 5
     },
     {
@@ -115,8 +115,12 @@
       "count": 2
     },
     {
-      "name": "appbank.net",
+      "name": "AppBank",
       "count": 2
+    },
+    {
+      "name": "ｄメニューニュース",
+      "count": 1
     },
     {
       "name": "Game*Spark",
@@ -313,13 +317,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-23T15:00:16.273Z",
-    "previousCount": 50,
-    "newCount": 2
+    "previousAt": "2026-09-23T15:30:21.069Z",
+    "previousCount": 51,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-23T16:00:21.069Z",
+  "nextUpdateAt": "2026-09-23T16:30:16.684Z",
   "items": [
+    {
+      "id": "c1ce900bfe63",
+      "title": "【モンハンストーリーズ3】侵獣攻略一覧｜解放できる危惧種まとめ【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79844810",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-09-23T14:04:31.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/105921_5y7po.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "dfd162d56e9d",
       "title": "『モンハンNow』3周年記念パス登場!! 特別なクエストを攻略してスタンプや各種素材をゲットしよう",
@@ -367,7 +392,7 @@
       "title": "【モンハンストーリーズ2】竜の拠り地・7層の攻略と出現モンスター｜表裏対応【MHST2】",
       "url": "https://appmedia.jp/mhst2/6699850",
       "host": "appmedia.jp",
-      "source": "appmedia.jp",
+      "source": "AppMedia",
       "summary": "",
       "publishedAt": "2026-09-23T12:42:32.000Z",
       "image": "https://appmedia.jp/wp-content/uploads/2021/04/d734a73587907638fae0c2b011103212.jpg",
@@ -381,14 +406,14 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1522d4cef7f3",
       "title": "【モンハンストーリーズ3】天変古龍一覧と出現条件【MHST3】",
       "url": "https://appmedia.jp/mhst3/79838603",
       "host": "appmedia.jp",
-      "source": "appmedia.jp",
+      "source": "AppMedia",
       "summary": "",
       "publishedAt": "2026-09-23T12:39:56.000Z",
       "image": "https://appmedia.jp/wp-content/uploads/2026/03/191512_qv645.webp",
@@ -403,27 +428,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "24347ba4d574",
-      "title": "【モンハンストーリーズ3】交易ポイントの効率的な集め方【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79820612",
-      "host": "appmedia.jp",
-      "source": "appmedia.jp",
-      "summary": "",
-      "publishedAt": "2026-09-23T12:11:37.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/162218_i8g6p.webp",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "754edca73ed0",
@@ -451,7 +455,7 @@
       "title": "【モンハンストーリーズ3】レベル上げの効率的なやり方【MHST3】",
       "url": "https://appmedia.jp/mhst3/79833866",
       "host": "appmedia.jp",
-      "source": "appmedia.jp",
+      "source": "AppMedia",
       "summary": "",
       "publishedAt": "2026-09-23T11:34:27.000Z",
       "image": "https://appmedia.jp/wp-content/uploads/2026/03/183830_lg0m4.webp",
@@ -472,7 +476,7 @@
       "title": "【モンハンストーリーズ3】 クリア後の追加要素とやり込み要素【MHST3】",
       "url": "https://appmedia.jp/mhst3/79843649",
       "host": "appmedia.jp",
-      "source": "appmedia.jp",
+      "source": "AppMedia",
       "summary": "",
       "publishedAt": "2026-09-23T11:01:22.000Z",
       "image": "https://appmedia.jp/wp-content/uploads/2026/03/143439_w9hov.webp",
@@ -511,11 +515,30 @@
       "isNew": false
     },
     {
+      "id": "5e6e47f8c66c",
+      "title": "『アサクリ』トランプに“隠し刃”が搭載されている！？『モンハン』や『ブラボ』など人気ゲームの公式ライセンストランプ全20種が9月17日より予約開始",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORlRadDRTMmxXYjlHUVRhRFpZaW54SmpNTXhJc0NBeVBxNzd6QXRJQzJ0X2hKQ0FvdzZ3aE9nNVJ6a1pSck5vXzJYSXRSLURnOVZ4MTE0dFVaYVZnTm85eTBGSEVrUER4MXo5WjhkWFlpRFVybHFhNGpJSHN6YzZRbTdKZTF1TGxxeFJF0gGHAUFVX3lxTE81NGFDdGpab1ZmbFdTd3U4am83dHh1WER5b0JMQjh4X25pY3dSZmVMdDJrcEhxT0JZcHR2ZzhMUndGTWV3UWFTX0tYbnFGbEpiM1dRcmt6SnY4blNTY2hZdFR3YlBhOEcwdmR3UWpVR3dXdWVQdWxJTXZlaWZpd3J6dkZTWVBOMA?oc=5",
+      "host": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
+      "summary": "",
+      "publishedAt": "2026-09-23T08:20:56.000Z",
+      "image": "",
+      "categories": [
+        "new"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "5d5ac0f499eb",
       "title": "「モンハンNow」シーズン11が配信開始！ 大阪リアルイベントは11月14日から開催",
       "url": "https://www.appbank.net/2026/09/23/game/3112116.php",
       "host": "appbank.net",
-      "source": "appbank.net",
+      "source": "AppBank",
       "summary": "",
       "publishedAt": "2026-09-23T02:02:57.000Z",
       "image": "https://www.appbank.net/wp-content/uploads/2026/09/press-1a0af09a81e4-img001-image-18c73a7de0964f30_image-f7d8c815cd.webp",
@@ -656,12 +679,12 @@
     {
       "id": "d8b95bbbc335",
       "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1HbzVlTi1tczhaREttMXFOYVk1aGtOUkJEdFJkUGFBb0lRRjQ1eUs0YTRCQjBwQU11a05BXzEzU2Q4QjdqU2k3Y2pR?oc=5",
+      "url": "https://gamewith.jp/mhwilds/563040",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-09-22T15:56:00.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563040.png?date=1789770455",
       "categories": [
         "other"
       ],
@@ -670,7 +693,7 @@
       ],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
@@ -949,27 +972,6 @@
       "isNew": false
     },
     {
-      "id": "d94972b8ccc2",
-      "title": "【モンハンワイルズ】ライトボウガンの最強装備・おすすめ装備【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/484946",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-21T16:32:16.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/484946.png?date=1740714622",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "f57ee25aeb4c",
       "title": "『モンハンワイルズ：アセンダンス』「フルフルベビー」の単体画像がお披露目。奇怪竜「フルフル」とともに登場、ちっちゃくて",
       "url": "https://news.nicovideo.jp/watch/nw19796721?news_ref",
@@ -1160,6 +1162,25 @@
       "isNew": false
     },
     {
+      "id": "be54c159e597",
+      "title": "5年越しの悲願！モンハンの神『辻P』とツーショットきたぁあ！！【TGS2026】",
+      "url": "https://youtu.be/t_iiOMF5c5M?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-09-21T09:17:46.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "dc1932363768",
       "title": "[MHWilds]零式オメガ・プラネテス検証戦 非火事場 ソロ散弾ヘビィ11分28秒/ Savage Omega Planetes Spread HBG",
       "url": "https://youtu.be/0lX2RXt-SFI?si",
@@ -1270,7 +1291,7 @@
       "title": "モンハン部限定！ Nintendo Switch 2版『モンスターハンターワイルズ』体験会、10月10日から東京・大阪で開催",
       "url": "https://www.appbank.net/2026/09/21/game/3111029.php",
       "host": "appbank.net",
-      "source": "appbank.net",
+      "source": "AppBank",
       "summary": "",
       "publishedAt": "2026-09-21T00:11:37.000Z",
       "image": "https://www.appbank.net/wp-content/uploads/2026/09/004-34.webp",
@@ -1357,7 +1378,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "We revealed during a stage event at the Capcom booth at Tokyo Game Show 2026 that Khezu will appear in Monster Hunter Wilds: Ascendance. Khezu {STEAM_CLAN_IMAG…",
       "publishedAt": "2026-09-19T07:00:19.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/44795648/6287ba9d35d1ffa19386af4c6b9d0ec9e2de8625.png",
+      "image": "https://clan.fastly.steamstatic.com/images/44795648/6287ba9d35d1ffa19386af4c6b9d0ec9e2de8625.png",
       "categories": [
         "other"
       ],
