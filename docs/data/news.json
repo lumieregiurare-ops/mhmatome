@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T02:00:16.113Z",
+  "updatedAt": "2026-09-24T02:30:18.196Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 53,
-  "todayCount": 12,
+  "todayCount": 14,
   "categories": [
     {
       "id": "new",
@@ -52,7 +52,7 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 3
+      "count": 2
     },
     {
       "id": "sales",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 35
+      "count": 36
     }
   ],
   "series": [
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 6
+      "count": 5
     },
     {
       "id": "now",
@@ -107,15 +107,19 @@
       "count": 9
     },
     {
-      "name": "youtu.be",
-      "count": 9
+      "name": "YouTube",
+      "count": 8
     },
     {
       "name": "ガジェット通信",
       "count": 2
     },
     {
-      "name": "topics.smt.docomo.ne.jp",
+      "name": "CAPCOM",
+      "count": 1
+    },
+    {
+      "name": "ｄメニューニュース",
       "count": 1
     },
     {
@@ -215,42 +219,6 @@
       ]
     },
     {
-      "id": "c0774838a7d3",
-      "title": "【初心者&復帰勢へ】アセンダンスまでに作るべき最終・汎用大剣装備を紹介！【モンハンワイルズ】【MHWilds】【mhws】",
-      "summary": "",
-      "url": "https://youtu.be/qFGW2byalmg",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575037.png?date=1789770931",
-      "leadSource": "youtu.be",
-      "publishedAt": "2026-09-22T08:00:39.000Z",
-      "sourceCount": 2,
-      "articleCount": 3,
-      "categories": [
-        "guide",
-        "other"
-      ],
-      "keywords": [
-        "モンハンワイルズ",
-        "アセンダンス",
-        "mhwilds"
-      ],
-      "articles": [
-        {
-          "title": "【TGS先行プレイ】アセンダンスの弓を触ってみて、良かったこと＆気になったこと【モンハンワイルズ/MHWilds】",
-          "url": "https://youtu.be/CMvMHGmITx0?si",
-          "source": "youtu.be",
-          "publishedAt": "2026-09-22T08:00:27.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】護竜リオレイアの最新情報まとめ【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/575037",
-          "source": "GameWith",
-          "publishedAt": "2026-09-21T09:47:29.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "8c086bb7f518",
       "title": "【モンハンナウ】モンハンNow感謝祭【3周年記念】【モンハンNow】",
       "summary": "",
@@ -314,7 +282,7 @@
       "summary": "",
       "url": "https://youtu.be/e-C5tCsXnV0?si",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/524935.png?date=1760689472",
-      "leadSource": "youtu.be",
+      "leadSource": "YouTube",
       "publishedAt": "2026-09-21T13:35:11.000Z",
       "sourceCount": 2,
       "articleCount": 2,
@@ -366,13 +334,53 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-24T01:30:15.153Z",
-    "previousCount": 52,
-    "newCount": 2
+    "previousAt": "2026-09-24T02:00:16.113Z",
+    "previousCount": 53,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-24T02:30:16.113Z",
+  "nextUpdateAt": "2026-09-24T03:00:18.196Z",
   "items": [
+    {
+      "id": "2669fa45e7ca",
+      "title": "「日本ゲーム大賞2026」のフューチャー部門にて 『モンスターハンターワイルズ：アセンダンス』が受賞！",
+      "url": "https://www.capcom.co.jp/ir/news/html/260924.html?utm_source",
+      "host": "capcom.co.jp",
+      "source": "CAPCOM",
+      "summary": "",
+      "publishedAt": "2026-09-24T01:59:48.000Z",
+      "image": "https://www.capcom.co.jp/ir/news/html/images/ogp/img_ogp_260608b.png",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "e6d79acfa4bd",
+      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
+      "url": "https://gamewith.jp/mhwilds/563096",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-24T01:30:14.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
+      "categories": [
+        "guide"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "8c086bb7f518",
       "title": "【モンハンナウ】モンハンNow感謝祭【3周年記念】【モンハンNow】",
@@ -413,7 +421,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0266ee8302dc",
@@ -606,18 +614,20 @@
       "isNew": false
     },
     {
-      "id": "e6d79acfa4bd",
-      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
-      "url": "https://gamewith.jp/mhwilds/563096",
+      "id": "b5d6fe40ab2e",
+      "title": "【アセンダンス】護竜リオレイアの最新情報まとめ【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/575037",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-09-23T16:09:16.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
+      "publishedAt": "2026-09-23T15:53:03.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575037.png?date=1789770931",
       "categories": [
-        "guide"
+        "other"
       ],
-      "series": [],
+      "series": [
+        "wilds"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -713,7 +723,7 @@
       "title": "【MHWilds】星9歴戦王ジン・ダハド 9'12\"98（狩猟笛/非火事場)【きりたん解説付き】",
       "url": "https://youtu.be/6pJByCcbHWQ?si",
       "host": "youtu.be",
-      "source": "youtu.be",
+      "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-09-23T08:31:51.000Z",
       "image": "",
@@ -735,7 +745,7 @@
       "title": "『アサクリ』トランプに“隠し刃”が搭載されている！？『モンハン』や『ブラボ』など人気ゲームの公式ライセンストランプ全20種が9月17日より予約開始",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORlRadDRTMmxXYjlHUVRhRFpZaW54SmpNTXhJc0NBeVBxNzd6QXRJQzJ0X2hKQ0FvdzZ3aE9nNVJ6a1pSck5vXzJYSXRSLURnOVZ4MTE0dFVaYVZnTm85eTBGSEVrUER4MXo5WjhkWFlpRFVybHFhNGpJSHN6YzZRbTdKZTF1TGxxeFJF0gGHAUFVX3lxTE81NGFDdGpab1ZmbFdTd3U4am83dHh1WER5b0JMQjh4X25pY3dSZmVMdDJrcEhxT0JZcHR2ZzhMUndGTWV3UWFTX0tYbnFGbEpiM1dRcmt6SnY4blNTY2hZdFR3YlBhOEcwdmR3UWpVR3dXdWVQdWxJTXZlaWZpd3J6dkZTWVBOMA?oc=5",
       "host": "topics.smt.docomo.ne.jp",
-      "source": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
       "summary": "",
       "publishedAt": "2026-09-23T08:20:56.000Z",
       "image": "",
@@ -958,33 +968,11 @@
       "isNew": false
     },
     {
-      "id": "8a8adf3ab3d8",
-      "title": "【ワイルズ1分】#19 1分実況してみた【MHWilds/魔物獵人荒野】",
-      "url": "https://youtu.be/vwUaVK68Hbg?si",
-      "host": "youtu.be",
-      "source": "youtu.be",
-      "summary": "",
-      "publishedAt": "2026-09-22T09:45:11.000Z",
-      "image": "",
-      "categories": [
-        "community"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "1805d6d44671",
       "title": "【モンハンnow】次元変異リオレウス亜種/アケノシルム武器は強い？他武器との比較やスタイル強化値、素材緩和など解説！【モンスターハンターNow/モンハンNOW/モンハンなう/モンハンナウ】",
       "url": "https://youtu.be/biP2iTcSgiM?si",
       "host": "youtu.be",
-      "source": "youtu.be",
+      "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-09-22T08:12:23.000Z",
       "image": "",
@@ -1005,7 +993,7 @@
       "title": "【初心者&復帰勢へ】アセンダンスまでに作るべき最終・汎用大剣装備を紹介！【モンハンワイルズ】【MHWilds】【mhws】",
       "url": "https://youtu.be/qFGW2byalmg",
       "host": "youtu.be",
-      "source": "youtu.be",
+      "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-09-22T08:00:39.000Z",
       "image": "",
@@ -1027,7 +1015,7 @@
       "title": "【TGS先行プレイ】アセンダンスの弓を触ってみて、良かったこと＆気になったこと【モンハンワイルズ/MHWilds】",
       "url": "https://youtu.be/CMvMHGmITx0?si",
       "host": "youtu.be",
-      "source": "youtu.be",
+      "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-09-22T08:00:27.000Z",
       "image": "",
@@ -1112,7 +1100,7 @@
       "title": "影が薄すぎる環境生物『マタタキウオ』の生態【モンハンワイルズ】",
       "url": "https://youtu.be/jEs-l2Uw_9s?si",
       "host": "youtu.be",
-      "source": "youtu.be",
+      "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-09-22T03:00:15.000Z",
       "image": "",
@@ -1196,7 +1184,7 @@
       "title": "「一発で死ぬから！」→二発だったのでセーフ（アウト） #モンハンワイルズ #MHWilds #モンスターハンターワイルズ #ゲーム実況 #shorts",
       "url": "https://youtu.be/e-C5tCsXnV0?si",
       "host": "youtu.be",
-      "source": "youtu.be",
+      "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-09-21T13:35:11.000Z",
       "image": "",
@@ -1319,32 +1307,11 @@
       "isNew": false
     },
     {
-      "id": "b5d6fe40ab2e",
-      "title": "【アセンダンス】護竜リオレイアの最新情報まとめ【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/575037",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-21T09:47:29.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575037.png?date=1789770931",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "be54c159e597",
       "title": "5年越しの悲願！モンハンの神『辻P』とツーショットきたぁあ！！【TGS2026】",
       "url": "https://youtu.be/t_iiOMF5c5M?si",
       "host": "youtu.be",
-      "source": "youtu.be",
+      "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-09-21T09:17:46.000Z",
       "image": "",
@@ -1363,7 +1330,7 @@
       "title": "[MHWilds]零式オメガ・プラネテス検証戦 非火事場 ソロ散弾ヘビィ11分28秒/ Savage Omega Planetes Spread HBG",
       "url": "https://youtu.be/0lX2RXt-SFI?si",
       "host": "youtu.be",
-      "source": "youtu.be",
+      "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-09-21T07:55:29.000Z",
       "image": "",
