@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T20:00:17.528Z",
+  "updatedAt": "2026-09-24T20:30:14.704Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 43,
-  "todayCount": 1,
+  "todayCount": 2,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 9
+      "count": 8
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 30
+      "count": 31
     }
   ],
   "series": [
@@ -74,12 +74,12 @@
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 2
+      "count": 1
     },
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 5
+      "count": 6
     },
     {
       "id": "now",
@@ -100,11 +100,11 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 22
+      "count": 21
     },
     {
       "name": "YouTube",
-      "count": 11
+      "count": 12
     },
     {
       "name": "攻略大百科",
@@ -131,7 +131,7 @@
       "count": 1
     },
     {
-      "name": "Game*Spark",
+      "name": "ｄメニューニュース",
       "count": 1
     },
     {
@@ -256,13 +256,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-24T19:28:14.278Z",
+    "previousAt": "2026-09-24T20:00:17.528Z",
     "previousCount": 43,
-    "newCount": 0
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-24T20:30:17.528Z",
+  "nextUpdateAt": "2026-09-24T21:00:14.704Z",
   "items": [
+    {
+      "id": "efa10b565b20",
+      "title": "【MHWs】歴戦王アルシュベルド 08'09 チャージアックス ソロ(TA wiki rules)/Tempered Arkveld Charge Blade",
+      "url": "https://youtu.be/cLovrORc8Iw?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-09-24T18:25:24.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "778fbb3d5344",
       "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
@@ -789,19 +810,19 @@
     {
       "id": "78d1677a7208",
       "title": "スローライフだけど狩猟は全然スローじゃない！『モンハン』を思わせる武器アクションも楽しい『Monster Fantasy』で心ゆくまで狩ろうぜ【テスト版プレイレポ】",
-      "url": "https://www.gamespark.jp/article/2026/09/23/172658.html",
-      "host": "gamespark.jp",
-      "source": "Game*Spark",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbEpYT25lTFRPbVUtT2lnWkFGVGhvSGRMOU5WTHpPblpNMnlldWk3Wk5oV194VVdtMUJweVJibWlscm4xTE1weE9aWHVHQURFYVBqRnBkV2xLdGp0MDRqemFFQkpWcUJxelR1Sld6QXVlQTIzaTU0UVpIMnBhaElBX2JR0gGCAUFVX3lxTE9sSlhPbmVMVE9tVS1PaWdaQUZUaG9IZEw5TlZMek9uWk0yeWV1aTdaTmhXX3hVV20xQnB5UmJtaWxybjFMTXB4T1pYdUdBREVhUGpGcGRXbEt0anQwNGp6YUVCSlZxQnF6VHVKV3pBdWVBMjNpNTRRWkgycGFoSUFfYlE?oc=5",
+      "host": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
       "summary": "",
-      "publishedAt": "2026-09-23T00:00:03.000Z",
-      "image": "https://www.gamespark.jp/imgs/ogp_f/1197084.png",
+      "publishedAt": "2026-09-23T00:00:00.000Z",
+      "image": "",
       "categories": [
         "other"
       ],
       "series": [],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
@@ -1103,27 +1124,6 @@
       "isNew": false
     },
     {
-      "id": "3da54bf752f7",
-      "title": "【サンブレイク】エスピナス亜種の弱点と攻略【モンハンライズ】",
-      "url": "https://gamewith.jp/mhrize/article/show/359456",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-21T20:19:23.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/359456.png?date=1661390817",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "5a9515f44eba",
       "title": "Khezu Stretches into Monster Hunter Wilds: Ascendance!",
       "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010496733",
@@ -1131,7 +1131,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "We revealed during a stage event at the Capcom booth at Tokyo Game Show 2026 that Khezu will appear in Monster Hunter Wilds: Ascendance. Khezu {STEAM_CLAN_IMAG…",
       "publishedAt": "2026-09-19T07:00:19.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/44795648/6287ba9d35d1ffa19386af4c6b9d0ec9e2de8625.png",
+      "image": "https://clan.fastly.steamstatic.com/images/44795648/6287ba9d35d1ffa19386af4c6b9d0ec9e2de8625.png",
       "categories": [
         "other"
       ],
