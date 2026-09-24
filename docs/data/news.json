@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T10:27:48.135Z",
+  "updatedAt": "2026-09-24T11:00:17.114Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 45,
-  "todayCount": 9,
+  "todayCount": 12,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 8
+      "count": 9
     },
     {
       "id": "sale",
@@ -62,24 +62,24 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 32
+      "count": 31
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 35
+      "count": 36
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 1
+      "count": 0
     },
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 5
+      "count": 4
     },
     {
       "id": "now",
@@ -119,7 +119,7 @@
       "count": 1
     },
     {
-      "name": "4gamer.net",
+      "name": "4Gamer.net",
       "count": 1
     },
     {
@@ -127,7 +127,7 @@
       "count": 1
     },
     {
-      "name": "appbank.net",
+      "name": "AppBank",
       "count": 1
     },
     {
@@ -151,7 +151,7 @@
       "count": 1
     },
     {
-      "name": "famitsu.com",
+      "name": "ファミ通",
       "count": 1
     },
     {
@@ -208,8 +208,58 @@
         {
           "title": "『モンハンワイルズ：アセンダンス』フルフルベビーが登場。近くのものに反応して噛みつくフルフルの幼生。小さい尻尾がかわいい",
           "url": "https://www.famitsu.com/article/202609/88822",
-          "source": "famitsu.com",
+          "source": "ファミ通",
           "publishedAt": "2026-09-21T12:22:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "8171944c1821",
+      "title": "【モンハンワイルズ】今後Switch2版で遊ぶ人へゴグマジオスに挑む！攻略難易度SSS⁈",
+      "summary": "",
+      "url": "https://youtu.be/KbrXYA5NFT8",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563066.png?date=1780886791",
+      "leadSource": "YouTube",
+      "publishedAt": "2026-09-24T10:20:55.000Z",
+      "sourceCount": 2,
+      "articleCount": 5,
+      "categories": [
+        "guide",
+        "new"
+      ],
+      "keywords": [
+        "モンハンワイルズ",
+        "モンスターハンターワイルズ",
+        "switch2"
+      ],
+      "articles": [
+        {
+          "title": "【モンハンワイルズ】Switch2版の発売日・最新情報【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563066",
+          "source": "GameWith",
+          "publishedAt": "2026-09-23T11:26:20.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】護石周回（護石集め）の効率的なやり方【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/513618",
+          "source": "GameWith",
+          "publishedAt": "2026-09-23T07:02:24.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】最強装備・おすすめ装備まとめ【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/485337",
+          "source": "GameWith",
+          "publishedAt": "2026-09-23T04:41:07.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】双剣の最強装備・おすすめ装備【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/484913",
+          "source": "GameWith",
+          "publishedAt": "2026-09-23T00:57:12.000Z",
           "isPR": false
         }
       ]
@@ -271,7 +321,7 @@
         {
           "title": "「モンハンNow」シーズン11が配信開始！ 大阪リアルイベントは11月14日から開催",
           "url": "https://www.appbank.net/2026/09/23/game/3112116.php",
-          "source": "appbank.net",
+          "source": "AppBank",
           "publishedAt": "2026-09-23T02:02:57.000Z",
           "isPR": false
         }
@@ -283,7 +333,7 @@
       "summary": "",
       "url": "https://www.4gamer.net/games/043/G104343/screenshot.html?mode",
       "image": "https://www.4gamer.net/games/043/G104343/SS/014.jpg",
-      "leadSource": "4gamer.net",
+      "leadSource": "4Gamer.net",
       "publishedAt": "2026-09-24T03:56:28.000Z",
       "sourceCount": 2,
       "articleCount": 2,
@@ -306,13 +356,55 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-24T10:00:24.739Z",
-    "previousCount": 46,
-    "newCount": 1
+    "previousAt": "2026-09-24T10:27:48.135Z",
+    "previousCount": 45,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-24T10:57:48.135Z",
+  "nextUpdateAt": "2026-09-24T11:30:17.114Z",
   "items": [
+    {
+      "id": "8171944c1821",
+      "title": "【モンハンワイルズ】今後Switch2版で遊ぶ人へゴグマジオスに挑む！攻略難易度SSS⁈",
+      "url": "https://youtu.be/KbrXYA5NFT8",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-09-24T10:20:55.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "a2119f0dcdb7",
+      "title": "【モンスターハンターワイルズ 番外編 】アセンンダンス発売までに武器を全部集めよう！ 大剣編・前編",
+      "url": "https://youtu.be/mtrbZD82cMk?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-09-24T09:45:25.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "9a4d633e9391",
       "title": "【モンハンワイルズ】初心者必見！たった3分で脱初心者できるスラアク完全解説【山田らいおん】",
@@ -396,6 +488,27 @@
       "isNew": false
     },
     {
+      "id": "5fc879b1cca5",
+      "title": "【モンハンワイルズ】英傑に愛を込めての攻略と報酬【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/545381",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-24T04:22:23.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545381.png?date=1771384851",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "1d541187e86c",
       "title": "カプコンがゲーム開発人材を積極採用。『モンスターハンター』『バイオハザード』など世界的タイトルを手がける、3Dデザイナーやエンジニア、プランナーを幅広く募集",
       "url": "https://automaton-media.com/articles/newsjp/capcom-20260924-469637/",
@@ -419,7 +532,7 @@
       "title": "画像ギャラリー | Nintendo Switch 2版 モンスターハンターワイルズ：アセンダンス",
       "url": "https://www.4gamer.net/games/043/G104343/screenshot.html?mode",
       "host": "4gamer.net",
-      "source": "4gamer.net",
+      "source": "4Gamer.net",
       "summary": "",
       "publishedAt": "2026-09-24T03:56:28.000Z",
       "image": "https://www.4gamer.net/games/043/G104343/SS/014.jpg",
@@ -583,28 +696,6 @@
       "isNew": false
     },
     {
-      "id": "f235e848f2a7",
-      "title": "【MHWilds】星9歴戦王ジン・ダハド 9'12\"98（狩猟笛/非火事場)【きりたん解説付き】",
-      "url": "https://youtu.be/6pJByCcbHWQ?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-09-23T08:31:51.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "70688df1f73f",
       "title": "【モンハンワイルズ】護石周回（護石集め）の効率的なやり方【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/513618",
@@ -651,7 +742,7 @@
       "title": "「モンハンNow」シーズン11が配信開始！ 大阪リアルイベントは11月14日から開催",
       "url": "https://www.appbank.net/2026/09/23/game/3112116.php",
       "host": "appbank.net",
-      "source": "appbank.net",
+      "source": "AppBank",
       "summary": "",
       "publishedAt": "2026-09-23T02:02:57.000Z",
       "image": "https://www.appbank.net/wp-content/uploads/2026/09/press-1a0af09a81e4-img001-image-18c73a7de0964f30_image-f7d8c815cd.webp",
@@ -666,6 +757,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "87e4b8514801",
+      "title": "【モンハンワイルズ】双剣の最強装備・おすすめ装備【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/484913",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-23T00:57:12.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/484913.png?date=1740686517",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "78d1677a7208",
@@ -760,27 +872,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577281.png?date=1789571405",
       "categories": [
         "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "5fc879b1cca5",
-      "title": "【モンハンワイルズ】英傑に愛を込めての攻略と報酬【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/545381",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-22T17:36:26.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545381.png?date=1771384851",
-      "categories": [
-        "guide"
       ],
       "series": [
         "wilds"
@@ -981,7 +1072,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f4f222ac2e2d",
@@ -1012,30 +1103,9 @@
       "source": "風傳媒",
       "summary": "",
       "publishedAt": "2026-09-22T03:15:46.000Z",
-      "image": "https://images.storm.mg/cloud/1a2b7d7ba01c720c918a16700e3da4d811fa7259.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2217886%2Fy1HINtX36jwdm2BXMW6gKj9KItZYD4P5bNUZoTTo.jpg&g=fp&h=900&resize=fill&w=1600&x=0.5&y=0.63&format=jpg",
-      "categories": [
-        "new"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "1d442b019a05",
-      "title": "影が薄すぎる環境生物『マタタキウオ』の生態【モンハンワイルズ】",
-      "url": "https://youtu.be/jEs-l2Uw_9s?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-09-22T03:00:15.000Z",
       "image": "",
       "categories": [
-        "other"
+        "new"
       ],
       "series": [
         "wilds"
@@ -1136,7 +1206,7 @@
       "title": "『モンハンワイルズ：アセンダンス』フルフルベビーが登場。近くのものに反応して噛みつくフルフルの幼生。小さい尻尾がかわいい",
       "url": "https://www.famitsu.com/article/202609/88822",
       "host": "famitsu.com",
-      "source": "famitsu.com",
+      "source": "ファミ通",
       "summary": "",
       "publishedAt": "2026-09-21T12:22:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/88822/thumbnail_BiJX.jpg?x=1280",
@@ -1174,27 +1244,6 @@
       "isNew": false
     },
     {
-      "id": "f2a3a23efe6f",
-      "title": "【サンブレイク】イヴェルカーナの弱点と攻略｜解放条件【モンハンライズ】",
-      "url": "https://gamewith.jp/mhrize/article/show/386091",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-21T11:33:41.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/386091.png?date=1675293257",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "0a31cdb61626",
       "title": "【モンハンワイルズ】夢灯の儀の開催期間とやるべきこと｜ハロウィンイベント【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/524935",
@@ -1223,7 +1272,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "We revealed during a stage event at the Capcom booth at Tokyo Game Show 2026 that Khezu will appear in Monster Hunter Wilds: Ascendance. Khezu {STEAM_CLAN_IMAG…",
       "publishedAt": "2026-09-19T07:00:19.000Z",
-      "image": "https://clan.fastly.steamstatic.com/images/44795648/6287ba9d35d1ffa19386af4c6b9d0ec9e2de8625.png",
+      "image": "https://clan.akamai.steamstatic.com/images/44795648/6287ba9d35d1ffa19386af4c6b9d0ec9e2de8625.png",
       "categories": [
         "other"
       ],
