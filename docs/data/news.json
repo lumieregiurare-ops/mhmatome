@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T11:30:18.145Z",
+  "updatedAt": "2026-09-24T12:00:22.897Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 36
+      "count": 37
     },
     {
       "id": "rise",
@@ -84,7 +84,7 @@
     {
       "id": "now",
       "label": "Now",
-      "count": 5
+      "count": 4
     },
     {
       "id": "stories",
@@ -104,11 +104,7 @@
     },
     {
       "name": "YouTube",
-      "count": 9
-    },
-    {
-      "name": "ガジェット通信",
-      "count": 2
+      "count": 10
     },
     {
       "name": "攻略大百科",
@@ -124,6 +120,10 @@
     },
     {
       "name": "CAPCOM",
+      "count": 1
+    },
+    {
+      "name": "ガジェット通信",
       "count": 1
     },
     {
@@ -370,12 +370,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-24T11:00:17.114Z",
-    "previousCount": 45,
-    "newCount": 2
+    "previousAt": "2026-09-24T11:30:18.145Z",
+    "previousCount": 46,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-24T12:00:18.145Z",
+  "nextUpdateAt": "2026-09-24T12:30:22.897Z",
   "items": [
     {
       "id": "8171944c1821",
@@ -750,6 +750,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "f1e344fb9da2",
+      "title": "＃このこごま ( ՞• ﻌ •՞ ੭ 初！モンスターハンターワイルズ・またー�",
+      "url": "https://youtu.be/G5oHPPiFEIg?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-09-23T05:33:09.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "5705da647fc7",
@@ -1149,7 +1170,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3da54bf752f7",
@@ -1170,7 +1191,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "62718ef16644",
@@ -1271,27 +1292,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4ce9cf5f1e73",
-      "title": "『モンハンNow』プロモコードあり!! 中止になった東京ゲームショウ2026最終日ライブ配信リポート",
-      "url": "https://getnews.jp/archives/3744786",
-      "host": "getnews.jp",
-      "source": "ガジェット通信",
-      "summary": "",
-      "publishedAt": "2026-09-21T12:00:02.000Z",
-      "image": "https://rensai.jp/wp-content/uploads/2026/09/7a504b08a4ce2b5e2c6c7c4d3bc3900d.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "now"
       ],
       "isOfficial": false,
       "isPR": false,
