@@ -11,6 +11,47 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
 
+  "note_pages": "pages は収集のたびに作る静的ページ（検索エンジン向け）の文言。series はシリーズ別（/<slug>/）、genres はニュースの種別（/news/<slug>/）で、キーはそれぞれ series・categories の id。entities はモンスター別のページで、site/assets/app.js の MONSTERS の名前が見出し・要約に 3 回以上出たものだけ作る。googleSiteVerification は Search Console の HTML タグの content の値。",
+  "pages": {
+    "googleSiteVerification": "",
+    "topic": "モンハン",
+    "themeColor": "#2d2118",
+    "seriesHead": "シリーズ別",
+    "series": {
+      "wilds": { "slug": "wilds", "title": "モンハンワイルズの最新ニュース・アップデート情報", "desc": "モンスターハンターワイルズのタイトルアップデート・イベントクエスト・新モンスター・コラボのニュースをまとめています。" },
+      "rise": { "slug": "rise", "title": "モンハンライズ・サンブレイクの最新ニュース", "desc": "モンスターハンターライズ：サンブレイクのアップデート・セール・イベントのニュースをまとめています。" },
+      "world": { "slug": "world", "title": "モンハンワールド・アイスボーンの最新ニュース", "desc": "モンスターハンターワールド：アイスボーンのアップデート・セール・イベントのニュースをまとめています。" },
+      "now": { "slug": "now", "title": "モンハンNowの最新ニュース・イベント情報", "desc": "モンハンNowのイベント・新モンスター・アップデート・キャンペーンのニュースをまとめています。" },
+      "stories": { "slug": "stories", "title": "モンハンストーリーズの最新ニュース", "desc": "モンスターハンターストーリーズシリーズの新作・発売日・アップデートのニュースをまとめています。" },
+      "outlanders": { "slug": "outlanders", "title": "モンハンアウトランダーズの最新ニュース", "desc": "モンスターハンター アウトランダーズの配信日・テスト・新情報のニュースをまとめています。" }
+    },
+    "genres": {
+      "new": { "slug": "new", "title": "モンハンの新作・発表のニュース", "desc": "モンスターハンターシリーズの新作発表・続報・発売日・体験版・ベータテストのニュースをまとめています。" },
+      "update": { "slug": "update", "title": "モンハンのアップデート情報", "desc": "モンハンのタイトルアップデート・無料大型アップデート・パッチ・バランス調整のニュースをまとめています。" },
+      "event": { "slug": "event", "title": "モンハンのイベントクエスト・季節イベント情報", "desc": "モンハンのイベントクエスト・限定クエスト・祭事・季節イベント・キャンペーンのニュースをまとめています。" },
+      "collab": { "slug": "collab", "title": "モンハンのコラボ情報", "desc": "モンスターハンターとほかの作品・ブランドとのコラボのニュースをまとめています。" },
+      "goods": { "slug": "goods", "title": "モンハンのグッズ・フィギュア情報", "desc": "モンハンのフィギュア・ぬいぐるみ・一番くじ・amiibo・受注生産グッズのニュースをまとめています。" },
+      "media": { "slug": "media", "title": "モンハンの映像・音楽・書籍のニュース", "desc": "モンハンのアニメ・映画・サウンドトラック・オーケストラコンサート・画集・書籍のニュースをまとめています。" },
+      "guide": { "slug": "guide", "title": "モンハンの攻略・データのニュース", "desc": "モンハンの攻略・おすすめ装備・ビルド・スキル・立ち回りのニュースをまとめています。" },
+      "sale": { "slug": "sale", "title": "モンハンのセール情報", "desc": "モンハンシリーズのセール・割引・特価のニュースをまとめています。" },
+      "community": { "slug": "community", "title": "モンハンの大会・コミュニティのニュース", "desc": "モンハンの大会・eスポーツ・配信者・コミュニティのニュースをまとめています。" },
+      "sales": { "slug": "sales", "title": "モンハンの売上・記録のニュース", "desc": "モンハンの販売本数・出荷本数・同時接続数・決算などのニュースをまとめています。" }
+    },
+    "entities": {
+      "from": "appjs",
+      "var": "MONSTERS",
+      "path": "monster",
+      "minLength": 3,
+      "label": "モンスター別",
+      "navLabel": "モンスター別",
+      "indexTitle": "モンスター別のニュース",
+      "indexDesc": "リオレウス・ジンオウガ・アルシュベルドなど、ニュースの見出しに名前が出てきたモンスターごとにニュースをまとめています。",
+      "titleTpl": "{name}のニュース・最新情報（モンハン）",
+      "descTpl": "モンスターハンターの「{name}」の名前が出てくるアップデート・イベント・グッズのニュースをまとめています。"
+    },
+    "placeholder": { "fallback": "狩" }
+  },
+
   "feeds": [
     { "name": "4Gamer", "url": "https://www.4gamer.net/rss/index.xml" },
     { "name": "Game*Spark", "url": "https://www.gamespark.jp/rss20/index.rdf" },

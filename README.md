@@ -129,3 +129,23 @@ node scripts/test-feeds.mjs
 ```
 
 2026-09 時点で使えなかったもの: ファミ通（404）/ 電撃オンライン（404）/ gamebiz（404）/ Gamer（403）。いずれも RSS が廃止されているか、アクセスが拒否されます。
+
+## 検索エンジン向けのページ（SEO）
+
+トップの画面は `app.js` が `news.json` を読んで描くので、それだけだと検索エンジンには中身が見えません。そこで、収集（`collect.mjs`）とビルド（`build.mjs`）の最後に `scripts/lib/pages.mjs` が次のものを `docs/` に書き出します（このファイルは pokematome と mhmatome で同じもの。違いは `config.json` の `pages` だけ）。
+
+| URL | 内容 |
+| --- | --- |
+| `/` | `site/index.html` の `<!--ssr:…-->` に、新着 40 件・サイト内リンク・構造化データを差し込んだもの（表示後は app.js が描き直す） |
+| `/wilds/` `/rise/` `/world/` `/now/` `/stories/` `/outlanders/` | タイトル（シリーズ）別。見出し・説明・URL は `config.json` の `pages.series` |
+| `/news/<slug>/` | ニュースの種別ごと。`pages.genres` |
+| `/monster/` `/monster/<名前のハッシュ>/` | モンスター別。`site/assets/app.js` の `MONSTERS` の名前が見出し・要約に 3 回以上出たものだけ |
+| `/archive/…` | 過去のニュース（月別・日別） |
+| `/about/` `/404.html` `/feed.xml` `/sitemap.xml` | サイトについて・404・Atom フィード・サイトマップ |
+
+- サブページのヘッダー・フッターは `site/index.html` から切り出して使います。見た目を変えるときは index.html を直せば、サブページにも反映されます
+- 過去の記事は `data/archive/YYYY/MM/DD.json`（日本時間の日付ごと）に貯めています。`news.json` は 7 日で消えますが、こちらは消えません
+- 記事が 3 件未満のページは `noindex` にして sitemap にも載せません
+- 収集のワークフローは `docs/` 全体を FTP に渡します（変わったファイルだけが送られます）
+- `site/.htaccess` で圧縮・キャッシュ・404 のページを設定しています。アイコンは「モン速」の文字で、`node scripts/make-favicon.mjs` が `site/favicon.svg`・`favicon-48.png`・`apple-touch-icon.png` を作ります（文字の形はスクリプトの中に線で描いてある）
+- Google Search Console の所有権の確認に HTML タグを使う場合は、`config.json` の `pages.googleSiteVerification` に content の値を入れてください
