@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-24T22:30:15.155Z",
+  "updatedAt": "2026-09-24T23:00:17.386Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 45,
+  "total": 46,
   "todayCount": 3,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 8
+      "count": 9
     },
     {
       "id": "sale",
@@ -136,6 +136,10 @@
     },
     {
       "name": "Game*Spark",
+      "count": 1
+    },
+    {
+      "name": "ウォーカープラス",
       "count": 1
     },
     {
@@ -309,12 +313,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-24T22:00:14.724Z",
+    "previousAt": "2026-09-24T22:30:15.155Z",
     "previousCount": 45,
-    "newCount": 0
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-24T23:00:15.155Z",
+  "nextUpdateAt": "2026-09-24T23:30:17.386Z",
   "items": [
     {
       "id": "5fc879b1cca5",
@@ -1154,6 +1158,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "82a44afe0c15",
+      "title": "USJのモンハン｢XR WALK｣をゲーム初心者が体験！8キロの重装備でマジ狩りに挑む",
+      "url": "https://www.walkerplus.com/article/1068393/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-09-22T07:00:00.000Z",
+      "image": "https://news.walkerplus.com/article/1068393/10652357_615.jpg",
+      "categories": [
+        "guide"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "50439e380cf4",
