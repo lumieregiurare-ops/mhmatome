@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-24T15:28:19.108Z",
+  "updatedAt": "2026-09-24T16:00:15.960Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 46,
+  "total": 44,
   "todayCount": 0,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 12
+      "count": 10
     },
     {
       "id": "sale",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 36
+      "count": 34
     },
     {
       "id": "rise",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 24
+      "count": 22
     },
     {
       "name": "YouTube",
@@ -115,7 +115,7 @@
       "count": 1
     },
     {
-      "name": "4gamer.net",
+      "name": "4Gamer.net",
       "count": 1
     },
     {
@@ -135,7 +135,7 @@
       "count": 1
     },
     {
-      "name": "風傳媒",
+      "name": "japan.storm.mg",
       "count": 1
     },
     {
@@ -161,15 +161,15 @@
       "leadSource": "YouTube",
       "publishedAt": "2026-09-24T10:20:55.000Z",
       "sourceCount": 3,
-      "articleCount": 18,
+      "articleCount": 14,
       "categories": [
         "guide",
         "new"
       ],
       "keywords": [
         "モンハンワイルズ",
-        "アセンダンス",
-        "モンスター"
+        "最新情報",
+        "アセンダンス"
       ],
       "articles": [
         {
@@ -210,15 +210,8 @@
         {
           "title": "画像ギャラリー | Nintendo Switch 2版 モンスターハンターワイルズ：アセンダンス",
           "url": "https://www.4gamer.net/games/043/G104343/screenshot.html?mode",
-          "source": "4gamer.net",
+          "source": "4Gamer.net",
           "publishedAt": "2026-09-24T03:56:28.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/563077",
-          "source": "GameWith",
-          "publishedAt": "2026-09-24T01:57:18.000Z",
           "isPR": false
         },
         {
@@ -226,6 +219,13 @@
           "url": "https://gamewith.jp/mhwilds/575037",
           "source": "GameWith",
           "publishedAt": "2026-09-23T15:53:03.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563104",
+          "source": "GameWith",
+          "publishedAt": "2026-09-23T14:16:24.000Z",
           "isPR": false
         }
       ]
@@ -260,12 +260,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-24T15:00:17.463Z",
+    "previousAt": "2026-09-24T15:28:19.108Z",
     "previousCount": 46,
     "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-24T15:58:19.108Z",
+  "nextUpdateAt": "2026-09-24T16:30:15.960Z",
   "items": [
     {
       "id": "8171944c1821",
@@ -384,6 +384,27 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563066.png?date=1780886791",
       "categories": [
         "new"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "d605748fb698",
+      "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/574841",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-24T06:52:09.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574841.png?date=1789771579",
+      "categories": [
+        "other"
       ],
       "series": [
         "wilds"
@@ -521,7 +542,7 @@
       "title": "画像ギャラリー | Nintendo Switch 2版 モンスターハンターワイルズ：アセンダンス",
       "url": "https://www.4gamer.net/games/043/G104343/screenshot.html?mode",
       "host": "4gamer.net",
-      "source": "4gamer.net",
+      "source": "4Gamer.net",
       "summary": "",
       "publishedAt": "2026-09-24T03:56:28.000Z",
       "image": "https://www.4gamer.net/games/043/G104343/SS/014.jpg",
@@ -567,6 +588,27 @@
       "summary": "",
       "publishedAt": "2026-09-24T01:57:18.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "40bccce677c8",
+      "title": "【アセンダンス】大剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/485475",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-23T16:48:09.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485475.png?date=1789753003",
       "categories": [
         "other"
       ],
@@ -643,27 +685,6 @@
       "isNew": false
     },
     {
-      "id": "40bccce677c8",
-      "title": "【アセンダンス】大剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/485475",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-23T11:16:16.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485475.png?date=1789753003",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "f235e848f2a7",
       "title": "【MHWilds】星9歴戦王ジン・ダハド 9'12\"98（狩猟笛/非火事場)【きりたん解説付き】",
       "url": "https://youtu.be/6pJByCcbHWQ?si",
@@ -686,27 +707,6 @@
       "isNew": false
     },
     {
-      "id": "70688df1f73f",
-      "title": "【モンハンワイルズ】護石周回（護石集め）の効率的なやり方【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/513618",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-23T07:02:24.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/513618.png?date=1755086164",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "f1e344fb9da2",
       "title": "＃このこごま ( ՞• ﻌ •՞ ੭ 初！モンスターハンターワイルズ・またー�",
       "url": "https://youtu.be/G5oHPPiFEIg?si",
@@ -717,27 +717,6 @@
       "image": "",
       "categories": [
         "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "5705da647fc7",
-      "title": "【モンハンワイルズ】最強装備・おすすめ装備まとめ【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/485337",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-23T04:41:07.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485337.png?date=1740668237",
-      "categories": [
-        "guide"
       ],
       "series": [
         "wilds"
@@ -957,27 +936,6 @@
       "isNew": false
     },
     {
-      "id": "d605748fb698",
-      "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/574841",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-22T11:15:34.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574841.png?date=1789771579",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "8a8adf3ab3d8",
       "title": "【ワイルズ1分】#19 1分実況してみた【MHWilds/魔物獵人荒野】",
       "url": "https://youtu.be/vwUaVK68Hbg?si",
@@ -1111,7 +1069,7 @@
       "title": "【TGS2026】カプコン新作を一挙試遊 『モンハンワイルズ』世界初、『ドラゴンズドグマ2』『ロックマン』 日本初",
       "url": "https://japan.storm.mg/articles/1165951",
       "host": "japan.storm.mg",
-      "source": "風傳媒",
+      "source": "japan.storm.mg",
       "summary": "",
       "publishedAt": "2026-09-22T03:15:46.000Z",
       "image": "https://images.storm.mg/cloud/1a2b7d7ba01c720c918a16700e3da4d811fa7259.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2217886%2Fy1HINtX36jwdm2BXMW6gKj9KItZYD4P5bNUZoTTo.jpg&g=fp&h=900&resize=fill&w=1600&x=0.5&y=0.63&format=jpg",
