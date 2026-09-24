@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-24T17:00:17.487Z",
+  "updatedAt": "2026-09-24T17:30:19.037Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 44,
+  "total": 43,
   "todayCount": 1,
   "categories": [
     {
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 30
+      "count": 29
     }
   ],
   "series": [
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 1
+      "count": 0
     },
     {
       "id": "outlanders",
@@ -135,11 +135,7 @@
       "count": 1
     },
     {
-      "name": "japan.storm.mg",
-      "count": 1
-    },
-    {
-      "name": "gamereactor.jp",
+      "name": "風傳媒",
       "count": 1
     },
     {
@@ -260,12 +256,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-24T16:30:19.131Z",
+    "previousAt": "2026-09-24T17:00:17.487Z",
     "previousCount": 44,
     "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-24T17:30:17.487Z",
+  "nextUpdateAt": "2026-09-24T18:00:19.037Z",
   "items": [
     {
       "id": "778fbb3d5344",
@@ -1069,7 +1065,7 @@
       "title": "【TGS2026】カプコン新作を一挙試遊 『モンハンワイルズ』世界初、『ドラゴンズドグマ2』『ロックマン』 日本初",
       "url": "https://japan.storm.mg/articles/1165951",
       "host": "japan.storm.mg",
-      "source": "japan.storm.mg",
+      "source": "風傳媒",
       "summary": "",
       "publishedAt": "2026-09-22T03:15:46.000Z",
       "image": "https://images.storm.mg/cloud/1a2b7d7ba01c720c918a16700e3da4d811fa7259.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2217886%2Fy1HINtX36jwdm2BXMW6gKj9KItZYD4P5bNUZoTTo.jpg&g=fp&h=900&resize=fill&w=1600&x=0.5&y=0.63&format=jpg",
@@ -1128,27 +1124,6 @@
       "isNew": false
     },
     {
-      "id": "62718ef16644",
-      "title": "モンスターハンターストーリーズ3:ツイステッド・リフレクション - ゴー・フォーストレーラー(PS5)",
-      "url": "https://www.gamereactor.jp/video/788053/3+-+PS5/",
-      "host": "gamereactor.jp",
-      "source": "gamereactor.jp",
-      "summary": "",
-      "publishedAt": "2026-09-21T17:00:40.000Z",
-      "image": "https://www.gamereactor.jp/media/grtv/80/788053_w1600.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "5a9515f44eba",
       "title": "Khezu Stretches into Monster Hunter Wilds: Ascendance!",
       "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010496733",
@@ -1156,7 +1131,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "We revealed during a stage event at the Capcom booth at Tokyo Game Show 2026 that Khezu will appear in Monster Hunter Wilds: Ascendance. Khezu {STEAM_CLAN_IMAG…",
       "publishedAt": "2026-09-19T07:00:19.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/44795648/6287ba9d35d1ffa19386af4c6b9d0ec9e2de8625.png",
+      "image": "https://clan.fastly.steamstatic.com/images/44795648/6287ba9d35d1ffa19386af4c6b9d0ec9e2de8625.png",
       "categories": [
         "other"
       ],
