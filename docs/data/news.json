@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-25T20:30:16.272Z",
+  "updatedAt": "2026-09-25T21:00:16.557Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 50,
+  "total": 52,
   "todayCount": 0,
   "categories": [
     {
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 35
+      "count": 37
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 32
+      "count": 34
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 4
+      "count": 5
     },
     {
       "id": "now",
@@ -104,10 +104,10 @@
     },
     {
       "name": "YouTube",
-      "count": 9
+      "count": 10
     },
     {
-      "name": "ガジェット通信",
+      "name": "getnews.jp",
       "count": 2
     },
     {
@@ -115,11 +115,15 @@
       "count": 2
     },
     {
-      "name": "gamehack.jp",
+      "name": "t.co",
+      "count": 2
+    },
+    {
+      "name": "ゲームハック",
       "count": 1
     },
     {
-      "name": "asahi.com",
+      "name": "朝日新聞",
       "count": 1
     },
     {
@@ -143,11 +147,7 @@
       "count": 1
     },
     {
-      "name": "攻略大百科",
-      "count": 1
-    },
-    {
-      "name": "t.co",
+      "name": "gamepedia.jp",
       "count": 1
     },
     {
@@ -155,7 +155,7 @@
       "count": 1
     },
     {
-      "name": "4gamer.net",
+      "name": "4Gamer.net",
       "count": 1
     },
     {
@@ -178,7 +178,7 @@
       "summary": "",
       "url": "https://gamehack.jp/385230/",
       "image": "https://gamehack.jp/wp-content/themes/sango-theme/library/images/default.jpg",
-      "leadSource": "gamehack.jp",
+      "leadSource": "ゲームハック",
       "publishedAt": "2026-09-25T09:53:07.000Z",
       "sourceCount": 5,
       "articleCount": 5,
@@ -195,7 +195,7 @@
         {
           "title": "カプコンストア_スマスロ『モンスターハンターライズ：サンブレイク』実機展示＆ステッカープレゼントキャンペーン",
           "url": "https://www.asahi.com/and/pressrelease/16916098",
-          "source": "asahi.com",
+          "source": "朝日新聞",
           "publishedAt": "2026-09-25T09:37:59.000Z",
           "isPR": false
         },
@@ -244,7 +244,7 @@
         {
           "title": "画像ギャラリー | Nintendo Switch 2版 モンスターハンターワイルズ：アセンダンス",
           "url": "https://www.4gamer.net/games/043/G104343/screenshot.html?mode",
-          "source": "4gamer.net",
+          "source": "4Gamer.net",
           "publishedAt": "2026-09-24T03:56:28.000Z",
           "isPR": false
         },
@@ -357,7 +357,7 @@
         {
           "title": "『モンハンNow』次元亜種武器どうする? 新たなスキルが解放されるから大量出現に参加しておきたい話",
           "url": "https://getnews.jp/archives/3745364",
-          "source": "ガジェット通信",
+          "source": "getnews.jp",
           "publishedAt": "2026-09-25T12:00:05.000Z",
           "isPR": false
         }
@@ -421,12 +421,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-25T20:00:23.697Z",
+    "previousAt": "2026-09-25T20:30:16.272Z",
     "previousCount": 50,
-    "newCount": 1
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-25T21:00:16.272Z",
+  "nextUpdateAt": "2026-09-25T21:30:16.557Z",
   "items": [
     {
       "id": "8c086bb7f518",
@@ -454,7 +454,7 @@
       "title": "『モンハンNow』次元亜種武器どうする? 新たなスキルが解放されるから大量出現に参加しておきたい話",
       "url": "https://getnews.jp/archives/3745364",
       "host": "getnews.jp",
-      "source": "ガジェット通信",
+      "source": "getnews.jp",
       "summary": "",
       "publishedAt": "2026-09-25T12:00:05.000Z",
       "image": "https://rensai.jp/wp-content/uploads/2026/09/b0950b9b2c24bb423f543a21bcc04992.jpg",
@@ -496,7 +496,7 @@
       "title": "カプコンストア_スマスロ『モンスターハンターライズ：サンブレイク』実機展示＆ス",
       "url": "https://gamehack.jp/385230/",
       "host": "gamehack.jp",
-      "source": "gamehack.jp",
+      "source": "ゲームハック",
       "summary": "",
       "publishedAt": "2026-09-25T09:53:07.000Z",
       "image": "https://gamehack.jp/wp-content/themes/sango-theme/library/images/default.jpg",
@@ -517,7 +517,7 @@
       "title": "カプコンストア_スマスロ『モンスターハンターライズ：サンブレイク』実機展示＆ステッカープレゼントキャンペーン",
       "url": "https://www.asahi.com/and/pressrelease/16916098",
       "host": "asahi.com",
-      "source": "asahi.com",
+      "source": "朝日新聞",
       "summary": "",
       "publishedAt": "2026-09-25T09:37:59.000Z",
       "image": "",
@@ -1014,6 +1014,27 @@
       "isNew": false
     },
     {
+      "id": "7a5df65a44c0",
+      "title": "狩猟笛トップのソロTA勢にTAが上手くなる秘訣を聞いてみた【モンハンワイルズ】",
+      "url": "https://youtu.be/PoIlKfnJGBw?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-09-24T07:30:35.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "d605748fb698",
       "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/574841",
@@ -1060,7 +1081,7 @@
       "title": "【モンハンワイルズ】09/16の『カプコンスポットライト｜TGS 2026』の発表内容まとめ【モンスターハンター】",
       "url": "https://gamepedia.jp/mh-wilds/archives/13604",
       "host": "gamepedia.jp",
-      "source": "攻略大百科",
+      "source": "gamepedia.jp",
       "summary": "",
       "publishedAt": "2026-09-24T06:06:45.000Z",
       "image": "https://tfi.gamepedia.jp/image/w=1200,h=630,fit=pad,f=webp/puppeteer.gamepedia.jp/gamepedia.jp/mh-wilds/thumbnail/13604/f1f7a03202a53a362468a40b4d16c0c3",
@@ -1142,7 +1163,7 @@
       "title": "画像ギャラリー | Nintendo Switch 2版 モンスターハンターワイルズ：アセンダンス",
       "url": "https://www.4gamer.net/games/043/G104343/screenshot.html?mode",
       "host": "4gamer.net",
-      "source": "4gamer.net",
+      "source": "4Gamer.net",
       "summary": "",
       "publishedAt": "2026-09-24T03:56:28.000Z",
       "image": "https://www.4gamer.net/games/043/G104343/SS/014.jpg",
@@ -1247,7 +1268,7 @@
       "title": "『モンハンNow』3周年記念パス登場!! 特別なクエストを攻略してスタンプや各種素材をゲットしよう",
       "url": "https://getnews.jp/archives/3744954",
       "host": "getnews.jp",
-      "source": "ガジェット通信",
+      "source": "getnews.jp",
       "summary": "",
       "publishedAt": "2026-09-23T13:30:03.000Z",
       "image": "https://rensai.jp/wp-content/uploads/2026/09/6ebd9cfa575206cd627c56a375382edb.jpg",
@@ -1346,7 +1367,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6a47a532b663",
@@ -1433,6 +1454,28 @@
       "isNew": false
     },
     {
+      "id": "0fb8c7ba66ce",
+      "title": "【MHWilds】アルシュベルドに群れで襲いかかるドシャグマ。強っ #モンハンワイルズ #モンハン #モンスターハンターワイルズ #モンスターハンター #狩られ道 #スラッシュアックス",
+      "url": "https://t.co/SU8C47K8sX",
+      "host": "t.co",
+      "source": "t.co",
+      "summary": "",
+      "publishedAt": "2026-09-23T01:00:05.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "78d1677a7208",
       "title": "スローライフだけど狩猟は全然スローじゃない！『モンハン』を思わせる武器アクションも楽しい『Monster Fantasy』で心ゆくまで狩ろうぜ【テスト版プレイレポ】",
       "url": "https://www.gamespark.jp/article/2026/09/23/172658.html",
@@ -1459,7 +1502,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "We revealed during a stage event at the Capcom booth at Tokyo Game Show 2026 that Khezu will appear in Monster Hunter Wilds: Ascendance. Khezu {STEAM_CLAN_IMAG…",
       "publishedAt": "2026-09-19T07:00:19.000Z",
-      "image": "https://clan.fastly.steamstatic.com/images/44795648/6287ba9d35d1ffa19386af4c6b9d0ec9e2de8625.png",
+      "image": "https://clan.akamai.steamstatic.com/images/44795648/6287ba9d35d1ffa19386af4c6b9d0ec9e2de8625.png",
       "categories": [
         "other"
       ],
