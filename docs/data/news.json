@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-25T08:30:16.627Z",
+  "updatedAt": "2026-09-25T09:00:25.985Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 43,
+  "total": 44,
   "todayCount": 10,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 5
+      "count": 6
     },
     {
       "id": "sale",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 31
+      "count": 32
     },
     {
       "id": "rise",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 19
+      "count": 20
     },
     {
       "name": "YouTube",
@@ -169,7 +169,7 @@
       "leadSource": "IGN Japan",
       "publishedAt": "2026-09-25T03:52:25.000Z",
       "sourceCount": 5,
-      "articleCount": 19,
+      "articleCount": 20,
       "categories": [
         "other",
         "guide"
@@ -209,6 +209,13 @@
           "isPR": false
         },
         {
+          "title": "【モンハンワイルズ】双剣の最強装備・おすすめ装備【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/484913",
+          "source": "GameWith",
+          "publishedAt": "2026-09-24T13:06:20.000Z",
+          "isPR": false
+        },
+        {
           "title": "【アセンダンス】片手剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/577790",
           "source": "GameWith",
@@ -227,13 +234,6 @@
           "url": "https://gamewith.jp/mhwilds/574841",
           "source": "GameWith",
           "publishedAt": "2026-09-24T06:52:09.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/563040",
-          "source": "GameWith",
-          "publishedAt": "2026-09-24T06:16:28.000Z",
           "isPR": false
         }
       ]
@@ -360,12 +360,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-25T08:00:23.064Z",
-    "previousCount": 46,
-    "newCount": 0
+    "previousAt": "2026-09-25T08:30:16.627Z",
+    "previousCount": 43,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-25T09:00:16.627Z",
+  "nextUpdateAt": "2026-09-25T09:30:25.985Z",
   "items": [
     {
       "id": "eef1c91ee376",
@@ -574,6 +574,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "87e4b8514801",
+      "title": "【モンハンワイルズ】双剣の最強装備・おすすめ装備【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/484913",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-24T13:06:20.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/484913.png?date=1740686517",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "0b68bd1287fd",
@@ -958,7 +979,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-09-23T16:48:09.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485475.png?date=1789753003",
       "categories": [
         "other"
       ],
