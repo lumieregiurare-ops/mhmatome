@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-25T22:00:16.533Z",
+  "updatedAt": "2026-09-25T22:30:15.019Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 51,
+  "total": 52,
   "todayCount": 1,
   "categories": [
     {
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 36
+      "count": 37
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 32
+      "count": 33
     },
     {
       "id": "rise",
@@ -104,10 +104,10 @@
     },
     {
       "name": "YouTube",
-      "count": 9
+      "count": 10
     },
     {
-      "name": "ガジェット通信",
+      "name": "getnews.jp",
       "count": 2
     },
     {
@@ -115,15 +115,15 @@
       "count": 2
     },
     {
+      "name": "Mantan Web",
+      "count": 1
+    },
+    {
       "name": "ゲームハック",
       "count": 1
     },
     {
-      "name": "朝日新聞",
-      "count": 1
-    },
-    {
-      "name": "Nintendo",
+      "name": "nintendo.com",
       "count": 1
     },
     {
@@ -173,18 +173,18 @@
   ],
   "topics": [
     {
-      "id": "8a147136daa6",
-      "title": "カプコンストア_スマスロ『モンスターハンターライズ：サンブレイク』実機展示＆ス",
+      "id": "41725e3557d8",
+      "title": "カプコンストア_スマスロ『モンスターハンターライズ：サンブレイク』実機展示＆ステッカープレゼントキャンペーン",
       "summary": "",
-      "url": "https://gamehack.jp/385230/",
-      "image": "https://gamehack.jp/wp-content/themes/sango-theme/library/images/default.jpg",
-      "leadSource": "ゲームハック",
-      "publishedAt": "2026-09-25T09:53:07.000Z",
+      "url": "https://mantan-web.jp/prtimes/article/20260925prt00m200001370a/photopage/001.html",
+      "image": "https://prtimes.jp/img/13450/6017/resize/d13450-6017-556139eae461e463a330-3.jpg",
+      "leadSource": "Mantan Web",
+      "publishedAt": "2026-09-25T12:12:29.000Z",
       "sourceCount": 5,
       "articleCount": 5,
       "categories": [
-        "other",
-        "event"
+        "event",
+        "other"
       ],
       "keywords": [
         "サンブレイク",
@@ -193,10 +193,10 @@
       ],
       "articles": [
         {
-          "title": "カプコンストア_スマスロ『モンスターハンターライズ：サンブレイク』実機展示＆ステッカープレゼントキャンペーン",
-          "url": "https://www.asahi.com/and/pressrelease/16916098",
-          "source": "朝日新聞",
-          "publishedAt": "2026-09-25T09:37:59.000Z",
+          "title": "カプコンストア_スマスロ『モンスターハンターライズ：サンブレイク』実機展示＆ス",
+          "url": "https://gamehack.jp/385230/",
+          "source": "ゲームハック",
+          "publishedAt": "2026-09-25T09:53:07.000Z",
           "isPR": false
         },
         {
@@ -271,6 +271,13 @@
           "isPR": false
         },
         {
+          "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563040",
+          "source": "GameWith",
+          "publishedAt": "2026-09-25T00:42:15.000Z",
+          "isPR": false
+        },
+        {
           "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/563077",
           "source": "GameWith",
@@ -289,13 +296,6 @@
           "url": "https://gamewith.jp/mhwilds/545421",
           "source": "GameWith",
           "publishedAt": "2026-09-24T16:26:16.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】護竜リオレイアの最新情報まとめ【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/575037",
-          "source": "GameWith",
-          "publishedAt": "2026-09-24T12:26:09.000Z",
           "isPR": false
         }
       ]
@@ -322,7 +322,7 @@
         {
           "title": "『モンハンNow』次元亜種武器どうする? 新たなスキルが解放されるから大量出現に参加しておきたい話",
           "url": "https://getnews.jp/archives/3745364",
-          "source": "ガジェット通信",
+          "source": "getnews.jp",
           "publishedAt": "2026-09-25T12:00:05.000Z",
           "isPR": false
         }
@@ -414,12 +414,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-25T21:30:17.355Z",
+    "previousAt": "2026-09-25T22:00:16.533Z",
     "previousCount": 51,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-25T22:30:16.533Z",
+  "nextUpdateAt": "2026-09-25T23:00:15.019Z",
   "items": [
     {
       "id": "d605748fb698",
@@ -464,11 +464,32 @@
       "isNew": false
     },
     {
+      "id": "41725e3557d8",
+      "title": "カプコンストア_スマスロ『モンスターハンターライズ：サンブレイク』実機展示＆ステッカープレゼントキャンペーン",
+      "url": "https://mantan-web.jp/prtimes/article/20260925prt00m200001370a/photopage/001.html",
+      "host": "mantan-web.jp",
+      "source": "Mantan Web",
+      "summary": "",
+      "publishedAt": "2026-09-25T12:12:29.000Z",
+      "image": "https://prtimes.jp/img/13450/6017/resize/d13450-6017-556139eae461e463a330-3.jpg",
+      "categories": [
+        "event"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "f6d5301026af",
       "title": "『モンハンNow』次元亜種武器どうする? 新たなスキルが解放されるから大量出現に参加しておきたい話",
       "url": "https://getnews.jp/archives/3745364",
       "host": "getnews.jp",
-      "source": "ガジェット通信",
+      "source": "getnews.jp",
       "summary": "",
       "publishedAt": "2026-09-25T12:00:05.000Z",
       "image": "https://rensai.jp/wp-content/uploads/2026/09/b0950b9b2c24bb423f543a21bcc04992.jpg",
@@ -548,27 +569,6 @@
       "isNew": false
     },
     {
-      "id": "41725e3557d8",
-      "title": "カプコンストア_スマスロ『モンスターハンターライズ：サンブレイク』実機展示＆ステッカープレゼントキャンペーン",
-      "url": "https://www.asahi.com/and/pressrelease/16916098",
-      "host": "asahi.com",
-      "source": "朝日新聞",
-      "summary": "",
-      "publishedAt": "2026-09-25T09:37:59.000Z",
-      "image": "",
-      "categories": [
-        "event"
-      ],
-      "series": [
-        "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "e6d79acfa4bd",
       "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
       "url": "https://gamewith.jp/mhwilds/563096",
@@ -634,7 +634,7 @@
       "title": "「奇しき赫耀のバルファルク」や「ヌシ・ジンオウガ」が登場。Nintendo Switch『モンスターハンターライズ』無料タイトルアップデート「Ver.3.0」、本日配信。",
       "url": "https://www.nintendo.com/jp/topics/article/e7cff8d4-08e2-49f2-b3a2-71bc80c9a2fb",
       "host": "nintendo.com",
-      "source": "Nintendo",
+      "source": "nintendo.com",
       "summary": "",
       "publishedAt": "2026-09-25T06:07:46.000Z",
       "image": "https://assets.topics.apps-jp.nintendo.com/image/2021/05/25055456084266/820/26469_820_461.jpg",
@@ -727,6 +727,27 @@
       ],
       "series": [
         "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "d8b95bbbc335",
+      "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/563040",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-25T00:42:15.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563040.png?date=1789770455",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1049,14 +1070,14 @@
       "isNew": false
     },
     {
-      "id": "d8b95bbbc335",
-      "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563040",
-      "host": "gamewith.jp",
-      "source": "GameWith",
+      "id": "7a5df65a44c0",
+      "title": "狩猟笛トップのソロTA勢にTAが上手くなる秘訣を聞いてみた【モンハンワイルズ】",
+      "url": "https://youtu.be/PoIlKfnJGBw?si",
+      "host": "youtu.be",
+      "source": "YouTube",
       "summary": "",
-      "publishedAt": "2026-09-24T06:16:28.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563040.png?date=1789770455",
+      "publishedAt": "2026-09-24T07:30:35.000Z",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1067,7 +1088,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "29d88fc359b4",
@@ -1240,7 +1261,7 @@
       "title": "『モンハンNow』3周年記念パス登場!! 特別なクエストを攻略してスタンプや各種素材をゲットしよう",
       "url": "https://getnews.jp/archives/3744954",
       "host": "getnews.jp",
-      "source": "ガジェット通信",
+      "source": "getnews.jp",
       "summary": "",
       "publishedAt": "2026-09-23T13:30:03.000Z",
       "image": "https://rensai.jp/wp-content/uploads/2026/09/6ebd9cfa575206cd627c56a375382edb.jpg",
@@ -1444,7 +1465,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "78d1677a7208",
@@ -1473,7 +1494,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "We revealed during a stage event at the Capcom booth at Tokyo Game Show 2026 that Khezu will appear in Monster Hunter Wilds: Ascendance. Khezu {STEAM_CLAN_IMAG…",
       "publishedAt": "2026-09-19T07:00:19.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/44795648/6287ba9d35d1ffa19386af4c6b9d0ec9e2de8625.png",
+      "image": "https://clan.fastly.steamstatic.com/images/44795648/6287ba9d35d1ffa19386af4c6b9d0ec9e2de8625.png",
       "categories": [
         "other"
       ],
