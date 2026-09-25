@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-25T17:30:17.340Z",
+  "updatedAt": "2026-09-25T18:00:16.040Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 50,
+  "total": 51,
   "todayCount": 0,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 7
+      "count": 8
     },
     {
       "id": "sale",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 32
+      "count": 33
     },
     {
       "id": "rise",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 22
+      "count": 23
     },
     {
       "name": "YouTube",
@@ -123,7 +123,7 @@
       "count": 1
     },
     {
-      "name": "ゲームハック",
+      "name": "gamehack.jp",
       "count": 1
     },
     {
@@ -195,7 +195,7 @@
         {
           "title": "カプコンストア_スマスロ『モンスターハンターライズ：サンブレイク』実機展示＆ス",
           "url": "https://gamehack.jp/385230/",
-          "source": "ゲームハック",
+          "source": "gamehack.jp",
           "publishedAt": "2026-09-25T09:53:07.000Z",
           "isPR": false
         },
@@ -278,6 +278,13 @@
       ],
       "articles": [
         {
+          "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563104",
+          "source": "GameWith",
+          "publishedAt": "2026-09-25T07:51:14.000Z",
+          "isPR": false
+        },
+        {
           "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/575038",
           "source": "GameWith",
@@ -324,13 +331,6 @@
           "url": "https://gamewith.jp/mhwilds/574841",
           "source": "GameWith",
           "publishedAt": "2026-09-24T06:52:09.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/563040",
-          "source": "GameWith",
-          "publishedAt": "2026-09-24T06:16:28.000Z",
           "isPR": false
         }
       ]
@@ -421,12 +421,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-25T17:00:23.530Z",
-    "previousCount": 51,
-    "newCount": 0
+    "previousAt": "2026-09-25T17:30:17.340Z",
+    "previousCount": 50,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-25T18:00:17.340Z",
+  "nextUpdateAt": "2026-09-25T18:30:16.040Z",
   "items": [
     {
       "id": "8c086bb7f518",
@@ -517,7 +517,7 @@
       "title": "カプコンストア_スマスロ『モンスターハンターライズ：サンブレイク』実機展示＆ス",
       "url": "https://gamehack.jp/385230/",
       "host": "gamehack.jp",
-      "source": "ゲームハック",
+      "source": "gamehack.jp",
       "summary": "",
       "publishedAt": "2026-09-25T09:53:07.000Z",
       "image": "https://gamehack.jp/wp-content/themes/sango-theme/library/images/default.jpg",
@@ -566,6 +566,27 @@
       ],
       "series": [
         "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "e08e6c8ea2a8",
+      "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/563104",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-25T07:51:14.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563104.png?date=1789770630",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1222,27 +1243,6 @@
       "isNew": false
     },
     {
-      "id": "e08e6c8ea2a8",
-      "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563104",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-23T14:16:24.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563104.png?date=1789770630",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "dfd162d56e9d",
       "title": "『モンハンNow』3周年記念パス登場!! 特別なクエストを攻略してスタンプや各種素材をゲットしよう",
       "url": "https://getnews.jp/archives/3744954",
@@ -1284,6 +1284,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "c859fa9d9bd5",
+      "title": "【モンハンワイルズ】歴戦王ウズトゥナの対策・攻略と弱点【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/505026",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-23T07:02:01.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/505026.png?date=1753236212",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "82399f0ff0a7",
@@ -1460,7 +1481,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "We revealed during a stage event at the Capcom booth at Tokyo Game Show 2026 that Khezu will appear in Monster Hunter Wilds: Ascendance. Khezu {STEAM_CLAN_IMAG…",
       "publishedAt": "2026-09-19T07:00:19.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/44795648/6287ba9d35d1ffa19386af4c6b9d0ec9e2de8625.png",
+      "image": "https://clan.fastly.steamstatic.com/images/44795648/6287ba9d35d1ffa19386af4c6b9d0ec9e2de8625.png",
       "categories": [
         "other"
       ],
