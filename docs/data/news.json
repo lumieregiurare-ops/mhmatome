@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-25T11:00:15.915Z",
+  "updatedAt": "2026-09-25T11:30:15.984Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 45,
+  "total": 47,
   "todayCount": 14,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 6
+      "count": 7
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 33
+      "count": 34
     }
   ],
   "series": [
@@ -74,7 +74,7 @@
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 4
+      "count": 5
     },
     {
       "id": "world",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 0
+      "count": 1
     },
     {
       "id": "outlanders",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 20
+      "count": 21
     },
     {
       "name": "youtu.be",
@@ -116,6 +116,10 @@
     },
     {
       "name": "ライブドアニュース",
+      "count": 1
+    },
+    {
+      "name": "AppMedia",
       "count": 1
     },
     {
@@ -155,7 +159,7 @@
       "count": 1
     },
     {
-      "name": "Game*Spark",
+      "name": "ｄメニューニュース",
       "count": 1
     },
     {
@@ -350,34 +354,13 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-25T10:30:13.705Z",
-    "previousCount": 44,
-    "newCount": 1
+    "previousAt": "2026-09-25T11:00:15.915Z",
+    "previousCount": 45,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-25T11:30:15.915Z",
+  "nextUpdateAt": "2026-09-25T12:00:15.984Z",
   "items": [
-    {
-      "id": "a2119f0dcdb7",
-      "title": "【モンスターハンターワイルズ 番外編 】アセンンダンス発売までに武器を全部集めよう！ 大剣編・中編",
-      "url": "https://youtu.be/v2Bah-qPqKQ?si",
-      "host": "youtu.be",
-      "source": "youtu.be",
-      "summary": "",
-      "publishedAt": "2026-09-25T09:45:19.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
     {
       "id": "41725e3557d8",
       "title": "カプコンストア_スマスロ『モンスターハンターライズ：サンブレイク』実機展示＆ステッカープレゼントキャンペーン",
@@ -397,7 +380,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "be7fea3da251",
@@ -419,6 +402,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "3fd92acbcf5a",
+      "title": "【モンハンストーリーズ2】取り返しのつかない要素【MHST2】",
+      "url": "https://appmedia.jp/mhst2/6589636",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-09-25T06:51:41.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2021/06/c1d07259827744cb0d9bce0092a2e8f7.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "eef1c91ee376",
@@ -638,7 +642,7 @@
       "source": "amusement-japan.co.jp",
       "summary": "",
       "publishedAt": "2026-09-24T15:00:00.000Z",
-      "image": "",
+      "image": "https://amusement-japan.co.jp/img/article/art_10005419_6ab5c5207525e.jpg",
       "categories": [
         "community"
       ],
@@ -702,6 +706,27 @@
       "image": "",
       "categories": [
         "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "a2119f0dcdb7",
+      "title": "【モンスターハンターワイルズ 番外編 】アセンンダンス発売までに武器を全部集めよう！ 大剣編・前編",
+      "url": "https://youtu.be/mtrbZD82cMk?si",
+      "host": "youtu.be",
+      "source": "youtu.be",
+      "summary": "",
+      "publishedAt": "2026-09-24T09:45:25.000Z",
+      "image": "",
+      "categories": [
+        "other"
       ],
       "series": [
         "wilds"
@@ -1239,19 +1264,19 @@
     {
       "id": "78d1677a7208",
       "title": "スローライフだけど狩猟は全然スローじゃない！『モンハン』を思わせる武器アクションも楽しい『Monster Fantasy』で心ゆくまで狩ろうぜ【テスト版プレイレポ】",
-      "url": "https://www.gamespark.jp/article/2026/09/23/172658.html",
-      "host": "gamespark.jp",
-      "source": "Game*Spark",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbEpYT25lTFRPbVUtT2lnWkFGVGhvSGRMOU5WTHpPblpNMnlldWk3Wk5oV194VVdtMUJweVJibWlscm4xTE1weE9aWHVHQURFYVBqRnBkV2xLdGp0MDRqemFFQkpWcUJxelR1Sld6QXVlQTIzaTU0UVpIMnBhaElBX2JR0gGCAUFVX3lxTE9sSlhPbmVMVE9tVS1PaWdaQUZUaG9IZEw5TlZMek9uWk0yeWV1aTdaTmhXX3hVV20xQnB5UmJtaWxybjFMTXB4T1pYdUdBREVhUGpGcGRXbEt0anQwNGp6YUVCSlZxQnF6VHVKV3pBdWVBMjNpNTRRWkgycGFoSUFfYlE?oc=5",
+      "host": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
       "summary": "",
-      "publishedAt": "2026-09-23T00:00:03.000Z",
-      "image": "https://www.gamespark.jp/imgs/ogp_f/1197084.png",
+      "publishedAt": "2026-09-23T00:00:00.000Z",
+      "image": "",
       "categories": [
         "other"
       ],
       "series": [],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
@@ -1275,6 +1300,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "7e7d0290f591",
+      "title": "【サンブレイク】バルファルクの弱点と攻略 | 解放条件【モンハンライズ】",
+      "url": "https://gamewith.jp/mhrize/article/show/279607",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-22T13:39:09.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/279607.png?date=1657262416",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "5a9515f44eba",
