@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-25T01:30:23.386Z",
+  "updatedAt": "2026-09-25T02:00:27.517Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 45,
-  "todayCount": 3,
+  "total": 48,
+  "todayCount": 5,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 8
+      "count": 9
     },
     {
       "id": "sale",
@@ -52,7 +52,7 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 1
+      "count": 3
     },
     {
       "id": "sales",
@@ -74,7 +74,7 @@
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 1
+      "count": 2
     },
     {
       "id": "world",
@@ -107,6 +107,14 @@
       "count": 13
     },
     {
+      "name": "グリーンべると",
+      "count": 1
+    },
+    {
+      "name": "amusement-japan.co.jp",
+      "count": 1
+    },
+    {
       "name": "攻略大百科",
       "count": 1
     },
@@ -127,7 +135,7 @@
       "count": 1
     },
     {
-      "name": "ガジェット通信",
+      "name": "getnews.jp",
       "count": 1
     },
     {
@@ -136,6 +144,10 @@
     },
     {
       "name": "Game*Spark",
+      "count": 1
+    },
+    {
+      "name": "ウォーカープラス",
       "count": 1
     },
     {
@@ -260,16 +272,84 @@
           "isPR": false
         }
       ]
+    },
+    {
+      "id": "294435c753fb",
+      "title": "フィールズ、最新機種『スマスロ モンスターハンターライズ：サンブレイク』のファンイベントを開催",
+      "summary": "",
+      "url": "https://web-greenbelt.jp/post-118392/",
+      "image": "https://web-greenbelt.jp/wordpress/wp-content/uploads/2026/09/フォトセッション１.jpg",
+      "leadSource": "グリーンべると",
+      "publishedAt": "2026-09-25T01:47:11.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "community"
+      ],
+      "keywords": [
+        "フィールズ",
+        "最新機種",
+        "開催"
+      ],
+      "articles": [
+        {
+          "title": "モンハン最新機種のファン試打会を開催｜フィールズ｜パチンコ・パチスロ業界ニュース＆ビジネス情報 Amusement Japan - amusement-japan.co.jp",
+          "url": "https://amusement-japan.co.jp/article/detail/10005419/",
+          "source": "amusement-japan.co.jp",
+          "publishedAt": "2026-09-25T00:49:36.000Z",
+          "isPR": false
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-09-25T01:00:14.320Z",
-    "previousCount": 47,
-    "newCount": 0
+    "previousAt": "2026-09-25T01:30:23.386Z",
+    "previousCount": 45,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-25T02:00:23.386Z",
+  "nextUpdateAt": "2026-09-25T02:30:27.517Z",
   "items": [
+    {
+      "id": "294435c753fb",
+      "title": "フィールズ、最新機種『スマスロ モンスターハンターライズ：サンブレイク』のファンイベントを開催",
+      "url": "https://web-greenbelt.jp/post-118392/",
+      "host": "web-greenbelt.jp",
+      "source": "グリーンべると",
+      "summary": "",
+      "publishedAt": "2026-09-25T01:47:11.000Z",
+      "image": "https://web-greenbelt.jp/wordpress/wp-content/uploads/2026/09/フォトセッション１.jpg",
+      "categories": [
+        "community"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "8df7933752e9",
+      "title": "モンハン最新機種のファン試打会を開催｜フィールズ｜パチンコ・パチスロ業界ニュース＆ビジネス情報 Amusement Japan - amusement-japan.co.jp",
+      "url": "https://amusement-japan.co.jp/article/detail/10005419/",
+      "host": "amusement-japan.co.jp",
+      "source": "amusement-japan.co.jp",
+      "summary": "",
+      "publishedAt": "2026-09-25T00:49:36.000Z",
+      "image": "https://amusement-japan.co.jp/img/article/art_10005419_6ab5c5207525e.jpg",
+      "categories": [
+        "community"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "5fc879b1cca5",
       "title": "【モンハンワイルズ】英傑に愛を込めての攻略と報酬【モンスターハンターワイルズ】",
@@ -404,7 +484,7 @@
       "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-09-24T09:02:54.000Z",
-      "image": "https://i.ytimg.com/vi/puI0-cjTCaI/maxresdefault.jpg",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -510,7 +590,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-09-24T06:16:28.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563040.png?date=1789770455",
       "categories": [
         "other"
       ],
@@ -797,7 +877,7 @@
       "title": "『モンハンNow』3周年記念パス登場!! 特別なクエストを攻略してスタンプや各種素材をゲットしよう",
       "url": "https://getnews.jp/archives/3744954",
       "host": "getnews.jp",
-      "source": "ガジェット通信",
+      "source": "getnews.jp",
       "summary": "",
       "publishedAt": "2026-09-23T13:30:03.000Z",
       "image": "https://rensai.jp/wp-content/uploads/2026/09/6ebd9cfa575206cd627c56a375382edb.jpg",
@@ -1129,6 +1209,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "82a44afe0c15",
+      "title": "USJのモンハン｢XR WALK｣をゲーム初心者が体験！8キロの重装備でマジ狩りに挑む",
+      "url": "https://www.walkerplus.com/article/1068393/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-09-22T07:00:00.000Z",
+      "image": "https://news.walkerplus.com/article/1068393/10652357_615.jpg",
+      "categories": [
+        "guide"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "50439e380cf4",
