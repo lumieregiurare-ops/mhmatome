@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-25T18:30:18.553Z",
+  "updatedAt": "2026-09-25T19:00:16.726Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 51,
+  "total": 50,
   "todayCount": 0,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 8
+      "count": 7
     },
     {
       "id": "sale",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 33
+      "count": 32
     },
     {
       "id": "rise",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 23
+      "count": 22
     },
     {
       "name": "YouTube",
@@ -123,11 +123,11 @@
       "count": 1
     },
     {
-      "name": "ゲームハック",
+      "name": "gamehack.jp",
       "count": 1
     },
     {
-      "name": "nintendo.com",
+      "name": "Nintendo",
       "count": 1
     },
     {
@@ -195,7 +195,7 @@
         {
           "title": "カプコンストア_スマスロ『モンスターハンターライズ：サンブレイク』実機展示＆ス",
           "url": "https://gamehack.jp/385230/",
-          "source": "ゲームハック",
+          "source": "gamehack.jp",
           "publishedAt": "2026-09-25T09:53:07.000Z",
           "isPR": false
         },
@@ -278,6 +278,13 @@
       ],
       "articles": [
         {
+          "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563104",
+          "source": "GameWith",
+          "publishedAt": "2026-09-25T07:51:14.000Z",
+          "isPR": false
+        },
+        {
           "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/575038",
           "source": "GameWith",
@@ -324,13 +331,6 @@
           "url": "https://gamewith.jp/mhwilds/574841",
           "source": "GameWith",
           "publishedAt": "2026-09-24T06:52:09.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/563040",
-          "source": "GameWith",
-          "publishedAt": "2026-09-24T06:16:28.000Z",
           "isPR": false
         }
       ]
@@ -421,12 +421,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-25T18:00:16.040Z",
+    "previousAt": "2026-09-25T18:30:18.553Z",
     "previousCount": 51,
     "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-25T19:00:18.553Z",
+  "nextUpdateAt": "2026-09-25T19:30:16.726Z",
   "items": [
     {
       "id": "8c086bb7f518",
@@ -517,7 +517,7 @@
       "title": "カプコンストア_スマスロ『モンスターハンターライズ：サンブレイク』実機展示＆ス",
       "url": "https://gamehack.jp/385230/",
       "host": "gamehack.jp",
-      "source": "ゲームハック",
+      "source": "gamehack.jp",
       "summary": "",
       "publishedAt": "2026-09-25T09:53:07.000Z",
       "image": "https://gamehack.jp/wp-content/themes/sango-theme/library/images/default.jpg",
@@ -574,11 +574,32 @@
       "isNew": false
     },
     {
+      "id": "e08e6c8ea2a8",
+      "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/563104",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-25T07:51:14.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563104.png?date=1789770630",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "71516610c19a",
       "title": "「奇しき赫耀のバルファルク」や「ヌシ・ジンオウガ」が登場。Nintendo Switch『モンスターハンターライズ』無料タイトルアップデート「Ver.3.0」、本日配信。",
       "url": "https://www.nintendo.com/jp/topics/article/e7cff8d4-08e2-49f2-b3a2-71bc80c9a2fb",
       "host": "nintendo.com",
-      "source": "nintendo.com",
+      "source": "Nintendo",
       "summary": "",
       "publishedAt": "2026-09-25T06:07:46.000Z",
       "image": "https://assets.topics.apps-jp.nintendo.com/image/2021/05/25055456084266/820/26469_820_461.jpg",
@@ -687,27 +708,6 @@
       "summary": "",
       "publishedAt": "2026-09-25T00:00:13.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "40bccce677c8",
-      "title": "【アセンダンス】大剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/485475",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-24T23:05:16.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485475.png?date=1789753003",
       "categories": [
         "other"
       ],
@@ -833,7 +833,7 @@
       "source": "amusement-japan.co.jp",
       "summary": "",
       "publishedAt": "2026-09-24T15:00:00.000Z",
-      "image": "",
+      "image": "https://amusement-japan.co.jp/img/article/art_10005419_6ab5c5207525e.jpg",
       "categories": [
         "community"
       ],
@@ -1180,6 +1180,27 @@
       "isNew": false
     },
     {
+      "id": "40bccce677c8",
+      "title": "【アセンダンス】大剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/485475",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-23T16:48:09.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485475.png?date=1789753003",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "b5d6fe40ab2e",
       "title": "【アセンダンス】護竜リオレイアの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/575037",
@@ -1214,27 +1235,6 @@
       ],
       "series": [
         "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e08e6c8ea2a8",
-      "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563104",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-23T14:16:24.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563104.png?date=1789770630",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1446,27 +1446,6 @@
         "other"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "36bf38ad62e4",
-      "title": "【モンハンワイルズ】序盤おすすめ装備まとめ｜下位装備おすすめ【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/485430",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-22T20:10:26.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485430.png?date=1787565141",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
