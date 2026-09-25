@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-25T07:00:14.871Z",
+  "updatedAt": "2026-09-25T07:30:20.366Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 48,
+  "total": 47,
   "todayCount": 10,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 7
+      "count": 6
     },
     {
       "id": "sale",
@@ -74,7 +74,7 @@
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 3
+      "count": 2
     },
     {
       "id": "world",
@@ -100,15 +100,11 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 21
+      "count": 20
     },
     {
-      "name": "YouTube",
+      "name": "youtu.be",
       "count": 12
-    },
-    {
-      "name": "CAPCOM",
-      "count": 2
     },
     {
       "name": "AppBank",
@@ -117,6 +113,10 @@
     {
       "name": "t.co",
       "count": 2
+    },
+    {
+      "name": "CAPCOM",
+      "count": 1
     },
     {
       "name": "IGN Japan",
@@ -131,7 +131,11 @@
       "count": 1
     },
     {
-      "name": "攻略大百科",
+      "name": "gamepedia.jp",
+      "count": 1
+    },
+    {
+      "name": "PR TIMES",
       "count": 1
     },
     {
@@ -147,7 +151,7 @@
       "count": 1
     },
     {
-      "name": "gamespark.jp",
+      "name": "Game*Spark",
       "count": 1
     },
     {
@@ -327,14 +331,14 @@
         {
           "title": "【初心者&復帰勢へ】アセンダンスまでに作るべき最終・汎用大剣装備を紹介！【モンハンワイルズ】【MHWilds】【mhws】",
           "url": "https://youtu.be/qFGW2byalmg",
-          "source": "YouTube",
+          "source": "youtu.be",
           "publishedAt": "2026-09-22T08:00:39.000Z",
           "isPR": false
         },
         {
           "title": "【TGS先行プレイ】アセンダンスの弓を触ってみて、良かったこと＆気になったこと【モンハンワイルズ/MHWilds】",
           "url": "https://youtu.be/CMvMHGmITx0?si",
-          "source": "YouTube",
+          "source": "youtu.be",
           "publishedAt": "2026-09-22T08:00:27.000Z",
           "isPR": false
         }
@@ -389,22 +393,22 @@
       ],
       "articles": [
         {
-          "title": "「日本ゲーム大賞2026」のフューチャー部門にて 『モンスターハンターワイルズ：アセンダンス』が受賞！",
-          "url": "https://www.capcom.co.jp/ir/news/html/260924.html",
-          "source": "CAPCOM",
-          "publishedAt": "2026-09-24T01:59:48.000Z",
-          "isPR": false
+          "title": "「日本ゲーム大賞2026」のフューチャー部門にて『モンスターハンターワイルズ：アセンダンス』が受賞！",
+          "url": "https://prtimes.jp/main/html/rd/p/000006077.000013450.html",
+          "source": "PR TIMES",
+          "publishedAt": "2026-09-24T05:25:03.000Z",
+          "isPR": true
         }
       ]
     }
   ],
   "churn": {
-    "previousAt": "2026-09-25T06:30:17.682Z",
+    "previousAt": "2026-09-25T07:00:14.871Z",
     "previousCount": 48,
-    "newCount": 1
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-25T07:30:14.871Z",
+  "nextUpdateAt": "2026-09-25T08:00:20.366Z",
   "items": [
     {
       "id": "eef1c91ee376",
@@ -425,7 +429,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9d8e14b84541",
@@ -477,7 +481,7 @@
       "source": "グリーンべると",
       "summary": "",
       "publishedAt": "2026-09-25T01:47:11.000Z",
-      "image": "https://web-greenbelt.jp/wordpress/wp-content/uploads/2026/09/フォトセッション１.jpg",
+      "image": "",
       "categories": [
         "community"
       ],
@@ -537,7 +541,7 @@
       "title": "【MHWs】歴戦王アルシュベルド 08'09 チャージアックス ソロ(TA wiki rules)/Tempered Arkveld Charge Blade",
       "url": "https://youtu.be/cLovrORc8Iw?si",
       "host": "youtu.be",
-      "source": "YouTube",
+      "source": "youtu.be",
       "summary": "",
       "publishedAt": "2026-09-24T18:25:24.000Z",
       "image": "",
@@ -640,7 +644,7 @@
       "title": "【モンハンワイルズ】今後Switch2版で遊ぶ人へゴグマジオスに挑む！攻略難易度SSS⁈",
       "url": "https://youtu.be/KbrXYA5NFT8",
       "host": "youtu.be",
-      "source": "YouTube",
+      "source": "youtu.be",
       "summary": "",
       "publishedAt": "2026-09-24T10:20:55.000Z",
       "image": "",
@@ -661,7 +665,7 @@
       "title": "【モンスターハンターワイルズ 番外編 】アセンンダンス発売までに武器を全部集めよう！ 大剣編・前編",
       "url": "https://youtu.be/mtrbZD82cMk?si",
       "host": "youtu.be",
-      "source": "YouTube",
+      "source": "youtu.be",
       "summary": "",
       "publishedAt": "2026-09-24T09:45:25.000Z",
       "image": "",
@@ -682,7 +686,7 @@
       "title": "[MHWilds/PS5] 歴戦王ジン・ダハド 大剣ソロ 05'19\"77 フリーチャレンジクエスト 火事場 サブ笛/ Arch Tempered Jin Dahaad GreatSword solo",
       "url": "https://youtu.be/puI0-cjTCaI?si",
       "host": "youtu.be",
-      "source": "YouTube",
+      "source": "youtu.be",
       "summary": "",
       "publishedAt": "2026-09-24T09:02:54.000Z",
       "image": "",
@@ -704,7 +708,7 @@
       "title": "【モンハンワイルズ】初心者必見！たった3分で脱初心者できるスラアク完全解説【山田らいおん】",
       "url": "https://youtu.be/BYNVk4JsJbg?si",
       "host": "youtu.be",
-      "source": "YouTube",
+      "source": "youtu.be",
       "summary": "",
       "publishedAt": "2026-09-24T09:00:31.000Z",
       "image": "",
@@ -809,7 +813,7 @@
       "title": "【モンハンワイルズ】09/16の『カプコンスポットライト｜TGS 2026』の発表内容まとめ【モンスターハンター】",
       "url": "https://gamepedia.jp/mh-wilds/archives/13604",
       "host": "gamepedia.jp",
-      "source": "攻略大百科",
+      "source": "gamepedia.jp",
       "summary": "",
       "publishedAt": "2026-09-24T06:06:45.000Z",
       "image": "https://tfi.gamepedia.jp/image/w=1200,h=630,fit=pad,f=webp/puppeteer.gamepedia.jp/gamepedia.jp/mh-wilds/thumbnail/13604/f1f7a03202a53a362468a40b4d16c0c3",
@@ -861,6 +865,27 @@
       ],
       "isOfficial": false,
       "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "2669fa45e7ca",
+      "title": "「日本ゲーム大賞2026」のフューチャー部門にて『モンスターハンターワイルズ：アセンダンス』が受賞！",
+      "url": "https://prtimes.jp/main/html/rd/p/000006077.000013450.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-09-24T05:25:03.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/13450/6077/13450-6077-6160910bce1f0c5f38309fd5dc520f47-3840x2160.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -948,27 +973,6 @@
       "isNew": false
     },
     {
-      "id": "2669fa45e7ca",
-      "title": "「日本ゲーム大賞2026」のフューチャー部門にて 『モンスターハンターワイルズ：アセンダンス』が受賞！",
-      "url": "https://www.capcom.co.jp/ir/news/html/260924.html",
-      "host": "capcom.co.jp",
-      "source": "CAPCOM",
-      "summary": "",
-      "publishedAt": "2026-09-24T01:59:48.000Z",
-      "image": "https://www.capcom.co.jp/ir/news/html/images/ogp/img_ogp_260608b.png",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "8c086bb7f518",
       "title": "【モンハンナウ】モンハンNow感謝祭【3周年記念】【モンハンNow】",
       "url": "https://gamewith.jp/monsterhunternow/article/show/577438",
@@ -1036,7 +1040,7 @@
       "title": "【MHWs】歴戦王アルシュベルド チャージアックス 討伐 8'36\"46",
       "url": "https://youtu.be/EArggcwbLUU?si",
       "host": "youtu.be",
-      "source": "YouTube",
+      "source": "youtu.be",
       "summary": "",
       "publishedAt": "2026-09-23T14:38:01.000Z",
       "image": "",
@@ -1099,7 +1103,7 @@
       "title": "【MHWilds】星9歴戦王ジン・ダハド 9'12\"98（狩猟笛/非火事場)【きりたん解説付き】",
       "url": "https://youtu.be/6pJByCcbHWQ?si",
       "host": "youtu.be",
-      "source": "YouTube",
+      "source": "youtu.be",
       "summary": "",
       "publishedAt": "2026-09-23T08:31:51.000Z",
       "image": "",
@@ -1142,7 +1146,7 @@
       "title": "＃このこごま ( ՞• ﻌ •՞ ੭ 初！モンスターハンターワイルズ・またー�",
       "url": "https://youtu.be/G5oHPPiFEIg?si",
       "host": "youtu.be",
-      "source": "YouTube",
+      "source": "youtu.be",
       "summary": "",
       "publishedAt": "2026-09-23T05:33:09.000Z",
       "image": "",
@@ -1206,7 +1210,7 @@
       "title": "スローライフだけど狩猟は全然スローじゃない！『モンハン』を思わせる武器アクションも楽しい『Monster Fantasy』で心ゆくまで狩ろうぜ【テスト版プレイレポ】",
       "url": "https://www.gamespark.jp/article/2026/09/23/172658.html",
       "host": "gamespark.jp",
-      "source": "gamespark.jp",
+      "source": "Game*Spark",
       "summary": "",
       "publishedAt": "2026-09-23T00:00:03.000Z",
       "image": "https://www.gamespark.jp/imgs/ogp_f/1197084.png",
@@ -1263,32 +1267,11 @@
       "isNew": false
     },
     {
-      "id": "7e7d0290f591",
-      "title": "【サンブレイク】バルファルクの弱点と攻略 | 解放条件【モンハンライズ】",
-      "url": "https://gamewith.jp/mhrize/article/show/279607",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-22T13:39:09.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/279607.png?date=1657262416",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "8a8adf3ab3d8",
       "title": "【ワイルズ1分】#19 1分実況してみた【MHWilds/魔物獵人荒野】",
       "url": "https://youtu.be/vwUaVK68Hbg?si",
       "host": "youtu.be",
-      "source": "YouTube",
+      "source": "youtu.be",
       "summary": "",
       "publishedAt": "2026-09-22T09:45:11.000Z",
       "image": "",
@@ -1310,7 +1293,7 @@
       "title": "【モンハンnow】次元変異リオレウス亜種/アケノシルム武器は強い？他武器との比較やスタイル強化値、素材緩和など解説！【モンスターハンターNow/モンハンNOW/モンハンなう/モンハンナウ】",
       "url": "https://youtu.be/biP2iTcSgiM?si",
       "host": "youtu.be",
-      "source": "YouTube",
+      "source": "youtu.be",
       "summary": "",
       "publishedAt": "2026-09-22T08:12:23.000Z",
       "image": "",
@@ -1331,7 +1314,7 @@
       "title": "【初心者&復帰勢へ】アセンダンスまでに作るべき最終・汎用大剣装備を紹介！【モンハンワイルズ】【MHWilds】【mhws】",
       "url": "https://youtu.be/qFGW2byalmg",
       "host": "youtu.be",
-      "source": "YouTube",
+      "source": "youtu.be",
       "summary": "",
       "publishedAt": "2026-09-22T08:00:39.000Z",
       "image": "",
@@ -1353,7 +1336,7 @@
       "title": "【TGS先行プレイ】アセンダンスの弓を触ってみて、良かったこと＆気になったこと【モンハンワイルズ/MHWilds】",
       "url": "https://youtu.be/CMvMHGmITx0?si",
       "host": "youtu.be",
-      "source": "YouTube",
+      "source": "youtu.be",
       "summary": "",
       "publishedAt": "2026-09-22T08:00:27.000Z",
       "image": "",
