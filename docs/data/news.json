@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-25T02:00:27.517Z",
+  "updatedAt": "2026-09-25T02:30:16.786Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 48,
+  "total": 47,
   "todayCount": 5,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 9
+      "count": 8
     },
     {
       "id": "sale",
@@ -135,7 +135,7 @@
       "count": 1
     },
     {
-      "name": "getnews.jp",
+      "name": "ガジェット通信",
       "count": 1
     },
     {
@@ -144,10 +144,6 @@
     },
     {
       "name": "Game*Spark",
-      "count": 1
-    },
-    {
-      "name": "ウォーカープラス",
       "count": 1
     },
     {
@@ -303,12 +299,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-25T01:30:23.386Z",
-    "previousCount": 45,
-    "newCount": 3
+    "previousAt": "2026-09-25T02:00:27.517Z",
+    "previousCount": 48,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-25T02:30:27.517Z",
+  "nextUpdateAt": "2026-09-25T03:00:16.786Z",
   "items": [
     {
       "id": "294435c753fb",
@@ -329,7 +325,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8df7933752e9",
@@ -348,7 +344,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5fc879b1cca5",
@@ -877,7 +873,7 @@
       "title": "『モンハンNow』3周年記念パス登場!! 特別なクエストを攻略してスタンプや各種素材をゲットしよう",
       "url": "https://getnews.jp/archives/3744954",
       "host": "getnews.jp",
-      "source": "getnews.jp",
+      "source": "ガジェット通信",
       "summary": "",
       "publishedAt": "2026-09-23T13:30:03.000Z",
       "image": "https://rensai.jp/wp-content/uploads/2026/09/6ebd9cfa575206cd627c56a375382edb.jpg",
@@ -1209,25 +1205,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "82a44afe0c15",
-      "title": "USJのモンハン｢XR WALK｣をゲーム初心者が体験！8キロの重装備でマジ狩りに挑む",
-      "url": "https://www.walkerplus.com/article/1068393/",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-09-22T07:00:00.000Z",
-      "image": "https://news.walkerplus.com/article/1068393/10652357_615.jpg",
-      "categories": [
-        "guide"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "50439e380cf4",
