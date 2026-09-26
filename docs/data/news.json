@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-26T09:00:15.803Z",
+  "updatedAt": "2026-09-26T09:30:16.216Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 52,
+  "total": 54,
   "todayCount": 12,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 8
+      "count": 10
     },
     {
       "id": "sale",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 35
+      "count": 36
     },
     {
       "id": "rise",
@@ -84,7 +84,7 @@
     {
       "id": "now",
       "label": "Now",
-      "count": 4
+      "count": 5
     },
     {
       "id": "stories",
@@ -100,11 +100,11 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 22
+      "count": 23
     },
     {
       "name": "YouTube",
-      "count": 10
+      "count": 11
     },
     {
       "name": "4Gamer.net",
@@ -123,7 +123,7 @@
       "count": 2
     },
     {
-      "name": "p-town.dmm.com",
+      "name": "DMMぱちタウン",
       "count": 1
     },
     {
@@ -289,6 +289,33 @@
       ]
     },
     {
+      "id": "33836279139e",
+      "title": "131話「『スマスロ獣王』や『モンハンサンブレイク』の評価は…？」",
+      "summary": "",
+      "url": "https://p-town.dmm.com/writers/gentle/14227",
+      "image": "",
+      "leadSource": "DMMぱちタウン",
+      "publishedAt": "2026-09-26T05:03:45.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "サンブレイク",
+        "スマスロ"
+      ],
+      "articles": [
+        {
+          "title": "【Lモンスターハンターライズ:サンブレイク】連続狩猟が生み出すシリーズ最高の期待感！帰ってきたモンハンらしいモンハン！新台解説はレイコにおまかせ❣️🦁👑【スマスロ】【新台最速試打】【VTuber】",
+          "url": "https://youtu.be/TN4mVlVw0Jk",
+          "source": "YouTube",
+          "publishedAt": "2026-09-25T08:00:03.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "8c086bb7f518",
       "title": "【モンハンナウ】モンハンNow感謝祭【3周年記念】【モンハンNow】",
       "summary": "",
@@ -346,12 +373,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-26T08:30:18.139Z",
-    "previousCount": 51,
-    "newCount": 4
+    "previousAt": "2026-09-26T09:00:15.803Z",
+    "previousCount": 52,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-26T09:30:15.803Z",
+  "nextUpdateAt": "2026-09-26T10:00:16.216Z",
   "items": [
     {
       "id": "c75d4661de31",
@@ -394,11 +421,11 @@
       "isNew": false
     },
     {
-      "id": "1fcd0d07d879",
-      "title": "131話「『スマスロ獣王』や『モンハンサンブレイク』の評価は…？」 - p-town.dmm.com",
+      "id": "33836279139e",
+      "title": "131話「『スマスロ獣王』や『モンハンサンブレイク』の評価は…？」",
       "url": "https://p-town.dmm.com/writers/gentle/14227",
       "host": "p-town.dmm.com",
-      "source": "p-town.dmm.com",
+      "source": "DMMぱちタウン",
       "summary": "",
       "publishedAt": "2026-09-26T05:03:45.000Z",
       "image": "",
@@ -872,7 +899,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d8b95bbbc335",
@@ -957,6 +984,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "e47b50142ad2",
+      "title": "【モンハンNow】3周年イベント後半！初心者＆復帰勢はコレだけやれ！太刀のおすすめ装備構成も紹介！",
+      "url": "https://youtu.be/S3MojeUc7ro?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-09-24T15:19:47.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "8df7933752e9",
@@ -1268,7 +1316,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "74712362f881",
@@ -1289,7 +1337,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6e5c9bbdfab4",
@@ -1374,6 +1422,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "497ce84a00d9",
+      "title": "【モンハンワイルズ】セルレギオスの攻略・弱点と出現条件【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/505025",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-24T01:05:40.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/505025.png?date=1750977396",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "8e3c117d6ae1",
