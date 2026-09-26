@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-26T06:30:14.275Z",
+  "updatedAt": "2026-09-26T07:00:14.333Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 54,
-  "todayCount": 9,
+  "total": 51,
+  "todayCount": 10,
   "categories": [
     {
       "id": "new",
@@ -17,7 +17,7 @@
     {
       "id": "update",
       "label": "アップデート",
-      "count": 1
+      "count": 0
     },
     {
       "id": "event",
@@ -62,24 +62,24 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 39
+      "count": 37
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 37
+      "count": 35
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 8
+      "count": 7
     },
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 5
+      "count": 4
     },
     {
       "id": "now",
@@ -104,11 +104,7 @@
     },
     {
       "name": "youtu.be",
-      "count": 11
-    },
-    {
-      "name": "4Gamer.net",
-      "count": 3
+      "count": 10
     },
     {
       "name": "AppBank",
@@ -123,15 +119,15 @@
       "count": 2
     },
     {
+      "name": "4Gamer.net",
+      "count": 2
+    },
+    {
       "name": "DMMぱちタウン",
       "count": 1
     },
     {
-      "name": "ゲームハック",
-      "count": 1
-    },
-    {
-      "name": "nintendo.com",
+      "name": "gamehack.jp",
       "count": 1
     },
     {
@@ -194,7 +190,7 @@
         {
           "title": "カプコンストア_スマスロ『モンスターハンターライズ：サンブレイク』実機展示＆ス",
           "url": "https://gamehack.jp/385230/",
-          "source": "ゲームハック",
+          "source": "gamehack.jp",
           "publishedAt": "2026-09-25T09:53:07.000Z",
           "isPR": false
         },
@@ -223,7 +219,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-09-26T01:41:32.000Z",
       "sourceCount": 2,
-      "articleCount": 16,
+      "articleCount": 15,
       "categories": [
         "other",
         "new"
@@ -234,6 +230,13 @@
         "最新情報"
       ],
       "articles": [
+        {
+          "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/575036",
+          "source": "GameWith",
+          "publishedAt": "2026-09-25T22:11:25.000Z",
+          "isPR": false
+        },
         {
           "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/563077",
@@ -281,13 +284,6 @@
           "url": "https://gamewith.jp/mhwilds/575038",
           "source": "GameWith",
           "publishedAt": "2026-09-25T05:18:17.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/563040",
-          "source": "GameWith",
-          "publishedAt": "2026-09-25T00:42:15.000Z",
           "isPR": false
         }
       ]
@@ -448,12 +444,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-26T06:00:14.048Z",
-    "previousCount": 50,
-    "newCount": 4
+    "previousAt": "2026-09-26T06:30:14.275Z",
+    "previousCount": 54,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-26T07:00:14.275Z",
+  "nextUpdateAt": "2026-09-26T07:30:14.333Z",
   "items": [
     {
       "id": "c7f79abb3a46",
@@ -474,7 +470,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "33836279139e",
@@ -552,6 +548,27 @@
         "guide"
       ],
       "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "f4f222ac2e2d",
+      "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/575036",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-25T22:11:25.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575036.png?date=1789770113",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -773,10 +790,10 @@
       "title": "カプコンストア_スマスロ『モンスターハンターライズ：サンブレイク』実機展示＆ス",
       "url": "https://gamehack.jp/385230/",
       "host": "gamehack.jp",
-      "source": "ゲームハック",
+      "source": "gamehack.jp",
       "summary": "",
       "publishedAt": "2026-09-25T09:53:07.000Z",
-      "image": "https://gamehack.jp/wp-content/themes/sango-theme/library/images/default.jpg",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -824,27 +841,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "71516610c19a",
-      "title": "「奇しき赫耀のバルファルク」や「ヌシ・ジンオウガ」が登場。Nintendo Switch『モンスターハンターライズ』無料タイトルアップデート「Ver.3.0」、本日配信。",
-      "url": "https://www.nintendo.com/jp/topics/article/e7cff8d4-08e2-49f2-b3a2-71bc80c9a2fb",
-      "host": "nintendo.com",
-      "source": "nintendo.com",
-      "summary": "",
-      "publishedAt": "2026-09-25T06:07:46.000Z",
-      "image": "https://assets.topics.apps-jp.nintendo.com/image/2021/05/25055456084266/820/26469_820_461.jpg",
-      "categories": [
-        "update"
-      ],
-      "series": [
-        "rise"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -923,7 +919,7 @@
       "source": "グリーンべると",
       "summary": "",
       "publishedAt": "2026-09-25T01:47:11.000Z",
-      "image": "https://web-greenbelt.jp/wordpress/wp-content/uploads/2026/09/フォトセッション１.jpg",
+      "image": "",
       "categories": [
         "community"
       ],
@@ -1028,7 +1024,7 @@
       "source": "amusement-japan.co.jp",
       "summary": "",
       "publishedAt": "2026-09-24T15:00:00.000Z",
-      "image": "",
+      "image": "https://amusement-japan.co.jp/img/article/art_10005419_6ab5c5207525e.jpg",
       "categories": [
         "community"
       ],
@@ -1230,27 +1226,6 @@
       "isNew": false
     },
     {
-      "id": "f4f222ac2e2d",
-      "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/575036",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-24T05:57:15.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575036.png?date=1789770113",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "1d541187e86c",
       "title": "カプコンがゲーム開発人材を積極採用。『モンスターハンター』『バイオハザード』など世界的タイトルを手がける、3Dデザイナーやエンジニア、プランナーを幅広く募集",
       "url": "https://automaton-media.com/articles/newsjp/capcom-20260924-469637/",
@@ -1291,27 +1266,6 @@
       "isNew": false
     },
     {
-      "id": "6e5c9bbdfab4",
-      "title": "画像ギャラリー No.011 | Nintendo Switch 2版 モンスターハンターワイルズ：アセンダンス",
-      "url": "https://www.4gamer.net/games/043/G104343/screenshot.html?num",
-      "host": "4gamer.net",
-      "source": "4Gamer.net",
-      "summary": "",
-      "publishedAt": "2026-09-24T03:56:28.000Z",
-      "image": "https://www.4gamer.net/games/043/G104343/SS/014.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "3cde4bcd3087",
       "title": "画像ギャラリー No.008 | Nintendo Switch 2版 モンスターハンターワイルズ：アセンダンス",
       "url": "https://www.4gamer.net/games/043/G104343/screenshot.html?num",
@@ -1330,7 +1284,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8e3c117d6ae1",
@@ -1436,7 +1390,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c859fa9d9bd5",
@@ -1536,28 +1490,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "649b704173f6",
-      "title": "【#MHWilds】『天人達のエルピス』シント ＆ ある",
-      "url": "https://youtu.be/fpntqDZM_oA?si",
-      "host": "youtu.be",
-      "source": "youtu.be",
-      "summary": "",
-      "publishedAt": "2026-09-23T06:54:54.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
       ],
       "isOfficial": false,
       "isPR": false,
