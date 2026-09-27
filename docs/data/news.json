@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-27T05:30:16.751Z",
+  "updatedAt": "2026-09-27T06:00:14.121Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 51,
-  "todayCount": 12,
+  "total": 52,
+  "todayCount": 14,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 12
+      "count": 13
     },
     {
       "id": "sale",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 6
+      "count": 7
     },
     {
       "id": "outlanders",
@@ -108,14 +108,14 @@
     },
     {
       "name": "AppMedia",
-      "count": 6
+      "count": 7
     },
     {
       "name": "AppBank",
       "count": 2
     },
     {
-      "name": "ガジェット通信",
+      "name": "getnews.jp",
       "count": 2
     },
     {
@@ -151,7 +151,7 @@
       "count": 1
     },
     {
-      "name": "gamepedia.jp",
+      "name": "攻略大百科",
       "count": 1
     },
     {
@@ -225,7 +225,7 @@
         {
           "title": "『モンハンNow』ここから始める5ステップ拡張版!! 新規＆復帰ハンターに伝えたい便利な機能たち",
           "url": "https://getnews.jp/archives/3745475",
-          "source": "ガジェット通信",
+          "source": "getnews.jp",
           "publishedAt": "2026-09-26T12:00:12.000Z",
           "isPR": false
         },
@@ -296,12 +296,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-27T05:00:17.849Z",
-    "previousCount": 50,
+    "previousAt": "2026-09-27T05:30:16.751Z",
+    "previousCount": 51,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-27T06:00:16.751Z",
+  "nextUpdateAt": "2026-09-27T06:30:14.121Z",
   "items": [
     {
       "id": "cb811147bbe9",
@@ -382,6 +382,25 @@
       "series": [
         "wilds"
       ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "e6d79acfa4bd",
+      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
+      "url": "https://gamewith.jp/mhwilds/563096",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-27T01:43:17.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
+      "categories": [
+        "guide"
+      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -494,6 +513,27 @@
       "isNew": false
     },
     {
+      "id": "c1ce900bfe63",
+      "title": "【モンハンストーリーズ3】侵獣攻略一覧｜解放できる危惧種まとめ【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79844810",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-09-26T19:42:41.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/105921_5y7po.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "5fc879b1cca5",
       "title": "【モンハンワイルズ】英傑に愛を込めての攻略と報酬【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/545381",
@@ -501,7 +541,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-09-26T19:38:52.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545381.png?date=1771384851",
+      "image": "",
       "categories": [
         "guide"
       ],
@@ -533,7 +573,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8c086bb7f518",
@@ -603,7 +643,7 @@
       "title": "『モンハンNow』ここから始める5ステップ拡張版!! 新規＆復帰ハンターに伝えたい便利な機能たち",
       "url": "https://getnews.jp/archives/3745475",
       "host": "getnews.jp",
-      "source": "ガジェット通信",
+      "source": "getnews.jp",
       "summary": "",
       "publishedAt": "2026-09-26T12:00:12.000Z",
       "image": "https://rensai.jp/wp-content/uploads/2026/09/30e519f0d6f225e60d3a7493a19143aa.jpg",
@@ -747,25 +787,6 @@
       "isNew": false
     },
     {
-      "id": "e6d79acfa4bd",
-      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
-      "url": "https://gamewith.jp/mhwilds/563096",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-26T00:02:25.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
-      "categories": [
-        "guide"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "2e75eb4018e2",
       "title": "【モンハンナウ】狩人たちの夏祭り2026【モンハンNow】",
       "url": "https://gamewith.jp/monsterhunternow/article/show/573258",
@@ -875,7 +896,7 @@
       "title": "『モンハンNow』次元亜種武器どうする? 新たなスキルが解放されるから大量出現に参加しておきたい話",
       "url": "https://getnews.jp/archives/3745364",
       "host": "getnews.jp",
-      "source": "ガジェット通信",
+      "source": "getnews.jp",
       "summary": "",
       "publishedAt": "2026-09-25T12:00:05.000Z",
       "image": "https://rensai.jp/wp-content/uploads/2026/09/b0950b9b2c24bb423f543a21bcc04992.jpg",
@@ -1337,7 +1358,7 @@
       "title": "【モンハンワイルズ】09/16の『カプコンスポットライト｜TGS 2026』の発表内容まとめ【モンスターハンター】",
       "url": "https://gamepedia.jp/mh-wilds/archives/13604",
       "host": "gamepedia.jp",
-      "source": "gamepedia.jp",
+      "source": "攻略大百科",
       "summary": "",
       "publishedAt": "2026-09-24T06:06:45.000Z",
       "image": "https://tfi.gamepedia.jp/image/w=1200,h=630,fit=pad,f=webp/puppeteer.gamepedia.jp/gamepedia.jp/mh-wilds/thumbnail/13604/f1f7a03202a53a362468a40b4d16c0c3",
