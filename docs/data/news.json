@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-27T08:30:16.000Z",
+  "updatedAt": "2026-09-27T09:00:14.438Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 47,
-  "todayCount": 15,
+  "total": 48,
+  "todayCount": 17,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 13
+      "count": 14
     },
     {
       "id": "sale",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 6
+      "count": 7
     },
     {
       "id": "outlanders",
@@ -108,18 +108,18 @@
     },
     {
       "name": "AppMedia",
-      "count": 6
+      "count": 7
     },
     {
       "name": "AppBank",
       "count": 2
     },
     {
-      "name": "getnews.jp",
+      "name": "ガジェット通信",
       "count": 2
     },
     {
-      "name": "dengekionline.com",
+      "name": "電撃オンライン",
       "count": 1
     },
     {
@@ -201,7 +201,7 @@
       "summary": "",
       "url": "https://dengekionline.com/article/202609/89199",
       "image": "https://cimg.kgl-systems.io/camion/files/89199/ogp_QnPK.jpg?x=1280",
-      "leadSource": "dengekionline.com",
+      "leadSource": "電撃オンライン",
       "publishedAt": "2026-09-27T04:30:00.000Z",
       "sourceCount": 2,
       "articleCount": 3,
@@ -253,7 +253,7 @@
         {
           "title": "『モンハンNow』ここから始める5ステップ拡張版!! 新規＆復帰ハンターに伝えたい便利な機能たち",
           "url": "https://getnews.jp/archives/3745475",
-          "source": "getnews.jp",
+          "source": "ガジェット通信",
           "publishedAt": "2026-09-26T12:00:12.000Z",
           "isPR": false
         },
@@ -296,13 +296,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-27T08:00:15.803Z",
-    "previousCount": 51,
+    "previousAt": "2026-09-27T08:30:16.000Z",
+    "previousCount": 47,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-27T09:00:16.000Z",
+  "nextUpdateAt": "2026-09-27T09:30:14.438Z",
   "items": [
+    {
+      "id": "0bc99c29f87d",
+      "title": "【モンハンストーリーズ3】おすすめ絆遺伝子【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79862321",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-09-27T07:27:59.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/191734_k1xrs.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "ced5755e5db0",
       "title": "【モンハンストーリーズ3】おすすめオトモン｜進行度別に掲載【MHST3】",
@@ -322,7 +343,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b76a54b5b309",
@@ -371,7 +392,7 @@
       "title": "【最大87％オフ】今週のお得ゲーム10選：『モンハンワイルズ』『まのさば』『オホーツクに消ゆ』『幻想少女大戦』などSwitch・Switch2ソフトまとめ",
       "url": "https://dengekionline.com/article/202609/89199",
       "host": "dengekionline.com",
-      "source": "dengekionline.com",
+      "source": "電撃オンライン",
       "summary": "",
       "publishedAt": "2026-09-27T04:30:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/89199/ogp_QnPK.jpg?x=1280",
@@ -500,6 +521,27 @@
       "summary": "",
       "publishedAt": "2026-09-27T00:46:23.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577281.png?date=1789571405",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "d8b95bbbc335",
+      "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/563040",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-26T22:48:19.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563040.png?date=1789770455",
       "categories": [
         "other"
       ],
@@ -664,7 +706,7 @@
       "title": "『モンハンNow』ここから始める5ステップ拡張版!! 新規＆復帰ハンターに伝えたい便利な機能たち",
       "url": "https://getnews.jp/archives/3745475",
       "host": "getnews.jp",
-      "source": "getnews.jp",
+      "source": "ガジェット通信",
       "summary": "",
       "publishedAt": "2026-09-26T12:00:12.000Z",
       "image": "https://rensai.jp/wp-content/uploads/2026/09/30e519f0d6f225e60d3a7493a19143aa.jpg",
@@ -896,7 +938,7 @@
       "title": "『モンハンNow』次元亜種武器どうする? 新たなスキルが解放されるから大量出現に参加しておきたい話",
       "url": "https://getnews.jp/archives/3745364",
       "host": "getnews.jp",
-      "source": "getnews.jp",
+      "source": "ガジェット通信",
       "summary": "",
       "publishedAt": "2026-09-25T12:00:05.000Z",
       "image": "https://rensai.jp/wp-content/uploads/2026/09/b0950b9b2c24bb423f543a21bcc04992.jpg",
@@ -1052,27 +1094,6 @@
       ],
       "series": [
         "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d8b95bbbc335",
-      "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563040",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-25T00:42:15.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563040.png?date=1789770455",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
