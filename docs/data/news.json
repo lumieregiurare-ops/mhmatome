@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-27T21:30:16.578Z",
+  "updatedAt": "2026-09-27T22:00:14.183Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 47,
+  "total": 46,
   "todayCount": 1,
   "categories": [
     {
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 32
+      "count": 31
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 29
+      "count": 28
     },
     {
       "id": "rise",
@@ -136,10 +136,6 @@
     },
     {
       "name": "PR TIMES",
-      "count": 1
-    },
-    {
-      "name": "gamereactor.jp",
       "count": 1
     },
     {
@@ -291,12 +287,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-27T21:00:15.754Z",
+    "previousAt": "2026-09-27T21:30:16.578Z",
     "previousCount": 47,
     "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-27T22:00:16.578Z",
+  "nextUpdateAt": "2026-09-27T22:30:14.183Z",
   "items": [
     {
       "id": "f4f222ac2e2d",
@@ -432,6 +428,27 @@
       "summary": "",
       "publishedAt": "2026-09-27T09:00:27.000Z",
       "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "411bb4076b94",
+      "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/575038",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-27T08:47:10.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575038.png?date=1789770323",
       "categories": [
         "other"
       ],
@@ -864,27 +881,6 @@
       "isNew": false
     },
     {
-      "id": "411bb4076b94",
-      "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/575038",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-26T04:24:09.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575038.png?date=1789770323",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "1dc0ec8a403a",
       "title": "【初心者&復帰勢へ】アセンダンスまでに作るべき最終・抜刀大剣装備を紹介！【モンハンワイルズ】【MHWilds】【mhws】",
       "url": "https://youtu.be/m6iqpHYlV90?si",
@@ -1109,27 +1105,6 @@
       ],
       "series": [
         "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "7a02484c6f69",
-      "title": "モンスターハンターワイルズ - 1周年記念メッセージ",
-      "url": "https://www.gamereactor.jp/video/785363/-+1/",
-      "host": "gamereactor.jp",
-      "source": "gamereactor.jp",
-      "summary": "",
-      "publishedAt": "2026-09-25T06:59:34.000Z",
-      "image": "https://www.gamereactor.jp/media/grtv/53/785363_w1600.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
