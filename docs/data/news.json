@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-27T18:00:15.816Z",
+  "updatedAt": "2026-09-27T18:30:14.089Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 48,
+  "total": 46,
   "todayCount": 0,
   "categories": [
     {
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 33
+      "count": 31
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 29
+      "count": 28
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 4
+      "count": 3
     },
     {
       "id": "now",
@@ -104,7 +104,7 @@
     },
     {
       "name": "YouTube",
-      "count": 7
+      "count": 6
     },
     {
       "name": "ガジェット通信",
@@ -123,7 +123,7 @@
       "count": 1
     },
     {
-      "name": "realsound.jp",
+      "name": "Real Sound",
       "count": 1
     },
     {
@@ -136,10 +136,6 @@
     },
     {
       "name": "PR TIMES",
-      "count": 1
-    },
-    {
-      "name": "gamereactor.jp",
       "count": 1
     },
     {
@@ -321,12 +317,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-27T17:30:19.034Z",
+    "previousAt": "2026-09-27T18:00:15.816Z",
     "previousCount": 48,
     "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-27T18:30:15.816Z",
+  "nextUpdateAt": "2026-09-27T19:00:14.089Z",
   "items": [
     {
       "id": "267ef0905690",
@@ -522,7 +518,7 @@
       "title": "“モンハン苦手”な筆者が「もっと狩りたい！」 『ワイルズ：アセンダンス』試遊で夢中になったブーストの爽快感",
       "url": "https://realsound.jp/tech/2026/09/post-2534299.html",
       "host": "realsound.jp",
-      "source": "realsound.jp",
+      "source": "Real Sound",
       "summary": "",
       "publishedAt": "2026-09-27T03:00:21.000Z",
       "image": "https://realsound.jp/wp-content/uploads/2026/09/20260925-mhwa-99.jpg",
@@ -692,6 +688,27 @@
       "summary": "",
       "publishedAt": "2026-09-26T18:03:04.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545421.png?date=1771483075",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "0b68bd1287fd",
+      "title": "【アセンダンス】片手剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/577790",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-26T16:29:41.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577790.png?date=1789746410",
       "categories": [
         "other"
       ],
@@ -937,27 +954,6 @@
       "isNew": false
     },
     {
-      "id": "0b68bd1287fd",
-      "title": "【アセンダンス】片手剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/577790",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-25T20:09:14.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577790.png?date=1789746410",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "d605748fb698",
       "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/574841",
@@ -1147,27 +1143,6 @@
       "isNew": false
     },
     {
-      "id": "7a02484c6f69",
-      "title": "モンスターハンターワイルズ - 1周年記念メッセージ",
-      "url": "https://www.gamereactor.jp/video/785363/-+1/",
-      "host": "gamereactor.jp",
-      "source": "gamereactor.jp",
-      "summary": "",
-      "publishedAt": "2026-09-25T06:59:34.000Z",
-      "image": "https://www.gamereactor.jp/media/grtv/53/785363_w1600.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "0be22d95d9f4",
       "title": "【サンブレイク】ラージャンの弱点と攻略【モンハンライズ】",
       "url": "https://gamewith.jp/mhrize/article/show/256655",
@@ -1286,27 +1261,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "efa10b565b20",
-      "title": "【MHWs】歴戦王アルシュベルド 08'09 チャージアックス ソロ(TA wiki rules)/Tempered Arkveld Charge Blade",
-      "url": "https://youtu.be/cLovrORc8Iw?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-09-24T18:25:24.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "world"
       ],
       "isOfficial": false,
       "isPR": false,
