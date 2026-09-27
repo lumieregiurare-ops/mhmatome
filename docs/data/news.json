@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-09-27T06:00:14.121Z",
+  "updatedAt": "2026-09-27T06:30:14.362Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 52,
+  "total": 50,
   "todayCount": 14,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 3
+      "count": 2
     },
     {
       "id": "update",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 13
+      "count": 12
     },
     {
       "id": "sale",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 30
+      "count": 28
     },
     {
       "id": "rise",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 20
+      "count": 19
     },
     {
       "name": "YouTube",
@@ -115,7 +115,7 @@
       "count": 2
     },
     {
-      "name": "getnews.jp",
+      "name": "ガジェット通信",
       "count": 2
     },
     {
@@ -123,7 +123,7 @@
       "count": 1
     },
     {
-      "name": "realsound.jp",
+      "name": "Real Sound",
       "count": 1
     },
     {
@@ -147,11 +147,7 @@
       "count": 1
     },
     {
-      "name": "walkerplus.com",
-      "count": 1
-    },
-    {
-      "name": "攻略大百科",
+      "name": "ウォーカープラス",
       "count": 1
     },
     {
@@ -225,7 +221,7 @@
         {
           "title": "『モンハンNow』ここから始める5ステップ拡張版!! 新規＆復帰ハンターに伝えたい便利な機能たち",
           "url": "https://getnews.jp/archives/3745475",
-          "source": "getnews.jp",
+          "source": "ガジェット通信",
           "publishedAt": "2026-09-26T12:00:12.000Z",
           "isPR": false
         },
@@ -296,12 +292,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-27T05:30:16.751Z",
-    "previousCount": 51,
-    "newCount": 1
+    "previousAt": "2026-09-27T06:00:14.121Z",
+    "previousCount": 52,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-27T06:30:14.121Z",
+  "nextUpdateAt": "2026-09-27T07:00:14.362Z",
   "items": [
     {
       "id": "cb811147bbe9",
@@ -372,7 +368,7 @@
       "title": "“モンハン苦手”な筆者が「もっと狩りたい！」 『ワイルズ：アセンダンス』試遊で夢中になったブーストの爽快感",
       "url": "https://realsound.jp/tech/2026/09/post-2534299.html",
       "host": "realsound.jp",
-      "source": "realsound.jp",
+      "source": "Real Sound",
       "summary": "",
       "publishedAt": "2026-09-27T03:00:21.000Z",
       "image": "https://realsound.jp/wp-content/uploads/2026/09/20260925-mhwa-99.jpg",
@@ -531,7 +527,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5fc879b1cca5",
@@ -541,7 +537,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-09-26T19:38:52.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545381.png?date=1771384851",
       "categories": [
         "guide"
       ],
@@ -643,7 +639,7 @@
       "title": "『モンハンNow』ここから始める5ステップ拡張版!! 新規＆復帰ハンターに伝えたい便利な機能たち",
       "url": "https://getnews.jp/archives/3745475",
       "host": "getnews.jp",
-      "source": "getnews.jp",
+      "source": "ガジェット通信",
       "summary": "",
       "publishedAt": "2026-09-26T12:00:12.000Z",
       "image": "https://rensai.jp/wp-content/uploads/2026/09/30e519f0d6f225e60d3a7493a19143aa.jpg",
@@ -896,7 +892,7 @@
       "title": "『モンハンNow』次元亜種武器どうする? 新たなスキルが解放されるから大量出現に参加しておきたい話",
       "url": "https://getnews.jp/archives/3745364",
       "host": "getnews.jp",
-      "source": "getnews.jp",
+      "source": "ガジェット通信",
       "summary": "",
       "publishedAt": "2026-09-25T12:00:05.000Z",
       "image": "https://rensai.jp/wp-content/uploads/2026/09/b0950b9b2c24bb423f543a21bcc04992.jpg",
@@ -1165,27 +1161,6 @@
       "isNew": false
     },
     {
-      "id": "c7f9d0b321c3",
-      "title": "【モンハンワイルズ】装飾品集めの効率的なやり方【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/487794",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-24T12:01:06.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/487794.png?date=1740863355",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "8171944c1821",
       "title": "【モンハンワイルズ】今後Switch2版で遊ぶ人へゴグマジオスに挑む！攻略難易度SSS⁈",
       "url": "https://youtu.be/KbrXYA5NFT8",
@@ -1339,7 +1314,7 @@
       "title": "着せ替えできるアイルーのぬいぐるみは数量限定！USJのモンハングッズはコレが買い",
       "url": "https://www.walkerplus.com/article/1068530/",
       "host": "walkerplus.com",
-      "source": "walkerplus.com",
+      "source": "ウォーカープラス",
       "summary": "",
       "publishedAt": "2026-09-24T07:00:00.000Z",
       "image": "https://news.walkerplus.com/article/1068530/10653579_615.jpg",
@@ -1347,27 +1322,6 @@
         "goods"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "29d88fc359b4",
-      "title": "【モンハンワイルズ】09/16の『カプコンスポットライト｜TGS 2026』の発表内容まとめ【モンスターハンター】",
-      "url": "https://gamepedia.jp/mh-wilds/archives/13604",
-      "host": "gamepedia.jp",
-      "source": "攻略大百科",
-      "summary": "",
-      "publishedAt": "2026-09-24T06:06:45.000Z",
-      "image": "https://tfi.gamepedia.jp/image/w=1200,h=630,fit=pad,f=webp/puppeteer.gamepedia.jp/gamepedia.jp/mh-wilds/thumbnail/13604/f1f7a03202a53a362468a40b4d16c0c3",
-      "categories": [
-        "new"
-      ],
-      "series": [
-        "wilds"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
