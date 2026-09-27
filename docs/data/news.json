@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T15:30:15.213Z",
+  "updatedAt": "2026-09-27T16:00:17.262Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 11
+      "count": 12
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 34
+      "count": 33
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 30
+      "count": 29
     },
     {
       "id": "rise",
@@ -84,7 +84,7 @@
     {
       "id": "now",
       "label": "Now",
-      "count": 5
+      "count": 6
     },
     {
       "id": "stories",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 25
+      "count": 26
     },
     {
       "name": "YouTube",
@@ -136,10 +136,6 @@
     },
     {
       "name": "PR TIMES",
-      "count": 1
-    },
-    {
-      "name": "gamereactor.jp",
       "count": 1
     },
     {
@@ -325,12 +321,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-27T15:00:20.263Z",
-    "previousCount": 50,
+    "previousAt": "2026-09-27T15:30:15.213Z",
+    "previousCount": 49,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-27T16:00:15.213Z",
+  "nextUpdateAt": "2026-09-27T16:30:17.262Z",
   "items": [
     {
       "id": "267ef0905690",
@@ -1074,7 +1070,7 @@
       "source": "ゲームハック",
       "summary": "",
       "publishedAt": "2026-09-25T09:53:07.000Z",
-      "image": "",
+      "image": "https://prcdn.freetls.fastly.net/release_image/13450/6017/13450-6017-e4e12b57eaa8e2683931bc768c150475-1298x729.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "categories": [
         "other"
       ],
@@ -1128,27 +1124,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "7a02484c6f69",
-      "title": "モンスターハンターワイルズ - 1周年記念メッセージ",
-      "url": "https://www.gamereactor.jp/video/785363/-+1/",
-      "host": "gamereactor.jp",
-      "source": "gamereactor.jp",
-      "summary": "",
-      "publishedAt": "2026-09-25T06:59:34.000Z",
-      "image": "https://www.gamereactor.jp/media/grtv/53/785363_w1600.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "0be22d95d9f4",
@@ -1242,7 +1217,7 @@
       "source": "グリーンべると",
       "summary": "",
       "publishedAt": "2026-09-25T01:47:11.000Z",
-      "image": "",
+      "image": "https://web-greenbelt.jp/wordpress/wp-content/uploads/2026/09/フォトセッション１.jpg",
       "categories": [
         "community"
       ],
@@ -1336,6 +1311,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "5aa8a6bdba12",
+      "title": "【モンハンナウ】課金要素(ショップ)とおすすめアイテム【モンハンNow】",
+      "url": "https://gamewith.jp/monsterhunternow/413978",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-24T16:43:03.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/413978.png?date=1694661453",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "1d541187e86c",
