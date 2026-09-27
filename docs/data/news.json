@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-09-27T08:00:15.803Z",
+  "updatedAt": "2026-09-27T08:30:16.000Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 51,
-  "todayCount": 17,
+  "total": 47,
+  "todayCount": 15,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 2
+      "count": 1
     },
     {
       "id": "update",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 15
+      "count": 13
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 32
+      "count": 31
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 29
+      "count": 28
     },
     {
       "id": "rise",
@@ -79,17 +79,17 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 5
+      "count": 4
     },
     {
       "id": "now",
       "label": "Now",
-      "count": 6
+      "count": 5
     },
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 8
+      "count": 6
     },
     {
       "id": "outlanders",
@@ -100,26 +100,26 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 21
+      "count": 20
     },
     {
       "name": "YouTube",
-      "count": 10
+      "count": 9
     },
     {
       "name": "AppMedia",
-      "count": 8
+      "count": 6
     },
     {
       "name": "AppBank",
       "count": 2
     },
     {
-      "name": "ガジェット通信",
+      "name": "getnews.jp",
       "count": 2
     },
     {
-      "name": "電撃オンライン",
+      "name": "dengekionline.com",
       "count": 1
     },
     {
@@ -201,7 +201,7 @@
       "summary": "",
       "url": "https://dengekionline.com/article/202609/89199",
       "image": "https://cimg.kgl-systems.io/camion/files/89199/ogp_QnPK.jpg?x=1280",
-      "leadSource": "電撃オンライン",
+      "leadSource": "dengekionline.com",
       "publishedAt": "2026-09-27T04:30:00.000Z",
       "sourceCount": 2,
       "articleCount": 3,
@@ -253,7 +253,7 @@
         {
           "title": "『モンハンNow』ここから始める5ステップ拡張版!! 新規＆復帰ハンターに伝えたい便利な機能たち",
           "url": "https://getnews.jp/archives/3745475",
-          "source": "ガジェット通信",
+          "source": "getnews.jp",
           "publishedAt": "2026-09-26T12:00:12.000Z",
           "isPR": false
         },
@@ -296,13 +296,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-27T07:30:16.795Z",
-    "previousCount": 50,
-    "newCount": 2
+    "previousAt": "2026-09-27T08:00:15.803Z",
+    "previousCount": 51,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-27T08:30:15.803Z",
+  "nextUpdateAt": "2026-09-27T09:00:16.000Z",
   "items": [
+    {
+      "id": "ced5755e5db0",
+      "title": "【モンハンストーリーズ3】おすすめオトモン｜進行度別に掲載【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79833716",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-09-27T07:18:38.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/173337_x0wn3.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "b76a54b5b309",
       "title": "【モンハンストーリーズ3】キャラ・声優一覧【MHST3】",
@@ -350,7 +371,7 @@
       "title": "【最大87％オフ】今週のお得ゲーム10選：『モンハンワイルズ』『まのさば』『オホーツクに消ゆ』『幻想少女大戦』などSwitch・Switch2ソフトまとめ",
       "url": "https://dengekionline.com/article/202609/89199",
       "host": "dengekionline.com",
-      "source": "電撃オンライン",
+      "source": "dengekionline.com",
       "summary": "",
       "publishedAt": "2026-09-27T04:30:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/89199/ogp_QnPK.jpg?x=1280",
@@ -555,48 +576,6 @@
       "isNew": false
     },
     {
-      "id": "1eebd89eab91",
-      "title": "【モンハンストーリーズ3】ゴシャハギの攻略情報｜出現場所・入手素材【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79844462",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-09-26T19:48:05.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2020/01/home_image.png",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "c1ce900bfe63",
-      "title": "【モンハンストーリーズ3】侵獣攻略一覧｜解放できる危惧種まとめ【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79844810",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-09-26T19:42:41.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/105921_5y7po.webp",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "5fc879b1cca5",
       "title": "【モンハンワイルズ】英傑に愛を込めての攻略と報酬【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/545381",
@@ -610,27 +589,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "6fae96ec537f",
-      "title": "【モンハンストーリーズ3】体験版はどこまでできる？｜やっておきたいこと【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79521053",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-09-26T19:37:29.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2025/11/153717_b6xeo.webp",
-      "categories": [
-        "new"
-      ],
-      "series": [
-        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -706,7 +664,7 @@
       "title": "『モンハンNow』ここから始める5ステップ拡張版!! 新規＆復帰ハンターに伝えたい便利な機能たち",
       "url": "https://getnews.jp/archives/3745475",
       "host": "getnews.jp",
-      "source": "ガジェット通信",
+      "source": "getnews.jp",
       "summary": "",
       "publishedAt": "2026-09-26T12:00:12.000Z",
       "image": "https://rensai.jp/wp-content/uploads/2026/09/30e519f0d6f225e60d3a7493a19143aa.jpg",
@@ -938,7 +896,7 @@
       "title": "『モンハンNow』次元亜種武器どうする? 新たなスキルが解放されるから大量出現に参加しておきたい話",
       "url": "https://getnews.jp/archives/3745364",
       "host": "getnews.jp",
-      "source": "ガジェット通信",
+      "source": "getnews.jp",
       "summary": "",
       "publishedAt": "2026-09-25T12:00:05.000Z",
       "image": "https://rensai.jp/wp-content/uploads/2026/09/b0950b9b2c24bb423f543a21bcc04992.jpg",
@@ -1141,7 +1099,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "efa10b565b20",
@@ -1183,7 +1141,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "310bc849231e",
@@ -1305,49 +1263,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ba4f3c0cd605",
-      "title": "『モンハンNow』シーズン11「鳴動! 破砕のイグニッション」が配信開始！",
-      "url": "https://gamewith.jp/gamedb/9422/articles/63637",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-24T08:08:14.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/9422/rectangle/63637.jpg?t=1790237297",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "775cd4712f09",
-      "title": "【最終装備】竜の一矢特化装備で歴戦王ジンダハドのフリチャレに挑む！【モンハンワイルズ/MHWilds】#弓 #最強装備",
-      "url": "https://youtu.be/qb9qTWTH91Q?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-09-24T08:01:47.000Z",
-      "image": "",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds",
-        "world"
       ],
       "isOfficial": false,
       "isPR": false,
