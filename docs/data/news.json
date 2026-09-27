@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-09-27T05:00:17.849Z",
+  "updatedAt": "2026-09-27T05:30:16.751Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 50,
-  "todayCount": 11,
+  "total": 51,
+  "todayCount": 12,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 2
+      "count": 3
     },
     {
       "id": "update",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 5
+      "count": 6
     },
     {
       "id": "outlanders",
@@ -108,7 +108,7 @@
     },
     {
       "name": "AppMedia",
-      "count": 5
+      "count": 6
     },
     {
       "name": "AppBank",
@@ -116,10 +116,6 @@
     },
     {
       "name": "ガジェット通信",
-      "count": 2
-    },
-    {
-      "name": "PR TIMES",
       "count": 2
     },
     {
@@ -131,7 +127,15 @@
       "count": 1
     },
     {
+      "name": "MANTANWEB",
+      "count": 1
+    },
+    {
       "name": "ゲームハック",
+      "count": 1
+    },
+    {
+      "name": "PR TIMES",
       "count": 1
     },
     {
@@ -263,13 +267,13 @@
       ]
     },
     {
-      "id": "864eb7eae5ba",
-      "title": "『モンスターハンターワイルズ：アセンダンス』が「日本ゲーム大賞2026」フューチャー部門を受賞",
+      "id": "2669fa45e7ca",
+      "title": "「日本ゲーム大賞2026」のフューチャー部門にて『モンスターハンターワイルズ：アセンダンス』が受賞！",
       "summary": "",
-      "url": "https://www.appbank.net/2026/09/25/game/3114059.php",
-      "image": "https://www.appbank.net/wp-content/uploads/2026/09/20260924_202426_563_01.webp",
-      "leadSource": "AppBank",
-      "publishedAt": "2026-09-25T09:55:27.000Z",
+      "url": "https://mantan-web.jp/prtimes/article/20260924prt00m200001073a.html",
+      "image": "https://prtimes.jp/img/13450/6077/resize/d13450-6077-df82bb4a7a073cf27723-1.jpg",
+      "leadSource": "MANTANWEB",
+      "publishedAt": "2026-09-25T10:33:32.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
@@ -277,27 +281,27 @@
       ],
       "keywords": [
         "モンスターハンターワイルズ",
-        "アセンダンス",
-        "フューチャー"
+        "フューチャー",
+        "アセンダンス"
       ],
       "articles": [
         {
-          "title": "「日本ゲーム大賞2026」のフューチャー部門にて『モンスターハンターワイルズ：アセンダンス』が受賞！",
-          "url": "https://prtimes.jp/main/html/rd/p/000006077.000013450.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-09-24T05:25:03.000Z",
-          "isPR": true
+          "title": "『モンスターハンターワイルズ：アセンダンス』が「日本ゲーム大賞2026」フューチャー部門を受賞",
+          "url": "https://www.appbank.net/2026/09/25/game/3114059.php",
+          "source": "AppBank",
+          "publishedAt": "2026-09-25T09:55:27.000Z",
+          "isPR": false
         }
       ]
     }
   ],
   "churn": {
-    "previousAt": "2026-09-27T04:30:17.346Z",
+    "previousAt": "2026-09-27T05:00:17.849Z",
     "previousCount": 50,
-    "newCount": 3
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-27T05:30:17.849Z",
+  "nextUpdateAt": "2026-09-27T06:00:16.751Z",
   "items": [
     {
       "id": "cb811147bbe9",
@@ -318,7 +322,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b6dd9f1b9cb3",
@@ -340,7 +344,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "87d79b5376b3",
@@ -361,7 +365,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "50fe21093bea",
@@ -509,6 +513,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "6fae96ec537f",
+      "title": "【モンハンストーリーズ3】体験版はどこまでできる？｜やっておきたいこと【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79521053",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-09-26T19:37:29.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2025/11/153717_b6xeo.webp",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "8c086bb7f518",
@@ -875,6 +900,27 @@
       "summary": "",
       "publishedAt": "2026-09-25T11:33:03.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577281.png?date=1789571405",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "2669fa45e7ca",
+      "title": "「日本ゲーム大賞2026」のフューチャー部門にて『モンスターハンターワイルズ：アセンダンス』が受賞！",
+      "url": "https://mantan-web.jp/prtimes/article/20260924prt00m200001073a.html",
+      "host": "mantan-web.jp",
+      "source": "MANTANWEB",
+      "summary": "",
+      "publishedAt": "2026-09-25T10:33:32.000Z",
+      "image": "https://prtimes.jp/img/13450/6077/resize/d13450-6077-df82bb4a7a073cf27723-1.jpg",
       "categories": [
         "other"
       ],
@@ -1303,27 +1349,6 @@
       ],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "2669fa45e7ca",
-      "title": "「日本ゲーム大賞2026」のフューチャー部門にて『モンスターハンターワイルズ：アセンダンス』が受賞！",
-      "url": "https://prtimes.jp/main/html/rd/p/000006077.000013450.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
-      "summary": "",
-      "publishedAt": "2026-09-24T05:25:03.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/13450/6077/13450-6077-6160910bce1f0c5f38309fd5dc520f47-3840x2160.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
