@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-27T15:00:20.263Z",
+  "updatedAt": "2026-09-27T15:30:15.213Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 50,
+  "total": 49,
   "todayCount": 0,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 13
+      "count": 11
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 33
+      "count": 34
     }
   ],
   "series": [
@@ -84,7 +84,7 @@
     {
       "id": "now",
       "label": "Now",
-      "count": 6
+      "count": 5
     },
     {
       "id": "stories",
@@ -100,11 +100,11 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 26
+      "count": 25
     },
     {
       "name": "YouTube",
-      "count": 8
+      "count": 7
     },
     {
       "name": "ガジェット通信",
@@ -119,7 +119,7 @@
       "count": 1
     },
     {
-      "name": "dengekionline.com",
+      "name": "電撃オンライン",
       "count": 1
     },
     {
@@ -139,6 +139,10 @@
       "count": 1
     },
     {
+      "name": "gamereactor.jp",
+      "count": 1
+    },
+    {
       "name": "IGN Japan",
       "count": 1
     },
@@ -147,7 +151,7 @@
       "count": 1
     },
     {
-      "name": "神ゲー攻略",
+      "name": "kamigame.jp",
       "count": 1
     },
     {
@@ -222,7 +226,7 @@
         {
           "title": "【最大87％オフ】今週のお得ゲーム10選：『モンハンワイルズ』『まのさば』『オホーツクに消ゆ』『幻想少女大戦』などSwitch・Switch2ソフトまとめ",
           "url": "https://dengekionline.com/article/202609/89199",
-          "source": "dengekionline.com",
+          "source": "電撃オンライン",
           "publishedAt": "2026-09-27T04:30:00.000Z",
           "isPR": false
         },
@@ -241,17 +245,17 @@
           "isPR": false
         },
         {
+          "title": "【モンハンワイルズ】英雄の証の解放条件と報酬【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/545421",
+          "source": "GameWith",
+          "publishedAt": "2026-09-26T18:03:04.000Z",
+          "isPR": false
+        },
+        {
           "title": "【モンハンワイルズ】序盤おすすめ装備まとめ｜下位装備おすすめ【モンスターハンターワイルズ】",
           "url": "https://gamewith.jp/mhwilds/485430",
           "source": "GameWith",
           "publishedAt": "2026-09-26T12:19:49.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ】操虫棍の最強装備・おすすめ装備【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/484940",
-          "source": "GameWith",
-          "publishedAt": "2026-09-26T04:55:09.000Z",
           "isPR": false
         }
       ]
@@ -321,12 +325,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-27T14:30:21.267Z",
-    "previousCount": 52,
-    "newCount": 0
+    "previousAt": "2026-09-27T15:00:20.263Z",
+    "previousCount": 50,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-27T15:30:20.263Z",
+  "nextUpdateAt": "2026-09-27T16:00:15.213Z",
   "items": [
     {
       "id": "267ef0905690",
@@ -458,7 +462,7 @@
       "title": "【最大87％オフ】今週のお得ゲーム10選：『モンハンワイルズ』『まのさば』『オホーツクに消ゆ』『幻想少女大戦』などSwitch・Switch2ソフトまとめ",
       "url": "https://dengekionline.com/article/202609/89199",
       "host": "dengekionline.com",
-      "source": "dengekionline.com",
+      "source": "電撃オンライン",
       "summary": "",
       "publishedAt": "2026-09-27T04:30:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/89199/ogp_QnPK.jpg?x=1280",
@@ -642,6 +646,27 @@
       "isNew": false
     },
     {
+      "id": "310bc849231e",
+      "title": "【モンハンワイルズ】英雄の証の解放条件と報酬【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/545421",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-26T18:03:04.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545421.png?date=1771483075",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "8c086bb7f518",
       "title": "【モンハンナウ】モンハンNow感謝祭【3周年記念】【モンハンNow】",
       "url": "https://gamewith.jp/monsterhunternow/article/show/577438",
@@ -757,27 +782,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577734.png?date=1789765976",
       "categories": [
         "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ce5953ef1ee6",
-      "title": "【モンハンワイルズ】操虫棍の最強装備・おすすめ装備【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/484940",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-26T04:55:09.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/484940.png?date=1740711372",
-      "categories": [
-        "guide"
       ],
       "series": [
         "wilds"
@@ -1070,7 +1074,7 @@
       "source": "ゲームハック",
       "summary": "",
       "publishedAt": "2026-09-25T09:53:07.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/13450/6017/13450-6017-e4e12b57eaa8e2683931bc768c150475-1298x729.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1124,6 +1128,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "7a02484c6f69",
+      "title": "モンスターハンターワイルズ - 1周年記念メッセージ",
+      "url": "https://www.gamereactor.jp/video/785363/-+1/",
+      "host": "gamereactor.jp",
+      "source": "gamereactor.jp",
+      "summary": "",
+      "publishedAt": "2026-09-25T06:59:34.000Z",
+      "image": "https://www.gamereactor.jp/media/grtv/53/785363_w1600.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "0be22d95d9f4",
@@ -1217,7 +1242,7 @@
       "source": "グリーンべると",
       "summary": "",
       "publishedAt": "2026-09-25T01:47:11.000Z",
-      "image": "https://web-greenbelt.jp/wordpress/wp-content/uploads/2026/09/フォトセッション１.jpg",
+      "image": "",
       "categories": [
         "community"
       ],
@@ -1277,7 +1302,7 @@
       "title": "【パズドラ】 ジンオウガ亜種の評価と使い道",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQaXRncHVEZFZjSEkwbHBVeHE5bVYwenRNUGpudktFVXNhd0ZWeDViZmVBUUVHanNIM1Y0dFBEakxSSS1fZFpxekRzaFhYbFA2bV9yVG9VZ2pRVHFCOHpBVXZwUWZ0LVhBa1AtTGVjWlItVTZUOWh3M2UxUE52czBHNDU3OFRCTnM3SENXOWtkNXdmWWtWYkQ5dkhXdGlGMFJ0MlFGTWJCRmpYaDM2T1BIcGpvQ1RJd3FrdTFiQV9VYzJqRUVqbFc4djhnVFdXWllldjRibmx0N2JMTjV4aDUtaHpQcFZhbW5KbzZ1RlNCMGRYT1JZbXE0RktiUQ?oc=5",
       "host": "kamigame.jp",
-      "source": "神ゲー攻略",
+      "source": "kamigame.jp",
       "summary": "",
       "publishedAt": "2026-09-24T17:04:10.000Z",
       "image": "",
@@ -1305,48 +1330,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "310bc849231e",
-      "title": "【モンハンワイルズ】英雄の証の解放条件と報酬【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/545421",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-24T16:26:16.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545421.png?date=1771483075",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e47b50142ad2",
-      "title": "【モンハンNow】3周年イベント後半！初心者＆復帰勢はコレだけやれ！太刀のおすすめ装備構成も紹介！",
-      "url": "https://youtu.be/S3MojeUc7ro?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-09-24T15:19:47.000Z",
-      "image": "",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "now"
       ],
       "isOfficial": false,
       "isPR": false,
