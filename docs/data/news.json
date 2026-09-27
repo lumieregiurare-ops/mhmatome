@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-09-27T04:00:15.657Z",
+  "updatedAt": "2026-09-27T04:30:17.346Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 48,
-  "todayCount": 7,
+  "total": 50,
+  "todayCount": 10,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 2
+      "count": 3
     },
     {
       "id": "update",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 11
+      "count": 12
     },
     {
       "id": "sale",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 4
+      "count": 6
     },
     {
       "id": "outlanders",
@@ -108,14 +108,14 @@
     },
     {
       "name": "AppMedia",
-      "count": 4
+      "count": 6
     },
     {
       "name": "AppBank",
       "count": 2
     },
     {
-      "name": "ガジェット通信",
+      "name": "getnews.jp",
       "count": 2
     },
     {
@@ -123,7 +123,7 @@
       "count": 2
     },
     {
-      "name": "Real Sound",
+      "name": "realsound.jp",
       "count": 1
     },
     {
@@ -139,11 +139,11 @@
       "count": 1
     },
     {
-      "name": "web-greenbelt.jp",
+      "name": "グリーンべると",
       "count": 1
     },
     {
-      "name": "ウォーカープラス",
+      "name": "walkerplus.com",
       "count": 1
     },
     {
@@ -191,9 +191,9 @@
           "isPR": true
         },
         {
-          "title": "フィールズ、最新機種『スマスロ モンスターハンターライズ：サンブレイク』のファンイベントを開催 - web-greenbelt.jp",
+          "title": "フィールズ、最新機種『スマスロ モンスターハンターライズ：サンブレイク』のファンイベントを開催",
           "url": "https://web-greenbelt.jp/post-118392/",
-          "source": "web-greenbelt.jp",
+          "source": "グリーンべると",
           "publishedAt": "2026-09-25T01:47:11.000Z",
           "isPR": false
         }
@@ -221,7 +221,7 @@
         {
           "title": "『モンハンNow』ここから始める5ステップ拡張版!! 新規＆復帰ハンターに伝えたい便利な機能たち",
           "url": "https://getnews.jp/archives/3745475",
-          "source": "ガジェット通信",
+          "source": "getnews.jp",
           "publishedAt": "2026-09-26T12:00:12.000Z",
           "isPR": false
         },
@@ -291,19 +291,19 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-27T03:30:17.419Z",
-    "previousCount": 50,
-    "newCount": 6
+    "previousAt": "2026-09-27T04:00:15.657Z",
+    "previousCount": 48,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-27T04:30:15.657Z",
+  "nextUpdateAt": "2026-09-27T05:00:17.346Z",
   "items": [
     {
       "id": "50fe21093bea",
       "title": "“モンハン苦手”な筆者が「もっと狩りたい！」 『ワイルズ：アセンダンス』試遊で夢中になったブーストの爽快感",
       "url": "https://realsound.jp/tech/2026/09/post-2534299.html",
       "host": "realsound.jp",
-      "source": "Real Sound",
+      "source": "realsound.jp",
       "summary": "",
       "publishedAt": "2026-09-27T03:00:21.000Z",
       "image": "https://realsound.jp/wp-content/uploads/2026/09/20260925-mhwa-99.jpg",
@@ -338,7 +338,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b76a54b5b309",
@@ -359,7 +359,28 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "46ab930cbc6c",
+      "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/563077",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-26T21:09:57.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
     },
     {
       "id": "5cb07b2b0347",
@@ -380,7 +401,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1eebd89eab91",
@@ -391,6 +412,27 @@
       "summary": "",
       "publishedAt": "2026-09-26T19:48:05.000Z",
       "image": "https://appmedia.jp/wp-content/uploads/2020/01/home_image.png",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "c1ce900bfe63",
+      "title": "【モンハンストーリーズ3】侵獣攻略一覧｜解放できる危惧種まとめ【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79844810",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-09-26T19:42:41.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/105921_5y7po.webp",
       "categories": [
         "guide"
       ],
@@ -423,6 +465,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "6fae96ec537f",
+      "title": "【モンハンストーリーズ3】体験版はどこまでできる？｜やっておきたいこと【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79521053",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-09-26T19:37:29.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2025/11/153717_b6xeo.webp",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "8c086bb7f518",
@@ -492,7 +555,7 @@
       "title": "『モンハンNow』ここから始める5ステップ拡張版!! 新規＆復帰ハンターに伝えたい便利な機能たち",
       "url": "https://getnews.jp/archives/3745475",
       "host": "getnews.jp",
-      "source": "ガジェット通信",
+      "source": "getnews.jp",
       "summary": "",
       "publishedAt": "2026-09-26T12:00:12.000Z",
       "image": "https://rensai.jp/wp-content/uploads/2026/09/30e519f0d6f225e60d3a7493a19143aa.jpg",
@@ -718,27 +781,6 @@
       "isNew": false
     },
     {
-      "id": "46ab930cbc6c",
-      "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563077",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-25T21:12:18.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "010ece4575cd",
       "title": "【モンハンワイルズ】Switch2版の発売日・最新情報【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/563066",
@@ -806,7 +848,7 @@
       "title": "『モンハンNow』次元亜種武器どうする? 新たなスキルが解放されるから大量出現に参加しておきたい話",
       "url": "https://getnews.jp/archives/3745364",
       "host": "getnews.jp",
-      "source": "ガジェット通信",
+      "source": "getnews.jp",
       "summary": "",
       "publishedAt": "2026-09-25T12:00:05.000Z",
       "image": "https://rensai.jp/wp-content/uploads/2026/09/b0950b9b2c24bb423f543a21bcc04992.jpg",
@@ -950,10 +992,10 @@
     },
     {
       "id": "294435c753fb",
-      "title": "フィールズ、最新機種『スマスロ モンスターハンターライズ：サンブレイク』のファンイベントを開催 - web-greenbelt.jp",
+      "title": "フィールズ、最新機種『スマスロ モンスターハンターライズ：サンブレイク』のファンイベントを開催",
       "url": "https://web-greenbelt.jp/post-118392/",
       "host": "web-greenbelt.jp",
-      "source": "web-greenbelt.jp",
+      "source": "グリーンべると",
       "summary": "",
       "publishedAt": "2026-09-25T01:47:11.000Z",
       "image": "https://web-greenbelt.jp/wordpress/wp-content/uploads/2026/09/フォトセッション１.jpg",
@@ -1200,7 +1242,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7a5df65a44c0",
@@ -1228,7 +1270,7 @@
       "title": "着せ替えできるアイルーのぬいぐるみは数量限定！USJのモンハングッズはコレが買い",
       "url": "https://www.walkerplus.com/article/1068530/",
       "host": "walkerplus.com",
-      "source": "ウォーカープラス",
+      "source": "walkerplus.com",
       "summary": "",
       "publishedAt": "2026-09-24T07:00:00.000Z",
       "image": "https://news.walkerplus.com/article/1068530/10653579_615.jpg",
@@ -1240,7 +1282,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "29d88fc359b4",
