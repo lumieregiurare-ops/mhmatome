@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T17:00:15.874Z",
+  "updatedAt": "2026-09-27T17:30:19.034Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 10
+      "count": 11
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 34
+      "count": 33
     }
   ],
   "series": [
@@ -74,7 +74,7 @@
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 9
+      "count": 10
     },
     {
       "id": "world",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 24
+      "count": 25
     },
     {
       "name": "YouTube",
@@ -148,10 +148,6 @@
     },
     {
       "name": "グリーンべると",
-      "count": 1
-    },
-    {
-      "name": "神ゲー攻略",
       "count": 1
     },
     {
@@ -325,12 +321,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-27T16:30:51.623Z",
-    "previousCount": 49,
+    "previousAt": "2026-09-27T17:00:15.874Z",
+    "previousCount": 48,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-27T17:30:15.874Z",
+  "nextUpdateAt": "2026-09-27T18:00:19.034Z",
   "items": [
     {
       "id": "267ef0905690",
@@ -983,6 +979,27 @@
       "isNew": false
     },
     {
+      "id": "d48108ce6934",
+      "title": "【モンハンライズ】団子(食事)のおすすめと解放クエスト",
+      "url": "https://gamewith.jp/mhrize/article/show/266495",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-25T12:58:13.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/266495.png?date=1624868688",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "a225b373913c",
       "title": "【モンハンライズ】初心者おすすめ武器まとめ【サンブレイク】",
       "url": "https://gamewith.jp/mhrize/article/show/252709",
@@ -1148,7 +1165,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0be22d95d9f4",
@@ -1294,25 +1311,6 @@
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "017edd69eb5d",
-      "title": "【パズドラ】 ジンオウガ亜種の評価と使い道",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQaXRncHVEZFZjSEkwbHBVeHE5bVYwenRNUGpudktFVXNhd0ZWeDViZmVBUUVHanNIM1Y0dFBEakxSSS1fZFpxekRzaFhYbFA2bV9yVG9VZ2pRVHFCOHpBVXZwUWZ0LVhBa1AtTGVjWlItVTZUOWh3M2UxUE52czBHNDU3OFRCTnM3SENXOWtkNXdmWWtWYkQ5dkhXdGlGMFJ0MlFGTWJCRmpYaDM2T1BIcGpvQ1RJd3FrdTFiQV9VYzJqRUVqbFc4djhnVFdXWllldjRibmx0N2JMTjV4aDUtaHpQcFZhbW5KbzZ1RlNCMGRYT1JZbXE0RktiUQ?oc=5",
-      "host": "kamigame.jp",
-      "source": "神ゲー攻略",
-      "summary": "",
-      "publishedAt": "2026-09-24T17:04:10.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
