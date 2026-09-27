@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T12:30:14.918Z",
+  "updatedAt": "2026-09-27T13:00:16.029Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 12
+      "count": 10
     },
     {
       "id": "sale",
@@ -62,19 +62,19 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 32
+      "count": 34
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 29
+      "count": 30
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 8
+      "count": 7
     },
     {
       "id": "world",
@@ -84,12 +84,12 @@
     {
       "id": "now",
       "label": "Now",
-      "count": 5
+      "count": 6
     },
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 1
+      "count": 0
     },
     {
       "id": "outlanders",
@@ -100,15 +100,15 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 24
+      "count": 23
     },
     {
-      "name": "YouTube",
+      "name": "youtu.be",
       "count": 8
     },
     {
-      "name": "ガジェット通信",
-      "count": 3
+      "name": "getnews.jp",
+      "count": 4
     },
     {
       "name": "AppBank",
@@ -116,10 +116,6 @@
     },
     {
       "name": "オタク総研",
-      "count": 1
-    },
-    {
-      "name": "AppMedia",
       "count": 1
     },
     {
@@ -140,6 +136,10 @@
     },
     {
       "name": "PR TIMES",
+      "count": 1
+    },
+    {
+      "name": "gamereactor.jp",
       "count": 1
     },
     {
@@ -209,7 +209,7 @@
       "summary": "",
       "url": "https://getnews.jp/archives/3745520",
       "image": "https://rensai.jp/wp-content/uploads/2026/09/0926_pokemon1-1.jpeg",
-      "leadSource": "ガジェット通信",
+      "leadSource": "getnews.jp",
       "publishedAt": "2026-09-27T09:00:40.000Z",
       "sourceCount": 3,
       "articleCount": 5,
@@ -254,13 +254,13 @@
       ]
     },
     {
-      "id": "8c086bb7f518",
-      "title": "【モンハンナウ】モンハンNow感謝祭【3周年記念】【モンハンNow】",
+      "id": "267ef0905690",
+      "title": "『モンハンNow』ターゲットは何だ!? 毎日出題されるシークレットクエストの対象をいったんまとめてみた",
       "summary": "",
-      "url": "https://gamewith.jp/monsterhunternow/article/show/577438",
-      "image": "https://rensai.jp/wp-content/uploads/2026/09/30e519f0d6f225e60d3a7493a19143aa.jpg",
-      "leadSource": "GameWith",
-      "publishedAt": "2026-09-26T15:25:12.000Z",
+      "url": "https://getnews.jp/archives/3745547",
+      "image": "https://rensai.jp/wp-content/uploads/2026/09/f50b5a07ba219b7f38185e84b23d4ca9.jpg",
+      "leadSource": "getnews.jp",
+      "publishedAt": "2026-09-27T12:30:50.000Z",
       "sourceCount": 2,
       "articleCount": 3,
       "categories": [
@@ -273,10 +273,10 @@
       ],
       "articles": [
         {
-          "title": "『モンハンNow』ここから始める5ステップ拡張版!! 新規＆復帰ハンターに伝えたい便利な機能たち",
-          "url": "https://getnews.jp/archives/3745475",
-          "source": "ガジェット通信",
-          "publishedAt": "2026-09-26T12:00:12.000Z",
+          "title": "【モンハンナウ】モンハンNow感謝祭【3周年記念】【モンハンNow】",
+          "url": "https://gamewith.jp/monsterhunternow/article/show/577438",
+          "source": "GameWith",
+          "publishedAt": "2026-09-26T15:25:12.000Z",
           "isPR": false
         },
         {
@@ -318,13 +318,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-27T12:00:16.289Z",
-    "previousCount": 49,
-    "newCount": 1
+    "previousAt": "2026-09-27T12:30:14.918Z",
+    "previousCount": 48,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-27T13:00:14.918Z",
+  "nextUpdateAt": "2026-09-27T13:30:16.029Z",
   "items": [
+    {
+      "id": "267ef0905690",
+      "title": "『モンハンNow』ターゲットは何だ!? 毎日出題されるシークレットクエストの対象をいったんまとめてみた",
+      "url": "https://getnews.jp/archives/3745547",
+      "host": "getnews.jp",
+      "source": "getnews.jp",
+      "summary": "",
+      "publishedAt": "2026-09-27T12:30:50.000Z",
+      "image": "https://rensai.jp/wp-content/uploads/2026/09/f50b5a07ba219b7f38185e84b23d4ca9.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "505eec7b11f4",
       "title": "日本ゲーム大賞で『モンハンワイルズ』超大型拡張コンテンツがフューチャー部門受賞 投資家にも周知",
@@ -351,7 +372,7 @@
       "title": "【ワイルズ1分】#24 1分実況してみた【MHWilds/魔物獵人荒野】",
       "url": "https://youtu.be/aLUyzSqT7dQ?si",
       "host": "youtu.be",
-      "source": "YouTube",
+      "source": "youtu.be",
       "summary": "",
       "publishedAt": "2026-09-27T09:45:13.000Z",
       "image": "",
@@ -373,7 +394,7 @@
       "title": "【TGS2026】優待枠で最速体験！モンハンアセンダンスのテオ・テスカトル戦を直撮りレポート！#PR",
       "url": "https://youtu.be/urcICx6ujlY",
       "host": "youtu.be",
-      "source": "YouTube",
+      "source": "youtu.be",
       "summary": "",
       "publishedAt": "2026-09-27T09:36:41.000Z",
       "image": "",
@@ -388,32 +409,11 @@
       "isNew": false
     },
     {
-      "id": "be4b63eccda9",
-      "title": "【モンハンストーリーズ3】凶異ビシュテンゴの攻略情報｜出現場所・入手素材【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79839287",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-09-27T09:18:02.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2020/01/home_image.png",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "75cb87b41bd8",
       "title": "Switch2版モンハンワイルズが4990円 →3742円に / バイオ3作も1000円ずつ引かれて超破格【Nintendo Switch2】",
       "url": "https://getnews.jp/archives/3745520",
       "host": "getnews.jp",
-      "source": "ガジェット通信",
+      "source": "getnews.jp",
       "summary": "",
       "publishedAt": "2026-09-27T09:00:40.000Z",
       "image": "https://rensai.jp/wp-content/uploads/2026/09/0926_pokemon1-1.jpeg",
@@ -434,7 +434,7 @@
       "title": "38 モンスターハンターワイルズ｜遊びやすくなっても根っこの楽しさは変わらない大好きなゲーム｜ゲーム語りラジオ【のぶのゲゲゲ】",
       "url": "https://youtu.be/EWooy3M8IyQ",
       "host": "youtu.be",
-      "source": "YouTube",
+      "source": "youtu.be",
       "summary": "",
       "publishedAt": "2026-09-27T09:00:27.000Z",
       "image": "",
@@ -476,7 +476,7 @@
       "title": "【MHWilds】英雄の証 ソロ非火事場 8\"47\"46",
       "url": "https://youtu.be/dcAql7PlTPg?si",
       "host": "youtu.be",
-      "source": "YouTube",
+      "source": "youtu.be",
       "summary": "",
       "publishedAt": "2026-09-27T04:14:09.000Z",
       "image": "",
@@ -706,7 +706,7 @@
       "title": "『モンハンNow』ここから始める5ステップ拡張版!! 新規＆復帰ハンターに伝えたい便利な機能たち",
       "url": "https://getnews.jp/archives/3745475",
       "host": "getnews.jp",
-      "source": "ガジェット通信",
+      "source": "getnews.jp",
       "summary": "",
       "publishedAt": "2026-09-26T12:00:12.000Z",
       "image": "https://rensai.jp/wp-content/uploads/2026/09/30e519f0d6f225e60d3a7493a19143aa.jpg",
@@ -811,7 +811,7 @@
       "title": "【初心者&復帰勢へ】アセンダンスまでに作るべき最終・抜刀大剣装備を紹介！【モンハンワイルズ】【MHWilds】【mhws】",
       "url": "https://youtu.be/m6iqpHYlV90?si",
       "host": "youtu.be",
-      "source": "YouTube",
+      "source": "youtu.be",
       "summary": "",
       "publishedAt": "2026-09-26T03:00:22.000Z",
       "image": "",
@@ -955,27 +955,6 @@
       "isNew": false
     },
     {
-      "id": "887821a5379c",
-      "title": "【サンブレイク】貫通ライト装備のおすすめと立ち回り",
-      "url": "https://gamewith.jp/mhrize/article/show/351636",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-25T13:02:33.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/351636.png?date=1657525563",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "a225b373913c",
       "title": "【モンハンライズ】初心者おすすめ武器まとめ【サンブレイク】",
       "url": "https://gamewith.jp/mhrize/article/show/252709",
@@ -1001,7 +980,7 @@
       "title": "『モンハンNow』次元亜種武器どうする? 新たなスキルが解放されるから大量出現に参加しておきたい話",
       "url": "https://getnews.jp/archives/3745364",
       "host": "getnews.jp",
-      "source": "ガジェット通信",
+      "source": "getnews.jp",
       "summary": "",
       "publishedAt": "2026-09-25T12:00:05.000Z",
       "image": "https://rensai.jp/wp-content/uploads/2026/09/b0950b9b2c24bb423f543a21bcc04992.jpg",
@@ -1067,7 +1046,7 @@
       "source": "ゲームハック",
       "summary": "",
       "publishedAt": "2026-09-25T09:53:07.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/13450/6017/13450-6017-e4e12b57eaa8e2683931bc768c150475-1298x729.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1106,7 +1085,7 @@
       "title": "【Lモンスターハンターライズ:サンブレイク】連続狩猟が生み出すシリーズ最高の期待感！帰ってきたモンハンらしいモンハン！新台解説はレイコにおまかせ❣️🦁👑【スマスロ】【新台最速試打】【VTuber】",
       "url": "https://youtu.be/TN4mVlVw0Jk",
       "host": "youtu.be",
-      "source": "YouTube",
+      "source": "youtu.be",
       "summary": "",
       "publishedAt": "2026-09-25T08:00:03.000Z",
       "image": "",
@@ -1121,6 +1100,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "7a02484c6f69",
+      "title": "モンスターハンターワイルズ - 1周年記念メッセージ",
+      "url": "https://www.gamereactor.jp/video/785363/-+1/",
+      "host": "gamereactor.jp",
+      "source": "gamereactor.jp",
+      "summary": "",
+      "publishedAt": "2026-09-25T06:59:34.000Z",
+      "image": "https://www.gamereactor.jp/media/grtv/53/785363_w1600.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "7720d12daae7",
@@ -1172,7 +1172,7 @@
       "source": "グリーンべると",
       "summary": "",
       "publishedAt": "2026-09-25T01:47:11.000Z",
-      "image": "https://web-greenbelt.jp/wordpress/wp-content/uploads/2026/09/フォトセッション１.jpg",
+      "image": "",
       "categories": [
         "community"
       ],
@@ -1211,7 +1211,7 @@
       "title": "【MHWs】歴戦王アルシュベルド 08'09 チャージアックス ソロ(TA wiki rules)/Tempered Arkveld Charge Blade",
       "url": "https://youtu.be/cLovrORc8Iw?si",
       "host": "youtu.be",
-      "source": "YouTube",
+      "source": "youtu.be",
       "summary": "",
       "publishedAt": "2026-09-24T18:25:24.000Z",
       "image": "",
@@ -1293,7 +1293,7 @@
       "title": "【モンハンNow】3周年イベント後半！初心者＆復帰勢はコレだけやれ！太刀のおすすめ装備構成も紹介！",
       "url": "https://youtu.be/S3MojeUc7ro?si",
       "host": "youtu.be",
-      "source": "YouTube",
+      "source": "youtu.be",
       "summary": "",
       "publishedAt": "2026-09-24T15:19:47.000Z",
       "image": "",
