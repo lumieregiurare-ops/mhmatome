@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-27T16:30:51.623Z",
+  "updatedAt": "2026-09-27T17:00:15.874Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 49,
+  "total": 48,
   "todayCount": 0,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 12
+      "count": 10
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 33
+      "count": 34
     }
   ],
   "series": [
@@ -84,7 +84,7 @@
     {
       "id": "now",
       "label": "Now",
-      "count": 6
+      "count": 5
     },
     {
       "id": "stories",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 26
+      "count": 24
     },
     {
       "name": "YouTube",
@@ -136,6 +136,10 @@
     },
     {
       "name": "PR TIMES",
+      "count": 1
+    },
+    {
+      "name": "gamereactor.jp",
       "count": 1
     },
     {
@@ -321,12 +325,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-27T16:00:17.262Z",
+    "previousAt": "2026-09-27T16:30:51.623Z",
     "previousCount": 49,
-    "newCount": 0
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-27T17:00:51.623Z",
+  "nextUpdateAt": "2026-09-27T17:30:15.874Z",
   "items": [
     {
       "id": "267ef0905690",
@@ -441,6 +445,27 @@
       "summary": "",
       "publishedAt": "2026-09-27T09:00:27.000Z",
       "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "e08e6c8ea2a8",
+      "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/563104",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-27T05:17:04.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563104.png?date=1789770630",
       "categories": [
         "other"
       ],
@@ -810,27 +835,6 @@
       "isNew": false
     },
     {
-      "id": "e08e6c8ea2a8",
-      "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563104",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-26T03:25:09.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563104.png?date=1789770630",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "1dc0ec8a403a",
       "title": "【初心者&復帰勢へ】アセンダンスまでに作るべき最終・抜刀大剣装備を紹介！【モンハンワイルズ】【MHWilds】【mhws】",
       "url": "https://youtu.be/m6iqpHYlV90?si",
@@ -1070,7 +1074,7 @@
       "source": "ゲームハック",
       "summary": "",
       "publishedAt": "2026-09-25T09:53:07.000Z",
-      "image": "",
+      "image": "https://prcdn.freetls.fastly.net/release_image/13450/6017/13450-6017-e4e12b57eaa8e2683931bc768c150475-1298x729.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "categories": [
         "other"
       ],
@@ -1124,6 +1128,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "7a02484c6f69",
+      "title": "モンスターハンターワイルズ - 1周年記念メッセージ",
+      "url": "https://www.gamereactor.jp/video/785363/-+1/",
+      "host": "gamereactor.jp",
+      "source": "gamereactor.jp",
+      "summary": "",
+      "publishedAt": "2026-09-25T06:59:34.000Z",
+      "image": "https://www.gamereactor.jp/media/grtv/53/785363_w1600.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "0be22d95d9f4",
@@ -1217,7 +1242,7 @@
       "source": "グリーンべると",
       "summary": "",
       "publishedAt": "2026-09-25T01:47:11.000Z",
-      "image": "",
+      "image": "https://web-greenbelt.jp/wordpress/wp-content/uploads/2026/09/フォトセッション１.jpg",
       "categories": [
         "community"
       ],
@@ -1288,48 +1313,6 @@
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "9cf4755d715f",
-      "title": "【モンハンワイルズ】護石ガチャの当たりおすすめスキル【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/513752",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-24T16:56:15.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/513752.png?date=1755088232",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "5aa8a6bdba12",
-      "title": "【モンハンナウ】課金要素(ショップ)とおすすめアイテム【モンハンNow】",
-      "url": "https://gamewith.jp/monsterhunternow/413978",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-24T16:43:03.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/413978.png?date=1694661453",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
