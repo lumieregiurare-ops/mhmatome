@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-28T00:30:14.054Z",
+  "updatedAt": "2026-09-28T01:00:14.966Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 46,
+  "total": 44,
   "todayCount": 2,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 11
+      "count": 10
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 31
+      "count": 30
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 28
+      "count": 27
     },
     {
       "id": "rise",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 25
+      "count": 24
     },
     {
       "name": "YouTube",
@@ -131,7 +131,7 @@
       "count": 1
     },
     {
-      "name": "ゲームハック",
+      "name": "gamehack.jp",
       "count": 1
     },
     {
@@ -144,10 +144,6 @@
     },
     {
       "name": "グリーンべると",
-      "count": 1
-    },
-    {
-      "name": "AUTOMATON",
       "count": 1
     }
   ],
@@ -175,7 +171,7 @@
         {
           "title": "カプコンストア_スマスロ『モンスターハンターライズ：サンブレイク』実機展示＆ス",
           "url": "https://gamehack.jp/385230/",
-          "source": "ゲームハック",
+          "source": "gamehack.jp",
           "publishedAt": "2026-09-25T09:53:07.000Z",
           "isPR": false
         },
@@ -287,12 +283,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-28T00:00:17.424Z",
+    "previousAt": "2026-09-28T00:30:14.054Z",
     "previousCount": 46,
     "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-28T01:00:14.054Z",
+  "nextUpdateAt": "2026-09-28T01:30:14.966Z",
   "items": [
     {
       "id": "46ab930cbc6c",
@@ -366,6 +362,27 @@
       "summary": "",
       "publishedAt": "2026-09-27T10:35:00.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260927-00193500-otakulab-000-1-view.jpg?exp=10800",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "4cd467a24cc4",
+      "title": "【アセンダンス】双剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/577734",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-27T10:25:27.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577734.png?date=1789765976",
       "categories": [
         "other"
       ],
@@ -860,27 +877,6 @@
       "isNew": false
     },
     {
-      "id": "4cd467a24cc4",
-      "title": "【アセンダンス】双剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/577734",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-26T05:21:12.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577734.png?date=1789765976",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "1dc0ec8a403a",
       "title": "【初心者&復帰勢へ】アセンダンスまでに作るべき最終・抜刀大剣装備を紹介！【モンハンワイルズ】【MHWilds】【mhws】",
       "url": "https://youtu.be/m6iqpHYlV90?si",
@@ -1054,7 +1050,7 @@
       "title": "カプコンストア_スマスロ『モンスターハンターライズ：サンブレイク』実機展示＆ス",
       "url": "https://gamehack.jp/385230/",
       "host": "gamehack.jp",
-      "source": "ゲームハック",
+      "source": "gamehack.jp",
       "summary": "",
       "publishedAt": "2026-09-25T09:53:07.000Z",
       "image": "https://prcdn.freetls.fastly.net/release_image/13450/6017/13450-6017-e4e12b57eaa8e2683931bc768c150475-1298x729.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
@@ -1211,46 +1207,6 @@
       "series": [
         "rise"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "063eafed88e9",
-      "title": "【モンハンワイルズ】亡霊は明日の戦禍を顧みぬの攻略と報酬｜エクストラミッション7【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/534857",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-25T00:35:24.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/534857.png?date=1765861884",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "1d541187e86c",
-      "title": "カプコンがゲーム開発人材を積極採用。『モンスターハンター』『バイオハザード』など世界的タイトルを手がける、3Dデザイナーやエンジニア、プランナーを幅広く募集",
-      "url": "https://automaton-media.com/articles/newsjp/capcom-20260924-469637/",
-      "host": "automaton-media.com",
-      "source": "AUTOMATON",
-      "summary": "株式会社カプコンは、中途採用人材を募集中だ。",
-      "publishedAt": "2026-09-24T04:14:47.000Z",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/09/capcom-20260924-469637-header.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
