@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-28T19:30:15.356Z",
+  "updatedAt": "2026-09-28T20:00:15.423Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 51,
+  "total": 53,
   "todayCount": 6,
   "categories": [
     {
@@ -22,7 +22,7 @@
     {
       "id": "event",
       "label": "イベント・クエスト",
-      "count": 1
+      "count": 2
     },
     {
       "id": "collab",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 8
+      "count": 9
     },
     {
       "id": "sale",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 5
+      "count": 7
     },
     {
       "id": "outlanders",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 20
+      "count": 19
     },
     {
       "name": "YouTube",
@@ -108,7 +108,7 @@
     },
     {
       "name": "AppMedia",
-      "count": 5
+      "count": 7
     },
     {
       "name": "ガジェット通信",
@@ -124,6 +124,10 @@
     },
     {
       "name": "ゲーム情報！ゲームのはなし",
+      "count": 1
+    },
+    {
+      "name": "gamereactor.jp",
       "count": 1
     },
     {
@@ -143,7 +147,7 @@
       "count": 1
     },
     {
-      "name": "appbank.net",
+      "name": "AppBank",
       "count": 1
     },
     {
@@ -356,7 +360,7 @@
       "summary": "",
       "url": "https://www.appbank.net/2026/09/26/iphone-news/3115599.php",
       "image": "https://www.appbank.net/wp-content/uploads/2026/09/20260925_200416_310_01.webp",
-      "leadSource": "appbank.net",
+      "leadSource": "AppBank",
       "publishedAt": "2026-09-26T12:00:57.000Z",
       "sourceCount": 2,
       "articleCount": 2,
@@ -408,12 +412,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-28T19:00:18.108Z",
-    "previousCount": 52,
-    "newCount": 1
+    "previousAt": "2026-09-28T19:30:15.356Z",
+    "previousCount": 51,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-28T20:00:15.356Z",
+  "nextUpdateAt": "2026-09-28T20:30:15.423Z",
   "items": [
     {
       "id": "6fae96ec537f",
@@ -564,6 +568,48 @@
       "isNew": false
     },
     {
+      "id": "c1ce900bfe63",
+      "title": "【モンハンストーリーズ3】侵獣攻略一覧｜解放できる危惧種まとめ【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79844810",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-09-28T14:12:44.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/105921_5y7po.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "600cd1e4e33d",
+      "title": "【モンハンストーリーズ3】クリア後の追加要素とやり込み要素【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79843649",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-09-28T12:54:03.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/143439_w9hov.webp",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "4df2babe9dd5",
       "title": "【投稿時点60位‼】さーどらくんと歴戦王ジンダハドフリチャレに火事場ライトペアで挑戦！【モンハンワイルズ/凍え知れ安寧の睡郷/FreeChallengeArchtemperedJinDahaadTA】",
       "url": "https://youtu.be/bOpwKTiZvHs",
@@ -668,6 +714,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "3ae747e32454",
+      "title": "モンスターハンターワイルズ - アコード祭典 ルーメンヒム - 冬の季節イベント(PS5)",
+      "url": "https://www.gamereactor.jp/video/775583/-+-+PS5/",
+      "host": "gamereactor.jp",
+      "source": "gamereactor.jp",
+      "summary": "",
+      "publishedAt": "2026-09-28T08:59:55.000Z",
+      "image": "https://www.gamereactor.jp/media/grtv/55/775583_w1600.jpg",
+      "categories": [
+        "event"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "c18008cef808",
@@ -1282,7 +1349,7 @@
       "title": "『モンスターハンターライズ：サンブレイク』実機展示とステッカープレゼント カプコンストアで9月25日から10月4日まで実施",
       "url": "https://www.appbank.net/2026/09/26/iphone-news/3115599.php",
       "host": "appbank.net",
-      "source": "appbank.net",
+      "source": "AppBank",
       "summary": "",
       "publishedAt": "2026-09-26T12:00:57.000Z",
       "image": "https://www.appbank.net/wp-content/uploads/2026/09/20260925_200416_310_01.webp",
@@ -1379,7 +1446,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2e75eb4018e2",
@@ -1437,27 +1504,6 @@
       ],
       "series": [
         "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "866efc731b54",
-      "title": "【モンハンワイルズ】クラノダスの出現場所と入手素材【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/487705",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-25T19:45:27.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/487705.png?date=1740869217",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
