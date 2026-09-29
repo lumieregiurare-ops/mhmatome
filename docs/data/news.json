@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T12:00:16.040Z",
+  "updatedAt": "2026-09-29T12:30:27.401Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 68,
-  "todayCount": 40,
+  "todayCount": 41,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 4
+      "count": 5
     },
     {
       "id": "sale",
@@ -62,19 +62,19 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 53
+      "count": 52
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 32
+      "count": 33
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 1
+      "count": 0
     },
     {
       "id": "world",
@@ -104,7 +104,7 @@
     },
     {
       "name": "YouTube",
-      "count": 8
+      "count": 9
     },
     {
       "name": "電撃オンライン",
@@ -121,10 +121,6 @@
     {
       "name": "AUTOMATON",
       "count": 3
-    },
-    {
-      "name": "AppBank",
-      "count": 2
     },
     {
       "name": "Saiga NAK",
@@ -147,15 +143,19 @@
       "count": 2
     },
     {
-      "name": "ガジェット通信",
+      "name": "getnews.jp",
       "count": 2
     },
     {
-      "name": "news.yahoo.co.jp",
+      "name": "Yahoo!ニュース",
       "count": 2
     },
     {
       "name": "ASCII.jp",
+      "count": 1
+    },
+    {
+      "name": "AppBank",
       "count": 1
     },
     {
@@ -419,7 +419,7 @@
         {
           "title": "『モンハンNow』ターゲットは何だ!? 毎日出題されるシークレットクエストの対象をいったんまとめてみた",
           "url": "https://getnews.jp/archives/3745547",
-          "source": "ガジェット通信",
+          "source": "getnews.jp",
           "publishedAt": "2026-09-27T12:30:50.000Z",
           "isPR": false
         }
@@ -430,7 +430,7 @@
       "title": "スマホで遊べる新作「モンハン」！ 「モンスターハンターアウトランダーズ」が10月29日に配信決定",
       "summary": "カプコンは、Android/iOS用サバイバル・ハンティングアクション「モンスターハンターアウトランダーズ」を10月29日に配信する。基本プレイ無料でビジネスモデルはアイテム課金制。",
       "url": "https://game.watch.impress.co.jp/docs/news/2143990.html",
-      "image": "https://www.capcom.co.jp/ir/news/html/images/ogp/img_ogp_260929.png",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2143/990/1.jpg",
       "leadSource": "GAME Watch",
       "publishedAt": "2026-09-29T02:35:56.000Z",
       "sourceCount": 2,
@@ -484,13 +484,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-29T11:30:14.731Z",
-    "previousCount": 69,
-    "newCount": 0
+    "previousAt": "2026-09-29T12:00:16.040Z",
+    "previousCount": 68,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-29T12:30:16.040Z",
+  "nextUpdateAt": "2026-09-29T13:00:27.401Z",
   "items": [
+    {
+      "id": "1e378849ecad",
+      "title": "【モンハンワイルズ】採取が劇的に快適に！欲張り採取特化マイセットを紹介【装備紹介】",
+      "url": "https://youtu.be/FMlqRc2ptBs?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-09-29T10:02:01.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "d77f36484a4e",
       "title": "『モンスターハンターアウトランダーズ』が10月29日より正式サービス開始！新たな狩猟の旅が始まる",
@@ -793,7 +814,7 @@
       "source": "GAME Watch",
       "summary": "カプコンは、Android/iOS用サバイバル・ハンティングアクション「モンスターハンターアウトランダーズ」を10月29日に配信する。基本プレイ無料でビジネスモデルはアイテム課金制。",
       "publishedAt": "2026-09-29T02:35:56.000Z",
-      "image": "",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2143/990/1.jpg",
       "categories": [
         "new"
       ],
@@ -1064,7 +1085,7 @@
       "source": "GAME Watch",
       "summary": "TiMi Studio Groupは、カプコンの正規ライセンスを受けて開発するスマートフォンゲーム「モンスターハンターアウトランダーズ」を10月29日に配信する。本作は、シリーズおなじみの狩猟体験をスマートフォン向けに最適化しながら、個性豊かな冒険者たちや、広大なフィールドの探索といった独自の要素を取り入れた新作タイ…",
       "publishedAt": "2026-09-29T02:00:00.000Z",
-      "image": "",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2142/614/MO10.jpg",
       "categories": [
         "new",
         "update"
@@ -1673,7 +1694,7 @@
       "title": "『モンハンNow』ターゲットは何だ!? 毎日出題されるシークレットクエストの対象をいったんまとめてみた",
       "url": "https://getnews.jp/archives/3745547",
       "host": "getnews.jp",
-      "source": "ガジェット通信",
+      "source": "getnews.jp",
       "summary": "",
       "publishedAt": "2026-09-27T12:30:50.000Z",
       "image": "https://rensai.jp/wp-content/uploads/2026/09/f50b5a07ba219b7f38185e84b23d4ca9.jpg",
@@ -1712,13 +1733,13 @@
     },
     {
       "id": "505eec7b11f4",
-      "title": "日本ゲーム大賞で『モンハンワイルズ』超大型拡張コンテンツがフューチャー部門受賞 投資家にも周知 (オタク総研)",
-      "url": "https://news.yahoo.co.jp/articles/4e529b1330a34251be02b412e8729305ce1a3600/images/000",
+      "title": "日本ゲーム大賞で『モンハンワイルズ』超大型拡張コンテンツがフューチャー部門受賞 投資家にも周知（オタク総研）",
+      "url": "https://news.yahoo.co.jp/articles/4e529b1330a34251be02b412e8729305ce1a3600",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-09-27T10:35:00.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgMbu883dRi73PsFmkeGlwJVYSy0I_3s5wT4zgBqEBrKOMk66ZpRHPk0U3v6OzzuhDav23CItuI9SOYsi5t_qzip0q5EEVy7lquaNdJvzmooQtRuLRH-xQ1c-QENelKPkzA==",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260927-00193500-otakulab-000-1-view.jpg?exp=10800",
       "categories": [
         "other"
       ],
@@ -1755,7 +1776,7 @@
       "title": "Switch2版モンハンワイルズが4990円 →3742円に / バイオ3作も1000円ずつ引かれて超破格【Nintendo Switch2】",
       "url": "https://getnews.jp/archives/3745520",
       "host": "getnews.jp",
-      "source": "ガジェット通信",
+      "source": "getnews.jp",
       "summary": "",
       "publishedAt": "2026-09-27T09:00:40.000Z",
       "image": "https://rensai.jp/wp-content/uploads/2026/09/0926_pokemon1-1.jpeg",
@@ -1861,7 +1882,7 @@
       "title": "“モンハン苦手”な筆者が「もっと狩りたい！」 『ワイルズ：アセンダンス』試遊で夢中になったブーストの爽快感（リアルサウンド）",
       "url": "https://news.yahoo.co.jp/articles/da66e5aefc4e363d065055db540bd8678fb3aea8",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-09-27T03:04:10.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260927-00010007-realsound-000-1-view.jpg?exp=10800",
@@ -1870,27 +1891,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "c7f79abb3a46",
-      "title": "『モンスターハンターライズ：サンブレイク』実機展示とステッカープレゼント カプコンストアで9月25日から10月4日まで実施",
-      "url": "https://www.appbank.net/2026/09/26/iphone-news/3115599.php",
-      "host": "appbank.net",
-      "source": "AppBank",
-      "summary": "",
-      "publishedAt": "2026-09-26T12:00:57.000Z",
-      "image": "https://www.appbank.net/wp-content/uploads/2026/09/20260925_200416_310_01.webp",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "rise"
       ],
       "isOfficial": false,
       "isPR": false,
