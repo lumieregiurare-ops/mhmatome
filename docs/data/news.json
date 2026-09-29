@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T21:30:17.243Z",
+  "updatedAt": "2026-09-29T22:00:17.859Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 72,
-  "todayCount": 0,
+  "todayCount": 1,
   "categories": [
     {
       "id": "new",
@@ -147,15 +147,19 @@
       "count": 2
     },
     {
-      "name": "news.yahoo.co.jp",
+      "name": "Yahoo!ニュース",
       "count": 2
+    },
+    {
+      "name": "mantan-web.jp",
+      "count": 1
     },
     {
       "name": "Unisba Media",
       "count": 1
     },
     {
-      "name": "ascii.jp",
+      "name": "ASCII.jp",
       "count": 1
     },
     {
@@ -167,7 +171,7 @@
       "count": 1
     },
     {
-      "name": "CGWORLD.jp",
+      "name": "cgworld.jp",
       "count": 1
     },
     {
@@ -175,11 +179,7 @@
       "count": 1
     },
     {
-      "name": "PR TIMES",
-      "count": 1
-    },
-    {
-      "name": "CAPCOM",
+      "name": "capcom.co.jp",
       "count": 1
     },
     {
@@ -207,7 +207,7 @@
       "url": "http://www.gamespark.jp/article/2026/09/29/172900.html",
       "image": "http://www.gamespark.jp/imgs/rss/1199571.jpg",
       "leadSource": "Game*Spark",
-      "publishedAt": "2026-09-29T08:35:00.000Z",
+      "publishedAt": "2026-09-29T20:46:40.000Z",
       "sourceCount": 14,
       "articleCount": 18,
       "categories": [
@@ -221,9 +221,16 @@
       ],
       "articles": [
         {
+          "title": "ついに新たな狩猟の旅が始まる『モンスターハンターアウトランダーズ』2026年10月29日より正式サービス開始！ - mantan-web.jp",
+          "url": "https://mantan-web.jp/prtimes/article/20260929prt00m200000545a.html",
+          "source": "mantan-web.jp",
+          "publishedAt": "2026-09-29T20:46:40.000Z",
+          "isPR": false
+        },
+        {
           "title": "『モンスターハンターアウトランダーズ』が10月29日より正式サービス開始！新たな狩猟の旅が始まる",
           "url": "https://ascii.jp/elem/000/004/438/4438292/",
-          "source": "ascii.jp",
+          "source": "ASCII.jp",
           "publishedAt": "2026-09-29T08:35:00.000Z",
           "isPR": false
         },
@@ -267,13 +274,6 @@
           "url": "https://www.gamer.ne.jp/news/202609290006/",
           "source": "Gamer",
           "publishedAt": "2026-09-29T02:47:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『モンスターハンターアウトランダーズ』2026年10月29日（木）に正式リリース！光稜龍ルガ・エアルダ討伐を先行体験＆開発陣へのインタビューもお届け",
-          "url": "https://gamewith.jp/gamedb/8636/articles/63786",
-          "source": "GameWith",
-          "publishedAt": "2026-09-29T02:28:24.000Z",
           "isPR": false
         }
       ]
@@ -322,7 +322,7 @@
         {
           "title": "モバイルゲーム『モンスターハンターアウトランダーズ』が、 2026年10月29日に配信決定！",
           "url": "https://www.capcom.co.jp/ir/news/html/260929.html",
-          "source": "CAPCOM",
+          "source": "capcom.co.jp",
           "publishedAt": "2026-09-29T01:59:12.000Z",
           "isPR": false
         }
@@ -478,13 +478,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-29T21:00:19.524Z",
+    "previousAt": "2026-09-29T21:30:17.243Z",
     "previousCount": 72,
     "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-29T22:00:17.243Z",
+  "nextUpdateAt": "2026-09-29T22:30:17.859Z",
   "items": [
+    {
+      "id": "0a58d5a81e3b",
+      "title": "ついに新たな狩猟の旅が始まる『モンスターハンターアウトランダーズ』2026年10月29日より正式サービス開始！ - mantan-web.jp",
+      "url": "https://mantan-web.jp/prtimes/article/20260929prt00m200000545a.html",
+      "host": "mantan-web.jp",
+      "source": "mantan-web.jp",
+      "summary": "",
+      "publishedAt": "2026-09-29T20:46:40.000Z",
+      "image": "https://prtimes.jp/img/120153/155/resize/d120153-155-ed30b0b54ab741d04aca-0.png",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "b42595742598",
       "title": "プレステ新作発表で和ゲーラッシュが止まらん..モンハンワイルズアセンダンスで革命起きる？/コナミ大量に新作発表/紅の砂漠に大型DLC/ガンダム新作がAC6過ぎて好き..state Of Play Ruben Dias (SacmmhhKc…",
@@ -595,7 +616,7 @@
       "title": "『モンスターハンターアウトランダーズ』が10月29日より正式サービス開始！新たな狩猟の旅が始まる",
       "url": "https://ascii.jp/elem/000/004/438/4438292/",
       "host": "ascii.jp",
-      "source": "ascii.jp",
+      "source": "ASCII.jp",
       "summary": "",
       "publishedAt": "2026-09-29T08:35:00.000Z",
       "image": "https://ascii.jp/img/2026/09/29/4531679/xl/325447e5c9fc1768.jpg?20200122",
@@ -847,7 +868,7 @@
       "title": "RE ENGINEで実現した『モンスターハンターストーリーズ3 ～運命の双竜～』の幻想的なアニメ調レンダリング～CEDEC 2026（3）",
       "url": "https://cgworld.jp/article/202609-cedec-mhs3.html",
       "host": "cgworld.jp",
-      "source": "CGWORLD.jp",
+      "source": "cgworld.jp",
       "summary": "",
       "publishedAt": "2026-09-29T02:52:38.000Z",
       "image": "https://cgworld.jp/article/assets_c/2026/09/c4c988953fd4a25c7948dbac15111078c984c209-thumb-1000x564-88567.jpg",
@@ -1114,27 +1135,6 @@
       "isNew": false
     },
     {
-      "id": "0a58d5a81e3b",
-      "title": "ついに新たな狩猟の旅が始まる『モンスターハンターアウトランダーズ』2026年10月29日より正式サービス開始！",
-      "url": "https://prtimes.jp/main/html/rd/p/000000155.000120153.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
-      "summary": "",
-      "publishedAt": "2026-09-29T02:00:03.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/120153/155/120153-155-1433aa541a41cab715ed01a172a0b199-2560x1440.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": true,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "8c2e37c83533",
       "title": "『モンスターハンターアウトランダーズ』はかなり“あの頃の狩り”だった。ジャスト回避や奥義の新しさもアクセント、新モンスターにボコられた狩猟体験",
       "url": "https://automaton-media.com/articles/reportjp/20260929-470503/",
@@ -1266,7 +1266,7 @@
       "title": "モバイルゲーム『モンスターハンターアウトランダーズ』が、 2026年10月29日に配信決定！",
       "url": "https://www.capcom.co.jp/ir/news/html/260929.html",
       "host": "capcom.co.jp",
-      "source": "CAPCOM",
+      "source": "capcom.co.jp",
       "summary": "",
       "publishedAt": "2026-09-29T01:59:12.000Z",
       "image": "https://www.capcom.co.jp/ir/news/html/images/ogp/img_ogp_260929.png",
@@ -1772,7 +1772,7 @@
       "title": "日本ゲーム大賞で『モンハンワイルズ』超大型拡張コンテンツがフューチャー部門受賞 投資家にも周知 (オタク総研)",
       "url": "https://news.yahoo.co.jp/articles/4e529b1330a34251be02b412e8729305ce1a3600/images/000",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-09-27T10:35:00.000Z",
       "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgMbu883dRi73PsFmkeGlwJVYSy0I_3s5wT4zgBqEBrKOMk66ZpRHPk0U3v6OzzuhDav23CItuI9SOYsi5t_qzip0q5EEVy7lquaNdJvzmooQtRuLRH-xQ1c-QENelKPkzA==",
@@ -1939,7 +1939,7 @@
       "title": "“モンハン苦手”な筆者が「もっと狩りたい！」 『ワイルズ：アセンダンス』試遊で夢中になったブーストの爽快感（リアルサウンド）",
       "url": "https://news.yahoo.co.jp/articles/da66e5aefc4e363d065055db540bd8678fb3aea8",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-09-27T03:04:10.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260927-00010007-realsound-000-1-view.jpg?exp=10800",
