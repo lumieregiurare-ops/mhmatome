@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-29T06:00:14.338Z",
+  "updatedAt": "2026-09-29T06:30:15.157Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 68,
+  "total": 69,
   "todayCount": 34,
   "categories": [
     {
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 52
+      "count": 53
     }
   ],
   "series": [
@@ -94,7 +94,7 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 27
+      "count": 28
     }
   ],
   "sources": [
@@ -115,12 +115,20 @@
       "count": 3
     },
     {
+      "name": "電ファミニコゲーマー",
+      "count": 3
+    },
+    {
       "name": "AUTOMATON",
       "count": 3
     },
     {
       "name": "ガジェット通信",
       "count": 3
+    },
+    {
+      "name": "Saiga NAK",
+      "count": 2
     },
     {
       "name": "4Gamer",
@@ -139,10 +147,6 @@
       "count": 2
     },
     {
-      "name": "電ファミニコゲーマー",
-      "count": 2
-    },
-    {
       "name": "Yahoo!ニュース",
       "count": 2
     },
@@ -151,7 +155,7 @@
       "count": 2
     },
     {
-      "name": "Saiga NAK",
+      "name": "penguingames.hatenablog.com",
       "count": 1
     },
     {
@@ -163,19 +167,15 @@
       "count": 1
     },
     {
-      "name": "PR TIMES",
+      "name": "prtimes.jp",
       "count": 1
     },
     {
-      "name": "news.denfaminicogamer.jp",
+      "name": "CAPCOM",
       "count": 1
     },
     {
-      "name": "capcom.co.jp",
-      "count": 1
-    },
-    {
-      "name": "gamebiz.jp",
+      "name": "gamebiz【ゲームビズ】",
       "count": 1
     },
     {
@@ -188,10 +188,6 @@
     },
     {
       "name": "iyusuke.jp",
-      "count": 1
-    },
-    {
-      "name": "ｄメニューニュース",
       "count": 1
     },
     {
@@ -212,7 +208,7 @@
       "image": "http://www.gamespark.jp/imgs/rss/1199571.jpg",
       "leadSource": "Game*Spark",
       "publishedAt": "2026-09-29T04:47:10.000Z",
-      "sourceCount": 13,
+      "sourceCount": 12,
       "articleCount": 17,
       "categories": [
         "other",
@@ -283,18 +279,18 @@
       ]
     },
     {
-      "id": "e6d79acfa4bd",
-      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
+      "id": "411bb4076b94",
+      "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
       "summary": "",
-      "url": "https://gamewith.jp/mhwilds/563096",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
+      "url": "https://gamewith.jp/mhwilds/575038",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575038.png?date=1789770323",
       "leadSource": "GameWith",
-      "publishedAt": "2026-09-29T02:03:05.000Z",
+      "publishedAt": "2026-09-29T01:18:17.000Z",
       "sourceCount": 4,
       "articleCount": 13,
       "categories": [
-        "guide",
-        "other"
+        "other",
+        "guide"
       ],
       "keywords": [
         "モンハンワイルズ",
@@ -302,13 +298,6 @@
         "最新情報"
       ],
       "articles": [
-        {
-          "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/575038",
-          "source": "GameWith",
-          "publishedAt": "2026-09-29T01:18:17.000Z",
-          "isPR": false
-        },
         {
           "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/574841",
@@ -321,6 +310,13 @@
           "url": "https://gamewith.jp/mhwilds/563040",
           "source": "GameWith",
           "publishedAt": "2026-09-29T01:17:56.000Z",
+          "isPR": false
+        },
+        {
+          "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
+          "url": "https://gamewith.jp/mhwilds/563096",
+          "source": "GameWith",
+          "publishedAt": "2026-09-29T01:17:37.000Z",
           "isPR": false
         },
         {
@@ -418,7 +414,7 @@
         {
           "title": "モバイルゲーム『モンスターハンターアウトランダーズ』が、 2026年10月29日に配信決定！",
           "url": "https://www.capcom.co.jp/ir/news/html/260929.html",
-          "source": "capcom.co.jp",
+          "source": "CAPCOM",
           "publishedAt": "2026-09-29T01:59:12.000Z",
           "isPR": false
         }
@@ -481,34 +477,13 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-29T05:30:17.383Z",
-    "previousCount": 67,
-    "newCount": 4
+    "previousAt": "2026-09-29T06:00:14.338Z",
+    "previousCount": 68,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-29T06:30:14.338Z",
+  "nextUpdateAt": "2026-09-29T07:00:15.157Z",
   "items": [
-    {
-      "id": "d00c43daa05e",
-      "title": "[Monster Hunter Wilds] Twitchアーカイブ 26/09/28",
-      "url": "https://youtu.be/7B6y2bfwGMk?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-09-29T05:00:21.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
     {
       "id": "a7a8bd4d131b",
       "title": "「モンスターハンターアウトランダーズ」10月29日から正式サービス開始！スマホで狩猟と探索の旅に出よう",
@@ -550,6 +525,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "c94be9cc9402",
+      "title": "モンハンアウトランダーズとは？配信予定日・対応機種・ゲーム内容をわかりやすく解説",
+      "url": "https://penguingames.hatenablog.com/entry/2026/09/29/130510",
+      "host": "penguingames.hatenablog.com",
+      "source": "penguingames.hatenablog.com",
+      "summary": "",
+      "publishedAt": "2026-09-29T04:05:10.000Z",
+      "image": "https://cdn.image.st-hatena.com/image/scale/7e82a64bd0fbbc91d1dd76fe52126b2811710ec3/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsuicapenguin777%2F20260929%2F20260929130444.png",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "c65ba475fef0",
@@ -825,25 +821,6 @@
       "isNew": false
     },
     {
-      "id": "e6d79acfa4bd",
-      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
-      "url": "https://gamewith.jp/mhwilds/563096",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-29T02:03:05.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
-      "categories": [
-        "guide"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "847fd3d78e11",
       "title": "『モンハンアウトランダーズ』10月29日に配信決定！基本プレイ無料のスマホ向け『モンハン』の新作。本格アクションとサバイバルクラフトが楽しめるモバイル向けのタイトル。“聖騎士”モチーフの新古龍も登場",
       "url": "https://news.denfaminicogamer.jp/news/260929k",
@@ -932,7 +909,7 @@
       "title": "ついに新たな狩猟の旅が始まる『モンスターハンターアウトランダーズ』2026年10月29日より正式サービス開始！",
       "url": "https://prtimes.jp/main/html/rd/p/000000155.000120153.html",
       "host": "prtimes.jp",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "summary": "",
       "publishedAt": "2026-09-29T02:00:03.000Z",
       "image": "https://prcdn.freetls.fastly.net/release_image/120153/155/120153-155-1433aa541a41cab715ed01a172a0b199-2560x1440.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
@@ -943,7 +920,7 @@
         "outlanders"
       ],
       "isOfficial": false,
-      "isPR": true,
+      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -1038,7 +1015,7 @@
       "title": "『モンスターハンターアウトランダーズ』カプコンが毎日、かつ徹底的に監修したガチの『モンハン』だった【開発陣インタビュー】",
       "url": "https://news.denfaminicogamer.jp/interview/260929o",
       "host": "news.denfaminicogamer.jp",
-      "source": "news.denfaminicogamer.jp",
+      "source": "電ファミニコゲーマー",
       "summary": "",
       "publishedAt": "2026-09-29T02:00:00.000Z",
       "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/image10-29.jpg",
@@ -1080,7 +1057,7 @@
       "title": "モバイルゲーム『モンスターハンターアウトランダーズ』が、 2026年10月29日に配信決定！",
       "url": "https://www.capcom.co.jp/ir/news/html/260929.html",
       "host": "capcom.co.jp",
-      "source": "capcom.co.jp",
+      "source": "CAPCOM",
       "summary": "",
       "publishedAt": "2026-09-29T01:59:12.000Z",
       "image": "https://www.capcom.co.jp/ir/news/html/images/ogp/img_ogp_260929.png",
@@ -1101,7 +1078,7 @@
       "title": "【TGS2026】『モンスターハンターアウトランダーズ』10月29日に中国大陸除く世界各国で正式リリース 新古龍「ルガ・エアルダ」は“金色の鎧を纏った聖騎士”がコンセプト",
       "url": "https://gamebiz.jp/news/433304",
       "host": "gamebiz.jp",
-      "source": "gamebiz.jp",
+      "source": "gamebiz【ゲームビズ】",
       "summary": "",
       "publishedAt": "2026-09-29T01:30:00.000Z",
       "image": "https://i3.gamebiz.jp/media/4f5f72cb-c401-43fb-8efd-30ec7578610e.jpg",
@@ -1181,6 +1158,25 @@
       "isNew": false
     },
     {
+      "id": "e6d79acfa4bd",
+      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
+      "url": "https://gamewith.jp/mhwilds/563096",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-29T01:17:37.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
+      "categories": [
+        "guide"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "b5d6fe40ab2e",
       "title": "【アセンダンス】護竜リオレイアの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/575037",
@@ -1221,6 +1217,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "1e41d6fd17e8",
+      "title": "BE:FIRST / 【モンスターハンターワイルズ：アセンダンス】圧倒的リアル高画質！ RGB Mini LED液晶レグザで体験！[You're My \"BESTY\" #75]",
+      "url": "https://youtu.be/QTYSoPrWJj4",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-09-28T11:51:33.000Z",
+      "image": "https://i.ytimg.com/vi/QTYSoPrWJj4/maxresdefault.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "1a787e1c00f8",
@@ -1326,7 +1343,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c18008cef808",
@@ -1352,11 +1369,11 @@
     {
       "id": "daa82a038875",
       "title": "香港・奧海城で開催された「ROG 20周年記念イベント」を現地レポート！最新ゲーミング環境で「スト6」「モンハンワイルズ」試遊などを体験",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYzI3TlE4UVFZTElWTm5DSld6XzlIQ013ZkttRmxiZlFnSk5xRWpHcy1wRVlLeGNFQnBzcU9hZ3RfVkRacW15WTlvMUJ5amQwRHQ3dWJJVE1hdDR0VlJQRWx3ajJLdXYxcVZtSUhyRXdGd203NjRydzNmbE5OcDZYYjZIQVI5V09uQlpsUdIBkgFBVV95cUxQOHhLRFloMXByWDBUVmpULTI2bHJjRFo2Z3MtWjlZdkNGWWJmSlVSTng2dGc5WXlfNXNKbjg3TDFSaVZFaHRrcko2TFluLWxRcUZ5WnllU0NaczAzZTNZeGZIWEM4U0tRQ25SSkFKWUlmSHlyeEZ1SjFjelROZm9KdHE2cXFGYm1fcUZ0ZVhFeU81Zw?oc=5",
-      "host": "topics.smt.docomo.ne.jp",
-      "source": "ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX1dwc2VnTHB3TW5jUGVHTTFmeEJQYTFMOTdCZ3RhbGc4dGZnUm1yNjVxUVhINWVrYU9Na1dsdndjbWVTNWZXeHEwX0NLdjd2VTVFeUUtd1ozb1JaMUdzZGhGTHlWdlBpWnFoVTZNZ21VXzVFeUtjenVVLVZXRVdqcGlTRl93Rnpq0gGOAUFVX3lxTE05ckpwWVo5c3JCMHNudjFXMl9fdjExRHNuQ2tmRlZ2NWJid25oMDNjakhyTWxQVnJUZEtlX3BZQm9vRF9HbnFHaGd6R1RCVUVyWjFTVmFVODBYNDNoT0VGYnQxMjNqS3liU2tuN0FzbHpCZG1qbEFLMWFOZ2RZZTh3TUl6ZUtHUERpU2d2M3c?oc=5",
+      "host": "saiganak.com",
+      "source": "Saiga NAK",
       "summary": "",
-      "publishedAt": "2026-09-28T07:40:00.000Z",
+      "publishedAt": "2026-09-28T07:40:38.000Z",
       "image": "",
       "categories": [
         "other"
@@ -1767,7 +1784,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "50fe21093bea",
@@ -1870,7 +1887,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3efd5b83eb08",
