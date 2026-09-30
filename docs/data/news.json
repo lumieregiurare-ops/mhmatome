@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-30T14:00:16.597Z",
+  "updatedAt": "2026-09-30T14:30:16.156Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 72,
-  "todayCount": 26,
+  "total": 77,
+  "todayCount": 31,
   "categories": [
     {
       "id": "new",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 54
+      "count": 59
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 36
+      "count": 38
     },
     {
       "id": "rise",
@@ -79,12 +79,12 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 2
+      "count": 3
     },
     {
       "id": "now",
       "label": "Now",
-      "count": 4
+      "count": 5
     },
     {
       "id": "stories",
@@ -94,17 +94,17 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 26
+      "count": 27
     }
   ],
   "sources": [
     {
       "name": "ゲームウィズ",
-      "count": 26
+      "count": 28
     },
     {
       "name": "YouTube",
-      "count": 8
+      "count": 9
     },
     {
       "name": "電撃オンライン",
@@ -124,6 +124,10 @@
     },
     {
       "name": "ゲーム情報！ゲームのはなし",
+      "count": 2
+    },
+    {
+      "name": "Gamer",
       "count": 2
     },
     {
@@ -159,6 +163,10 @@
       "count": 1
     },
     {
+      "name": "x.com",
+      "count": 1
+    },
+    {
       "name": "게임메카",
       "count": 1
     },
@@ -183,15 +191,11 @@
       "count": 1
     },
     {
-      "name": "Gamer",
-      "count": 1
-    },
-    {
       "name": "Yahoo!ファイナンス",
       "count": 1
     },
     {
-      "name": "Infoseek",
+      "name": "news.infoseek.co.jp",
       "count": 1
     },
     {
@@ -219,9 +223,9 @@
       "url": "https://www.4gamer.net/games/667/G066758/20260929006/",
       "image": "https://www.4gamer.net/games/667/G066758/20260929006/SS/001.jpg",
       "leadSource": "4Gamer",
-      "publishedAt": "2026-09-29T08:35:00.000Z",
+      "publishedAt": "2026-09-30T02:12:48.000Z",
       "sourceCount": 13,
-      "articleCount": 14,
+      "articleCount": 15,
       "categories": [
         "other",
         "new"
@@ -232,6 +236,13 @@
         "サービス"
       ],
       "articles": [
+        {
+          "title": "「モンスターハンターアウトランダーズ」ルガ・エアルダの狩猟を体験！3ボタンで楽しめる「スターティングモード」など開発のこだわりを聞く",
+          "url": "https://www.gamer.ne.jp/news/202609290001/image/1/",
+          "source": "Gamer",
+          "publishedAt": "2026-09-30T02:12:48.000Z",
+          "isPR": false
+        },
         {
           "title": "『モンスターハンターアウトランダーズ』が10月29日より正式サービス開始！新たな狩猟の旅が始まる",
           "url": "https://ascii.jp/elem/000/004/438/4438292/",
@@ -279,13 +290,6 @@
           "url": "https://www.gamer.ne.jp/news/202609290006/",
           "source": "Gamer",
           "publishedAt": "2026-09-29T02:47:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "スマホで遊べる新作「モンハン」！ 「モンスターハンターアウトランダーズ」が10月29日に配信決定",
-          "url": "https://game.watch.impress.co.jp/docs/news/2143990.html",
-          "source": "GAME Watch",
-          "publishedAt": "2026-09-29T02:35:56.000Z",
           "isPR": false
         }
       ]
@@ -437,8 +441,8 @@
       ],
       "articles": [
         {
-          "title": "【試打会レポ】今度の狩りはG数上乗せ!『スマスロ モンスターハンターライズ:サンブレイク』（写真・画像 11/15）",
-          "url": "https://www.sanspo.com/article/20260930-YE6VPNNZTNEGTKCTBXPH6UYOLY/photo/KH2M6CUVPFDGFJIXPNOK7NBTJA",
+          "title": "【試打会レポ】今度の狩りはG数上乗せ!『スマスロ モンスターハンターライズ:サンブレイク』（写真・画像 7/15）",
+          "url": "https://www.sanspo.com/article/20260930-YE6VPNNZTNEGTKCTBXPH6UYOLY/photo/SEJODWGXLVHFZMJSW65WLBVDCM/",
           "source": "sanspo.com",
           "publishedAt": "2026-09-30T04:40:44.000Z",
           "isPR": false
@@ -475,13 +479,35 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-30T13:30:18.894Z",
-    "previousCount": 70,
-    "newCount": 3
+    "previousAt": "2026-09-30T14:00:16.597Z",
+    "previousCount": 72,
+    "newCount": 5
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-30T14:30:16.597Z",
+  "nextUpdateAt": "2026-09-30T15:00:16.156Z",
   "items": [
+    {
+      "id": "e109b7b8a21a",
+      "title": "★10ゾ・シア 太刀ソロ 非火事場 5'39\"68 【MHWilds/PS5】",
+      "url": "https://youtu.be/py2ga-ENIlc?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-09-30T13:26:51.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "bf901c318bf8",
       "title": "歴戦王アルシュベルド 非火事場太刀ソロ捕獲7'12\"42【MHWilds】【PS5】",
@@ -523,7 +549,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a2119f0dcdb7",
@@ -716,8 +742,8 @@
     },
     {
       "id": "60ea4af7c7f6",
-      "title": "【試打会レポ】今度の狩りはG数上乗せ!『スマスロ モンスターハンターライズ:サンブレイク』（写真・画像 11/15）",
-      "url": "https://www.sanspo.com/article/20260930-YE6VPNNZTNEGTKCTBXPH6UYOLY/photo/KH2M6CUVPFDGFJIXPNOK7NBTJA",
+      "title": "【試打会レポ】今度の狩りはG数上乗せ!『スマスロ モンスターハンターライズ:サンブレイク』（写真・画像 7/15）",
+      "url": "https://www.sanspo.com/article/20260930-YE6VPNNZTNEGTKCTBXPH6UYOLY/photo/SEJODWGXLVHFZMJSW65WLBVDCM/",
       "host": "sanspo.com",
       "source": "sanspo.com",
       "summary": "",
@@ -762,7 +788,7 @@
       "source": "ゲーム情報！ゲームのはなし",
       "summary": "",
       "publishedAt": "2026-09-30T03:45:17.000Z",
-      "image": "",
+      "image": "https://gamestalk.net/wp-content/uploads/2026/09/Monster-Hunter-Outlanders_260930.webp",
       "categories": [
         "other"
       ],
@@ -816,6 +842,46 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "96565e49f301",
+      "title": "亜紗@モンハン写真部 (@p3dq4) on X",
+      "url": "https://x.com/intent/like?tweet_id",
+      "host": "x.com",
+      "source": "x.com",
+      "summary": "",
+      "publishedAt": "2026-09-30T03:12:49.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "144aea75fbc3",
+      "title": "「モンスターハンターアウトランダーズ」ルガ・エアルダの狩猟を体験！3ボタンで楽しめる「スターティングモード」など開発のこだわりを聞く",
+      "url": "https://www.gamer.ne.jp/news/202609290001/image/1/",
+      "host": "gamer.ne.jp",
+      "source": "Gamer",
+      "summary": "",
+      "publishedAt": "2026-09-30T02:12:48.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "4b4221ae45e5",
@@ -923,6 +989,27 @@
       "isNew": false
     },
     {
+      "id": "8511963a30d5",
+      "title": "【アセンダンス】チャアクの操作と新要素・ブーストアクション【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/485556",
+      "host": "gamewith.jp",
+      "source": "ゲームウィズ",
+      "summary": "",
+      "publishedAt": "2026-09-30T00:17:10.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485556.png?date=1789754685",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "15df437f504b",
       "title": "【モンハンワイルズ】金のお守りチケットの入手方法と使い道【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/545782",
@@ -1019,6 +1106,27 @@
         "guide"
       ],
       "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "310bc849231e",
+      "title": "【モンハンワイルズ】英雄の証の解放条件と報酬【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/545421",
+      "host": "gamewith.jp",
+      "source": "ゲームウィズ",
+      "summary": "",
+      "publishedAt": "2026-09-29T15:17:13.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545421.png?date=1771483075",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1411,7 +1519,7 @@
       "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-09-29T02:35:56.000Z",
-      "image": "",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2143/990/1.jpg",
       "categories": [
         "new"
       ],
@@ -1600,7 +1708,7 @@
       "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-09-29T02:00:00.000Z",
-      "image": "",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2142/614/MO10.jpg",
       "categories": [
         "other"
       ],
@@ -1618,7 +1726,7 @@
       "title": "ついに新たな狩猟の旅が始まる『モンスターハンターアウトランダーズ』2026年10月29日より正式サービス開始！",
       "url": "https://news.infoseek.co.jp/article/prtimes_000000155_000120153/",
       "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
+      "source": "news.infoseek.co.jp",
       "summary": "",
       "publishedAt": "2026-09-29T02:00:00.000Z",
       "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
@@ -1842,7 +1950,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1a787e1c00f8",
@@ -1852,28 +1960,7 @@
       "source": "ゲーム情報！ゲームのはなし",
       "summary": "",
       "publishedAt": "2026-09-28T09:59:56.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "310bc849231e",
-      "title": "【モンハンワイルズ】英雄の証の解放条件と報酬【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/545421",
-      "host": "gamewith.jp",
-      "source": "ゲームウィズ",
-      "summary": "",
-      "publishedAt": "2026-09-28T09:28:06.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545421.png?date=1771483075",
+      "image": "https://gamestalk.net/wp-content/uploads/2026/09/mhw-ascendance_260928.webp",
       "categories": [
         "other"
       ],
@@ -1905,7 +1992,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c18008cef808",
@@ -1915,7 +2002,7 @@
       "source": "iyusuke.jp",
       "summary": "",
       "publishedAt": "2026-09-28T08:37:23.000Z",
-      "image": "",
+      "image": "https://iyusuke.jp/wp-content/uploads/2026/09/mhws-boostblaser-1.webp",
       "categories": [
         "other"
       ],
@@ -1969,6 +2056,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "cc6cb91e0cc4",
+      "title": "【モンハンナウ】ハロウィン2025の開催期間とクエスト情報【モンハンNow】",
+      "url": "https://gamewith.jp/monsterhunternow/article/show/525279",
+      "host": "gamewith.jp",
+      "source": "ゲームウィズ",
+      "summary": "",
+      "publishedAt": "2026-09-27T18:52:08.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/525279.png?date=1761015015",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "9d8e14b84541",
