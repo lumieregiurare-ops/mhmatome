@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-30T13:00:23.499Z",
+  "updatedAt": "2026-09-30T13:30:18.894Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 74,
+  "total": 70,
   "todayCount": 25,
   "categories": [
     {
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 55
+      "count": 51
     }
   ],
   "series": [
@@ -84,7 +84,7 @@
     {
       "id": "now",
       "label": "Now",
-      "count": 5
+      "count": 2
     },
     {
       "id": "stories",
@@ -100,22 +100,18 @@
   "sources": [
     {
       "name": "ゲームウィズ",
-      "count": 27
+      "count": 24
     },
     {
       "name": "YouTube",
       "count": 8
     },
     {
-      "name": "電撃オンライン",
-      "count": 3
-    },
-    {
       "name": "AUTOMATON",
       "count": 3
     },
     {
-      "name": "CGWORLD.jp",
+      "name": "cgworld.jp",
       "count": 2
     },
     {
@@ -124,6 +120,10 @@
     },
     {
       "name": "ゲーム情報！ゲームのはなし",
+      "count": 2
+    },
+    {
+      "name": "dengekionline.com",
       "count": 2
     },
     {
@@ -151,7 +151,7 @@
       "count": 1
     },
     {
-      "name": "sanspo.com",
+      "name": "サンスポ",
       "count": 1
     },
     {
@@ -159,11 +159,7 @@
       "count": 1
     },
     {
-      "name": "x.com",
-      "count": 1
-    },
-    {
-      "name": "게임메카",
+      "name": "gamemeca.com",
       "count": 1
     },
     {
@@ -171,7 +167,7 @@
       "count": 1
     },
     {
-      "name": "ASCII.jp",
+      "name": "ascii.jp",
       "count": 1
     },
     {
@@ -179,11 +175,15 @@
       "count": 1
     },
     {
-      "name": "gamespark.jp",
+      "name": "Game*Spark",
       "count": 1
     },
     {
       "name": "はてなブログ",
+      "count": 1
+    },
+    {
+      "name": "電撃オンライン",
       "count": 1
     },
     {
@@ -239,7 +239,7 @@
         {
           "title": "『モンスターハンターアウトランダーズ』が10月29日より正式サービス開始！新たな狩猟の旅が始まる",
           "url": "https://ascii.jp/elem/000/004/438/4438292/",
-          "source": "ASCII.jp",
+          "source": "ascii.jp",
           "publishedAt": "2026-09-29T08:35:00.000Z",
           "isPR": false
         },
@@ -260,7 +260,7 @@
         {
           "title": "スマホで狩猟解禁！『モンスターハンターアウトランダーズ』が10月29日正式サービス開始決定ーシリーズP・辻本良三氏らによるメッセージを公開",
           "url": "https://www.gamespark.jp/article/2026/09/29/172900.html",
-          "source": "gamespark.jp",
+          "source": "Game*Spark",
           "publishedAt": "2026-09-29T04:15:03.000Z",
           "isPR": false
         },
@@ -330,7 +330,7 @@
         {
           "title": "『モンスターハンターアウトランダーズ』インタビュー。単なる“スマホ移植”ではない独自要素とは？ 冒険者の切り替えや育成要素を重視した理由に迫る",
           "url": "https://dengekionline.com/article/202609/88759",
-          "source": "電撃オンライン",
+          "source": "dengekionline.com",
           "publishedAt": "2026-09-29T02:00:00.000Z",
           "isPR": false
         },
@@ -443,7 +443,7 @@
         {
           "title": "【試打会レポ】今度の狩りはG数上乗せ!『スマスロ モンスターハンターライズ:サンブレイク』（写真・画像 11/15）",
           "url": "https://www.sanspo.com/article/20260930-YE6VPNNZTNEGTKCTBXPH6UYOLY/photo/KH2M6CUVPFDGFJIXPNOK7NBTJA",
-          "source": "sanspo.com",
+          "source": "サンスポ",
           "publishedAt": "2026-09-30T04:40:44.000Z",
           "isPR": false
         }
@@ -479,12 +479,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-30T12:30:16.844Z",
+    "previousAt": "2026-09-30T13:00:23.499Z",
     "previousCount": 74,
-    "newCount": 2
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-30T13:30:23.499Z",
+  "nextUpdateAt": "2026-09-30T14:00:18.894Z",
   "items": [
     {
       "id": "bf901c318bf8",
@@ -501,6 +501,27 @@
       "series": [
         "wilds",
         "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "a2119f0dcdb7",
+      "title": "【モンスターハンターワイルズ 番外編 】アセンンダンス発売までに武器を全部集めよう！太刀編・後編",
+      "url": "https://youtu.be/ords6VmLXaM?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-09-30T09:45:02.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -534,7 +555,7 @@
       "title": "『モンスターハンターワイルズ』グローバル展開で膨大なカットシーンの英語リップシンクを実現。自動音声アニメーションシステム「SGX」活用と効率化",
       "url": "https://cgworld.jp/special-feature/2609-sgx.html",
       "host": "cgworld.jp",
-      "source": "CGWORLD.jp",
+      "source": "cgworld.jp",
       "summary": "",
       "publishedAt": "2026-09-30T08:36:57.000Z",
       "image": "https://cgworld.jp/special-feature/assets_c/2026/09/07d63e90ee0068022f80312a60a2b948de1ab22f-thumb-1000x563-89289.jpg",
@@ -681,7 +702,7 @@
       "title": "【試打会レポ】今度の狩りはG数上乗せ!『スマスロ モンスターハンターライズ:サンブレイク』（写真・画像 11/15）",
       "url": "https://www.sanspo.com/article/20260930-YE6VPNNZTNEGTKCTBXPH6UYOLY/photo/KH2M6CUVPFDGFJIXPNOK7NBTJA",
       "host": "sanspo.com",
-      "source": "sanspo.com",
+      "source": "サンスポ",
       "summary": "",
       "publishedAt": "2026-09-30T04:40:44.000Z",
       "image": "https://www.sanspo.com/common/images/basic/thumb_default_og.jpg",
@@ -763,7 +784,7 @@
       "title": "25万円台で『モンハンワイルズ』120fps！ 卓上サイズの高コスパゲーミングPC『OMEN 16L』レビュー",
       "url": "https://dengekionline.com/article/202609/87077",
       "host": "dengekionline.com",
-      "source": "電撃オンライン",
+      "source": "dengekionline.com",
       "summary": "",
       "publishedAt": "2026-09-30T03:30:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/87077/ogp_xJgU.jpg?x=1280",
@@ -780,30 +801,11 @@
       "isNew": false
     },
     {
-      "id": "96565e49f301",
-      "title": "亜紗@モンハン写真部 (@p3dq4) on X",
-      "url": "https://x.com/intent/like?tweet_id",
-      "host": "x.com",
-      "source": "x.com",
-      "summary": "",
-      "publishedAt": "2026-09-30T03:12:49.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "4b4221ae45e5",
       "title": "いよいよモバイルへ、「モンスターハンター アウトランダーズ」10月29日発売",
       "url": "https://www.gamemeca.com/ja/view.php?gid",
       "host": "gamemeca.com",
-      "source": "게임메카",
+      "source": "gamemeca.com",
       "summary": "",
       "publishedAt": "2026-09-30T01:11:57.000Z",
       "image": "https://cdn.gamemeca.com/g17/images/common/meca_logo_sns.gif",
@@ -1070,32 +1072,11 @@
       "isNew": false
     },
     {
-      "id": "a2119f0dcdb7",
-      "title": "【モンスターハンターワイルズ 番外編 】アセンンダンス発売までに武器を全部集めよう！ 大剣編・後編",
-      "url": "https://youtu.be/wWW5ZAAz19g?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-09-29T09:45:16.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "d77f36484a4e",
       "title": "『モンスターハンターアウトランダーズ』が10月29日より正式サービス開始！新たな狩猟の旅が始まる",
       "url": "https://ascii.jp/elem/000/004/438/4438292/",
       "host": "ascii.jp",
-      "source": "ASCII.jp",
+      "source": "ascii.jp",
       "summary": "",
       "publishedAt": "2026-09-29T08:35:00.000Z",
       "image": "https://ascii.jp/img/2026/09/29/4531679/xl/325447e5c9fc1768.jpg?20200122",
@@ -1200,7 +1181,7 @@
       "title": "スマホで狩猟解禁！『モンスターハンターアウトランダーズ』が10月29日正式サービス開始決定ーシリーズP・辻本良三氏らによるメッセージを公開",
       "url": "https://www.gamespark.jp/article/2026/09/29/172900.html",
       "host": "gamespark.jp",
-      "source": "gamespark.jp",
+      "source": "Game*Spark",
       "summary": "",
       "publishedAt": "2026-09-29T04:15:03.000Z",
       "image": "https://www.gamespark.jp/imgs/ogp_f/1199571.jpg",
@@ -1305,7 +1286,7 @@
       "title": "RE ENGINEで実現した『モンスターハンターストーリーズ3 ～運命の双竜～』の幻想的なアニメ調レンダリング～CEDEC 2026（3）",
       "url": "https://cgworld.jp/article/202609-cedec-mhs3.html",
       "host": "cgworld.jp",
-      "source": "CGWORLD.jp",
+      "source": "cgworld.jp",
       "summary": "",
       "publishedAt": "2026-09-29T02:52:38.000Z",
       "image": "https://cgworld.jp/article/assets_c/2026/09/c4c988953fd4a25c7948dbac15111078c984c209-thumb-1000x564-88567.jpg",
@@ -1578,7 +1559,7 @@
       "title": "『モンスターハンターアウトランダーズ』インタビュー。単なる“スマホ移植”ではない独自要素とは？ 冒険者の切り替えや育成要素を重視した理由に迫る",
       "url": "https://dengekionline.com/article/202609/88759",
       "host": "dengekionline.com",
-      "source": "電撃オンライン",
+      "source": "dengekionline.com",
       "summary": "",
       "publishedAt": "2026-09-29T02:00:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/88759/ogp_RMIv.jpg?x=1280",
@@ -1890,27 +1871,6 @@
       "isNew": false
     },
     {
-      "id": "63f77a350015",
-      "title": "【モンハンナウ】クエスト一覧【モンハンNow】",
-      "url": "https://gamewith.jp/monsterhunternow/article/show/415865",
-      "host": "gamewith.jp",
-      "source": "ゲームウィズ",
-      "summary": "",
-      "publishedAt": "2026-09-28T08:57:12.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/415865.png?date=1693798655",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "c18008cef808",
       "title": "【アセンダンス】ブーストブレイサーとは？操作方法と全14武器種の新アクションまとめ｜モンハンワイルズ",
       "url": "https://iyusuke.jp/mhws-ascendance-boost-weapons/",
@@ -1966,48 +1926,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4915d2f5bd0c",
-      "title": "【モンハンナウ】集い築け！空飛ぶ探索拠点！の開催情報｜シーズン7【モンハンNow】",
-      "url": "https://gamewith.jp/monsterhunternow/article/show/517648",
-      "host": "gamewith.jp",
-      "source": "ゲームウィズ",
-      "summary": "",
-      "publishedAt": "2026-09-27T13:30:12.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/517648.png?date=1758188685",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "6d30639e484f",
-      "title": "【モンハンナウ】沼地の入手素材と出現モンスター【モンハンNow】",
-      "url": "https://gamewith.jp/monsterhunternow/article/show/413634",
-      "host": "gamewith.jp",
-      "source": "ゲームウィズ",
-      "summary": "",
-      "publishedAt": "2026-09-27T13:11:11.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/413634.png?date=1694418642",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "now"
       ],
       "isOfficial": false,
       "isPR": false,
