@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T14:30:16.156Z",
+  "updatedAt": "2026-09-30T15:00:17.966Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 77,
-  "todayCount": 31,
+  "todayCount": 0,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 8
+      "count": 9
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 59
+      "count": 58
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 38
+      "count": 39
     },
     {
       "id": "rise",
@@ -94,17 +94,21 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 27
+      "count": 26
     }
   ],
   "sources": [
     {
       "name": "ゲームウィズ",
-      "count": 28
+      "count": 29
     },
     {
       "name": "YouTube",
       "count": 9
+    },
+    {
+      "name": "Saiga NAK",
+      "count": 3
     },
     {
       "name": "電撃オンライン",
@@ -119,15 +123,7 @@
       "count": 2
     },
     {
-      "name": "Saiga NAK",
-      "count": 2
-    },
-    {
       "name": "ゲーム情報！ゲームのはなし",
-      "count": 2
-    },
-    {
-      "name": "Gamer",
       "count": 2
     },
     {
@@ -155,7 +151,7 @@
       "count": 1
     },
     {
-      "name": "sanspo.com",
+      "name": "サンスポ",
       "count": 1
     },
     {
@@ -191,6 +187,10 @@
       "count": 1
     },
     {
+      "name": "Gamer",
+      "count": 1
+    },
+    {
       "name": "Yahoo!ファイナンス",
       "count": 1
     },
@@ -207,10 +207,6 @@
       "count": 1
     },
     {
-      "name": "ｄメニューニュース",
-      "count": 1
-    },
-    {
       "name": "IGN Japan",
       "count": 1
     }
@@ -223,9 +219,9 @@
       "url": "https://www.4gamer.net/games/667/G066758/20260929006/",
       "image": "https://www.4gamer.net/games/667/G066758/20260929006/SS/001.jpg",
       "leadSource": "4Gamer",
-      "publishedAt": "2026-09-30T02:12:48.000Z",
+      "publishedAt": "2026-09-29T08:35:00.000Z",
       "sourceCount": 13,
-      "articleCount": 15,
+      "articleCount": 14,
       "categories": [
         "other",
         "new"
@@ -236,13 +232,6 @@
         "サービス"
       ],
       "articles": [
-        {
-          "title": "「モンスターハンターアウトランダーズ」ルガ・エアルダの狩猟を体験！3ボタンで楽しめる「スターティングモード」など開発のこだわりを聞く",
-          "url": "https://www.gamer.ne.jp/news/202609290001/image/1/",
-          "source": "Gamer",
-          "publishedAt": "2026-09-30T02:12:48.000Z",
-          "isPR": false
-        },
         {
           "title": "『モンスターハンターアウトランダーズ』が10月29日より正式サービス開始！新たな狩猟の旅が始まる",
           "url": "https://ascii.jp/elem/000/004/438/4438292/",
@@ -290,6 +279,13 @@
           "url": "https://www.gamer.ne.jp/news/202609290006/",
           "source": "Gamer",
           "publishedAt": "2026-09-29T02:47:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "スマホで遊べる新作「モンハン」！ 「モンスターハンターアウトランダーズ」が10月29日に配信決定",
+          "url": "https://game.watch.impress.co.jp/docs/news/2143990.html",
+          "source": "GAME Watch",
+          "publishedAt": "2026-09-29T02:35:56.000Z",
           "isPR": false
         }
       ]
@@ -352,14 +348,14 @@
       "leadSource": "YouTube",
       "publishedAt": "2026-09-30T09:00:12.000Z",
       "sourceCount": 2,
-      "articleCount": 12,
+      "articleCount": 11,
       "categories": [
         "guide",
         "other"
       ],
       "keywords": [
-        "モンハンワイルズ",
         "アセンダンス",
+        "モンハンワイルズ",
         "最新情報"
       ],
       "articles": [
@@ -443,7 +439,7 @@
         {
           "title": "【試打会レポ】今度の狩りはG数上乗せ!『スマスロ モンスターハンターライズ:サンブレイク』（写真・画像 7/15）",
           "url": "https://www.sanspo.com/article/20260930-YE6VPNNZTNEGTKCTBXPH6UYOLY/photo/SEJODWGXLVHFZMJSW65WLBVDCM/",
-          "source": "sanspo.com",
+          "source": "サンスポ",
           "publishedAt": "2026-09-30T04:40:44.000Z",
           "isPR": false
         }
@@ -479,12 +475,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-30T14:00:16.597Z",
-    "previousCount": 72,
-    "newCount": 5
+    "previousAt": "2026-09-30T14:30:16.156Z",
+    "previousCount": 77,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-30T15:00:16.156Z",
+  "nextUpdateAt": "2026-09-30T15:30:17.966Z",
   "items": [
     {
       "id": "e109b7b8a21a",
@@ -506,7 +502,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "bf901c318bf8",
@@ -583,6 +579,27 @@
       "image": "",
       "categories": [
         "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "010ece4575cd",
+      "title": "【モンハンワイルズ】Switch2版の発売日・最新情報【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/563066",
+      "host": "gamewith.jp",
+      "source": "ゲームウィズ",
+      "summary": "",
+      "publishedAt": "2026-09-30T09:00:10.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563066.png?date=1780886791",
+      "categories": [
+        "new"
       ],
       "series": [
         "wilds"
@@ -745,7 +762,7 @@
       "title": "【試打会レポ】今度の狩りはG数上乗せ!『スマスロ モンスターハンターライズ:サンブレイク』（写真・画像 7/15）",
       "url": "https://www.sanspo.com/article/20260930-YE6VPNNZTNEGTKCTBXPH6UYOLY/photo/SEJODWGXLVHFZMJSW65WLBVDCM/",
       "host": "sanspo.com",
-      "source": "sanspo.com",
+      "source": "サンスポ",
       "summary": "",
       "publishedAt": "2026-09-30T04:40:44.000Z",
       "image": "https://www.sanspo.com/common/images/basic/thumb_default_og.jpg",
@@ -788,7 +805,7 @@
       "source": "ゲーム情報！ゲームのはなし",
       "summary": "",
       "publishedAt": "2026-09-30T03:45:17.000Z",
-      "image": "https://gamestalk.net/wp-content/uploads/2026/09/Monster-Hunter-Outlanders_260930.webp",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -860,28 +877,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "144aea75fbc3",
-      "title": "「モンスターハンターアウトランダーズ」ルガ・エアルダの狩猟を体験！3ボタンで楽しめる「スターティングモード」など開発のこだわりを聞く",
-      "url": "https://www.gamer.ne.jp/news/202609290001/image/1/",
-      "host": "gamer.ne.jp",
-      "source": "Gamer",
-      "summary": "",
-      "publishedAt": "2026-09-30T02:12:48.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4b4221ae45e5",
@@ -1007,7 +1003,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "15df437f504b",
@@ -1132,6 +1128,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "3929c65797e5",
+      "title": "【モンハンワイルズ】巨戟アーティアの厳選方法とおすすめスキル【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/534657",
+      "host": "gamewith.jp",
+      "source": "ゲームウィズ",
+      "summary": "",
+      "publishedAt": "2026-09-29T14:27:47.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/534657.png?date=1765657155",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "b42595742598",
@@ -1848,27 +1865,6 @@
       "isNew": false
     },
     {
-      "id": "010ece4575cd",
-      "title": "【モンハンワイルズ】Switch2版の発売日・最新情報【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563066",
-      "host": "gamewith.jp",
-      "source": "ゲームウィズ",
-      "summary": "",
-      "publishedAt": "2026-09-29T01:17:35.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563066.png?date=1780886791",
-      "categories": [
-        "new"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "40bccce677c8",
       "title": "【アセンダンス】大剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/485475",
@@ -1960,7 +1956,7 @@
       "source": "ゲーム情報！ゲームのはなし",
       "summary": "",
       "publishedAt": "2026-09-28T09:59:56.000Z",
-      "image": "https://gamestalk.net/wp-content/uploads/2026/09/mhw-ascendance_260928.webp",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -2002,7 +1998,7 @@
       "source": "iyusuke.jp",
       "summary": "",
       "publishedAt": "2026-09-28T08:37:23.000Z",
-      "image": "https://iyusuke.jp/wp-content/uploads/2026/09/mhws-boostblaser-1.webp",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -2018,11 +2014,11 @@
     {
       "id": "daa82a038875",
       "title": "香港・奧海城で開催された「ROG 20周年記念イベント」を現地レポート！最新ゲーミング環境で「スト6」「モンハンワイルズ」試遊などを体験",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYzI3TlE4UVFZTElWTm5DSld6XzlIQ013ZkttRmxiZlFnSk5xRWpHcy1wRVlLeGNFQnBzcU9hZ3RfVkRacW15WTlvMUJ5amQwRHQ3dWJJVE1hdDR0VlJQRWx3ajJLdXYxcVZtSUhyRXdGd203NjRydzNmbE5OcDZYYjZIQVI5V09uQlpsUdIBkgFBVV95cUxQOHhLRFloMXByWDBUVmpULTI2bHJjRFo2Z3MtWjlZdkNGWWJmSlVSTng2dGc5WXlfNXNKbjg3TDFSaVZFaHRrcko2TFluLWxRcUZ5WnllU0NaczAzZTNZeGZIWEM4U0tRQ25SSkFKWUlmSHlyeEZ1SjFjelROZm9KdHE2cXFGYm1fcUZ0ZVhFeU81Zw?oc=5",
-      "host": "topics.smt.docomo.ne.jp",
-      "source": "ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX1dwc2VnTHB3TW5jUGVHTTFmeEJQYTFMOTdCZ3RhbGc4dGZnUm1yNjVxUVhINWVrYU9Na1dsdndjbWVTNWZXeHEwX0NLdjd2VTVFeUUtd1ozb1JaMUdzZGhGTHlWdlBpWnFoVTZNZ21VXzVFeUtjenVVLVZXRVdqcGlTRl93Rnpq0gGOAUFVX3lxTE05ckpwWVo5c3JCMHNudjFXMl9fdjExRHNuQ2tmRlZ2NWJid25oMDNjakhyTWxQVnJUZEtlX3BZQm9vRF9HbnFHaGd6R1RCVUVyWjFTVmFVODBYNDNoT0VGYnQxMjNqS3liU2tuN0FzbHpCZG1qbEFLMWFOZ2RZZTh3TUl6ZUtHUERpU2d2M3c?oc=5",
+      "host": "saiganak.com",
+      "source": "Saiga NAK",
       "summary": "",
-      "publishedAt": "2026-09-28T07:40:00.000Z",
+      "publishedAt": "2026-09-28T07:40:38.000Z",
       "image": "",
       "categories": [
         "other"
@@ -2076,7 +2072,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9d8e14b84541",
