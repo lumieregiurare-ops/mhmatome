@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-30T21:30:16.237Z",
+  "updatedAt": "2026-09-30T22:00:15.575Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 77,
+  "total": 78,
   "todayCount": 2,
   "categories": [
     {
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 60
+      "count": 61
     }
   ],
   "series": [
@@ -94,7 +94,7 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 27
+      "count": 28
     }
   ],
   "sources": [
@@ -119,11 +119,15 @@
       "count": 2
     },
     {
+      "name": "PR TIMES",
+      "count": 2
+    },
+    {
       "name": "ゲーム情報！ゲームのはなし",
       "count": 2
     },
     {
-      "name": "電撃オンライン",
+      "name": "dengekionline.com",
       "count": 2
     },
     {
@@ -155,11 +159,7 @@
       "count": 1
     },
     {
-      "name": "サンスポ",
-      "count": 1
-    },
-    {
-      "name": "PR TIMES",
+      "name": "sanspo.com",
       "count": 1
     },
     {
@@ -195,11 +195,11 @@
       "count": 1
     },
     {
-      "name": "Infoseek",
+      "name": "CAPCOM",
       "count": 1
     },
     {
-      "name": "CAPCOM",
+      "name": "gamebiz【ゲームビズ】",
       "count": 1
     },
     {
@@ -298,8 +298,8 @@
       "image": "https://www.inside-games.jp/imgs/ogp_f/1786000.jpg",
       "leadSource": "インサイド",
       "publishedAt": "2026-09-29T02:45:08.000Z",
-      "sourceCount": 4,
-      "articleCount": 5,
+      "sourceCount": 5,
+      "articleCount": 6,
       "categories": [
         "other"
       ],
@@ -326,7 +326,7 @@
         {
           "title": "『モンスターハンターアウトランダーズ』インタビュー。単なる“スマホ移植”ではない独自要素とは？ 冒険者の切り替えや育成要素を重視した理由に迫る",
           "url": "https://dengekionline.com/article/202609/88759",
-          "source": "電撃オンライン",
+          "source": "dengekionline.com",
           "publishedAt": "2026-09-29T02:00:00.000Z",
           "isPR": false
         },
@@ -335,6 +335,13 @@
           "url": "https://game.watch.impress.co.jp/docs/preview/2142614.html",
           "source": "GAME Watch",
           "publishedAt": "2026-09-29T02:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【TGS2026】『モンスターハンターアウトランダーズ』10月29日に中国大陸除く世界各国で正式リリース 新古龍「ルガ・エアルダ」は“金色の鎧を纏った聖騎士”がコンセプト",
+          "url": "https://gamebiz.jp/news/433304",
+          "source": "gamebiz【ゲームビズ】",
+          "publishedAt": "2026-09-29T01:30:00.000Z",
           "isPR": false
         }
       ]
@@ -361,7 +368,7 @@
         {
           "title": "【試打会レポ】今度の狩りはG数上乗せ!『スマスロ モンスターハンターライズ:サンブレイク』（写真・画像 3/15）",
           "url": "https://www.sanspo.com/article/20260930-YE6VPNNZTNEGTKCTBXPH6UYOLY/photo/AYNZ5HAWIRCERNHH7LBOJRGSLQ/",
-          "source": "サンスポ",
+          "source": "sanspo.com",
           "publishedAt": "2026-09-30T04:40:44.000Z",
           "isPR": false
         }
@@ -397,12 +404,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-30T21:00:20.307Z",
+    "previousAt": "2026-09-30T21:30:16.237Z",
     "previousCount": 77,
-    "newCount": 0
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-30T22:00:16.237Z",
+  "nextUpdateAt": "2026-09-30T22:30:15.575Z",
   "items": [
     {
       "id": "141a36ee3b1a",
@@ -703,7 +710,7 @@
       "title": "【試打会レポ】今度の狩りはG数上乗せ!『スマスロ モンスターハンターライズ:サンブレイク』（写真・画像 3/15）",
       "url": "https://www.sanspo.com/article/20260930-YE6VPNNZTNEGTKCTBXPH6UYOLY/photo/AYNZ5HAWIRCERNHH7LBOJRGSLQ/",
       "host": "sanspo.com",
-      "source": "サンスポ",
+      "source": "sanspo.com",
       "summary": "",
       "publishedAt": "2026-09-30T04:40:44.000Z",
       "image": "https://www.sanspo.com/common/images/basic/thumb_default_og.jpg",
@@ -746,7 +753,7 @@
       "source": "ゲーム情報！ゲームのはなし",
       "summary": "",
       "publishedAt": "2026-09-30T03:45:17.000Z",
-      "image": "",
+      "image": "https://gamestalk.net/wp-content/uploads/2026/09/Monster-Hunter-Outlanders_260930.webp",
       "categories": [
         "other"
       ],
@@ -785,7 +792,7 @@
       "title": "25万円台で『モンハンワイルズ』120fps！ 卓上サイズの高コスパゲーミングPC『OMEN 16L』レビュー",
       "url": "https://dengekionline.com/article/202609/87077",
       "host": "dengekionline.com",
-      "source": "電撃オンライン",
+      "source": "dengekionline.com",
       "summary": "",
       "publishedAt": "2026-09-30T03:30:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/87077/ogp_xJgU.jpg?x=1280",
@@ -1579,6 +1586,27 @@
       "isNew": false
     },
     {
+      "id": "0a58d5a81e3b",
+      "title": "ついに新たな狩猟の旅が始まる『モンスターハンターアウトランダーズ』2026年10月29日より正式サービス開始！",
+      "url": "https://prtimes.jp/main/html/rd/p/000000155.000120153.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-09-29T02:00:03.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/120153/155/120153-155-1433aa541a41cab715ed01a172a0b199-2560x1440.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "8c2e37c83533",
       "title": "『モンスターハンターアウトランダーズ』はかなり“あの頃の狩り”だった。ジャスト回避や奥義の新しさもアクセント、新モンスターにボコられた狩猟体験",
       "url": "https://automaton-media.com/articles/reportjp/20260929-470503/",
@@ -1625,7 +1653,7 @@
       "title": "『モンスターハンターアウトランダーズ』インタビュー。単なる“スマホ移植”ではない独自要素とは？ 冒険者の切り替えや育成要素を重視した理由に迫る",
       "url": "https://dengekionline.com/article/202609/88759",
       "host": "dengekionline.com",
-      "source": "電撃オンライン",
+      "source": "dengekionline.com",
       "summary": "",
       "publishedAt": "2026-09-29T02:00:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/88759/ogp_RMIv.jpg?x=1280",
@@ -1650,27 +1678,6 @@
       "summary": "",
       "publishedAt": "2026-09-29T02:00:00.000Z",
       "image": "https://game.watch.impress.co.jp/img/gmw/list/2142/614/MO10.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "0a58d5a81e3b",
-      "title": "ついに新たな狩猟の旅が始まる『モンスターハンターアウトランダーズ』2026年10月29日より正式サービス開始！",
-      "url": "https://news.infoseek.co.jp/article/prtimes_000000155_000120153/",
-      "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
-      "summary": "",
-      "publishedAt": "2026-09-29T02:00:00.000Z",
-      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
       "categories": [
         "other"
       ],
@@ -1724,6 +1731,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "4dd8c6e66d6c",
+      "title": "【TGS2026】『モンスターハンターアウトランダーズ』10月29日に中国大陸除く世界各国で正式リリース 新古龍「ルガ・エアルダ」は“金色の鎧を纏った聖騎士”がコンセプト",
+      "url": "https://gamebiz.jp/news/433304",
+      "host": "gamebiz.jp",
+      "source": "gamebiz【ゲームビズ】",
+      "summary": "",
+      "publishedAt": "2026-09-29T01:30:00.000Z",
+      "image": "https://i3.gamebiz.jp/media/4f5f72cb-c401-43fb-8efd-30ec7578610e.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "778fbb3d5344",
@@ -1880,7 +1908,7 @@
       "source": "ゲーム情報！ゲームのはなし",
       "summary": "",
       "publishedAt": "2026-09-28T09:59:56.000Z",
-      "image": "",
+      "image": "https://gamestalk.net/wp-content/uploads/2026/09/mhw-ascendance_260928.webp",
       "categories": [
         "other"
       ],
@@ -1922,7 +1950,7 @@
       "source": "iyusuke.jp",
       "summary": "",
       "publishedAt": "2026-09-28T08:37:23.000Z",
-      "image": "",
+      "image": "https://iyusuke.jp/wp-content/uploads/2026/09/mhws-boostblaser-1.webp",
       "categories": [
         "other"
       ],
