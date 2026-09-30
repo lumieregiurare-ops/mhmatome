@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-30T13:30:18.894Z",
+  "updatedAt": "2026-09-30T14:00:16.597Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 70,
-  "todayCount": 25,
+  "total": 72,
+  "todayCount": 26,
   "categories": [
     {
       "id": "new",
@@ -52,7 +52,7 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 1
+      "count": 0
     },
     {
       "id": "sales",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 51
+      "count": 54
     }
   ],
   "series": [
@@ -79,12 +79,12 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 3
+      "count": 2
     },
     {
       "id": "now",
       "label": "Now",
-      "count": 2
+      "count": 4
     },
     {
       "id": "stories",
@@ -100,18 +100,22 @@
   "sources": [
     {
       "name": "ゲームウィズ",
-      "count": 24
+      "count": 26
     },
     {
       "name": "YouTube",
       "count": 8
     },
     {
+      "name": "電撃オンライン",
+      "count": 3
+    },
+    {
       "name": "AUTOMATON",
       "count": 3
     },
     {
-      "name": "cgworld.jp",
+      "name": "CGWORLD.jp",
       "count": 2
     },
     {
@@ -120,10 +124,6 @@
     },
     {
       "name": "ゲーム情報！ゲームのはなし",
-      "count": 2
-    },
-    {
-      "name": "dengekionline.com",
       "count": 2
     },
     {
@@ -151,7 +151,7 @@
       "count": 1
     },
     {
-      "name": "サンスポ",
+      "name": "sanspo.com",
       "count": 1
     },
     {
@@ -159,7 +159,7 @@
       "count": 1
     },
     {
-      "name": "gamemeca.com",
+      "name": "게임메카",
       "count": 1
     },
     {
@@ -167,7 +167,7 @@
       "count": 1
     },
     {
-      "name": "ascii.jp",
+      "name": "ASCII.jp",
       "count": 1
     },
     {
@@ -180,10 +180,6 @@
     },
     {
       "name": "はてなブログ",
-      "count": 1
-    },
-    {
-      "name": "電撃オンライン",
       "count": 1
     },
     {
@@ -239,7 +235,7 @@
         {
           "title": "『モンスターハンターアウトランダーズ』が10月29日より正式サービス開始！新たな狩猟の旅が始まる",
           "url": "https://ascii.jp/elem/000/004/438/4438292/",
-          "source": "ascii.jp",
+          "source": "ASCII.jp",
           "publishedAt": "2026-09-29T08:35:00.000Z",
           "isPR": false
         },
@@ -330,7 +326,7 @@
         {
           "title": "『モンスターハンターアウトランダーズ』インタビュー。単なる“スマホ移植”ではない独自要素とは？ 冒険者の切り替えや育成要素を重視した理由に迫る",
           "url": "https://dengekionline.com/article/202609/88759",
-          "source": "dengekionline.com",
+          "source": "電撃オンライン",
           "publishedAt": "2026-09-29T02:00:00.000Z",
           "isPR": false
         },
@@ -443,7 +439,7 @@
         {
           "title": "【試打会レポ】今度の狩りはG数上乗せ!『スマスロ モンスターハンターライズ:サンブレイク』（写真・画像 11/15）",
           "url": "https://www.sanspo.com/article/20260930-YE6VPNNZTNEGTKCTBXPH6UYOLY/photo/KH2M6CUVPFDGFJIXPNOK7NBTJA",
-          "source": "サンスポ",
+          "source": "sanspo.com",
           "publishedAt": "2026-09-30T04:40:44.000Z",
           "isPR": false
         }
@@ -479,12 +475,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-30T13:00:23.499Z",
-    "previousCount": 74,
-    "newCount": 0
+    "previousAt": "2026-09-30T13:30:18.894Z",
+    "previousCount": 70,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-30T14:00:18.894Z",
+  "nextUpdateAt": "2026-09-30T14:30:16.597Z",
   "items": [
     {
       "id": "bf901c318bf8",
@@ -507,6 +503,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "a3297f680bc5",
+      "title": "初心者が行くMonster Hunter Wilds Part１",
+      "url": "https://youtu.be/__WM8kDS4kg?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-09-30T11:00:01.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "a2119f0dcdb7",
@@ -555,7 +572,7 @@
       "title": "『モンスターハンターワイルズ』グローバル展開で膨大なカットシーンの英語リップシンクを実現。自動音声アニメーションシステム「SGX」活用と効率化",
       "url": "https://cgworld.jp/special-feature/2609-sgx.html",
       "host": "cgworld.jp",
-      "source": "cgworld.jp",
+      "source": "CGWORLD.jp",
       "summary": "",
       "publishedAt": "2026-09-30T08:36:57.000Z",
       "image": "https://cgworld.jp/special-feature/assets_c/2026/09/07d63e90ee0068022f80312a60a2b948de1ab22f-thumb-1000x563-89289.jpg",
@@ -702,7 +719,7 @@
       "title": "【試打会レポ】今度の狩りはG数上乗せ!『スマスロ モンスターハンターライズ:サンブレイク』（写真・画像 11/15）",
       "url": "https://www.sanspo.com/article/20260930-YE6VPNNZTNEGTKCTBXPH6UYOLY/photo/KH2M6CUVPFDGFJIXPNOK7NBTJA",
       "host": "sanspo.com",
-      "source": "サンスポ",
+      "source": "sanspo.com",
       "summary": "",
       "publishedAt": "2026-09-30T04:40:44.000Z",
       "image": "https://www.sanspo.com/common/images/basic/thumb_default_og.jpg",
@@ -745,7 +762,7 @@
       "source": "ゲーム情報！ゲームのはなし",
       "summary": "",
       "publishedAt": "2026-09-30T03:45:17.000Z",
-      "image": "https://gamestalk.net/wp-content/uploads/2026/09/Monster-Hunter-Outlanders_260930.webp",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -784,7 +801,7 @@
       "title": "25万円台で『モンハンワイルズ』120fps！ 卓上サイズの高コスパゲーミングPC『OMEN 16L』レビュー",
       "url": "https://dengekionline.com/article/202609/87077",
       "host": "dengekionline.com",
-      "source": "dengekionline.com",
+      "source": "電撃オンライン",
       "summary": "",
       "publishedAt": "2026-09-30T03:30:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/87077/ogp_xJgU.jpg?x=1280",
@@ -805,7 +822,7 @@
       "title": "いよいよモバイルへ、「モンスターハンター アウトランダーズ」10月29日発売",
       "url": "https://www.gamemeca.com/ja/view.php?gid",
       "host": "gamemeca.com",
-      "source": "gamemeca.com",
+      "source": "게임메카",
       "summary": "",
       "publishedAt": "2026-09-30T01:11:57.000Z",
       "image": "https://cdn.gamemeca.com/g17/images/common/meca_logo_sns.gif",
@@ -1076,7 +1093,7 @@
       "title": "『モンスターハンターアウトランダーズ』が10月29日より正式サービス開始！新たな狩猟の旅が始まる",
       "url": "https://ascii.jp/elem/000/004/438/4438292/",
       "host": "ascii.jp",
-      "source": "ascii.jp",
+      "source": "ASCII.jp",
       "summary": "",
       "publishedAt": "2026-09-29T08:35:00.000Z",
       "image": "https://ascii.jp/img/2026/09/29/4531679/xl/325447e5c9fc1768.jpg?20200122",
@@ -1286,7 +1303,7 @@
       "title": "RE ENGINEで実現した『モンスターハンターストーリーズ3 ～運命の双竜～』の幻想的なアニメ調レンダリング～CEDEC 2026（3）",
       "url": "https://cgworld.jp/article/202609-cedec-mhs3.html",
       "host": "cgworld.jp",
-      "source": "cgworld.jp",
+      "source": "CGWORLD.jp",
       "summary": "",
       "publishedAt": "2026-09-29T02:52:38.000Z",
       "image": "https://cgworld.jp/article/assets_c/2026/09/c4c988953fd4a25c7948dbac15111078c984c209-thumb-1000x564-88567.jpg",
@@ -1394,7 +1411,7 @@
       "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-09-29T02:35:56.000Z",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2143/990/1.jpg",
+      "image": "",
       "categories": [
         "new"
       ],
@@ -1559,7 +1576,7 @@
       "title": "『モンスターハンターアウトランダーズ』インタビュー。単なる“スマホ移植”ではない独自要素とは？ 冒険者の切り替えや育成要素を重視した理由に迫る",
       "url": "https://dengekionline.com/article/202609/88759",
       "host": "dengekionline.com",
-      "source": "dengekionline.com",
+      "source": "電撃オンライン",
       "summary": "",
       "publishedAt": "2026-09-29T02:00:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/88759/ogp_RMIv.jpg?x=1280",
@@ -1583,7 +1600,7 @@
       "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-09-29T02:00:00.000Z",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2142/614/MO10.jpg",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1807,6 +1824,27 @@
       "isNew": false
     },
     {
+      "id": "3ea7e53d9b7b",
+      "title": "【モンハンナウ】ガンランスの操作方法と使い方｜解放条件【モンハンNow】",
+      "url": "https://gamewith.jp/monsterhunternow/article/show/453464",
+      "host": "gamewith.jp",
+      "source": "ゲームウィズ",
+      "summary": "",
+      "publishedAt": "2026-09-28T11:03:33.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/453464.png?date=1738833172",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "1a787e1c00f8",
       "title": "『モンハンワイルズ：アセンダンス』操虫棍は粉塵爆発・粉塵タイプに大きな調整。映像では見えない変更も多数、各武器案はなお確定前",
       "url": "https://gamestalk.net/monster-hunter-wilds-ascendance-insect-glaive-adjustments/",
@@ -1814,34 +1852,12 @@
       "source": "ゲーム情報！ゲームのはなし",
       "summary": "",
       "publishedAt": "2026-09-28T09:59:56.000Z",
-      "image": "https://gamestalk.net/wp-content/uploads/2026/09/mhw-ascendance_260928.webp",
+      "image": "",
       "categories": [
         "other"
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "8a8adf3ab3d8",
-      "title": "【ワイルズ1分】#19〜#24 1分実況してみた【MHWilds/魔物獵人荒野】",
-      "url": "https://youtu.be/7Gfo_InuTxg?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-09-28T09:45:17.000Z",
-      "image": "",
-      "categories": [
-        "community"
-      ],
-      "series": [
-        "wilds",
-        "world"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1871,6 +1887,27 @@
       "isNew": false
     },
     {
+      "id": "63f77a350015",
+      "title": "【モンハンナウ】クエスト一覧【モンハンNow】",
+      "url": "https://gamewith.jp/monsterhunternow/article/show/415865",
+      "host": "gamewith.jp",
+      "source": "ゲームウィズ",
+      "summary": "",
+      "publishedAt": "2026-09-28T08:57:12.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/415865.png?date=1693798655",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "c18008cef808",
       "title": "【アセンダンス】ブーストブレイサーとは？操作方法と全14武器種の新アクションまとめ｜モンハンワイルズ",
       "url": "https://iyusuke.jp/mhws-ascendance-boost-weapons/",
@@ -1878,7 +1915,7 @@
       "source": "iyusuke.jp",
       "summary": "",
       "publishedAt": "2026-09-28T08:37:23.000Z",
-      "image": "https://iyusuke.jp/wp-content/uploads/2026/09/mhws-boostblaser-1.webp",
+      "image": "",
       "categories": [
         "other"
       ],
