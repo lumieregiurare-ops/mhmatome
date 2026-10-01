@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-01T03:30:16.247Z",
+  "updatedAt": "2026-10-01T04:00:19.128Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 78,
-  "todayCount": 6,
+  "total": 79,
+  "todayCount": 8,
   "categories": [
     {
       "id": "new",
@@ -52,7 +52,7 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 0
+      "count": 1
     },
     {
       "id": "sales",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 2
+      "count": 1
     },
     {
       "id": "now",
@@ -145,6 +145,10 @@
     {
       "name": "iyusuke.jp",
       "count": 2
+    },
+    {
+      "name": "t.co",
+      "count": 1
     },
     {
       "name": "gamerszone.jp",
@@ -399,16 +403,70 @@
           "isPR": false
         }
       ]
+    },
+    {
+      "id": "fe4c9538686f",
+      "title": "モンスターハンターNow 公式 (@mh_now) on X",
+      "summary": "",
+      "url": "https://t.co/0hVPWH3Gc4",
+      "image": "",
+      "leadSource": "t.co",
+      "publishedAt": "2026-10-01T03:15:16.000Z",
+      "sourceCount": 2,
+      "articleCount": 3,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "now",
+        "モンハンNow",
+        "モンハンナウ"
+      ],
+      "articles": [
+        {
+          "title": "【モンハンナウ】モンハンNow感謝祭【3周年記念】【モンハンNow】",
+          "url": "https://gamewith.jp/monsterhunternow/article/show/577438",
+          "source": "GameWith",
+          "publishedAt": "2026-09-30T03:32:26.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンナウ】狩人たちの夏祭り2026【モンハンNow】",
+          "url": "https://gamewith.jp/monsterhunternow/article/show/573258",
+          "source": "GameWith",
+          "publishedAt": "2026-09-29T07:09:12.000Z",
+          "isPR": false
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-01T03:00:15.396Z",
-    "previousCount": 79,
-    "newCount": 0
+    "previousAt": "2026-10-01T03:30:16.247Z",
+    "previousCount": 78,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-01T04:00:16.247Z",
+  "nextUpdateAt": "2026-10-01T04:30:19.128Z",
   "items": [
+    {
+      "id": "fe4c9538686f",
+      "title": "モンスターハンターNow 公式 (@mh_now) on X",
+      "url": "https://t.co/0hVPWH3Gc4",
+      "host": "t.co",
+      "source": "t.co",
+      "summary": "",
+      "publishedAt": "2026-10-01T03:15:16.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "6fa814e8054f",
       "title": "スマホ向けサバイバル・ハンティングアクション『モンスターハンターアウトランダーズ』10月29日正式サービス開始",
@@ -511,6 +569,27 @@
       "isNew": false
     },
     {
+      "id": "411bb4076b94",
+      "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/575038",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-30T21:07:04.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575038.png?date=1789770323",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "141a36ee3b1a",
       "title": "【モンハンワイルズ】狩猟開始！⚔️ 一気に仕留める！ #Shorts",
       "url": "https://youtu.be/Sv3NoG6dyUQ?si",
@@ -519,6 +598,27 @@
       "summary": "",
       "publishedAt": "2026-09-30T15:31:38.000Z",
       "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "f4f222ac2e2d",
+      "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/575036",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-30T14:38:11.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575036.png?date=1789770113",
       "categories": [
         "other"
       ],
@@ -552,6 +652,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "68662e317216",
+      "title": "【モンハンワイルズ/神回】大物実況者やきぷりんかっかさんの配信にお邪魔したら予想外の大戦犯された件【山田らいおん/やきぷりんかっか】",
+      "url": "https://youtu.be/sScgvrfYJyg",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-09-30T11:14:22.000Z",
+      "image": "",
+      "categories": [
+        "community"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "a3297f680bc5",
@@ -672,28 +793,6 @@
         "new"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "2570f0e071fc",
-      "title": "【MHWilds】凍え知れ、安寧の睡郷 歴戦王ジン・ダハド 大剣 猫火事場 / Arch Tempered Jin Dahaad GreatSword Solo",
-      "url": "https://youtu.be/qugAyR_bmOk?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-09-30T06:05:22.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1462,7 +1561,7 @@
       "source": "inside-games.jp",
       "summary": "",
       "publishedAt": "2026-09-29T02:45:08.000Z",
-      "image": "",
+      "image": "https://www.inside-games.jp/imgs/ogp_f/1786000.jpg",
       "categories": [
         "other"
       ],
@@ -1757,48 +1856,6 @@
       "summary": "",
       "publishedAt": "2026-09-29T01:18:24.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577281.png?date=1789571405",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f4f222ac2e2d",
-      "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/575036",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-29T01:18:20.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575036.png?date=1789770113",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "411bb4076b94",
-      "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/575038",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-29T01:18:17.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575038.png?date=1789770323",
       "categories": [
         "other"
       ],
