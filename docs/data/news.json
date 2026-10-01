@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T04:00:19.128Z",
+  "updatedAt": "2026-10-01T04:30:15.228Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 6
+      "count": 5
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 63
+      "count": 64
     }
   ],
   "series": [
@@ -94,17 +94,21 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 27
+      "count": 28
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 30
+      "count": 29
     },
     {
       "name": "YouTube",
-      "count": 9
+      "count": 10
+    },
+    {
+      "name": "インサイド",
+      "count": 3
     },
     {
       "name": "Saiga NAK",
@@ -115,7 +119,7 @@
       "count": 3
     },
     {
-      "name": "CGWORLD.jp",
+      "name": "cgworld.jp",
       "count": 2
     },
     {
@@ -123,19 +127,19 @@
       "count": 2
     },
     {
+      "name": "Gamer",
+      "count": 2
+    },
+    {
       "name": "ファミ通",
       "count": 2
     },
     {
-      "name": "inside-games.jp",
+      "name": "GAME Watch",
       "count": 2
     },
     {
-      "name": "game.watch.impress.co.jp",
-      "count": 2
-    },
-    {
-      "name": "news.denfaminicogamer.jp",
+      "name": "電ファミニコゲーマー",
       "count": 2
     },
     {
@@ -147,15 +151,7 @@
       "count": 2
     },
     {
-      "name": "t.co",
-      "count": 1
-    },
-    {
       "name": "gamerszone.jp",
-      "count": 1
-    },
-    {
-      "name": "インサイド",
       "count": 1
     },
     {
@@ -167,7 +163,7 @@
       "count": 1
     },
     {
-      "name": "gamemeca.com",
+      "name": "게임메카",
       "count": 1
     },
     {
@@ -179,7 +175,7 @@
       "count": 1
     },
     {
-      "name": "AppBank",
+      "name": "appbank.net",
       "count": 1
     },
     {
@@ -192,10 +188,6 @@
     },
     {
       "name": "4Gamer",
-      "count": 1
-    },
-    {
-      "name": "Gamer",
       "count": 1
     },
     {
@@ -227,9 +219,9 @@
       "url": "https://www.4gamer.net/games/667/G066758/20260929006/",
       "image": "https://www.4gamer.net/games/667/G066758/20260929006/SS/001.jpg",
       "leadSource": "4Gamer",
-      "publishedAt": "2026-10-01T01:56:07.000Z",
-      "sourceCount": 14,
-      "articleCount": 15,
+      "publishedAt": "2026-09-30T02:12:48.000Z",
+      "sourceCount": 16,
+      "articleCount": 23,
       "categories": [
         "other",
         "new"
@@ -237,14 +229,21 @@
       "keywords": [
         "アウトランダーズ",
         "モンスターハンターアウトランダーズ",
-        "サービス"
+        "モンスター"
       ],
       "articles": [
         {
-          "title": "スマホ向けサバイバル・ハンティングアクション『モンスターハンターアウトランダーズ』10月29日正式サービス開始",
-          "url": "https://gamerszone.jp/post/37783",
-          "source": "gamerszone.jp",
-          "publishedAt": "2026-10-01T01:56:07.000Z",
+          "title": "「モンスターハンターアウトランダーズ」ルガ・エアルダの狩猟を体験！3ボタンで楽しめる「スターティングモード」など開発のこだわりを聞く",
+          "url": "https://www.gamer.ne.jp/news/202609290001/image/1/",
+          "source": "Gamer",
+          "publishedAt": "2026-09-30T02:12:48.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『モンスターハンターアウトランダーズ』2026年10月29日（木）に正式リリース！光稜龍ルガ・エアルダ討伐を先行体験＆開発陣へのインタビューもお届け",
+          "url": "https://gamewith.jp/gamedb/8636/articles/63786",
+          "source": "GameWith",
+          "publishedAt": "2026-09-30T00:25:36.000Z",
           "isPR": false
         },
         {
@@ -257,7 +256,7 @@
         {
           "title": "『モンスターハンターアウトランダーズ』、10月29日から正式サービス開始！ 事前登録受付中",
           "url": "https://www.appbank.net/2026/09/29/game/3117425.php",
-          "source": "AppBank",
+          "source": "appbank.net",
           "publishedAt": "2026-09-29T06:32:36.000Z",
           "isPR": false
         },
@@ -266,13 +265,6 @@
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLVY3UFFESUtDUzBfN1hvSHJySmduX1EwSGVaekFtYmIzbER5R25TZFdMOEMyeW9wRE9XRHpmalFvNm9yU0xNYS1nMHQyWXhrV3lLaVNCeHRHRVNfWDZfNmtOb2JCcGJPSk5sMmNpeVhxTUZGX3ljNzZFQXQydXpyOWlJdVE3M2o0THBz0gGLAUFVX3lxTE0tVjdQUURJS0NTMF83WG9IcnJKZ25fUTBIZVp6QW1iYjNsRHlHblNkV0w4QzJ5b3BET1dEemZqUW82b3JTTE1hLWcwdDJZeGtXeUtpU0J4dEdFU19YNl82a05vYkJwYk9KTmwyY2l5WHFNRkZfeWM3NkVBdDJ1enI5aUl1UTczajRMcHM?oc=5",
           "source": "Saiga NAK",
           "publishedAt": "2026-09-29T04:47:10.000Z",
-          "isPR": false
-        },
-        {
-          "title": "スマホで狩猟解禁！『モンスターハンターアウトランダーズ』が10月29日正式サービス開始決定ーシリーズP・辻本良三氏らによるメッセージを公開",
-          "url": "https://www.gamespark.jp/article/2026/09/29/172900.html",
-          "source": "Game*Spark",
-          "publishedAt": "2026-09-29T04:15:03.000Z",
           "isPR": false
         },
         {
@@ -294,69 +286,6 @@
           "url": "https://www.gamer.ne.jp/news/202609290006/",
           "source": "Gamer",
           "publishedAt": "2026-09-29T02:47:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "b8b3fb654e6b",
-      "title": "『モンスターハンターアウトランダーズ』2026年10月29日（木）に正式リリース！光稜龍ルガ・エアルダ討伐を先行体験＆開発陣へのインタビューもお届け",
-      "summary": "",
-      "url": "https://gamewith.jp/gamedb/8636/articles/63786",
-      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/8636/rectangle/63786.png?t=1790727937",
-      "leadSource": "GameWith",
-      "publishedAt": "2026-09-30T00:25:36.000Z",
-      "sourceCount": 6,
-      "articleCount": 7,
-      "categories": [
-        "other"
-      ],
-      "keywords": [
-        "アウトランダーズ",
-        "モンスターハンターアウトランダーズ",
-        "モンスター"
-      ],
-      "articles": [
-        {
-          "title": "「聖騎士」から生まれた古龍―『モンスターハンターアウトランダーズ』開発者インタビュー【TGS2026】 - inside-games.jp",
-          "url": "https://www.inside-games.jp/article/2026/09/29/188443.html",
-          "source": "inside-games.jp",
-          "publishedAt": "2026-09-29T02:45:08.000Z",
-          "isPR": false
-        },
-        {
-          "title": "“ふたつの太陽”に焼かれかけた―『モンスターハンターアウトランダーズ』古龍ルガ・エアルダ戦プレイレポ【TGS2026】 - inside-games.jp",
-          "url": "https://www.inside-games.jp/article/2026/09/29/188442.html",
-          "source": "inside-games.jp",
-          "publishedAt": "2026-09-29T02:45:05.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『モンスターハンターアウトランダーズ』ルガ・エアルダは“金色の鎧をまとった聖騎士”がコンセプト。冒険者の育成要素、ゲームサイクルへのこだわりなどをプロデューサーに訊く【TGS2026】",
-          "url": "https://www.famitsu.com/article/202609/89415",
-          "source": "ファミ通",
-          "publishedAt": "2026-09-29T02:05:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『モンスターハンターアウトランダーズ』インタビュー。単なる“スマホ移植”ではない独自要素とは？ 冒険者の切り替えや育成要素を重視した理由に迫る",
-          "url": "https://dengekionline.com/article/202609/88759",
-          "source": "電撃オンライン",
-          "publishedAt": "2026-09-29T02:00:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「モンスターハンターアウトランダーズ」の新モンスター“ルガ・エアルダ”に挑む。スマホで広がる“冒険者”による新たな狩猟体験",
-          "url": "https://www.4gamer.net/games/667/G066758/20260920056/",
-          "source": "4Gamer.net",
-          "publishedAt": "2026-09-29T02:00:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "古龍「ルガ・エアルダ」と対戦！「モンスターハンターアウトランダーズ」体験レポート＆インタビュー【TGS2026】",
-          "url": "https://game.watch.impress.co.jp/docs/preview/2142614.html",
-          "source": "game.watch.impress.co.jp",
-          "publishedAt": "2026-09-29T02:00:00.000Z",
           "isPR": false
         }
       ]
@@ -405,68 +334,42 @@
       ]
     },
     {
-      "id": "fe4c9538686f",
-      "title": "モンスターハンターNow 公式 (@mh_now) on X",
+      "id": "6fa814e8054f",
+      "title": "スマホ向けサバイバル・ハンティングアクション『モンスターハンターアウトランダーズ』10月29日正式サービス開始",
       "summary": "",
-      "url": "https://t.co/0hVPWH3Gc4",
-      "image": "",
-      "leadSource": "t.co",
-      "publishedAt": "2026-10-01T03:15:16.000Z",
+      "url": "https://gamerszone.jp/post/37783",
+      "image": "https://gamerszone.jp/images/upload/2026/10/f2e77ee5dc22a2a1e3dc79408cbecf9f.jpg",
+      "leadSource": "gamerszone.jp",
+      "publishedAt": "2026-10-01T01:56:07.000Z",
       "sourceCount": 2,
-      "articleCount": 3,
+      "articleCount": 2,
       "categories": [
         "other"
       ],
       "keywords": [
-        "now",
-        "モンハンNow",
-        "モンハンナウ"
+        "アウトランダーズ",
+        "スマホ",
+        "モンスターハンターアウトランダーズ"
       ],
       "articles": [
         {
-          "title": "【モンハンナウ】モンハンNow感謝祭【3周年記念】【モンハンNow】",
-          "url": "https://gamewith.jp/monsterhunternow/article/show/577438",
-          "source": "GameWith",
-          "publishedAt": "2026-09-30T03:32:26.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンナウ】狩人たちの夏祭り2026【モンハンNow】",
-          "url": "https://gamewith.jp/monsterhunternow/article/show/573258",
-          "source": "GameWith",
-          "publishedAt": "2026-09-29T07:09:12.000Z",
+          "title": "スマホで狩猟解禁！『モンスターハンターアウトランダーズ』が10月29日正式サービス開始決定ーシリーズP・辻本良三氏らによるメッセージを公開",
+          "url": "https://www.gamespark.jp/article/2026/09/29/172900.html",
+          "source": "Game*Spark",
+          "publishedAt": "2026-09-29T04:15:03.000Z",
           "isPR": false
         }
       ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-01T03:30:16.247Z",
-    "previousCount": 78,
+    "previousAt": "2026-10-01T04:00:19.128Z",
+    "previousCount": 79,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-01T04:30:19.128Z",
+  "nextUpdateAt": "2026-10-01T05:00:15.228Z",
   "items": [
-    {
-      "id": "fe4c9538686f",
-      "title": "モンスターハンターNow 公式 (@mh_now) on X",
-      "url": "https://t.co/0hVPWH3Gc4",
-      "host": "t.co",
-      "source": "t.co",
-      "summary": "",
-      "publishedAt": "2026-10-01T03:15:16.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
     {
       "id": "6fa814e8054f",
       "title": "スマホ向けサバイバル・ハンティングアクション『モンスターハンターアウトランダーズ』10月29日正式サービス開始",
@@ -611,6 +514,27 @@
       "isNew": false
     },
     {
+      "id": "53af2da2b331",
+      "title": "【歴戦★9ゴア・マガラ】ナディアとの共闘クエ「道を蝕み戻らぬ者よ」スラアク初見クリア【モンハンワイルズ】",
+      "url": "https://youtu.be/kaMinBfnQLU",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-09-30T15:00:24.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "f4f222ac2e2d",
       "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/575036",
@@ -672,7 +596,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a3297f680bc5",
@@ -742,7 +666,7 @@
       "title": "『モンスターハンターワイルズ』グローバル展開で膨大なカットシーンの英語リップシンクを実現。自動音声アニメーションシステム「SGX」活用と効率化",
       "url": "https://cgworld.jp/special-feature/2609-sgx.html",
       "host": "cgworld.jp",
-      "source": "CGWORLD.jp",
+      "source": "cgworld.jp",
       "summary": "",
       "publishedAt": "2026-09-30T08:36:57.000Z",
       "image": "https://cgworld.jp/special-feature/assets_c/2026/09/07d63e90ee0068022f80312a60a2b948de1ab22f-thumb-1000x563-89289.jpg",
@@ -924,11 +848,32 @@
       "isNew": false
     },
     {
+      "id": "144aea75fbc3",
+      "title": "「モンスターハンターアウトランダーズ」ルガ・エアルダの狩猟を体験！3ボタンで楽しめる「スターティングモード」など開発のこだわりを聞く",
+      "url": "https://www.gamer.ne.jp/news/202609290001/image/1/",
+      "host": "gamer.ne.jp",
+      "source": "Gamer",
+      "summary": "",
+      "publishedAt": "2026-09-30T02:12:48.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "4b4221ae45e5",
       "title": "いよいよモバイルへ、「モンスターハンター アウトランダーズ」10月29日発売",
       "url": "https://www.gamemeca.com/ja/view.php?gid",
       "host": "gamemeca.com",
-      "source": "gamemeca.com",
+      "source": "게임메카",
       "summary": "",
       "publishedAt": "2026-09-30T01:11:57.000Z",
       "image": "https://cdn.gamemeca.com/g17/images/common/meca_logo_sns.gif",
@@ -1348,7 +1293,7 @@
       "title": "『モンスターハンターアウトランダーズ』、10月29日から正式サービス開始！ 事前登録受付中",
       "url": "https://www.appbank.net/2026/09/29/game/3117425.php",
       "host": "appbank.net",
-      "source": "AppBank",
+      "source": "appbank.net",
       "summary": "",
       "publishedAt": "2026-09-29T06:32:36.000Z",
       "image": "https://www.appbank.net/wp-content/uploads/2026/09/20260929_122005_811_01.webp",
@@ -1495,7 +1440,7 @@
       "title": "RE ENGINEで実現した『モンスターハンターストーリーズ3 ～運命の双竜～』の幻想的なアニメ調レンダリング～CEDEC 2026（3）",
       "url": "https://cgworld.jp/article/202609-cedec-mhs3.html",
       "host": "cgworld.jp",
-      "source": "CGWORLD.jp",
+      "source": "cgworld.jp",
       "summary": "",
       "publishedAt": "2026-09-29T02:52:38.000Z",
       "image": "https://cgworld.jp/article/assets_c/2026/09/c4c988953fd4a25c7948dbac15111078c984c209-thumb-1000x564-88567.jpg",
@@ -1555,10 +1500,10 @@
     },
     {
       "id": "b068eed6897d",
-      "title": "「聖騎士」から生まれた古龍―『モンスターハンターアウトランダーズ』開発者インタビュー【TGS2026】 - inside-games.jp",
+      "title": "「聖騎士」から生まれた古龍―『モンスターハンターアウトランダーズ』開発者インタビュー【TGS2026】",
       "url": "https://www.inside-games.jp/article/2026/09/29/188443.html",
       "host": "inside-games.jp",
-      "source": "inside-games.jp",
+      "source": "インサイド",
       "summary": "",
       "publishedAt": "2026-09-29T02:45:08.000Z",
       "image": "https://www.inside-games.jp/imgs/ogp_f/1786000.jpg",
@@ -1576,10 +1521,10 @@
     },
     {
       "id": "745bbf71eeae",
-      "title": "“ふたつの太陽”に焼かれかけた―『モンスターハンターアウトランダーズ』古龍ルガ・エアルダ戦プレイレポ【TGS2026】 - inside-games.jp",
+      "title": "“ふたつの太陽”に焼かれかけた―『モンスターハンターアウトランダーズ』古龍ルガ・エアルダ戦プレイレポ【TGS2026】",
       "url": "https://www.inside-games.jp/article/2026/09/29/188442.html",
       "host": "inside-games.jp",
-      "source": "inside-games.jp",
+      "source": "インサイド",
       "summary": "",
       "publishedAt": "2026-09-29T02:45:05.000Z",
       "image": "https://www.inside-games.jp/imgs/ogp_f/1785991.jpg",
@@ -1600,7 +1545,7 @@
       "title": "スマホで遊べる新作「モンハン」！ 「モンスターハンターアウトランダーズ」が10月29日に配信決定",
       "url": "https://game.watch.impress.co.jp/docs/news/2143990.html",
       "host": "game.watch.impress.co.jp",
-      "source": "game.watch.impress.co.jp",
+      "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-09-29T02:35:56.000Z",
       "image": "https://game.watch.impress.co.jp/img/gmw/list/2143/990/1.jpg",
@@ -1663,7 +1608,7 @@
       "title": "『モンハンアウトランダーズ』10月29日に配信決定！基本プレイ無料のスマホ向け『モンハン』新作",
       "url": "https://news.denfaminicogamer.jp/news/260929k",
       "host": "news.denfaminicogamer.jp",
-      "source": "news.denfaminicogamer.jp",
+      "source": "電ファミニコゲーマー",
       "summary": "",
       "publishedAt": "2026-09-29T02:01:00.000Z",
       "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/Snapshot_26.jpg",
@@ -1768,7 +1713,7 @@
       "title": "古龍「ルガ・エアルダ」と対戦！「モンスターハンターアウトランダーズ」体験レポート＆インタビュー【TGS2026】",
       "url": "https://game.watch.impress.co.jp/docs/preview/2142614.html",
       "host": "game.watch.impress.co.jp",
-      "source": "game.watch.impress.co.jp",
+      "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-09-29T02:00:00.000Z",
       "image": "https://game.watch.impress.co.jp/img/gmw/list/2142/614/MO10.jpg",
@@ -1810,7 +1755,7 @@
       "title": "『モンスターハンターアウトランダーズ』カプコンが毎日、かつ徹底的に監修したガチの『モンハン』だった【開発陣インタビュー】",
       "url": "https://news.denfaminicogamer.jp/interview/260929o",
       "host": "news.denfaminicogamer.jp",
-      "source": "news.denfaminicogamer.jp",
+      "source": "電ファミニコゲーマー",
       "summary": "",
       "publishedAt": "2026-09-29T02:00:00.000Z",
       "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/image10-29.jpg",
@@ -2047,27 +1992,6 @@
       "image": "https://iyusuke.jp/wp-content/uploads/2026/09/mhws-ascendance-12.webp",
       "categories": [
         "new"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "c1ee3f6677e7",
-      "title": "【モンハンワイルズ】森の闢獣の攻略と報酬【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/487714",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-28T04:24:08.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/487714.png?date=1740941941",
-      "categories": [
-        "guide"
       ],
       "series": [
         "wilds"
