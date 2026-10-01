@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-01T20:00:19.869Z",
+  "updatedAt": "2026-10-01T20:30:18.014Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 81,
+  "total": 82,
   "todayCount": 0,
   "categories": [
     {
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 64
+      "count": 65
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 39
+      "count": 40
     },
     {
       "id": "rise",
@@ -104,7 +104,7 @@
     },
     {
       "name": "YouTube",
-      "count": 11
+      "count": 12
     },
     {
       "name": "電撃オンライン",
@@ -397,12 +397,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-01T19:30:17.541Z",
-    "previousCount": 83,
-    "newCount": 0
+    "previousAt": "2026-10-01T20:00:19.869Z",
+    "previousCount": 81,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-01T20:30:19.869Z",
+  "nextUpdateAt": "2026-10-01T21:00:18.014Z",
   "items": [
     {
       "id": "0e04e41e8f76",
@@ -919,6 +919,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "9f5d3e38ec08",
+      "title": "【凍え知れ、安寧の睡郷】歴戦王ジン・ダハド フリーチャレンジクエスト 弓非火事場ソロ #モンハンワイルズ #弓",
+      "url": "https://youtu.be/aKSS8h0edHY?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-09-30T09:38:57.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "2783b3cd0948",
