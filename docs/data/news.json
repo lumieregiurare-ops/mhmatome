@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T06:30:14.836Z",
+  "updatedAt": "2026-10-01T07:00:14.738Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,12 +7,12 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 81,
-  "todayCount": 10,
+  "todayCount": 11,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 7
+      "count": 6
     },
     {
       "id": "update",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 66
+      "count": 67
     }
   ],
   "series": [
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 29
+      "count": 30
     },
     {
       "name": "YouTube",
@@ -155,10 +155,6 @@
       "count": 2
     },
     {
-      "name": "iyusuke.jp",
-      "count": 2
-    },
-    {
       "name": "t.co",
       "count": 1
     },
@@ -200,6 +196,10 @@
     },
     {
       "name": "CAPCOM",
+      "count": 1
+    },
+    {
+      "name": "iyusuke.jp",
       "count": 1
     },
     {
@@ -351,12 +351,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-01T06:00:14.294Z",
+    "previousAt": "2026-10-01T06:30:14.836Z",
     "previousCount": 81,
-    "newCount": 0
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-01T07:00:14.836Z",
+  "nextUpdateAt": "2026-10-01T07:30:14.738Z",
   "items": [
     {
       "id": "6b5f03a9a37d",
@@ -392,6 +392,27 @@
         "other"
       ],
       "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "40bccce677c8",
+      "title": "【アセンダンス】大剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/485475",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-01T02:26:13.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485475.png?date=1789753003",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1105,6 +1126,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "faf564835115",
+      "title": "【アセンダンス】弓の操作と新要素・ブーストアクション【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/484164",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-30T00:14:00.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/484164.png?date=1789759793",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "8a832092d96a",
@@ -1842,27 +1884,6 @@
       "isNew": false
     },
     {
-      "id": "40bccce677c8",
-      "title": "【アセンダンス】大剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/485475",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-29T01:17:06.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485475.png?date=1789753003",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "aeb3520b9751",
       "title": "君の名は #shorts #モンスターハンターワイルズ #ラバラバリナ",
       "url": "https://youtu.be/kNO6EeM6m38?si",
@@ -2006,27 +2027,6 @@
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "5636b69caf22",
-      "title": "モンスターハンターワイルズ：アセンダンスはいつ発売？発売日予想と価格・最新情報まとめ【2026年9月】",
-      "url": "https://iyusuke.jp/mhws-mrdlc/",
-      "host": "iyusuke.jp",
-      "source": "iyusuke.jp",
-      "summary": "",
-      "publishedAt": "2026-09-28T07:00:00.000Z",
-      "image": "https://iyusuke.jp/wp-content/uploads/2026/09/mhws-ascendance-12.webp",
-      "categories": [
-        "new"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
