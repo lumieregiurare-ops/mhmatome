@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-01T19:00:22.149Z",
+  "updatedAt": "2026-10-01T19:30:17.541Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 82,
+  "total": 83,
   "todayCount": 0,
   "categories": [
     {
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 64
+      "count": 65
     }
   ],
   "series": [
@@ -74,7 +74,7 @@
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 0
+      "count": 1
     },
     {
       "id": "world",
@@ -139,7 +139,7 @@
       "count": 2
     },
     {
-      "name": "news.denfaminicogamer.jp",
+      "name": "電ファミニコゲーマー",
       "count": 2
     },
     {
@@ -148,6 +148,10 @@
     },
     {
       "name": "ガジェット通信 GetNews",
+      "count": 1
+    },
+    {
+      "name": "Unisba Media",
       "count": 1
     },
     {
@@ -163,7 +167,7 @@
       "count": 1
     },
     {
-      "name": "gamestalk.net",
+      "name": "ゲーム情報！ゲームのはなし",
       "count": 1
     },
     {
@@ -183,11 +187,11 @@
       "count": 1
     },
     {
-      "name": "Game*Spark",
+      "name": "gamespark.jp",
       "count": 1
     },
     {
-      "name": "はてなブログ",
+      "name": "penguingames.hatenablog.com",
       "count": 1
     },
     {
@@ -256,7 +260,7 @@
         {
           "title": "スマホで狩猟解禁！『モンスターハンターアウトランダーズ』が10月29日正式サービス開始決定ーシリーズP・辻本良三氏らによるメッセージを公開",
           "url": "https://www.gamespark.jp/article/2026/09/29/172900.html",
-          "source": "Game*Spark",
+          "source": "gamespark.jp",
           "publishedAt": "2026-09-29T04:15:03.000Z",
           "isPR": false
         },
@@ -334,7 +338,7 @@
           "title": "『モンスターハンターアウトランダーズ』インタビュー。単なる“スマホ移植”ではない独自要素とは？ 冒険者の切り替えや育成要素を重視した理由に迫る",
           "url": "https://dengekionline.com/article/202609/88759",
           "source": "電撃オンライン",
-          "publishedAt": "2026-09-29T02:00:00.000Z",
+          "publishedAt": "2026-09-29T02:02:00.000Z",
           "isPR": false
         },
         {
@@ -354,7 +358,7 @@
         {
           "title": "『モンスターハンターアウトランダーズ』カプコンが毎日、かつ徹底的に監修したガチの『モンハン』だった【開発陣インタビュー】",
           "url": "https://news.denfaminicogamer.jp/interview/260929o",
-          "source": "news.denfaminicogamer.jp",
+          "source": "電ファミニコゲーマー",
           "publishedAt": "2026-09-29T02:00:00.000Z",
           "isPR": false
         }
@@ -397,12 +401,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-01T18:30:17.204Z",
-    "previousCount": 84,
-    "newCount": 0
+    "previousAt": "2026-10-01T19:00:22.149Z",
+    "previousCount": 82,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-01T19:30:22.149Z",
+  "nextUpdateAt": "2026-10-01T20:00:17.541Z",
   "items": [
     {
       "id": "0e04e41e8f76",
@@ -467,6 +471,69 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "46ab930cbc6c",
+      "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/563077",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-01T12:31:25.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "d8b95bbbc335",
+      "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/563040",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-01T11:35:13.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563040.png?date=1789770455",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "3c5a2a6bd32f",
+      "title": "【Switch版】#315 『参加型』ゆこいちのモンハン絶叫部屋🪷モンスターハンターライズ:サンブレイク I (FQqIGVtqol)",
+      "url": "https://media.unisba.ac.id/441392d2/d8350a2b44oKnsNtrng",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-10-01T10:52:55.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "a2119f0dcdb7",
@@ -639,27 +706,6 @@
       "summary": "",
       "publishedAt": "2026-10-01T02:26:13.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485475.png?date=1789753003",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "46ab930cbc6c",
-      "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563077",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-01T02:25:08.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
       "categories": [
         "other"
       ],
@@ -985,27 +1031,6 @@
       "isNew": false
     },
     {
-      "id": "d8b95bbbc335",
-      "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563040",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-30T08:19:05.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563040.png?date=1789770455",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "f6c97da45615",
       "title": "【TGS2026】「カプコン」ブースレポート！「バイオ」エリアでの射撃体験や「モンハン」「ロックマン」シリーズ最新作の試遊も",
       "url": "https://saiganak.com/ja/event/tgs2026-capcom-booth-report/",
@@ -1069,7 +1094,7 @@
       "title": "『モンハンアウトランダーズ』のアクションはTiMiが“ゼロベース”から構築。カプコンは既存作のものを「そのまま渡さず」、組み上げられたアクションを監修",
       "url": "https://gamestalk.net/monster-hunter-outlanders-action-timi-zero-base/",
       "host": "gamestalk.net",
-      "source": "gamestalk.net",
+      "source": "ゲーム情報！ゲームのはなし",
       "summary": "",
       "publishedAt": "2026-09-30T03:45:17.000Z",
       "image": "https://gamestalk.net/wp-content/uploads/2026/09/Monster-Hunter-Outlanders_260930.webp",
@@ -1615,7 +1640,7 @@
       "title": "スマホで狩猟解禁！『モンスターハンターアウトランダーズ』が10月29日正式サービス開始決定ーシリーズP・辻本良三氏らによるメッセージを公開",
       "url": "https://www.gamespark.jp/article/2026/09/29/172900.html",
       "host": "gamespark.jp",
-      "source": "Game*Spark",
+      "source": "gamespark.jp",
       "summary": "",
       "publishedAt": "2026-09-29T04:15:03.000Z",
       "image": "https://www.gamespark.jp/imgs/ogp_f/1199571.jpg",
@@ -1636,7 +1661,7 @@
       "title": "モンハンアウトランダーズとは？配信予定日・対応機種・ゲーム内容をわかりやすく解説",
       "url": "https://penguingames.hatenablog.com/entry/2026/09/29/130510",
       "host": "penguingames.hatenablog.com",
-      "source": "はてなブログ",
+      "source": "penguingames.hatenablog.com",
       "summary": "",
       "publishedAt": "2026-09-29T04:05:10.000Z",
       "image": "https://cdn.image.st-hatena.com/image/scale/7e82a64bd0fbbc91d1dd76fe52126b2811710ec3/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsuicapenguin777%2F20260929%2F20260929130444.png",
@@ -1863,11 +1888,32 @@
       "isNew": false
     },
     {
+      "id": "2ccf6444d06a",
+      "title": "『モンスターハンターアウトランダーズ』インタビュー。単なる“スマホ移植”ではない独自要素とは？ 冒険者の切り替えや育成要素を重視した理由に迫る",
+      "url": "https://dengekionline.com/article/202609/88759",
+      "host": "dengekionline.com",
+      "source": "電撃オンライン",
+      "summary": "",
+      "publishedAt": "2026-09-29T02:02:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/88759/ogp_RMIv.jpg?x=1280",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "847fd3d78e11",
       "title": "『モンハンアウトランダーズ』10月29日に配信決定！基本プレイ無料のスマホ向け『モンハン』新作",
       "url": "https://news.denfaminicogamer.jp/news/260929k",
       "host": "news.denfaminicogamer.jp",
-      "source": "news.denfaminicogamer.jp",
+      "source": "電ファミニコゲーマー",
       "summary": "",
       "publishedAt": "2026-09-29T02:01:00.000Z",
       "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/Snapshot_26.jpg",
@@ -1913,27 +1959,6 @@
       "summary": "",
       "publishedAt": "2026-09-29T02:00:01.000Z",
       "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260929-470503-header.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "2ccf6444d06a",
-      "title": "『モンスターハンターアウトランダーズ』インタビュー。単なる“スマホ移植”ではない独自要素とは？ 冒険者の切り替えや育成要素を重視した理由に迫る",
-      "url": "https://dengekionline.com/article/202609/88759",
-      "host": "dengekionline.com",
-      "source": "電撃オンライン",
-      "summary": "",
-      "publishedAt": "2026-09-29T02:00:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/88759/ogp_RMIv.jpg?x=1280",
       "categories": [
         "other"
       ],
@@ -2035,7 +2060,7 @@
       "title": "『モンスターハンターアウトランダーズ』カプコンが毎日、かつ徹底的に監修したガチの『モンハン』だった【開発陣インタビュー】",
       "url": "https://news.denfaminicogamer.jp/interview/260929o",
       "host": "news.denfaminicogamer.jp",
-      "source": "news.denfaminicogamer.jp",
+      "source": "電ファミニコゲーマー",
       "summary": "",
       "publishedAt": "2026-09-29T02:00:00.000Z",
       "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/image10-29.jpg",
