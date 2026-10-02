@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-02T19:30:17.697Z",
+  "updatedAt": "2026-10-02T20:00:15.538Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 86,
+  "total": 88,
   "todayCount": 3,
   "categories": [
     {
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 59
+      "count": 61
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 51
+      "count": 52
     },
     {
       "id": "rise",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 2
+      "count": 3
     },
     {
       "id": "outlanders",
@@ -100,11 +100,11 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 45
+      "count": 46
     },
     {
       "name": "YouTube",
-      "count": 5
+      "count": 6
     },
     {
       "name": "prtimes.jp",
@@ -127,11 +127,11 @@
       "count": 2
     },
     {
-      "name": "gamebiz【ゲームビズ】",
+      "name": "インサイド",
       "count": 2
     },
     {
-      "name": "電ファミニコゲーマー",
+      "name": "gamebiz【ゲームビズ】",
       "count": 2
     },
     {
@@ -148,10 +148,6 @@
     },
     {
       "name": "ワイルズ公式（Steam）",
-      "count": 1
-    },
-    {
-      "name": "インサイド",
       "count": 1
     },
     {
@@ -179,6 +175,14 @@
       "count": 1
     },
     {
+      "name": "電ファミニコゲーマー",
+      "count": 1
+    },
+    {
+      "name": "news.denfaminicogamer.jp",
+      "count": 1
+    },
+    {
       "name": "hjweb.jp",
       "count": 1
     },
@@ -196,10 +200,6 @@
     },
     {
       "name": "t.co",
-      "count": 1
-    },
-    {
-      "name": "Infoseek",
       "count": 1
     },
     {
@@ -319,8 +319,8 @@
         },
         {
           "title": "『モンハン』めじるしアクセサリーが初登場！デフォルメされたリオレウスやジンオウガ、フルフルなど全6種がラインナップ",
-          "url": "https://news.infoseek.co.jp/article/inside_188545/",
-          "source": "Infoseek",
+          "url": "https://s.inside-games.jp/article/2026/10/01/188545.html?pickup-text-list",
+          "source": "インサイド",
           "publishedAt": "2026-10-01T00:50:03.000Z",
           "isPR": false
         }
@@ -483,22 +483,23 @@
       ]
     },
     {
-      "id": "2dd90c678535",
-      "title": "『モンスターハンターストーリーズ3』×大阪文化回廊のコラボが10月14日から開催！ 府立博物館3館でスタンプラリーや展示",
+      "id": "0150cfa72b62",
+      "title": "「ツケヒバキ」に挑む！-PART97-【モンスターハンターストーリーズ3 ～運命の双竜～】",
       "summary": "",
-      "url": "https://www.appbank.net/2026/10/02/game/3120213.php",
-      "image": "https://www.appbank.net/wp-content/uploads/2026/10/20261001_145016_168_01.webp",
-      "leadSource": "AppBank",
-      "publishedAt": "2026-10-02T07:51:36.000Z",
+      "url": "https://youtu.be/S3b9eFkbfbc?si",
+      "image": "",
+      "leadSource": "YouTube",
+      "publishedAt": "2026-10-02T10:30:17.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
+        "other",
         "collab"
       ],
       "keywords": [
         "モンスターハンターストーリーズ",
-        "コラボ",
-        "大阪文化回廊"
+        "運命",
+        "双竜"
       ],
       "articles": [
         {
@@ -509,6 +510,26 @@
           "isPR": false
         }
       ]
+    },
+    {
+      "id": "be491549caa4",
+      "title": "【399円】『モンスターハンターライズ』がSteamで90%オフで購入できるセールが開催中！超大型DLC『サンブレイク』も85%とお得に",
+      "summary": "フィールドに撃ち込む「翔蟲」を駆使してアクロバティックな戦闘が楽しめる。『モンスターハンターライズ』は399円『サンブレイク』は598円",
+      "url": "https://news.denfaminicogamer.jp/news/261002i",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ss_f8249da14987e3c2d10fd4024736f28774c713da.1920x1080-1024x576.jpg",
+      "leadSource": "電ファミニコゲーマー",
+      "publishedAt": "2026-10-02T01:44:27.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "sale"
+      ],
+      "keywords": [
+        "モンスターハンターライズ",
+        "セール",
+        "購入"
+      ],
+      "articles": []
     },
     {
       "id": "6eeff9620578",
@@ -568,12 +589,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-02T19:00:19.835Z",
-    "previousCount": 87,
-    "newCount": 1
+    "previousAt": "2026-10-02T19:30:17.697Z",
+    "previousCount": 86,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-02T20:00:17.697Z",
+  "nextUpdateAt": "2026-10-02T20:30:15.538Z",
   "items": [
     {
       "id": "4ba945e87ca0",
@@ -783,6 +804,27 @@
       "isNew": false
     },
     {
+      "id": "0150cfa72b62",
+      "title": "「ツケヒバキ」に挑む！-PART97-【モンスターハンターストーリーズ3 ～運命の双竜～】",
+      "url": "https://youtu.be/S3b9eFkbfbc?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-02T10:30:17.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "4bfbf84dbace",
       "title": "『FF7 リベレーション』『モンハンワイルズ：アセンダンス』などが試遊できる“PlayStation 祭”が大阪で10月24日開催。PS Plus加入者向け先着予約が本日（10/2）開始",
       "url": "https://www.famitsu.com/article/202610/89840",
@@ -954,7 +996,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "\"Monster Hunter Wilds\"—whose major expansion releases in 2027— is on sale for for 25% off! But there's more! The \"Monster Hunter Series Pack,\" (Bundle) which c…",
       "publishedAt": "2026-10-02T08:34:04.000Z",
-      "image": "https://clan.fastly.steamstatic.com/images/44795648/30302d9fc79a793f9d6a4ba736148303013217c0.jpg",
+      "image": "https://clan.akamai.steamstatic.com/images/44795648/30302d9fc79a793f9d6a4ba736148303013217c0.jpg",
       "categories": [
         "other"
       ],
@@ -1384,7 +1426,7 @@
       "title": "『モンスターハンターライズ』がSteamで90%オフで購入できるセールが開催中",
       "url": "https://news.denfaminicogamer.jp/news/261002i",
       "host": "news.denfaminicogamer.jp",
-      "source": "電ファミニコゲーマー",
+      "source": "news.denfaminicogamer.jp",
       "summary": "",
       "publishedAt": "2026-10-02T01:44:00.000Z",
       "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ss_f8249da14987e3c2d10fd4024736f28774c713da.1920x1080.jpg",
@@ -1647,12 +1689,12 @@
     {
       "id": "0f71c7f65f85",
       "title": "『モンハン』めじるしアクセサリーが初登場！デフォルメされたリオレウスやジンオウガ、フルフルなど全6種がラインナップ",
-      "url": "https://news.infoseek.co.jp/article/inside_188545/",
-      "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
+      "url": "https://s.inside-games.jp/article/2026/10/01/188545.html?pickup-text-list",
+      "host": "s.inside-games.jp",
+      "source": "インサイド",
       "summary": "",
       "publishedAt": "2026-10-01T00:50:03.000Z",
-      "image": "https://media.image.infoseek.co.jp/isnews/photos/inside/inside_188545_0-enlarge.jpg",
+      "image": "https://www.inside-games.jp/imgs/ogp_f/1787813.jpg",
       "categories": [
         "other"
       ],
@@ -1955,6 +1997,27 @@
       "isNew": false
     },
     {
+      "id": "b71cd41aa822",
+      "title": "【モンハンワイルズ】翼竜の皮の入手方法と使い道【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/487303",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-30T00:18:04.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "de447d8a606f",
       "title": "【モンハンワイルズ】護竜セクレトの羽の入手方法と場所【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/487320",
@@ -1997,6 +2060,27 @@
       "isNew": false
     },
     {
+      "id": "5e34dd62ddd5",
+      "title": "【モンハンワイルズ】守りの護符の入手方法と効果【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/487450",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-30T00:17:18.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "6d4b79f8e27f",
       "title": "【モンハンワイルズ】ギンイロカネの入手方法と効率的な集め方【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/488572",
@@ -2028,27 +2112,6 @@
       "image": "",
       "categories": [
         "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "8511963a30d5",
-      "title": "【アセンダンス】チャアクの操作と新要素・ブーストアクション【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/485556",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-30T00:17:10.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485556.png?date=1789754685",
-      "categories": [
-        "other"
       ],
       "series": [
         "wilds"
@@ -2099,7 +2162,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9d7a0d656fe3",
