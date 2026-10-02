@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T17:00:19.862Z",
+  "updatedAt": "2026-10-02T17:30:50.285Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -119,7 +119,15 @@
       "count": 2
     },
     {
+      "name": "ファミ通",
+      "count": 2
+    },
+    {
       "name": "GAME Watch",
+      "count": 2
+    },
+    {
+      "name": "インサイド",
       "count": 2
     },
     {
@@ -135,15 +143,7 @@
       "count": 1
     },
     {
-      "name": "ファミ通",
-      "count": 1
-    },
-    {
       "name": "4Gamer",
-      "count": 1
-    },
-    {
-      "name": "ファミ通.com",
       "count": 1
     },
     {
@@ -155,11 +155,7 @@
       "count": 1
     },
     {
-      "name": "インサイド",
-      "count": 1
-    },
-    {
-      "name": "ASCII.jp",
+      "name": "ascii.jp",
       "count": 1
     },
     {
@@ -187,7 +183,7 @@
       "count": 1
     },
     {
-      "name": "電撃ホビーウェブ",
+      "name": "hobby.dengeki.com",
       "count": 1
     },
     {
@@ -200,10 +196,6 @@
     },
     {
       "name": "t.co",
-      "count": 1
-    },
-    {
-      "name": "Infoseek",
       "count": 1
     },
     {
@@ -268,7 +260,7 @@
         {
           "title": "『モンスターハンターライズ』がSteam Storeで399円！「CAPCOM AUTUMN SALE」が開催中",
           "url": "https://ascii.jp/elem/000/004/439/4439706/",
-          "source": "ASCII.jp",
+          "source": "ascii.jp",
           "publishedAt": "2026-10-02T07:55:00.000Z",
           "isPR": false
         },
@@ -323,8 +315,8 @@
         },
         {
           "title": "『モンハン』めじるしアクセサリーが初登場！デフォルメされたリオレウスやジンオウガ、フルフルなど全6種がラインナップ",
-          "url": "https://news.infoseek.co.jp/article/inside_188545/",
-          "source": "Infoseek",
+          "url": "https://s.inside-games.jp/article/2026/10/01/188545.html?pickup-text-list",
+          "source": "インサイド",
           "publishedAt": "2026-10-01T00:50:03.000Z",
           "isPR": false
         }
@@ -339,7 +331,7 @@
       "leadSource": "4Gamer",
       "publishedAt": "2026-10-02T10:30:00.000Z",
       "sourceCount": 3,
-      "articleCount": 11,
+      "articleCount": 12,
       "categories": [
         "new",
         "guide"
@@ -362,6 +354,13 @@
           "url": "https://gamewith.jp/mhwilds/545381",
           "source": "GameWith",
           "publishedAt": "2026-10-02T07:07:09.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】英雄の証の解放条件と報酬【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/545421",
+          "source": "GameWith",
+          "publishedAt": "2026-10-02T05:46:10.000Z",
           "isPR": false
         },
         {
@@ -398,13 +397,6 @@
           "source": "GameWith",
           "publishedAt": "2026-10-01T11:59:22.000Z",
           "isPR": false
-        },
-        {
-          "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/575038",
-          "source": "GameWith",
-          "publishedAt": "2026-10-01T09:43:30.000Z",
-          "isPR": false
         }
       ]
     },
@@ -431,7 +423,7 @@
         {
           "title": "『モンハン』イャンクックのねんどろいどが予約開始。耳の部位破壊まで再現できるパーツ付き。すやすや眠る姿もかわいい",
           "url": "https://app.famitsu.com/article/202610/89832",
-          "source": "ファミ通.com",
+          "source": "ファミ通",
           "publishedAt": "2026-10-02T09:10:00.000Z",
           "isPR": false
         },
@@ -566,7 +558,7 @@
         {
           "title": "『モンスターハンター』ジンオウガが「PLAfig.」に登場！『頭文字D』舘 智幸 EK9 シビック TYPE Rやエヴァ初号機＆零号機のカワサキNinjaなどが初展示！【2026第64回全日本模型ホビーショー速報レポート】青島文化教材社",
           "url": "https://hobby.dengeki.com/event/3178213/",
-          "source": "電撃ホビーウェブ",
+          "source": "hobby.dengeki.com",
           "publishedAt": "2026-10-02T00:00:00.000Z",
           "isPR": false
         }
@@ -601,12 +593,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-02T16:30:16.579Z",
-    "previousCount": 80,
+    "previousAt": "2026-10-02T17:00:19.862Z",
+    "previousCount": 82,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-02T17:30:19.862Z",
+  "nextUpdateAt": "2026-10-02T18:00:50.285Z",
   "items": [
     {
       "id": "8c086bb7f518",
@@ -667,7 +659,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1d979650fb63",
@@ -739,7 +731,7 @@
       "host": "thefirsttimes.jp",
       "source": "THE FIRST TIMES",
       "summary": "",
-      "publishedAt": "2026-10-02T13:04:01.000Z",
+      "publishedAt": "2026-10-02T13:10:20.000Z",
       "image": "https://www.thefirsttimes.jp/admin/wp-content/uploads/2026/10/20261002-st-190801-1200x630.jpg",
       "categories": [
         "other"
@@ -903,7 +895,7 @@
       "title": "『モンハン』イャンクックのねんどろいどが予約開始。耳の部位破壊まで再現できるパーツ付き。すやすや眠る姿もかわいい",
       "url": "https://app.famitsu.com/article/202610/89832",
       "host": "app.famitsu.com",
-      "source": "ファミ通.com",
+      "source": "ファミ通",
       "summary": "",
       "publishedAt": "2026-10-02T09:10:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/89832/thumbnail_tNHb.jpg?x=1280",
@@ -986,7 +978,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "\"Monster Hunter Wilds\"—whose major expansion releases in 2027— is on sale for for 25% off! But there's more! The \"Monster Hunter Series Pack,\" (Bundle) which c…",
       "publishedAt": "2026-10-02T08:34:04.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/44795648/30302d9fc79a793f9d6a4ba736148303013217c0.jpg",
+      "image": "https://clan.fastly.steamstatic.com/images/44795648/30302d9fc79a793f9d6a4ba736148303013217c0.jpg",
       "categories": [
         "other"
       ],
@@ -1023,7 +1015,7 @@
       "title": "『モンスターハンターライズ』がSteam Storeで399円！「CAPCOM AUTUMN SALE」が開催中",
       "url": "https://ascii.jp/elem/000/004/439/4439706/",
       "host": "ascii.jp",
-      "source": "ASCII.jp",
+      "source": "ascii.jp",
       "summary": "",
       "publishedAt": "2026-10-02T07:55:00.000Z",
       "image": "https://ascii.jp/img/2026/10/02/4533232/xl/409abcc77216de65.jpg?20200122",
@@ -1122,6 +1114,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "310bc849231e",
+      "title": "【モンハンワイルズ】英雄の証の解放条件と報酬【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/545421",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-02T05:46:10.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545421.png?date=1771483075",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "010ece4575cd",
@@ -1435,7 +1448,7 @@
       "title": "『モンスターハンター』ジンオウガが「PLAfig.」に登場！『頭文字D』舘 智幸 EK9 シビック TYPE Rやエヴァ初号機＆零号機のカワサキNinjaなどが初展示！【2026第64回全日本模型ホビーショー速報レポート】青島文化教材社",
       "url": "https://hobby.dengeki.com/event/3178213/",
       "host": "hobby.dengeki.com",
-      "source": "電撃ホビーウェブ",
+      "source": "hobby.dengeki.com",
       "summary": "",
       "publishedAt": "2026-10-02T00:00:00.000Z",
       "image": "https://hobby.dengeki.com/ss/hobby/2026/10/469b052e3131133723f1851142a51ec0_Bpct9XLWHS7wHDNSx-QKszzuZ8y79yyR_bT_8AVxv1tSk_HWTnjwerzhFjNiO1s4N.jpg",
@@ -1658,12 +1671,12 @@
     {
       "id": "0f71c7f65f85",
       "title": "『モンハン』めじるしアクセサリーが初登場！デフォルメされたリオレウスやジンオウガ、フルフルなど全6種がラインナップ",
-      "url": "https://news.infoseek.co.jp/article/inside_188545/",
-      "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
+      "url": "https://s.inside-games.jp/article/2026/10/01/188545.html?pickup-text-list",
+      "host": "s.inside-games.jp",
+      "source": "インサイド",
       "summary": "",
       "publishedAt": "2026-10-01T00:50:03.000Z",
-      "image": "https://media.image.infoseek.co.jp/isnews/photos/inside/inside_188545_0-enlarge.jpg",
+      "image": "https://www.inside-games.jp/imgs/ogp_f/1787813.jpg",
       "categories": [
         "other"
       ],
@@ -1756,27 +1769,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "50439e380cf4",
-      "title": "【モンハンワイルズ】強さの頂き、その先への攻略と報酬【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/499651",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-30T04:24:10.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/499651.png?date=1748395656",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "18f68ea8d869",
@@ -1966,16 +1958,16 @@
       "isNew": false
     },
     {
-      "id": "8511963a30d5",
-      "title": "【アセンダンス】チャアクの操作と新要素・ブーストアクション【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/485556",
+      "id": "6d4b79f8e27f",
+      "title": "【モンハンワイルズ】ギンイロカネの入手方法と効率的な集め方【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/488572",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-09-30T00:17:10.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485556.png?date=1789754685",
+      "publishedAt": "2026-09-30T00:17:15.000Z",
+      "image": "",
       "categories": [
-        "other"
+        "guide"
       ],
       "series": [
         "wilds"
@@ -1984,17 +1976,17 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
-      "id": "2e35b0425db9",
-      "title": "【アセンダンス】操虫棍の操作と新要素・ブーストアクション【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/485477",
+      "id": "8511963a30d5",
+      "title": "【アセンダンス】チャアクの操作と新要素・ブーストアクション【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/485556",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-09-30T00:16:44.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485477.png?date=1789768605",
+      "publishedAt": "2026-09-30T00:17:10.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485556.png?date=1789754685",
       "categories": [
         "other"
       ],
