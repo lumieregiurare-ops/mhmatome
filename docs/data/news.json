@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-02T02:30:17.013Z",
+  "updatedAt": "2026-10-02T03:00:17.468Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 79,
-  "todayCount": 5,
+  "total": 74,
+  "todayCount": 7,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 6
+      "count": 4
     },
     {
       "id": "update",
@@ -37,7 +37,7 @@
     {
       "id": "media",
       "label": "映像・音楽・書籍",
-      "count": 2
+      "count": 1
     },
     {
       "id": "guide",
@@ -62,19 +62,19 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 60
+      "count": 58
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 40
+      "count": 41
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 4
+      "count": 5
     },
     {
       "id": "world",
@@ -89,12 +89,12 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 2
+      "count": 1
     },
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 21
+      "count": 14
     }
   ],
   "sources": [
@@ -107,10 +107,6 @@
       "count": 12
     },
     {
-      "name": "インサイド",
-      "count": 4
-    },
-    {
       "name": "PR TIMES",
       "count": 2
     },
@@ -119,7 +115,7 @@
       "count": 2
     },
     {
-      "name": "CGWORLD.jp",
+      "name": "インサイド",
       "count": 2
     },
     {
@@ -127,12 +123,16 @@
       "count": 2
     },
     {
-      "name": "電撃オンライン",
+      "name": "4Gamer.net",
       "count": 2
     },
     {
-      "name": "4Gamer.net",
-      "count": 2
+      "name": "GAME Watch",
+      "count": 1
+    },
+    {
+      "name": "gamebiz【ゲームビズ】",
+      "count": 1
     },
     {
       "name": "Hobby JAPAN Web",
@@ -151,7 +151,7 @@
       "count": 1
     },
     {
-      "name": "collabo-cafe.com",
+      "name": "コラボカフェ",
       "count": 1
     },
     {
@@ -167,7 +167,15 @@
       "count": 1
     },
     {
-      "name": "zakⅡ",
+      "name": "CGWORLD.jp",
+      "count": 1
+    },
+    {
+      "name": "zakzak.co.jp",
+      "count": 1
+    },
+    {
+      "name": "サンスポ",
       "count": 1
     },
     {
@@ -175,7 +183,7 @@
       "count": 1
     },
     {
-      "name": "게임메카",
+      "name": "電撃オンライン",
       "count": 1
     },
     {
@@ -187,7 +195,7 @@
       "count": 1
     },
     {
-      "name": "appbank.net",
+      "name": "AppBank",
       "count": 1
     },
     {
@@ -199,19 +207,7 @@
       "count": 1
     },
     {
-      "name": "ファミ通.com",
-      "count": 1
-    },
-    {
-      "name": "Gamer",
-      "count": 1
-    },
-    {
-      "name": "gamebiz【ゲームビズ】",
-      "count": 1
-    },
-    {
-      "name": "GAME Watch",
+      "name": "article.auone.jp",
       "count": 1
     },
     {
@@ -228,11 +224,10 @@
       "image": "https://gamerszone.jp/images/upload/2026/10/f2e77ee5dc22a2a1e3dc79408cbecf9f.jpg",
       "leadSource": "gamerszone.jp",
       "publishedAt": "2026-10-01T01:56:07.000Z",
-      "sourceCount": 12,
-      "articleCount": 12,
+      "sourceCount": 7,
+      "articleCount": 7,
       "categories": [
-        "other",
-        "new"
+        "other"
       ],
       "keywords": [
         "アウトランダーズ",
@@ -250,7 +245,7 @@
         {
           "title": "『モンスターハンターアウトランダーズ』、10月29日から正式サービス開始！ 事前登録受付中",
           "url": "https://www.appbank.net/2026/09/29/game/3117425.php",
-          "source": "appbank.net",
+          "source": "AppBank",
           "publishedAt": "2026-09-29T06:32:36.000Z",
           "isPR": false
         },
@@ -281,19 +276,40 @@
           "source": "インサイド",
           "publishedAt": "2026-09-29T03:05:02.000Z",
           "isPR": false
-        },
+        }
+      ]
+    },
+    {
+      "id": "74457e57d1a7",
+      "title": "【モンハン】「モンスターハンター めじるしアクセサリー」、10月第4週発売 リオレウス、フルフルなどがデフォルメデザインで登場",
+      "summary": "",
+      "url": "https://game.watch.impress.co.jp/docs/news/2145105.html",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2145/105/0.jpg",
+      "leadSource": "GAME Watch",
+      "publishedAt": "2026-10-02T02:50:59.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "アクセサリー",
+        "リオレウス",
+        "フルフル"
+      ],
+      "articles": [
         {
-          "title": "スマホアプリ『モンスターハンターアウトランダーズ』の正式サービス開始日が10月29日に決定！",
-          "url": "http://news.dengeki.com/article/202609/89446",
-          "source": "電撃オンライン",
-          "publishedAt": "2026-09-29T02:55:00.000Z",
+          "title": "モンスターハンター めじるしアクセサリー 10月第4週より発売!",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOUNSQkxjcTFLeEsxREREUUJWUFhrQVdsZjc3Q2VyYnN3d0hhdXhkaXUwenJudnFOd1EzdndyT2RVeS0zYmhUclI2LWNwNXNvZG1GMnZTb29VNV9MRXlsYUpKZlFmb09WeWpZLUY2UkJUeklfaFFFNlh1M3NuY0NyTU56ODlYYllSbWJWNjNyVDZLUdIBmgFBVV95cUxNUm1DaU1VTnNHVkVIMk9wSVN2cGJVckRFV2FKVmtrRncyRWwzMHpEaUFMWFBTZHl2OFNta3JfZUo1V1RoLWFNaG5zcm1xdnh1QkR3QTdFN3lQek1LV291UGgzSllBVHJFWmR4WFpCdzJXMzN4dktrZGhfZTBLeTNUSG9hTm5sTC1tN1JESXF1U0lwOVdvOHRKc2JR?oc=5",
+          "source": "コラボカフェ",
+          "publishedAt": "2026-10-01T09:09:06.000Z",
           "isPR": false
         },
         {
-          "title": "『モンハンアウトランダーズ』10月29日より正式サービス開始。狩猟アクションをお手軽に楽しめるスマホ向け新作ゲームアプリ",
-          "url": "https://www.famitsu.com/article/202609/89444",
-          "source": "ファミ通.com",
-          "publishedAt": "2026-09-29T02:49:00.000Z",
+          "title": "『モンハン』めじるしアクセサリーが初登場！デフォルメされたリオレウスやジンオウガ、フルフルなど全6種がラインナップ",
+          "url": "https://www.inside-games.jp/article/2026/10/01/188545.html",
+          "source": "インサイド",
+          "publishedAt": "2026-10-01T00:50:03.000Z",
           "isPR": false
         }
       ]
@@ -363,37 +379,30 @@
       ]
     },
     {
-      "id": "b8b3fb654e6b",
-      "title": "『モンスターハンターアウトランダーズ』2026年10月29日（木）に正式リリース！光稜龍ルガ・エアルダ討伐を先行体験＆開発陣へのインタビューもお届け",
+      "id": "fb8a2ed57abe",
+      "title": "カプコン、Nintendo Switch 2版『モンスターハンターワイルズ』の体験会をCAPCOMIXあべのHoop店、みなとみらい店で開催決定！",
       "summary": "",
-      "url": "https://gamewith.jp/gamedb/8636/articles/63786",
-      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/8636/rectangle/63786.png?t=1790727937",
-      "leadSource": "GameWith",
-      "publishedAt": "2026-09-30T00:25:36.000Z",
+      "url": "https://gamebiz.jp/news/433494",
+      "image": "https://i3.gamebiz.jp/media/eb9dd577-117e-4bc1-8222-086fc9a44ae3.jpg",
+      "leadSource": "gamebiz【ゲームビズ】",
+      "publishedAt": "2026-10-02T02:16:00.000Z",
       "sourceCount": 2,
-      "articleCount": 3,
+      "articleCount": 2,
       "categories": [
         "other"
       ],
       "keywords": [
-        "アウトランダーズ",
-        "モンスターハンターアウトランダーズ",
-        "エアルダ"
+        "モンスターハンターワイルズ",
+        "capcomix",
+        "hoop"
       ],
       "articles": [
         {
-          "title": "「聖騎士」から生まれた古龍―『モンスターハンターアウトランダーズ』開発者インタビュー【TGS2026】",
-          "url": "https://www.inside-games.jp/article/2026/09/29/188443.html",
-          "source": "インサイド",
-          "publishedAt": "2026-09-29T02:45:08.000Z",
-          "isPR": false
-        },
-        {
-          "title": "“ふたつの太陽”に焼かれかけた―『モンスターハンターアウトランダーズ』古龍ルガ・エアルダ戦プレイレポ【TGS2026】",
-          "url": "https://www.inside-games.jp/article/2026/09/29/188442.html",
-          "source": "インサイド",
-          "publishedAt": "2026-09-29T02:45:05.000Z",
-          "isPR": false
+          "title": "Nintendo Switch™ 2 版『モンスターハンターワイルズ』の体験会をCAPCOMIX あべのHoop店、みなとみらい店で開催決定！",
+          "url": "https://prtimes.jp/main/html/rd/p/000006091.000013450.html",
+          "source": "PR TIMES",
+          "publishedAt": "2026-10-02T02:00:02.000Z",
+          "isPR": true
         }
       ]
     },
@@ -425,16 +434,112 @@
           "isPR": false
         }
       ]
+    },
+    {
+      "id": "3ceb5d91d71b",
+      "title": "［試打会レポ］今度の狩りはG数上乗せ!『スマスロ モンスターハンターライズ：サンブレイク』",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwa3hQVFdlVG9VaUhkbk0tb2k5QUhlM01lREJKYWF4MVlCb3dLRXl1U0dkR3JYZWhwYkJPUDhkN1hCZ2ROdk5BdGVtT1N1TUVaUlJ1TFlLS3ZfVXJtaTRYclNUeXFnMlZXN0ppOUJfUnRGbC05bFROUtIBjAFBVV95cUxQd05BcHFrbUR1cjhLU2NsTURkaDdPa1Q0VFRlVWJhZHZhVVQyYUVEQkdzM0FwUHFYT1dpM05ncUhIMFppbWhuQ3FhdnNsZEMyV1YzNlBCZlVfSTgzQkI2Um1vQkNnZlg4RUM5UVZJMEx5WWhFMFNmTlpnWFpKRnlPdy1SdDNiXzRPbEUyYQ?oc=5",
+      "image": "https://www.sanspo.com/common/images/basic/thumb_default_og.jpg",
+      "leadSource": "zakzak.co.jp",
+      "publishedAt": "2026-09-30T04:46:58.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "サンブレイク",
+        "スマスロ",
+        "モンスターハンターライズ"
+      ],
+      "articles": [
+        {
+          "title": "【試打会レポ】今度の狩りはG数上乗せ!『スマスロ モンスターハンターライズ:サンブレイク』（写真・画像 11/15）",
+          "url": "https://www.sanspo.com/article/20260930-YE6VPNNZTNEGTKCTBXPH6UYOLY/photo/KH2M6CUVPFDGFJIXPNOK7NBTJA/",
+          "source": "サンスポ",
+          "publishedAt": "2026-09-30T04:40:44.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "b8b3fb654e6b",
+      "title": "『モンスターハンターアウトランダーズ』2026年10月29日（木）に正式リリース！光稜龍ルガ・エアルダ討伐を先行体験＆開発陣へのインタビューもお届け",
+      "summary": "",
+      "url": "https://gamewith.jp/gamedb/8636/articles/63786",
+      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/8636/rectangle/63786.png?t=1790727937",
+      "leadSource": "GameWith",
+      "publishedAt": "2026-09-30T00:25:36.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "アウトランダーズ",
+        "モンスターハンターアウトランダーズ",
+        "インタビュー"
+      ],
+      "articles": [
+        {
+          "title": "「聖騎士」から生まれた古龍―『モンスターハンターアウトランダーズ』開発者インタビュー【TGS2026】",
+          "url": "https://article.auone.jp/article/3b0063fa-1d33-4948-8132-059c21c32601",
+          "source": "article.auone.jp",
+          "publishedAt": "2026-09-29T03:21:00.000Z",
+          "isPR": false
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-02T02:00:17.783Z",
-    "previousCount": 83,
-    "newCount": 1
+    "previousAt": "2026-10-02T02:30:17.013Z",
+    "previousCount": 79,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-02T03:00:17.013Z",
+  "nextUpdateAt": "2026-10-02T03:30:17.468Z",
   "items": [
+    {
+      "id": "74457e57d1a7",
+      "title": "【モンハン】「モンスターハンター めじるしアクセサリー」、10月第4週発売 リオレウス、フルフルなどがデフォルメデザインで登場",
+      "url": "https://game.watch.impress.co.jp/docs/news/2145105.html",
+      "host": "game.watch.impress.co.jp",
+      "source": "GAME Watch",
+      "summary": "",
+      "publishedAt": "2026-10-02T02:50:59.000Z",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2145/105/0.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "fb8a2ed57abe",
+      "title": "カプコン、Nintendo Switch 2版『モンスターハンターワイルズ』の体験会をCAPCOMIXあべのHoop店、みなとみらい店で開催決定！",
+      "url": "https://gamebiz.jp/news/433494",
+      "host": "gamebiz.jp",
+      "source": "gamebiz【ゲームビズ】",
+      "summary": "",
+      "publishedAt": "2026-10-02T02:16:00.000Z",
+      "image": "https://i3.gamebiz.jp/media/eb9dd577-117e-4bc1-8222-086fc9a44ae3.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "1700ff71e01e",
       "title": "Nintendo Switch™ 2 版『モンスターハンターワイルズ』の体験会をCAPCOMIX あべのHoop店、みなとみらい店で開催決定！",
@@ -454,7 +559,7 @@
       "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "be491549caa4",
@@ -748,11 +853,11 @@
       "isNew": false
     },
     {
-      "id": "1cefde18597a",
-      "title": "モンスターハンター めじるしアクセサリー 10月第4週より発売! - collabo-cafe.com",
+      "id": "671772497b3d",
+      "title": "モンスターハンター めじるしアクセサリー 10月第4週より発売!",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOUNSQkxjcTFLeEsxREREUUJWUFhrQVdsZjc3Q2VyYnN3d0hhdXhkaXUwenJudnFOd1EzdndyT2RVeS0zYmhUclI2LWNwNXNvZG1GMnZTb29VNV9MRXlsYUpKZlFmb09WeWpZLUY2UkJUeklfaFFFNlh1M3NuY0NyTU56ODlYYllSbWJWNjNyVDZLUdIBmgFBVV95cUxNUm1DaU1VTnNHVkVIMk9wSVN2cGJVckRFV2FKVmtrRncyRWwzMHpEaUFMWFBTZHl2OFNta3JfZUo1V1RoLWFNaG5zcm1xdnh1QkR3QTdFN3lQek1LV291UGgzSllBVHJFWmR4WFpCdzJXMzN4dktrZGhfZTBLeTNUSG9hTm5sTC1tN1JESXF1U0lwOVdvOHRKc2JR?oc=5",
       "host": "collabo-cafe.com",
-      "source": "collabo-cafe.com",
+      "source": "コラボカフェ",
       "summary": "",
       "publishedAt": "2026-10-01T09:09:06.000Z",
       "image": "",
@@ -764,7 +869,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "b5d6fe40ab2e",
@@ -1246,7 +1351,7 @@
       "title": "［試打会レポ］今度の狩りはG数上乗せ!『スマスロ モンスターハンターライズ：サンブレイク』",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwa3hQVFdlVG9VaUhkbk0tb2k5QUhlM01lREJKYWF4MVlCb3dLRXl1U0dkR3JYZWhwYkJPUDhkN1hCZ2ROdk5BdGVtT1N1TUVaUlJ1TFlLS3ZfVXJtaTRYclNUeXFnMlZXN0ppOUJfUnRGbC05bFROUtIBjAFBVV95cUxQd05BcHFrbUR1cjhLU2NsTURkaDdPa1Q0VFRlVWJhZHZhVVQyYUVEQkdzM0FwUHFYT1dpM05ncUhIMFppbWhuQ3FhdnNsZEMyV1YzNlBCZlVfSTgzQkI2Um1vQkNnZlg4RUM5UVZJMEx5WWhFMFNmTlpnWFpKRnlPdy1SdDNiXzRPbEUyYQ?oc=5",
       "host": "zakzak.co.jp",
-      "source": "zakⅡ",
+      "source": "zakzak.co.jp",
       "summary": "",
       "publishedAt": "2026-09-30T04:46:58.000Z",
       "image": "",
@@ -1261,6 +1366,27 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "60ea4af7c7f6",
+      "title": "【試打会レポ】今度の狩りはG数上乗せ!『スマスロ モンスターハンターライズ:サンブレイク』（写真・画像 11/15）",
+      "url": "https://www.sanspo.com/article/20260930-YE6VPNNZTNEGTKCTBXPH6UYOLY/photo/KH2M6CUVPFDGFJIXPNOK7NBTJA/",
+      "host": "sanspo.com",
+      "source": "サンスポ",
+      "summary": "",
+      "publishedAt": "2026-09-30T04:40:44.000Z",
+      "image": "https://www.sanspo.com/common/images/basic/thumb_default_og.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "18f68ea8d869",
@@ -1316,27 +1442,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4b4221ae45e5",
-      "title": "いよいよモバイルへ、「モンスターハンター アウトランダーズ」10月29日発売",
-      "url": "https://www.gamemeca.com/ja/view.php?gid",
-      "host": "gamemeca.com",
-      "source": "게임메카",
-      "summary": "",
-      "publishedAt": "2026-09-30T01:11:57.000Z",
-      "image": "https://cdn.gamemeca.com/g17/images/common/meca_logo_sns.gif",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1702,27 +1807,6 @@
       "isNew": false
     },
     {
-      "id": "acc367d27640",
-      "title": "【モンスターハンターアウトランダーズ】配信日と事前登録情報｜最新情報｜モンハンアウトランダーズ",
-      "url": "https://appmedia.jp/newgame/78294395",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-09-29T07:00:00.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2024/11/outlanders_result.webp",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "4b8431f2d480",
       "title": "『モンスターハンターアウトランダーズ』のゲーム概要や公式発表の情報まとめ！モンハン新作アプリはオープンワールド！",
       "url": "https://gamewith.jp/gamedb/8636/articles/20086",
@@ -1744,11 +1828,32 @@
       "isNew": false
     },
     {
+      "id": "acc367d27640",
+      "title": "【モンスターハンターアウトランダーズ】配信日と事前登録情報｜最新情報｜モンハンアウトランダーズ",
+      "url": "https://appmedia.jp/newgame/78294395",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-09-29T07:00:00.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2024/11/outlanders_result.webp",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "e957f3fe820e",
       "title": "『モンスターハンターアウトランダーズ』、10月29日から正式サービス開始！ 事前登録受付中",
       "url": "https://www.appbank.net/2026/09/29/game/3117425.php",
       "host": "appbank.net",
-      "source": "appbank.net",
+      "source": "AppBank",
       "summary": "",
       "publishedAt": "2026-09-29T06:32:36.000Z",
       "image": "https://www.appbank.net/wp-content/uploads/2026/09/20260929_122005_811_01.webp",
@@ -1870,6 +1975,27 @@
       "isNew": false
     },
     {
+      "id": "b068eed6897d",
+      "title": "「聖騎士」から生まれた古龍―『モンスターハンターアウトランダーズ』開発者インタビュー【TGS2026】",
+      "url": "https://article.auone.jp/article/3b0063fa-1d33-4948-8132-059c21c32601",
+      "host": "article.auone.jp",
+      "source": "article.auone.jp",
+      "summary": "",
+      "publishedAt": "2026-09-29T03:21:00.000Z",
+      "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/09/30/https___news_jp_i_1477505978311787245_w640.webp",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "0335c27ff127",
       "title": "スマホで狩猟解禁！『モンスターハンターアウトランダーズ』が10月29日正式サービス開始決定ーシリーズP・辻本良三氏らによるメッセージを公開",
       "url": "https://www.inside-games.jp/article/2026/09/29/188445.html",
@@ -1880,174 +2006,6 @@
       "image": "https://www.inside-games.jp/imgs/ogp_f/1786784.jpg",
       "categories": [
         "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "a91ffa9e95fb",
-      "title": "スマホアプリ『モンスターハンターアウトランダーズ』の正式サービス開始日が10月29日に決定！",
-      "url": "http://news.dengeki.com/article/202609/89446",
-      "host": "news.dengeki.com",
-      "source": "電撃オンライン",
-      "summary": "",
-      "publishedAt": "2026-09-29T02:55:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/89446/ogp_BIAE.jpg?x=1280",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "1ce4c5a8b1d9",
-      "title": "RE ENGINEで実現した『モンスターハンターストーリーズ3 ～運命の双竜～』の幻想的なアニメ調レンダリング～CEDEC 2026（3）",
-      "url": "https://cgworld.jp/article/202609-cedec-mhs3.html",
-      "host": "cgworld.jp",
-      "source": "CGWORLD.jp",
-      "summary": "",
-      "publishedAt": "2026-09-29T02:52:38.000Z",
-      "image": "https://cgworld.jp/article/assets_c/2026/09/c4c988953fd4a25c7948dbac15111078c984c209-thumb-1000x564-88567.jpg",
-      "categories": [
-        "media"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f29ae91d9935",
-      "title": "『モンハンアウトランダーズ』10月29日より正式サービス開始。狩猟アクションをお手軽に楽しめるスマホ向け新作ゲームアプリ",
-      "url": "https://www.famitsu.com/article/202609/89444",
-      "host": "famitsu.com",
-      "source": "ファミ通.com",
-      "summary": "",
-      "publishedAt": "2026-09-29T02:49:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/89444/thumbnail_AjtA.jpg?x=1280",
-      "categories": [
-        "new"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e99b920554a8",
-      "title": "「モンスターハンターアウトランダーズ」のサービス開始日が10月29日に決定！開発陣のコメント動画も公開",
-      "url": "https://www.gamer.ne.jp/news/202609290006/",
-      "host": "gamer.ne.jp",
-      "source": "Gamer",
-      "summary": "",
-      "publishedAt": "2026-09-29T02:47:00.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "b068eed6897d",
-      "title": "「聖騎士」から生まれた古龍―『モンスターハンターアウトランダーズ』開発者インタビュー【TGS2026】",
-      "url": "https://www.inside-games.jp/article/2026/09/29/188443.html",
-      "host": "inside-games.jp",
-      "source": "インサイド",
-      "summary": "",
-      "publishedAt": "2026-09-29T02:45:08.000Z",
-      "image": "https://www.inside-games.jp/imgs/ogp_f/1786000.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "745bbf71eeae",
-      "title": "“ふたつの太陽”に焼かれかけた―『モンスターハンターアウトランダーズ』古龍ルガ・エアルダ戦プレイレポ【TGS2026】",
-      "url": "https://www.inside-games.jp/article/2026/09/29/188442.html",
-      "host": "inside-games.jp",
-      "source": "インサイド",
-      "summary": "",
-      "publishedAt": "2026-09-29T02:45:05.000Z",
-      "image": "https://www.inside-games.jp/imgs/ogp_f/1785991.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "cf3b1135ec05",
-      "title": "TiMi Studio Group、スマホ向けサバイバル・ハンティングアクションゲーム『モンスターハンターアウトランダーズ』のリリース日が10月29日に決定",
-      "url": "https://gamebiz.jp/news/433309",
-      "host": "gamebiz.jp",
-      "source": "gamebiz【ゲームビズ】",
-      "summary": "",
-      "publishedAt": "2026-09-29T02:37:00.000Z",
-      "image": "https://i3.gamebiz.jp/media/67c60407-264a-4ae2-a4de-82211b062405.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f9da0e660056",
-      "title": "スマホで遊べる新作「モンハン」！ 「モンスターハンターアウトランダーズ」が10月29日に配信決定",
-      "url": "https://game.watch.impress.co.jp/docs/news/2143990.html",
-      "host": "game.watch.impress.co.jp",
-      "source": "GAME Watch",
-      "summary": "",
-      "publishedAt": "2026-09-29T02:35:56.000Z",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2143/990/1.jpg",
-      "categories": [
-        "new"
       ],
       "series": [
         "outlanders"
