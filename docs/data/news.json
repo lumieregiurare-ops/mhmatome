@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T13:00:16.388Z",
+  "updatedAt": "2026-10-02T13:30:18.969Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,12 +7,12 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 74,
-  "todayCount": 34,
+  "todayCount": 36,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 6
+      "count": 5
     },
     {
       "id": "update",
@@ -42,12 +42,12 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 6
+      "count": 7
     },
     {
       "id": "sale",
       "label": "セール",
-      "count": 3
+      "count": 4
     },
     {
       "id": "community",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 55
+      "count": 54
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 44
+      "count": 43
     },
     {
       "id": "rise",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 2
+      "count": 3
     },
     {
       "id": "outlanders",
@@ -131,11 +131,15 @@
       "count": 2
     },
     {
+      "name": "gamebiz【ゲームビズ】",
+      "count": 2
+    },
+    {
       "name": "電ファミニコゲーマー",
       "count": 2
     },
     {
-      "name": "4Gamer",
+      "name": "4Gamer.net",
       "count": 1
     },
     {
@@ -147,7 +151,7 @@
       "count": 1
     },
     {
-      "name": "ASCII.jp",
+      "name": "ascii.jp",
       "count": 1
     },
     {
@@ -164,10 +168,6 @@
     },
     {
       "name": "CAPCOM",
-      "count": 1
-    },
-    {
-      "name": "gamebiz【ゲームビズ】",
       "count": 1
     },
     {
@@ -203,10 +203,6 @@
       "count": 1
     },
     {
-      "name": "zakⅡ",
-      "count": 1
-    },
-    {
       "name": "ゲーム情報！ゲームのはなし",
       "count": 1
     },
@@ -224,8 +220,8 @@
       "image": "https://game.watch.impress.co.jp/img/gmw/list/2145/296/1.jpg",
       "leadSource": "GAME Watch",
       "publishedAt": "2026-10-02T11:30:47.000Z",
-      "sourceCount": 4,
-      "articleCount": 4,
+      "sourceCount": 5,
+      "articleCount": 5,
       "categories": [
         "other",
         "sale"
@@ -246,8 +242,15 @@
         {
           "title": "『モンスターハンターライズ』がSteam Storeで399円！「CAPCOM AUTUMN SALE」が開催中",
           "url": "https://ascii.jp/elem/000/004/439/4439706/",
-          "source": "ASCII.jp",
+          "source": "ascii.jp",
           "publishedAt": "2026-10-02T07:55:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "カプコン、「CAPCOM AUTUMN SALE」を開催！ 『モンスターハンターライズ』や『ストリートファイター6』がSteam Storeでお得な価格でセール中！",
+          "url": "https://gamebiz.jp/news/433517",
+          "source": "gamebiz【ゲームビズ】",
+          "publishedAt": "2026-10-02T05:35:00.000Z",
           "isPR": false
         },
         {
@@ -302,30 +305,30 @@
       ]
     },
     {
-      "id": "1fe2f523c16b",
-      "title": "「PlayStation祭」，10月24日に大阪で開催。「モンスターハンターワイルズ：アセンダンス」などが試遊できる",
-      "summary": "ソニー・インタラクティブエンタテインメントは本日（2026年10月2日），「PlayStation祭」を10月24日にグランフロント大阪北館1Fナレッジプラザで開催すると発表した。会場では「モンスターハンターワイルズ：アセンダンス」をはじめとするタイトルが試遊できる。",
-      "url": "https://www.4gamer.net/games/013/G101394/20261002029/",
-      "image": "https://www.4gamer.net/games/013/G101394/20261002029/SS/002.png",
-      "leadSource": "4Gamer",
+      "id": "4bfbf84dbace",
+      "title": "『FF7 リベレーション』『モンハンワイルズ：アセンダンス』などが試遊できる“PlayStation 祭”が大阪で10月24日開催。PS Plus加入者向け先着予約が本日（10/2）開始",
+      "summary": "",
+      "url": "https://www.famitsu.com/article/202610/89840",
+      "image": "https://cimg.kgl-systems.io/camion/files/89840/thumbnail_cFKb.jpg?x=1280",
+      "leadSource": "ファミ通",
       "publishedAt": "2026-10-02T10:30:00.000Z",
       "sourceCount": 3,
-      "articleCount": 14,
+      "articleCount": 15,
       "categories": [
         "new",
-        "guide"
+        "other"
       ],
       "keywords": [
         "モンハンワイルズ",
         "アセンダンス",
-        "最新情報"
+        "モンスター"
       ],
       "articles": [
         {
-          "title": "『FF7 リベレーション』『モンハンワイルズ：アセンダンス』などが試遊できる“PlayStation 祭”が大阪で10月24日開催。PS Plus加入者向け先着予約が本日（10/2）開始",
-          "url": "https://www.famitsu.com/article/202610/89840",
-          "source": "ファミ通",
-          "publishedAt": "2026-10-02T10:30:00.000Z",
+          "title": "「PlayStation祭」，10月24日に大阪で開催。「モンスターハンターワイルズ：アセンダンス」などが試遊できる",
+          "url": "https://www.4gamer.net/games/013/G101394/20261002029/",
+          "source": "4Gamer.net",
+          "publishedAt": "2026-10-02T09:21:19.000Z",
           "isPR": false
         },
         {
@@ -451,6 +454,35 @@
       ]
     },
     {
+      "id": "0150cfa72b62",
+      "title": "「ツケヒバキ」に挑む！-PART97-【モンスターハンターストーリーズ3 ～運命の双竜～】",
+      "summary": "",
+      "url": "https://youtu.be/S3b9eFkbfbc?si",
+      "image": "",
+      "leadSource": "YouTube",
+      "publishedAt": "2026-10-02T10:30:17.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other",
+        "collab"
+      ],
+      "keywords": [
+        "モンスターハンターストーリーズ",
+        "運命",
+        "双竜"
+      ],
+      "articles": [
+        {
+          "title": "『モンスターハンターストーリーズ3 ～運命の双竜～』の世界が大阪に登場！ 大阪文化回廊とのコラボが10月14日（水）よ",
+          "url": "https://news.nicovideo.jp/watch/nw19835607?from",
+          "source": "ニコニコニュース",
+          "publishedAt": "2026-10-02T06:15:47.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "4e4d3adcd05d",
       "title": "Autumn Sale Now Live!",
       "summary": "\"Monster Hunter Wilds\"—whose major expansion releases in 2027— is on sale for for 25% off! But there's more! The \"Monster Hunter Series Pack,\" (Bundle) which c…",
@@ -472,34 +504,6 @@
           "url": "https://t.co/0hVPWH3Gc4",
           "source": "t.co",
           "publishedAt": "2026-10-01T03:15:16.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "2dd90c678535",
-      "title": "『モンスターハンターストーリーズ3』×大阪文化回廊のコラボが10月14日から開催！ 府立博物館3館でスタンプラリーや展示",
-      "summary": "",
-      "url": "https://www.appbank.net/2026/10/02/game/3120213.php",
-      "image": "https://www.appbank.net/wp-content/uploads/2026/10/20261001_145016_168_01.webp",
-      "leadSource": "AppBank",
-      "publishedAt": "2026-10-02T07:51:36.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "collab"
-      ],
-      "keywords": [
-        "モンスターハンターストーリーズ",
-        "コラボ",
-        "大阪文化回廊"
-      ],
-      "articles": [
-        {
-          "title": "『モンスターハンターストーリーズ3 ～運命の双竜～』の世界が大阪に登場！ 大阪文化回廊とのコラボが10月14日（水）よ",
-          "url": "https://news.nicovideo.jp/watch/nw19835607?from",
-          "source": "ニコニコニュース",
-          "publishedAt": "2026-10-02T06:15:47.000Z",
           "isPR": false
         }
       ]
@@ -537,7 +541,7 @@
       "title": "【モンハン】「雷狼竜 ジンオウガ」がプラキット化決定！リオレウスに続くアオシマ「PLAfig. 」新作が会場初展示【青島文化教材社／第63回全日本模型ホビーショー】",
       "summary": "",
       "url": "https://hjweb.jp/article/2836741/",
-      "image": "https://hobby.dengeki.com/ss/hobby/2026/10/469b052e3131133723f1851142a51ec0_Bpct9XLWHS7wHDNSx-QKszzuZ8y79yyR_bT_8AVxv1tSk_HWTnjwerzhFjNiO1s4N.jpg",
+      "image": "https://hjweb.jp/wp-content/uploads/2026/10/DSC_7060-2-2.jpg",
       "leadSource": "Hobby JAPAN Web",
       "publishedAt": "2026-10-02T01:19:39.000Z",
       "sourceCount": 2,
@@ -591,12 +595,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-02T12:30:20.580Z",
-    "previousCount": 75,
-    "newCount": 2
+    "previousAt": "2026-10-02T13:00:16.388Z",
+    "previousCount": 74,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-02T13:30:16.388Z",
+  "nextUpdateAt": "2026-10-02T14:00:18.969Z",
   "items": [
     {
       "id": "a05df4d2d2e2",
@@ -641,6 +645,27 @@
       "isNew": false
     },
     {
+      "id": "0150cfa72b62",
+      "title": "「ツケヒバキ」に挑む！-PART97-【モンスターハンターストーリーズ3 ～運命の双竜～】",
+      "url": "https://youtu.be/S3b9eFkbfbc?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-02T10:30:17.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "4bfbf84dbace",
       "title": "『FF7 リベレーション』『モンハンワイルズ：アセンダンス』などが試遊できる“PlayStation 祭”が大阪で10月24日開催。PS Plus加入者向け先着予約が本日（10/2）開始",
       "url": "https://www.famitsu.com/article/202610/89840",
@@ -683,16 +708,37 @@
       "isNew": false
     },
     {
+      "id": "a2119f0dcdb7",
+      "title": "【モンスターハンターワイルズ 番外編 】アセンンダンス発売までに武器を全部集めよう！ 片手剣編・後編",
+      "url": "https://youtu.be/Egk0BMxKugA?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-02T09:45:25.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "1fe2f523c16b",
       "title": "「PlayStation祭」，10月24日に大阪で開催。「モンスターハンターワイルズ：アセンダンス」などが試遊できる",
       "url": "https://www.4gamer.net/games/013/G101394/20261002029/",
       "host": "4gamer.net",
-      "source": "4Gamer",
-      "summary": "ソニー・インタラクティブエンタテインメントは本日（2026年10月2日），「PlayStation祭」を10月24日にグランフロント大阪北館1Fナレッジプラザで開催すると発表した。会場では「モンスターハンターワイルズ：アセンダンス」をはじめとするタイトルが試遊できる。",
+      "source": "4Gamer.net",
+      "summary": "",
       "publishedAt": "2026-10-02T09:21:19.000Z",
-      "image": "https://www.4gamer.net/games/013/G101394/20261002029/SS/002.png",
+      "image": "",
       "categories": [
-        "new"
+        "other"
       ],
       "series": [
         "wilds"
@@ -828,7 +874,7 @@
       "title": "『モンスターハンターライズ』がSteam Storeで399円！「CAPCOM AUTUMN SALE」が開催中",
       "url": "https://ascii.jp/elem/000/004/439/4439706/",
       "host": "ascii.jp",
-      "source": "ASCII.jp",
+      "source": "ascii.jp",
       "summary": "",
       "publishedAt": "2026-10-02T07:55:00.000Z",
       "image": "https://ascii.jp/img/2026/10/02/4533232/xl/409abcc77216de65.jpg?20200122",
@@ -858,27 +904,6 @@
       ],
       "series": [
         "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4aa28824c08c",
-      "title": "狩王日本1位に裏話を聞いたら考え方の次元が違い過ぎた【モンハンワイルズ】",
-      "url": "https://youtu.be/sj0f0W5bffU?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-02T07:45:28.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -969,6 +994,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "e3979dec2843",
+      "title": "カプコン、「CAPCOM AUTUMN SALE」を開催！ 『モンスターハンターライズ』や『ストリートファイター6』がSteam Storeでお得な価格でセール中！",
+      "url": "https://gamebiz.jp/news/433517",
+      "host": "gamebiz.jp",
+      "source": "gamebiz【ゲームビズ】",
+      "summary": "",
+      "publishedAt": "2026-10-02T05:35:00.000Z",
+      "image": "https://i3.gamebiz.jp/media/03ce3f0e-6292-458d-b882-9f3fb286912b.jpg",
+      "categories": [
+        "sale"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "4a7a71620dac",
@@ -1203,7 +1249,7 @@
       "source": "Hobby JAPAN Web",
       "summary": "",
       "publishedAt": "2026-10-02T01:19:39.000Z",
-      "image": "",
+      "image": "https://hjweb.jp/wp-content/uploads/2026/10/DSC_7060-2-2.jpg",
       "categories": [
         "new"
       ],
@@ -1349,27 +1395,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/520491.png?date=1758724718",
       "categories": [
         "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "a2119f0dcdb7",
-      "title": "【モンスターハンターワイルズ 番外編 】アセンンダンス発売までに武器を全部集めよう！ 片手剣編・前編",
-      "url": "https://youtu.be/d1TEml9L8i0?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-01T09:45:01.000Z",
-      "image": "",
-      "categories": [
-        "other"
       ],
       "series": [
         "wilds"
@@ -1564,6 +1589,27 @@
       "isNew": false
     },
     {
+      "id": "f5f4b66f2fff",
+      "title": "【モンハンワイルズ】チャアクの操作方法と使い方・立ち回り【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/461266",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-09-30T13:43:28.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/461266.png?date=1727178690",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "bb207b01bdb1",
       "title": "『モンスターハンターワイルズ』グローバル展開で膨大なカットシーンの英語リップシンクを実現。自動音声アニメーションシステム「SGX」活用と効率化",
       "url": "https://cgworld.jp/special-feature/2609-sgx.html",
@@ -1624,27 +1670,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "3ceb5d91d71b",
-      "title": "［試打会レポ］今度の狩りはG数上乗せ!『スマスロ モンスターハンターライズ：サンブレイク』",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwa3hQVFdlVG9VaUhkbk0tb2k5QUhlM01lREJKYWF4MVlCb3dLRXl1U0dkR3JYZWhwYkJPUDhkN1hCZ2ROdk5BdGVtT1N1TUVaUlJ1TFlLS3ZfVXJtaTRYclNUeXFnMlZXN0ppOUJfUnRGbC05bFROUtIBjAFBVV95cUxQd05BcHFrbUR1cjhLU2NsTURkaDdPa1Q0VFRlVWJhZHZhVVQyYUVEQkdzM0FwUHFYT1dpM05ncUhIMFppbWhuQ3FhdnNsZEMyV1YzNlBCZlVfSTgzQkI2Um1vQkNnZlg4RUM5UVZJMEx5WWhFMFNmTlpnWFpKRnlPdy1SdDNiXzRPbEUyYQ?oc=5",
-      "host": "zakzak.co.jp",
-      "source": "zakⅡ",
-      "summary": "",
-      "publishedAt": "2026-09-30T04:46:58.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "18f68ea8d869",
@@ -1832,27 +1857,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "d9fbb3c40c67",
-      "title": "【アセンダンス】ライトボウガンの操作と新要素・ブーストアクション【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/485557",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-09-30T00:17:25.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485557.png?date=1789745892",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "8511963a30d5",
