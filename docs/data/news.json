@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-03T06:30:14.943Z",
+  "updatedAt": "2026-10-03T07:00:15.323Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 71,
-  "todayCount": 15,
+  "total": 69,
+  "todayCount": 14,
   "categories": [
     {
       "id": "new",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 49
+      "count": 47
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 40
+      "count": 37
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 3
+      "count": 2
     },
     {
       "id": "now",
@@ -94,7 +94,7 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 0
+      "count": 1
     }
   ],
   "sources": [
@@ -104,14 +104,14 @@
     },
     {
       "name": "YouTube",
-      "count": 17
+      "count": 14
     },
     {
       "name": "AppBank",
       "count": 3
     },
     {
-      "name": "PR TIMES",
+      "name": "prtimes.jp",
       "count": 3
     },
     {
@@ -195,6 +195,10 @@
       "count": 1
     },
     {
+      "name": "gamerszone.jp",
+      "count": 1
+    },
+    {
       "name": "ニコニコニュース",
       "count": 1
     },
@@ -203,7 +207,7 @@
       "count": 1
     },
     {
-      "name": "Saiga NAK",
+      "name": "saiganak.com",
       "count": 1
     }
   ],
@@ -266,9 +270,9 @@
         {
           "title": "「CAPCOM AUTUMN SALE」開催！ 『モンスターハンターライズ』や『ストリートファイター6』がSteam Storeにてよりお得な価格でセール中！",
           "url": "https://prtimes.jp/main/html/rd/p/000006079.000013450.html",
-          "source": "PR TIMES",
+          "source": "prtimes.jp",
           "publishedAt": "2026-10-02T05:00:01.000Z",
-          "isPR": true
+          "isPR": false
         },
         {
           "title": "『モンスターハンターライズ』がSteamで90%オフで購入できるセールが開催中",
@@ -330,9 +334,9 @@
         {
           "title": "Nintendo Switch™ 2 版『モンスターハンターワイルズ』の体験会をCAPCOMIX あべのHoop店、みなとみらい店で開催決定！",
           "url": "https://prtimes.jp/main/html/rd/p/000006091.000013450.html",
-          "source": "PR TIMES",
+          "source": "prtimes.jp",
           "publishedAt": "2026-10-02T02:00:02.000Z",
-          "isPR": true
+          "isPR": false
         }
       ]
     },
@@ -464,9 +468,9 @@
         {
           "title": "『モンスターハンターストーリーズ3 ～運命の双竜～』の世界が大阪に登場！ 大阪文化回廊とのコラボが10月14日（水）より開催決定！",
           "url": "https://prtimes.jp/main/html/rd/p/000006080.000013450.html",
-          "source": "PR TIMES",
+          "source": "prtimes.jp",
           "publishedAt": "2026-10-01T05:37:40.000Z",
-          "isPR": true
+          "isPR": false
         }
       ]
     },
@@ -500,34 +504,13 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-03T06:00:15.137Z",
-    "previousCount": 72,
-    "newCount": 0
+    "previousAt": "2026-10-03T06:30:14.943Z",
+    "previousCount": 71,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-03T07:00:14.943Z",
+  "nextUpdateAt": "2026-10-03T07:30:15.323Z",
   "items": [
-    {
-      "id": "d605748fb698",
-      "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/574841",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-03T04:45:03.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574841.png?date=1789771579",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
     {
       "id": "d754d616f6f0",
       "title": "Switch 2版『モンスターハンターワイルズ』体験会が10月10日から開催！ あべのHoop店とみなとみらい店で",
@@ -904,6 +887,27 @@
       "isNew": false
     },
     {
+      "id": "d605748fb698",
+      "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/574841",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-02T13:18:10.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574841.png?date=1789771579",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "3d00e236270e",
       "title": "総再生回数34億回超えの『Spookiz（スプーキッズ）』新シーズンスタート！思い出の学校でSpookizたちが再びモンスターハンターと対峙",
       "url": "https://www.thefirsttimes.jp/news/0000892531/",
@@ -916,28 +920,6 @@
         "other"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "35ac6e0f1051",
-      "title": "【MHWilds】歴戦王ジン・ダハド 06'11 非火事場強属性チャージアックスソロ / Arch Tempered Jin Dahaad charge blade solo(No Heroics)",
-      "url": "https://youtu.be/wra0oAWnrBc?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-02T12:14:46.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1139,7 +1121,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "\"Monster Hunter Wilds\"—whose major expansion releases in 2027— is on sale for for 25% off! But there's more! The \"Monster Hunter Series Pack,\" (Bundle) which c…",
       "publishedAt": "2026-10-02T08:34:04.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/44795648/30302d9fc79a793f9d6a4ba736148303013217c0.jpg",
+      "image": "https://clan.fastly.steamstatic.com/images/44795648/30302d9fc79a793f9d6a4ba736148303013217c0.jpg",
       "categories": [
         "other"
       ],
@@ -1227,27 +1209,6 @@
       ],
       "series": [
         "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4aa28824c08c",
-      "title": "狩王日本1位に裏話を聞いたら考え方の次元が違い過ぎた【モンハンワイルズ】",
-      "url": "https://youtu.be/sj0f0W5bffU?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-02T07:45:28.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1386,7 +1347,7 @@
       "title": "「CAPCOM AUTUMN SALE」開催！ 『モンスターハンターライズ』や『ストリートファイター6』がSteam Storeにてよりお得な価格でセール中！",
       "url": "https://prtimes.jp/main/html/rd/p/000006079.000013450.html",
       "host": "prtimes.jp",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "summary": "",
       "publishedAt": "2026-10-02T05:00:01.000Z",
       "image": "https://prcdn.freetls.fastly.net/release_image/13450/6079/13450-6079-857eeb67d274165905dc021e03bb9cda-902x319.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
@@ -1397,7 +1358,7 @@
         "rise"
       ],
       "isOfficial": false,
-      "isPR": true,
+      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -1487,7 +1448,7 @@
       "title": "Nintendo Switch™ 2 版『モンスターハンターワイルズ』の体験会をCAPCOMIX あべのHoop店、みなとみらい店で開催決定！",
       "url": "https://prtimes.jp/main/html/rd/p/000006091.000013450.html",
       "host": "prtimes.jp",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "summary": "",
       "publishedAt": "2026-10-02T02:00:02.000Z",
       "image": "https://prcdn.freetls.fastly.net/release_image/13450/6091/13450-6091-609013099ce73d7e7abfce3d7c9cb0a4-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
@@ -1498,7 +1459,7 @@
         "wilds"
       ],
       "isOfficial": false,
-      "isPR": true,
+      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -1736,7 +1697,7 @@
       "title": "『モンスターハンターストーリーズ3 ～運命の双竜～』の世界が大阪に登場！ 大阪文化回廊とのコラボが10月14日（水）より開催決定！",
       "url": "https://prtimes.jp/main/html/rd/p/000006080.000013450.html",
       "host": "prtimes.jp",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "summary": "",
       "publishedAt": "2026-10-01T05:37:40.000Z",
       "image": "https://prcdn.freetls.fastly.net/release_image/13450/6080/13450-6080-9233cd52419f4f41dfafed867c9587f2-1200x1200.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
@@ -1747,7 +1708,7 @@
         "stories"
       ],
       "isOfficial": false,
-      "isPR": true,
+      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -1770,6 +1731,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "6fa814e8054f",
+      "title": "スマホ向けサバイバル・ハンティングアクション『モンスターハンターアウトランダーズ』10月29日正式サービス開始",
+      "url": "https://gamerszone.jp/post/37783",
+      "host": "gamerszone.jp",
+      "source": "gamerszone.jp",
+      "summary": "",
+      "publishedAt": "2026-10-01T01:56:07.000Z",
+      "image": "https://gamerszone.jp/images/upload/2026/10/f2e77ee5dc22a2a1e3dc79408cbecf9f.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "0f71c7f65f85",
@@ -1894,27 +1876,6 @@
       "isNew": false
     },
     {
-      "id": "a3297f680bc5",
-      "title": "初心者が行くMonster Hunter Wilds Part１",
-      "url": "https://youtu.be/__WM8kDS4kg?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-09-30T11:00:01.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "2783b3cd0948",
       "title": "【モンハンワイルズ】黒蝕ヌシが出ない人必見！蒼雷ヌシ厳選で組める準ゴール太刀装備【アセンダンス】",
       "url": "https://youtu.be/X-Rqur5lDBY?si",
@@ -1962,7 +1923,7 @@
       "title": "【TGS2026】「カプコン」ブースレポート！「バイオ」エリアでの射撃体験や「モンハン」「ロックマン」シリーズ最新作の試遊も",
       "url": "https://saiganak.com/ja/event/tgs2026-capcom-booth-report/amp/",
       "host": "saiganak.com",
-      "source": "Saiga NAK",
+      "source": "saiganak.com",
       "summary": "",
       "publishedAt": "2026-09-30T07:35:52.000Z",
       "image": "https://i0.wp.com/saiganak.com/wp-content/uploads/2026/09/tgs2026-capcom-booth-report-00.jpg?resize=1200,630",
