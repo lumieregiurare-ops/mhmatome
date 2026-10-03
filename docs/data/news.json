@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-03T08:00:14.018Z",
+  "updatedAt": "2026-10-03T08:30:14.486Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 72,
-  "todayCount": 15,
+  "total": 70,
+  "todayCount": 17,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 6
+      "count": 5
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 50
+      "count": 49
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 40
+      "count": 38
     },
     {
       "id": "rise",
@@ -99,15 +99,19 @@
   ],
   "sources": [
     {
-      "name": "GameWith",
+      "name": "gamewith.jp",
       "count": 21
     },
     {
       "name": "YouTube",
-      "count": 16
+      "count": 14
     },
     {
       "name": "appbank.net",
+      "count": 3
+    },
+    {
+      "name": "PR TIMES",
       "count": 3
     },
     {
@@ -120,10 +124,6 @@
     },
     {
       "name": "インサイド",
-      "count": 2
-    },
-    {
-      "name": "ニコニコニュース",
       "count": 2
     },
     {
@@ -159,10 +159,6 @@
       "count": 1
     },
     {
-      "name": "mantan-web.jp",
-      "count": 1
-    },
-    {
       "name": "ワイルズ公式（Steam）",
       "count": 1
     },
@@ -183,10 +179,6 @@
       "count": 1
     },
     {
-      "name": "PR TIMES",
-      "count": 1
-    },
-    {
       "name": "news.denfaminicogamer.jp",
       "count": 1
     },
@@ -203,7 +195,7 @@
       "count": 1
     },
     {
-      "name": "collabo-cafe.com",
+      "name": "コラボカフェ",
       "count": 1
     },
     {
@@ -212,6 +204,10 @@
     },
     {
       "name": "gamerszone.jp",
+      "count": 1
+    },
+    {
+      "name": "ニコニコニュース",
       "count": 1
     },
     {
@@ -243,7 +239,7 @@
         {
           "title": "『モンスターハンターライズ』『ストリートファイター6』などがお得に！CAPCOM AUTUMN SALE 開催｜最大90％OFF",
           "url": "https://gamewith.jp/pc/article/show/4358",
-          "source": "GameWith",
+          "source": "gamewith.jp",
           "publishedAt": "2026-10-02T13:36:24.000Z",
           "isPR": false
         },
@@ -262,13 +258,6 @@
           "isPR": false
         },
         {
-          "title": "「CAPCOM AUTUMN SALE」開催！ 『モンスターハンターライズ』や『ストリートファイター6』がSteam Storeにてよりお得な価格でセール中！ - mantan-web.jp",
-          "url": "https://mantan-web.jp/prtimes/article/20261002prt00m200000902a.html",
-          "source": "mantan-web.jp",
-          "publishedAt": "2026-10-02T08:38:06.000Z",
-          "isPR": false
-        },
-        {
           "title": "『モンスターハンターライズ』がSteam Storeで399円！「CAPCOM AUTUMN SALE」が開催中",
           "url": "https://ascii.jp/elem/000/004/439/4439706/",
           "source": "ASCII.jp",
@@ -281,6 +270,13 @@
           "source": "gamebiz【ゲームビズ】",
           "publishedAt": "2026-10-02T05:35:00.000Z",
           "isPR": false
+        },
+        {
+          "title": "「CAPCOM AUTUMN SALE」開催！ 『モンスターハンターライズ』や『ストリートファイター6』がSteam Storeにてよりお得な価格でセール中！",
+          "url": "https://prtimes.jp/main/html/rd/p/000006079.000013450.html",
+          "source": "PR TIMES",
+          "publishedAt": "2026-10-02T05:00:01.000Z",
+          "isPR": true
         },
         {
           "title": "『モンスターハンターライズ』がSteamで90%オフで購入できるセールが開催中",
@@ -299,8 +295,8 @@
       "image": "https://www.4gamer.net/games/013/G101394/20261002029/SS/002.png",
       "leadSource": "4Gamer",
       "publishedAt": "2026-10-03T04:32:14.000Z",
-      "sourceCount": 7,
-      "articleCount": 7,
+      "sourceCount": 6,
+      "articleCount": 6,
       "categories": [
         "other",
         "new"
@@ -316,13 +312,6 @@
           "url": "https://www.appbank.net/2026/10/03/game/3120731.php",
           "source": "appbank.net",
           "publishedAt": "2026-10-03T04:32:14.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『モンスターハンターワイルズ：アセンダンス』 - TGS 2026 特別映像",
-          "url": "https://youtu.be/Key9s_uGpUA?si",
-          "source": "YouTube",
-          "publishedAt": "2026-10-02T07:57:45.000Z",
           "isPR": false
         },
         {
@@ -382,9 +371,9 @@
           "isPR": false
         },
         {
-          "title": "モンスターハンター めじるしアクセサリー 10月第4週より発売! - collabo-cafe.com",
+          "title": "モンスターハンター めじるしアクセサリー 10月第4週より発売!",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOUNSQkxjcTFLeEsxREREUUJWUFhrQVdsZjc3Q2VyYnN3d0hhdXhkaXUwenJudnFOd1EzdndyT2RVeS0zYmhUclI2LWNwNXNvZG1GMnZTb29VNV9MRXlsYUpKZlFmb09WeWpZLUY2UkJUeklfaFFFNlh1M3NuY0NyTU56ODlYYllSbWJWNjNyVDZLUdIBmgFBVV95cUxNUm1DaU1VTnNHVkVIMk9wSVN2cGJVckRFV2FKVmtrRncyRWwzMHpEaUFMWFBTZHl2OFNta3JfZUo1V1RoLWFNaG5zcm1xdnh1QkR3QTdFN3lQek1LV291UGgzSllBVHJFWmR4WFpCdzJXMzN4dktrZGhfZTBLeTNUSG9hTm5sTC1tN1JESXF1U0lwOVdvOHRKc2JR?oc=5",
-          "source": "collabo-cafe.com",
+          "source": "コラボカフェ",
           "publishedAt": "2026-10-01T09:09:06.000Z",
           "isPR": false
         },
@@ -398,12 +387,90 @@
       ]
     },
     {
+      "id": "d605748fb698",
+      "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
+      "summary": "",
+      "url": "https://gamewith.jp/mhwilds/574841",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574841.png?date=1789771579",
+      "leadSource": "gamewith.jp",
+      "publishedAt": "2026-10-03T04:45:03.000Z",
+      "sourceCount": 2,
+      "articleCount": 13,
+      "categories": [
+        "other",
+        "guide"
+      ],
+      "keywords": [
+        "モンハンワイルズ",
+        "アセンダンス",
+        "最新情報"
+      ],
+      "articles": [
+        {
+          "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563077",
+          "source": "gamewith.jp",
+          "publishedAt": "2026-10-03T03:05:12.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563104",
+          "source": "gamewith.jp",
+          "publishedAt": "2026-10-03T02:10:39.000Z",
+          "isPR": false
+        },
+        {
+          "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
+          "url": "https://gamewith.jp/mhwilds/563096",
+          "source": "gamewith.jp",
+          "publishedAt": "2026-10-03T01:28:18.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】英傑に愛を込めての攻略と報酬【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/545381",
+          "source": "gamewith.jp",
+          "publishedAt": "2026-10-02T21:41:25.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/575038",
+          "source": "gamewith.jp",
+          "publishedAt": "2026-10-02T17:21:51.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『モンスターハンターワイルズ：アセンダンス』 - TGS 2026 特別映像",
+          "url": "https://youtu.be/Key9s_uGpUA?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-02T07:57:45.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】英雄の証の解放条件と報酬【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/545421",
+          "source": "gamewith.jp",
+          "publishedAt": "2026-10-02T05:46:10.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】Switch2版の発売日・最新情報【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563066",
+          "source": "gamewith.jp",
+          "publishedAt": "2026-10-02T05:45:25.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "8c086bb7f518",
       "title": "【モンハンナウ】モンハンNow感謝祭【3周年記念】【モンハンNow】",
       "summary": "",
       "url": "https://gamewith.jp/monsterhunternow/article/show/577438",
       "image": "",
-      "leadSource": "GameWith",
+      "leadSource": "gamewith.jp",
       "publishedAt": "2026-10-02T16:21:51.000Z",
       "sourceCount": 2,
       "articleCount": 3,
@@ -419,7 +486,7 @@
         {
           "title": "【モンハンナウ】狩人たちの夏祭り2026【モンハンNow】",
           "url": "https://gamewith.jp/monsterhunternow/article/show/573258",
-          "source": "GameWith",
+          "source": "gamewith.jp",
           "publishedAt": "2026-10-01T20:19:04.000Z",
           "isPR": false
         },
@@ -481,11 +548,11 @@
       ],
       "articles": [
         {
-          "title": "『モンスターハンターストーリーズ3 ～運命の双竜～』の世界が大阪に登場！ 大阪文化回廊とのコラボが10月14日（水）よ",
-          "url": "https://news.nicovideo.jp/watch/nw19835607?from",
-          "source": "ニコニコニュース",
-          "publishedAt": "2026-10-02T06:15:47.000Z",
-          "isPR": false
+          "title": "『モンスターハンターストーリーズ3 ～運命の双竜～』の世界が大阪に登場！ 大阪文化回廊とのコラボが10月14日（水）より開催決定！",
+          "url": "https://prtimes.jp/main/html/rd/p/000006080.000013450.html",
+          "source": "PR TIMES",
+          "publishedAt": "2026-10-01T05:37:40.000Z",
+          "isPR": true
         }
       ]
     },
@@ -511,7 +578,7 @@
         {
           "title": "【モンハンナウ】クエスト一覧【モンハンNow】",
           "url": "https://gamewith.jp/monsterhunternow/article/show/415865",
-          "source": "GameWith",
+          "source": "gamewith.jp",
           "publishedAt": "2026-09-30T11:45:23.000Z",
           "isPR": false
         }
@@ -519,19 +586,19 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-03T07:30:17.057Z",
-    "previousCount": 69,
-    "newCount": 5
+    "previousAt": "2026-10-03T08:00:14.018Z",
+    "previousCount": 72,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-03T08:30:14.018Z",
+  "nextUpdateAt": "2026-10-03T09:00:14.486Z",
   "items": [
     {
       "id": "d605748fb698",
       "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/574841",
       "host": "gamewith.jp",
-      "source": "GameWith",
+      "source": "gamewith.jp",
       "summary": "",
       "publishedAt": "2026-10-03T04:45:03.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574841.png?date=1789771579",
@@ -590,11 +657,32 @@
       "isNew": false
     },
     {
+      "id": "46ab930cbc6c",
+      "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/563077",
+      "host": "gamewith.jp",
+      "source": "gamewith.jp",
+      "summary": "",
+      "publishedAt": "2026-10-03T03:05:12.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "e08e6c8ea2a8",
       "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/563104",
       "host": "gamewith.jp",
-      "source": "GameWith",
+      "source": "gamewith.jp",
       "summary": "",
       "publishedAt": "2026-10-03T02:10:39.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563104.png?date=1789770630",
@@ -615,7 +703,7 @@
       "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
       "url": "https://gamewith.jp/mhwilds/563096",
       "host": "gamewith.jp",
-      "source": "GameWith",
+      "source": "gamewith.jp",
       "summary": "",
       "publishedAt": "2026-10-03T01:28:18.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
@@ -655,7 +743,7 @@
       "title": "【アセンダンス】大剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/485475",
       "host": "gamewith.jp",
-      "source": "GameWith",
+      "source": "gamewith.jp",
       "summary": "",
       "publishedAt": "2026-10-02T23:21:26.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485475.png?date=1789753003",
@@ -714,11 +802,32 @@
       "isNew": false
     },
     {
+      "id": "5fc879b1cca5",
+      "title": "【モンハンワイルズ】英傑に愛を込めての攻略と報酬【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/545381",
+      "host": "gamewith.jp",
+      "source": "gamewith.jp",
+      "summary": "",
+      "publishedAt": "2026-10-02T21:41:25.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545381.png?date=1771384851",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "4cd467a24cc4",
       "title": "【アセンダンス】双剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/577734",
       "host": "gamewith.jp",
-      "source": "GameWith",
+      "source": "gamewith.jp",
       "summary": "",
       "publishedAt": "2026-10-02T18:18:20.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577734.png?date=1789765976",
@@ -775,14 +884,14 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "411bb4076b94",
       "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/575038",
       "host": "gamewith.jp",
-      "source": "GameWith",
+      "source": "gamewith.jp",
       "summary": "",
       "publishedAt": "2026-10-02T17:21:51.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575038.png?date=1789770323",
@@ -803,7 +912,7 @@
       "title": "【モンハンナウ】モンハンNow感謝祭【3周年記念】【モンハンNow】",
       "url": "https://gamewith.jp/monsterhunternow/article/show/577438",
       "host": "gamewith.jp",
-      "source": "GameWith",
+      "source": "gamewith.jp",
       "summary": "",
       "publishedAt": "2026-10-02T16:21:51.000Z",
       "image": "",
@@ -824,7 +933,7 @@
       "title": "【アセンダンス】ガンランスの操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/577811",
       "host": "gamewith.jp",
-      "source": "GameWith",
+      "source": "gamewith.jp",
       "summary": "",
       "publishedAt": "2026-10-02T15:01:21.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577811.png?date=1789764143",
@@ -864,7 +973,7 @@
       "title": "『モンスターハンターライズ』『ストリートファイター6』などがお得に！CAPCOM AUTUMN SALE 開催｜最大90％OFF",
       "url": "https://gamewith.jp/pc/article/show/4358",
       "host": "gamewith.jp",
-      "source": "GameWith",
+      "source": "gamewith.jp",
       "summary": "",
       "publishedAt": "2026-10-02T13:36:24.000Z",
       "image": "https://img.gamewith.jp/gamedb/ogp/console/article/rectangle_l/4358.png?t=1790948185",
@@ -1129,27 +1238,6 @@
       "isNew": false
     },
     {
-      "id": "4a7a71620dac",
-      "title": "「CAPCOM AUTUMN SALE」開催！ 『モンスターハンターライズ』や『ストリートファイター6』がSteam Storeにてよりお得な価格でセール中！ - mantan-web.jp",
-      "url": "https://mantan-web.jp/prtimes/article/20261002prt00m200000902a.html",
-      "host": "mantan-web.jp",
-      "source": "mantan-web.jp",
-      "summary": "",
-      "publishedAt": "2026-10-02T08:38:06.000Z",
-      "image": "https://prtimes.jp/img/13450/6079/resize/d13450-6079-b6afa32d7df0415ed425-21.jpg",
-      "categories": [
-        "sale"
-      ],
-      "series": [
-        "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "4e4d3adcd05d",
       "title": "Autumn Sale Now Live!",
       "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656385421",
@@ -1208,7 +1296,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "830a9e61cfb8",
@@ -1257,7 +1345,7 @@
       "title": "【アセンダンス】片手剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/577790",
       "host": "gamewith.jp",
-      "source": "GameWith",
+      "source": "gamewith.jp",
       "summary": "",
       "publishedAt": "2026-10-02T07:24:49.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577790.png?date=1789746410",
@@ -1274,53 +1362,11 @@
       "isNew": false
     },
     {
-      "id": "5fc879b1cca5",
-      "title": "【モンハンワイルズ】英傑に愛を込めての攻略と報酬【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/545381",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-02T07:07:09.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545381.png?date=1771384851",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "6b5f03a9a37d",
-      "title": "『モンスターハンターストーリーズ3 ～運命の双竜～』の世界が大阪に登場！ 大阪文化回廊とのコラボが10月14日（水）よ",
-      "url": "https://news.nicovideo.jp/watch/nw19835607?from",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-10-02T06:15:47.000Z",
-      "image": "",
-      "categories": [
-        "collab"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "310bc849231e",
       "title": "【モンハンワイルズ】英雄の証の解放条件と報酬【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/545421",
       "host": "gamewith.jp",
-      "source": "GameWith",
+      "source": "gamewith.jp",
       "summary": "",
       "publishedAt": "2026-10-02T05:46:10.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545421.png?date=1771483075",
@@ -1341,7 +1387,7 @@
       "title": "【モンハンワイルズ】Switch2版の発売日・最新情報【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/563066",
       "host": "gamewith.jp",
-      "source": "GameWith",
+      "source": "gamewith.jp",
       "summary": "",
       "publishedAt": "2026-10-02T05:45:25.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563066.png?date=1780886791",
@@ -1362,7 +1408,7 @@
       "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/563040",
       "host": "gamewith.jp",
-      "source": "GameWith",
+      "source": "gamewith.jp",
       "summary": "",
       "publishedAt": "2026-10-02T05:35:49.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563040.png?date=1789770455",
@@ -1395,6 +1441,27 @@
       ],
       "isOfficial": false,
       "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "4a7a71620dac",
+      "title": "「CAPCOM AUTUMN SALE」開催！ 『モンスターハンターライズ』や『ストリートファイター6』がSteam Storeにてよりお得な価格でセール中！",
+      "url": "https://prtimes.jp/main/html/rd/p/000006079.000013450.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-10-02T05:00:01.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/13450/6079/13450-6079-857eeb67d274165905dc021e03bb9cda-902x319.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "sale"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -1456,7 +1523,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "caec8827f1c2",
@@ -1543,27 +1610,6 @@
       "isNew": false
     },
     {
-      "id": "46ab930cbc6c",
-      "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563077",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-02T01:32:17.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "54d7f1614741",
       "title": "モンスターハンター 捕獲し隊｜モンスターハンターのガチャガチャ 発売日・価格・設置場所",
       "url": "https://charagoo.jp/gacha/item/8b2426f39891/",
@@ -1580,7 +1626,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0ec5e1df75f3",
@@ -1606,7 +1652,7 @@
       "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/575036",
       "host": "gamewith.jp",
-      "source": "GameWith",
+      "source": "gamewith.jp",
       "summary": "",
       "publishedAt": "2026-10-01T23:32:32.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575036.png?date=1789770113",
@@ -1627,7 +1673,7 @@
       "title": "【アセンダンス】護竜リオレイアの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/575037",
       "host": "gamewith.jp",
-      "source": "GameWith",
+      "source": "gamewith.jp",
       "summary": "",
       "publishedAt": "2026-10-01T23:16:18.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575037.png?date=1789770931",
@@ -1648,7 +1694,7 @@
       "title": "【モンハンナウ】狩人たちの夏祭り2026【モンハンNow】",
       "url": "https://gamewith.jp/monsterhunternow/article/show/573258",
       "host": "gamewith.jp",
-      "source": "GameWith",
+      "source": "gamewith.jp",
       "summary": "",
       "publishedAt": "2026-10-01T20:19:04.000Z",
       "image": "",
@@ -1729,11 +1775,11 @@
       "isNew": false
     },
     {
-      "id": "1cefde18597a",
-      "title": "モンスターハンター めじるしアクセサリー 10月第4週より発売! - collabo-cafe.com",
+      "id": "671772497b3d",
+      "title": "モンスターハンター めじるしアクセサリー 10月第4週より発売!",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOUNSQkxjcTFLeEsxREREUUJWUFhrQVdsZjc3Q2VyYnN3d0hhdXhkaXUwenJudnFOd1EzdndyT2RVeS0zYmhUclI2LWNwNXNvZG1GMnZTb29VNV9MRXlsYUpKZlFmb09WeWpZLUY2UkJUeklfaFFFNlh1M3NuY0NyTU56ODlYYllSbWJWNjNyVDZLUdIBmgFBVV95cUxNUm1DaU1VTnNHVkVIMk9wSVN2cGJVckRFV2FKVmtrRncyRWwzMHpEaUFMWFBTZHl2OFNta3JfZUo1V1RoLWFNaG5zcm1xdnh1QkR3QTdFN3lQek1LV291UGgzSllBVHJFWmR4WFpCdzJXMzN4dktrZGhfZTBLeTNUSG9hTm5sTC1tN1JESXF1U0lwOVdvOHRKc2JR?oc=5",
       "host": "collabo-cafe.com",
-      "source": "collabo-cafe.com",
+      "source": "コラボカフェ",
       "summary": "",
       "publishedAt": "2026-10-01T09:09:06.000Z",
       "image": "",
@@ -1745,14 +1791,14 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "778fbb3d5344",
       "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/577281",
       "host": "gamewith.jp",
-      "source": "GameWith",
+      "source": "gamewith.jp",
       "summary": "",
       "publishedAt": "2026-10-01T06:11:07.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577281.png?date=1789571405",
@@ -1764,6 +1810,27 @@
       ],
       "isOfficial": false,
       "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "6b5f03a9a37d",
+      "title": "『モンスターハンターストーリーズ3 ～運命の双竜～』の世界が大阪に登場！ 大阪文化回廊とのコラボが10月14日（水）より開催決定！",
+      "url": "https://prtimes.jp/main/html/rd/p/000006080.000013450.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-10-01T05:37:40.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/13450/6080/13450-6080-9233cd52419f4f41dfafed867c9587f2-1200x1200.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "collab"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -1806,7 +1873,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0f71c7f65f85",
@@ -1868,32 +1935,11 @@
       "isNew": false
     },
     {
-      "id": "53af2da2b331",
-      "title": "【歴戦★9ゴア・マガラ】ナディアとの共闘クエ「道を蝕み戻らぬ者よ」スラアク初見クリア【モンハンワイルズ】",
-      "url": "https://youtu.be/kaMinBfnQLU",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-09-30T15:00:24.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "f5f4b66f2fff",
       "title": "【モンハンワイルズ】チャアクの操作方法と使い方・立ち回り【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/461266",
       "host": "gamewith.jp",
-      "source": "GameWith",
+      "source": "gamewith.jp",
       "summary": "",
       "publishedAt": "2026-09-30T13:43:28.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/461266.png?date=1727178690",
@@ -1914,7 +1960,7 @@
       "title": "【モンハンナウ】クエスト一覧【モンハンNow】",
       "url": "https://gamewith.jp/monsterhunternow/article/show/415865",
       "host": "gamewith.jp",
-      "source": "GameWith",
+      "source": "gamewith.jp",
       "summary": "",
       "publishedAt": "2026-09-30T11:45:23.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/415865.png?date=1693798655",
@@ -1962,27 +2008,6 @@
       "image": "",
       "categories": [
         "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "2783b3cd0948",
-      "title": "【モンハンワイルズ】黒蝕ヌシが出ない人必見！蒼雷ヌシ厳選で組める準ゴール太刀装備【アセンダンス】",
-      "url": "https://youtu.be/X-Rqur5lDBY?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-09-30T09:00:12.000Z",
-      "image": "",
-      "categories": [
-        "guide"
       ],
       "series": [
         "wilds"
