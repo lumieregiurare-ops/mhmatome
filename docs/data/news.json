@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-03T20:30:16.897Z",
+  "updatedAt": "2026-10-03T21:00:15.759Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 73,
-  "todayCount": 2,
+  "total": 74,
+  "todayCount": 4,
   "categories": [
     {
       "id": "new",
@@ -27,7 +27,7 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 4
+      "count": 5
     },
     {
       "id": "goods",
@@ -94,7 +94,7 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 1
+      "count": 0
     }
   ],
   "sources": [
@@ -115,11 +115,15 @@
       "count": 3
     },
     {
+      "name": "ウォーカープラス",
+      "count": 2
+    },
+    {
       "name": "電ファミニコゲーマー",
       "count": 2
     },
     {
-      "name": "famitsu.com",
+      "name": "ファミ通",
       "count": 2
     },
     {
@@ -131,7 +135,7 @@
       "count": 2
     },
     {
-      "name": "news.infoseek.co.jp",
+      "name": "Infoseek",
       "count": 2
     },
     {
@@ -159,7 +163,7 @@
       "count": 1
     },
     {
-      "name": "thefirsttimes.jp",
+      "name": "THE FIRST TIMES",
       "count": 1
     },
     {
@@ -204,10 +208,6 @@
     },
     {
       "name": "t.co",
-      "count": 1
-    },
-    {
-      "name": "gamerszone.jp",
       "count": 1
     }
   ],
@@ -313,7 +313,7 @@
         {
           "title": "Nintendo Switch(TM) 2 版『モンスターハンターワイルズ』の体験会をCAPCOMIX あべのHoop店、みなとみらい店で開催決定！",
           "url": "https://news.infoseek.co.jp/article/prtimes_000006091_000013450/",
-          "source": "news.infoseek.co.jp",
+          "source": "Infoseek",
           "publishedAt": "2026-10-02T02:45:26.000Z",
           "isPR": false
         },
@@ -376,7 +376,7 @@
         {
           "title": "『モンハン』めじるしアクセサリーが初登場！デフォルメされたリオレウスやジンオウガ、フルフルなど全6種がラインナップ",
           "url": "https://news.infoseek.co.jp/article/inside_188545/",
-          "source": "news.infoseek.co.jp",
+          "source": "Infoseek",
           "publishedAt": "2026-10-01T00:50:03.000Z",
           "isPR": false
         }
@@ -554,12 +554,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-03T20:00:14.873Z",
-    "previousCount": 72,
-    "newCount": 1
+    "previousAt": "2026-10-03T20:30:16.897Z",
+    "previousCount": 73,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-03T21:00:16.897Z",
+  "nextUpdateAt": "2026-10-03T21:30:15.759Z",
   "items": [
     {
       "id": "a8c2a3a57b10",
@@ -577,6 +577,25 @@
         "wilds",
         "world"
       ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "22f58a63d794",
+      "title": "カプコン×JR東海のコラボが開催！モンスターハンターやストリートファイターのキャラと旅に出よう",
+      "url": "https://www.walkerplus.com/article/1176995/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-03T15:47:25.000Z",
+      "image": "https://news.walkerplus.com/article/1176995/12576575_615.jpg",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -601,6 +620,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "55b0bd5ff9cd",
+      "title": "秋葉原に期間限定「モンハン」ショップが登場！",
+      "url": "https://www.walkerplus.com/article/63257/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-03T15:05:35.000Z",
+      "image": "https://news.walkerplus.com/article/63257/352473_615.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "e2b51908ef08",
@@ -1252,7 +1290,7 @@
       "title": "総再生回数34億回超えの『Spookiz（スプーキッズ）』新シーズンスタート！思い出の学校でSpookizたちが再びモンスターハンターと対峙",
       "url": "https://www.thefirsttimes.jp/news/0000892531/",
       "host": "thefirsttimes.jp",
-      "source": "thefirsttimes.jp",
+      "source": "THE FIRST TIMES",
       "summary": "",
       "publishedAt": "2026-10-02T13:10:20.000Z",
       "image": "https://www.thefirsttimes.jp/admin/wp-content/uploads/2026/10/20261002-st-190801-1200x630.jpg",
@@ -1313,7 +1351,7 @@
       "title": "『FF7 リベレーション』『モンハンワイルズ：アセンダンス』などが試遊できる“PlayStation 祭”が大阪で10月24日開催。PS Plus加入者向け先着予約が本日（10/2）開始",
       "url": "https://www.famitsu.com/article/202610/89840",
       "host": "famitsu.com",
-      "source": "famitsu.com",
+      "source": "ファミ通",
       "summary": "",
       "publishedAt": "2026-10-02T10:30:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/89840/thumbnail_cFKb.jpg?x=1280",
@@ -1397,7 +1435,7 @@
       "title": "『モンハン』イャンクックのねんどろいどが予約開始。耳の部位破壊まで再現できるパーツ付き。すやすや眠る姿もかわいい",
       "url": "https://www.famitsu.com/article/202610/89832",
       "host": "famitsu.com",
-      "source": "famitsu.com",
+      "source": "ファミ通",
       "summary": "",
       "publishedAt": "2026-10-02T09:10:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/89832/thumbnail_tNHb.jpg?x=1280",
@@ -1461,7 +1499,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "\"Monster Hunter Wilds\"—whose major expansion releases in 2027— is on sale for for 25% off! But there's more! The \"Monster Hunter Series Pack,\" (Bundle) which c…",
       "publishedAt": "2026-10-02T08:34:04.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/44795648/30302d9fc79a793f9d6a4ba736148303013217c0.jpg",
+      "image": "https://clan.fastly.steamstatic.com/images/44795648/30302d9fc79a793f9d6a4ba736148303013217c0.jpg",
       "categories": [
         "other"
       ],
@@ -1704,7 +1742,7 @@
       "title": "Nintendo Switch(TM) 2 版『モンスターハンターワイルズ』の体験会をCAPCOMIX あべのHoop店、みなとみらい店で開催決定！",
       "url": "https://news.infoseek.co.jp/article/prtimes_000006091_000013450/",
       "host": "news.infoseek.co.jp",
-      "source": "news.infoseek.co.jp",
+      "source": "Infoseek",
       "summary": "",
       "publishedAt": "2026-10-02T02:45:26.000Z",
       "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
@@ -2030,32 +2068,11 @@
       "isNew": false
     },
     {
-      "id": "6fa814e8054f",
-      "title": "スマホ向けサバイバル・ハンティングアクション『モンスターハンターアウトランダーズ』10月29日正式サービス開始",
-      "url": "https://gamerszone.jp/post/37783",
-      "host": "gamerszone.jp",
-      "source": "gamerszone.jp",
-      "summary": "",
-      "publishedAt": "2026-10-01T01:56:07.000Z",
-      "image": "https://gamerszone.jp/images/upload/2026/10/f2e77ee5dc22a2a1e3dc79408cbecf9f.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "0f71c7f65f85",
       "title": "『モンハン』めじるしアクセサリーが初登場！デフォルメされたリオレウスやジンオウガ、フルフルなど全6種がラインナップ",
       "url": "https://news.infoseek.co.jp/article/inside_188545/",
       "host": "news.infoseek.co.jp",
-      "source": "news.infoseek.co.jp",
+      "source": "Infoseek",
       "summary": "",
       "publishedAt": "2026-10-01T00:50:03.000Z",
       "image": "https://media.image.infoseek.co.jp/isnews/photos/inside/inside_188545_0-enlarge.jpg",
