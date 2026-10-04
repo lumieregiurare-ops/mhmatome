@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-04T06:00:14.243Z",
+  "updatedAt": "2026-10-04T06:30:17.353Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 73,
-  "todayCount": 11,
+  "total": 74,
+  "todayCount": 13,
   "categories": [
     {
       "id": "new",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 52
+      "count": 53
     }
   ],
   "series": [
@@ -111,6 +111,10 @@
       "count": 3
     },
     {
+      "name": "ウォーカープラス",
+      "count": 2
+    },
+    {
       "name": "電ファミニコゲーマー",
       "count": 2
     },
@@ -131,15 +135,11 @@
       "count": 2
     },
     {
-      "name": "ウォーカープラス",
-      "count": 1
-    },
-    {
       "name": "x.com",
       "count": 1
     },
     {
-      "name": "玩具人 TOY PEOPLE",
+      "name": "toy-people.com",
       "count": 1
     },
     {
@@ -151,7 +151,7 @@
       "count": 1
     },
     {
-      "name": "gamer.ne.jp",
+      "name": "Gamer",
       "count": 1
     },
     {
@@ -365,7 +365,7 @@
       "title": "【装備紹介】復帰勢必見！一番おすすめな『チャアク最終装備4選』を徹底解説！強属性/榴弾/対ゴグマジ装備とアセンダンスまでこれ一本【モンハンワイルズ】",
       "summary": "",
       "url": "https://youtu.be/BCMpMV4l2KA",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575038.png?date=1789770323",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
       "leadSource": "YouTube",
       "publishedAt": "2026-10-04T03:00:28.000Z",
       "sourceCount": 2,
@@ -380,6 +380,13 @@
         "最新情報"
       ],
       "articles": [
+        {
+          "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563077",
+          "source": "GameWith",
+          "publishedAt": "2026-10-03T22:27:17.000Z",
+          "isPR": false
+        },
         {
           "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/575038",
@@ -428,23 +435,16 @@
           "source": "GameWith",
           "publishedAt": "2026-10-03T04:45:03.000Z",
           "isPR": false
-        },
-        {
-          "title": "【アセンダンス】護竜リオレイアの最新情報まとめ【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/575037",
-          "source": "GameWith",
-          "publishedAt": "2026-10-03T04:43:09.000Z",
-          "isPR": false
         }
       ]
     },
     {
       "id": "9e0f618bbba6",
-      "title": "『モンスターハンター』ねんどろいど イャンクックが登場！火球・眠りエフェクトや破壊された耳が付属",
+      "title": "『モンスターハンター』ねんどろいど イャンクックが登場！火球・眠りエフェクトや破壊された耳が付属 - toy-people.com",
       "summary": "",
       "url": "https://www.toy-people.com/jp/?p",
       "image": "https://www.inside-games.jp/imgs/ogp_f/1789029.webp",
-      "leadSource": "玩具人 TOY PEOPLE",
+      "leadSource": "toy-people.com",
       "publishedAt": "2026-10-03T12:00:25.000Z",
       "sourceCount": 2,
       "articleCount": 2,
@@ -496,12 +496,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-04T05:30:14.268Z",
-    "previousCount": 74,
-    "newCount": 0
+    "previousAt": "2026-10-04T06:00:14.243Z",
+    "previousCount": 73,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-04T06:30:14.243Z",
+  "nextUpdateAt": "2026-10-04T07:00:17.353Z",
   "items": [
     {
       "id": "b70a211d96ff",
@@ -599,6 +599,27 @@
       ],
       "series": [
         "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "46ab930cbc6c",
+      "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/563077",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-03T22:27:17.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -731,6 +752,25 @@
       "isNew": false
     },
     {
+      "id": "55b0bd5ff9cd",
+      "title": "秋葉原に期間限定「モンハン」ショップが登場！",
+      "url": "https://www.walkerplus.com/article/63257/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-03T15:05:35.000Z",
+      "image": "https://news.walkerplus.com/article/63257/352473_615.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "e2b51908ef08",
       "title": "フリーチャレンジクエスト 歴戦王ジン・ダハド 狩猟笛ソロ 4'31\"98【モンハンワイルズ】",
       "url": "https://youtu.be/wzFejsCdfn0?si",
@@ -835,10 +875,10 @@
     },
     {
       "id": "9e0f618bbba6",
-      "title": "『モンスターハンター』ねんどろいど イャンクックが登場！火球・眠りエフェクトや破壊された耳が付属",
+      "title": "『モンスターハンター』ねんどろいど イャンクックが登場！火球・眠りエフェクトや破壊された耳が付属 - toy-people.com",
       "url": "https://www.toy-people.com/jp/?p",
       "host": "toy-people.com",
-      "source": "玩具人 TOY PEOPLE",
+      "source": "toy-people.com",
       "summary": "",
       "publishedAt": "2026-10-03T12:00:25.000Z",
       "image": "",
@@ -1146,27 +1186,6 @@
       "isNew": false
     },
     {
-      "id": "46ab930cbc6c",
-      "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563077",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-03T03:05:12.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "ba2351e446df",
       "title": "【モンスターハンターワイルズ：アセンダンス】東京ゲームショウで狩猟笛触ってきた✨【TGS2026 CAPCOMブース/VTuber/女性実況】",
       "url": "https://youtu.be/I0VpmezhMOk?si",
@@ -1336,11 +1355,11 @@
     {
       "id": "1352c07ac919",
       "title": "「モンスターハンターワイルズ」大型拡張コンテンツが開発中――夏ごろに正式発表予定 (全30枚)",
-      "url": "http://www.gamer.ne.jp/news/202602100010/image/21/",
+      "url": "http://www.gamer.ne.jp/news/202602100010/image/28/",
       "host": "gamer.ne.jp",
-      "source": "gamer.ne.jp",
+      "source": "Gamer",
       "summary": "",
-      "publishedAt": "2026-10-02T13:26:47.000Z",
+      "publishedAt": "2026-10-02T13:25:36.000Z",
       "image": "",
       "categories": [
         "new"
