@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-04T04:30:33.615Z",
+  "updatedAt": "2026-10-04T05:00:16.460Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 71,
-  "todayCount": 8,
+  "total": 74,
+  "todayCount": 11,
   "categories": [
     {
       "id": "new",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 50
+      "count": 53
     }
   ],
   "series": [
@@ -74,7 +74,7 @@
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 10
+      "count": 12
     },
     {
       "id": "world",
@@ -99,12 +99,12 @@
   ],
   "sources": [
     {
-      "name": "GameWith",
+      "name": "YouTube",
       "count": 21
     },
     {
-      "name": "YouTube",
-      "count": 18
+      "name": "GameWith",
+      "count": 21
     },
     {
       "name": "AppBank",
@@ -191,11 +191,11 @@
       "count": 1
     },
     {
-      "name": "capcom.co.jp",
+      "name": "CAPCOM",
       "count": 1
     },
     {
-      "name": "ガジェット通信 GetNews",
+      "name": "getnews.jp",
       "count": 1
     },
     {
@@ -305,7 +305,7 @@
         {
           "title": "Nintendo Switch™ 2『モンスターハンターワイルズ』の体験会をCAPCOMIXあべのHoop店、みなとみらい店で開催決定！",
           "url": "https://www.capcom.co.jp/amusement/game/shop/news/hoop/8833",
-          "source": "capcom.co.jp",
+          "source": "CAPCOM",
           "publishedAt": "2026-10-02T02:22:16.000Z",
           "isPR": false
         },
@@ -516,7 +516,7 @@
         {
           "title": "『モンハンNow』推し旅開幕!! 新幹線ごっこができて限定ギルカもゲットできちゃうJR東海コラボガイド",
           "url": "https://getnews.jp/archives/3746487",
-          "source": "ガジェット通信 GetNews",
+          "source": "getnews.jp",
           "publishedAt": "2026-10-01T13:00:39.000Z",
           "isPR": false
         }
@@ -524,12 +524,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-04T04:00:15.998Z",
-    "previousCount": 70,
-    "newCount": 3
+    "previousAt": "2026-10-04T04:30:33.615Z",
+    "previousCount": 71,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-04T05:00:33.615Z",
+  "nextUpdateAt": "2026-10-04T05:30:16.460Z",
   "items": [
     {
       "id": "b70a211d96ff",
@@ -546,6 +546,67 @@
       "series": [
         "wilds"
       ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "d614d645c5bd",
+      "title": "モンスターハンターサンブレイク PS5 ⑤ (傀異化混沌に呻くゴアマガラ編)",
+      "url": "https://youtu.be/_yva-vqFztU?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-04T02:42:51.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "f1e344fb9da2",
+      "title": "＃29【モンスターハンターライズ】初心者コンビでリベンジしてみた",
+      "url": "https://youtu.be/HUGE33w8Cg8?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-04T02:25:18.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "2cda3a23418f",
+      "title": "【メタルギア✖️モンハン！コラボ！】MGS PW 番外編1",
+      "url": "https://youtu.be/9Mpll4hdcVM?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-04T01:16:43.000Z",
+      "image": "",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -660,25 +721,6 @@
       "isNew": false
     },
     {
-      "id": "22f58a63d794",
-      "title": "カプコン×JR東海のコラボが開催！モンスターハンターやストリートファイターのキャラと旅に出よう",
-      "url": "https://www.walkerplus.com/article/1176995/",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-10-03T15:47:25.000Z",
-      "image": "https://news.walkerplus.com/article/1176995/12576575_615.jpg",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "e6d79acfa4bd",
       "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
       "url": "https://gamewith.jp/mhwilds/563096",
@@ -696,6 +738,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "55b0bd5ff9cd",
+      "title": "秋葉原に期間限定「モンハン」ショップが登場！",
+      "url": "https://www.walkerplus.com/article/63257/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-03T15:05:35.000Z",
+      "image": "https://news.walkerplus.com/article/63257/352473_615.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "e2b51908ef08",
@@ -1071,27 +1132,6 @@
       "isNew": false
     },
     {
-      "id": "334d39c6f436",
-      "title": "【モンハンワイルズ】DLCに向けてまた最初から！！ストーリーとか操作も全然覚えてないッ！pt.2【 #vtuber",
-      "url": "https://youtu.be/NcrOmgBdm4A?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-03T04:11:49.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "223ba8e09c48",
       "title": "モンハンワイルズ 日本で一番片手剣が下手な男が挑む 歴戦王アルシュベルド",
       "url": "https://youtu.be/--6b1acV1hY",
@@ -1303,11 +1343,11 @@
     {
       "id": "1352c07ac919",
       "title": "「モンスターハンターワイルズ」大型拡張コンテンツが開発中――夏ごろに正式発表予定 (全30枚)",
-      "url": "http://www.gamer.ne.jp/news/202602100010/image/21/",
+      "url": "http://www.gamer.ne.jp/news/202602100010/image/28/",
       "host": "gamer.ne.jp",
       "source": "Gamer",
       "summary": "",
-      "publishedAt": "2026-10-02T13:26:47.000Z",
+      "publishedAt": "2026-10-02T13:25:36.000Z",
       "image": "",
       "categories": [
         "new"
@@ -1359,7 +1399,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a05df4d2d2e2",
@@ -1414,6 +1454,27 @@
       "image": "https://cimg.kgl-systems.io/camion/files/89840/thumbnail_cFKb.jpg?x=1280",
       "categories": [
         "new"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "334d39c6f436",
+      "title": "【モンハンワイルズ】DLCに向けてまた最初から！！ストーリーとか操作も全然覚えてないッ！pt.2【 #vtuber",
+      "url": "https://youtu.be/NcrOmgBdm4A?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-02T09:53:03.000Z",
+      "image": "",
+      "categories": [
+        "other"
       ],
       "series": [
         "wilds"
@@ -1516,7 +1577,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "\"Monster Hunter Wilds\"—whose major expansion releases in 2027— is on sale for for 25% off! But there's more! The \"Monster Hunter Series Pack,\" (Bundle) which c…",
       "publishedAt": "2026-10-02T08:34:04.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/44795648/30302d9fc79a793f9d6a4ba736148303013217c0.jpg",
+      "image": "https://clan.fastly.steamstatic.com/images/44795648/30302d9fc79a793f9d6a4ba736148303013217c0.jpg",
       "categories": [
         "other"
       ],
@@ -1717,7 +1778,7 @@
       "title": "Nintendo Switch™ 2『モンスターハンターワイルズ』の体験会をCAPCOMIXあべのHoop店、みなとみらい店で開催決定！",
       "url": "https://www.capcom.co.jp/amusement/game/shop/news/hoop/8833",
       "host": "capcom.co.jp",
-      "source": "capcom.co.jp",
+      "source": "CAPCOM",
       "summary": "",
       "publishedAt": "2026-10-02T02:22:16.000Z",
       "image": "https://www.capcom.co.jp/amusement/game/shop/_wp/wp-content/uploads/NS権利表記追加_MHWs_MainVisual_16_9_typeA_RGB.jpg",
@@ -1904,7 +1965,7 @@
       "title": "『モンハンNow』推し旅開幕!! 新幹線ごっこができて限定ギルカもゲットできちゃうJR東海コラボガイド",
       "url": "https://getnews.jp/archives/3746487",
       "host": "getnews.jp",
-      "source": "ガジェット通信 GetNews",
+      "source": "getnews.jp",
       "summary": "",
       "publishedAt": "2026-10-01T13:00:39.000Z",
       "image": "https://rensai.jp/wp-content/uploads/2026/10/3680cff676a1e5d3ee6e9e5f0cbe78de.jpg",
@@ -1979,7 +2040,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6b5f03a9a37d",
