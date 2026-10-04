@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-04T12:00:16.354Z",
+  "updatedAt": "2026-10-04T12:30:16.062Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 75,
+  "total": 74,
   "todayCount": 18,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 8
+      "count": 7
     },
     {
       "id": "sale",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 44
+      "count": 43
     },
     {
       "id": "rise",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 24
+      "count": 23
     },
     {
       "name": "YouTube",
@@ -127,7 +127,7 @@
       "count": 2
     },
     {
-      "name": "PR TIMES",
+      "name": "prtimes.jp",
       "count": 2
     },
     {
@@ -151,7 +151,7 @@
       "count": 1
     },
     {
-      "name": "thefirsttimes.jp",
+      "name": "THE FIRST TIMES",
       "count": 1
     },
     {
@@ -258,9 +258,9 @@
         {
           "title": "「CAPCOM AUTUMN SALE」開催！ 『モンスターハンターライズ』や『ストリートファイター6』がSteam Storeにてよりお得な価格でセール中！",
           "url": "https://prtimes.jp/main/html/rd/p/000006079.000013450.html",
-          "source": "PR TIMES",
+          "source": "prtimes.jp",
           "publishedAt": "2026-10-02T05:00:01.000Z",
-          "isPR": true
+          "isPR": false
         },
         {
           "title": "『モンスターハンターライズ』がSteamで90%オフで購入できるセールが開催中",
@@ -322,9 +322,9 @@
         {
           "title": "Nintendo Switch™ 2 版『モンスターハンターワイルズ』の体験会をCAPCOMIX あべのHoop店、みなとみらい店で開催決定！",
           "url": "https://prtimes.jp/main/html/rd/p/000006091.000013450.html",
-          "source": "PR TIMES",
+          "source": "prtimes.jp",
           "publishedAt": "2026-10-02T02:00:02.000Z",
-          "isPR": true
+          "isPR": false
         }
       ]
     },
@@ -337,7 +337,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-10-04T05:57:20.000Z",
       "sourceCount": 2,
-      "articleCount": 6,
+      "articleCount": 5,
       "categories": [
         "guide",
         "new"
@@ -367,13 +367,6 @@
           "url": "https://gamewith.jp/mhwilds/563066",
           "source": "GameWith",
           "publishedAt": "2026-10-03T12:34:07.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ】護石周回（護石集め）の効率的なやり方【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/513618",
-          "source": "GameWith",
-          "publishedAt": "2026-10-03T00:44:19.000Z",
           "isPR": false
         },
         {
@@ -471,12 +464,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-04T11:30:16.173Z",
-    "previousCount": 76,
+    "previousAt": "2026-10-04T12:00:16.354Z",
+    "previousCount": 75,
     "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-04T12:30:16.354Z",
+  "nextUpdateAt": "2026-10-04T13:00:16.062Z",
   "items": [
     {
       "id": "f8801763aa7f",
@@ -1210,27 +1203,6 @@
       "isNew": false
     },
     {
-      "id": "70688df1f73f",
-      "title": "【モンハンワイルズ】護石周回（護石集め）の効率的なやり方【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/513618",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-03T00:44:19.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/513618.png?date=1755086164",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "ba2351e446df",
       "title": "【モンスターハンターワイルズ：アセンダンス】東京ゲームショウで狩猟笛触ってきた✨【TGS2026 CAPCOMブース/VTuber/女性実況】",
       "url": "https://youtu.be/I0VpmezhMOk?si",
@@ -1444,7 +1416,7 @@
       "title": "総再生回数34億回超えの『Spookiz（スプーキッズ）』新シーズンスタート！思い出の学校でSpookizたちが再びモンスターハンターと対峙",
       "url": "https://www.thefirsttimes.jp/news/0000892531/",
       "host": "thefirsttimes.jp",
-      "source": "thefirsttimes.jp",
+      "source": "THE FIRST TIMES",
       "summary": "",
       "publishedAt": "2026-10-02T13:10:20.000Z",
       "image": "https://www.thefirsttimes.jp/admin/wp-content/uploads/2026/10/20261002-st-190801-1200x630.jpg",
@@ -1755,7 +1727,7 @@
       "title": "「CAPCOM AUTUMN SALE」開催！ 『モンスターハンターライズ』や『ストリートファイター6』がSteam Storeにてよりお得な価格でセール中！",
       "url": "https://prtimes.jp/main/html/rd/p/000006079.000013450.html",
       "host": "prtimes.jp",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "summary": "",
       "publishedAt": "2026-10-02T05:00:01.000Z",
       "image": "https://prcdn.freetls.fastly.net/release_image/13450/6079/13450-6079-857eeb67d274165905dc021e03bb9cda-902x319.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
@@ -1766,7 +1738,7 @@
         "rise"
       ],
       "isOfficial": false,
-      "isPR": true,
+      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -1875,7 +1847,7 @@
       "title": "Nintendo Switch™ 2 版『モンスターハンターワイルズ』の体験会をCAPCOMIX あべのHoop店、みなとみらい店で開催決定！",
       "url": "https://prtimes.jp/main/html/rd/p/000006091.000013450.html",
       "host": "prtimes.jp",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "summary": "",
       "publishedAt": "2026-10-02T02:00:02.000Z",
       "image": "https://prcdn.freetls.fastly.net/release_image/13450/6091/13450-6091-609013099ce73d7e7abfce3d7c9cb0a4-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
@@ -1886,7 +1858,7 @@
         "wilds"
       ],
       "isOfficial": false,
-      "isPR": true,
+      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
