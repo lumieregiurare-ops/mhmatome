@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-04T01:00:17.876Z",
+  "updatedAt": "2026-10-04T01:30:15.448Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 71,
-  "todayCount": 4,
+  "total": 72,
+  "todayCount": 5,
   "categories": [
     {
       "id": "new",
@@ -27,7 +27,7 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 4
+      "count": 5
     },
     {
       "id": "goods",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 41
+      "count": 42
     },
     {
       "id": "rise",
@@ -191,6 +191,10 @@
       "count": 1
     },
     {
+      "name": "Infoseek",
+      "count": 1
+    },
+    {
       "name": "CAPCOM",
       "count": 1
     },
@@ -283,8 +287,8 @@
       "image": "https://www.4gamer.net/games/013/G101394/20261002029/SS/002.png",
       "leadSource": "4Gamer",
       "publishedAt": "2026-10-03T04:36:46.000Z",
-      "sourceCount": 5,
-      "articleCount": 5,
+      "sourceCount": 6,
+      "articleCount": 6,
       "categories": [
         "other",
         "new"
@@ -300,6 +304,13 @@
           "url": "https://www.appbank.net/2026/10/03/game/3120731.php",
           "source": "AppBank",
           "publishedAt": "2026-10-03T04:36:46.000Z",
+          "isPR": false
+        },
+        {
+          "title": "Nintendo Switch(TM) 2 版『モンスターハンターワイルズ』の体験会をCAPCOMIX あべのHoop店、みなとみらい店で開催決定！",
+          "url": "https://news.infoseek.co.jp/article/prtimes_000006091_000013450/",
+          "source": "Infoseek",
+          "publishedAt": "2026-10-02T02:45:26.000Z",
           "isPR": false
         },
         {
@@ -494,16 +505,65 @@
           "isPR": true
         }
       ]
+    },
+    {
+      "id": "2e75eb4018e2",
+      "title": "【モンハンナウ】狩人たちの夏祭り2026【モンハンNow】",
+      "summary": "",
+      "url": "https://gamewith.jp/monsterhunternow/article/show/573258",
+      "image": "https://rensai.jp/wp-content/uploads/2026/10/3680cff676a1e5d3ee6e9e5f0cbe78de.jpg",
+      "leadSource": "GameWith",
+      "publishedAt": "2026-10-01T20:19:04.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other",
+        "collab"
+      ],
+      "keywords": [
+        "モンハンNow",
+        "now"
+      ],
+      "articles": [
+        {
+          "title": "『モンハンNow』推し旅開幕!! 新幹線ごっこができて限定ギルカもゲットできちゃうJR東海コラボガイド",
+          "url": "https://getnews.jp/archives/3746487",
+          "source": "ガジェット通信 GetNews",
+          "publishedAt": "2026-10-01T13:00:39.000Z",
+          "isPR": false
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-04T00:30:16.734Z",
-    "previousCount": 72,
-    "newCount": 1
+    "previousAt": "2026-10-04T01:00:17.876Z",
+    "previousCount": 71,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-04T01:30:17.876Z",
+  "nextUpdateAt": "2026-10-04T02:00:15.448Z",
   "items": [
+    {
+      "id": "8c086bb7f518",
+      "title": "【モンハンナウ】モンハンNow感謝祭【3周年記念】【モンハンNow】",
+      "url": "https://gamewith.jp/monsterhunternow/article/show/577438",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-03T23:47:23.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "338da5e56a68",
       "title": "【MHWilds】歴戦王ジン•ダハド06'05\"79チャージアックスソロ /freechallenge ArchTempered Jin Dahaad charge blade solo【PS5】",
@@ -549,6 +609,25 @@
       "isNew": false
     },
     {
+      "id": "22f58a63d794",
+      "title": "カプコン×JR東海のコラボが開催！モンスターハンターやストリートファイターのキャラと旅に出よう",
+      "url": "https://www.walkerplus.com/article/1176995/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-03T15:47:25.000Z",
+      "image": "https://news.walkerplus.com/article/1176995/12576575_615.jpg",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "e6d79acfa4bd",
       "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
       "url": "https://gamewith.jp/mhwilds/563096",
@@ -566,25 +645,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "55b0bd5ff9cd",
-      "title": "秋葉原に期間限定「モンハン」ショップが登場！",
-      "url": "https://www.walkerplus.com/article/63257/",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-10-03T15:05:35.000Z",
-      "image": "https://news.walkerplus.com/article/63257/352473_615.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "e2b51908ef08",
@@ -1129,27 +1189,6 @@
       "isNew": false
     },
     {
-      "id": "8c086bb7f518",
-      "title": "【モンハンナウ】モンハンNow感謝祭【3周年記念】【モンハンNow】",
-      "url": "https://gamewith.jp/monsterhunternow/article/show/577438",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-02T16:21:51.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "d53db44c0c7d",
       "title": "【モンスターハンターNow】次元変異リオレウス亜種 大量出現",
       "url": "https://youtu.be/JLvL3w-khaw?si",
@@ -1192,11 +1231,11 @@
     {
       "id": "1352c07ac919",
       "title": "「モンスターハンターワイルズ」大型拡張コンテンツが開発中――夏ごろに正式発表予定 (全30枚)",
-      "url": "http://www.gamer.ne.jp/news/202602100010/image/28/",
+      "url": "http://www.gamer.ne.jp/news/202602100010/image/21/",
       "host": "gamer.ne.jp",
       "source": "Gamer",
       "summary": "",
-      "publishedAt": "2026-10-02T13:25:36.000Z",
+      "publishedAt": "2026-10-02T13:26:47.000Z",
       "image": "",
       "categories": [
         "new"
@@ -1445,7 +1484,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "\"Monster Hunter Wilds\"—whose major expansion releases in 2027— is on sale for for 25% off! But there's more! The \"Monster Hunter Series Pack,\" (Bundle) which c…",
       "publishedAt": "2026-10-02T08:34:04.000Z",
-      "image": "https://clan.fastly.steamstatic.com/images/44795648/30302d9fc79a793f9d6a4ba736148303013217c0.jpg",
+      "image": "https://clan.akamai.steamstatic.com/images/44795648/30302d9fc79a793f9d6a4ba736148303013217c0.jpg",
       "categories": [
         "other"
       ],
@@ -1682,6 +1721,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "195e4fc902aa",
+      "title": "Nintendo Switch(TM) 2 版『モンスターハンターワイルズ』の体験会をCAPCOMIX あべのHoop店、みなとみらい店で開催決定！",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000006091_000013450/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
+      "summary": "",
+      "publishedAt": "2026-10-02T02:45:26.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "caec8827f1c2",
