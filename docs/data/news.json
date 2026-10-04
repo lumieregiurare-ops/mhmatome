@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T17:00:15.934Z",
+  "updatedAt": "2026-10-04T17:30:14.197Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 3
+      "count": 4
     },
     {
       "id": "now",
@@ -100,11 +100,11 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 21
+      "count": 22
     },
     {
       "name": "GameWith",
-      "count": 21
+      "count": 20
     },
     {
       "name": "AppBank",
@@ -147,7 +147,7 @@
       "count": 1
     },
     {
-      "name": "Unisba Media",
+      "name": "media.unisba.ac.id",
       "count": 1
     },
     {
@@ -163,7 +163,7 @@
       "count": 1
     },
     {
-      "name": "famitsu.com",
+      "name": "ファミ通",
       "count": 1
     },
     {
@@ -236,7 +236,7 @@
         },
         {
           "title": "【最大90%オフ】『モンハンライズ』399円、『スト6』1,996円、『バイオRE:4』997円！ Steamで“CAPCOM AUTUMN SALE”開催中",
-          "url": "https://dengekionline.com/article/images/202610/89851/890334",
+          "url": "https://dengekionline.com/article/202610/89851",
           "source": "電撃オンライン",
           "publishedAt": "2026-10-02T11:30:00.000Z",
           "isPR": false
@@ -441,12 +441,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-04T16:30:17.558Z",
+    "previousAt": "2026-10-04T17:00:15.934Z",
     "previousCount": 73,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-04T17:30:15.934Z",
+  "nextUpdateAt": "2026-10-04T18:00:14.197Z",
   "items": [
     {
       "id": "337bf0634c6f",
@@ -799,6 +799,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "338da5e56a68",
+      "title": "【MHWilds】歴戦王ジン•ダハド06'05\"79チャージアックスソロ /freechallenge ArchTempered Jin Dahaad charge blade solo【PS5】",
+      "url": "https://youtu.be/jt7oQfzFe5w?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-03T22:23:57.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "411bb4076b94",
@@ -1265,7 +1287,7 @@
       "title": "【モンハンワイルズ部結成】アセンダンス発売前になるべく強くなっておく！【#モンハンワイルズ #雨水多丸 】 Strasbourg (uu772WrruC)",
       "url": "https://media.unisba.ac.id/8d9c4ff8/a43912cfCBYNURZtGhgeBVY/?share",
       "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
+      "source": "media.unisba.ac.id",
       "summary": "",
       "publishedAt": "2026-10-02T17:34:41.000Z",
       "image": "",
@@ -1406,12 +1428,12 @@
     {
       "id": "5f4e2c474683",
       "title": "【最大90%オフ】『モンハンライズ』399円、『スト6』1,996円、『バイオRE:4』997円！ Steamで“CAPCOM AUTUMN SALE”開催中",
-      "url": "https://dengekionline.com/article/images/202610/89851/890334",
+      "url": "https://dengekionline.com/article/202610/89851",
       "host": "dengekionline.com",
       "source": "電撃オンライン",
       "summary": "",
       "publishedAt": "2026-10-02T11:30:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/dengeki/89851/a567c3048bf4b16180a125b651545ac60.jpg?x=1280",
+      "image": "https://cimg.kgl-systems.io/camion/files/89851/ogp_Dmvs.jpg?x=1280",
       "categories": [
         "other"
       ],
@@ -1429,7 +1451,7 @@
       "title": "『FF7 リベレーション』『モンハンワイルズ：アセンダンス』などが試遊できる“PlayStation 祭”が大阪で10月24日開催。PS Plus加入者向け先着予約が本日（10/2）開始",
       "url": "https://www.famitsu.com/article/202610/89840",
       "host": "famitsu.com",
-      "source": "famitsu.com",
+      "source": "ファミ通",
       "summary": "",
       "publishedAt": "2026-10-02T10:30:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/89840/thumbnail_cFKb.jpg?x=1280",
@@ -1525,7 +1547,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9656fee61266",
@@ -1926,27 +1948,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/513752.png?date=1755088232",
       "categories": [
         "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "1c6d5c32244e",
-      "title": "【モンハンワイルズ】ニュウドウイカの釣り方と場所【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/488426",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-01T17:03:09.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/488426.png?date=1741282531",
-      "categories": [
-        "other"
       ],
       "series": [
         "wilds"
