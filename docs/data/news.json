@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T03:00:14.462Z",
+  "updatedAt": "2026-10-04T03:30:16.260Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -203,7 +203,7 @@
       "count": 1
     },
     {
-      "name": "collabo-cafe.com",
+      "name": "コラボカフェ",
       "count": 1
     }
   ],
@@ -363,9 +363,9 @@
           "isPR": false
         },
         {
-          "title": "モンスターハンター めじるしアクセサリー 10月第4週より発売! - collabo-cafe.com",
+          "title": "モンスターハンター めじるしアクセサリー 10月第4週より発売!",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOUNSQkxjcTFLeEsxREREUUJWUFhrQVdsZjc3Q2VyYnN3d0hhdXhkaXUwenJudnFOd1EzdndyT2RVeS0zYmhUclI2LWNwNXNvZG1GMnZTb29VNV9MRXlsYUpKZlFmb09WeWpZLUY2UkJUeklfaFFFNlh1M3NuY0NyTU56ODlYYllSbWJWNjNyVDZLUdIBmgFBVV95cUxNUm1DaU1VTnNHVkVIMk9wSVN2cGJVckRFV2FKVmtrRncyRWwzMHpEaUFMWFBTZHl2OFNta3JfZUo1V1RoLWFNaG5zcm1xdnh1QkR3QTdFN3lQek1LV291UGgzSllBVHJFWmR4WFpCdzJXMzN4dktrZGhfZTBLeTNUSG9hTm5sTC1tN1JESXF1U0lwOVdvOHRKc2JR?oc=5",
-          "source": "collabo-cafe.com",
+          "source": "コラボカフェ",
           "publishedAt": "2026-10-01T09:09:06.000Z",
           "isPR": false
         }
@@ -396,6 +396,13 @@
           "url": "https://gamewith.jp/mhwilds/563096",
           "source": "GameWith",
           "publishedAt": "2026-10-03T15:15:21.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】Switch2版の発売日・最新情報【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563066",
+          "source": "GameWith",
+          "publishedAt": "2026-10-03T12:34:07.000Z",
           "isPR": false
         },
         {
@@ -438,13 +445,6 @@
           "url": "https://gamewith.jp/mhwilds/563104",
           "source": "GameWith",
           "publishedAt": "2026-10-03T02:10:39.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ】英傑に愛を込めての攻略と報酬【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/545381",
-          "source": "GameWith",
-          "publishedAt": "2026-10-02T21:41:25.000Z",
           "isPR": false
         }
       ]
@@ -535,12 +535,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-04T02:30:27.550Z",
+    "previousAt": "2026-10-04T03:00:14.462Z",
     "previousCount": 72,
-    "newCount": 0
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-04T03:30:14.462Z",
+  "nextUpdateAt": "2026-10-04T04:00:16.260Z",
   "items": [
     {
       "id": "8c086bb7f518",
@@ -719,6 +719,27 @@
       "image": "",
       "categories": [
         "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "010ece4575cd",
+      "title": "【モンハンワイルズ】Switch2版の発売日・最新情報【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/563066",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-03T12:34:07.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563066.png?date=1780886791",
+      "categories": [
+        "new"
       ],
       "series": [
         "wilds"
@@ -1600,27 +1621,6 @@
       "isNew": false
     },
     {
-      "id": "010ece4575cd",
-      "title": "【モンハンワイルズ】Switch2版の発売日・最新情報【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563066",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-02T05:45:25.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563066.png?date=1780886791",
-      "categories": [
-        "new"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "d8b95bbbc335",
       "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/563040",
@@ -1993,11 +1993,11 @@
       "isNew": false
     },
     {
-      "id": "1cefde18597a",
-      "title": "モンスターハンター めじるしアクセサリー 10月第4週より発売! - collabo-cafe.com",
+      "id": "671772497b3d",
+      "title": "モンスターハンター めじるしアクセサリー 10月第4週より発売!",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOUNSQkxjcTFLeEsxREREUUJWUFhrQVdsZjc3Q2VyYnN3d0hhdXhkaXUwenJudnFOd1EzdndyT2RVeS0zYmhUclI2LWNwNXNvZG1GMnZTb29VNV9MRXlsYUpKZlFmb09WeWpZLUY2UkJUeklfaFFFNlh1M3NuY0NyTU56ODlYYllSbWJWNjNyVDZLUdIBmgFBVV95cUxNUm1DaU1VTnNHVkVIMk9wSVN2cGJVckRFV2FKVmtrRncyRWwzMHpEaUFMWFBTZHl2OFNta3JfZUo1V1RoLWFNaG5zcm1xdnh1QkR3QTdFN3lQek1LV291UGgzSllBVHJFWmR4WFpCdzJXMzN4dktrZGhfZTBLeTNUSG9hTm5sTC1tN1JESXF1U0lwOVdvOHRKc2JR?oc=5",
       "host": "collabo-cafe.com",
-      "source": "collabo-cafe.com",
+      "source": "コラボカフェ",
       "summary": "",
       "publishedAt": "2026-10-01T09:09:06.000Z",
       "image": "",
@@ -2009,7 +2009,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "6b5f03a9a37d",
