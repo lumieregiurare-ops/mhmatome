@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-05T13:00:18.794Z",
+  "updatedAt": "2026-10-05T13:30:16.966Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 65,
+  "total": 62,
   "todayCount": 14,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 6
+      "count": 5
     },
     {
       "id": "update",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 46
+      "count": 44
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 41
+      "count": 40
     },
     {
       "id": "rise",
@@ -84,7 +84,7 @@
     {
       "id": "now",
       "label": "Now",
-      "count": 4
+      "count": 3
     },
     {
       "id": "stories",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 26
+      "count": 25
     },
     {
       "name": "GameWith",
@@ -115,7 +115,7 @@
       "count": 2
     },
     {
-      "name": "news.nicovideo.jp",
+      "name": "ニコニコニュース",
       "count": 2
     },
     {
@@ -148,14 +148,6 @@
     },
     {
       "name": "Unisba Media",
-      "count": 1
-    },
-    {
-      "name": "Gamer",
-      "count": 1
-    },
-    {
-      "name": "THE FIRST TIMES",
       "count": 1
     },
     {
@@ -202,7 +194,7 @@
         {
           "title": "「CAPCOM AUTUMN SALE」開催！ 『モンスターハンターライズ』や『ストリートファイター6』がSteam",
           "url": "https://news.nicovideo.jp/watch/nw19839857?news_ref",
-          "source": "news.nicovideo.jp",
+          "source": "ニコニコニュース",
           "publishedAt": "2026-10-03T02:00:37.000Z",
           "isPR": false
         },
@@ -386,7 +378,7 @@
         {
           "title": "Nintendo Switch(TM) 2 版『モンスターハンターワイルズ』の体験会をCAPCOMIX あべのHoop店、みなとみらい店で開催決定！",
           "url": "https://news.nicovideo.jp/watch/nw19838636",
-          "source": "news.nicovideo.jp",
+          "source": "ニコニコニュース",
           "publishedAt": "2026-10-02T19:51:26.000Z",
           "isPR": false
         }
@@ -394,12 +386,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-05T12:30:15.778Z",
+    "previousAt": "2026-10-05T13:00:18.794Z",
     "previousCount": 65,
     "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-05T13:30:18.794Z",
+  "nextUpdateAt": "2026-10-05T14:00:16.966Z",
   "items": [
     {
       "id": "8c086bb7f518",
@@ -1427,7 +1419,7 @@
       "title": "「CAPCOM AUTUMN SALE」開催！ 『モンスターハンターライズ』や『ストリートファイター6』がSteam",
       "url": "https://news.nicovideo.jp/watch/nw19839857?news_ref",
       "host": "news.nicovideo.jp",
-      "source": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
       "summary": "",
       "publishedAt": "2026-10-03T02:00:37.000Z",
       "image": "",
@@ -1511,7 +1503,7 @@
       "title": "Nintendo Switch(TM) 2 版『モンスターハンターワイルズ』の体験会をCAPCOMIX あべのHoop店、みなとみらい店で開催決定！",
       "url": "https://news.nicovideo.jp/watch/nw19838636",
       "host": "news.nicovideo.jp",
-      "source": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
       "summary": "",
       "publishedAt": "2026-10-02T19:51:26.000Z",
       "image": "",
@@ -1626,67 +1618,6 @@
       "series": [
         "rise"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "1352c07ac919",
-      "title": "「モンスターハンターワイルズ」大型拡張コンテンツが開発中――夏ごろに正式発表予定 (全30枚)",
-      "url": "http://www.gamer.ne.jp/news/202602100010/image/21/",
-      "host": "gamer.ne.jp",
-      "source": "Gamer",
-      "summary": "",
-      "publishedAt": "2026-10-02T13:26:47.000Z",
-      "image": "",
-      "categories": [
-        "new"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "415c1e3c9a8d",
-      "title": "【大量出現初日】SP特化スラアクで次元変異リオレウス亜種大量出現初日報告【MHNow】",
-      "url": "https://youtu.be/106sgCJmjiE?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-02T13:24:55.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3d00e236270e",
-      "title": "総再生回数34億回超えの『Spookiz（スプーキッズ）』新シーズンスタート！思い出の学校でSpookizたちが再びモンスターハンターと対峙",
-      "url": "https://www.thefirsttimes.jp/news/0000892531/",
-      "host": "thefirsttimes.jp",
-      "source": "THE FIRST TIMES",
-      "summary": "",
-      "publishedAt": "2026-10-02T13:10:20.000Z",
-      "image": "https://www.thefirsttimes.jp/admin/wp-content/uploads/2026/10/20261002-st-190801-1200x630.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
