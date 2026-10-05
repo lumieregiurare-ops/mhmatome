@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-05T14:00:17.450Z",
+  "updatedAt": "2026-10-05T14:30:19.681Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 62,
+  "total": 61,
   "todayCount": 15,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 6
+      "count": 7
     },
     {
       "id": "sale",
@@ -62,19 +62,19 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 43
+      "count": 41
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 40
+      "count": 41
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 9
+      "count": 8
     },
     {
       "id": "world",
@@ -100,11 +100,11 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 25
+      "count": 23
     },
     {
       "name": "GameWith",
-      "count": 19
+      "count": 20
     },
     {
       "name": "AUTOMATON",
@@ -123,7 +123,11 @@
       "count": 1
     },
     {
-      "name": "ファミ通",
+      "name": "famitsu.com",
+      "count": 1
+    },
+    {
+      "name": "Unisba Media",
       "count": 1
     },
     {
@@ -143,15 +147,11 @@
       "count": 1
     },
     {
-      "name": "appbank.net",
+      "name": "AppBank",
       "count": 1
     },
     {
       "name": "shiritomo",
-      "count": 1
-    },
-    {
-      "name": "Unisba Media",
       "count": 1
     },
     {
@@ -169,17 +169,53 @@
   ],
   "topics": [
     {
-      "id": "4bfbf84dbace",
-      "title": "『FF7 リベレーション』『モンハンワイルズ：アセンダンス』などが試遊できる“PlayStation 祭”が大阪で10月24日開催。PS Plus加入者向け先着予約が本日（10/2）開始",
-      "summary": "",
-      "url": "https://www.famitsu.com/article/images/202610/89840/890233",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/89840/a46c97fc1d7ebab228c73aeff1235cdc0.jpg?x=1280",
-      "leadSource": "ファミ通",
-      "publishedAt": "2026-10-05T09:48:56.000Z",
+      "id": "9656fee61266",
+      "title": "「モンスターハンターライズ」Steam版がなんと399円！ 「CAPCOM AUTUMN SALE」が開催",
+      "summary": "カプコンは、Steamにて「CAPCOM AUTUMN SALE」を開催している。期間は10月9日1時59分まで。",
+      "url": "https://game.watch.impress.co.jp/docs/news/2145296.html",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2145/296/1.jpg",
+      "leadSource": "GAME Watch",
+      "publishedAt": "2026-10-03T15:47:25.000Z",
       "sourceCount": 3,
-      "articleCount": 13,
+      "articleCount": 3,
       "categories": [
-        "new",
+        "collab",
+        "other"
+      ],
+      "keywords": [
+        "開催",
+        "ストリートファイター",
+        "autumn"
+      ],
+      "articles": [
+        {
+          "title": "カプコン×JR東海のコラボが開催！モンスターハンターやストリートファイターのキャラと旅に出よう",
+          "url": "https://www.walkerplus.com/article/1176995/",
+          "source": "ウォーカープラス",
+          "publishedAt": "2026-10-03T15:47:25.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「CAPCOM AUTUMN SALE」開催！ 『モンスターハンターライズ』や『ストリートファイター6』がSteam",
+          "url": "https://news.nicovideo.jp/watch/nw19839857?news_ref",
+          "source": "ニコニコニュース",
+          "publishedAt": "2026-10-03T02:00:37.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "e6d79acfa4bd",
+      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
+      "summary": "",
+      "url": "https://gamewith.jp/mhwilds/563096",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
+      "leadSource": "GameWith",
+      "publishedAt": "2026-10-05T12:24:10.000Z",
+      "sourceCount": 2,
+      "articleCount": 12,
+      "categories": [
+        "guide",
         "other"
       ],
       "keywords": [
@@ -193,13 +229,6 @@
           "url": "https://gamewith.jp/mhwilds/563040",
           "source": "GameWith",
           "publishedAt": "2026-10-05T08:18:26.000Z",
-          "isPR": false
-        },
-        {
-          "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
-          "url": "https://gamewith.jp/mhwilds/563096",
-          "source": "GameWith",
-          "publishedAt": "2026-10-05T06:04:04.000Z",
           "isPR": false
         },
         {
@@ -243,41 +272,12 @@
           "source": "GameWith",
           "publishedAt": "2026-10-04T05:39:32.000Z",
           "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "9656fee61266",
-      "title": "「モンスターハンターライズ」Steam版がなんと399円！ 「CAPCOM AUTUMN SALE」が開催",
-      "summary": "カプコンは、Steamにて「CAPCOM AUTUMN SALE」を開催している。期間は10月9日1時59分まで。",
-      "url": "https://game.watch.impress.co.jp/docs/news/2145296.html",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2145/296/1.jpg",
-      "leadSource": "GAME Watch",
-      "publishedAt": "2026-10-03T15:47:25.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "collab",
-        "other"
-      ],
-      "keywords": [
-        "開催",
-        "ストリートファイター",
-        "autumn"
-      ],
-      "articles": [
-        {
-          "title": "カプコン×JR東海のコラボが開催！モンスターハンターやストリートファイターのキャラと旅に出よう",
-          "url": "https://www.walkerplus.com/article/1176995/",
-          "source": "ウォーカープラス",
-          "publishedAt": "2026-10-03T15:47:25.000Z",
-          "isPR": false
         },
         {
-          "title": "「CAPCOM AUTUMN SALE」開催！ 『モンスターハンターライズ』や『ストリートファイター6』がSteam",
-          "url": "https://news.nicovideo.jp/watch/nw19839857?news_ref",
-          "source": "ニコニコニュース",
-          "publishedAt": "2026-10-03T02:00:37.000Z",
+          "title": "【MHWilds】ソロ＆武器縛りでストーリー攻略！#1 いけるとこまでいく！【モンハンワイルズ】",
+          "url": "https://youtu.be/wUdEJsw-sO0?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-04T05:33:28.000Z",
           "isPR": false
         }
       ]
@@ -289,7 +289,7 @@
       "url": "https://gamewith.jp/monsterhunternow/article/show/577438",
       "image": "https://rensai.jp/wp-content/uploads/2026/10/131ffe93609ec2a1836f6321c20dfd12.jpg",
       "leadSource": "GameWith",
-      "publishedAt": "2026-10-05T10:23:59.000Z",
+      "publishedAt": "2026-10-05T11:35:06.000Z",
       "sourceCount": 2,
       "articleCount": 3,
       "categories": [
@@ -359,7 +359,7 @@
       "summary": "",
       "url": "https://www.appbank.net/2026/10/03/game/3120731.php",
       "image": "https://www.appbank.net/wp-content/uploads/2026/10/20261002_112528_583_01.webp",
-      "leadSource": "appbank.net",
+      "leadSource": "AppBank",
       "publishedAt": "2026-10-03T04:36:46.000Z",
       "sourceCount": 2,
       "articleCount": 2,
@@ -383,12 +383,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-05T13:30:16.966Z",
+    "previousAt": "2026-10-05T14:00:17.450Z",
     "previousCount": 62,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-05T14:30:17.450Z",
+  "nextUpdateAt": "2026-10-05T15:00:19.681Z",
   "items": [
     {
       "id": "befadc337190",
@@ -408,7 +408,26 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "e6d79acfa4bd",
+      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
+      "url": "https://gamewith.jp/mhwilds/563096",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-05T12:24:10.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
+      "categories": [
+        "guide"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
     },
     {
       "id": "8c086bb7f518",
@@ -417,7 +436,7 @@
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-10-05T10:23:59.000Z",
+      "publishedAt": "2026-10-05T11:35:06.000Z",
       "image": "",
       "categories": [
         "other"
@@ -436,7 +455,7 @@
       "title": "『FF7 リベレーション』『モンハンワイルズ：アセンダンス』などが試遊できる“PlayStation 祭”が大阪で10月24日開催。PS Plus加入者向け先着予約が本日（10/2）開始",
       "url": "https://www.famitsu.com/article/images/202610/89840/890233",
       "host": "famitsu.com",
-      "source": "ファミ通",
+      "source": "famitsu.com",
       "summary": "",
       "publishedAt": "2026-10-05T09:48:56.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/famitsu/89840/a46c97fc1d7ebab228c73aeff1235cdc0.jpg?x=1280",
@@ -516,18 +535,20 @@
       "isNew": false
     },
     {
-      "id": "e6d79acfa4bd",
-      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
-      "url": "https://gamewith.jp/mhwilds/563096",
-      "host": "gamewith.jp",
-      "source": "GameWith",
+      "id": "48e2375cb234",
+      "title": "【モンハンワイルズ部結成】アセンダンス発売前になるべく強くなっておく！【#モンハンワイルズ #雨水多丸 】 Slavery (ka2naSTev5)",
+      "url": "https://media.unisba.ac.id/c03b652e/c999b882Wd5UUxAnHRE/?share",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
       "summary": "",
-      "publishedAt": "2026-10-05T06:04:04.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
+      "publishedAt": "2026-10-05T06:05:41.000Z",
+      "image": "",
       "categories": [
-        "guide"
+        "other"
       ],
-      "series": [],
+      "series": [
+        "wilds"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -609,27 +630,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ac2150dd8bfe",
-      "title": "空中で傀異脈動解除ww #モンハンライズ#太刀#魅せプレイ #モンハン #ゲーム#サンブレイク#傀異討究#傀異克服クシャルダオラ#開国クシャルダオラ",
-      "url": "https://youtu.be/9Kh0wakhstc?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-04T21:29:32.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "rise"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1373,7 +1373,7 @@
       "title": "Switch 2版『モンスターハンターワイルズ』体験会が10月10日から開催！ あべのHoop店とみなとみらい店で",
       "url": "https://www.appbank.net/2026/10/03/game/3120731.php",
       "host": "appbank.net",
-      "source": "appbank.net",
+      "source": "AppBank",
       "summary": "",
       "publishedAt": "2026-10-03T04:36:46.000Z",
       "image": "https://www.appbank.net/wp-content/uploads/2026/10/20261002_112528_583_01.webp",
@@ -1537,6 +1537,27 @@
       "isNew": false
     },
     {
+      "id": "14a3ee9d033c",
+      "title": "【モンハンワイルズ】ユニオン鉱石の入手方法と効率的な集め方【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/487485",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-02T18:12:28.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "4ba945e87ca0",
       "title": "「モンハンワイルズ/MHW」 ★9 ヌ・エグドラ初挑戦！！",
       "url": "https://youtu.be/yYQ2PUKjioY?si",
@@ -1551,27 +1572,6 @@
       "series": [
         "wilds",
         "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "48e2375cb234",
-      "title": "【モンハンワイルズ部結成】アセンダンス発売前になるべく強くなっておく！【#モンハンワイルズ #雨水多丸 】 Strasbourg (uu772WrruC)",
-      "url": "https://media.unisba.ac.id/8d9c4ff8/a43912cfCBYNURZtGhgeBVY/?share",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-10-02T17:34:41.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1595,25 +1595,6 @@
         "wilds",
         "world"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d53db44c0c7d",
-      "title": "【モンスターハンターNow】次元変異リオレウス亜種 大量出現",
-      "url": "https://youtu.be/JLvL3w-khaw?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-02T14:20:36.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
