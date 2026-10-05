@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-05T15:30:16.395Z",
+  "updatedAt": "2026-10-05T16:00:16.973Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 62,
+  "total": 61,
   "todayCount": 0,
   "categories": [
     {
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 42
+      "count": 41
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 42
+      "count": 41
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 6
+      "count": 5
     },
     {
       "id": "now",
@@ -111,10 +111,6 @@
       "count": 2
     },
     {
-      "name": "t.co",
-      "count": 2
-    },
-    {
       "name": "ニコニコニュース",
       "count": 2
     },
@@ -127,11 +123,7 @@
       "count": 1
     },
     {
-      "name": "ファミ通",
-      "count": 1
-    },
-    {
-      "name": "Unisba Media",
+      "name": "famitsu.com",
       "count": 1
     },
     {
@@ -139,11 +131,15 @@
       "count": 1
     },
     {
-      "name": "ガジェット通信 GetNews",
+      "name": "getnews.jp",
       "count": 1
     },
     {
       "name": "x.com",
+      "count": 1
+    },
+    {
+      "name": "t.co",
       "count": 1
     },
     {
@@ -155,7 +151,11 @@
       "count": 1
     },
     {
-      "name": "hashout.jp",
+      "name": "shiritomo",
+      "count": 1
+    },
+    {
+      "name": "Unisba Media",
       "count": 1
     },
     {
@@ -275,7 +275,7 @@
         {
           "title": "『モンハンNow』部位破壊報酬2倍!! 漂流石で砲術も狙えちゃう3周年アフターパーティガイド",
           "url": "https://getnews.jp/archives/3746947",
-          "source": "ガジェット通信 GetNews",
+          "source": "getnews.jp",
           "publishedAt": "2026-10-04T23:00:51.000Z",
           "isPR": false
         }
@@ -395,12 +395,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-05T15:00:40.017Z",
+    "previousAt": "2026-10-05T15:30:16.395Z",
     "previousCount": 62,
-    "newCount": 1
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-05T16:00:16.395Z",
+  "nextUpdateAt": "2026-10-05T16:30:16.973Z",
   "items": [
     {
       "id": "dfc29c6658af",
@@ -509,7 +509,7 @@
       "title": "『FF7 リベレーション』『モンハンワイルズ：アセンダンス』などが試遊できる“PlayStation 祭”が大阪で10月24日開催。PS Plus加入者向け先着予約が本日（10/2）開始",
       "url": "https://www.famitsu.com/article/images/202610/89840/890233",
       "host": "famitsu.com",
-      "source": "ファミ通",
+      "source": "famitsu.com",
       "summary": "",
       "publishedAt": "2026-10-05T09:48:56.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/famitsu/89840/a46c97fc1d7ebab228c73aeff1235cdc0.jpg?x=1280",
@@ -544,7 +544,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "382e8ef9275d",
@@ -631,27 +631,6 @@
       "isNew": false
     },
     {
-      "id": "48e2375cb234",
-      "title": "【モンハンワイルズ部結成】アセンダンス発売前になるべく強くなっておく！【#モンハンワイルズ #雨水多丸 】 Slavery (ka2naSTev5)",
-      "url": "https://media.unisba.ac.id/c03b652e/c999b882Wd5UUxAnHRE/?share",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-10-05T06:05:41.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "40bccce677c8",
       "title": "【アセンダンス】大剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/485475",
@@ -696,7 +675,7 @@
       "title": "『モンハンNow』部位破壊報酬2倍!! 漂流石で砲術も狙えちゃう3周年アフターパーティガイド",
       "url": "https://getnews.jp/archives/3746947",
       "host": "getnews.jp",
-      "source": "ガジェット通信 GetNews",
+      "source": "getnews.jp",
       "summary": "",
       "publishedAt": "2026-10-04T23:00:51.000Z",
       "image": "https://rensai.jp/wp-content/uploads/2026/10/131ffe93609ec2a1836f6321c20dfd12.jpg",
@@ -1532,7 +1511,7 @@
       "title": "PlayStation祭、10月24日大阪で開催——モンハンワイルズ新拡張を試遊予約",
       "url": "https://hashout.jp/game/11824/",
       "host": "hashout.jp",
-      "source": "hashout.jp",
+      "source": "shiritomo",
       "summary": "",
       "publishedAt": "2026-10-02T23:15:33.000Z",
       "image": "https://hashout.jp/wp-content/uploads/2026/10/2105931202527969662-img-1200x675.png",
@@ -1634,20 +1613,19 @@
       "isNew": false
     },
     {
-      "id": "5fa351381ece",
-      "title": "【モンハンワイルズ・参加型】HRの上限をあげていきたいまのちゃん【MHWilds】",
-      "url": "https://t.co/AohGbaeOnZ",
-      "host": "t.co",
-      "source": "t.co",
+      "id": "48e2375cb234",
+      "title": "【モンハンワイルズ部結成】アセンダンス発売前になるべく強くなっておく！【#モンハンワイルズ #雨水多丸 】 Strasbourg (uu772WrruC)",
+      "url": "https://media.unisba.ac.id/8d9c4ff8/a43912cfCBYNURZtGhgeBVY/?share",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
       "summary": "",
-      "publishedAt": "2026-10-02T15:41:41.000Z",
+      "publishedAt": "2026-10-02T17:34:41.000Z",
       "image": "",
       "categories": [
         "other"
       ],
       "series": [
-        "wilds",
-        "world"
+        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
