@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T22:30:15.378Z",
+  "updatedAt": "2026-10-05T23:00:18.544Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 59,
-  "todayCount": 1,
+  "todayCount": 2,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 4
+      "count": 5
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 43
+      "count": 42
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 38
+      "count": 37
     },
     {
       "id": "rise",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 0
+      "count": 1
     },
     {
       "id": "outlanders",
@@ -115,6 +115,10 @@
       "count": 2
     },
     {
+      "name": "AppMedia",
+      "count": 1
+    },
+    {
       "name": "電撃オンライン",
       "count": 1
     },
@@ -123,11 +127,7 @@
       "count": 1
     },
     {
-      "name": "ファミ通",
-      "count": 1
-    },
-    {
-      "name": "Unisba Media",
+      "name": "famitsu.com",
       "count": 1
     },
     {
@@ -143,7 +143,7 @@
       "count": 1
     },
     {
-      "name": "appbank.net",
+      "name": "AppBank",
       "count": 1
     },
     {
@@ -256,7 +256,7 @@
         {
           "title": "Switch 2版『モンスターハンターワイルズ』体験会が10月10日から開催！ あべのHoop店とみなとみらい店で",
           "url": "https://www.appbank.net/2026/10/03/game/3120731.php",
-          "source": "appbank.net",
+          "source": "AppBank",
           "publishedAt": "2026-10-03T04:36:46.000Z",
           "isPR": false
         }
@@ -264,13 +264,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-05T22:00:16.113Z",
+    "previousAt": "2026-10-05T22:30:15.378Z",
     "previousCount": 59,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-05T23:00:15.378Z",
+  "nextUpdateAt": "2026-10-05T23:30:18.544Z",
   "items": [
+    {
+      "id": "ced5755e5db0",
+      "title": "【モンハンストーリーズ3】おすすめオトモン｜進行度別に掲載【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79833716",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-05T21:55:47.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/173337_x0wn3.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "310bc849231e",
       "title": "【モンハンワイルズ】英雄の証の解放条件と報酬【モンスターハンターワイルズ】",
@@ -463,7 +484,7 @@
       "title": "『FF7 リベレーション』『モンハンワイルズ：アセンダンス』などが試遊できる“PlayStation 祭”が大阪で10月24日開催。PS Plus加入者向け先着予約が本日（10/2）開始",
       "url": "https://www.famitsu.com/article/images/202610/89840/890233",
       "host": "famitsu.com",
-      "source": "ファミ通",
+      "source": "famitsu.com",
       "summary": "",
       "publishedAt": "2026-10-05T09:48:56.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/famitsu/89840/a46c97fc1d7ebab228c73aeff1235cdc0.jpg?x=1280",
@@ -583,27 +604,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "48e2375cb234",
-      "title": "【モンハンワイルズ部結成】アセンダンス発売前になるべく強くなっておく！【#モンハンワイルズ #雨水多丸 】 Slavery (ka2naSTev5)",
-      "url": "https://media.unisba.ac.id/c03b652e/c999b882Wd5UUxAnHRE/?share",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-10-05T06:05:41.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "40bccce677c8",
@@ -1337,7 +1337,7 @@
       "title": "Switch 2版『モンスターハンターワイルズ』体験会が10月10日から開催！ あべのHoop店とみなとみらい店で",
       "url": "https://www.appbank.net/2026/10/03/game/3120731.php",
       "host": "appbank.net",
-      "source": "appbank.net",
+      "source": "AppBank",
       "summary": "",
       "publishedAt": "2026-10-03T04:36:46.000Z",
       "image": "https://www.appbank.net/wp-content/uploads/2026/10/20261002_112528_583_01.webp",
