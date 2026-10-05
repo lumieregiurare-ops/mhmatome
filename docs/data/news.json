@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T22:00:16.113Z",
+  "updatedAt": "2026-10-05T22:30:15.378Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 59,
-  "todayCount": 2,
+  "todayCount": 1,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 5
+      "count": 4
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 42
+      "count": 43
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 37
+      "count": 38
     },
     {
       "id": "rise",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 1
+      "count": 0
     },
     {
       "id": "outlanders",
@@ -115,10 +115,6 @@
       "count": 2
     },
     {
-      "name": "AppMedia",
-      "count": 1
-    },
-    {
       "name": "電撃オンライン",
       "count": 1
     },
@@ -128,6 +124,10 @@
     },
     {
       "name": "ファミ通",
+      "count": 1
+    },
+    {
+      "name": "Unisba Media",
       "count": 1
     },
     {
@@ -143,7 +143,7 @@
       "count": 1
     },
     {
-      "name": "AppBank",
+      "name": "appbank.net",
       "count": 1
     },
     {
@@ -256,7 +256,7 @@
         {
           "title": "Switch 2版『モンスターハンターワイルズ』体験会が10月10日から開催！ あべのHoop店とみなとみらい店で",
           "url": "https://www.appbank.net/2026/10/03/game/3120731.php",
-          "source": "AppBank",
+          "source": "appbank.net",
           "publishedAt": "2026-10-03T04:36:46.000Z",
           "isPR": false
         }
@@ -264,34 +264,13 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-05T21:30:19.438Z",
+    "previousAt": "2026-10-05T22:00:16.113Z",
     "previousCount": 59,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-05T22:30:16.113Z",
+  "nextUpdateAt": "2026-10-05T23:00:15.378Z",
   "items": [
-    {
-      "id": "5cb07b2b0347",
-      "title": "【モンハンストーリーズ3】序盤の効率的な進め方｜押さえておきたいポイントまとめ【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79832135",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-05T17:24:53.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/135446_cduob.webp",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
     {
       "id": "310bc849231e",
       "title": "【モンハンワイルズ】英雄の証の解放条件と報酬【モンスターハンターワイルズ】",
@@ -604,6 +583,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "48e2375cb234",
+      "title": "【モンハンワイルズ部結成】アセンダンス発売前になるべく強くなっておく！【#モンハンワイルズ #雨水多丸 】 Slavery (ka2naSTev5)",
+      "url": "https://media.unisba.ac.id/c03b652e/c999b882Wd5UUxAnHRE/?share",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-10-05T06:05:41.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "40bccce677c8",
@@ -1337,7 +1337,7 @@
       "title": "Switch 2版『モンスターハンターワイルズ』体験会が10月10日から開催！ あべのHoop店とみなとみらい店で",
       "url": "https://www.appbank.net/2026/10/03/game/3120731.php",
       "host": "appbank.net",
-      "source": "AppBank",
+      "source": "appbank.net",
       "summary": "",
       "publishedAt": "2026-10-03T04:36:46.000Z",
       "image": "https://www.appbank.net/wp-content/uploads/2026/10/20261002_112528_583_01.webp",
