@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T16:00:16.973Z",
+  "updatedAt": "2026-10-05T16:30:17.627Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 7
+      "count": 5
     },
     {
       "id": "sale",
@@ -62,19 +62,19 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 41
+      "count": 43
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 41
+      "count": 40
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 8
+      "count": 9
     },
     {
       "id": "world",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 24
+      "count": 25
     },
     {
       "name": "GameWith",
@@ -127,6 +127,10 @@
       "count": 1
     },
     {
+      "name": "Unisba Media",
+      "count": 1
+    },
+    {
       "name": "gamebiz【ゲームビズ】",
       "count": 1
     },
@@ -139,10 +143,6 @@
       "count": 1
     },
     {
-      "name": "t.co",
-      "count": 1
-    },
-    {
       "name": "ウォーカープラス",
       "count": 1
     },
@@ -152,10 +152,6 @@
     },
     {
       "name": "shiritomo",
-      "count": 1
-    },
-    {
-      "name": "Unisba Media",
       "count": 1
     },
     {
@@ -177,7 +173,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-10-05T12:24:10.000Z",
       "sourceCount": 2,
-      "articleCount": 12,
+      "articleCount": 11,
       "categories": [
         "guide",
         "other"
@@ -253,7 +249,7 @@
       "url": "https://gamewith.jp/monsterhunternow/article/show/577438",
       "image": "https://rensai.jp/wp-content/uploads/2026/10/131ffe93609ec2a1836f6321c20dfd12.jpg",
       "leadSource": "GameWith",
-      "publishedAt": "2026-10-05T11:35:06.000Z",
+      "publishedAt": "2026-10-05T12:53:22.000Z",
       "sourceCount": 2,
       "articleCount": 3,
       "categories": [
@@ -277,34 +273,6 @@
           "url": "https://getnews.jp/archives/3746947",
           "source": "getnews.jp",
           "publishedAt": "2026-10-04T23:00:51.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "310bc849231e",
-      "title": "【モンハンワイルズ】英雄の証の解放条件と報酬【モンスターハンターワイルズ】",
-      "summary": "",
-      "url": "https://gamewith.jp/mhwilds/545421",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545421.png?date=1771483075",
-      "leadSource": "GameWith",
-      "publishedAt": "2026-10-05T09:56:11.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other",
-        "guide"
-      ],
-      "keywords": [
-        "モンスターハンターワイルズ",
-        "モンハンワイルズ"
-      ],
-      "articles": [
-        {
-          "title": "【モンハンワイルズニュース】ガード特化、ゾンビ装備・・・アセンダンス前にはそろえたい（Geminiに聞いた！ 直近1週間のモンスターハンターワイルズAIニュース／令和に生きる狩られ道） #Gemini",
-          "url": "https://t.co/z9PVCRP1Xh",
-          "source": "t.co",
-          "publishedAt": "2026-10-04T06:00:17.000Z",
           "isPR": false
         }
       ]
@@ -395,12 +363,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-05T15:30:16.395Z",
-    "previousCount": 62,
-    "newCount": 0
+    "previousAt": "2026-10-05T16:00:16.973Z",
+    "previousCount": 61,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-05T16:30:16.973Z",
+  "nextUpdateAt": "2026-10-05T17:00:17.627Z",
   "items": [
     {
       "id": "dfc29c6658af",
@@ -444,6 +412,27 @@
       "isNew": false
     },
     {
+      "id": "8c086bb7f518",
+      "title": "【モンハンナウ】モンハンNow感謝祭【3周年記念】【モンハンNow】",
+      "url": "https://gamewith.jp/monsterhunternow/article/show/577438",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-05T12:53:22.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "e6d79acfa4bd",
       "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
       "url": "https://gamewith.jp/mhwilds/563096",
@@ -463,25 +452,25 @@
       "isNew": false
     },
     {
-      "id": "8c086bb7f518",
-      "title": "【モンハンナウ】モンハンNow感謝祭【3周年記念】【モンハンNow】",
-      "url": "https://gamewith.jp/monsterhunternow/article/show/577438",
-      "host": "gamewith.jp",
-      "source": "GameWith",
+      "id": "1fd593546de5",
+      "title": "太刀歴18年のアセンダンス太刀の隠し技＆正直な感想【モンハンワイルズアセンダンス】",
+      "url": "https://youtu.be/6eEpNC1hk2w?si",
+      "host": "youtu.be",
+      "source": "YouTube",
       "summary": "",
-      "publishedAt": "2026-10-05T11:35:06.000Z",
+      "publishedAt": "2026-10-05T10:11:56.000Z",
       "image": "",
       "categories": [
         "other"
       ],
       "series": [
-        "now"
+        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "310bc849231e",
@@ -618,6 +607,27 @@
       "summary": "",
       "publishedAt": "2026-10-05T06:30:13.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577790.png?date=1789746410",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "48e2375cb234",
+      "title": "【モンハンワイルズ部結成】アセンダンス発売前になるべく強くなっておく！【#モンハンワイルズ #雨水多丸 】 Slavery (ka2naSTev5)",
+      "url": "https://media.unisba.ac.id/c03b652e/c999b882Wd5UUxAnHRE/?share",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-10-05T06:05:41.000Z",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -961,27 +971,6 @@
       "isNew": false
     },
     {
-      "id": "a94fbaf7fac8",
-      "title": "【モンハンワイルズニュース】ガード特化、ゾンビ装備・・・アセンダンス前にはそろえたい（Geminiに聞いた！ 直近1週間のモンスターハンターワイルズAIニュース／令和に生きる狩られ道） #Gemini",
-      "url": "https://t.co/z9PVCRP1Xh",
-      "host": "t.co",
-      "source": "t.co",
-      "summary": "",
-      "publishedAt": "2026-10-04T06:00:17.000Z",
-      "image": "",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "5fc879b1cca5",
       "title": "【モンハンワイルズ】英傑に愛を込めての攻略と報酬【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/545381",
@@ -1256,27 +1245,6 @@
       "isNew": false
     },
     {
-      "id": "92a4ad7e8e97",
-      "title": "【モンハンワイルズ】ゴグマジオスの対策装備と周回装備・攻略【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/520491",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-03T17:59:12.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/520491.png?date=1758724718",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "22f58a63d794",
       "title": "カプコン×JR東海のコラボが開催！モンスターハンターやストリートファイターのキャラと旅に出よう",
       "url": "https://www.walkerplus.com/article/1176995/",
@@ -1379,6 +1347,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "0edd1597e944",
+      "title": "【サンブレイク】傀異化(怪異化)した甲殻の入手方法【モンハンライズ】",
+      "url": "https://gamewith.jp/mhrize/article/show/350124",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-03T08:34:08.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "d605748fb698",
@@ -1605,27 +1594,6 @@
       "series": [
         "wilds",
         "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "48e2375cb234",
-      "title": "【モンハンワイルズ部結成】アセンダンス発売前になるべく強くなっておく！【#モンハンワイルズ #雨水多丸 】 Strasbourg (uu772WrruC)",
-      "url": "https://media.unisba.ac.id/8d9c4ff8/a43912cfCBYNURZtGhgeBVY/?share",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-10-02T17:34:41.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
