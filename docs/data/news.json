@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-05T07:00:16.613Z",
+  "updatedAt": "2026-10-05T07:30:17.204Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 67,
-  "todayCount": 7,
+  "total": 71,
+  "todayCount": 8,
   "categories": [
     {
       "id": "new",
@@ -62,24 +62,24 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 49
+      "count": 53
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 37
+      "count": 40
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 12
+      "count": 13
     },
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 4
+      "count": 5
     },
     {
       "id": "now",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 24
+      "count": 28
     },
     {
       "name": "ゲームウィズ",
@@ -193,7 +193,7 @@
       "title": "「モンスターハンターライズ」Steam版がなんと399円！ 「CAPCOM AUTUMN SALE」が開催",
       "summary": "カプコンは、Steamにて「CAPCOM AUTUMN SALE」を開催している。期間は10月9日1時59分まで。",
       "url": "https://game.watch.impress.co.jp/docs/news/2145296.html",
-      "image": "https://news.walkerplus.com/article/1176995/12576575_615.jpg",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2145/296/1.jpg",
       "leadSource": "GAME Watch",
       "publishedAt": "2026-10-03T15:47:25.000Z",
       "sourceCount": 7,
@@ -416,12 +416,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-05T06:30:17.441Z",
+    "previousAt": "2026-10-05T07:00:16.613Z",
     "previousCount": 67,
-    "newCount": 0
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-05T07:30:16.613Z",
+  "nextUpdateAt": "2026-10-05T08:00:17.204Z",
   "items": [
     {
       "id": "e6d79acfa4bd",
@@ -481,6 +481,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "b4daf2a6e787",
+      "title": "【モンハンワイルズ】約束をすっぽかしたら、反省文ならぬ反省狩（歴戦王☆１０ｘ２）をすることになりました💦（月曜日レ・ダウ）",
+      "url": "https://youtu.be/HXAYjlWsx64?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-04T22:49:17.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "ac2150dd8bfe",
@@ -940,6 +961,49 @@
       "isNew": false
     },
     {
+      "id": "338da5e56a68",
+      "title": "【MHWilds】歴戦王ジン•ダハド06'05\"79チャージアックスソロ /freechallenge ArchTempered Jin Dahaad charge blade solo【PS5】",
+      "url": "https://youtu.be/jt7oQfzFe5w?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-03T22:23:57.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "c8883e79f8ee",
+      "title": "【ほぼ作り直し】『モンハンワイルズ』Switch2版、カプコンが語る“異例の最適化” #ゆっくり解説",
+      "url": "https://youtu.be/2hBqL2pJkyo?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-03T22:15:26.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "411bb4076b94",
       "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/575038",
@@ -1146,6 +1210,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "7a0f9eeb62ff",
+      "title": "【モンスターハンターライズ】里クエスト、星2を制覇するために一気にクリアを目指していく狩猟 2日目【宇佐見あまの】",
+      "url": "https://youtu.be/ZXaBtewFW2k",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-03T09:00:20.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "0b68bd1287fd",
@@ -1675,7 +1760,7 @@
       "source": "GAME Watch",
       "summary": "カプコンは、Steamにて「CAPCOM AUTUMN SALE」を開催している。期間は10月9日1時59分まで。",
       "publishedAt": "2026-10-02T08:44:59.000Z",
-      "image": "",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2145/296/1.jpg",
       "categories": [
         "other"
       ],
