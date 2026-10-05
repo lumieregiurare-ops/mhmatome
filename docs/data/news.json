@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-05T14:30:19.681Z",
+  "updatedAt": "2026-10-05T15:00:40.017Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 61,
-  "todayCount": 15,
+  "total": 62,
+  "todayCount": 0,
   "categories": [
     {
       "id": "new",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 41
+      "count": 42
     }
   ],
   "series": [
@@ -74,7 +74,7 @@
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 8
+      "count": 9
     },
     {
       "id": "world",
@@ -119,6 +119,10 @@
       "count": 2
     },
     {
+      "name": "DMMぱちタウン",
+      "count": 1
+    },
+    {
       "name": "電撃オンライン",
       "count": 1
     },
@@ -151,7 +155,7 @@
       "count": 1
     },
     {
-      "name": "shiritomo",
+      "name": "hashout.jp",
       "count": 1
     },
     {
@@ -232,17 +236,17 @@
           "isPR": false
         },
         {
+          "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563077",
+          "source": "GameWith",
+          "publishedAt": "2026-10-05T07:44:20.000Z",
+          "isPR": false
+        },
+        {
           "title": "【アセンダンス】護竜リオレイアの最新情報まとめ【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/575037",
           "source": "GameWith",
           "publishedAt": "2026-10-04T17:17:23.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/563077",
-          "source": "GameWith",
-          "publishedAt": "2026-10-04T08:47:19.000Z",
           "isPR": false
         },
         {
@@ -383,13 +387,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-05T14:00:17.450Z",
-    "previousCount": 62,
+    "previousAt": "2026-10-05T14:30:19.681Z",
+    "previousCount": 61,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-05T15:00:19.681Z",
+  "nextUpdateAt": "2026-10-05T15:30:40.017Z",
   "items": [
+    {
+      "id": "dfc29c6658af",
+      "title": "【設定6実戦】『スマスロ モンスターハンターライズ：サンブレイク』の設定差考察！ CZ・終了画面",
+      "url": "https://p-town.dmm.com/specials/5456",
+      "host": "p-town.dmm.com",
+      "source": "DMMぱちタウン",
+      "summary": "",
+      "publishedAt": "2026-10-05T14:47:59.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "befadc337190",
       "title": "【モンスターハンター】巨戟龍《ゴグマジオス》のフィギュアが予約受付中。生物的質感を完全再現した精密ディティールに注目！",
@@ -501,6 +526,27 @@
       "summary": "",
       "publishedAt": "2026-10-05T08:18:26.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563040.png?date=1789770455",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "46ab930cbc6c",
+      "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/563077",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-05T07:44:20.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
       "categories": [
         "other"
       ],
@@ -815,27 +861,6 @@
       ],
       "series": [
         "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "46ab930cbc6c",
-      "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563077",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-04T08:47:19.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1478,7 +1503,7 @@
       "title": "PlayStation祭、10月24日大阪で開催——モンハンワイルズ新拡張を試遊予約",
       "url": "https://hashout.jp/game/11824/",
       "host": "hashout.jp",
-      "source": "shiritomo",
+      "source": "hashout.jp",
       "summary": "",
       "publishedAt": "2026-10-02T23:15:33.000Z",
       "image": "https://hashout.jp/wp-content/uploads/2026/10/2105931202527969662-img-1200x675.png",
@@ -1555,7 +1580,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4ba945e87ca0",
@@ -1651,7 +1676,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "\"Monster Hunter Wilds\"—whose major expansion releases in 2027— is on sale for for 25% off! But there's more! The \"Monster Hunter Series Pack,\" (Bundle) which c…",
       "publishedAt": "2026-10-02T08:34:04.000Z",
-      "image": "https://clan.fastly.steamstatic.com/images/44795648/30302d9fc79a793f9d6a4ba736148303013217c0.jpg",
+      "image": "https://clan.akamai.steamstatic.com/images/44795648/30302d9fc79a793f9d6a4ba736148303013217c0.jpg",
       "categories": [
         "other"
       ],
