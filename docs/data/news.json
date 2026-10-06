@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-06T06:30:19.799Z",
+  "updatedAt": "2026-10-06T07:00:18.913Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 60,
-  "todayCount": 15,
+  "total": 62,
+  "todayCount": 16,
   "categories": [
     {
       "id": "new",
@@ -47,7 +47,7 @@
     {
       "id": "sale",
       "label": "セール",
-      "count": 3
+      "count": 4
     },
     {
       "id": "community",
@@ -57,12 +57,12 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 2
+      "count": 3
     },
     {
       "id": "other",
       "label": "その他",
-      "count": 43
+      "count": 44
     }
   ],
   "series": [
@@ -74,17 +74,17 @@
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 8
+      "count": 9
     },
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 6
+      "count": 7
     },
     {
       "id": "now",
       "label": "Now",
-      "count": 6
+      "count": 7
     },
     {
       "id": "stories",
@@ -100,11 +100,15 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 21
+      "count": 22
     },
     {
       "name": "YouTube",
       "count": 21
+    },
+    {
+      "name": "ファミ通",
+      "count": 2
     },
     {
       "name": "Game*Spark",
@@ -135,11 +139,7 @@
       "count": 1
     },
     {
-      "name": "DMMぱちタウン",
-      "count": 1
-    },
-    {
-      "name": "ファミ通",
+      "name": "p-town.dmm.com",
       "count": 1
     },
     {
@@ -173,7 +173,7 @@
       "leadSource": "t.co",
       "publishedAt": "2026-10-06T01:00:05.000Z",
       "sourceCount": 3,
-      "articleCount": 7,
+      "articleCount": 8,
       "categories": [
         "other"
       ],
@@ -195,6 +195,13 @@
           "url": "https://gamewith.jp/monsterhunternow/article/show/573258",
           "source": "GameWith",
           "publishedAt": "2026-10-05T12:50:03.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンナウ】シーズン10 クライマックス【モンハンNow】",
+          "url": "https://gamewith.jp/monsterhunternow/article/show/575186",
+          "source": "GameWith",
+          "publishedAt": "2026-10-05T12:47:42.000Z",
           "isPR": false
         },
         {
@@ -356,13 +363,36 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-06T06:00:14.899Z",
-    "previousCount": 59,
-    "newCount": 1
+    "previousAt": "2026-10-06T06:30:19.799Z",
+    "previousCount": 60,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-06T07:00:19.799Z",
+  "nextUpdateAt": "2026-10-06T07:30:18.913Z",
   "items": [
+    {
+      "id": "18ad834354e7",
+      "title": "『モンハンライズ』累計販売本数2000万本を突破。『モンハンワールド』に次いで2番目となるカプコンの2000万本セールスタイトルに",
+      "url": "https://www.famitsu.com/article/202610/90149",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-10-06T06:12:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/90149/thumbnail_EvtH.jpg?x=1280",
+      "categories": [
+        "sales",
+        "sale"
+      ],
+      "series": [
+        "rise",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "a197bccc8e78",
       "title": "『モンスターハンターライズ』累計販売本数2,000万本を達成！発売から約5年半で到達、現在も根強い人気",
@@ -404,7 +434,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b797c72857dc",
@@ -713,10 +743,10 @@
     },
     {
       "id": "dfc29c6658af",
-      "title": "【設定6実戦】『スマスロ モンスターハンターライズ：サンブレイク』の設定差考察！ CZ・終了画面",
+      "title": "【設定6実戦】『スマスロ モンスターハンターライズ：サンブレイク』の設定差考察！ CZ・終了画面 - p-town.dmm.com",
       "url": "https://p-town.dmm.com/specials/5456",
       "host": "p-town.dmm.com",
-      "source": "DMMぱちタウン",
+      "source": "p-town.dmm.com",
       "summary": "",
       "publishedAt": "2026-10-05T13:00:00.000Z",
       "image": "",
@@ -773,6 +803,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "92ce6f3315f0",
+      "title": "【モンハンナウ】シーズン10 クライマックス【モンハンNow】",
+      "url": "https://gamewith.jp/monsterhunternow/article/show/575186",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-05T12:47:42.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "778fbb3d5344",
