@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-06T19:00:22.159Z",
+  "updatedAt": "2026-10-06T19:30:17.430Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 70,
+  "total": 71,
   "todayCount": 1,
   "categories": [
     {
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 48
+      "count": 49
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 39
+      "count": 40
     },
     {
       "id": "rise",
@@ -108,7 +108,7 @@
     },
     {
       "name": "Howl.Link",
-      "count": 4
+      "count": 5
     },
     {
       "name": "ガジェット通信 GetNews",
@@ -540,12 +540,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-06T18:30:23.837Z",
-    "previousCount": 67,
-    "newCount": 4
+    "previousAt": "2026-10-06T19:00:22.159Z",
+    "previousCount": 70,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-06T19:30:22.159Z",
+  "nextUpdateAt": "2026-10-06T20:00:17.430Z",
   "items": [
     {
       "id": "3756961e4e64",
@@ -587,6 +587,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "b13159326bc0",
+      "title": "【モンハンワイルズ】オメガにリベンジの巻。",
+      "url": "https://t.co/3LbKaHdjN3",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-06T13:47:56.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "9f3a5283d459",
@@ -774,7 +795,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7911c122efc8",
@@ -901,7 +922,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b797c72857dc",
@@ -941,7 +962,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "391447e24dcf",
@@ -1101,7 +1122,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d8b95bbbc335",
