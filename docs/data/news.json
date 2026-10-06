@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T08:00:14.705Z",
+  "updatedAt": "2026-10-06T08:30:17.679Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 64,
-  "todayCount": 18,
+  "todayCount": 17,
   "categories": [
     {
       "id": "new",
@@ -27,7 +27,7 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 3
+      "count": 2
     },
     {
       "id": "goods",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 5
+      "count": 6
     },
     {
       "id": "sale",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 35
+      "count": 36
     },
     {
       "id": "rise",
@@ -99,11 +99,11 @@
   ],
   "sources": [
     {
-      "name": "GameWith",
-      "count": 22
+      "name": "YouTube",
+      "count": 23
     },
     {
-      "name": "YouTube",
+      "name": "GameWith",
       "count": 22
     },
     {
@@ -119,10 +119,6 @@
       "count": 2
     },
     {
-      "name": "t.co",
-      "count": 2
-    },
-    {
       "name": "AUTOMATON",
       "count": 2
     },
@@ -135,6 +131,10 @@
       "count": 1
     },
     {
+      "name": "t.co",
+      "count": 1
+    },
+    {
       "name": "x.com",
       "count": 1
     },
@@ -143,7 +143,7 @@
       "count": 1
     },
     {
-      "name": "p-town.dmm.com",
+      "name": "DMMぱちタウン",
       "count": 1
     },
     {
@@ -297,12 +297,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-06T07:30:15.997Z",
-    "previousCount": 61,
-    "newCount": 3
+    "previousAt": "2026-10-06T08:00:14.705Z",
+    "previousCount": 64,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-06T08:30:14.705Z",
+  "nextUpdateAt": "2026-10-06T09:00:17.679Z",
   "items": [
     {
       "id": "79879d792dce",
@@ -312,7 +312,7 @@
       "source": "ライズ公式（Steam）",
       "summary": "To celebrate, please enjoy this Dango filled special artwork from the team. Th…",
       "publishedAt": "2026-10-06T07:14:40.000Z",
-      "image": "https://clan.fastly.steamstatic.com/images/41286238/2fd72d0cfbd5f9138dbac78c9d7c175e27dfec20.jpg",
+      "image": "https://clan.akamai.steamstatic.com/images/41286238/2fd72d0cfbd5f9138dbac78c9d7c175e27dfec20.jpg",
       "categories": [
         "other"
       ],
@@ -323,7 +323,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "official",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "18ad834354e7",
@@ -529,25 +529,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "714538d63c5f",
-      "title": "【生配信】4人なら生還できる…よね？護石チャレンジ開始？！【モンハン／4人コラボ】",
-      "url": "https://t.co/zzBCzibUky",
-      "host": "t.co",
-      "source": "t.co",
-      "summary": "",
-      "publishedAt": "2026-10-05T21:28:35.000Z",
-      "image": "",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "010ece4575cd",
@@ -759,10 +740,10 @@
     },
     {
       "id": "dfc29c6658af",
-      "title": "【設定6実戦】『スマスロ モンスターハンターライズ：サンブレイク』の設定差考察！ CZ・終了画面 - p-town.dmm.com",
+      "title": "【設定6実戦】『スマスロ モンスターハンターライズ：サンブレイク』の設定差考察！ CZ・終了画面",
       "url": "https://p-town.dmm.com/specials/5456",
       "host": "p-town.dmm.com",
-      "source": "p-town.dmm.com",
+      "source": "DMMぱちタウン",
       "summary": "",
       "publishedAt": "2026-10-05T13:00:00.000Z",
       "image": "",
@@ -839,7 +820,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "778fbb3d5344",
@@ -1512,6 +1493,27 @@
       "isNew": false
     },
     {
+      "id": "743c6385593d",
+      "title": "【モンハンワイルズ】歴戦王アルシュベルド攻略！鎖刃解放・護竜強化の仕組みを解説",
+      "url": "https://youtu.be/H1ODujhTLAM?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-03T16:43:05.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "22f58a63d794",
       "title": "カプコン×JR東海のコラボが開催！モンスターハンターやストリートファイターのキャラと旅に出よう",
       "url": "https://www.walkerplus.com/article/1176995/",
@@ -1623,7 +1625,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "\"Monster Hunter Wilds\"—whose major expansion releases in 2027— is on sale for for 25% off! But there's more! The \"Monster Hunter Series Pack,\" (Bundle) which c…",
       "publishedAt": "2026-10-02T08:34:04.000Z",
-      "image": "https://clan.fastly.steamstatic.com/images/44795648/30302d9fc79a793f9d6a4ba736148303013217c0.jpg",
+      "image": "https://clan.akamai.steamstatic.com/images/44795648/30302d9fc79a793f9d6a4ba736148303013217c0.jpg",
       "categories": [
         "other"
       ],
