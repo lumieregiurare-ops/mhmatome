@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-06T18:00:15.375Z",
+  "updatedAt": "2026-10-06T18:30:23.837Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 70,
+  "total": 67,
   "todayCount": 1,
   "categories": [
     {
@@ -27,7 +27,7 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 2
+      "count": 1
     },
     {
       "id": "goods",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 48
+      "count": 46
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 38
+      "count": 36
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 7
+      "count": 5
     },
     {
       "id": "now",
@@ -104,7 +104,7 @@
     },
     {
       "name": "YouTube",
-      "count": 21
+      "count": 20
     },
     {
       "name": "ガジェット通信 GetNews",
@@ -119,19 +119,11 @@
       "count": 2
     },
     {
-      "name": "Unisba Media",
-      "count": 2
-    },
-    {
       "name": "ファミ通",
       "count": 2
     },
     {
       "name": "電ファミニコゲーマー",
-      "count": 2
-    },
-    {
-      "name": "Howl.Link",
       "count": 2
     },
     {
@@ -160,6 +152,14 @@
     },
     {
       "name": "インサイド",
+      "count": 1
+    },
+    {
+      "name": "Howl.Link",
+      "count": 1
+    },
+    {
+      "name": "Unisba Media",
       "count": 1
     },
     {
@@ -450,12 +450,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-06T17:30:15.135Z",
-    "previousCount": 68,
-    "newCount": 2
+    "previousAt": "2026-10-06T18:00:15.375Z",
+    "previousCount": 70,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-06T18:30:15.375Z",
+  "nextUpdateAt": "2026-10-06T19:00:23.837Z",
   "items": [
     {
       "id": "3756961e4e64",
@@ -557,17 +557,17 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e8b869ac88ff",
       "title": "【モンハン】ふわふわで夢の抱き心地!! 『モンスターハンターワイルズ』のキャンプギアを再現したネコ型クッションが登場！",
-      "url": "https://dengekionline.com/article/images/202610/90082/892822",
+      "url": "https://dengekionline.com/article/images/202610/90082/892821",
       "host": "dengekionline.com",
       "source": "電撃オンライン",
       "summary": "",
       "publishedAt": "2026-10-06T10:01:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/dengeki/90082/aee1edcdce073d1bc574fe08d2377fd82.jpg?x=1280",
+      "image": "https://cimg.kgl-systems.io/camion/files/dengeki/90082/a8f657caa8b54c42872e98ea4e289bda5.jpg?x=1280",
       "categories": [
         "other"
       ],
@@ -663,28 +663,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "4453b9bbbd1c",
-      "title": "MHWilds【参加型】 #180 ※ロビー入室自由※🫣弓専と行く🏹【モンスターハンターワイルズ】ゆこいちの絶叫GAME部屋 Michael J Fox (YMiSMBJrtZ)",
-      "url": "https://media.unisba.ac.id/c9c96e5f/ad1acad29LV8CiQQ87E",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-10-06T08:32:47.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "7911c122efc8",
@@ -946,25 +924,6 @@
       "series": [
         "wilds"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "714538d63c5f",
-      "title": "【生配信】4人なら生還できる…よね？護石チャレンジ開始？！【モンハン／4人コラボ】",
-      "url": "https://t.co/zzBCzibUky",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-10-05T21:28:35.000Z",
-      "image": "",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1863,28 +1822,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "a8c2a3a57b10",
-      "title": "「モンハンワイルズ/MHW」チャレクエジンダハド！クリア！",
-      "url": "https://youtu.be/376rggM7qlc?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-03T18:18:04.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
       ],
       "isOfficial": false,
       "isPR": false,
