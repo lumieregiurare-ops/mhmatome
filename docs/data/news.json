@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T09:00:15.579Z",
+  "updatedAt": "2026-10-06T09:30:16.132Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 64,
-  "todayCount": 17,
+  "todayCount": 19,
   "categories": [
     {
       "id": "new",
@@ -27,7 +27,7 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 2
+      "count": 3
     },
     {
       "id": "goods",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 7
+      "count": 6
     },
     {
       "id": "sale",
@@ -52,7 +52,7 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 1
+      "count": 0
     },
     {
       "id": "sales",
@@ -62,24 +62,24 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 44
+      "count": 45
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 37
+      "count": 35
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 9
+      "count": 10
     },
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 7
+      "count": 6
     },
     {
       "id": "now",
@@ -100,10 +100,10 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 23
+      "count": 22
     },
     {
-      "name": "youtu.be",
+      "name": "YouTube",
       "count": 22
     },
     {
@@ -119,6 +119,10 @@
       "count": 2
     },
     {
+      "name": "t.co",
+      "count": 2
+    },
+    {
       "name": "AUTOMATON",
       "count": 2
     },
@@ -131,15 +135,11 @@
       "count": 1
     },
     {
-      "name": "t.co",
-      "count": 1
-    },
-    {
       "name": "x.com",
       "count": 1
     },
     {
-      "name": "news.dengeki.com",
+      "name": "電撃オンライン",
       "count": 1
     },
     {
@@ -297,12 +297,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-06T08:30:17.679Z",
+    "previousAt": "2026-10-06T09:00:15.579Z",
     "previousCount": 64,
-    "newCount": 1
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-06T09:30:15.579Z",
+  "nextUpdateAt": "2026-10-06T10:00:16.132Z",
   "items": [
     {
       "id": "79879d792dce",
@@ -312,7 +312,7 @@
       "source": "ライズ公式（Steam）",
       "summary": "To celebrate, please enjoy this Dango filled special artwork from the team. Th…",
       "publishedAt": "2026-10-06T07:14:40.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/41286238/2fd72d0cfbd5f9138dbac78c9d7c175e27dfec20.jpg",
+      "image": "https://clan.fastly.steamstatic.com/images/41286238/2fd72d0cfbd5f9138dbac78c9d7c175e27dfec20.jpg",
       "categories": [
         "other"
       ],
@@ -514,7 +514,7 @@
       "title": "【モンハン】鎧竜グラビモスの上位装備を狙う下位装備ハンター『モンハンワイルズ』",
       "url": "https://youtu.be/pDnK4AwIDds?si",
       "host": "youtu.be",
-      "source": "youtu.be",
+      "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-10-05T22:31:46.000Z",
       "image": "",
@@ -529,6 +529,46 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "b30dd75712eb",
+      "title": "居合抜刀で空中フィニッシュww #モンハンライズ#太刀#魅せプレイ #モンハン #ゲーム#サンブレイク#傀異討究#傀異化ラージャン#ラージャン",
+      "url": "https://youtu.be/RLDjFFh0Plo?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-05T22:06:46.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "714538d63c5f",
+      "title": "【生配信】4人なら生還できる…よね？護石チャレンジ開始？！【モンハン／4人コラボ】",
+      "url": "https://t.co/zzBCzibUky",
+      "host": "t.co",
+      "source": "t.co",
+      "summary": "",
+      "publishedAt": "2026-10-05T21:28:35.000Z",
+      "image": "",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "010ece4575cd",
@@ -638,7 +678,7 @@
       "title": "【MHWilds】フリーチャレンジクエスト 歴戦王ジン・ダハド ライトボウガン ソロ 火炎弾 4’08’’75【モンハンワイルズ】Arch Tempered Jin Dahaad LBG Solo",
       "url": "https://youtu.be/pL1eGW-7hsM?si",
       "host": "youtu.be",
-      "source": "youtu.be",
+      "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-10-05T16:14:23.000Z",
       "image": "",
@@ -681,7 +721,7 @@
       "title": "【モンスターハンター】巨戟龍《ゴグマジオス》のフィギュアが予約受付中。生物的質感を完全再現した精密ディティールに注目！",
       "url": "http://news.dengeki.com/article/202610/88370",
       "host": "news.dengeki.com",
-      "source": "news.dengeki.com",
+      "source": "電撃オンライン",
       "summary": "",
       "publishedAt": "2026-10-05T13:41:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/88370/ogp_Hkcy.jpg?x=1280",
@@ -890,7 +930,7 @@
       "title": "【MHWilds/PS5Pro】イベクエ 歴戦王アルシュベルド お食事火事場チャージアックスソロ(なんでも有)【4'29''21】/Arch Tempered arkveld charge blade",
       "url": "https://youtu.be/UFOHKFH_jxg?si",
       "host": "youtu.be",
-      "source": "youtu.be",
+      "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-10-05T12:05:31.000Z",
       "image": "",
@@ -912,7 +952,7 @@
       "title": "【アセンダンスに備えたい！】回復系素材 お気に入り採取ルート【モンスターハンターワイルズ】",
       "url": "https://youtu.be/pvh0JXWyj_M?si",
       "host": "youtu.be",
-      "source": "youtu.be",
+      "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-10-05T11:28:54.000Z",
       "image": "",
@@ -933,7 +973,7 @@
       "title": "太刀歴18年のアセンダンス太刀の隠し技＆正直な感想【モンハンワイルズアセンダンス】",
       "url": "https://youtu.be/6eEpNC1hk2w?si",
       "host": "youtu.be",
-      "source": "youtu.be",
+      "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-10-05T10:11:56.000Z",
       "image": "",
@@ -975,7 +1015,7 @@
       "title": "【モンスターハンターワイルズ 番外編 】アセンンダンス発売までに武器を全部集めよう！ ハンマー編・前編",
       "url": "https://youtu.be/IUZjlsrZVFU?si",
       "host": "youtu.be",
-      "source": "youtu.be",
+      "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-10-05T09:45:07.000Z",
       "image": "",
@@ -1032,27 +1072,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "78078e467bcf",
-      "title": "【モンハンワイルズ】スキルシミュレーター【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/484058",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-05T07:43:21.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/484058.png?date=1740767796",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "0b68bd1287fd",
@@ -1162,7 +1181,7 @@
       "title": "【モンハンワイルズ】約束をすっぽかしたら、反省文ならぬ反省狩（歴戦王☆１０ｘ２）をすることになりました💦（月曜日レ・ダウ）",
       "url": "https://youtu.be/HXAYjlWsx64?si",
       "host": "youtu.be",
-      "source": "youtu.be",
+      "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-10-04T22:49:17.000Z",
       "image": "",
@@ -1183,7 +1202,7 @@
       "title": "【生配信】最新台《スマスロモンスターハンターライズ：サンブレイク》長野県 #APULO塩尻北インター店 #PR",
       "url": "https://youtu.be/ucEbzipp3ZY",
       "host": "youtu.be",
-      "source": "youtu.be",
+      "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-10-04T20:16:38.000Z",
       "image": "",
@@ -1225,7 +1244,7 @@
       "title": "【モンスターハンターXX（ダブルクロス）】VS ラオシャンロン 【猫限 シュウ（ねこかぎ しゅう）】 #shorts",
       "url": "https://youtu.be/u-RgFLgTw7g?si",
       "host": "youtu.be",
-      "source": "youtu.be",
+      "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-10-04T15:06:16.000Z",
       "image": "",
@@ -1244,7 +1263,7 @@
       "title": "今年のTGSはたくさん狩りをしました！【TGS2026 CAPCOMブース】#CCJP #モンハンアセンダンス #モンハンワイルズ #ドラゴンズドグマ２ダークアリズン",
       "url": "https://youtu.be/wxBZFl_fmqE?si",
       "host": "youtu.be",
-      "source": "youtu.be",
+      "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-10-04T10:00:34.000Z",
       "image": "",
@@ -1307,7 +1326,7 @@
       "title": "【モンハンワイルズ】歴戦王ジン・ダハド フリーチャレンジクエスト(2026年再配信版) 属性弾(火)ライトボウガン 7分25 火事場",
       "url": "https://youtu.be/Vlpx2b7Xl4c?si",
       "host": "youtu.be",
-      "source": "youtu.be",
+      "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-10-04T07:55:26.000Z",
       "image": "",
@@ -1349,7 +1368,7 @@
       "title": "【MHWilds/PS5】ソロ＆武器縛りでストーリー攻略！#1 いけるとこまでいく！【モンハンワイルズ】",
       "url": "https://youtu.be/wUdEJsw-sO0?si",
       "host": "youtu.be",
-      "source": "youtu.be",
+      "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-10-04T05:33:28.000Z",
       "image": "",
@@ -1371,7 +1390,7 @@
       "title": "【装備紹介】復帰勢必見！一番おすすめな『チャアク最終装備4選』を徹底解説！強属性/榴弾/対ゴグマジ装備とアセンダンスまでこれ一本【モンハンワイルズ】",
       "url": "https://youtu.be/BCMpMV4l2KA",
       "host": "youtu.be",
-      "source": "youtu.be",
+      "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-10-04T03:00:28.000Z",
       "image": "",
@@ -1392,7 +1411,7 @@
       "title": "モンスターハンターサンブレイク PS5 ⑤ (傀異化混沌に呻くゴアマガラ編)",
       "url": "https://youtu.be/_yva-vqFztU?si",
       "host": "youtu.be",
-      "source": "youtu.be",
+      "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-10-04T02:42:51.000Z",
       "image": "",
@@ -1413,7 +1432,7 @@
       "title": "【メタルギア✖️モンハン！コラボ！】MGS PW 番外編1",
       "url": "https://youtu.be/9Mpll4hdcVM?si",
       "host": "youtu.be",
-      "source": "youtu.be",
+      "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-10-04T01:16:43.000Z",
       "image": "",
@@ -1432,7 +1451,7 @@
       "title": "【MHWilds】歴戦王ジン•ダハド06'05\"79チャージアックスソロ /freechallenge ArchTempered Jin Dahaad charge blade solo【PS5】",
       "url": "https://youtu.be/jt7oQfzFe5w?si",
       "host": "youtu.be",
-      "source": "youtu.be",
+      "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-10-03T22:23:57.000Z",
       "image": "",
@@ -1454,7 +1473,7 @@
       "title": "【ほぼ作り直し】『モンハンワイルズ』Switch2版、カプコンが語る“異例の最適化” #ゆっくり解説",
       "url": "https://youtu.be/2hBqL2pJkyo?si",
       "host": "youtu.be",
-      "source": "youtu.be",
+      "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-10-03T22:15:26.000Z",
       "image": "",
@@ -1496,7 +1515,7 @@
       "title": "「モンハンワイルズ/MHW」チャレクエジンダハド！クリア！",
       "url": "https://youtu.be/376rggM7qlc?si",
       "host": "youtu.be",
-      "source": "youtu.be",
+      "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-10-03T18:18:04.000Z",
       "image": "",
@@ -1518,7 +1537,7 @@
       "title": "【モンハンワイルズ】歴戦王アルシュベルド攻略！鎖刃解放・護竜強化の仕組みを解説",
       "url": "https://youtu.be/H1ODujhTLAM?si",
       "host": "youtu.be",
-      "source": "youtu.be",
+      "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-10-03T16:43:05.000Z",
       "image": "",
@@ -1558,7 +1577,7 @@
       "title": "【モンハンワイルズ】イベント：その鳥達が見る夢は ヘビィボウガン&スラアクペア(ヘビィボウガン視点) 7分02秒",
       "url": "https://youtu.be/GAnivQOjlOM?si",
       "host": "youtu.be",
-      "source": "youtu.be",
+      "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-10-03T13:00:35.000Z",
       "image": "",
@@ -1579,7 +1598,7 @@
       "title": "【モンハンワイルズ】イベント：その鳥達が見る夢は ヘビィボウガンソロ 7分22秒",
       "url": "https://youtu.be/Jb57L8unpVE?si",
       "host": "youtu.be",
-      "source": "youtu.be",
+      "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-10-03T13:00:20.000Z",
       "image": "",
@@ -1596,28 +1615,6 @@
       "isNew": false
     },
     {
-      "id": "f327a19fc8ad",
-      "title": "【ゆっくり実況】もっと世界を救うガンランサーpart72【MHWs/モンハンワイルズ/ガンランス】",
-      "url": "https://youtu.be/vIPxYRbZI5M?si",
-      "host": "youtu.be",
-      "source": "youtu.be",
-      "summary": "",
-      "publishedAt": "2026-10-03T09:30:16.000Z",
-      "image": "",
-      "categories": [
-        "community"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "4e4d3adcd05d",
       "title": "Autumn Sale Now Live!",
       "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656385421",
@@ -1625,7 +1622,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "\"Monster Hunter Wilds\"—whose major expansion releases in 2027— is on sale for for 25% off! But there's more! The \"Monster Hunter Series Pack,\" (Bundle) which c…",
       "publishedAt": "2026-10-02T08:34:04.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/44795648/30302d9fc79a793f9d6a4ba736148303013217c0.jpg",
+      "image": "https://clan.fastly.steamstatic.com/images/44795648/30302d9fc79a793f9d6a4ba736148303013217c0.jpg",
       "categories": [
         "other"
       ],
