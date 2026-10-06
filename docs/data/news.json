@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-06T22:30:14.765Z",
+  "updatedAt": "2026-10-06T22:58:14.273Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 68,
-  "todayCount": 2,
+  "total": 67,
+  "todayCount": 3,
   "categories": [
     {
       "id": "new",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 46
+      "count": 45
     }
   ],
   "series": [
@@ -74,7 +74,7 @@
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 12
+      "count": 11
     },
     {
       "id": "world",
@@ -104,7 +104,7 @@
     },
     {
       "name": "YouTube",
-      "count": 16
+      "count": 15
     },
     {
       "name": "Howl.Link",
@@ -329,23 +329,23 @@
       ]
     },
     {
-      "id": "e6d79acfa4bd",
-      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
+      "id": "488c58093be3",
+      "title": "【アセンダンス】ガンランスの操作と新要素・ブーストアクション【モンハンワイルズ】",
       "summary": "",
-      "url": "https://gamewith.jp/mhwilds/563096",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
+      "url": "https://gamewith.jp/mhwilds/577811",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577811.png?date=1789764143",
       "leadSource": "GameWith",
-      "publishedAt": "2026-10-06T11:24:21.000Z",
+      "publishedAt": "2026-10-06T16:49:11.000Z",
       "sourceCount": 2,
-      "articleCount": 11,
+      "articleCount": 14,
       "categories": [
-        "guide",
-        "other"
+        "other",
+        "new"
       ],
       "keywords": [
         "モンハンワイルズ",
         "アセンダンス",
-        "最新情報"
+        "アクション"
       ],
       "articles": [
         {
@@ -363,10 +363,24 @@
           "isPR": false
         },
         {
+          "title": "【アセンダンス】大剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/485475",
+          "source": "GameWith",
+          "publishedAt": "2026-10-06T09:24:25.000Z",
+          "isPR": false
+        },
+        {
           "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/574841",
           "source": "GameWith",
           "publishedAt": "2026-10-06T01:19:19.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】片手剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/577790",
+          "source": "GameWith",
+          "publishedAt": "2026-10-06T01:14:34.000Z",
           "isPR": false
         },
         {
@@ -388,20 +402,6 @@
           "url": "https://gamewith.jp/mhwilds/545381",
           "source": "GameWith",
           "publishedAt": "2026-10-05T18:12:05.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ】英雄の証の解放条件と報酬【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/545421",
-          "source": "GameWith",
-          "publishedAt": "2026-10-05T16:15:12.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/563104",
-          "source": "GameWith",
-          "publishedAt": "2026-10-05T14:56:41.000Z",
           "isPR": false
         }
       ]
@@ -498,13 +498,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-06T22:00:16.229Z",
-    "previousCount": 69,
-    "newCount": 1
+    "previousAt": "2026-10-06T22:30:14.765Z",
+    "previousCount": 68,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-06T23:00:14.765Z",
+  "nextUpdateAt": "2026-10-06T23:28:14.273Z",
   "items": [
+    {
+      "id": "488c58093be3",
+      "title": "【アセンダンス】ガンランスの操作と新要素・ブーストアクション【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/577811",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-06T16:49:11.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577811.png?date=1789764143",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "3756961e4e64",
       "title": "『モンハン』婚約・結婚指輪「ハンターの指輪」に「キリン」「ゴア・マガラ」モデルが追加！ 10月6日新発売",
@@ -543,7 +564,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "06a23a14f0d9",
@@ -805,7 +826,7 @@
       "source": "ライズ公式（Steam）",
       "summary": "To celebrate, please enjoy this Dango filled special artwork from the team. Th…",
       "publishedAt": "2026-10-06T07:14:40.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/41286238/2fd72d0cfbd5f9138dbac78c9d7c175e27dfec20.jpg",
+      "image": "https://clan.fastly.steamstatic.com/images/41286238/2fd72d0cfbd5f9138dbac78c9d7c175e27dfec20.jpg",
       "categories": [
         "other"
       ],
@@ -1195,8 +1216,8 @@
     {
       "id": "befadc337190",
       "title": "【モンスターハンター】巨戟龍《ゴグマジオス》のフィギュアが予約受付中。生物的質感を完全再現した精密ディティールに注目！",
-      "url": "http://news.dengeki.com/article/202610/88370",
-      "host": "news.dengeki.com",
+      "url": "https://dengekionline.com/article/202610/88370",
+      "host": "dengekionline.com",
       "source": "電撃オンライン",
       "summary": "",
       "publishedAt": "2026-10-05T13:41:00.000Z",
@@ -1206,27 +1227,6 @@
         "new"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "488c58093be3",
-      "title": "【アセンダンス】ガンランスの操作と新要素・ブーストアクション【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/577811",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-05T13:26:10.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577811.png?date=1789764143",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1589,27 +1589,6 @@
       "isNew": false
     },
     {
-      "id": "eb02121531a3",
-      "title": "【生配信】最新台《スマスロモンスターハンターライズ：サンブレイク》長野県 #APULO塩尻北インター店 #PR",
-      "url": "https://youtu.be/ucEbzipp3ZY",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-04T20:16:38.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "b5d6fe40ab2e",
       "title": "【アセンダンス】護竜リオレイアの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/575037",
@@ -1910,7 +1889,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "\"Monster Hunter Wilds\"—whose major expansion releases in 2027— is on sale for for 25% off! But there's more! The \"Monster Hunter Series Pack,\" (Bundle) which c…",
       "publishedAt": "2026-10-02T08:34:04.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/44795648/30302d9fc79a793f9d6a4ba736148303013217c0.jpg",
+      "image": "https://clan.fastly.steamstatic.com/images/44795648/30302d9fc79a793f9d6a4ba736148303013217c0.jpg",
       "categories": [
         "other"
       ],
