@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-06T10:30:20.540Z",
+  "updatedAt": "2026-10-06T11:00:17.286Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 66,
-  "todayCount": 21,
+  "total": 68,
+  "todayCount": 22,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 7
+      "count": 8
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 45
+      "count": 46
     }
   ],
   "series": [
@@ -74,7 +74,7 @@
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 10
+      "count": 12
     },
     {
       "id": "world",
@@ -100,11 +100,15 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 24
+      "count": 25
     },
     {
       "name": "YouTube",
       "count": 21
+    },
+    {
+      "name": "DMMぱちタウン",
+      "count": 2
     },
     {
       "name": "ファミ通",
@@ -144,10 +148,6 @@
     },
     {
       "name": "電撃オンライン",
-      "count": 1
-    },
-    {
-      "name": "DMMぱちタウン",
       "count": 1
     },
     {
@@ -319,15 +319,43 @@
           "isPR": true
         }
       ]
+    },
+    {
+      "id": "63d8803341d2",
+      "title": "【90%オフ】『モンハンライズ』Steam版が史上最安値でワンコイン未満！『サンブレイク』と合わせても1,000円切り【Steamオータムセール】",
+      "summary": "本編と『サンブレイク』セットでも958円。最大4人で遊べる『モンハン』が、拡張込みでも1,000円でお釣りが出ます。",
+      "url": "http://www.gamespark.jp/article/2026/10/06/173205.html",
+      "image": "http://www.gamespark.jp/imgs/rss/1202789.jpg",
+      "leadSource": "Game*Spark",
+      "publishedAt": "2026-10-06T01:13:41.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "sale",
+        "guide"
+      ],
+      "keywords": [
+        "サンブレイク",
+        "モンハンライズ"
+      ],
+      "articles": [
+        {
+          "title": "【サンブレイク】太刀の立ち回りと操作方法【モンハンライズ】",
+          "url": "https://gamewith.jp/mhrize/article/show/245829",
+          "source": "GameWith",
+          "publishedAt": "2026-10-04T08:34:06.000Z",
+          "isPR": false
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-06T10:00:16.869Z",
+    "previousAt": "2026-10-06T10:30:20.540Z",
     "previousCount": 66,
-    "newCount": 1
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-06T11:00:20.540Z",
+  "nextUpdateAt": "2026-10-06T11:30:17.286Z",
   "items": [
     {
       "id": "3756961e4e64",
@@ -342,6 +370,27 @@
         "other"
       ],
       "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "2b2a6ce8b901",
+      "title": "スマスロモンハンライズサンブレイクの天井狙いについて徹底網羅！天井期待値・狙い目・恩恵・ハイエナ条件",
+      "url": "https://p-town.dmm.com/specials/5469",
+      "host": "p-town.dmm.com",
+      "source": "DMMぱちタウン",
+      "summary": "",
+      "publishedAt": "2026-10-06T10:00:00.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -469,6 +518,27 @@
         "other"
       ],
       "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "46ab930cbc6c",
+      "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/563077",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-06T03:26:24.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -667,27 +737,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545381.png?date=1771384851",
       "categories": [
         "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "46ab930cbc6c",
-      "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563077",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-05T17:06:38.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
-      "categories": [
-        "other"
       ],
       "series": [
         "wilds"
@@ -1364,6 +1413,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "7720d12daae7",
+      "title": "【サンブレイク】太刀の立ち回りと操作方法【モンハンライズ】",
+      "url": "https://gamewith.jp/mhrize/article/show/245829",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-04T08:34:06.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/245829.png?date=1653299368",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "69bbfa953692",
