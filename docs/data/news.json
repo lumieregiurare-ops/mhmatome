@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T01:30:15.402Z",
+  "updatedAt": "2026-10-06T02:00:20.501Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 59,
-  "todayCount": 5,
+  "todayCount": 6,
   "categories": [
     {
       "id": "new",
@@ -115,7 +115,7 @@
       "count": 2
     },
     {
-      "name": "ウォーカープラス",
+      "name": "walkerplus.com",
       "count": 2
     },
     {
@@ -151,7 +151,7 @@
       "count": 1
     },
     {
-      "name": "ニコニコニュース",
+      "name": "news.nicovideo.jp",
       "count": 1
     },
     {
@@ -212,7 +212,7 @@
       "summary": "",
       "url": "https://www.walkerplus.com/article/1176995/",
       "image": "https://news.walkerplus.com/article/1176995/12576575_615.jpg",
-      "leadSource": "ウォーカープラス",
+      "leadSource": "walkerplus.com",
       "publishedAt": "2026-10-03T15:47:25.000Z",
       "sourceCount": 2,
       "articleCount": 2,
@@ -228,7 +228,7 @@
         {
           "title": "「CAPCOM AUTUMN SALE」開催！ 『モンスターハンターライズ』や『ストリートファイター6』がSteam",
           "url": "https://news.nicovideo.jp/watch/nw19839857?news_ref",
-          "source": "ニコニコニュース",
+          "source": "news.nicovideo.jp",
           "publishedAt": "2026-10-03T02:00:37.000Z",
           "isPR": false
         }
@@ -264,12 +264,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-06T01:00:18.429Z",
-    "previousCount": 58,
+    "previousAt": "2026-10-06T01:30:15.402Z",
+    "previousCount": 59,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-06T02:00:15.402Z",
+  "nextUpdateAt": "2026-10-06T02:30:20.501Z",
   "items": [
     {
       "id": "63d8803341d2",
@@ -285,6 +285,27 @@
       ],
       "series": [
         "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "f25409fdb279",
+      "title": "【モンハンストーリーズ3】アエンシンの攻略情報｜出現場所・入手素材【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79864235",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-05T23:50:29.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2020/01/home_image.png",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -314,27 +335,6 @@
       "isNew": false
     },
     {
-      "id": "ced5755e5db0",
-      "title": "【モンハンストーリーズ3】おすすめオトモン｜進行度別に掲載【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79833716",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-05T21:55:47.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/173337_x0wn3.webp",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "c1ce900bfe63",
       "title": "【モンハンストーリーズ3】侵獣攻略一覧｜解放できる危惧種まとめ【MHST3】",
       "url": "https://appmedia.jp/mhst3/79844810",
@@ -348,6 +348,27 @@
       ],
       "series": [
         "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "010ece4575cd",
+      "title": "【モンハンワイルズ】Switch2版の発売日・最新情報【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/563066",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-05T18:21:11.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563066.png?date=1780886791",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -978,27 +999,6 @@
       "isNew": false
     },
     {
-      "id": "010ece4575cd",
-      "title": "【モンハンワイルズ】Switch2版の発売日・最新情報【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563066",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-04T07:56:39.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563066.png?date=1780886791",
-      "categories": [
-        "new"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "632937e31993",
       "title": "【モンハンワイルズ】歴戦王ジン・ダハド フリーチャレンジクエスト(2026年再配信版) 属性弾(火)ライトボウガン 7分25 火事場",
       "url": "https://youtu.be/Vlpx2b7Xl4c?si",
@@ -1256,7 +1256,7 @@
       "title": "カプコン×JR東海のコラボが開催！モンスターハンターやストリートファイターのキャラと旅に出よう",
       "url": "https://www.walkerplus.com/article/1176995/",
       "host": "walkerplus.com",
-      "source": "ウォーカープラス",
+      "source": "walkerplus.com",
       "summary": "",
       "publishedAt": "2026-10-03T15:47:25.000Z",
       "image": "https://news.walkerplus.com/article/1176995/12576575_615.jpg",
@@ -1275,7 +1275,7 @@
       "title": "秋葉原に期間限定「モンハン」ショップが登場！",
       "url": "https://www.walkerplus.com/article/63257/",
       "host": "walkerplus.com",
-      "source": "ウォーカープラス",
+      "source": "walkerplus.com",
       "summary": "",
       "publishedAt": "2026-10-03T15:05:35.000Z",
       "image": "https://news.walkerplus.com/article/63257/352473_615.jpg",
@@ -1442,7 +1442,7 @@
       "title": "「CAPCOM AUTUMN SALE」開催！ 『モンスターハンターライズ』や『ストリートファイター6』がSteam",
       "url": "https://news.nicovideo.jp/watch/nw19839857?news_ref",
       "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
+      "source": "news.nicovideo.jp",
       "summary": "",
       "publishedAt": "2026-10-03T02:00:37.000Z",
       "image": "",
