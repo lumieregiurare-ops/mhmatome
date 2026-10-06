@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-06T04:30:16.541Z",
+  "updatedAt": "2026-10-06T05:00:18.176Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 57,
-  "todayCount": 8,
+  "total": 58,
+  "todayCount": 10,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 4
+      "count": 5
     },
     {
       "id": "sale",
@@ -99,11 +99,11 @@
   ],
   "sources": [
     {
-      "name": "GameWith",
-      "count": 20
+      "name": "YouTube",
+      "count": 21
     },
     {
-      "name": "YouTube",
+      "name": "GameWith",
       "count": 20
     },
     {
@@ -113,6 +113,10 @@
     {
       "name": "ウォーカープラス",
       "count": 2
+    },
+    {
+      "name": "電ファミニコゲーマー",
+      "count": 1
     },
     {
       "name": "PR EDGE",
@@ -152,10 +156,6 @@
     },
     {
       "name": "ガジェット通信 GetNews",
-      "count": 1
-    },
-    {
-      "name": "AppBank",
       "count": 1
     },
     {
@@ -225,42 +225,61 @@
       ]
     },
     {
-      "id": "1fe2f523c16b",
-      "title": "「PlayStation祭」，10月24日に大阪で開催。「モンスターハンターワイルズ：アセンダンス」などが試遊できる",
-      "summary": "ソニー・インタラクティブエンタテインメントは本日（2026年10月2日），「PlayStation祭」を10月24日にグランフロント大阪北館1Fナレッジプラザで開催すると発表した。会場では「モンスターハンターワイルズ：アセンダンス」をはじめとするタイトルが試遊できる。",
-      "url": "https://www.4gamer.net/games/013/G101394/20261002029/",
-      "image": "https://www.4gamer.net/games/013/G101394/20261002029/SS/002.png",
-      "leadSource": "4Gamer",
-      "publishedAt": "2026-10-03T04:36:46.000Z",
+      "id": "b797c72857dc",
+      "title": "『モンスターハンター』から「キリン」と「ゴア・マガラ」の婚約・結婚指輪が登場。ファッションリングとしても使いやすい",
+      "summary": "キリンはダイヤモンドを、ゴア・マガラはオニキスをリング内側に配置。本日より販売開始",
+      "url": "https://news.denfaminicogamer.jp/news/2610062a",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/main-14-1024x536.jpg",
+      "leadSource": "電ファミニコゲーマー",
+      "publishedAt": "2026-10-06T04:51:20.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
-        "other",
-        "new"
+        "other"
       ],
       "keywords": [
-        "モンスターハンターワイルズ",
-        "開催"
+        "キリン",
+        "マガラ",
+        "婚約"
       ],
       "articles": [
         {
-          "title": "Switch 2版『モンスターハンターワイルズ』体験会が10月10日から開催！ あべのHoop店とみなとみらい店で",
-          "url": "https://www.appbank.net/2026/10/03/game/3120731.php",
-          "source": "AppBank",
-          "publishedAt": "2026-10-03T04:36:46.000Z",
+          "title": "『モンスターハンター』シリーズ。「キリン」「ゴア・マガラ」モデルが婚約・結婚指輪「ハンターの指輪」に10月6日新登場",
+          "url": "https://predge.jp/pr/360917/",
+          "source": "PR EDGE",
+          "publishedAt": "2026-10-06T03:00:02.000Z",
           "isPR": false
         }
       ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-06T04:00:17.376Z",
-    "previousCount": 58,
-    "newCount": 1
+    "previousAt": "2026-10-06T04:30:16.541Z",
+    "previousCount": 57,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-06T05:00:16.541Z",
+  "nextUpdateAt": "2026-10-06T05:30:18.176Z",
   "items": [
+    {
+      "id": "b797c72857dc",
+      "title": "『モンスターハンター』から「キリン」と「ゴア・マガラ」の婚約・結婚指輪が登場。ファッションリングとしても使いやすい",
+      "url": "https://news.denfaminicogamer.jp/news/2610062a",
+      "host": "news.denfaminicogamer.jp",
+      "source": "電ファミニコゲーマー",
+      "summary": "キリンはダイヤモンドを、ゴア・マガラはオニキスをリング内側に配置。本日より販売開始",
+      "publishedAt": "2026-10-06T04:51:20.000Z",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/main-14-1024x536.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "391447e24dcf",
       "title": "『モンスターハンター』シリーズ。「キリン」「ゴア・マガラ」モデルが婚約・結婚指輪「ハンターの指輪」に10月6日新登場",
@@ -338,6 +357,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "de5700ed11a5",
+      "title": "【モンハン】鎧竜グラビモスの上位装備を狙う下位装備ハンター『モンハンワイルズ』",
+      "url": "https://youtu.be/pDnK4AwIDds?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-05T22:31:46.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "010ece4575cd",
@@ -613,12 +653,12 @@
     {
       "id": "4bfbf84dbace",
       "title": "『FF7 リベレーション』『モンハンワイルズ：アセンダンス』などが試遊できる“PlayStation 祭”が大阪で10月24日開催。PS Plus加入者向け先着予約が本日（10/2）開始",
-      "url": "https://www.famitsu.com/article/images/202610/89840/890233",
+      "url": "https://www.famitsu.com/article/images/202610/89840/890236",
       "host": "famitsu.com",
       "source": "ファミ通",
       "summary": "",
-      "publishedAt": "2026-10-05T09:48:56.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/89840/a46c97fc1d7ebab228c73aeff1235cdc0.jpg?x=1280",
+      "publishedAt": "2026-10-05T09:51:10.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/89840/a79f94b61f671e2e2fc84f4a6f75f0924.jpg?x=1280",
       "categories": [
         "new"
       ],
@@ -755,7 +795,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "40bccce677c8",
@@ -1374,27 +1414,6 @@
       ],
       "series": [
         "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d754d616f6f0",
-      "title": "Switch 2版『モンスターハンターワイルズ』体験会が10月10日から開催！ あべのHoop店とみなとみらい店で",
-      "url": "https://www.appbank.net/2026/10/03/game/3120731.php",
-      "host": "appbank.net",
-      "source": "AppBank",
-      "summary": "",
-      "publishedAt": "2026-10-03T04:36:46.000Z",
-      "image": "https://www.appbank.net/wp-content/uploads/2026/10/20261002_112528_583_01.webp",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
