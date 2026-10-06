@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-06T15:00:20.897Z",
+  "updatedAt": "2026-10-06T15:30:17.708Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 65,
+  "total": 66,
   "todayCount": 0,
   "categories": [
     {
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 44
+      "count": 45
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 34
+      "count": 35
     },
     {
       "id": "rise",
@@ -104,7 +104,7 @@
     },
     {
       "name": "YouTube",
-      "count": 18
+      "count": 19
     },
     {
       "name": "ガジェット通信 GetNews",
@@ -419,16 +419,23 @@
       "leadSource": "YouTube",
       "publishedAt": "2026-10-05T10:11:56.000Z",
       "sourceCount": 2,
-      "articleCount": 3,
+      "articleCount": 4,
       "categories": [
         "other"
       ],
       "keywords": [
         "モンハンワイルズ",
         "アセンダンス",
-        "最新情報"
+        "太刀"
       ],
       "articles": [
+        {
+          "title": "【アセンダンスまでに】太刀の基本を総復習｜基本コンボ・見切り・実戦の応用【モンハンワイルズ 前編】",
+          "url": "https://youtu.be/GMIn5eTmWCQ?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-04T09:39:13.000Z",
+          "isPR": false
+        },
         {
           "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/575036",
@@ -447,12 +454,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-06T14:30:17.939Z",
-    "previousCount": 66,
-    "newCount": 0
+    "previousAt": "2026-10-06T15:00:20.897Z",
+    "previousCount": 65,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-06T15:30:20.897Z",
+  "nextUpdateAt": "2026-10-06T16:00:17.708Z",
   "items": [
     {
       "id": "9f3a5283d459",
@@ -605,7 +612,7 @@
       "source": "ライズ公式（Steam）",
       "summary": "To celebrate, please enjoy this Dango filled special artwork from the team. Th…",
       "publishedAt": "2026-10-06T07:14:40.000Z",
-      "image": "https://clan.fastly.steamstatic.com/images/41286238/2fd72d0cfbd5f9138dbac78c9d7c175e27dfec20.jpg",
+      "image": "https://clan.akamai.steamstatic.com/images/41286238/2fd72d0cfbd5f9138dbac78c9d7c175e27dfec20.jpg",
       "categories": [
         "other"
       ],
@@ -1328,12 +1335,12 @@
     {
       "id": "4bfbf84dbace",
       "title": "『FF7 リベレーション』『モンハンワイルズ：アセンダンス』などが試遊できる“PlayStation 祭”が大阪で10月24日開催。PS Plus加入者向け先着予約が本日（10/2）開始",
-      "url": "https://www.famitsu.com/article/images/202610/89840/890232",
+      "url": "https://www.famitsu.com/article/images/202610/89840/890235",
       "host": "famitsu.com",
       "source": "ファミ通",
       "summary": "",
       "publishedAt": "2026-10-05T06:00:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/89840/a1653cadebcf68dec66a8300a598729f1.jpg?x=1280",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/89840/ae4d1a6e7fb253f7a5a0a18cee31319b3.jpg?x=1280",
       "categories": [
         "new"
       ],
@@ -1509,6 +1516,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "51a4f4287e7a",
+      "title": "【アセンダンスまでに】太刀の基本を総復習｜基本コンボ・見切り・実戦の応用【モンハンワイルズ 前編】",
+      "url": "https://youtu.be/GMIn5eTmWCQ?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-04T09:39:13.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "6f3a89da10d6",
@@ -1790,7 +1818,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "\"Monster Hunter Wilds\"—whose major expansion releases in 2027— is on sale for for 25% off! But there's more! The \"Monster Hunter Series Pack,\" (Bundle) which c…",
       "publishedAt": "2026-10-02T08:34:04.000Z",
-      "image": "https://clan.fastly.steamstatic.com/images/44795648/30302d9fc79a793f9d6a4ba736148303013217c0.jpg",
+      "image": "https://clan.akamai.steamstatic.com/images/44795648/30302d9fc79a793f9d6a4ba736148303013217c0.jpg",
       "categories": [
         "other"
       ],
