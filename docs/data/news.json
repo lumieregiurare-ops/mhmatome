@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-06T12:00:15.360Z",
+  "updatedAt": "2026-10-06T12:30:20.978Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 67,
-  "todayCount": 22,
+  "total": 66,
+  "todayCount": 23,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 8
+      "count": 7
     },
     {
       "id": "sale",
@@ -74,7 +74,7 @@
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 11
+      "count": 10
     },
     {
       "id": "world",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "gamewith.jp",
-      "count": 25
+      "count": 24
     },
     {
       "name": "YouTube",
@@ -131,7 +131,7 @@
       "count": 2
     },
     {
-      "name": "appbank.net",
+      "name": "AppBank",
       "count": 1
     },
     {
@@ -307,7 +307,7 @@
         {
           "title": "『モンハン』婚約・結婚指輪「ハンターの指輪」に「キリン」「ゴア・マガラ」モデルが追加！ 10月6日新発売",
           "url": "https://www.appbank.net/2026/10/06/iphone-news/3123732.php",
-          "source": "appbank.net",
+          "source": "AppBank",
           "publishedAt": "2026-10-06T10:02:08.000Z",
           "isPR": false
         },
@@ -319,50 +319,22 @@
           "isPR": true
         }
       ]
-    },
-    {
-      "id": "63d8803341d2",
-      "title": "【90%オフ】『モンハンライズ』Steam版が史上最安値でワンコイン未満！『サンブレイク』と合わせても1,000円切り【Steamオータムセール】",
-      "summary": "本編と『サンブレイク』セットでも958円。最大4人で遊べる『モンハン』が、拡張込みでも1,000円でお釣りが出ます。",
-      "url": "http://www.gamespark.jp/article/2026/10/06/173205.html",
-      "image": "http://www.gamespark.jp/imgs/rss/1202789.jpg",
-      "leadSource": "Game*Spark",
-      "publishedAt": "2026-10-06T01:13:41.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "sale",
-        "guide"
-      ],
-      "keywords": [
-        "サンブレイク",
-        "モンハンライズ"
-      ],
-      "articles": [
-        {
-          "title": "【サンブレイク】太刀の立ち回りと操作方法【モンハンライズ】",
-          "url": "https://gamewith.jp/mhrize/article/show/245829",
-          "source": "gamewith.jp",
-          "publishedAt": "2026-10-04T08:34:06.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-06T11:30:17.315Z",
-    "previousCount": 69,
+    "previousAt": "2026-10-06T12:00:15.360Z",
+    "previousCount": 67,
     "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-06T12:30:15.360Z",
+  "nextUpdateAt": "2026-10-06T13:00:20.978Z",
   "items": [
     {
       "id": "3756961e4e64",
       "title": "『モンハン』婚約・結婚指輪「ハンターの指輪」に「キリン」「ゴア・マガラ」モデルが追加！ 10月6日新発売",
       "url": "https://www.appbank.net/2026/10/06/iphone-news/3123732.php",
       "host": "appbank.net",
-      "source": "appbank.net",
+      "source": "AppBank",
       "summary": "",
       "publishedAt": "2026-10-06T10:02:08.000Z",
       "image": "https://www.appbank.net/wp-content/uploads/2026/10/20261006_123308_904_01.webp",
@@ -419,6 +391,27 @@
       "isNew": false
     },
     {
+      "id": "40bccce677c8",
+      "title": "【アセンダンス】大剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/485475",
+      "host": "gamewith.jp",
+      "source": "gamewith.jp",
+      "summary": "",
+      "publishedAt": "2026-10-06T09:24:25.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485475.png?date=1789753003",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "79879d792dce",
       "title": "Monster Hunter Rise has hit the magnificent milestone of 20 million copies sold!",
       "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656395480",
@@ -426,7 +419,7 @@
       "source": "ライズ公式（Steam）",
       "summary": "To celebrate, please enjoy this Dango filled special artwork from the team. Th…",
       "publishedAt": "2026-10-06T07:14:40.000Z",
-      "image": "https://clan.fastly.steamstatic.com/images/41286238/2fd72d0cfbd5f9138dbac78c9d7c175e27dfec20.jpg",
+      "image": "https://clan.akamai.steamstatic.com/images/41286238/2fd72d0cfbd5f9138dbac78c9d7c175e27dfec20.jpg",
       "categories": [
         "other"
       ],
@@ -518,6 +511,27 @@
         "other"
       ],
       "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "46ab930cbc6c",
+      "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/563077",
+      "host": "gamewith.jp",
+      "source": "gamewith.jp",
+      "summary": "",
+      "publishedAt": "2026-10-06T03:26:24.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -735,27 +749,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545381.png?date=1771384851",
       "categories": [
         "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "46ab930cbc6c",
-      "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563077",
-      "host": "gamewith.jp",
-      "source": "gamewith.jp",
-      "summary": "",
-      "publishedAt": "2026-10-05T17:06:38.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
-      "categories": [
-        "other"
       ],
       "series": [
         "wilds"
@@ -1211,35 +1204,14 @@
     {
       "id": "4bfbf84dbace",
       "title": "『FF7 リベレーション』『モンハンワイルズ：アセンダンス』などが試遊できる“PlayStation 祭”が大阪で10月24日開催。PS Plus加入者向け先着予約が本日（10/2）開始",
-      "url": "https://www.famitsu.com/article/images/202610/89840/890232",
+      "url": "https://www.famitsu.com/article/images/202610/89840/890236",
       "host": "famitsu.com",
       "source": "ファミ通",
       "summary": "",
       "publishedAt": "2026-10-05T06:00:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/89840/a1653cadebcf68dec66a8300a598729f1.jpg?x=1280",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/89840/a79f94b61f671e2e2fc84f4a6f75f0924.jpg?x=1280",
       "categories": [
         "new"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "40bccce677c8",
-      "title": "【アセンダンス】大剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/485475",
-      "host": "gamewith.jp",
-      "source": "gamewith.jp",
-      "summary": "",
-      "publishedAt": "2026-10-05T04:55:04.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485475.png?date=1789753003",
-      "categories": [
-        "other"
       ],
       "series": [
         "wilds"
@@ -1404,27 +1376,6 @@
       "image": "https://automaton-media.com/wp-content/uploads/2026/10/steam-sale-20261004-471699-header-.jpg",
       "categories": [
         "sale"
-      ],
-      "series": [
-        "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "7720d12daae7",
-      "title": "【サンブレイク】太刀の立ち回りと操作方法【モンハンライズ】",
-      "url": "https://gamewith.jp/mhrize/article/show/245829",
-      "host": "gamewith.jp",
-      "source": "gamewith.jp",
-      "summary": "",
-      "publishedAt": "2026-10-04T08:34:06.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/245829.png?date=1653299368",
-      "categories": [
-        "guide"
       ],
       "series": [
         "rise"
@@ -1736,7 +1687,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "\"Monster Hunter Wilds\"—whose major expansion releases in 2027— is on sale for for 25% off! But there's more! The \"Monster Hunter Series Pack,\" (Bundle) which c…",
       "publishedAt": "2026-10-02T08:34:04.000Z",
-      "image": "https://clan.fastly.steamstatic.com/images/44795648/30302d9fc79a793f9d6a4ba736148303013217c0.jpg",
+      "image": "https://clan.akamai.steamstatic.com/images/44795648/30302d9fc79a793f9d6a4ba736148303013217c0.jpg",
       "categories": [
         "other"
       ],
