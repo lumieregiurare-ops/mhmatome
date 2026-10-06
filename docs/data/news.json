@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-06T05:00:18.176Z",
+  "updatedAt": "2026-10-06T05:30:14.184Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 58,
-  "todayCount": 10,
+  "total": 56,
+  "todayCount": 11,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 5
+      "count": 4
     },
     {
       "id": "update",
@@ -62,19 +62,19 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 42
+      "count": 41
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 34
+      "count": 33
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 7
+      "count": 6
     },
     {
       "id": "world",
@@ -99,11 +99,11 @@
   ],
   "sources": [
     {
-      "name": "YouTube",
-      "count": 21
+      "name": "GameWith",
+      "count": 20
     },
     {
-      "name": "GameWith",
+      "name": "YouTube",
       "count": 20
     },
     {
@@ -119,7 +119,7 @@
       "count": 1
     },
     {
-      "name": "PR EDGE",
+      "name": "PR TIMES",
       "count": 1
     },
     {
@@ -156,10 +156,6 @@
     },
     {
       "name": "ガジェット通信 GetNews",
-      "count": 1
-    },
-    {
-      "name": "4Gamer",
       "count": 1
     },
     {
@@ -245,21 +241,21 @@
       "articles": [
         {
           "title": "『モンスターハンター』シリーズ。「キリン」「ゴア・マガラ」モデルが婚約・結婚指輪「ハンターの指輪」に10月6日新登場",
-          "url": "https://predge.jp/pr/360917/",
-          "source": "PR EDGE",
+          "url": "https://prtimes.jp/main/html/rd/p/000001021.000037605.html",
+          "source": "PR TIMES",
           "publishedAt": "2026-10-06T03:00:02.000Z",
-          "isPR": false
+          "isPR": true
         }
       ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-06T04:30:16.541Z",
-    "previousCount": 57,
-    "newCount": 2
+    "previousAt": "2026-10-06T05:00:18.176Z",
+    "previousCount": 58,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-06T05:30:18.176Z",
+  "nextUpdateAt": "2026-10-06T06:00:14.184Z",
   "items": [
     {
       "id": "b797c72857dc",
@@ -278,23 +274,23 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "391447e24dcf",
       "title": "『モンスターハンター』シリーズ。「キリン」「ゴア・マガラ」モデルが婚約・結婚指輪「ハンターの指輪」に10月6日新登場",
-      "url": "https://predge.jp/pr/360917/",
-      "host": "predge.jp",
-      "source": "PR EDGE",
+      "url": "https://prtimes.jp/main/html/rd/p/000001021.000037605.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
       "summary": "",
       "publishedAt": "2026-10-06T03:00:02.000Z",
-      "image": "https://img.youtube.com/vi/CJdlWMCvhek/sddefault.jpg",
+      "image": "https://prcdn.freetls.fastly.net/release_image/37605/1021/37605-1021-bb79a7ea6ef8eeec743563ed4511ce35-1200x628.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "categories": [
         "other"
       ],
       "series": [],
       "isOfficial": false,
-      "isPR": false,
+      "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -377,7 +373,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "010ece4575cd",
@@ -411,6 +407,27 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545381.png?date=1771384851",
       "categories": [
         "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "46ab930cbc6c",
+      "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/563077",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-05T17:06:38.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
+      "categories": [
+        "other"
       ],
       "series": [
         "wilds"
@@ -722,27 +739,6 @@
       "summary": "",
       "publishedAt": "2026-10-05T08:18:26.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563040.png?date=1789770455",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "46ab930cbc6c",
-      "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563077",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-05T07:44:20.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
       "categories": [
         "other"
       ],
@@ -1173,27 +1169,6 @@
       "isNew": false
     },
     {
-      "id": "f1e344fb9da2",
-      "title": "＃29【モンスターハンターライズ】初心者コンビでリベンジしてみた",
-      "url": "https://youtu.be/HUGE33w8Cg8?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-04T02:25:18.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "2cda3a23418f",
       "title": "【メタルギア✖️モンハン！コラボ！】MGS PW 番外編1",
       "url": "https://youtu.be/9Mpll4hdcVM?si",
@@ -1422,27 +1397,6 @@
       "isNew": false
     },
     {
-      "id": "1fe2f523c16b",
-      "title": "「PlayStation祭」，10月24日に大阪で開催。「モンスターハンターワイルズ：アセンダンス」などが試遊できる",
-      "url": "https://www.4gamer.net/games/013/G101394/20261002029/",
-      "host": "4gamer.net",
-      "source": "4Gamer",
-      "summary": "ソニー・インタラクティブエンタテインメントは本日（2026年10月2日），「PlayStation祭」を10月24日にグランフロント大阪北館1Fナレッジプラザで開催すると発表した。会場では「モンスターハンターワイルズ：アセンダンス」をはじめとするタイトルが試遊できる。",
-      "publishedAt": "2026-10-02T09:21:19.000Z",
-      "image": "https://www.4gamer.net/games/013/G101394/20261002029/SS/002.png",
-      "categories": [
-        "new"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "4e4d3adcd05d",
       "title": "Autumn Sale Now Live!",
       "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656385421",
@@ -1450,7 +1404,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "\"Monster Hunter Wilds\"—whose major expansion releases in 2027— is on sale for for 25% off! But there's more! The \"Monster Hunter Series Pack,\" (Bundle) which c…",
       "publishedAt": "2026-10-02T08:34:04.000Z",
-      "image": "https://clan.fastly.steamstatic.com/images/44795648/30302d9fc79a793f9d6a4ba736148303013217c0.jpg",
+      "image": "https://clan.akamai.steamstatic.com/images/44795648/30302d9fc79a793f9d6a4ba736148303013217c0.jpg",
       "categories": [
         "other"
       ],
