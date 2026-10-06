@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-06T06:00:14.899Z",
+  "updatedAt": "2026-10-06T06:30:19.799Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 59,
-  "todayCount": 14,
+  "total": 60,
+  "todayCount": 15,
   "categories": [
     {
       "id": "new",
@@ -47,7 +47,7 @@
     {
       "id": "sale",
       "label": "セール",
-      "count": 2
+      "count": 3
     },
     {
       "id": "community",
@@ -57,7 +57,7 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 1
+      "count": 2
     },
     {
       "id": "other",
@@ -74,7 +74,7 @@
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 7
+      "count": 8
     },
     {
       "id": "world",
@@ -107,6 +107,14 @@
       "count": 21
     },
     {
+      "name": "Game*Spark",
+      "count": 2
+    },
+    {
+      "name": "電ファミニコゲーマー",
+      "count": 2
+    },
+    {
       "name": "t.co",
       "count": 2
     },
@@ -115,19 +123,7 @@
       "count": 2
     },
     {
-      "name": "インサイド",
-      "count": 1
-    },
-    {
-      "name": "電ファミニコゲーマー",
-      "count": 1
-    },
-    {
       "name": "PR TIMES",
-      "count": 1
-    },
-    {
-      "name": "Game*Spark",
       "count": 1
     },
     {
@@ -302,6 +298,35 @@
       ]
     },
     {
+      "id": "a197bccc8e78",
+      "title": "『モンスターハンターライズ』累計販売本数2,000万本を達成！発売から約5年半で到達、現在も根強い人気",
+      "summary": "モンスターハンターライズが発売約5年半で累計2000万本を達成。拡張『サンブレイク』も同額3,990円で販売中。",
+      "url": "http://www.gamespark.jp/article/2026/10/06/173218.html",
+      "image": "http://www.gamespark.jp/imgs/rss/1203026.jpg",
+      "leadSource": "Game*Spark",
+      "publishedAt": "2026-10-06T06:06:27.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "sales",
+        "sale"
+      ],
+      "keywords": [
+        "モンスターハンターライズ",
+        "累計販売本数",
+        "万本"
+      ],
+      "articles": [
+        {
+          "title": "『モンスターハンターライズ』が累計販売本数2000万本を達成。カムラの里の仲間たちが描かれた記念イラストが公開",
+          "url": "https://news.denfaminicogamer.jp/news/2610062g",
+          "source": "電ファミニコゲーマー",
+          "publishedAt": "2026-10-06T06:00:04.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "b797c72857dc",
       "title": "『モンスターハンター』から「キリン」と「ゴア・マガラ」の婚約・結婚指輪が登場。ファッションリングとしても使いやすい",
       "summary": "キリンはダイヤモンドを、ゴア・マガラはオニキスをリング内側に配置。本日より販売開始",
@@ -331,24 +356,46 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-06T05:30:14.184Z",
-    "previousCount": 56,
-    "newCount": 4
+    "previousAt": "2026-10-06T06:00:14.899Z",
+    "previousCount": 59,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-06T06:30:14.899Z",
+  "nextUpdateAt": "2026-10-06T07:00:19.799Z",
   "items": [
     {
       "id": "a197bccc8e78",
       "title": "『モンスターハンターライズ』累計販売本数2,000万本を達成！発売から約5年半で到達、現在も根強い人気",
-      "url": "https://www.inside-games.jp/article/2026/10/06/188838.html",
-      "host": "inside-games.jp",
-      "source": "インサイド",
+      "url": "http://www.gamespark.jp/article/2026/10/06/173218.html",
+      "host": "gamespark.jp",
+      "source": "Game*Spark",
       "summary": "モンスターハンターライズが発売約5年半で累計2000万本を達成。拡張『サンブレイク』も同額3,990円で販売中。",
-      "publishedAt": "2026-10-06T05:35:03.000Z",
-      "image": "https://www.inside-games.jp/imgs/rss/1790575.jpg",
+      "publishedAt": "2026-10-06T06:06:27.000Z",
+      "image": "http://www.gamespark.jp/imgs/rss/1203026.jpg",
       "categories": [
         "sales"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "3c5839bd896d",
+      "title": "『モンスターハンターライズ』が累計販売本数2000万本を達成。カムラの里の仲間たちが描かれた記念イラストが公開",
+      "url": "https://news.denfaminicogamer.jp/news/2610062g",
+      "host": "news.denfaminicogamer.jp",
+      "source": "電ファミニコゲーマー",
+      "summary": "Steamでは10月9日までの期間中、過去最安値の90%オフセール中。超大型DLC『モンスターハンターライズ：サンブレイク』も85%オフ",
+      "publishedAt": "2026-10-06T06:00:04.000Z",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ss_5a601d6ecee22fcd0cb6142aec5ff7de1e1de091.1920x1080-1-1024x576.jpg",
+      "categories": [
+        "sales",
+        "sale"
       ],
       "series": [
         "rise"
@@ -397,7 +444,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "391447e24dcf",
@@ -621,7 +668,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "befadc337190",
@@ -767,7 +814,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ff1299f1aa4b",
