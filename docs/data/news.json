@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-06T03:00:16.386Z",
+  "updatedAt": "2026-10-06T03:30:16.057Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 59,
-  "todayCount": 7,
+  "total": 58,
+  "todayCount": 6,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 7
+      "count": 4
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 41
+      "count": 43
     }
   ],
   "series": [
@@ -84,12 +84,12 @@
     {
       "id": "now",
       "label": "Now",
-      "count": 4
+      "count": 5
     },
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 3
+      "count": 0
     },
     {
       "id": "outlanders",
@@ -104,11 +104,7 @@
     },
     {
       "name": "GameWith",
-      "count": 19
-    },
-    {
-      "name": "AppMedia",
-      "count": 3
+      "count": 20
     },
     {
       "name": "AUTOMATON",
@@ -119,7 +115,15 @@
       "count": 2
     },
     {
+      "name": "PR EDGE",
+      "count": 1
+    },
+    {
       "name": "Game*Spark",
+      "count": 1
+    },
+    {
+      "name": "x.com",
       "count": 1
     },
     {
@@ -147,10 +151,6 @@
       "count": 1
     },
     {
-      "name": "x.com",
-      "count": 1
-    },
-    {
       "name": "AppBank",
       "count": 1
     },
@@ -173,7 +173,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-10-05T12:53:22.000Z",
       "sourceCount": 2,
-      "articleCount": 4,
+      "articleCount": 5,
       "categories": [
         "other"
       ],
@@ -183,6 +183,13 @@
         "モンハンナウ"
       ],
       "articles": [
+        {
+          "title": "【モンハンナウ】狩人たちの夏祭り2026【モンハンNow】",
+          "url": "https://gamewith.jp/monsterhunternow/article/show/573258",
+          "source": "GameWith",
+          "publishedAt": "2026-10-05T12:50:03.000Z",
+          "isPR": false
+        },
         {
           "title": "【モンハンナウ】モンハンNow スプリングフェス2026【モンハンNow】",
           "url": "https://gamewith.jp/monsterhunternow/article/show/556866",
@@ -236,28 +243,26 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-06T02:30:16.359Z",
+    "previousAt": "2026-10-06T03:00:16.386Z",
     "previousCount": 59,
-    "newCount": 1
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-06T03:30:16.386Z",
+  "nextUpdateAt": "2026-10-06T04:00:16.057Z",
   "items": [
     {
-      "id": "5b5e4d58a706",
-      "title": "【モンハンストーリーズ3】侵獣ガノトトスの攻略情報｜出現場所・入手素材【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79839908",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
+      "id": "391447e24dcf",
+      "title": "『モンスターハンター』シリーズ。「キリン」「ゴア・マガラ」モデルが婚約・結婚指輪「ハンターの指輪」に10月6日新登場",
+      "url": "https://predge.jp/pr/360917/",
+      "host": "predge.jp",
+      "source": "PR EDGE",
       "summary": "",
-      "publishedAt": "2026-10-06T01:16:28.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2020/01/home_image.png",
+      "publishedAt": "2026-10-06T03:00:02.000Z",
+      "image": "https://img.youtube.com/vi/CJdlWMCvhek/sddefault.jpg",
       "categories": [
-        "guide"
+        "other"
       ],
-      "series": [
-        "stories"
-      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -278,48 +283,6 @@
       ],
       "series": [
         "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "fbd709240fd8",
-      "title": "【モンハンストーリーズ2】レベル上げにおすすめの方法・手順まとめ【MHST2】",
-      "url": "https://appmedia.jp/mhst2/6648013",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-06T00:49:46.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2021/07/cfd34185d634df738c4a56e4eec83502.jpg",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "c1ce900bfe63",
-      "title": "【モンハンストーリーズ3】侵獣攻略一覧｜解放できる危惧種まとめ【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79844810",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-05T21:00:21.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/105921_5y7po.webp",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -363,6 +326,25 @@
       "series": [
         "wilds"
       ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "96565e49f301",
+      "title": "亜紗@モンハン写真部 (@p3dq4) on X",
+      "url": "https://x.com/intent/like?tweet_id",
+      "host": "x.com",
+      "source": "x.com",
+      "summary": "",
+      "publishedAt": "2026-10-05T16:18:18.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -472,6 +454,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "2e75eb4018e2",
+      "title": "【モンハンナウ】狩人たちの夏祭り2026【モンハンNow】",
+      "url": "https://gamewith.jp/monsterhunternow/article/show/573258",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-05T12:50:03.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "778fbb3d5344",
@@ -924,25 +927,6 @@
       "series": [
         "wilds"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "96565e49f301",
-      "title": "亜紗@モンハン写真部 (@p3dq4) on X",
-      "url": "https://x.com/intent/like?tweet_id",
-      "host": "x.com",
-      "source": "x.com",
-      "summary": "",
-      "publishedAt": "2026-10-04T09:59:16.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
