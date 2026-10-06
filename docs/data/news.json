@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-06T11:00:17.286Z",
+  "updatedAt": "2026-10-06T11:30:17.315Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 68,
+  "total": 69,
   "todayCount": 22,
   "categories": [
     {
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 46
+      "count": 47
     }
   ],
   "series": [
@@ -104,7 +104,7 @@
     },
     {
       "name": "YouTube",
-      "count": 21
+      "count": 22
     },
     {
       "name": "DMMぱちタウン",
@@ -151,7 +151,7 @@
       "count": 1
     },
     {
-      "name": "media.unisba.ac.id",
+      "name": "Unisba Media",
       "count": 1
     },
     {
@@ -350,12 +350,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-06T10:30:20.540Z",
-    "previousCount": 66,
-    "newCount": 2
+    "previousAt": "2026-10-06T11:00:17.286Z",
+    "previousCount": 68,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-06T11:30:17.286Z",
+  "nextUpdateAt": "2026-10-06T12:00:17.315Z",
   "items": [
     {
       "id": "3756961e4e64",
@@ -395,7 +395,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b332ab39497e",
@@ -1104,27 +1104,6 @@
       "isNew": false
     },
     {
-      "id": "4bfbf84dbace",
-      "title": "『FF7 リベレーション』『モンハンワイルズ：アセンダンス』などが試遊できる“PlayStation 祭”が大阪で10月24日開催。PS Plus加入者向け先着予約が本日（10/2）開始",
-      "url": "https://www.famitsu.com/article/images/202610/89840/890236",
-      "host": "famitsu.com",
-      "source": "ファミ通",
-      "summary": "",
-      "publishedAt": "2026-10-05T09:51:10.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/89840/a79f94b61f671e2e2fc84f4a6f75f0924.jpg?x=1280",
-      "categories": [
-        "new"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "a2119f0dcdb7",
       "title": "【モンスターハンターワイルズ 番外編 】アセンンダンス発売までに武器を全部集めよう！ ハンマー編・前編",
       "url": "https://youtu.be/IUZjlsrZVFU?si",
@@ -1213,12 +1192,33 @@
       "title": "【モンハンワイルズ部結成】アセンダンス発売前になるべく強くなっておく！【#モンハンワイルズ #雨水多丸 】 Slavery (ka2naSTev5)",
       "url": "https://media.unisba.ac.id/c03b652e/c999b882Wd5UUxAnHRE/?share",
       "host": "media.unisba.ac.id",
-      "source": "media.unisba.ac.id",
+      "source": "Unisba Media",
       "summary": "",
       "publishedAt": "2026-10-05T06:05:41.000Z",
       "image": "",
       "categories": [
         "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "4bfbf84dbace",
+      "title": "『FF7 リベレーション』『モンハンワイルズ：アセンダンス』などが試遊できる“PlayStation 祭”が大阪で10月24日開催。PS Plus加入者向け先着予約が本日（10/2）開始",
+      "url": "https://www.famitsu.com/article/images/202610/89840/890236",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-10-05T06:00:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/89840/a79f94b61f671e2e2fc84f4a6f75f0924.jpg?x=1280",
+      "categories": [
+        "new"
       ],
       "series": [
         "wilds"
@@ -1373,6 +1373,25 @@
       "isNew": false
     },
     {
+      "id": "aba9a5a26f47",
+      "title": "弓使いによるにわか片手剣１２分台捕獲 歴戦王アルシュベルド",
+      "url": "https://youtu.be/89HzTR7pDP8?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-04T13:57:18.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "2690476ded66",
       "title": "今年のTGSはたくさん狩りをしました！【TGS2026 CAPCOMブース】#CCJP #モンハンアセンダンス #モンハンワイルズ #ドラゴンズドグマ２ダークアリズン",
       "url": "https://youtu.be/wxBZFl_fmqE?si",
@@ -1433,7 +1452,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "69bbfa953692",
