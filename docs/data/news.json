@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-07T05:30:16.038Z",
+  "updatedAt": "2026-10-07T06:00:15.574Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 69,
+  "total": 68,
   "todayCount": 11,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 6
+      "count": 4
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 49
+      "count": 50
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 38
+      "count": 37
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 5
+      "count": 4
     },
     {
       "id": "now",
@@ -100,15 +100,15 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 26
+      "count": 25
     },
     {
       "name": "YouTube",
-      "count": 15
+      "count": 14
     },
     {
       "name": "Howl.Link",
-      "count": 3
+      "count": 4
     },
     {
       "name": "ガジェット通信 GetNews",
@@ -419,6 +419,55 @@
       ]
     },
     {
+      "id": "488c58093be3",
+      "title": "【アセンダンス】ガンランスの操作と新要素・ブーストアクション【モンハンワイルズ】",
+      "summary": "",
+      "url": "https://gamewith.jp/mhwilds/577811",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577811.png?date=1789764143",
+      "leadSource": "GameWith",
+      "publishedAt": "2026-10-06T16:49:11.000Z",
+      "sourceCount": 2,
+      "articleCount": 5,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "モンハンワイルズ",
+        "アセンダンス",
+        "ブーストアクション"
+      ],
+      "articles": [
+        {
+          "title": "【アセンダンス】大剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/485475",
+          "source": "GameWith",
+          "publishedAt": "2026-10-06T09:24:25.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】片手剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/577790",
+          "source": "GameWith",
+          "publishedAt": "2026-10-06T01:14:34.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【VTuber】片手剣の練度を上げたい！最近安定してきた【モンハンワイルズ】",
+          "url": "https://t.co/SwKlvMHYwo",
+          "source": "Howl.Link",
+          "publishedAt": "2026-10-05T13:39:40.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】双剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/577734",
+          "source": "GameWith",
+          "publishedAt": "2026-10-05T13:16:23.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "330b8679e069",
       "title": "【モンハンワイルズ】❄️歴戦王ジン・ダハド❄️フリチャレ今日までだったので弓ソロでSランクを獲りにいく✨ 10/6（Tue.）【紋坂七桜/Vtuber】",
       "summary": "",
@@ -448,12 +497,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-07T05:00:14.906Z",
+    "previousAt": "2026-10-07T05:30:16.038Z",
     "previousCount": 69,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-07T06:00:16.038Z",
+  "nextUpdateAt": "2026-10-07T06:30:15.574Z",
   "items": [
     {
       "id": "954c461eebfa",
@@ -475,7 +524,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7b870642c377",
@@ -1332,6 +1381,27 @@
       "isNew": false
     },
     {
+      "id": "68622afc9378",
+      "title": "【VTuber】片手剣の練度を上げたい！最近安定してきた【モンハンワイルズ】",
+      "url": "https://t.co/SwKlvMHYwo",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-05T13:39:40.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "4cd467a24cc4",
       "title": "【アセンダンス】双剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/577734",
@@ -1827,49 +1897,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "c3c9fdfe9ed7",
-      "title": "【モンハンワイルズ】ハンターランク上げ(HR上げ)の効率的なやり方と解放条件【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/484094",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-04T05:55:08.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/484094.png?date=1740707766",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "77941f6ce50e",
-      "title": "【MHWilds/PS5】ソロ＆武器縛りでストーリー攻略！#1 いけるとこまでいく！【モンハンワイルズ】",
-      "url": "https://youtu.be/wUdEJsw-sO0?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-04T05:33:28.000Z",
-      "image": "",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds",
-        "world"
       ],
       "isOfficial": false,
       "isPR": false,
