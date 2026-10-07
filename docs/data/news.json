@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-07T22:30:16.445Z",
+  "updatedAt": "2026-10-07T23:00:16.056Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 75,
+  "total": 76,
   "todayCount": 4,
   "categories": [
     {
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 51
+      "count": 52
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 38
+      "count": 39
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 7
+      "count": 8
     },
     {
       "id": "now",
@@ -115,15 +115,15 @@
       "count": 3
     },
     {
+      "name": "Howl.Link",
+      "count": 3
+    },
+    {
       "name": "Game*Spark",
       "count": 2
     },
     {
       "name": "Howl.link",
-      "count": 2
-    },
-    {
-      "name": "Howl.Link",
       "count": 2
     },
     {
@@ -537,12 +537,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-07T22:00:16.633Z",
-    "previousCount": 77,
-    "newCount": 0
+    "previousAt": "2026-10-07T22:30:16.445Z",
+    "previousCount": 75,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-07T23:00:16.445Z",
+  "nextUpdateAt": "2026-10-07T23:30:16.056Z",
   "items": [
     {
       "id": "4bfbf84dbace",
@@ -1201,12 +1201,12 @@
     {
       "id": "e8b869ac88ff",
       "title": "【モンハン】ふわふわで夢の抱き心地!! 『モンスターハンターワイルズ』のキャンプギアを再現したネコ型クッションが登場！",
-      "url": "https://dengekionline.com/article/images/202610/90082/892824",
+      "url": "https://dengekionline.com/article/images/202610/90082/892821",
       "host": "dengekionline.com",
       "source": "電撃オンライン",
       "summary": "",
       "publishedAt": "2026-10-06T10:01:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/dengeki/90082/ae9733e12ba352241cb55b23702b4d74b.jpg?x=1280",
+      "image": "https://cimg.kgl-systems.io/camion/files/dengeki/90082/a8f657caa8b54c42872e98ea4e289bda5.jpg?x=1280",
       "categories": [
         "other"
       ],
@@ -1410,6 +1410,28 @@
       "isNew": false
     },
     {
+      "id": "d2a69b604bd3",
+      "title": "【MHWilds】相方と ゴア ➞ ドドブランゴ ➞ ネルスキュラ",
+      "url": "https://youtu.be/85CGmZgz6e0?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-06T03:21:41.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "391447e24dcf",
       "title": "『モンスターハンター』シリーズ。「キリン」「ゴア・マガラ」モデルが婚約・結婚指輪「ハンターの指輪」に10月6日新登場",
       "url": "https://prtimes.jp/main/html/rd/p/000001021.000037605.html",
@@ -1551,6 +1573,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "68622afc9378",
+      "title": "【VTuber】片手剣の練度を上げたい！最近安定してきた【モンハンワイルズ】",
+      "url": "https://t.co/SwKlvMHYwo",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-05T13:39:40.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "4cd467a24cc4",
@@ -2070,27 +2113,6 @@
       ],
       "series": [
         "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "b4daf2a6e787",
-      "title": "【モンハンワイルズ】約束をすっぽかしたら、反省文ならぬ反省狩（歴戦王☆１０ｘ２）をすることになりました💦（月曜日レ・ダウ）",
-      "url": "https://youtu.be/HXAYjlWsx64?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-04T22:49:17.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
