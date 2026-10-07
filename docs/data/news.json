@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-07T22:00:16.633Z",
+  "updatedAt": "2026-10-07T22:30:16.445Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 77,
-  "todayCount": 5,
+  "total": 75,
+  "todayCount": 4,
   "categories": [
     {
       "id": "new",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 53
+      "count": 51
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 39
+      "count": 38
     },
     {
       "id": "rise",
@@ -100,22 +100,18 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 24
-    },
-    {
-      "name": "ゲームウィズ",
-      "count": 13
+      "count": 25
     },
     {
       "name": "YouTube",
       "count": 13
     },
     {
-      "name": "ファミ通",
-      "count": 3
+      "name": "ゲームウィズ",
+      "count": 12
     },
     {
-      "name": "Howl.Link",
+      "name": "ファミ通",
       "count": 3
     },
     {
@@ -124,6 +120,10 @@
     },
     {
       "name": "Howl.link",
+      "count": 2
+    },
+    {
+      "name": "Howl.Link",
       "count": 2
     },
     {
@@ -141,10 +141,6 @@
     {
       "name": "電ファミニコゲーマー",
       "count": 2
-    },
-    {
-      "name": "ウォーカープラス",
-      "count": 1
     },
     {
       "name": "https://mediadogs.jp/",
@@ -478,7 +474,7 @@
         {
           "title": "【モンハンワイルズ】英傑に愛を込めての攻略と報酬【モンスターハンターワイルズ】",
           "url": "https://gamewith.jp/mhwilds/545381",
-          "source": "ゲームウィズ",
+          "source": "GameWith",
           "publishedAt": "2026-10-07T16:26:25.000Z",
           "isPR": false
         }
@@ -541,12 +537,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-07T21:30:17.114Z",
-    "previousCount": 76,
-    "newCount": 1
+    "previousAt": "2026-10-07T22:00:16.633Z",
+    "previousCount": 77,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-07T22:30:16.633Z",
+  "nextUpdateAt": "2026-10-07T23:00:16.445Z",
   "items": [
     {
       "id": "4bfbf84dbace",
@@ -570,30 +566,11 @@
       "isNew": false
     },
     {
-      "id": "55b0bd5ff9cd",
-      "title": "秋葉原に期間限定「モンハン」ショップが登場！",
-      "url": "https://www.walkerplus.com/article/63257/",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-10-07T17:20:49.000Z",
-      "image": "https://news.walkerplus.com/article/63257/352473_615.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "5fc879b1cca5",
       "title": "【モンハンワイルズ】英傑に愛を込めての攻略と報酬【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/545381",
       "host": "gamewith.jp",
-      "source": "ゲームウィズ",
+      "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-10-07T16:26:25.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545381.png?date=1771384851",
@@ -1569,27 +1546,6 @@
         "new"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "68622afc9378",
-      "title": "【VTuber】片手剣の練度を上げたい！最近安定してきた【モンハンワイルズ】",
-      "url": "https://t.co/SwKlvMHYwo",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-10-05T13:39:40.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
