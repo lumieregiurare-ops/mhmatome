@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T09:30:15.538Z",
+  "updatedAt": "2026-10-08T10:00:16.630Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 103,
-  "todayCount": 21,
+  "todayCount": 20,
   "categories": [
     {
       "id": "new",
@@ -57,12 +57,12 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 6
+      "count": 5
     },
     {
       "id": "other",
       "label": "その他",
-      "count": 66
+      "count": 67
     }
   ],
   "series": [
@@ -100,11 +100,15 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 50
+      "count": 49
     },
     {
       "name": "YouTube",
       "count": 17
+    },
+    {
+      "name": "ゲームウィズ",
+      "count": 4
     },
     {
       "name": "Howl.link",
@@ -116,10 +120,6 @@
     },
     {
       "name": "ファミ通",
-      "count": 3
-    },
-    {
-      "name": "ゲームウィズ",
       "count": 3
     },
     {
@@ -163,11 +163,11 @@
       "count": 1
     },
     {
-      "name": "ゲームメモ",
+      "name": "ウォーカープラス",
       "count": 1
     },
     {
-      "name": "ウォーカープラス",
+      "name": "ゲームメモ",
       "count": 1
     },
     {
@@ -312,6 +312,13 @@
           "isPR": false
         },
         {
+          "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563040",
+          "source": "ゲームウィズ",
+          "publishedAt": "2026-10-07T04:18:27.000Z",
+          "isPR": false
+        },
+        {
           "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
           "url": "https://gamewith.jp/mhwilds/563096",
           "source": "GameWith",
@@ -337,13 +344,6 @@
           "url": "https://gamewith.jp/mhwilds/575038",
           "source": "GameWith",
           "publishedAt": "2026-10-07T00:38:20.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/563104",
-          "source": "GameWith",
-          "publishedAt": "2026-10-07T00:02:08.000Z",
           "isPR": false
         }
       ]
@@ -459,7 +459,8 @@
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
-        "sales"
+        "sales",
+        "other"
       ],
       "keywords": [
         "ios",
@@ -469,7 +470,7 @@
       "articles": [
         {
           "title": "『モンスターハンターライズ』モバイル版がNetflix経由でリリース予定？iOS/Android版の海外ストアページも公開中―独自の回復ボタンも搭載との記載",
-          "url": "http://www.gamespark.jp/article/2026/10/07/173305.html",
+          "url": "https://www.gamespark.jp/article/2026/10/07/173305.html",
           "source": "Game*Spark",
           "publishedAt": "2026-10-07T13:55:51.000Z",
           "isPR": false
@@ -506,12 +507,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-08T09:00:17.380Z",
+    "previousAt": "2026-10-08T09:30:15.538Z",
     "previousCount": 103,
-    "newCount": 1
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-08T10:00:15.538Z",
+  "nextUpdateAt": "2026-10-08T10:30:16.630Z",
   "items": [
     {
       "id": "f086231a26ee",
@@ -697,7 +698,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7b870642c377",
@@ -719,6 +720,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "baecfb1eaec1",
+      "title": "モンハン4×ガリガリ君！ハチミツ調合のゆず味が本日発売",
+      "url": "https://www.walkerplus.com/article/41312/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-08T02:05:23.000Z",
+      "image": "https://news.walkerplus.com/article/41312/214942_615.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "190eda27bfe8",
@@ -845,25 +865,6 @@
       "isNew": false
     },
     {
-      "id": "55b0bd5ff9cd",
-      "title": "秋葉原に期間限定「モンハン」ショップが登場！",
-      "url": "https://www.walkerplus.com/article/63257/",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-10-07T17:20:49.000Z",
-      "image": "https://news.walkerplus.com/article/63257/352473_615.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "5fc879b1cca5",
       "title": "【モンハンワイルズ】英傑に愛を込めての攻略と報酬【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/545381",
@@ -877,28 +878,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d4580ad283a6",
-      "title": "【MHWilds/PS5】凍え知れ、安寧の睡郷 3分59秒 4人",
-      "url": "https://youtu.be/PeMptgSIpfA?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-07T16:23:34.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -972,14 +951,14 @@
     {
       "id": "950778d7c999",
       "title": "『モンスターハンターライズ』モバイル版がNetflix経由でリリース予定？iOS/Android版の海外ストアページも公開中―独自の回復ボタンも搭載との記載",
-      "url": "http://www.gamespark.jp/article/2026/10/07/173305.html",
+      "url": "https://www.gamespark.jp/article/2026/10/07/173305.html",
       "host": "gamespark.jp",
       "source": "Game*Spark",
-      "summary": "先日累計販売数2,000万本を突破したシリーズ作に新たな動きが？",
+      "summary": "",
       "publishedAt": "2026-10-07T13:55:51.000Z",
-      "image": "http://www.gamespark.jp/imgs/rss/1203892.jpg",
+      "image": "https://www.gamespark.jp/imgs/ogp_f/1203892.jpg",
       "categories": [
-        "sales"
+        "other"
       ],
       "series": [
         "rise"
@@ -989,6 +968,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "e8438416ed2e",
+      "title": "【MHWilds】凍え知れ、安寧の睡郷 歴戦王ジン・ダハド 網寿司近接4pt 04'14\"56チャアク視点",
+      "url": "https://youtu.be/hd-H9rjveVQ?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-07T12:27:10.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "a2119f0dcdb7",
@@ -1090,6 +1091,27 @@
       "series": [
         "wilds",
         "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "d8b95bbbc335",
+      "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/563040",
+      "host": "gamewith.jp",
+      "source": "ゲームウィズ",
+      "summary": "",
+      "publishedAt": "2026-10-07T04:18:27.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563040.png?date=1789770455",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1380,27 +1402,6 @@
       "summary": "",
       "publishedAt": "2026-10-06T16:49:11.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577811.png?date=1789764143",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d8b95bbbc335",
-      "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563040",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-06T16:22:45.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563040.png?date=1789770455",
       "categories": [
         "other"
       ],
