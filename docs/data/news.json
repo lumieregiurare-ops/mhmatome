@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-08T02:30:17.146Z",
+  "updatedAt": "2026-10-08T03:00:14.832Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 86,
-  "todayCount": 7,
+  "total": 88,
+  "todayCount": 9,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 14
+      "count": 15
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 59
+      "count": 60
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 39
+      "count": 41
     },
     {
       "id": "rise",
@@ -79,12 +79,12 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 8
+      "count": 10
     },
     {
       "id": "now",
       "label": "Now",
-      "count": 29
+      "count": 30
     },
     {
       "id": "stories",
@@ -100,15 +100,19 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 37
+      "count": 42
     },
     {
       "name": "YouTube",
-      "count": 14
+      "count": 16
     },
     {
       "name": "ゲームウィズ",
-      "count": 8
+      "count": 4
+    },
+    {
+      "name": "インサイド",
+      "count": 3
     },
     {
       "name": "ファミ通",
@@ -117,14 +121,6 @@
     {
       "name": "Howl.Link",
       "count": 3
-    },
-    {
-      "name": "インサイド",
-      "count": 2
-    },
-    {
-      "name": "Game*Spark",
-      "count": 2
     },
     {
       "name": "Howl.link",
@@ -144,6 +140,10 @@
     },
     {
       "name": "ウォーカープラス",
+      "count": 1
+    },
+    {
+      "name": "Game*Spark",
       "count": 1
     },
     {
@@ -171,10 +171,6 @@
       "count": 1
     },
     {
-      "name": "神ゲー攻略",
-      "count": 1
-    },
-    {
       "name": "ワイルズ公式（Steam）",
       "count": 1
     }
@@ -188,8 +184,8 @@
       "image": "https://rensai.jp/wp-content/uploads/2026/10/c3e50defa7e871a1d10562a6921070c1.jpg",
       "leadSource": "GameWith",
       "publishedAt": "2026-10-07T01:11:34.000Z",
-      "sourceCount": 5,
-      "articleCount": 30,
+      "sourceCount": 4,
+      "articleCount": 31,
       "categories": [
         "other",
         "guide"
@@ -310,10 +306,9 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-10-07T21:09:23.000Z",
       "sourceCount": 2,
-      "articleCount": 13,
+      "articleCount": 12,
       "categories": [
-        "other",
-        "new"
+        "other"
       ],
       "keywords": [
         "モンハンワイルズ",
@@ -322,9 +317,16 @@
       ],
       "articles": [
         {
+          "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/574841",
+          "source": "GameWith",
+          "publishedAt": "2026-10-07T18:39:18.000Z",
+          "isPR": false
+        },
+        {
           "title": "【アセンダンス】片手剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/577790",
-          "source": "ゲームウィズ",
+          "source": "GameWith",
           "publishedAt": "2026-10-07T15:03:34.000Z",
           "isPR": false
         },
@@ -343,13 +345,6 @@
           "isPR": false
         },
         {
-          "title": "【モンハンワイルズ】Switch2版の発売日・最新情報【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/563066",
-          "source": "GameWith",
-          "publishedAt": "2026-10-07T01:34:46.000Z",
-          "isPR": false
-        },
-        {
           "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/575038",
           "source": "GameWith",
@@ -364,17 +359,88 @@
           "isPR": false
         },
         {
-          "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/574841",
-          "source": "ゲームウィズ",
-          "publishedAt": "2026-10-06T23:36:33.000Z",
-          "isPR": false
-        },
-        {
           "title": "【アセンダンス】ガンランスの操作と新要素・ブーストアクション【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/577811",
           "source": "GameWith",
           "publishedAt": "2026-10-06T16:49:11.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563040",
+          "source": "ゲームウィズ",
+          "publishedAt": "2026-10-06T16:22:45.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "7b870642c377",
+      "title": "スイッチ2版『モンハンワイルズ』携帯モードでも大集会所は快適そう！テーブルに置いて操作する実機映像が公開",
+      "summary": "カプコンは、スイッチ2版『モンスターハンターワイルズ』をテーブルモードで動作させる実機映像を公開しました。",
+      "url": "https://www.inside-games.jp/article/2026/10/08/188929.html",
+      "image": "https://www.inside-games.jp/imgs/rss/1791511.jpg",
+      "leadSource": "インサイド",
+      "publishedAt": "2026-10-08T02:40:03.000Z",
+      "sourceCount": 2,
+      "articleCount": 3,
+      "categories": [
+        "other",
+        "guide"
+      ],
+      "keywords": [
+        "モンハンワイルズ",
+        "モンスターハンターワイルズ"
+      ],
+      "articles": [
+        {
+          "title": "【モンハンワイルズ】英傑に愛を込めての攻略と報酬【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/545381",
+          "source": "GameWith",
+          "publishedAt": "2026-10-07T16:26:25.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】Switch2版の発売日・最新情報【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563066",
+          "source": "GameWith",
+          "publishedAt": "2026-10-07T01:34:46.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "310bc849231e",
+      "title": "【モンハンワイルズ】英雄の証の解放条件と報酬【モンスターハンターワイルズ】",
+      "summary": "",
+      "url": "https://gamewith.jp/mhwilds/545421",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545421.png?date=1771483075",
+      "leadSource": "ゲームウィズ",
+      "publishedAt": "2026-10-05T16:15:12.000Z",
+      "sourceCount": 2,
+      "articleCount": 3,
+      "categories": [
+        "other",
+        "guide"
+      ],
+      "keywords": [
+        "モンスターハンターワイルズ",
+        "モンハンワイルズ",
+        "解放条件"
+      ],
+      "articles": [
+        {
+          "title": "【モンハンワイルズ】サイドミッション一覧と解放条件【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/485962",
+          "source": "GameWith",
+          "publishedAt": "2026-10-05T12:14:12.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】強さの頂き、その先への攻略と報酬【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/499651",
+          "source": "ゲームウィズ",
+          "publishedAt": "2026-10-05T10:52:07.000Z",
           "isPR": false
         }
       ]
@@ -403,33 +469,6 @@
           "url": "http://www.gamespark.jp/article/2026/10/07/173305.html",
           "source": "Game*Spark",
           "publishedAt": "2026-10-07T13:55:51.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "7b870642c377",
-      "title": "スイッチ2版『モンハンワイルズ』携帯モードでも大集会所は快適そう！テーブルに置いて操作する実機映像が公開",
-      "summary": "カプコンは、スイッチ2版『モンスターハンターワイルズ』をテーブルモードで動作させる実機映像を公開しました。",
-      "url": "http://www.gamespark.jp/article/2026/10/07/173277.html",
-      "image": "http://www.gamespark.jp/imgs/rss/1203522.jpg",
-      "leadSource": "Game*Spark",
-      "publishedAt": "2026-10-07T16:26:25.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "guide",
-        "other"
-      ],
-      "keywords": [
-        "モンハンワイルズ"
-      ],
-      "articles": [
-        {
-          "title": "【モンハンワイルズ】英傑に愛を込めての攻略と報酬【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/545381",
-          "source": "GameWith",
-          "publishedAt": "2026-10-07T16:26:25.000Z",
           "isPR": false
         }
       ]
@@ -491,13 +530,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-08T02:00:16.992Z",
-    "previousCount": 85,
-    "newCount": 1
+    "previousAt": "2026-10-08T02:30:17.146Z",
+    "previousCount": 86,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-08T03:00:17.146Z",
+  "nextUpdateAt": "2026-10-08T03:30:14.832Z",
   "items": [
+    {
+      "id": "7b870642c377",
+      "title": "スイッチ2版『モンハンワイルズ』携帯モードでも大集会所は快適そう！テーブルに置いて操作する実機映像が公開",
+      "url": "https://www.inside-games.jp/article/2026/10/08/188929.html",
+      "host": "inside-games.jp",
+      "source": "インサイド",
+      "summary": "カプコンは、スイッチ2版『モンスターハンターワイルズ』をテーブルモードで動作させる実機映像を公開しました。",
+      "publishedAt": "2026-10-08T02:40:03.000Z",
+      "image": "https://www.inside-games.jp/imgs/rss/1791511.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "190eda27bfe8",
       "title": "『モンハンライズ』モバイル版がリリース予定？iOS/Android版の海外ストアページも公開―独自の回復ボタンも搭載との記載",
@@ -562,6 +622,27 @@
       "isNew": false
     },
     {
+      "id": "d605748fb698",
+      "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/574841",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-07T18:39:18.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574841.png?date=1789771579",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "55b0bd5ff9cd",
       "title": "秋葉原に期間限定「モンハン」ショップが登場！",
       "url": "https://www.walkerplus.com/article/63257/",
@@ -606,7 +687,7 @@
       "title": "【アセンダンス】片手剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/577790",
       "host": "gamewith.jp",
-      "source": "ゲームウィズ",
+      "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-10-07T15:03:34.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577790.png?date=1789746410",
@@ -665,6 +746,28 @@
       "isNew": false
     },
     {
+      "id": "476d6d0c496a",
+      "title": "【MHWilds】フリチャレ:歴戦王ジン・ダハド 3’54”75 操虫棍 4PT【モンハンワイルズ/PS5】",
+      "url": "https://youtu.be/0dD5Sdu0c_w?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-07T09:36:53.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "207924b027d8",
       "title": "【モンハンワイルズ】歴戦王アルシュベルドに挑戦！強すぎる王を狩りに行く🔥【Monster Hunter Wilds】【説明】",
       "url": "https://youtu.be/2kukFdbkOBg?si",
@@ -684,6 +787,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "0fa0ea128c6f",
+      "title": "【MHWilds PS5】 孤独から出でし君という自由 歴戦王アルシュベルド 太刀 宣戦呼応II採用 食事火事場 6'23\"90 捕獲",
+      "url": "https://youtu.be/iBk0Q-9xK3U?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-07T07:47:29.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "954c461eebfa",
@@ -720,27 +845,6 @@
         "guide"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "7b870642c377",
-      "title": "スイッチ2版『モンハンワイルズ』携帯モードでも大集会所は快適そう！テーブルに置いて操作する実機映像が公開",
-      "url": "http://www.gamespark.jp/article/2026/10/07/173277.html",
-      "host": "gamespark.jp",
-      "source": "Game*Spark",
-      "summary": "カプコンは、スイッチ2版『モンスターハンターワイルズ』をテーブルモードで動作させる実機映像を公開しました。",
-      "publishedAt": "2026-10-07T03:43:01.000Z",
-      "image": "http://www.gamespark.jp/imgs/rss/1203522.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -947,27 +1051,6 @@
       "summary": "",
       "publishedAt": "2026-10-07T00:02:08.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563104.png?date=1789770630",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d605748fb698",
-      "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/574841",
-      "host": "gamewith.jp",
-      "source": "ゲームウィズ",
-      "summary": "",
-      "publishedAt": "2026-10-06T23:36:33.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574841.png?date=1789771579",
       "categories": [
         "other"
       ],
@@ -1279,12 +1362,12 @@
     {
       "id": "e8b869ac88ff",
       "title": "【モンハン】ふわふわで夢の抱き心地!! 『モンスターハンターワイルズ』のキャンプギアを再現したネコ型クッションが登場！",
-      "url": "https://dengekionline.com/article/images/202610/90082/892821",
+      "url": "https://dengekionline.com/article/images/202610/90082/892824",
       "host": "dengekionline.com",
       "source": "電撃オンライン",
       "summary": "",
       "publishedAt": "2026-10-06T10:01:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/dengeki/90082/a8f657caa8b54c42872e98ea4e289bda5.jpg?x=1280",
+      "image": "https://cimg.kgl-systems.io/camion/files/dengeki/90082/ae9733e12ba352241cb55b23702b4d74b.jpg?x=1280",
       "categories": [
         "other"
       ],
@@ -1650,7 +1733,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "dfc29c6658af",
@@ -1758,6 +1841,27 @@
       "isNew": false
     },
     {
+      "id": "166571a05c8b",
+      "title": "【モンハンナウ】アンジャナフの弱点と攻略｜解放条件【モンハンNow】",
+      "url": "https://gamewith.jp/monsterhunternow/article/show/415435",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-05T12:52:06.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/415435.png?date=1694156124",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "b09b449409d4",
       "title": "【モンハンナウ】クシャルダオラの弱点と攻略【モンハンNow】",
       "url": "https://gamewith.jp/monsterhunternow/article/show/452407",
@@ -1783,7 +1887,7 @@
       "title": "【モンハンナウ】リオレウスの弱点と攻略｜解放条件【モンハンNow】",
       "url": "https://gamewith.jp/monsterhunternow/article/show/415431",
       "host": "gamewith.jp",
-      "source": "ゲームウィズ",
+      "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-10-05T12:50:01.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/415431.png?date=1694156083",
@@ -1864,27 +1968,6 @@
       "isNew": false
     },
     {
-      "id": "b6eb71ce17c4",
-      "title": "【モンハンナウ】モンハンNowサマーハント2026【モンハンNow】",
-      "url": "https://gamewith.jp/monsterhunternow/article/show/567458",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-05T12:16:44.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "003d3c885ef5",
       "title": "【モンハンナウ】「春の次元変異ウィーク」イベント開催！【モンハンNow】",
       "url": "https://gamewith.jp/monsterhunternow/article/show/551492",
@@ -1910,7 +1993,7 @@
       "title": "【モンハンワイルズ】サイドミッション一覧と解放条件【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/485962",
       "host": "gamewith.jp",
-      "source": "ゲームウィズ",
+      "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-10-05T12:14:12.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485962.png?date=1740733817",
@@ -1997,7 +2080,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-10-05T12:10:42.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/416362.png?date=1694411418",
+      "image": "",
       "categories": [
         "guide"
       ],
@@ -2180,6 +2263,27 @@
       "isNew": false
     },
     {
+      "id": "179c590f5aa5",
+      "title": "【モンハンナウ】モンスタートラッカーのやり方【モンハンNow】",
+      "url": "https://gamewith.jp/monsterhunternow/447021",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-05T10:28:53.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/447021.png?date=1713869331",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "b6da795828dc",
       "title": "【モンハンナウ】夕凪乱す赤き残光の開催情報｜シーズン6【モンハンNow】",
       "url": "https://gamewith.jp/monsterhunternow/article/show/498894",
@@ -2257,25 +2361,6 @@
       "series": [
         "wilds"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "11068136bd36",
-      "title": "【パズドラ】 リオレイアの評価と使い道",
-      "url": "https://kamigame.jp/puzzle-dragons/%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC/%E3%80%8C%E3%83%AA%E3%82%AA%E3%83%AC%E3%82%A4%E3%82%A2%E3%80%8D.html",
-      "host": "kamigame.jp",
-      "source": "神ゲー攻略",
-      "summary": "",
-      "publishedAt": "2026-10-05T05:54:14.000Z",
-      "image": "https://img.kamigame.jp/rnRttKNgqhPmvkr5i1pqv2Y0xTfhgp0hKw62ilPNJlZ5rU6JwHbvwtrbQIBCy0TRGbkXxQacr9up4w5XMYogWKZ26UWrH1tsBus2mTm47Xg=w400",
-      "categories": [
-        "other"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
