@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-08T05:00:15.696Z",
+  "updatedAt": "2026-10-08T05:30:15.283Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 90,
-  "todayCount": 11,
+  "total": 93,
+  "todayCount": 10,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 17
+      "count": 18
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 59
+      "count": 61
     }
   ],
   "series": [
@@ -74,17 +74,17 @@
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 10
+      "count": 11
     },
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 10
+      "count": 9
     },
     {
       "id": "now",
       "label": "Now",
-      "count": 31
+      "count": 33
     },
     {
       "id": "stories",
@@ -100,18 +100,22 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 43
+      "count": 46
     },
     {
       "name": "YouTube",
       "count": 17
     },
     {
-      "name": "ゲームウィズ",
-      "count": 4
+      "name": "インサイド",
+      "count": 3
     },
     {
-      "name": "インサイド",
+      "name": "ゲームウィズ",
+      "count": 3
+    },
+    {
+      "name": "Howl.Link",
       "count": 3
     },
     {
@@ -124,10 +128,6 @@
     },
     {
       "name": "Howl.link",
-      "count": 2
-    },
-    {
-      "name": "Howl.Link",
       "count": 2
     },
     {
@@ -188,8 +188,8 @@
       "image": "https://rensai.jp/wp-content/uploads/2026/10/c3e50defa7e871a1d10562a6921070c1.jpg",
       "leadSource": "GameWith",
       "publishedAt": "2026-10-07T01:11:34.000Z",
-      "sourceCount": 4,
-      "articleCount": 32,
+      "sourceCount": 5,
+      "articleCount": 34,
       "categories": [
         "other",
         "guide"
@@ -372,7 +372,7 @@
         {
           "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/563040",
-          "source": "ゲームウィズ",
+          "source": "GameWith",
           "publishedAt": "2026-10-06T16:22:45.000Z",
           "isPR": false
         }
@@ -419,7 +419,7 @@
       "summary": "",
       "url": "https://gamewith.jp/mhwilds/545421",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545421.png?date=1771483075",
-      "leadSource": "ゲームウィズ",
+      "leadSource": "GameWith",
       "publishedAt": "2026-10-05T16:15:12.000Z",
       "sourceCount": 2,
       "articleCount": 3,
@@ -473,6 +473,34 @@
           "url": "http://www.gamespark.jp/article/2026/10/07/173305.html",
           "source": "Game*Spark",
           "publishedAt": "2026-10-07T13:55:51.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "1bcad69378b6",
+      "title": "【新台スマスロ】「 スマスロ モンスターハンターライズ：サンブレイク」設定６の挙動お見せします！【スマスロ・スマパチ実戦】モンハン・アイルー",
+      "summary": "",
+      "url": "https://youtu.be/OjDFiLzaeP8?si",
+      "image": "",
+      "leadSource": "YouTube",
+      "publishedAt": "2026-10-07T09:00:19.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "サンブレイク",
+        "スマスロ",
+        "モンスターハンターライズ"
+      ],
+      "articles": [
+        {
+          "title": "【設定6実戦】『スマスロ モンスターハンターライズ：サンブレイク』の設定差考察！ CZ・終了画面",
+          "url": "https://p-town.dmm.com/specials/5456",
+          "source": "DMMぱちタウン",
+          "publishedAt": "2026-10-05T13:00:00.000Z",
           "isPR": false
         }
       ]
@@ -534,12 +562,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-08T04:30:16.197Z",
+    "previousAt": "2026-10-08T05:00:15.696Z",
     "previousCount": 90,
-    "newCount": 0
+    "newCount": 5
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-08T05:30:15.696Z",
+  "nextUpdateAt": "2026-10-08T06:00:15.283Z",
   "items": [
     {
       "id": "c1e899c93915",
@@ -706,28 +734,6 @@
       "isNew": false
     },
     {
-      "id": "d4580ad283a6",
-      "title": "【MHWilds/PS5】凍え知れ、安寧の睡郷 3分59秒 4人",
-      "url": "https://youtu.be/PeMptgSIpfA?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-07T16:23:34.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "0b68bd1287fd",
       "title": "【アセンダンス】片手剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/577790",
@@ -789,6 +795,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "e8438416ed2e",
+      "title": "【MHWilds】凍え知れ、安寧の睡郷 歴戦王ジン・ダハド 網寿司近接4pt 04'14\"56チャアク視点",
+      "url": "https://youtu.be/hd-H9rjveVQ?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-07T12:27:10.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "476d6d0c496a",
@@ -853,6 +881,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "1bcad69378b6",
+      "title": "【新台スマスロ】「 スマスロ モンスターハンターライズ：サンブレイク」設定６の挙動お見せします！【スマスロ・スマパチ実戦】モンハン・アイルー",
+      "url": "https://youtu.be/OjDFiLzaeP8?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-07T09:00:19.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "0fa0ea128c6f",
@@ -1197,7 +1246,7 @@
       "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/563040",
       "host": "gamewith.jp",
-      "source": "ゲームウィズ",
+      "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-10-06T16:22:45.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563040.png?date=1789770455",
@@ -1206,28 +1255,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4864dee8676f",
-      "title": "【MHWilds】歴戦王ジンダハド「凍え知れ、安寧の睡郷」ソロヘビィ火事場 4分58秒 Arch-Tempered Jin Dahaad Solo Heavy Bowgun Heroics",
-      "url": "https://youtu.be/EepwneiNNwA?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-06T15:55:39.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1700,7 +1727,7 @@
       "title": "【モンハンワイルズ】英雄の証の解放条件と報酬【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/545421",
       "host": "gamewith.jp",
-      "source": "ゲームウィズ",
+      "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-10-05T16:15:12.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545421.png?date=1771483075",
@@ -1757,6 +1784,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "68622afc9378",
+      "title": "【VTuber】片手剣の練度を上げたい！最近安定してきた【モンハンワイルズ】",
+      "url": "https://t.co/SwKlvMHYwo",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-05T13:39:40.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "dfc29c6658af",
@@ -1841,6 +1889,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "da8f10d7d13d",
+      "title": "【モンハンナウ】プケプケの弱点と攻略｜解放条件【モンハンNow】",
+      "url": "https://gamewith.jp/monsterhunternow/article/show/415441",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-05T12:56:41.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/415441.png?date=1694156199",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "83487cc26847",
@@ -2178,6 +2247,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "0ecf9ad015c1",
+      "title": "【モンハンナウ】シーズン2 クライマックスの開催期間とクエスト情報【モンハンNow】",
+      "url": "https://gamewith.jp/monsterhunternow/article/show/461586",
+      "host": "gamewith.jp",
+      "source": "ゲームウィズ",
+      "summary": "",
+      "publishedAt": "2026-10-05T12:07:39.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/461586.png?date=1724746393",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "cdc41bd20db7",
