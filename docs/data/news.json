@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T17:30:16.340Z",
+  "updatedAt": "2026-10-08T18:00:15.215Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 41
+      "count": 42
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 12
+      "count": 11
     },
     {
       "id": "now",
@@ -104,11 +104,11 @@
     },
     {
       "name": "GameWith",
-      "count": 12
+      "count": 10
     },
     {
       "name": "ゲームウィズ",
-      "count": 7
+      "count": 9
     },
     {
       "name": "Howl.link",
@@ -151,10 +151,6 @@
       "count": 1
     },
     {
-      "name": "ウォーカープラス",
-      "count": 1
-    },
-    {
       "name": "ゲームメモ",
       "count": 1
     },
@@ -164,6 +160,10 @@
     },
     {
       "name": "https://mediadogs.jp/",
+      "count": 1
+    },
+    {
+      "name": "Howl.Link",
       "count": 1
     },
     {
@@ -198,7 +198,7 @@
       "summary": "",
       "url": "https://gamewith.jp/monsterhunternow/article/show/573258",
       "image": "https://rensai.jp/wp-content/uploads/2026/10/c3e50defa7e871a1d10562a6921070c1.jpg",
-      "leadSource": "GameWith",
+      "leadSource": "ゲームウィズ",
       "publishedAt": "2026-10-07T01:11:34.000Z",
       "sourceCount": 4,
       "articleCount": 5,
@@ -364,42 +364,6 @@
       ]
     },
     {
-      "id": "310bc849231e",
-      "title": "【モンハンワイルズ】英雄の証の解放条件と報酬【モンスターハンターワイルズ】",
-      "summary": "",
-      "url": "https://gamewith.jp/mhwilds/545421",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545421.png?date=1771483075",
-      "leadSource": "ゲームウィズ",
-      "publishedAt": "2026-10-08T03:12:05.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "other",
-        "guide"
-      ],
-      "keywords": [
-        "モンスターハンターワイルズ",
-        "モンハンワイルズ",
-        "英雄"
-      ],
-      "articles": [
-        {
-          "title": "【MHWs】英雄の証弓ソロ18'20\"09 モンスターハンターワイルズ",
-          "url": "https://youtu.be/g4twMZRDsCU?si",
-          "source": "YouTube",
-          "publishedAt": "2026-10-07T18:49:42.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ】英傑に愛を込めての攻略と報酬【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/545381",
-          "source": "GameWith",
-          "publishedAt": "2026-10-07T16:26:25.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "4cd467a24cc4",
       "title": "【アセンダンス】双剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "summary": "",
@@ -437,6 +401,42 @@
           "url": "https://gamewith.jp/mhwilds/577811",
           "source": "GameWith",
           "publishedAt": "2026-10-06T16:49:11.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "310bc849231e",
+      "title": "【モンハンワイルズ】英雄の証の解放条件と報酬【モンスターハンターワイルズ】",
+      "summary": "",
+      "url": "https://gamewith.jp/mhwilds/545421",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545421.png?date=1771483075",
+      "leadSource": "ゲームウィズ",
+      "publishedAt": "2026-10-08T03:12:05.000Z",
+      "sourceCount": 2,
+      "articleCount": 3,
+      "categories": [
+        "other",
+        "guide"
+      ],
+      "keywords": [
+        "モンスターハンターワイルズ",
+        "モンハンワイルズ",
+        "英雄"
+      ],
+      "articles": [
+        {
+          "title": "【MHWs】英雄の証弓ソロ18'20\"09 モンスターハンターワイルズ",
+          "url": "https://youtu.be/g4twMZRDsCU?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-07T18:49:42.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】英傑に愛を込めての攻略と報酬【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/545381",
+          "source": "ゲームウィズ",
+          "publishedAt": "2026-10-07T16:26:25.000Z",
           "isPR": false
         }
       ]
@@ -527,12 +527,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-08T17:00:18.559Z",
+    "previousAt": "2026-10-08T17:30:16.340Z",
     "previousCount": 67,
-    "newCount": 0
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-08T18:00:16.340Z",
+  "nextUpdateAt": "2026-10-08T18:30:15.215Z",
   "items": [
     {
       "id": "e6d79acfa4bd",
@@ -824,25 +824,6 @@
       "isNew": false
     },
     {
-      "id": "baecfb1eaec1",
-      "title": "モンハン4×ガリガリ君！ハチミツ調合のゆず味が本日発売",
-      "url": "https://www.walkerplus.com/article/41312/",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-10-08T02:05:23.000Z",
-      "image": "https://news.walkerplus.com/article/41312/214942_615.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "778fbb3d5344",
       "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/577281",
@@ -1058,7 +1039,7 @@
       "title": "【モンハンワイルズ】英傑に愛を込めての攻略と報酬【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/545381",
       "host": "gamewith.jp",
-      "source": "GameWith",
+      "source": "ゲームウィズ",
       "summary": "",
       "publishedAt": "2026-10-07T16:26:25.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545381.png?date=1771384851",
@@ -1352,6 +1333,27 @@
       "isNew": false
     },
     {
+      "id": "4158b45d516e",
+      "title": "【モンハンワイルズ】約束をすっぽかして反省狩 3日目・歴戦王ウズトゥナ☆１０",
+      "url": "https://youtu.be/kqHmdYU3NuE?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-07T03:58:41.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "40bccce677c8",
       "title": "【アセンダンス】大剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/485475",
@@ -1420,7 +1422,7 @@
       "title": "【モンハンナウ】狩人たちの夏祭り2026【モンハンNow】",
       "url": "https://gamewith.jp/monsterhunternow/article/show/573258",
       "host": "gamewith.jp",
-      "source": "GameWith",
+      "source": "ゲームウィズ",
       "summary": "",
       "publishedAt": "2026-10-07T01:11:34.000Z",
       "image": "",
@@ -1543,28 +1545,6 @@
       "isNew": false
     },
     {
-      "id": "4864dee8676f",
-      "title": "【MHWilds】歴戦王ジンダハド「凍え知れ、安寧の睡郷」ソロヘビィ火事場 4分58秒 Arch-Tempered Jin Dahaad Solo Heavy Bowgun Heroics",
-      "url": "https://youtu.be/EepwneiNNwA?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-06T15:55:39.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "6d04567428ba",
       "title": "【モンスターハンターワイルズ】が好きな人は絶対に再生しないで！仲宗根が好き勝手にレビュー #モンハン",
       "url": "https://youtu.be/7mBzEUkvixo?si",
@@ -1606,6 +1586,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "b13159326bc0",
+      "title": "【モンハンワイルズ】オメガにリベンジの巻。",
+      "url": "https://t.co/3LbKaHdjN3",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-06T13:47:56.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "9f3a5283d459",
