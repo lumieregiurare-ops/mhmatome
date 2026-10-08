@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-08T14:30:15.095Z",
+  "updatedAt": "2026-10-08T15:00:15.069Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 67,
-  "todayCount": 26,
+  "total": 66,
+  "todayCount": 0,
   "categories": [
     {
       "id": "new",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 51
+      "count": 50
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 41
+      "count": 40
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 10
+      "count": 9
     },
     {
       "id": "now",
@@ -100,15 +100,15 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 18
+      "count": 17
     },
     {
       "name": "GameWith",
-      "count": 13
+      "count": 14
     },
     {
       "name": "ゲームウィズ",
-      "count": 7
+      "count": 6
     },
     {
       "name": "Howl.link",
@@ -302,17 +302,17 @@
           "isPR": false
         },
         {
+          "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/575038",
+          "source": "GameWith",
+          "publishedAt": "2026-10-07T05:22:21.000Z",
+          "isPR": false
+        },
+        {
           "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/563040",
           "source": "GameWith",
           "publishedAt": "2026-10-07T04:18:27.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ】Switch2版の発売日・最新情報【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/563066",
-          "source": "ゲームウィズ",
-          "publishedAt": "2026-10-07T01:34:46.000Z",
           "isPR": false
         }
       ]
@@ -538,12 +538,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-08T13:58:36.049Z",
+    "previousAt": "2026-10-08T14:30:15.095Z",
     "previousCount": 67,
-    "newCount": 2
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-08T15:00:15.095Z",
+  "nextUpdateAt": "2026-10-08T15:30:15.069Z",
   "items": [
     {
       "id": "e6d79acfa4bd",
@@ -975,16 +975,16 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "104cf127802f",
-      "title": "【MHWilds】凍え知れ、安寧の睡郷 歴戦王ジン・ダハド（Arch-tempered Jin Dahaad）フリーチャレンジクエスト 火事場 2PT（盾斧×狩猟笛） 4'48\"47",
-      "url": "https://youtu.be/3QZ_IlkmZ_w?si",
+      "title": "【MHWilds】凍え知れ、安寧の睡郷 歴戦王ジン・ダハド（Arch-tempered Jin Dahaad）フリーチャレンジクエスト 火事場 4PT（盾斧×盾斧×狩猟笛×狩猟笛） 3'59\"38",
+      "url": "https://youtu.be/-v5MePy7jFg?si",
       "host": "youtu.be",
       "source": "YouTube",
       "summary": "",
-      "publishedAt": "2026-10-07T16:52:26.000Z",
+      "publishedAt": "2026-10-07T16:40:32.000Z",
       "image": "",
       "categories": [
         "other"
@@ -1234,6 +1234,27 @@
       "isNew": false
     },
     {
+      "id": "411bb4076b94",
+      "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/575038",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-07T05:22:21.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575038.png?date=1789770323",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "d8b95bbbc335",
       "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/563040",
@@ -1404,27 +1425,6 @@
       "isNew": false
     },
     {
-      "id": "411bb4076b94",
-      "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/575038",
-      "host": "gamewith.jp",
-      "source": "ゲームウィズ",
-      "summary": "",
-      "publishedAt": "2026-10-07T00:38:20.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575038.png?date=1789770323",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "fc97253ed2b9",
       "title": "[MHWilds/PS5] 歴戦王ジン・ダハド 大剣ソロ 05'08\"29 フリーチャレンジクエスト 火事場 サブ笛/ Arch Tempered Jin Dahaad GreatSword solo",
       "url": "https://youtu.be/zEtwSu6Enuw",
@@ -1508,28 +1508,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "4864dee8676f",
-      "title": "【MHWilds】歴戦王ジンダハド「凍え知れ、安寧の睡郷」ソロヘビィ火事場 4分58秒 Arch-Tempered Jin Dahaad Solo Heavy Bowgun Heroics",
-      "url": "https://youtu.be/EepwneiNNwA?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-06T15:55:39.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "6d04567428ba",
@@ -1917,7 +1895,7 @@
       "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-10-05T22:31:46.000Z",
-      "image": "",
+      "image": "https://i.ytimg.com/vi/pDnK4AwIDds/maxresdefault.jpg",
       "categories": [
         "guide"
       ],
