@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-08T03:30:17.405Z",
+  "updatedAt": "2026-10-08T04:00:14.691Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 89,
-  "todayCount": 9,
+  "total": 91,
+  "todayCount": 11,
   "categories": [
     {
       "id": "new",
@@ -37,7 +37,7 @@
     {
       "id": "media",
       "label": "映像・音楽・書籍",
-      "count": 1
+      "count": 2
     },
     {
       "id": "guide",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 59
+      "count": 60
     }
   ],
   "series": [
@@ -84,7 +84,7 @@
     {
       "id": "now",
       "label": "Now",
-      "count": 31
+      "count": 32
     },
     {
       "id": "stories",
@@ -108,7 +108,7 @@
     },
     {
       "name": "ゲームウィズ",
-      "count": 4
+      "count": 5
     },
     {
       "name": "インサイド",
@@ -117,6 +117,10 @@
     {
       "name": "Howl.Link",
       "count": 3
+    },
+    {
+      "name": "Yahoo!ニュース",
+      "count": 2
     },
     {
       "name": "ファミ通.com",
@@ -171,10 +175,6 @@
       "count": 1
     },
     {
-      "name": "Yahoo!ニュース",
-      "count": 1
-    },
-    {
       "name": "ワイルズ公式（Steam）",
       "count": 1
     }
@@ -188,8 +188,8 @@
       "image": "https://rensai.jp/wp-content/uploads/2026/10/c3e50defa7e871a1d10562a6921070c1.jpg",
       "leadSource": "GameWith",
       "publishedAt": "2026-10-07T01:11:34.000Z",
-      "sourceCount": 4,
-      "articleCount": 32,
+      "sourceCount": 5,
+      "articleCount": 33,
       "categories": [
         "other",
         "guide"
@@ -534,13 +534,32 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-08T03:00:14.832Z",
-    "previousCount": 88,
+    "previousAt": "2026-10-08T03:30:17.405Z",
+    "previousCount": 89,
     "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-08T04:00:17.405Z",
+  "nextUpdateAt": "2026-10-08T04:30:14.691Z",
   "items": [
+    {
+      "id": "c1e899c93915",
+      "title": "東映、映画OPの配給マークが初の擬人化!? 「ポケモン」「モンハン」タケウチリョースケ 描き下ろしの新キャラ「あらいなみ T081」誕生（アニメ！アニメ！）",
+      "url": "https://news.yahoo.co.jp/articles/2e28754cb367daa1fed7bfd2c9c6f7729678af01",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-08T03:30:03.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261008-00000001-anmanmv-000-1-view.jpg?exp=10800",
+      "categories": [
+        "media"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "7b870642c377",
       "title": "スイッチ2版『モンハンワイルズ』携帯モードでも大集会所は快適そう！テーブルに置いて操作する実機映像が公開",
@@ -687,6 +706,28 @@
       "isNew": false
     },
     {
+      "id": "d4580ad283a6",
+      "title": "【MHWilds/PS5】凍え知れ、安寧の睡郷 3分59秒 4人",
+      "url": "https://youtu.be/PeMptgSIpfA?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-07T16:23:34.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "0b68bd1287fd",
       "title": "【アセンダンス】片手剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/577790",
@@ -811,7 +852,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0fa0ea128c6f",
@@ -1173,28 +1214,6 @@
       "isNew": false
     },
     {
-      "id": "4864dee8676f",
-      "title": "【MHWilds】歴戦王ジンダハド「凍え知れ、安寧の睡郷」ソロヘビィ火事場 4分58秒 Arch-Tempered Jin Dahaad Solo Heavy Bowgun Heroics",
-      "url": "https://youtu.be/EepwneiNNwA?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-06T15:55:39.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "6d04567428ba",
       "title": "【モンスターハンターワイルズ】が好きな人は絶対に再生しないで！仲宗根が好き勝手にレビュー #モンハン",
       "url": "https://youtu.be/7mBzEUkvixo?si",
@@ -1477,7 +1496,7 @@
       "source": "ライズ公式（Steam）",
       "summary": "To celebrate, please enjoy this Dango filled special artwork from the team. Th…",
       "publishedAt": "2026-10-06T07:14:40.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/41286238/2fd72d0cfbd5f9138dbac78c9d7c175e27dfec20.jpg",
+      "image": "https://clan.fastly.steamstatic.com/images/41286238/2fd72d0cfbd5f9138dbac78c9d7c175e27dfec20.jpg",
       "categories": [
         "other"
       ],
@@ -1967,7 +1986,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "cc04ae0f9216",
@@ -2158,6 +2177,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "0ecf9ad015c1",
+      "title": "【モンハンナウ】シーズン2 クライマックスの開催期間とクエスト情報【モンハンNow】",
+      "url": "https://gamewith.jp/monsterhunternow/article/show/461586",
+      "host": "gamewith.jp",
+      "source": "ゲームウィズ",
+      "summary": "",
+      "publishedAt": "2026-10-05T12:07:39.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/461586.png?date=1724746393",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "cdc41bd20db7",
@@ -2399,7 +2439,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "\"Monster Hunter Wilds\"—whose major expansion releases in 2027— is on sale for for 25% off! But there's more! The \"Monster Hunter Series Pack,\" (Bundle) which c…",
       "publishedAt": "2026-10-02T08:34:04.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/44795648/30302d9fc79a793f9d6a4ba736148303013217c0.jpg",
+      "image": "https://clan.fastly.steamstatic.com/images/44795648/30302d9fc79a793f9d6a4ba736148303013217c0.jpg",
       "categories": [
         "other"
       ],
