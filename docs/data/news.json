@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-08T10:30:16.975Z",
+  "updatedAt": "2026-10-08T11:00:18.494Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 99,
+  "total": 95,
   "todayCount": 21,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 21
+      "count": 20
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 63
+      "count": 60
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 42
+      "count": 40
     },
     {
       "id": "rise",
@@ -84,7 +84,7 @@
     {
       "id": "now",
       "label": "Now",
-      "count": 33
+      "count": 31
     },
     {
       "id": "stories",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 43
+      "count": 41
     },
     {
       "name": "YouTube",
@@ -108,7 +108,7 @@
     },
     {
       "name": "ゲームウィズ",
-      "count": 6
+      "count": 5
     },
     {
       "name": "Howl.link",
@@ -132,10 +132,6 @@
     },
     {
       "name": "Yahoo!ニュース",
-      "count": 2
-    },
-    {
-      "name": "Howl.Link",
       "count": 2
     },
     {
@@ -163,11 +159,11 @@
       "count": 1
     },
     {
-      "name": "ゲームメモ",
+      "name": "ウォーカープラス",
       "count": 1
     },
     {
-      "name": "ウォーカープラス",
+      "name": "ゲームメモ",
       "count": 1
     },
     {
@@ -187,6 +183,10 @@
       "count": 1
     },
     {
+      "name": "Howl.Link",
+      "count": 1
+    },
+    {
       "name": "ワイルズ公式（Steam）",
       "count": 1
     }
@@ -201,7 +201,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-10-07T01:11:34.000Z",
       "sourceCount": 5,
-      "articleCount": 34,
+      "articleCount": 32,
       "categories": [
         "other",
         "guide"
@@ -507,12 +507,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-08T10:00:16.630Z",
-    "previousCount": 103,
-    "newCount": 3
+    "previousAt": "2026-10-08T10:30:16.975Z",
+    "previousCount": 99,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-08T11:00:16.975Z",
+  "nextUpdateAt": "2026-10-08T11:30:18.494Z",
   "items": [
     {
       "id": "f086231a26ee",
@@ -722,6 +722,25 @@
       "isNew": false
     },
     {
+      "id": "baecfb1eaec1",
+      "title": "モンハン4×ガリガリ君！ハチミツ調合のゆず味が本日発売",
+      "url": "https://www.walkerplus.com/article/41312/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-08T02:05:23.000Z",
+      "image": "https://news.walkerplus.com/article/41312/214942_615.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "190eda27bfe8",
       "title": "『モンハンライズ』モバイル版がリリース予定？iOS/Android版の海外ストアページも公開―独自の回復ボタンも搭載との記載",
       "url": "https://www.inside-games.jp/article/2026/10/08/188923.html",
@@ -846,25 +865,6 @@
       "isNew": false
     },
     {
-      "id": "55b0bd5ff9cd",
-      "title": "秋葉原に期間限定「モンハン」ショップが登場！",
-      "url": "https://www.walkerplus.com/article/63257/",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-10-07T17:20:49.000Z",
-      "image": "https://news.walkerplus.com/article/63257/352473_615.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "5fc879b1cca5",
       "title": "【モンハンワイルズ】英傑に愛を込めての攻略と報酬【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/545381",
@@ -905,7 +905,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0b68bd1287fd",
@@ -1480,27 +1480,6 @@
       "isNew": false
     },
     {
-      "id": "b13159326bc0",
-      "title": "【モンハンワイルズ】オメガにリベンジの巻。",
-      "url": "https://t.co/3LbKaHdjN3",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-10-06T13:47:56.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "9f3a5283d459",
       "title": "『モンハンNow』拠点要撃戦に異変あり!? 3周年だからいつもと様子が違う装備強化促進クエストガイド",
       "url": "https://getnews.jp/archives/3747336",
@@ -1698,7 +1677,7 @@
       "source": "ライズ公式（Steam）",
       "summary": "To celebrate, please enjoy this Dango filled special artwork from the team. Th…",
       "publishedAt": "2026-10-06T07:14:40.000Z",
-      "image": "https://clan.fastly.steamstatic.com/images/41286238/2fd72d0cfbd5f9138dbac78c9d7c175e27dfec20.jpg",
+      "image": "https://clan.akamai.steamstatic.com/images/41286238/2fd72d0cfbd5f9138dbac78c9d7c175e27dfec20.jpg",
       "categories": [
         "other"
       ],
@@ -2212,27 +2191,6 @@
       "isNew": false
     },
     {
-      "id": "b9e2b43446c5",
-      "title": "【モンハンナウ】初夏の特別交換所ウィーク【モンハンNow】",
-      "url": "https://gamewith.jp/monsterhunternow/article/show/561115",
-      "host": "gamewith.jp",
-      "source": "ゲームウィズ",
-      "summary": "",
-      "publishedAt": "2026-10-05T12:15:59.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "caf8d7f8f606",
       "title": "【モンハンナウ】シーズン10 スタート【モンハンNow】",
       "url": "https://gamewith.jp/monsterhunternow/article/show/564000",
@@ -2528,48 +2486,6 @@
       "isNew": false
     },
     {
-      "id": "50439e380cf4",
-      "title": "【モンハンワイルズ】強さの頂き、その先への攻略と報酬【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/499651",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-05T10:52:07.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/499651.png?date=1748395656",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4915d2f5bd0c",
-      "title": "【モンハンナウ】集い築け！空飛ぶ探索拠点！の開催情報｜シーズン7【モンハンNow】",
-      "url": "https://gamewith.jp/monsterhunternow/article/show/517648",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-05T10:38:14.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/517648.png?date=1758188685",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "4e4d3adcd05d",
       "title": "Autumn Sale Now Live!",
       "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656385421",
@@ -2577,7 +2493,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "\"Monster Hunter Wilds\"—whose major expansion releases in 2027— is on sale for for 25% off! But there's more! The \"Monster Hunter Series Pack,\" (Bundle) which c…",
       "publishedAt": "2026-10-02T08:34:04.000Z",
-      "image": "https://clan.fastly.steamstatic.com/images/44795648/30302d9fc79a793f9d6a4ba736148303013217c0.jpg",
+      "image": "https://clan.akamai.steamstatic.com/images/44795648/30302d9fc79a793f9d6a4ba736148303013217c0.jpg",
       "categories": [
         "other"
       ],
