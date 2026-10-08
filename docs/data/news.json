@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-08T02:00:16.992Z",
+  "updatedAt": "2026-10-08T02:30:17.146Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 85,
+  "total": 86,
   "todayCount": 7,
   "categories": [
     {
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 58
+      "count": 59
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 38
+      "count": 39
     },
     {
       "id": "rise",
@@ -115,6 +115,10 @@
       "count": 3
     },
     {
+      "name": "Howl.Link",
+      "count": 3
+    },
+    {
       "name": "インサイド",
       "count": 2
     },
@@ -124,10 +128,6 @@
     },
     {
       "name": "Howl.link",
-      "count": 2
-    },
-    {
-      "name": "Howl.Link",
       "count": 2
     },
     {
@@ -491,12 +491,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-08T01:30:15.812Z",
+    "previousAt": "2026-10-08T02:00:16.992Z",
     "previousCount": 85,
-    "newCount": 3
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-08T02:30:16.992Z",
+  "nextUpdateAt": "2026-10-08T03:00:17.146Z",
   "items": [
     {
       "id": "190eda27bfe8",
@@ -517,7 +517,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4cd467a24cc4",
@@ -578,7 +578,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5fc879b1cca5",
@@ -1632,6 +1632,27 @@
       "isNew": false
     },
     {
+      "id": "68622afc9378",
+      "title": "【VTuber】片手剣の練度を上げたい！最近安定してきた【モンハンワイルズ】",
+      "url": "https://t.co/SwKlvMHYwo",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-05T13:39:40.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "dfc29c6658af",
       "title": "【設定6実戦】『スマスロ モンスターハンターライズ：サンブレイク』の設定差考察！ CZ・終了画面",
       "url": "https://p-town.dmm.com/specials/5456",
@@ -2029,7 +2050,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "cdc41bd20db7",
