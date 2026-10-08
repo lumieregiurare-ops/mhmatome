@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-08T08:00:18.197Z",
+  "updatedAt": "2026-10-08T08:30:15.976Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 101,
-  "todayCount": 16,
+  "total": 102,
+  "todayCount": 19,
   "categories": [
     {
       "id": "new",
@@ -62,19 +62,19 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 64
+      "count": 65
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 42
+      "count": 41
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 10
+      "count": 11
     },
     {
       "id": "world",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 5
+      "count": 6
     },
     {
       "id": "outlanders",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 52
+      "count": 51
     },
     {
       "name": "YouTube",
@@ -115,10 +115,6 @@
       "count": 3
     },
     {
-      "name": "Howl.Link",
-      "count": 3
-    },
-    {
       "name": "PR TIMES",
       "count": 2
     },
@@ -127,7 +123,19 @@
       "count": 2
     },
     {
+      "name": "Yahoo!ニュース",
+      "count": 2
+    },
+    {
       "name": "ファミ通",
+      "count": 2
+    },
+    {
+      "name": "ゲームウィズ",
+      "count": 2
+    },
+    {
+      "name": "Howl.Link",
       "count": 2
     },
     {
@@ -143,15 +151,19 @@
       "count": 2
     },
     {
+      "name": "Gamer",
+      "count": 1
+    },
+    {
       "name": "電撃ホビーウェブ",
       "count": 1
     },
     {
-      "name": "cinemacafe.net",
+      "name": "XBOX Wire",
       "count": 1
     },
     {
-      "name": "XBOX Wire",
+      "name": "ゲームメモ",
       "count": 1
     },
     {
@@ -176,14 +188,6 @@
     },
     {
       "name": "ライズ公式（Steam）",
-      "count": 1
-    },
-    {
-      "name": "Yahoo!ニュース",
-      "count": 1
-    },
-    {
-      "name": "ゲームウィズ",
       "count": 1
     },
     {
@@ -278,7 +282,7 @@
       "image": "http://www.gamespark.jp/imgs/rss/1204316.jpg",
       "leadSource": "Game*Spark",
       "publishedAt": "2026-10-08T06:00:03.000Z",
-      "sourceCount": 4,
+      "sourceCount": 5,
       "articleCount": 7,
       "categories": [
         "other",
@@ -307,7 +311,7 @@
         {
           "title": "【モンハンワイルズ】英傑に愛を込めての攻略と報酬【モンスターハンターワイルズ】",
           "url": "https://gamewith.jp/mhwilds/545381",
-          "source": "GameWith",
+          "source": "ゲームウィズ",
           "publishedAt": "2026-10-07T16:26:25.000Z",
           "isPR": false
         },
@@ -374,6 +378,34 @@
           "source": "インサイド",
           "publishedAt": "2026-10-06T05:35:03.000Z",
           "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "f086231a26ee",
+      "title": "「モンスターハンターストーリーズ」シリーズ10周年を記念して歴代キャラ勢ぞろいのビジュアルが公開！",
+      "summary": "",
+      "url": "https://www.gamer.ne.jp/news/202610080036/",
+      "image": "https://prcdn.freetls.fastly.net/release_image/13450/6102/13450-6102-f89b51735a5153113d00a2ae1f66fa22-3900x2714.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "leadSource": "Gamer",
+      "publishedAt": "2026-10-08T08:10:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "モンスターハンターストーリーズ",
+        "キャラ",
+        "ビジュアル"
+      ],
+      "articles": [
+        {
+          "title": "「モンスターハンターストーリーズ」シリーズ10周年！ シリーズ作品から多数のキャラクターが一堂に会した記念ビジュアルを公開！！",
+          "url": "https://prtimes.jp/main/html/rd/p/000006102.000013450.html",
+          "source": "PR TIMES",
+          "publishedAt": "2026-10-08T06:05:29.000Z",
+          "isPR": true
         }
       ]
     },
@@ -462,13 +494,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-08T07:30:16.422Z",
-    "previousCount": 99,
-    "newCount": 2
+    "previousAt": "2026-10-08T08:00:18.197Z",
+    "previousCount": 101,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-08T08:30:18.197Z",
+  "nextUpdateAt": "2026-10-08T09:00:15.976Z",
   "items": [
+    {
+      "id": "f086231a26ee",
+      "title": "「モンスターハンターストーリーズ」シリーズ10周年を記念して歴代キャラ勢ぞろいのビジュアルが公開！",
+      "url": "https://www.gamer.ne.jp/news/202610080036/",
+      "host": "gamer.ne.jp",
+      "source": "Gamer",
+      "summary": "",
+      "publishedAt": "2026-10-08T08:10:00.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "20782b0f71c6",
       "title": "クック先生がデフォルメフィギュアに！『モンスターハンター』より、怪鳥「イャンクック」のねんどろいどが予約受付中！",
@@ -506,25 +559,6 @@
       ],
       "isOfficial": false,
       "isPR": true,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "c1e899c93915",
-      "title": "東映、映画OPの配給マークが初の擬人化!? 「ポケモン」「モンハン」タケウチリョースケ 描き下ろしの新キャラ「あらいなみ T081」誕生",
-      "url": "https://www.cinemacafe.net/article/2026/10/08/113185.html",
-      "host": "cinemacafe.net",
-      "source": "cinemacafe.net",
-      "summary": "",
-      "publishedAt": "2026-10-08T06:00:04.000Z",
-      "image": "https://www.cinemacafe.net/imgs/ogp_f/838443.jpg",
-      "categories": [
-        "media"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -569,7 +603,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d721e563897e",
@@ -586,6 +620,25 @@
       "series": [
         "stories"
       ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "c1e899c93915",
+      "title": "東映、映画OPの配給マークが初の擬人化!? 「ポケモン」「モンハン」タケウチリョースケ 描き下ろしの新キャラ「あらいなみ T081」誕生（アニメ！アニメ！）",
+      "url": "https://news.yahoo.co.jp/articles/2e28754cb367daa1fed7bfd2c9c6f7729678af01",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-08T03:30:03.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261008-00000001-anmanmv-000-1-view.jpg?exp=10800",
+      "categories": [
+        "media"
+      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -696,6 +749,27 @@
       "isNew": false
     },
     {
+      "id": "f331553c2278",
+      "title": "モンスターハンターライズ、スマホ版が登場。ただしネットフリックス契約が必要",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNODRvVGRrVy1FT0pBNGlvUGRFeW5ZUnVoOUNHN0FzT3N1ejltaEdoU2tuQ2FrVEJqR2RWTXc2ZVdBQXc5UlVyaVBUbU1zelIxSXBKZUN6em5BUkFhOTc1V0NPQ080RklKcm9sUkM2M2pJX25DeGlQVGx0dmJNVDh4Ri1R0gGCAUFVX3lxTE04NG9UZGtXLUVPSkE0aW9QZEV5bllSdWg5Q0c3QXNPc3V6OW1oR2hTa25DYWtUQmpHZFZNdzZlV0FBdzlSVXJpUFRtTXN6UjFJcEplQ3p6bkFSQWE5NzVXQ09DTzRGSUpyb2xSQzYzaklfbkN4aVBUbHR2Yk1UOHhGLVE?oc=5",
+      "host": "ga-m.com",
+      "source": "ゲームメモ",
+      "summary": "",
+      "publishedAt": "2026-10-07T18:56:55.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "d605748fb698",
       "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/574841",
@@ -733,14 +807,14 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5fc879b1cca5",
       "title": "【モンハンワイルズ】英傑に愛を込めての攻略と報酬【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/545381",
       "host": "gamewith.jp",
-      "source": "GameWith",
+      "source": "ゲームウィズ",
       "summary": "",
       "publishedAt": "2026-10-07T16:26:25.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545381.png?date=1771384851",
@@ -755,6 +829,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "d4580ad283a6",
+      "title": "【MHWilds/PS5】凍え知れ、安寧の睡郷 3分59秒 4人",
+      "url": "https://youtu.be/PeMptgSIpfA?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-07T16:23:34.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "0b68bd1287fd",
@@ -812,28 +908,6 @@
       ],
       "series": [
         "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e8438416ed2e",
-      "title": "【MHWilds】凍え知れ、安寧の睡郷 歴戦王ジン・ダハド 網寿司近接4pt 04'14\"56チャアク視点",
-      "url": "https://youtu.be/hd-H9rjveVQ?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-07T12:27:10.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1780,27 +1854,6 @@
         "new"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "68622afc9378",
-      "title": "【VTuber】片手剣の練度を上げたい！最近安定してきた【モンハンワイルズ】",
-      "url": "https://t.co/SwKlvMHYwo",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-10-05T13:39:40.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
