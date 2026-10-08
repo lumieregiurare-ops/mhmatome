@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-08T11:00:18.494Z",
+  "updatedAt": "2026-10-08T11:30:15.490Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 95,
-  "todayCount": 21,
+  "total": 96,
+  "todayCount": 20,
   "categories": [
     {
       "id": "new",
@@ -52,7 +52,7 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 1
+      "count": 0
     },
     {
       "id": "sales",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 60
+      "count": 62
     }
   ],
   "series": [
@@ -79,12 +79,12 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 9
+      "count": 8
     },
     {
       "id": "now",
       "label": "Now",
-      "count": 31
+      "count": 32
     },
     {
       "id": "stories",
@@ -100,19 +100,19 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 41
+      "count": 40
     },
     {
       "name": "YouTube",
-      "count": 17
+      "count": 14
     },
     {
       "name": "ゲームウィズ",
-      "count": 5
+      "count": 7
     },
     {
       "name": "Howl.link",
-      "count": 3
+      "count": 4
     },
     {
       "name": "インサイド",
@@ -132,6 +132,14 @@
     },
     {
       "name": "Yahoo!ニュース",
+      "count": 2
+    },
+    {
+      "name": "ウォーカープラス",
+      "count": 2
+    },
+    {
+      "name": "Howl.Link",
       "count": 2
     },
     {
@@ -159,10 +167,6 @@
       "count": 1
     },
     {
-      "name": "ウォーカープラス",
-      "count": 1
-    },
-    {
       "name": "ゲームメモ",
       "count": 1
     },
@@ -183,10 +187,6 @@
       "count": 1
     },
     {
-      "name": "Howl.Link",
-      "count": 1
-    },
-    {
       "name": "ワイルズ公式（Steam）",
       "count": 1
     }
@@ -201,7 +201,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-10-07T01:11:34.000Z",
       "sourceCount": 5,
-      "articleCount": 32,
+      "articleCount": 33,
       "categories": [
         "other",
         "guide"
@@ -321,7 +321,7 @@
         {
           "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
           "url": "https://gamewith.jp/mhwilds/563096",
-          "source": "GameWith",
+          "source": "ゲームウィズ",
           "publishedAt": "2026-10-07T03:48:39.000Z",
           "isPR": false
         },
@@ -478,6 +478,33 @@
       ]
     },
     {
+      "id": "7e416608e050",
+      "title": "【モンハンワイルズ】みんなでオメガの練習がしたいです！【参加型】",
+      "summary": "",
+      "url": "https://t.co/C4L3RFEqTy",
+      "image": "",
+      "leadSource": "Howl.link",
+      "publishedAt": "2026-10-06T19:15:20.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "モンハンワイルズ",
+        "オメガ"
+      ],
+      "articles": [
+        {
+          "title": "【モンハンワイルズ】オメガにリベンジの巻。",
+          "url": "https://t.co/3LbKaHdjN3",
+          "source": "Howl.Link",
+          "publishedAt": "2026-10-06T13:47:56.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "b797c72857dc",
       "title": "『モンスターハンター』から「キリン」と「ゴア・マガラ」の婚約・結婚指輪が登場。ファッションリングとしても使いやすい",
       "summary": "",
@@ -507,12 +534,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-08T10:30:16.975Z",
-    "previousCount": 99,
-    "newCount": 1
+    "previousAt": "2026-10-08T11:00:18.494Z",
+    "previousCount": 95,
+    "newCount": 5
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-08T11:30:18.494Z",
+  "nextUpdateAt": "2026-10-08T12:00:15.490Z",
   "items": [
     {
       "id": "f086231a26ee",
@@ -738,7 +765,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "190eda27bfe8",
@@ -755,25 +782,6 @@
       "series": [
         "rise"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "522371bcf5dd",
-      "title": "モンハン配信者でロシアンたこ焼き！！！",
-      "url": "https://youtu.be/-YloERi5OCg?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-07T23:32:16.000Z",
-      "image": "https://i.ytimg.com/vi/-YloERi5OCg/maxresdefault.jpg",
-      "categories": [
-        "community"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -865,6 +873,25 @@
       "isNew": false
     },
     {
+      "id": "55b0bd5ff9cd",
+      "title": "秋葉原に期間限定「モンハン」ショップが登場！",
+      "url": "https://www.walkerplus.com/article/63257/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-07T17:20:49.000Z",
+      "image": "https://news.walkerplus.com/article/63257/352473_615.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "5fc879b1cca5",
       "title": "【モンハンワイルズ】英傑に愛を込めての攻略と報酬【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/545381",
@@ -878,28 +905,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d4580ad283a6",
-      "title": "【MHWilds/PS5】凍え知れ、安寧の睡郷 3分59秒 4人",
-      "url": "https://youtu.be/PeMptgSIpfA?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-07T16:23:34.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -990,6 +995,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "e8438416ed2e",
+      "title": "【MHWilds】凍え知れ、安寧の睡郷 歴戦王ジン・ダハド 網寿司近接4pt 04'14\"56チャアク視点",
+      "url": "https://youtu.be/hd-H9rjveVQ?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-07T12:27:10.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "a2119f0dcdb7",
@@ -1146,7 +1173,7 @@
       "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
       "url": "https://gamewith.jp/mhwilds/563096",
       "host": "gamewith.jp",
-      "source": "GameWith",
+      "source": "ゲームウィズ",
       "summary": "",
       "publishedAt": "2026-10-07T03:48:39.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
@@ -1373,6 +1400,27 @@
       "isNew": false
     },
     {
+      "id": "7e416608e050",
+      "title": "【モンハンワイルズ】みんなでオメガの練習がしたいです！【参加型】",
+      "url": "https://t.co/C4L3RFEqTy",
+      "host": "t.co",
+      "source": "Howl.link",
+      "summary": "",
+      "publishedAt": "2026-10-06T19:15:20.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "382e8ef9275d",
       "title": "【モンハンナウ】3周年アフターパーティ【モンハンNow】",
       "url": "https://gamewith.jp/monsterhunternow/article/show/579605",
@@ -1407,28 +1455,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4864dee8676f",
-      "title": "【MHWilds】歴戦王ジンダハド「凍え知れ、安寧の睡郷」ソロヘビィ火事場 4分58秒 Arch-Tempered Jin Dahaad Solo Heavy Bowgun Heroics",
-      "url": "https://youtu.be/EepwneiNNwA?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-06T15:55:39.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1478,6 +1504,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "b13159326bc0",
+      "title": "【モンハンワイルズ】オメガにリベンジの巻。",
+      "url": "https://t.co/3LbKaHdjN3",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-06T13:47:56.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "9f3a5283d459",
@@ -2191,6 +2238,27 @@
       "isNew": false
     },
     {
+      "id": "b9e2b43446c5",
+      "title": "【モンハンナウ】初夏の特別交換所ウィーク【モンハンNow】",
+      "url": "https://gamewith.jp/monsterhunternow/article/show/561115",
+      "host": "gamewith.jp",
+      "source": "ゲームウィズ",
+      "summary": "",
+      "publishedAt": "2026-10-05T12:15:59.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "caf8d7f8f606",
       "title": "【モンハンナウ】シーズン10 スタート【モンハンNow】",
       "url": "https://gamewith.jp/monsterhunternow/article/show/564000",
@@ -2457,27 +2525,6 @@
       ],
       "series": [
         "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "5687798ffb4e",
-      "title": "【アセンダンスに備えたい！】回復系素材 お気に入り採取ルート【モンスターハンターワイルズ】",
-      "url": "https://youtu.be/pvh0JXWyj_M?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-05T11:28:54.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
