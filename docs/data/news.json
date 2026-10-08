@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T21:30:17.611Z",
+  "updatedAt": "2026-10-08T22:00:15.502Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 66,
-  "todayCount": 1,
+  "todayCount": 2,
   "categories": [
     {
       "id": "new",
@@ -104,11 +104,11 @@
     },
     {
       "name": "ゲームウィズ",
-      "count": 13
+      "count": 15
     },
     {
       "name": "GameWith",
-      "count": 6
+      "count": 4
     },
     {
       "name": "Yahoo!ニュース",
@@ -197,7 +197,7 @@
       "title": "モンハンライズ（モンスターハンターライズ）、累計販売本数2000万本達成をカプコンが発表 2021年3月26日の発売から約5年半",
       "summary": "",
       "url": "https://mediadogs.jp/2026/10/07/monster-hunter-rise-20-million-sales/",
-      "image": "https://cimg.kgl-systems.io/camion/files/90149/thumbnail_EvtH.jpg?x=1280",
+      "image": "https://mediadogs.jp/wp-content/uploads/2026/10/monster-hunter-rise-20-million-sales-eyecatch.webp",
       "leadSource": "https://mediadogs.jp/",
       "publishedAt": "2026-10-07T04:03:36.000Z",
       "sourceCount": 4,
@@ -357,38 +357,24 @@
       ]
     },
     {
-      "id": "46ab930cbc6c",
-      "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
+      "id": "4cd467a24cc4",
+      "title": "【アセンダンス】双剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "summary": "",
-      "url": "https://gamewith.jp/mhwilds/563077",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
+      "url": "https://gamewith.jp/mhwilds/577734",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577734.png?date=1789765976",
       "leadSource": "ゲームウィズ",
-      "publishedAt": "2026-10-08T14:09:16.000Z",
+      "publishedAt": "2026-10-08T13:25:06.000Z",
       "sourceCount": 2,
-      "articleCount": 6,
+      "articleCount": 4,
       "categories": [
         "other"
       ],
       "keywords": [
         "モンハンワイルズ",
         "アセンダンス",
-        "アクション"
+        "ブーストアクション"
       ],
       "articles": [
-        {
-          "title": "【アセンダンス】双剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/577734",
-          "source": "GameWith",
-          "publishedAt": "2026-10-07T21:09:23.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/574841",
-          "source": "GameWith",
-          "publishedAt": "2026-10-07T18:39:18.000Z",
-          "isPR": false
-        },
         {
           "title": "【アセンダンス】片手剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/577790",
@@ -534,12 +520,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-08T21:00:18.857Z",
+    "previousAt": "2026-10-08T21:30:17.611Z",
     "previousCount": 66,
     "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-08T22:00:17.611Z",
+  "nextUpdateAt": "2026-10-08T22:30:15.502Z",
   "items": [
     {
       "id": "e6d79acfa4bd",
@@ -561,6 +547,27 @@
       "isNew": false
     },
     {
+      "id": "d605748fb698",
+      "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/574841",
+      "host": "gamewith.jp",
+      "source": "ゲームウィズ",
+      "summary": "",
+      "publishedAt": "2026-10-08T15:02:26.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574841.png?date=1789771579",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "46ab930cbc6c",
       "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/563077",
@@ -569,6 +576,27 @@
       "summary": "",
       "publishedAt": "2026-10-08T14:09:16.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "4cd467a24cc4",
+      "title": "【アセンダンス】双剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/577734",
+      "host": "gamewith.jp",
+      "source": "ゲームウィズ",
+      "summary": "",
+      "publishedAt": "2026-10-08T13:25:06.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577734.png?date=1789765976",
       "categories": [
         "other"
       ],
@@ -850,27 +878,6 @@
       "isNew": false
     },
     {
-      "id": "4cd467a24cc4",
-      "title": "【アセンダンス】双剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/577734",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-07T21:09:23.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577734.png?date=1789765976",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "4bfbf84dbace",
       "title": "『FF7 リベレーション』『モンハンワイルズ：アセンダンス』などが試遊できる“PlayStation 祭”が大阪で10月24日開催。PS Plus加入者向け先着予約が本日（10/2）開始",
       "url": "https://www.famitsu.com/article/images/202610/89840/890226",
@@ -949,27 +956,6 @@
       "series": [
         "wilds",
         "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d605748fb698",
-      "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/574841",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-07T18:39:18.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574841.png?date=1789771579",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1238,7 +1224,7 @@
       "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-10-07T07:47:29.000Z",
-      "image": "",
+      "image": "https://i.ytimg.com/vi/iBk0Q-9xK3U/hqdefault.jpg",
       "categories": [
         "other"
       ],
@@ -1302,7 +1288,7 @@
       "source": "https://mediadogs.jp/",
       "summary": "",
       "publishedAt": "2026-10-07T04:03:36.000Z",
-      "image": "",
+      "image": "https://mediadogs.jp/wp-content/uploads/2026/10/monster-hunter-rise-20-million-sales-eyecatch.webp",
       "categories": [
         "sales",
         "new"
