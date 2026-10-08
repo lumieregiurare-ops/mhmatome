@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-08T19:00:15.358Z",
+  "updatedAt": "2026-10-08T19:30:16.494Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 65,
+  "total": 66,
   "todayCount": 0,
   "categories": [
     {
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 49
+      "count": 50
     }
   ],
   "series": [
@@ -148,6 +148,10 @@
     },
     {
       "name": "XBOX Wire",
+      "count": 1
+    },
+    {
+      "name": "ウォーカープラス",
       "count": 1
     },
     {
@@ -282,18 +286,18 @@
       ]
     },
     {
-      "id": "46ab930cbc6c",
-      "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
+      "id": "e6d79acfa4bd",
+      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
       "summary": "",
-      "url": "https://gamewith.jp/mhwilds/563077",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
+      "url": "https://gamewith.jp/mhwilds/563096",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
       "leadSource": "ゲームウィズ",
-      "publishedAt": "2026-10-08T14:09:16.000Z",
+      "publishedAt": "2026-10-08T11:15:25.000Z",
       "sourceCount": 2,
-      "articleCount": 9,
+      "articleCount": 10,
       "categories": [
-        "other",
-        "new"
+        "guide",
+        "other"
       ],
       "keywords": [
         "モンハンワイルズ",
@@ -323,6 +327,13 @@
           "isPR": false
         },
         {
+          "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563077",
+          "source": "GameWith",
+          "publishedAt": "2026-10-08T00:37:10.000Z",
+          "isPR": false
+        },
+        {
           "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/574841",
           "source": "GameWith",
@@ -332,7 +343,7 @@
         {
           "title": "【アセンダンス】護竜リオレイアの最新情報まとめ【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/575037",
-          "source": "GameWith",
+          "source": "ゲームウィズ",
           "publishedAt": "2026-10-07T14:00:11.000Z",
           "isPR": false
         },
@@ -348,13 +359,6 @@
           "url": "https://gamewith.jp/mhwilds/563040",
           "source": "GameWith",
           "publishedAt": "2026-10-07T04:18:27.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ】Switch2版の発売日・最新情報【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/563066",
-          "source": "ゲームウィズ",
-          "publishedAt": "2026-10-07T01:34:46.000Z",
           "isPR": false
         }
       ]
@@ -523,34 +527,13 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-08T18:30:17.894Z",
-    "previousCount": 67,
-    "newCount": 0
+    "previousAt": "2026-10-08T19:00:15.358Z",
+    "previousCount": 65,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-08T19:30:15.358Z",
+  "nextUpdateAt": "2026-10-08T20:00:16.494Z",
   "items": [
-    {
-      "id": "46ab930cbc6c",
-      "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563077",
-      "host": "gamewith.jp",
-      "source": "ゲームウィズ",
-      "summary": "",
-      "publishedAt": "2026-10-08T14:09:16.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
     {
       "id": "e6d79acfa4bd",
       "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
@@ -820,6 +803,25 @@
       "isNew": false
     },
     {
+      "id": "baecfb1eaec1",
+      "title": "モンハン4×ガリガリ君！ハチミツ調合のゆず味が本日発売",
+      "url": "https://www.walkerplus.com/article/41312/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-08T02:05:23.000Z",
+      "image": "https://news.walkerplus.com/article/41312/214942_615.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "778fbb3d5344",
       "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/577281",
@@ -828,6 +830,27 @@
       "summary": "",
       "publishedAt": "2026-10-08T01:42:24.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577281.png?date=1789571405",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "46ab930cbc6c",
+      "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/563077",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-08T00:37:10.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
       "categories": [
         "other"
       ],
@@ -907,7 +930,7 @@
     {
       "id": "f331553c2278",
       "title": "モンスターハンターライズ、スマホ版が登場。ただしネットフリックス契約が必要",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNODRvVGRrVy1FT0pBNGlvUGRFeW5ZUnVoOUNHN0FzT3N1ejltaEdoU2tuQ2FrVEJqR2RWTXc2ZVdBQXc5UlVyaVBUbU1zelIxSXBKZUN6em5BUkFhOTc1V0NPQ080RklKcm9sUkM2M2pJX25DeGlQVGx0dmJNVDh4Ri1R0gGCAUFVX3lxTE04NG9UZGtXLUVPSkE0aW9QZEV5bllSdWg5Q0c3QXNPc3V6OW1oR2hTa25DYWtUQmpHZFZNdzZlV0FBdzlSVXJpUFRtTXN6UjFJcEplQ3p6bkFSQWE5NzVXQ09DTzRGSUpyb2xSQzYzaklfbkN4aVBUbHR2Yk1UOHhGLVE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qbFp2LVctRTdrTllicVYzWGZvOXdBM29IT1RQVmVEa0M2cVcwN052RFQ2clBYNUJsWmJRc0JfcFViVi03Y0pwWld4aGc1cWR6SGwzV0NrT19HZUJOTTF4azUzbEoxQjhFaFFvR1B5TGMzaFRjN0FtQXFR0gGCAUFVX3lxTE04NG9UZGtXLUVPSkE0aW9QZEV5bllSdWg5Q0c3QXNPc3V6OW1oR2hTa25DYWtUQmpHZFZNdzZlV0FBdzlSVXJpUFRtTXN6UjFJcEplQ3p6bkFSQWE5NzVXQ09DTzRGSUpyb2xSQzYzaklfbkN4aVBUbHR2Yk1UOHhGLVE?oc=5",
       "host": "ga-m.com",
       "source": "ゲームメモ",
       "summary": "",
@@ -1099,7 +1122,7 @@
       "title": "【アセンダンス】護竜リオレイアの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/575037",
       "host": "gamewith.jp",
-      "source": "GameWith",
+      "source": "ゲームウィズ",
       "summary": "",
       "publishedAt": "2026-10-07T14:00:11.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575037.png?date=1789770931",
