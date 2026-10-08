@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-08T06:30:16.800Z",
+  "updatedAt": "2026-10-08T07:00:15.463Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 97,
-  "todayCount": 15,
+  "total": 98,
+  "todayCount": 14,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 18
+      "count": 20
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 64
+      "count": 63
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 43
+      "count": 42
     },
     {
       "id": "rise",
@@ -79,17 +79,17 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 9
+      "count": 8
     },
     {
       "id": "now",
       "label": "Now",
-      "count": 33
+      "count": 35
     },
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 4
+      "count": 5
     },
     {
       "id": "outlanders",
@@ -100,11 +100,11 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 48
+      "count": 50
     },
     {
       "name": "YouTube",
-      "count": 18
+      "count": 17
     },
     {
       "name": "Howl.link",
@@ -147,11 +147,11 @@
       "count": 2
     },
     {
-      "name": "ファミ通",
+      "name": "XBOX Wire",
       "count": 1
     },
     {
-      "name": "ウォーカープラス",
+      "name": "ファミ通",
       "count": 1
     },
     {
@@ -189,7 +189,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-10-07T01:11:34.000Z",
       "sourceCount": 5,
-      "articleCount": 34,
+      "articleCount": 36,
       "categories": [
         "other",
         "guide"
@@ -478,12 +478,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-08T06:00:17.524Z",
-    "previousCount": 93,
-    "newCount": 6
+    "previousAt": "2026-10-08T06:30:16.800Z",
+    "previousCount": 97,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-08T07:00:16.800Z",
+  "nextUpdateAt": "2026-10-08T07:30:15.463Z",
   "items": [
     {
       "id": "ad32396fb10f",
@@ -504,7 +504,7 @@
       "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "60cdabba4ded",
@@ -541,6 +541,27 @@
       ],
       "series": [
         "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "d721e563897e",
+      "title": "『モンスターハンターストーリーズ3 ～運命の双竜～』が 2026 年 11 月 18 日より XBOX on PC 向けに発売、XBOX Play Anywhere に対応",
+      "url": "https://news.xbox.com/ja-jp/2026/10/08/play-monster-hunter-stories-3-on-xbox-on-pc-and-xbox-play-anywhere/?linkId",
+      "host": "news.xbox.com",
+      "source": "XBOX Wire",
+      "summary": "",
+      "publishedAt": "2026-10-08T04:22:01.000Z",
+      "image": "https://xboxwire.thesourcemediaassets.com/sites/10/2026/10/MHST3_KV_1080_JP-3ffa850c63000b0849b1.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -692,25 +713,6 @@
       "isNew": false
     },
     {
-      "id": "55b0bd5ff9cd",
-      "title": "秋葉原に期間限定「モンハン」ショップが登場！",
-      "url": "https://www.walkerplus.com/article/63257/",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-10-07T17:20:49.000Z",
-      "image": "https://news.walkerplus.com/article/63257/352473_615.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "5fc879b1cca5",
       "title": "【モンハンワイルズ】英傑に愛を込めての攻略と報酬【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/545381",
@@ -730,28 +732,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "d4580ad283a6",
-      "title": "【MHWilds/PS5】凍え知れ、安寧の睡郷 3分59秒 4人",
-      "url": "https://youtu.be/PeMptgSIpfA?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-07T16:23:34.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "0b68bd1287fd",
@@ -1282,28 +1262,6 @@
       "isNew": false
     },
     {
-      "id": "4864dee8676f",
-      "title": "【MHWilds】歴戦王ジンダハド「凍え知れ、安寧の睡郷」ソロヘビィ火事場 4分58秒 Arch-Tempered Jin Dahaad Solo Heavy Bowgun Heroics",
-      "url": "https://youtu.be/EepwneiNNwA?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-06T15:55:39.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "6d04567428ba",
       "title": "【モンスターハンターワイルズ】が好きな人は絶対に再生しないで！仲宗根が好き勝手にレビュー #モンハン",
       "url": "https://youtu.be/7mBzEUkvixo?si",
@@ -1586,7 +1544,7 @@
       "source": "ライズ公式（Steam）",
       "summary": "To celebrate, please enjoy this Dango filled special artwork from the team. Th…",
       "publishedAt": "2026-10-06T07:14:40.000Z",
-      "image": "https://clan.fastly.steamstatic.com/images/41286238/2fd72d0cfbd5f9138dbac78c9d7c175e27dfec20.jpg",
+      "image": "https://clan.akamai.steamstatic.com/images/41286238/2fd72d0cfbd5f9138dbac78c9d7c175e27dfec20.jpg",
       "categories": [
         "other"
       ],
@@ -1785,6 +1743,28 @@
       "isNew": false
     },
     {
+      "id": "01c036438df4",
+      "title": "【MHWilds】フリーチャレンジクエスト 歴戦王ジン・ダハド ライトボウガン ソロ 火炎弾 4’08’’75【モンハンワイルズ】Arch Tempered Jin Dahaad LBG Solo",
+      "url": "https://youtu.be/pL1eGW-7hsM?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-05T16:14:23.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "befadc337190",
       "title": "【モンスターハンター】巨戟龍《ゴグマジオス》のフィギュアが予約受付中。生物的質感を完全再現した精密ディティールに注目！",
       "url": "https://dengekionline.com/article/202610/88370",
@@ -1908,6 +1888,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "0a4531396c6f",
+      "title": "【モンハンナウ】クルルヤックの弱点と攻略｜解放条件【モンハンNow】",
+      "url": "https://gamewith.jp/monsterhunternow/article/show/415442",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-05T12:58:03.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/415442.png?date=1694156208",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "da8f10d7d13d",
@@ -2205,6 +2206,27 @@
       "isNew": false
     },
     {
+      "id": "e00e97b1f5cc",
+      "title": "【モンハンナウ】ランスのおすすめ武器と最終強化【モンハンNow】",
+      "url": "https://gamewith.jp/monsterhunternow/article/show/429430",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-05T12:11:06.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/429430.png?date=1702034197",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "d856af61bbb3",
       "title": "【モンハンナウ】大剣のおすすめ武器と最終強化【モンハンNow】",
       "url": "https://gamewith.jp/monsterhunternow/article/show/416362",
@@ -2286,7 +2308,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "cdc41bd20db7",
@@ -2507,7 +2529,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "\"Monster Hunter Wilds\"—whose major expansion releases in 2027— is on sale for for 25% off! But there's more! The \"Monster Hunter Series Pack,\" (Bundle) which c…",
       "publishedAt": "2026-10-02T08:34:04.000Z",
-      "image": "https://clan.fastly.steamstatic.com/images/44795648/30302d9fc79a793f9d6a4ba736148303013217c0.jpg",
+      "image": "https://clan.akamai.steamstatic.com/images/44795648/30302d9fc79a793f9d6a4ba736148303013217c0.jpg",
       "categories": [
         "other"
       ],
