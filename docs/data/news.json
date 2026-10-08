@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-08T01:00:15.432Z",
+  "updatedAt": "2026-10-08T01:30:15.812Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 82,
+  "total": 85,
   "todayCount": 5,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 13
+      "count": 14
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 56
+      "count": 58
     }
   ],
   "series": [
@@ -84,7 +84,7 @@
     {
       "id": "now",
       "label": "Now",
-      "count": 27
+      "count": 29
     },
     {
       "id": "stories",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 35
+      "count": 37
     },
     {
       "name": "YouTube",
@@ -167,6 +167,10 @@
       "count": 1
     },
     {
+      "name": "神ゲー攻略",
+      "count": 1
+    },
+    {
       "name": "ワイルズ公式（Steam）",
       "count": 1
     }
@@ -181,7 +185,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-10-07T01:11:34.000Z",
       "sourceCount": 5,
-      "articleCount": 28,
+      "articleCount": 30,
       "categories": [
         "other",
         "guide"
@@ -228,6 +232,13 @@
           "isPR": false
         },
         {
+          "title": "【モンハンナウ】バサルモスの弱点と攻略｜解放条件【モンハンNow】",
+          "url": "https://gamewith.jp/monsterhunternow/article/show/452406",
+          "source": "GameWith",
+          "publishedAt": "2026-10-05T12:59:57.000Z",
+          "isPR": false
+        },
+        {
           "title": "【モンハンナウ】SPスキルの使い方とやり方【モンハンNow】",
           "url": "https://gamewith.jp/monsterhunternow/article/show/417633",
           "source": "GameWith",
@@ -239,13 +250,6 @@
           "url": "https://gamewith.jp/monsterhunternow/article/show/440004",
           "source": "GameWith",
           "publishedAt": "2026-10-05T12:58:08.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンナウ】オドガロンの弱点と攻略｜解放条件【モンハンNow】",
-          "url": "https://gamewith.jp/monsterhunternow/article/show/440003",
-          "source": "GameWith",
-          "publishedAt": "2026-10-05T12:54:23.000Z",
           "isPR": false
         }
       ]
@@ -349,9 +353,16 @@
           "isPR": false
         },
         {
+          "title": "【アセンダンス】大剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/485475",
+          "source": "GameWith",
+          "publishedAt": "2026-10-07T02:27:25.000Z",
+          "isPR": false
+        },
+        {
           "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/575036",
-          "source": "ゲームウィズ",
+          "source": "GameWith",
           "publishedAt": "2026-10-07T02:14:42.000Z",
           "isPR": false
         },
@@ -388,13 +399,6 @@
           "url": "https://gamewith.jp/mhwilds/577811",
           "source": "GameWith",
           "publishedAt": "2026-10-06T16:49:11.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/563040",
-          "source": "ゲームウィズ",
-          "publishedAt": "2026-10-06T16:22:45.000Z",
           "isPR": false
         }
       ]
@@ -483,12 +487,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-08T00:29:08.352Z",
-    "previousCount": 80,
+    "previousAt": "2026-10-08T01:00:15.432Z",
+    "previousCount": 82,
     "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-08T01:30:15.432Z",
+  "nextUpdateAt": "2026-10-08T02:00:15.812Z",
   "items": [
     {
       "id": "4cd467a24cc4",
@@ -700,11 +704,32 @@
       "isNew": false
     },
     {
+      "id": "40bccce677c8",
+      "title": "【アセンダンス】大剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/485475",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-07T02:27:25.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485475.png?date=1789753003",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "f4f222ac2e2d",
       "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/575036",
       "host": "gamewith.jp",
-      "source": "ゲームウィズ",
+      "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-10-07T02:14:42.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575036.png?date=1789770113",
@@ -1289,27 +1314,6 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "40bccce677c8",
-      "title": "【アセンダンス】大剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/485475",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-06T09:24:25.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485475.png?date=1789753003",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
       "isNew": false
     },
     {
@@ -1647,6 +1651,27 @@
       "isNew": false
     },
     {
+      "id": "765c14d86c7d",
+      "title": "【モンハンナウ】バサルモスの弱点と攻略｜解放条件【モンハンNow】",
+      "url": "https://gamewith.jp/monsterhunternow/article/show/452406",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-05T12:59:57.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/452406.png?date=1717636559",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "9a3c9cd945b8",
       "title": "【モンハンナウ】SPスキルの使い方とやり方【モンハンNow】",
       "url": "https://gamewith.jp/monsterhunternow/article/show/417633",
@@ -1981,6 +2006,27 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "0ecf9ad015c1",
+      "title": "【モンハンナウ】シーズン2 クライマックスの開催期間とクエスト情報【モンハンNow】",
+      "url": "https://gamewith.jp/monsterhunternow/article/show/461586",
+      "host": "gamewith.jp",
+      "source": "ゲームウィズ",
+      "summary": "",
+      "publishedAt": "2026-10-05T12:07:39.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/461586.png?date=1724746393",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
       "isNew": true
     },
     {
@@ -2171,7 +2217,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a2119f0dcdb7",
@@ -2193,6 +2239,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "11068136bd36",
+      "title": "【パズドラ】 リオレイアの評価と使い道",
+      "url": "https://kamigame.jp/puzzle-dragons/%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC/%E3%80%8C%E3%83%AA%E3%82%AA%E3%83%AC%E3%82%A4%E3%82%A2%E3%80%8D.html",
+      "host": "kamigame.jp",
+      "source": "神ゲー攻略",
+      "summary": "",
+      "publishedAt": "2026-10-05T05:54:14.000Z",
+      "image": "https://img.kamigame.jp/rnRttKNgqhPmvkr5i1pqv2Y0xTfhgp0hKw62ilPNJlZ5rU6JwHbvwtrbQIBCy0TRGbkXxQacr9up4w5XMYogWKZ26UWrH1tsBus2mTm47Xg=w400",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "4e4d3adcd05d",
