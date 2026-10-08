@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-08T00:29:08.352Z",
+  "updatedAt": "2026-10-08T01:00:15.432Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 80,
+  "total": 82,
   "todayCount": 5,
   "categories": [
     {
@@ -37,7 +37,7 @@
     {
       "id": "media",
       "label": "映像・音楽・書籍",
-      "count": 2
+      "count": 1
     },
     {
       "id": "guide",
@@ -57,12 +57,12 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 5
+      "count": 6
     },
     {
       "id": "other",
       "label": "その他",
-      "count": 54
+      "count": 56
     }
   ],
   "series": [
@@ -74,7 +74,7 @@
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 9
+      "count": 10
     },
     {
       "id": "world",
@@ -84,7 +84,7 @@
     {
       "id": "now",
       "label": "Now",
-      "count": 25
+      "count": 27
     },
     {
       "id": "stories",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 32
+      "count": 35
     },
     {
       "name": "YouTube",
@@ -167,10 +167,6 @@
       "count": 1
     },
     {
-      "name": "gamebiz【ゲームビズ】",
-      "count": 1
-    },
-    {
       "name": "ワイルズ公式（Steam）",
       "count": 1
     }
@@ -185,7 +181,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-10-07T01:11:34.000Z",
       "sourceCount": 5,
-      "articleCount": 26,
+      "articleCount": 28,
       "categories": [
         "other",
         "guide"
@@ -255,30 +251,29 @@
       ]
     },
     {
-      "id": "954c461eebfa",
-      "title": "モンハンライズ（モンスターハンターライズ）、累計販売本数2000万本達成をカプコンが発表 2021年3月26日の発売から約5年半",
-      "summary": "",
-      "url": "https://mediadogs.jp/2026/10/07/monster-hunter-rise-20-million-sales/",
-      "image": "https://mediadogs.jp/wp-content/uploads/2026/10/monster-hunter-rise-20-million-sales-eyecatch.webp",
-      "leadSource": "https://mediadogs.jp/",
-      "publishedAt": "2026-10-07T04:03:36.000Z",
-      "sourceCount": 4,
-      "articleCount": 4,
+      "id": "950778d7c999",
+      "title": "『モンスターハンターライズ』モバイル版がNetflix経由でリリース予定？iOS/Android版の海外ストアページも公開中―独自の回復ボタンも搭載との記載",
+      "summary": "先日累計販売数2,000万本を突破したシリーズ作に新たな動きが？",
+      "url": "http://www.gamespark.jp/article/2026/10/07/173305.html",
+      "image": "http://www.gamespark.jp/imgs/rss/1203892.jpg",
+      "leadSource": "Game*Spark",
+      "publishedAt": "2026-10-07T13:55:51.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
       "categories": [
-        "sales",
-        "new"
+        "sales"
       ],
       "keywords": [
-        "累計販売本数",
+        "モンスターハンターライズ",
         "万本",
-        "モンスターハンターライズ"
+        "累計販売本数"
       ],
       "articles": [
         {
-          "title": "『モンハンライズ』累計販売本数2000万本を突破。『モンハンワールド』に次いで2番目となるカプコンの2000万本セールスタイトルに",
-          "url": "https://www.famitsu.com/article/202610/90149",
-          "source": "ファミ通",
-          "publishedAt": "2026-10-06T06:12:00.000Z",
+          "title": "『モンスターハンターライズ』の累計販売本数が2,000万本を達成！",
+          "url": "https://gamewith.jp/gamedb/6355/articles/64058",
+          "source": "GameWith",
+          "publishedAt": "2026-10-06T09:36:18.000Z",
           "isPR": false
         },
         {
@@ -286,6 +281,35 @@
           "url": "https://news.denfaminicogamer.jp/news/2610062g",
           "source": "電ファミニコゲーマー",
           "publishedAt": "2026-10-06T06:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "954c461eebfa",
+      "title": "モンハンライズ（モンスターハンターライズ）、累計販売本数2000万本達成をカプコンが発表 2021年3月26日の発売から約5年半",
+      "summary": "",
+      "url": "https://mediadogs.jp/2026/10/07/monster-hunter-rise-20-million-sales/",
+      "image": "https://mediadogs.jp/wp-content/uploads/2026/10/monster-hunter-rise-20-million-sales-eyecatch.webp",
+      "leadSource": "https://mediadogs.jp/",
+      "publishedAt": "2026-10-07T04:03:36.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "sales",
+        "new"
+      ],
+      "keywords": [
+        "累計販売本数",
+        "万本",
+        "カプコン"
+      ],
+      "articles": [
+        {
+          "title": "『モンハンライズ』累計販売本数2000万本を突破。『モンハンワールド』に次いで2番目となるカプコンの2000万本セールスタイトルに",
+          "url": "https://www.famitsu.com/article/202610/90149",
+          "source": "ファミ通",
+          "publishedAt": "2026-10-06T06:12:00.000Z",
           "isPR": false
         },
         {
@@ -459,12 +483,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-08T00:00:16.396Z",
-    "previousCount": 78,
-    "newCount": 5
+    "previousAt": "2026-10-08T00:29:08.352Z",
+    "previousCount": 80,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-08T00:59:08.352Z",
+  "nextUpdateAt": "2026-10-08T01:30:15.432Z",
   "items": [
     {
       "id": "4cd467a24cc4",
@@ -1247,6 +1271,27 @@
       "isNew": false
     },
     {
+      "id": "b332ab39497e",
+      "title": "『モンスターハンターライズ』の累計販売本数が2,000万本を達成！",
+      "url": "https://gamewith.jp/gamedb/6355/articles/64058",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-06T09:36:18.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/6355/rectangle/64058.png?t=1791279384",
+      "categories": [
+        "sales"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "40bccce677c8",
       "title": "【アセンダンス】大剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/485475",
@@ -1620,7 +1665,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e105755b95f7",
@@ -1725,7 +1770,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "92ce6f3315f0",
@@ -1915,6 +1960,27 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "3ea7e53d9b7b",
+      "title": "【モンハンナウ】ガンランスの操作方法と使い方｜解放条件【モンハンNow】",
+      "url": "https://gamewith.jp/monsterhunternow/article/show/453464",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-05T12:10:22.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/453464.png?date=1738833172",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
       "isNew": true
     },
     {
@@ -2042,7 +2108,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b6da795828dc",
@@ -2084,6 +2150,27 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "49a395296167",
+      "title": "【モンハンナウ】トビカガチイベントの開催期間と参加条件【モンハンNow】",
+      "url": "https://gamewith.jp/monsterhunternow/article/show/420450",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-05T10:21:22.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/420450.png?date=1696220748",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
       "isNew": true
     },
     {
@@ -2101,25 +2188,6 @@
       "series": [
         "wilds"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "046d6638f41c",
-      "title": "【今日は何の日？】カプコン、「モンスターハンター」の世界観を基にしたハリウッド映画の製作を決定（2018年10月5日）",
-      "url": "https://gamebiz.jp/news/433468",
-      "host": "gamebiz.jp",
-      "source": "gamebiz【ゲームビズ】",
-      "summary": "",
-      "publishedAt": "2026-10-05T00:45:00.000Z",
-      "image": "https://i3.gamebiz.jp/media/98d70cb9-cb81-4537-ac50-8187e7109765.jpg",
-      "categories": [
-        "media"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
