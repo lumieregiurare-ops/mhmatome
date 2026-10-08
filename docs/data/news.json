@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T09:00:17.380Z",
+  "updatedAt": "2026-10-08T09:30:15.538Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 103,
-  "todayCount": 20,
+  "todayCount": 21,
   "categories": [
     {
       "id": "new",
@@ -115,6 +115,10 @@
       "count": 3
     },
     {
+      "name": "ファミ通",
+      "count": 3
+    },
+    {
       "name": "ゲームウィズ",
       "count": 3
     },
@@ -128,10 +132,6 @@
     },
     {
       "name": "Yahoo!ニュース",
-      "count": 2
-    },
-    {
-      "name": "ファミ通",
       "count": 2
     },
     {
@@ -168,10 +168,6 @@
     },
     {
       "name": "ウォーカープラス",
-      "count": 1
-    },
-    {
-      "name": "ファミ通.com",
       "count": 1
     },
     {
@@ -481,33 +477,6 @@
       ]
     },
     {
-      "id": "7e416608e050",
-      "title": "【モンハンワイルズ】みんなでオメガの練習がしたいです！【参加型】",
-      "summary": "",
-      "url": "https://t.co/C4L3RFEqTy",
-      "image": "",
-      "leadSource": "Howl.link",
-      "publishedAt": "2026-10-06T19:15:20.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other"
-      ],
-      "keywords": [
-        "モンハンワイルズ",
-        "オメガ"
-      ],
-      "articles": [
-        {
-          "title": "【モンハンワイルズ】オメガにリベンジの巻。",
-          "url": "https://t.co/3LbKaHdjN3",
-          "source": "Howl.Link",
-          "publishedAt": "2026-10-06T13:47:56.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "b797c72857dc",
       "title": "『モンスターハンター』から「キリン」と「ゴア・マガラ」の婚約・結婚指輪が登場。ファッションリングとしても使いやすい",
       "summary": "",
@@ -537,12 +506,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-08T08:30:15.976Z",
-    "previousCount": 102,
+    "previousAt": "2026-10-08T09:00:17.380Z",
+    "previousCount": 103,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-08T09:30:17.380Z",
+  "nextUpdateAt": "2026-10-08T10:00:15.538Z",
   "items": [
     {
       "id": "f086231a26ee",
@@ -708,6 +677,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "f9c75703dbe5",
+      "title": "【公式】モンスターハンターワイルズ：アセンダンス (@MH_Wilds) on X",
+      "url": "https://t.co/iyjs3sg1kT",
+      "host": "t.co",
+      "source": "Howl.link",
+      "summary": "",
+      "publishedAt": "2026-10-08T03:07:53.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "7b870642c377",
@@ -942,7 +932,7 @@
       "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
       "url": "https://www.famitsu.com/article/202610/90097",
       "host": "famitsu.com",
-      "source": "ファミ通.com",
+      "source": "ファミ通",
       "summary": "",
       "publishedAt": "2026-10-07T15:00:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/90097/thumbnail_puoB.jpg?x=1280",
@@ -1361,27 +1351,6 @@
       "isNew": false
     },
     {
-      "id": "7e416608e050",
-      "title": "【モンハンワイルズ】みんなでオメガの練習がしたいです！【参加型】",
-      "url": "https://t.co/C4L3RFEqTy",
-      "host": "t.co",
-      "source": "Howl.link",
-      "summary": "",
-      "publishedAt": "2026-10-06T19:15:20.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "382e8ef9275d",
       "title": "【モンハンナウ】3周年アフターパーティ【モンハンNow】",
       "url": "https://gamewith.jp/monsterhunternow/article/show/579605",
@@ -1464,7 +1433,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6d04567428ba",
