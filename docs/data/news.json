@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T15:00:15.069Z",
+  "updatedAt": "2026-10-08T15:30:23.135Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 9
+      "count": 10
     },
     {
       "id": "now",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 17
+      "count": 18
     },
     {
       "name": "GameWith",
@@ -160,10 +160,6 @@
     },
     {
       "name": "https://mediadogs.jp/",
-      "count": 1
-    },
-    {
-      "name": "Howl.Link",
       "count": 1
     },
     {
@@ -368,6 +364,49 @@
       ]
     },
     {
+      "id": "310bc849231e",
+      "title": "【モンハンワイルズ】英雄の証の解放条件と報酬【モンスターハンターワイルズ】",
+      "summary": "",
+      "url": "https://gamewith.jp/mhwilds/545421",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545421.png?date=1771483075",
+      "leadSource": "GameWith",
+      "publishedAt": "2026-10-08T03:12:05.000Z",
+      "sourceCount": 3,
+      "articleCount": 4,
+      "categories": [
+        "other",
+        "guide"
+      ],
+      "keywords": [
+        "モンスターハンターワイルズ",
+        "モンハンワイルズ",
+        "報酬"
+      ],
+      "articles": [
+        {
+          "title": "【MHWs】英雄の証弓ソロ18'20\"09 モンスターハンターワイルズ",
+          "url": "https://youtu.be/g4twMZRDsCU?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-07T18:49:42.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】英傑に愛を込めての攻略と報酬【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/545381",
+          "source": "GameWith",
+          "publishedAt": "2026-10-07T16:26:25.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】極熱重鎧グラビモスの報酬と周回装備【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/492800",
+          "source": "ゲームウィズ",
+          "publishedAt": "2026-10-06T17:48:35.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "4cd467a24cc4",
       "title": "【アセンダンス】双剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "summary": "",
@@ -412,42 +451,6 @@
           "url": "https://gamewith.jp/mhwilds/577281",
           "source": "GameWith",
           "publishedAt": "2026-10-06T10:30:15.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "310bc849231e",
-      "title": "【モンハンワイルズ】英雄の証の解放条件と報酬【モンスターハンターワイルズ】",
-      "summary": "",
-      "url": "https://gamewith.jp/mhwilds/545421",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545421.png?date=1771483075",
-      "leadSource": "GameWith",
-      "publishedAt": "2026-10-08T03:12:05.000Z",
-      "sourceCount": 2,
-      "articleCount": 3,
-      "categories": [
-        "other",
-        "guide"
-      ],
-      "keywords": [
-        "モンスターハンターワイルズ",
-        "モンハンワイルズ",
-        "報酬"
-      ],
-      "articles": [
-        {
-          "title": "【モンハンワイルズ】英傑に愛を込めての攻略と報酬【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/545381",
-          "source": "GameWith",
-          "publishedAt": "2026-10-07T16:26:25.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ】極熱重鎧グラビモスの報酬と周回装備【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/492800",
-          "source": "ゲームウィズ",
-          "publishedAt": "2026-10-06T17:48:35.000Z",
           "isPR": false
         }
       ]
@@ -538,12 +541,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-08T14:30:15.095Z",
-    "previousCount": 67,
-    "newCount": 0
+    "previousAt": "2026-10-08T15:00:15.069Z",
+    "previousCount": 66,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-08T15:30:15.069Z",
+  "nextUpdateAt": "2026-10-08T16:00:23.135Z",
   "items": [
     {
       "id": "e6d79acfa4bd",
@@ -936,6 +939,28 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "c1a573849a44",
+      "title": "【MHWs】英雄の証弓ソロ18'20\"09 モンスターハンターワイルズ",
+      "url": "https://youtu.be/g4twMZRDsCU?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-07T18:49:42.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "d605748fb698",
@@ -1553,27 +1578,6 @@
       "isNew": false
     },
     {
-      "id": "b13159326bc0",
-      "title": "【モンハンワイルズ】オメガにリベンジの巻。",
-      "url": "https://t.co/3LbKaHdjN3",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-10-06T13:47:56.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "9f3a5283d459",
       "title": "『モンハンNow』拠点要撃戦に異変あり!? 3周年だからいつもと様子が違う装備強化促進クエストガイド",
       "url": "https://getnews.jp/archives/3747336",
@@ -1750,7 +1754,7 @@
       "source": "ライズ公式（Steam）",
       "summary": "To celebrate, please enjoy this Dango filled special artwork from the team. Th…",
       "publishedAt": "2026-10-06T07:14:40.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/41286238/2fd72d0cfbd5f9138dbac78c9d7c175e27dfec20.jpg",
+      "image": "https://clan.fastly.steamstatic.com/images/41286238/2fd72d0cfbd5f9138dbac78c9d7c175e27dfec20.jpg",
       "categories": [
         "other"
       ],
@@ -1895,7 +1899,7 @@
       "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-10-05T22:31:46.000Z",
-      "image": "https://i.ytimg.com/vi/pDnK4AwIDds/maxresdefault.jpg",
+      "image": "",
       "categories": [
         "guide"
       ],
@@ -1916,7 +1920,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "\"Monster Hunter Wilds\"—whose major expansion releases in 2027— is on sale for for 25% off! But there's more! The \"Monster Hunter Series Pack,\" (Bundle) which c…",
       "publishedAt": "2026-10-02T08:34:04.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/44795648/30302d9fc79a793f9d6a4ba736148303013217c0.jpg",
+      "image": "https://clan.fastly.steamstatic.com/images/44795648/30302d9fc79a793f9d6a4ba736148303013217c0.jpg",
       "categories": [
         "other"
       ],
