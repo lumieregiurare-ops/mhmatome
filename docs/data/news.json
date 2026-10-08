@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-08T04:00:14.691Z",
+  "updatedAt": "2026-10-08T04:30:16.197Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 91,
+  "total": 90,
   "todayCount": 11,
   "categories": [
     {
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 60
+      "count": 59
     }
   ],
   "series": [
@@ -79,12 +79,12 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 9
+      "count": 10
     },
     {
       "id": "now",
       "label": "Now",
-      "count": 32
+      "count": 31
     },
     {
       "id": "stories",
@@ -104,18 +104,14 @@
     },
     {
       "name": "YouTube",
-      "count": 16
+      "count": 17
     },
     {
       "name": "ゲームウィズ",
-      "count": 5
+      "count": 4
     },
     {
       "name": "インサイド",
-      "count": 3
-    },
-    {
-      "name": "Howl.Link",
       "count": 3
     },
     {
@@ -128,6 +124,10 @@
     },
     {
       "name": "Howl.link",
+      "count": 2
+    },
+    {
+      "name": "Howl.Link",
       "count": 2
     },
     {
@@ -188,8 +188,8 @@
       "image": "https://rensai.jp/wp-content/uploads/2026/10/c3e50defa7e871a1d10562a6921070c1.jpg",
       "leadSource": "GameWith",
       "publishedAt": "2026-10-07T01:11:34.000Z",
-      "sourceCount": 5,
-      "articleCount": 33,
+      "sourceCount": 4,
+      "articleCount": 32,
       "categories": [
         "other",
         "guide"
@@ -534,12 +534,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-08T03:30:17.405Z",
-    "previousCount": 89,
-    "newCount": 3
+    "previousAt": "2026-10-08T04:00:14.691Z",
+    "previousCount": 91,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-08T04:30:14.691Z",
+  "nextUpdateAt": "2026-10-08T05:00:16.197Z",
   "items": [
     {
       "id": "c1e899c93915",
@@ -558,7 +558,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7b870642c377",
@@ -725,7 +725,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0b68bd1287fd",
@@ -1212,6 +1212,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "4864dee8676f",
+      "title": "【MHWilds】歴戦王ジンダハド「凍え知れ、安寧の睡郷」ソロヘビィ火事場 4分58秒 Arch-Tempered Jin Dahaad Solo Heavy Bowgun Heroics",
+      "url": "https://youtu.be/EepwneiNNwA?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-06T15:55:39.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "6d04567428ba",
@@ -1737,27 +1759,6 @@
       "isNew": false
     },
     {
-      "id": "68622afc9378",
-      "title": "【VTuber】片手剣の練度を上げたい！最近安定してきた【モンハンワイルズ】",
-      "url": "https://t.co/SwKlvMHYwo",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-10-05T13:39:40.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "dfc29c6658af",
       "title": "【設定6実戦】『スマスロ モンスターハンターライズ：サンブレイク』の設定差考察！ CZ・終了画面",
       "url": "https://p-town.dmm.com/specials/5456",
@@ -2177,27 +2178,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "0ecf9ad015c1",
-      "title": "【モンハンナウ】シーズン2 クライマックスの開催期間とクエスト情報【モンハンNow】",
-      "url": "https://gamewith.jp/monsterhunternow/article/show/461586",
-      "host": "gamewith.jp",
-      "source": "ゲームウィズ",
-      "summary": "",
-      "publishedAt": "2026-10-05T12:07:39.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/461586.png?date=1724746393",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "cdc41bd20db7",
