@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-08T23:59:55.870Z",
+  "updatedAt": "2026-10-09T00:30:15.416Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 67,
+  "total": 68,
   "todayCount": 5,
   "categories": [
     {
@@ -27,7 +27,7 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 1
+      "count": 2
     },
     {
       "id": "goods",
@@ -104,18 +104,22 @@
     },
     {
       "name": "ゲームウィズ",
-      "count": 17
+      "count": 18
     },
     {
       "name": "Yahoo!ニュース",
       "count": 3
     },
     {
-      "name": "GameWith",
-      "count": 3
+      "name": "PR TIMES",
+      "count": 2
     },
     {
-      "name": "PR TIMES",
+      "name": "ウォーカープラス",
+      "count": 2
+    },
+    {
+      "name": "GameWith",
       "count": 2
     },
     {
@@ -152,10 +156,6 @@
     },
     {
       "name": "XBOX Wire",
-      "count": 1
-    },
-    {
-      "name": "ウォーカープラス",
       "count": 1
     },
     {
@@ -507,12 +507,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-08T23:30:15.456Z",
-    "previousCount": 66,
+    "previousAt": "2026-10-08T23:59:55.870Z",
+    "previousCount": 67,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-09T00:29:55.870Z",
+  "nextUpdateAt": "2026-10-09T01:00:15.416Z",
   "items": [
     {
       "id": "dbc7510283b9",
@@ -533,7 +533,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "174b90ed317d",
@@ -1296,7 +1296,7 @@
       "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/575038",
       "host": "gamewith.jp",
-      "source": "GameWith",
+      "source": "ゲームウィズ",
       "summary": "",
       "publishedAt": "2026-10-07T05:22:21.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575038.png?date=1789770323",
@@ -1745,7 +1745,7 @@
       "source": "ライズ公式（Steam）",
       "summary": "To celebrate, please enjoy this Dango filled special artwork from the team. Th…",
       "publishedAt": "2026-10-06T07:14:40.000Z",
-      "image": "https://clan.fastly.steamstatic.com/images/41286238/2fd72d0cfbd5f9138dbac78c9d7c175e27dfec20.jpg",
+      "image": "https://clan.akamai.steamstatic.com/images/41286238/2fd72d0cfbd5f9138dbac78c9d7c175e27dfec20.jpg",
       "categories": [
         "other"
       ],
@@ -1778,6 +1778,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "bb1a9186e9b0",
+      "title": "インパクト満点のゲーム飯が登場！『モンハン』の世界観をコラボメニューで体感",
+      "url": "https://www.walkerplus.com/article/213409/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-06T07:00:00.000Z",
+      "image": "https://news.walkerplus.com/article/213409/1315717_615.jpg",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "18ad834354e7",
@@ -1911,7 +1930,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "\"Monster Hunter Wilds\"—whose major expansion releases in 2027— is on sale for for 25% off! But there's more! The \"Monster Hunter Series Pack,\" (Bundle) which c…",
       "publishedAt": "2026-10-02T08:34:04.000Z",
-      "image": "https://clan.fastly.steamstatic.com/images/44795648/30302d9fc79a793f9d6a4ba736148303013217c0.jpg",
+      "image": "https://clan.akamai.steamstatic.com/images/44795648/30302d9fc79a793f9d6a4ba736148303013217c0.jpg",
       "categories": [
         "other"
       ],
