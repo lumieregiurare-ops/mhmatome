@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-09T17:30:18.330Z",
+  "updatedAt": "2026-10-09T18:00:16.875Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 61,
+  "total": 62,
   "todayCount": 1,
   "categories": [
     {
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 47
+      "count": 48
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 37
+      "count": 38
     },
     {
       "id": "rise",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 17
+      "count": 15
     },
     {
       "name": "YouTube",
@@ -112,7 +112,7 @@
     },
     {
       "name": "ゲームウィズ",
-      "count": 3
+      "count": 5
     },
     {
       "name": "電撃オンライン",
@@ -140,6 +140,10 @@
     },
     {
       "name": "キャラグー",
+      "count": 1
+    },
+    {
+      "name": "Unisba Media",
       "count": 1
     },
     {
@@ -204,7 +208,7 @@
       "image": "https://cimg.kgl-systems.io/camion/files/famitsu/89516/a8a6cfbaca45ed10861c7b9a42a0e45da.jpg?x=1280",
       "leadSource": "ファミ通",
       "publishedAt": "2026-10-09T12:37:39.000Z",
-      "sourceCount": 5,
+      "sourceCount": 6,
       "articleCount": 11,
       "categories": [
         "other",
@@ -247,8 +251,15 @@
         {
           "title": "【モンハンワイルズ】英傑に愛を込めての攻略と報酬【モンスターハンターワイルズ】",
           "url": "https://gamewith.jp/mhwilds/545381",
-          "source": "GameWith",
+          "source": "ゲームウィズ",
           "publishedAt": "2026-10-09T07:57:15.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/574841",
+          "source": "ゲームウィズ",
+          "publishedAt": "2026-10-09T07:50:40.000Z",
           "isPR": false
         },
         {
@@ -263,13 +274,6 @@
           "url": "https://gamewith.jp/mhwilds/563077",
           "source": "GameWith",
           "publishedAt": "2026-10-09T03:20:37.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/574841",
-          "source": "GameWith",
-          "publishedAt": "2026-10-08T15:02:26.000Z",
           "isPR": false
         }
       ]
@@ -504,12 +508,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-09T17:00:16.707Z",
-    "previousCount": 64,
-    "newCount": 0
+    "previousAt": "2026-10-09T17:30:18.330Z",
+    "previousCount": 61,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-09T18:00:18.330Z",
+  "nextUpdateAt": "2026-10-09T18:30:16.875Z",
   "items": [
     {
       "id": "e6d79acfa4bd",
@@ -682,12 +686,33 @@
       "title": "【モンハンワイルズ】英傑に愛を込めての攻略と報酬【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/545381",
       "host": "gamewith.jp",
-      "source": "GameWith",
+      "source": "ゲームウィズ",
       "summary": "",
       "publishedAt": "2026-10-09T07:57:15.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545381.png?date=1771384851",
       "categories": [
         "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "d605748fb698",
+      "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/574841",
+      "host": "gamewith.jp",
+      "source": "ゲームウィズ",
+      "summary": "",
+      "publishedAt": "2026-10-09T07:50:40.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574841.png?date=1789771579",
+      "categories": [
+        "other"
       ],
       "series": [
         "wilds"
@@ -780,6 +805,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "4485f34c6f0c",
+      "title": "SPゲストはサンシャイン池崎&ゴー☆ジャス！『モンスターハンターワイルズ』マルチプレイなどに挑戦！｜カプコンTV!! 4/24(木)よる8時スタート！ Twins Vs Guardians (Un2fD2J0eB)",
+      "url": "https://media.unisba.ac.id/8a2aa60f/33daa4112c8BHTuN6p8",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-10-09T01:13:27.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "dbc7510283b9",
@@ -914,27 +960,6 @@
       "summary": "",
       "publishedAt": "2026-10-08T15:27:10.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575038.png?date=1789770323",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d605748fb698",
-      "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/574841",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-08T15:02:26.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574841.png?date=1789771579",
       "categories": [
         "other"
       ],
@@ -1411,7 +1436,7 @@
     {
       "id": "f331553c2278",
       "title": "モンスターハンターライズ、スマホ版が登場。ただしネットフリックス契約が必要",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qbFp2LVctRTdrTllicVYzWGZvOXdBM29IT1RQVmVEa0M2cVcwN052RFQ2clBYNUJsWmJRc0JfcFViVi03Y0pwWld4aGc1cWR6SGwzV0NrT19HZUJOTTF4azUzbEoxQjhFaFFvR1B5TGMzaFRjN0FtQXFR0gGCAUFVX3lxTE04NG9UZGtXLUVPSkE0aW9QZEV5bllSdWg5Q0c3QXNPc3V6OW1oR2hTa25DYWtUQmpHZFZNdzZlV0FBdzlSVXJpUFRtTXN6UjFJcEplQ3p6bkFSQWE5NzVXQ09DTzRGSUpyb2xSQzYzaklfbkN4aVBUbHR2Yk1UOHhGLVE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNODRvVGRrVy1FT0pBNGlvUGRFeW5ZUnVoOUNHN0FzT3N1ejltaEdoU2tuQ2FrVEJqR2RWTXc2ZVdBQXc5UlVyaVBUbU1zelIxSXBKZUN6em5BUkFhOTc1V0NPQ080RklKcm9sUkM2M2pJX25DeGlQVGx0dmJNVDh4Ri1R0gGCAUFVX3lxTE04NG9UZGtXLUVPSkE0aW9QZEV5bllSdWg5Q0c3QXNPc3V6OW1oR2hTa25DYWtUQmpHZFZNdzZlV0FBdzlSVXJpUFRtTXN6UjFJcEplQ3p6bkFSQWE5NzVXQ09DTzRGSUpyb2xSQzYzaklfbkN4aVBUbHR2Yk1UOHhGLVE?oc=5",
       "host": "ga-m.com",
       "source": "ゲームメモ",
       "summary": "",
