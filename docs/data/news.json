@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-09T22:00:16.224Z",
+  "updatedAt": "2026-10-09T22:30:14.052Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 62,
+  "total": 61,
   "todayCount": 2,
   "categories": [
     {
@@ -57,7 +57,7 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 3
+      "count": 2
     },
     {
       "id": "other",
@@ -74,12 +74,12 @@
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 7
+      "count": 6
     },
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 5
+      "count": 4
     },
     {
       "id": "now",
@@ -100,11 +100,11 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 16
+      "count": 17
     },
     {
       "name": "YouTube",
-      "count": 11
+      "count": 10
     },
     {
       "name": "ファミ通",
@@ -171,11 +171,11 @@
       "count": 1
     },
     {
-      "name": "cinemacafe.net",
+      "name": "XBOX Wire",
       "count": 1
     },
     {
-      "name": "XBOX Wire",
+      "name": "アニメ！アニメ！",
       "count": 1
     },
     {
@@ -184,10 +184,6 @@
     },
     {
       "name": "https://mediadogs.jp/",
-      "count": 1
-    },
-    {
-      "name": "GameBusiness.jp",
       "count": 1
     },
     {
@@ -439,42 +435,6 @@
       ]
     },
     {
-      "id": "18ad834354e7",
-      "title": "『モンハンライズ』累計販売本数2000万本を突破。『モンハンワールド』に次いで2番目となるカプコンの2000万本セールスタイトルに",
-      "summary": "",
-      "url": "https://www.famitsu.com/article/images/202610/90149/893547",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90149/a813346708237af679dd3a501cb29edac.jpg?x=1280",
-      "leadSource": "ファミ通",
-      "publishedAt": "2026-10-08T04:00:00.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "sales",
-        "sale"
-      ],
-      "keywords": [
-        "累計販売本数",
-        "万本",
-        "カプコン"
-      ],
-      "articles": [
-        {
-          "title": "モンハンライズ（モンスターハンターライズ）、累計販売本数2000万本達成をカプコンが発表 2021年3月26日の発売から約5年半",
-          "url": "https://mediadogs.jp/2026/10/07/monster-hunter-rise-20-million-sales/",
-          "source": "https://mediadogs.jp/",
-          "publishedAt": "2026-10-07T04:03:36.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『モンスターハンターライズ』累計販売本数2,000万本を達成！発売から約5年半で到達、現在も根強い人気",
-          "url": "https://www.gamebusiness.jp/article/2026/10/07/28238.html",
-          "source": "GameBusiness.jp",
-          "publishedAt": "2026-10-06T22:15:02.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "382e8ef9275d",
       "title": "【モンハンナウ】3周年アフターパーティ【モンハンNow】",
       "summary": "",
@@ -508,15 +468,44 @@
           "isPR": false
         }
       ]
+    },
+    {
+      "id": "18ad834354e7",
+      "title": "『モンハンライズ』累計販売本数2000万本を突破。『モンハンワールド』に次いで2番目となるカプコンの2000万本セールスタイトルに",
+      "summary": "",
+      "url": "https://www.famitsu.com/article/images/202610/90149/893547",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90149/a813346708237af679dd3a501cb29edac.jpg?x=1280",
+      "leadSource": "ファミ通",
+      "publishedAt": "2026-10-08T04:00:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "sales",
+        "sale"
+      ],
+      "keywords": [
+        "カプコン",
+        "モンハンライズ",
+        "累計販売本数"
+      ],
+      "articles": [
+        {
+          "title": "モンハンライズ（モンスターハンターライズ）、累計販売本数2000万本達成をカプコンが発表 2021年3月26日の発売から約5年半",
+          "url": "https://mediadogs.jp/2026/10/07/monster-hunter-rise-20-million-sales/",
+          "source": "https://mediadogs.jp/",
+          "publishedAt": "2026-10-07T04:03:36.000Z",
+          "isPR": false
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-09T21:30:15.978Z",
-    "previousCount": 63,
-    "newCount": 0
+    "previousAt": "2026-10-09T22:00:16.224Z",
+    "previousCount": 62,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-09T22:30:16.224Z",
+  "nextUpdateAt": "2026-10-09T23:00:14.052Z",
   "items": [
     {
       "id": "010ece4575cd",
@@ -683,6 +672,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "488c58093be3",
+      "title": "【アセンダンス】ガンランスの操作と新要素・ブーストアクション【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/577811",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-09T09:38:11.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577811.png?date=1789764143",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "0241990d226c",
@@ -1290,25 +1300,6 @@
       "isNew": false
     },
     {
-      "id": "c1e899c93915",
-      "title": "東映、映画OPの配給マークが初の擬人化!? 「ポケモン」「モンハン」タケウチリョースケ 描き下ろしの新キャラ「あらいなみ T081」誕生",
-      "url": "https://www.cinemacafe.net/article/2026/10/08/113185.html",
-      "host": "cinemacafe.net",
-      "source": "cinemacafe.net",
-      "summary": "",
-      "publishedAt": "2026-10-08T06:00:04.000Z",
-      "image": "https://www.cinemacafe.net/imgs/ogp_f/838443.jpg",
-      "categories": [
-        "media"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "60cdabba4ded",
       "title": "スイッチ2版『モンハンワイルズ』携帯モードでリオレイアを狩猟！戦闘中も快適？フィールド移動の様子までわかる実機映像が公開（Game Spark）",
       "url": "https://news.yahoo.co.jp/articles/a05c644f24154efeb73144e2e2f2ec0934893401",
@@ -1388,6 +1379,25 @@
         "rise",
         "world"
       ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "c1e899c93915",
+      "title": "東映、映画OPの配給マークが初の擬人化!? 「ポケモン」「モンハン」タケウチリョースケ 描き下ろしの新キャラ「あらいなみ T081」誕生",
+      "url": "https://animeanime.jp/article/2026/10/08/103609.html",
+      "host": "animeanime.jp",
+      "source": "アニメ！アニメ！",
+      "summary": "",
+      "publishedAt": "2026-10-08T03:30:03.000Z",
+      "image": "https://animeanime.jp/imgs/ogp_f/940623.jpg",
+      "categories": [
+        "media"
+      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1746,49 +1756,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "fc97253ed2b9",
-      "title": "[MHWilds/PS5] 歴戦王ジン・ダハド 大剣ソロ 05'08\"29 フリーチャレンジクエスト 火事場 サブ笛/ Arch Tempered Jin Dahaad GreatSword solo",
-      "url": "https://youtu.be/zEtwSu6Enuw",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-07T00:15:09.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "a197bccc8e78",
-      "title": "『モンスターハンターライズ』累計販売本数2,000万本を達成！発売から約5年半で到達、現在も根強い人気",
-      "url": "https://www.gamebusiness.jp/article/2026/10/07/28238.html",
-      "host": "gamebusiness.jp",
-      "source": "GameBusiness.jp",
-      "summary": "",
-      "publishedAt": "2026-10-06T22:15:02.000Z",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/199025.jpg",
-      "categories": [
-        "sales"
-      ],
-      "series": [
-        "rise"
       ],
       "isOfficial": false,
       "isPR": false,
