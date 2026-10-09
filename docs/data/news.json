@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-09T09:00:20.037Z",
+  "updatedAt": "2026-10-09T09:30:16.694Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 68,
-  "todayCount": 13,
+  "total": 69,
+  "todayCount": 15,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 8
+      "count": 7
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 50
+      "count": 52
     }
   ],
   "series": [
@@ -104,14 +104,18 @@
     },
     {
       "name": "YouTube",
-      "count": 19
+      "count": 18
+    },
+    {
+      "name": "ファミ通",
+      "count": 3
     },
     {
       "name": "電撃オンライン",
       "count": 2
     },
     {
-      "name": "ファミ通",
+      "name": "ウォーカープラス",
       "count": 2
     },
     {
@@ -164,10 +168,6 @@
     },
     {
       "name": "XBOX Wire",
-      "count": 1
-    },
-    {
-      "name": "ウォーカープラス",
       "count": 1
     },
     {
@@ -537,13 +537,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-09T08:30:15.481Z",
-    "previousCount": 71,
-    "newCount": 1
+    "previousAt": "2026-10-09T09:00:20.037Z",
+    "previousCount": 68,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-09T09:30:20.037Z",
+  "nextUpdateAt": "2026-10-09T10:00:16.694Z",
   "items": [
+    {
+      "id": "2e7bd298d052",
+      "title": "11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月13日まで】",
+      "url": "https://www.famitsu.com/article/202610/89516",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-10-09T09:00:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/89516/thumbnail_yUuz.jpg?x=1280",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "98a6e98e966e",
       "title": "『モンスターハンター ストーリーズ』シリーズ10周年！ 歴代キャラ大集結ビジュアル公開",
@@ -729,6 +750,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "d9e4ebe24626",
+      "title": "かわい過ぎて食べられない！戦国BASARAとモンハンのクリスマスケーキ",
+      "url": "https://www.walkerplus.com/article/93548/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-08T20:20:58.000Z",
+      "image": "https://news.walkerplus.com/article/93548/522406_615.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "010ece4575cd",
@@ -1207,7 +1247,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "70688df1f73f",
@@ -1455,27 +1495,6 @@
       "image": "",
       "categories": [
         "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "19d62a2897e0",
-      "title": "【歴戦王アルシュベルド完封？】ガード最強×フルバ爆発！ネチネチガンランス改良版装備紹介【モンハンワイルズ】",
-      "url": "https://youtu.be/I9Vl7ev9rnE?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-07T09:07:47.000Z",
-      "image": "",
-      "categories": [
-        "guide"
       ],
       "series": [
         "wilds"
@@ -1961,7 +1980,7 @@
       "source": "ライズ公式（Steam）",
       "summary": "To celebrate, please enjoy this Dango filled special artwork from the team. Th…",
       "publishedAt": "2026-10-06T07:14:40.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/41286238/2fd72d0cfbd5f9138dbac78c9d7c175e27dfec20.jpg",
+      "image": "https://clan.fastly.steamstatic.com/images/41286238/2fd72d0cfbd5f9138dbac78c9d7c175e27dfec20.jpg",
       "categories": [
         "other"
       ],
