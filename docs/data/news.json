@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-09T03:30:16.898Z",
+  "updatedAt": "2026-10-09T04:00:16.330Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 68,
-  "todayCount": 9,
+  "total": 70,
+  "todayCount": 10,
   "categories": [
     {
       "id": "new",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 52
+      "count": 54
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 40
+      "count": 42
     },
     {
       "id": "rise",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 19
+      "count": 20
     },
     {
       "name": "ゲームウィズ",
@@ -108,6 +108,10 @@
     },
     {
       "name": "インサイド",
+      "count": 2
+    },
+    {
+      "name": "ウォーカープラス",
       "count": 2
     },
     {
@@ -160,10 +164,6 @@
     },
     {
       "name": "XBOX Wire",
-      "count": 1
-    },
-    {
-      "name": "ウォーカープラス",
       "count": 1
     },
     {
@@ -295,7 +295,7 @@
       "title": "モンハンライズ（モンスターハンターライズ）、累計販売本数2000万本達成をカプコンが発表 2021年3月26日の発売から約5年半",
       "summary": "",
       "url": "https://mediadogs.jp/2026/10/07/monster-hunter-rise-20-million-sales/",
-      "image": "https://mediadogs.jp/wp-content/uploads/2026/10/monster-hunter-rise-20-million-sales-eyecatch.webp",
+      "image": "https://cimg.kgl-systems.io/camion/files/90149/thumbnail_EvtH.jpg?x=1280",
       "leadSource": "https://mediadogs.jp/",
       "publishedAt": "2026-10-07T04:03:36.000Z",
       "sourceCount": 4,
@@ -491,12 +491,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-09T03:00:15.843Z",
-    "previousCount": 67,
-    "newCount": 1
+    "previousAt": "2026-10-09T03:30:16.898Z",
+    "previousCount": 68,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-09T04:00:16.898Z",
+  "nextUpdateAt": "2026-10-09T04:30:16.330Z",
   "items": [
     {
       "id": "60cdabba4ded",
@@ -537,7 +537,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "dbc7510283b9",
@@ -580,6 +580,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "d9e4ebe24626",
+      "title": "かわい過ぎて食べられない！戦国BASARAとモンハンのクリスマスケーキ",
+      "url": "https://www.walkerplus.com/article/93548/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-08T20:20:58.000Z",
+      "image": "https://news.walkerplus.com/article/93548/522406_615.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "010ece4575cd",
@@ -934,6 +953,27 @@
       "isNew": false
     },
     {
+      "id": "480edc27831f",
+      "title": "【モンハンワイルズ】約束をすっぽかして反省狩 4日目・歴戦王アルシュベルド☆１０",
+      "url": "https://youtu.be/xlgDpmgrqqY?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-08T05:02:33.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "d721e563897e",
       "title": "『モンスターハンターストーリーズ3 ～運命の双竜～』が 2026 年 11 月 18 日より XBOX on PC 向けに発売、XBOX Play Anywhere に対応",
       "url": "https://news.xbox.com/ja-jp/2026/10/08/play-monster-hunter-stories-3-on-xbox-on-pc-and-xbox-play-anywhere/",
@@ -1139,25 +1179,6 @@
         "wilds",
         "world"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "8362011a9f72",
-      "title": "チャレクエ 解鎖のアルシュベルド 双剣 ソロ 04'58\"63",
-      "url": "https://youtu.be/rDM1kPBIzkA?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-07T17:28:22.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1406,7 +1427,7 @@
       "source": "https://mediadogs.jp/",
       "summary": "",
       "publishedAt": "2026-10-07T04:03:36.000Z",
-      "image": "https://mediadogs.jp/wp-content/uploads/2026/10/monster-hunter-rise-20-million-sales-eyecatch.webp",
+      "image": "",
       "categories": [
         "sales",
         "new"
@@ -1419,6 +1440,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "4158b45d516e",
+      "title": "【モンハンワイルズ】約束をすっぽかして反省狩 3日目・歴戦王ウズトゥナ☆１０",
+      "url": "https://youtu.be/kqHmdYU3NuE?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-07T03:58:41.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "7b870642c377",
@@ -1718,12 +1760,12 @@
     {
       "id": "e8b869ac88ff",
       "title": "【モンハン】ふわふわで夢の抱き心地!! 『モンスターハンターワイルズ』のキャンプギアを再現したネコ型クッションが登場！",
-      "url": "https://dengekionline.com/article/images/202610/90082/892823",
+      "url": "https://dengekionline.com/article/images/202610/90082/892821",
       "host": "dengekionline.com",
       "source": "電撃オンライン",
       "summary": "",
       "publishedAt": "2026-10-06T10:01:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/dengeki/90082/a2791244df0fdc7dfca165c2a7d8b8cb2.jpg?x=1280",
+      "image": "https://cimg.kgl-systems.io/camion/files/dengeki/90082/a8f657caa8b54c42872e98ea4e289bda5.jpg?x=1280",
       "categories": [
         "other"
       ],
