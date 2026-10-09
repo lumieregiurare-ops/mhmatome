@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T05:56:47.979Z",
+  "updatedAt": "2026-10-09T06:30:16.285Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -57,12 +57,12 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 4
+      "count": 3
     },
     {
       "id": "other",
       "label": "その他",
-      "count": 52
+      "count": 53
     }
   ],
   "series": [
@@ -100,15 +100,11 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 20
+      "count": 21
     },
     {
       "name": "ゲームウィズ",
       "count": 18
-    },
-    {
-      "name": "Game*Spark",
-      "count": 3
     },
     {
       "name": "ウォーカープラス",
@@ -120,6 +116,10 @@
     },
     {
       "name": "ファミ通",
+      "count": 2
+    },
+    {
+      "name": "Game*Spark",
       "count": 2
     },
     {
@@ -179,6 +179,10 @@
       "count": 1
     },
     {
+      "name": "GameBusiness.jp",
+      "count": 1
+    },
+    {
       "name": "ガジェット通信 GetNews",
       "count": 1
     },
@@ -200,10 +204,6 @@
     },
     {
       "name": "ライズ公式（Steam）",
-      "count": 1
-    },
-    {
-      "name": "電ファミニコゲーマー",
       "count": 1
     },
     {
@@ -286,49 +286,6 @@
           "url": "https://youtu.be/g4twMZRDsCU?si",
           "source": "YouTube",
           "publishedAt": "2026-10-07T18:49:42.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "954c461eebfa",
-      "title": "モンハンライズ（モンスターハンターライズ）、累計販売本数2000万本達成をカプコンが発表 2021年3月26日の発売から約5年半",
-      "summary": "",
-      "url": "https://mediadogs.jp/2026/10/07/monster-hunter-rise-20-million-sales/",
-      "image": "https://mediadogs.jp/wp-content/uploads/2026/10/monster-hunter-rise-20-million-sales-eyecatch.webp",
-      "leadSource": "https://mediadogs.jp/",
-      "publishedAt": "2026-10-07T04:03:36.000Z",
-      "sourceCount": 4,
-      "articleCount": 4,
-      "categories": [
-        "sales",
-        "new"
-      ],
-      "keywords": [
-        "累計販売本数",
-        "万本",
-        "モンスターハンターライズ"
-      ],
-      "articles": [
-        {
-          "title": "『モンハンライズ』累計販売本数2000万本を突破。『モンハンワールド』に次いで2番目となるカプコンの2000万本セールスタイトルに",
-          "url": "https://www.famitsu.com/article/202610/90149",
-          "source": "ファミ通",
-          "publishedAt": "2026-10-06T06:12:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『モンスターハンターライズ』累計販売本数2,000万本を達成！発売から約5年半で到達、現在も根強い人気",
-          "url": "https://www.gamespark.jp/article/2026/10/06/173218.html",
-          "source": "Game*Spark",
-          "publishedAt": "2026-10-06T06:06:27.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『モンスターハンターライズ』が累計販売本数2000万本を達成。カムラの里の仲間たちが描かれた記念イラストが公開",
-          "url": "https://news.denfaminicogamer.jp/news/2610062g",
-          "source": "電ファミニコゲーマー",
-          "publishedAt": "2026-10-06T06:00:00.000Z",
           "isPR": false
         }
       ]
@@ -420,6 +377,42 @@
       ]
     },
     {
+      "id": "954c461eebfa",
+      "title": "モンハンライズ（モンスターハンターライズ）、累計販売本数2000万本達成をカプコンが発表 2021年3月26日の発売から約5年半",
+      "summary": "",
+      "url": "https://mediadogs.jp/2026/10/07/monster-hunter-rise-20-million-sales/",
+      "image": "https://mediadogs.jp/wp-content/uploads/2026/10/monster-hunter-rise-20-million-sales-eyecatch.webp",
+      "leadSource": "https://mediadogs.jp/",
+      "publishedAt": "2026-10-07T04:03:36.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "sales",
+        "new"
+      ],
+      "keywords": [
+        "累計販売本数",
+        "万本",
+        "カプコン"
+      ],
+      "articles": [
+        {
+          "title": "『モンスターハンターライズ』累計販売本数2,000万本を達成！発売から約5年半で到達、現在も根強い人気",
+          "url": "https://www.gamebusiness.jp/article/2026/10/07/28238.html",
+          "source": "GameBusiness.jp",
+          "publishedAt": "2026-10-06T22:15:02.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『モンハンライズ』累計販売本数2000万本を突破。『モンハンワールド』に次いで2番目となるカプコンの2000万本セールスタイトルに",
+          "url": "https://www.famitsu.com/article/images/202610/90149/893547",
+          "source": "ファミ通",
+          "publishedAt": "2026-10-06T10:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "40bccce677c8",
       "title": "【アセンダンス】大剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "summary": "",
@@ -463,12 +456,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-09T05:30:14.114Z",
-    "previousCount": 70,
-    "newCount": 0
+    "previousAt": "2026-10-09T05:56:47.979Z",
+    "previousCount": 69,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-09T06:26:47.979Z",
+  "nextUpdateAt": "2026-10-09T07:00:16.285Z",
   "items": [
     {
       "id": "60cdabba4ded",
@@ -1330,6 +1323,27 @@
       "isNew": false
     },
     {
+      "id": "1bcad69378b6",
+      "title": "【新台スマスロ】「 スマスロ モンスターハンターライズ：サンブレイク」設定６の挙動お見せします！【スマスロ・スマパチ実戦】モンハン・アイルー",
+      "url": "https://youtu.be/OjDFiLzaeP8?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-07T09:00:19.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "0fa0ea128c6f",
       "title": "【MHWilds PS5】 孤独から出でし君という自由 歴戦王アルシュベルド 太刀 宣戦呼応II採用 食事火事場 6'23\"90 捕獲",
       "url": "https://youtu.be/iBk0Q-9xK3U?si",
@@ -1514,6 +1528,27 @@
       "series": [
         "wilds",
         "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "a197bccc8e78",
+      "title": "『モンスターハンターライズ』累計販売本数2,000万本を達成！発売から約5年半で到達、現在も根強い人気",
+      "url": "https://www.gamebusiness.jp/article/2026/10/07/28238.html",
+      "host": "gamebusiness.jp",
+      "source": "GameBusiness.jp",
+      "summary": "",
+      "publishedAt": "2026-10-06T22:15:02.000Z",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/199025.jpg",
+      "categories": [
+        "sales"
+      ],
+      "series": [
+        "rise"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1713,12 +1748,12 @@
     {
       "id": "e8b869ac88ff",
       "title": "【モンハン】ふわふわで夢の抱き心地!! 『モンスターハンターワイルズ』のキャンプギアを再現したネコ型クッションが登場！",
-      "url": "https://dengekionline.com/article/images/202610/90082/892821",
+      "url": "https://dengekionline.com/article/images/202610/90082/892823",
       "host": "dengekionline.com",
       "source": "電撃オンライン",
       "summary": "",
       "publishedAt": "2026-10-06T10:01:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/dengeki/90082/a8f657caa8b54c42872e98ea4e289bda5.jpg?x=1280",
+      "image": "https://cimg.kgl-systems.io/camion/files/dengeki/90082/a2791244df0fdc7dfca165c2a7d8b8cb2.jpg?x=1280",
       "categories": [
         "other"
       ],
@@ -1745,6 +1780,29 @@
       ],
       "series": [
         "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "18ad834354e7",
+      "title": "『モンハンライズ』累計販売本数2000万本を突破。『モンハンワールド』に次いで2番目となるカプコンの2000万本セールスタイトルに",
+      "url": "https://www.famitsu.com/article/images/202610/90149/893547",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-10-06T10:00:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90149/a813346708237af679dd3a501cb29edac.jpg?x=1280",
+      "categories": [
+        "sales",
+        "sale"
+      ],
+      "series": [
+        "rise",
+        "world"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1829,71 +1887,6 @@
         "collab"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "18ad834354e7",
-      "title": "『モンハンライズ』累計販売本数2000万本を突破。『モンハンワールド』に次いで2番目となるカプコンの2000万本セールスタイトルに",
-      "url": "https://www.famitsu.com/article/202610/90149",
-      "host": "famitsu.com",
-      "source": "ファミ通",
-      "summary": "",
-      "publishedAt": "2026-10-06T06:12:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/90149/thumbnail_EvtH.jpg?x=1280",
-      "categories": [
-        "sales",
-        "sale"
-      ],
-      "series": [
-        "rise",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "a197bccc8e78",
-      "title": "『モンスターハンターライズ』累計販売本数2,000万本を達成！発売から約5年半で到達、現在も根強い人気",
-      "url": "https://www.gamespark.jp/article/2026/10/06/173218.html",
-      "host": "gamespark.jp",
-      "source": "Game*Spark",
-      "summary": "",
-      "publishedAt": "2026-10-06T06:06:27.000Z",
-      "image": "https://www.gamespark.jp/imgs/ogp_f/1203026.jpg",
-      "categories": [
-        "sales"
-      ],
-      "series": [
-        "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3c5839bd896d",
-      "title": "『モンスターハンターライズ』が累計販売本数2000万本を達成。カムラの里の仲間たちが描かれた記念イラストが公開",
-      "url": "https://news.denfaminicogamer.jp/news/2610062g",
-      "host": "news.denfaminicogamer.jp",
-      "source": "電ファミニコゲーマー",
-      "summary": "",
-      "publishedAt": "2026-10-06T06:00:00.000Z",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ss_5a601d6ecee22fcd0cb6142aec5ff7de1e1de091.1920x1080-1.jpg",
-      "categories": [
-        "sales"
-      ],
-      "series": [
-        "rise"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
