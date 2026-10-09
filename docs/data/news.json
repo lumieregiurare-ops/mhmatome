@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-09T15:30:23.572Z",
+  "updatedAt": "2026-10-09T16:00:16.877Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 59,
+  "total": 62,
   "todayCount": 0,
   "categories": [
     {
@@ -42,12 +42,12 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 4
+      "count": 5
     },
     {
       "id": "sale",
       "label": "セール",
-      "count": 0
+      "count": 1
     },
     {
       "id": "community",
@@ -57,29 +57,29 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 2
+      "count": 3
     },
     {
       "id": "other",
       "label": "その他",
-      "count": 46
+      "count": 47
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 37
+      "count": 39
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 6
+      "count": 7
     },
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 4
+      "count": 6
     },
     {
       "id": "now",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 17
+      "count": 19
     },
     {
       "name": "YouTube",
@@ -115,11 +115,11 @@
       "count": 4
     },
     {
-      "name": "電撃オンライン",
-      "count": 2
+      "name": "ファミ通",
+      "count": 3
     },
     {
-      "name": "ファミ通",
+      "name": "電撃オンライン",
       "count": 2
     },
     {
@@ -283,15 +283,15 @@
       "leadSource": "インサイド",
       "publishedAt": "2026-10-09T03:30:03.000Z",
       "sourceCount": 5,
-      "articleCount": 5,
+      "articleCount": 6,
       "categories": [
         "other",
         "new"
       ],
       "keywords": [
         "モンハンワイルズ",
-        "モード",
-        "携帯"
+        "モンスターハンターワイルズ",
+        "モード"
       ],
       "articles": [
         {
@@ -306,6 +306,13 @@
           "url": "https://gamewith.jp/mhwilds/563066",
           "source": "ゲームウィズ",
           "publishedAt": "2026-10-08T18:06:42.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】チャアクの操作方法と使い方・立ち回り【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/461266",
+          "source": "GameWith",
+          "publishedAt": "2026-10-07T12:17:07.000Z",
           "isPR": false
         },
         {
@@ -368,6 +375,42 @@
       ]
     },
     {
+      "id": "18ad834354e7",
+      "title": "『モンハンライズ』累計販売本数2000万本を突破。『モンハンワールド』に次いで2番目となるカプコンの2000万本セールスタイトルに",
+      "summary": "",
+      "url": "https://www.famitsu.com/article/images/202610/90149/893547",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90149/a813346708237af679dd3a501cb29edac.jpg?x=1280",
+      "leadSource": "ファミ通",
+      "publishedAt": "2026-10-08T04:00:00.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "sales",
+        "sale"
+      ],
+      "keywords": [
+        "累計販売本数",
+        "万本",
+        "カプコン"
+      ],
+      "articles": [
+        {
+          "title": "モンハンライズ（モンスターハンターライズ）、累計販売本数2000万本達成をカプコンが発表 2021年3月26日の発売から約5年半",
+          "url": "https://mediadogs.jp/2026/10/07/monster-hunter-rise-20-million-sales/",
+          "source": "https://mediadogs.jp/",
+          "publishedAt": "2026-10-07T04:03:36.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『モンスターハンターライズ』累計販売本数2,000万本を達成！発売から約5年半で到達、現在も根強い人気",
+          "url": "https://www.gamebusiness.jp/article/2026/10/07/28238.html",
+          "source": "GameBusiness.jp",
+          "publishedAt": "2026-10-06T22:15:02.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "382e8ef9275d",
       "title": "【モンハンナウ】3周年アフターパーティ【モンハンNow】",
       "summary": "",
@@ -401,44 +444,15 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "954c461eebfa",
-      "title": "モンハンライズ（モンスターハンターライズ）、累計販売本数2000万本達成をカプコンが発表 2021年3月26日の発売から約5年半",
-      "summary": "",
-      "url": "https://mediadogs.jp/2026/10/07/monster-hunter-rise-20-million-sales/",
-      "image": "https://mediadogs.jp/wp-content/uploads/2026/10/monster-hunter-rise-20-million-sales-eyecatch.webp",
-      "leadSource": "https://mediadogs.jp/",
-      "publishedAt": "2026-10-07T04:03:36.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "sales",
-        "new"
-      ],
-      "keywords": [
-        "モンスターハンターライズ",
-        "累計販売本数",
-        "発売"
-      ],
-      "articles": [
-        {
-          "title": "『モンスターハンターライズ』累計販売本数2,000万本を達成！発売から約5年半で到達、現在も根強い人気",
-          "url": "https://www.gamebusiness.jp/article/2026/10/07/28238.html",
-          "source": "GameBusiness.jp",
-          "publishedAt": "2026-10-06T22:15:02.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-09T15:00:18.373Z",
-    "previousCount": 57,
-    "newCount": 3
+    "previousAt": "2026-10-09T15:30:23.572Z",
+    "previousCount": 59,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-09T16:00:23.572Z",
+  "nextUpdateAt": "2026-10-09T16:30:16.877Z",
   "items": [
     {
       "id": "4bc982a0565e",
@@ -480,7 +494,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e6d79acfa4bd",
@@ -562,7 +576,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2e7bd298d052",
@@ -1212,6 +1226,29 @@
       "isNew": false
     },
     {
+      "id": "18ad834354e7",
+      "title": "『モンハンライズ』累計販売本数2000万本を突破。『モンハンワールド』に次いで2番目となるカプコンの2000万本セールスタイトルに",
+      "url": "https://www.famitsu.com/article/images/202610/90149/893547",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-10-08T04:00:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90149/a813346708237af679dd3a501cb29edac.jpg?x=1280",
+      "categories": [
+        "sales",
+        "sale"
+      ],
+      "series": [
+        "rise",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "310bc849231e",
       "title": "【モンハンワイルズ】英雄の証の解放条件と報酬【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/545421",
@@ -1380,6 +1417,28 @@
       "isNew": false
     },
     {
+      "id": "104cf127802f",
+      "title": "【MHWilds】凍え知れ、安寧の睡郷 歴戦王ジン・ダハド（Arch-tempered Jin Dahaad）フリーチャレンジクエスト 火事場 4PT（盾斧×盾斧×狩猟笛×狩猟笛） 3'59\"38",
+      "url": "https://youtu.be/-v5MePy7jFg?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-07T16:40:32.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "3a847101d21f",
       "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
       "url": "https://news.yahoo.co.jp/articles/91eca34b6b31f1ce104422e740efb3dc4ddaa3cc",
@@ -1420,6 +1479,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "f5f4b66f2fff",
+      "title": "【モンハンワイルズ】チャアクの操作方法と使い方・立ち回り【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/461266",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-07T12:17:07.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/461266.png?date=1727178690",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "207924b027d8",
@@ -1571,6 +1651,27 @@
       "isNew": false
     },
     {
+      "id": "50fcac5e5963",
+      "title": "【モンハンワイルズ】ナナイロカネの集め方と精錬方法【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/487799",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-07T00:20:17.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/487799.png?date=1755060453",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "fc97253ed2b9",
       "title": "[MHWilds/PS5] 歴戦王ジン・ダハド 大剣ソロ 05'08\"29 フリーチャレンジクエスト 火事場 サブ笛/ Arch Tempered Jin Dahaad GreatSword solo",
       "url": "https://youtu.be/zEtwSu6Enuw",
@@ -1590,7 +1691,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a197bccc8e78",
@@ -1635,27 +1736,6 @@
       "isNew": false
     },
     {
-      "id": "6d04567428ba",
-      "title": "【モンスターハンターワイルズ】が好きな人は絶対に再生しないで！仲宗根が好き勝手にレビュー #モンハン",
-      "url": "https://youtu.be/7mBzEUkvixo?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-06T15:43:40.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "79879d792dce",
       "title": "Monster Hunter Rise has hit the magnificent milestone of 20 million copies sold!",
       "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656395480",
@@ -1663,7 +1743,7 @@
       "source": "ライズ公式（Steam）",
       "summary": "To celebrate, please enjoy this Dango filled special artwork from the team. Th…",
       "publishedAt": "2026-10-06T07:14:40.000Z",
-      "image": "https://clan.fastly.steamstatic.com/images/41286238/2fd72d0cfbd5f9138dbac78c9d7c175e27dfec20.jpg",
+      "image": "https://clan.akamai.steamstatic.com/images/41286238/2fd72d0cfbd5f9138dbac78c9d7c175e27dfec20.jpg",
       "categories": [
         "other"
       ],
