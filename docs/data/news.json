@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-09T22:56:55.210Z",
+  "updatedAt": "2026-10-09T23:30:16.971Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 60,
-  "todayCount": 2,
+  "total": 61,
+  "todayCount": 3,
   "categories": [
     {
       "id": "new",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 48
+      "count": 49
     }
   ],
   "series": [
@@ -84,7 +84,7 @@
     {
       "id": "now",
       "label": "Now",
-      "count": 4
+      "count": 5
     },
     {
       "id": "stories",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 18
+      "count": 17
     },
     {
       "name": "YouTube",
@@ -111,11 +111,11 @@
       "count": 5
     },
     {
-      "name": "ファミ通.com",
-      "count": 3
+      "name": "ゲームウィズ",
+      "count": 4
     },
     {
-      "name": "ゲームウィズ",
+      "name": "ファミ通.com",
       "count": 3
     },
     {
@@ -133,6 +133,10 @@
     {
       "name": "Game*Spark",
       "count": 2
+    },
+    {
+      "name": "ガジェット通信 GetNews",
+      "count": 1
     },
     {
       "name": "https://esports-world.jp/",
@@ -435,14 +439,14 @@
       ]
     },
     {
-      "id": "382e8ef9275d",
-      "title": "【モンハンナウ】3周年アフターパーティ【モンハンNow】",
+      "id": "89d87e4cc4c7",
+      "title": "『モンハンNow』報酬判明!! まもなく始まる拠点要撃戦に参加してお月見気分が味わえる重ね着を獲得しよう",
       "summary": "",
-      "url": "https://gamewith.jp/monsterhunternow/article/show/579605",
-      "image": "",
-      "leadSource": "GameWith",
-      "publishedAt": "2026-10-08T18:11:09.000Z",
-      "sourceCount": 2,
+      "url": "https://getnews.jp/archives/3748047",
+      "image": "https://rensai.jp/wp-content/uploads/2026/10/3868c04aeb55c3a72fa834c442d004b6.jpg",
+      "leadSource": "ガジェット通信 GetNews",
+      "publishedAt": "2026-10-09T23:00:33.000Z",
+      "sourceCount": 3,
       "articleCount": 3,
       "categories": [
         "other"
@@ -454,17 +458,17 @@
       ],
       "articles": [
         {
+          "title": "【モンハンナウ】3周年アフターパーティ【モンハンNow】",
+          "url": "https://gamewith.jp/monsterhunternow/article/show/579605",
+          "source": "GameWith",
+          "publishedAt": "2026-10-08T18:11:09.000Z",
+          "isPR": false
+        },
+        {
           "title": "【モンハンナウ】モンハンNow感謝祭【3周年記念】【モンハンNow】",
           "url": "https://gamewith.jp/monsterhunternow/article/show/577438",
           "source": "ゲームウィズ",
           "publishedAt": "2026-10-08T12:56:03.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンナウ】狩人たちの夏祭り2026【モンハンNow】",
-          "url": "https://gamewith.jp/monsterhunternow/article/show/573258",
-          "source": "GameWith",
-          "publishedAt": "2026-10-07T01:11:34.000Z",
           "isPR": false
         }
       ]
@@ -500,13 +504,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-09T22:30:14.052Z",
-    "previousCount": 61,
-    "newCount": 0
+    "previousAt": "2026-10-09T22:56:55.210Z",
+    "previousCount": 60,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-09T23:26:55.210Z",
+  "nextUpdateAt": "2026-10-10T00:00:16.971Z",
   "items": [
+    {
+      "id": "89d87e4cc4c7",
+      "title": "『モンハンNow』報酬判明!! まもなく始まる拠点要撃戦に参加してお月見気分が味わえる重ね着を獲得しよう",
+      "url": "https://getnews.jp/archives/3748047",
+      "host": "getnews.jp",
+      "source": "ガジェット通信 GetNews",
+      "summary": "",
+      "publishedAt": "2026-10-09T23:00:33.000Z",
+      "image": "https://rensai.jp/wp-content/uploads/2026/10/3868c04aeb55c3a72fa834c442d004b6.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "010ece4575cd",
       "title": "【モンハンワイルズ】Switch2版の発売日・最新情報【モンスターハンターワイルズ】",
@@ -533,7 +558,7 @@
       "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
       "url": "https://gamewith.jp/mhwilds/563096",
       "host": "gamewith.jp",
-      "source": "GameWith",
+      "source": "ゲームウィズ",
       "summary": "",
       "publishedAt": "2026-10-09T15:06:50.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
@@ -1490,7 +1515,7 @@
     {
       "id": "f331553c2278",
       "title": "モンスターハンターライズ、スマホ版が登場。ただしネットフリックス契約が必要",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qbFp2LVctRTdrTllicVYzWGZvOXdBM29IT1RQVmVEa0M2cVcwN052RFQ2clBYNUJsWmJRc0JfcFViVi03Y0pwWld4aGc1cWR6SGwzV0NrT19HZUJOTTF4azUzbEoxQjhFaFFvR1B5TGMzaFRjN0FtQXFR0gGCAUFVX3lxTE04NG9UZGtXLUVPSkE0aW9QZEV5bllSdWg5Q0c3QXNPc3V6OW1oR2hTa25DYWtUQmpHZFZNdzZlV0FBdzlSVXJpUFRtTXN6UjFJcEplQ3p6bkFSQWE5NzVXQ09DTzRGSUpyb2xSQzYzaklfbkN4aVBUbHR2Yk1UOHhGLVE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNODRvVGRrVy1FT0pBNGlvUGRFeW5ZUnVoOUNHN0FzT3N1ejltaEdoU2tuQ2FrVEJqR2RWTXc2ZVdBQXc5UlVyaVBUbU1zelIxSXBKZUN6em5BUkFhOTc1V0NPQ080RklKcm9sUkM2M2pJX25DeGlQVGx0dmJNVDh4Ri1R0gGCAUFVX3lxTE04NG9UZGtXLUVPSkE0aW9QZEV5bllSdWg5Q0c3QXNPc3V6OW1oR2hTa25DYWtUQmpHZFZNdzZlV0FBdzlSVXJpUFRtTXN6UjFJcEplQ3p6bkFSQWE5NzVXQ09DTzRGSUpyb2xSQzYzaklfbkN4aVBUbHR2Yk1UOHhGLVE?oc=5",
       "host": "ga-m.com",
       "source": "ゲームメモ",
       "summary": "",
