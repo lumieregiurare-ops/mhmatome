@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T16:00:16.877Z",
+  "updatedAt": "2026-10-09T16:30:17.125Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 62,
-  "todayCount": 0,
+  "todayCount": 1,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 5
+      "count": 4
     },
     {
       "id": "sale",
@@ -62,24 +62,24 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 47
+      "count": 48
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 39
+      "count": 37
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 7
+      "count": 8
     },
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 6
+      "count": 5
     },
     {
       "id": "now",
@@ -100,11 +100,11 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 19
+      "count": 18
     },
     {
       "name": "YouTube",
-      "count": 11
+      "count": 10
     },
     {
       "name": "ファミ通.com",
@@ -123,15 +123,19 @@
       "count": 2
     },
     {
+      "name": "インサイド",
+      "count": 2
+    },
+    {
+      "name": "ウォーカープラス",
+      "count": 2
+    },
+    {
       "name": "Game*Spark",
       "count": 2
     },
     {
       "name": "https://esports-world.jp/",
-      "count": 1
-    },
-    {
-      "name": "インサイド",
       "count": 1
     },
     {
@@ -171,10 +175,6 @@
       "count": 1
     },
     {
-      "name": "ウォーカープラス",
-      "count": 1
-    },
-    {
       "name": "ゲームメモ",
       "count": 1
     },
@@ -205,15 +205,15 @@
       "leadSource": "ファミ通.com",
       "publishedAt": "2026-10-09T12:37:39.000Z",
       "sourceCount": 6,
-      "articleCount": 19,
+      "articleCount": 13,
       "categories": [
         "other",
         "guide"
       ],
       "keywords": [
-        "アセンダンス",
-        "モンハンワイルズ",
-        "モンスター"
+        "モンスター",
+        "モンスターハンターワイルズ",
+        "アセンダンス"
       ],
       "articles": [
         {
@@ -411,6 +411,63 @@
       ]
     },
     {
+      "id": "e6d79acfa4bd",
+      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
+      "summary": "",
+      "url": "https://gamewith.jp/mhwilds/563096",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
+      "leadSource": "GameWith",
+      "publishedAt": "2026-10-09T15:06:50.000Z",
+      "sourceCount": 2,
+      "articleCount": 6,
+      "categories": [
+        "guide",
+        "other"
+      ],
+      "keywords": [
+        "アセンダンス",
+        "最新情報",
+        "モンハンワイルズ"
+      ],
+      "articles": [
+        {
+          "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/575038",
+          "source": "GameWith",
+          "publishedAt": "2026-10-08T15:27:10.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563104",
+          "source": "ゲームウィズ",
+          "publishedAt": "2026-10-08T10:22:10.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】護竜リオレイアの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/575037",
+          "source": "GameWith",
+          "publishedAt": "2026-10-08T09:17:04.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/575036",
+          "source": "GameWith",
+          "publishedAt": "2026-10-08T06:20:20.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/577281",
+          "source": "GameWith",
+          "publishedAt": "2026-10-08T01:42:24.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "382e8ef9275d",
       "title": "【モンハンナウ】3周年アフターパーティ【モンハンNow】",
       "summary": "",
@@ -444,16 +501,63 @@
           "isPR": false
         }
       ]
+    },
+    {
+      "id": "190eda27bfe8",
+      "title": "『モンハンライズ』モバイル版がリリース予定？iOS/Android版の海外ストアページも公開―独自の回復ボタンも搭載との記載",
+      "summary": "",
+      "url": "https://www.inside-games.jp/article/2026/10/08/188923.html",
+      "image": "https://www.inside-games.jp/imgs/ogp_f/1791376.jpg",
+      "leadSource": "インサイド",
+      "publishedAt": "2026-10-08T01:50:02.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "ios",
+        "android",
+        "モバイル"
+      ],
+      "articles": [
+        {
+          "title": "『モンスターハンターライズ』モバイル版がNetflix経由でリリース予定？iOS/Android版の海外ストアページも公開中―独自の回復ボタンも搭載との記載",
+          "url": "https://www.gamespark.jp/article/2026/10/07/173305.html",
+          "source": "Game*Spark",
+          "publishedAt": "2026-10-07T13:55:51.000Z",
+          "isPR": false
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-09T15:30:23.572Z",
-    "previousCount": 59,
-    "newCount": 4
+    "previousAt": "2026-10-09T16:00:16.877Z",
+    "previousCount": 62,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-09T16:30:16.877Z",
+  "nextUpdateAt": "2026-10-09T17:00:17.125Z",
   "items": [
+    {
+      "id": "e6d79acfa4bd",
+      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
+      "url": "https://gamewith.jp/mhwilds/563096",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-09T15:06:50.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
+      "categories": [
+        "guide"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "4bc982a0565e",
       "title": "画像ページ (29/31) 11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月…",
@@ -490,25 +594,6 @@
       "series": [
         "wilds"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e6d79acfa4bd",
-      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
-      "url": "https://gamewith.jp/mhwilds/563096",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-09T10:46:20.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
-      "categories": [
-        "guide"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -786,6 +871,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "d9e4ebe24626",
+      "title": "かわい過ぎて食べられない！戦国BASARAとモンハンのクリスマスケーキ",
+      "url": "https://www.walkerplus.com/article/93548/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-08T20:20:58.000Z",
+      "image": "https://news.walkerplus.com/article/93548/522406_615.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "382e8ef9275d",
@@ -1246,7 +1350,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "310bc849231e",
@@ -1289,6 +1393,27 @@
       "isNew": false
     },
     {
+      "id": "190eda27bfe8",
+      "title": "『モンハンライズ』モバイル版がリリース予定？iOS/Android版の海外ストアページも公開―独自の回復ボタンも搭載との記載",
+      "url": "https://www.inside-games.jp/article/2026/10/08/188923.html",
+      "host": "inside-games.jp",
+      "source": "インサイド",
+      "summary": "",
+      "publishedAt": "2026-10-08T01:50:02.000Z",
+      "image": "https://www.inside-games.jp/imgs/ogp_f/1791376.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "778fbb3d5344",
       "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/577281",
@@ -1299,27 +1424,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577281.png?date=1789571405",
       "categories": [
         "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "92a4ad7e8e97",
-      "title": "【モンハンワイルズ】ゴグマジオスの対策装備と周回装備・攻略【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/520491",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-07T23:53:02.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/520491.png?date=1758724718",
-      "categories": [
-        "guide"
       ],
       "series": [
         "wilds"
@@ -1417,28 +1521,6 @@
       "isNew": false
     },
     {
-      "id": "104cf127802f",
-      "title": "【MHWilds】凍え知れ、安寧の睡郷 歴戦王ジン・ダハド（Arch-tempered Jin Dahaad）フリーチャレンジクエスト 火事場 4PT（盾斧×盾斧×狩猟笛×狩猟笛） 3'59\"38",
-      "url": "https://youtu.be/-v5MePy7jFg?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-07T16:40:32.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "3a847101d21f",
       "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
       "url": "https://news.yahoo.co.jp/articles/91eca34b6b31f1ce104422e740efb3dc4ddaa3cc",
@@ -1499,7 +1581,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "207924b027d8",
@@ -1669,7 +1751,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fc97253ed2b9",
@@ -1743,7 +1825,7 @@
       "source": "ライズ公式（Steam）",
       "summary": "To celebrate, please enjoy this Dango filled special artwork from the team. Th…",
       "publishedAt": "2026-10-06T07:14:40.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/41286238/2fd72d0cfbd5f9138dbac78c9d7c175e27dfec20.jpg",
+      "image": "https://clan.fastly.steamstatic.com/images/41286238/2fd72d0cfbd5f9138dbac78c9d7c175e27dfec20.jpg",
       "categories": [
         "other"
       ],
