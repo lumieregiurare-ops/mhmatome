@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-10T17:30:14.291Z",
+  "updatedAt": "2026-10-10T18:00:16.588Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 65,
-  "todayCount": 0,
+  "total": 64,
+  "todayCount": 1,
   "categories": [
     {
       "id": "new",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 51
+      "count": 50
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 38
+      "count": 37
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 7
+      "count": 6
     },
     {
       "id": "now",
@@ -100,11 +100,11 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 12
+      "count": 11
     },
     {
       "name": "YouTube",
-      "count": 11
+      "count": 10
     },
     {
       "name": "ゲームウィズ",
@@ -135,12 +135,12 @@
       "count": 2
     },
     {
-      "name": "Yahoo!ニュース",
+      "name": "インサイド",
       "count": 2
     },
     {
-      "name": "インサイド",
-      "count": 2
+      "name": "Howl.link",
+      "count": 1
     },
     {
       "name": "ガジェット通信 GetNews",
@@ -179,7 +179,15 @@
       "count": 1
     },
     {
+      "name": "Yahoo!ニュース",
+      "count": 1
+    },
+    {
       "name": "XBOX Wire",
+      "count": 1
+    },
+    {
+      "name": "アニメ！アニメ！",
       "count": 1
     },
     {
@@ -201,7 +209,7 @@
       "leadSource": "ファミ通",
       "publishedAt": "2026-10-09T12:37:39.000Z",
       "sourceCount": 6,
-      "articleCount": 9,
+      "articleCount": 8,
       "categories": [
         "other",
         "new"
@@ -209,7 +217,7 @@
       "keywords": [
         "モンスターハンターワイルズ",
         "アセンダンス",
-        "モンハンワイルズ"
+        "試遊"
       ],
       "articles": [
         {
@@ -238,13 +246,6 @@
           "url": "https://www.famitsu.com/article/images/202610/89840/890236",
           "source": "ファミ通",
           "publishedAt": "2026-10-09T07:10:10.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】護竜リオレイアの最新情報まとめ【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/575037",
-          "source": "ゲームウィズ",
-          "publishedAt": "2026-10-08T09:17:04.000Z",
           "isPR": false
         },
         {
@@ -448,6 +449,32 @@
       ]
     },
     {
+      "id": "99371e795e9f",
+      "title": "【モンハンワイルズ】オメガプラネテスリベンジの会【Vtuber】",
+      "summary": "",
+      "url": "https://t.co/oB85vXBUMr",
+      "image": "",
+      "leadSource": "Howl.link",
+      "publishedAt": "2026-10-10T17:02:14.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "モンハンワイルズ"
+      ],
+      "articles": [
+        {
+          "title": "【モンハンワイルズ】久々の狩猟なんだけどいけますか？",
+          "url": "https://t.co/yvzW38PxWW",
+          "source": "Howl.Link",
+          "publishedAt": "2026-10-10T13:25:53.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "e6d79acfa4bd",
       "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
       "summary": "",
@@ -505,13 +532,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-10T17:00:15.173Z",
-    "previousCount": 67,
+    "previousAt": "2026-10-10T17:30:14.291Z",
+    "previousCount": 65,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-10T18:00:14.291Z",
+  "nextUpdateAt": "2026-10-10T18:30:16.588Z",
   "items": [
+    {
+      "id": "99371e795e9f",
+      "title": "【モンハンワイルズ】オメガプラネテスリベンジの会【Vtuber】",
+      "url": "https://t.co/oB85vXBUMr",
+      "host": "t.co",
+      "source": "Howl.link",
+      "summary": "",
+      "publishedAt": "2026-10-10T17:02:14.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "695d10a56da4",
       "title": "【MH Wilds】参加型 モンハンワイルズ王アルシュ100体耐久",
@@ -641,7 +689,7 @@
       "title": "【モンハンワイルズ】英傑に愛を込めての攻略と報酬【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/545381",
       "host": "gamewith.jp",
-      "source": "GameWith",
+      "source": "ゲームウィズ",
       "summary": "",
       "publishedAt": "2026-10-10T08:38:10.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545381.png?date=1771384851",
@@ -1077,28 +1125,6 @@
       "isNew": false
     },
     {
-      "id": "a9e7fa720d7a",
-      "title": "【MHWilds】フリーチャレンジ ジン・ダハド ペアエンジョイ勢",
-      "url": "https://youtu.be/DAPkW8rsLxQ?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-09T00:12:13.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "174b90ed317d",
       "title": "モンスターハンターワイルズSwitch2、携帯モード実機映像「いつでも、どこでも、一狩りいこうぜ！」",
       "url": "https://hashout.jp/game/12275/",
@@ -1391,27 +1417,6 @@
       "isNew": false
     },
     {
-      "id": "b5d6fe40ab2e",
-      "title": "【アセンダンス】護竜リオレイアの最新情報まとめ【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/575037",
-      "host": "gamewith.jp",
-      "source": "ゲームウィズ",
-      "summary": "",
-      "publishedAt": "2026-10-08T09:17:04.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575037.png?date=1789770931",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "0d939d8aec23",
       "title": "【モンハンMAD】 RIDE ON STORIES 【モンスターハンターストーリーズ10周年記念合作MAD】",
       "url": "https://youtu.be/bWyngIv6KA4?si",
@@ -1603,13 +1608,13 @@
     },
     {
       "id": "c1e899c93915",
-      "title": "東映、映画OPの配給マークが初の擬人化!? 「ポケモン」「モンハン」タケウチリョースケ 描き下ろしの新キャラ「あらいなみ T081」誕生（アニメ！アニメ！）",
-      "url": "https://news.yahoo.co.jp/articles/2e28754cb367daa1fed7bfd2c9c6f7729678af01",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "title": "東映、映画OPの配給マークが初の擬人化!? 「ポケモン」「モンハン」タケウチリョースケ 描き下ろしの新キャラ「あらいなみ T081」誕生",
+      "url": "https://animeanime.jp/article/2026/10/08/103609.html",
+      "host": "animeanime.jp",
+      "source": "アニメ！アニメ！",
       "summary": "",
       "publishedAt": "2026-10-08T03:30:03.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261008-00000001-anmanmv-000-1-view.jpg?exp=10800",
+      "image": "https://animeanime.jp/imgs/ogp_f/940623.jpg",
       "categories": [
         "media"
       ],
