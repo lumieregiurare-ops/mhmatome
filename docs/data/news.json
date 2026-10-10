@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-10T19:30:15.643Z",
+  "updatedAt": "2026-10-10T20:00:16.972Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 62,
+  "total": 61,
   "todayCount": 0,
   "categories": [
     {
@@ -47,7 +47,7 @@
     {
       "id": "sale",
       "label": "セール",
-      "count": 1
+      "count": 0
     },
     {
       "id": "community",
@@ -57,7 +57,7 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 1
+      "count": 0
     },
     {
       "id": "other",
@@ -74,12 +74,12 @@
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 7
+      "count": 6
     },
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 6
+      "count": 5
     },
     {
       "id": "now",
@@ -99,16 +99,16 @@
   ],
   "sources": [
     {
+      "name": "ゲームウィズ",
+      "count": 10
+    },
+    {
       "name": "YouTube",
       "count": 10
     },
     {
-      "name": "ゲームウィズ",
-      "count": 9
-    },
-    {
       "name": "GameWith",
-      "count": 9
+      "count": 8
     },
     {
       "name": "Howl.Link",
@@ -116,7 +116,7 @@
     },
     {
       "name": "ファミ通",
-      "count": 5
+      "count": 4
     },
     {
       "name": "shiritomo",
@@ -132,10 +132,6 @@
     },
     {
       "name": "ウォーカープラス",
-      "count": 2
-    },
-    {
-      "name": "Yahoo!ニュース",
       "count": 2
     },
     {
@@ -179,11 +175,19 @@
       "count": 1
     },
     {
+      "name": "Yahoo!ニュース",
+      "count": 1
+    },
+    {
       "name": "Howl.link",
       "count": 1
     },
     {
       "name": "XBOX Wire",
+      "count": 1
+    },
+    {
+      "name": "アニメ！アニメ！",
       "count": 1
     },
     {
@@ -200,7 +204,7 @@
       "image": "https://cimg.kgl-systems.io/camion/files/famitsu/89516/a6dae66143dda87d247b554a5cb420a96.jpg?x=1280",
       "leadSource": "ファミ通",
       "publishedAt": "2026-10-09T12:37:39.000Z",
-      "sourceCount": 5,
+      "sourceCount": 4,
       "articleCount": 7,
       "categories": [
         "other",
@@ -250,7 +254,7 @@
         {
           "title": "【モンハンワイルズ】英雄の証の解放条件と報酬【モンスターハンターワイルズ】",
           "url": "https://gamewith.jp/mhwilds/545421",
-          "source": "GameWith",
+          "source": "ゲームウィズ",
           "publishedAt": "2026-10-08T03:12:05.000Z",
           "isPR": false
         }
@@ -368,7 +372,7 @@
       "title": "モンスターハンターワイルズSwitch2、携帯モード実機映像「いつでも、どこでも、一狩りいこうぜ！」",
       "summary": "",
       "url": "https://hashout.jp/game/12275/",
-      "image": "https://hashout.jp/wp-content/uploads/2026/10/2108050668091052450-img-1200x675.png",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261008-00000023-gamespav-000-1-view.jpg?exp=10800",
       "leadSource": "shiritomo",
       "publishedAt": "2026-10-08T23:20:54.000Z",
       "sourceCount": 3,
@@ -560,12 +564,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-10T19:00:19.043Z",
-    "previousCount": 63,
+    "previousAt": "2026-10-10T19:30:15.643Z",
+    "previousCount": 62,
     "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-10T20:00:15.643Z",
+  "nextUpdateAt": "2026-10-10T20:30:16.972Z",
   "items": [
     {
       "id": "695d10a56da4",
@@ -678,7 +682,7 @@
       "source": "shiritomo",
       "summary": "",
       "publishedAt": "2026-10-10T09:21:49.000Z",
-      "image": "https://hashout.jp/wp-content/uploads/2026/10/2108315820006986110-img-1200x675.png",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1161,7 +1165,7 @@
       "source": "shiritomo",
       "summary": "",
       "publishedAt": "2026-10-08T23:20:54.000Z",
-      "image": "https://hashout.jp/wp-content/uploads/2026/10/2108050668091052450-img-1200x675.png",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1620,7 +1624,7 @@
       "source": "XBOX Wire",
       "summary": "",
       "publishedAt": "2026-10-08T04:20:50.000Z",
-      "image": "",
+      "image": "https://xboxwire.thesourcemediaassets.com/sites/10/2026/10/MHST3_KV_1080_JP-3ffa850c63000b0849b1.jpg",
       "categories": [
         "other"
       ],
@@ -1634,37 +1638,14 @@
       "isNew": false
     },
     {
-      "id": "18ad834354e7",
-      "title": "『モンハンライズ』累計販売本数2000万本を突破。『モンハンワールド』に次いで2番目となるカプコンの2000万本セールスタイトルに",
-      "url": "https://www.famitsu.com/article/images/202610/90149/893547",
-      "host": "famitsu.com",
-      "source": "ファミ通",
-      "summary": "",
-      "publishedAt": "2026-10-08T04:00:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90149/a813346708237af679dd3a501cb29edac.jpg?x=1280",
-      "categories": [
-        "sales",
-        "sale"
-      ],
-      "series": [
-        "rise",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "c1e899c93915",
-      "title": "東映、映画OPの配給マークが初の擬人化!? 「ポケモン」「モンハン」タケウチリョースケ 描き下ろしの新キャラ「あらいなみ T081」誕生（アニメ！アニメ！）",
-      "url": "https://news.yahoo.co.jp/articles/2e28754cb367daa1fed7bfd2c9c6f7729678af01",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "title": "東映、映画OPの配給マークが初の擬人化!? 「ポケモン」「モンハン」タケウチリョースケ 描き下ろしの新キャラ「あらいなみ T081」誕生",
+      "url": "https://animeanime.jp/article/2026/10/08/103609.html",
+      "host": "animeanime.jp",
+      "source": "アニメ！アニメ！",
       "summary": "",
       "publishedAt": "2026-10-08T03:30:03.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261008-00000001-anmanmv-000-1-view.jpg?exp=10800",
+      "image": "https://animeanime.jp/imgs/ogp_f/940623.jpg",
       "categories": [
         "media"
       ],
@@ -1680,7 +1661,7 @@
       "title": "【モンハンワイルズ】英雄の証の解放条件と報酬【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/545421",
       "host": "gamewith.jp",
-      "source": "GameWith",
+      "source": "ゲームウィズ",
       "summary": "",
       "publishedAt": "2026-10-08T03:12:05.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545421.png?date=1771483075",
