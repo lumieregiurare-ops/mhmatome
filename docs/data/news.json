@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-10-10T07:00:16.056Z",
+  "updatedAt": "2026-10-10T07:30:16.244Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 62,
-  "todayCount": 7,
+  "total": 63,
+  "todayCount": 6,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 4
+      "count": 5
     },
     {
       "id": "update",
       "label": "アップデート",
-      "count": 0
+      "count": 1
     },
     {
       "id": "event",
@@ -79,12 +79,12 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 7
+      "count": 8
     },
     {
       "id": "now",
       "label": "Now",
-      "count": 4
+      "count": 5
     },
     {
       "id": "stories",
@@ -100,11 +100,11 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 18
+      "count": 17
     },
     {
       "name": "YouTube",
-      "count": 12
+      "count": 14
     },
     {
       "name": "ファミ通",
@@ -343,15 +343,15 @@
       ]
     },
     {
-      "id": "f4f222ac2e2d",
-      "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
+      "id": "778fbb3d5344",
+      "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
       "summary": "",
-      "url": "https://gamewith.jp/mhwilds/575036",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575036.png?date=1789770113",
+      "url": "https://gamewith.jp/mhwilds/577281",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577281.png?date=1789571405",
       "leadSource": "GameWith",
-      "publishedAt": "2026-10-09T19:40:13.000Z",
+      "publishedAt": "2026-10-09T19:24:43.000Z",
       "sourceCount": 2,
-      "articleCount": 12,
+      "articleCount": 11,
       "categories": [
         "other",
         "new"
@@ -362,13 +362,6 @@
         "最新情報"
       ],
       "articles": [
-        {
-          "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/577281",
-          "source": "GameWith",
-          "publishedAt": "2026-10-09T19:24:43.000Z",
-          "isPR": false
-        },
         {
           "title": "【モンハンワイルズ】Switch2版の発売日・最新情報【モンスターハンターワイルズ】",
           "url": "https://gamewith.jp/mhwilds/563066",
@@ -417,6 +410,13 @@
           "source": "GameWith",
           "publishedAt": "2026-10-08T15:27:10.000Z",
           "isPR": false
+        },
+        {
+          "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563104",
+          "source": "ゲームウィズ",
+          "publishedAt": "2026-10-08T10:22:10.000Z",
+          "isPR": false
         }
       ]
     },
@@ -457,12 +457,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-10T06:30:16.185Z",
-    "previousCount": 63,
-    "newCount": 1
+    "previousAt": "2026-10-10T07:00:16.056Z",
+    "previousCount": 62,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-10T07:30:16.056Z",
+  "nextUpdateAt": "2026-10-10T08:00:16.244Z",
   "items": [
     {
       "id": "6fd2c6faafe4",
@@ -520,27 +520,6 @@
       ],
       "series": [
         "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f4f222ac2e2d",
-      "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/575036",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-09T19:40:13.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575036.png?date=1789770113",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -607,7 +586,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d8b95bbbc335",
@@ -964,6 +943,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "a9e7fa720d7a",
+      "title": "【MHWilds】フリーチャレンジ ジン・ダハド ペアエンジョイ勢",
+      "url": "https://youtu.be/DAPkW8rsLxQ?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-09T00:12:13.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "174b90ed317d",
@@ -1596,12 +1597,12 @@
     },
     {
       "id": "104cf127802f",
-      "title": "【MHWilds】凍え知れ、安寧の睡郷 歴戦王ジン・ダハド（Arch-tempered Jin Dahaad）フリーチャレンジクエスト 火事場 4PT（操虫棍×双剣×双剣×狩猟笛） 4'06\"40",
-      "url": "https://youtu.be/K54eA3updSM?si",
+      "title": "【MHWilds】凍え知れ、安寧の睡郷 歴戦王ジン・ダハド（Arch-tempered Jin Dahaad）フリーチャレンジクエスト 火事場 4PT（盾斧×盾斧×狩猟笛×狩猟笛） 3'59\"38",
+      "url": "https://youtu.be/-v5MePy7jFg?si",
       "host": "youtu.be",
       "source": "YouTube",
       "summary": "",
-      "publishedAt": "2026-10-07T17:16:14.000Z",
+      "publishedAt": "2026-10-07T16:40:32.000Z",
       "image": "",
       "categories": [
         "other"
@@ -1657,6 +1658,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "61f96b2a3c11",
+      "title": "【モンハンnow】知らないと大狩猟チケットが無駄に！？大連続狩猟/古龍迎撃戦進行不能＆フレンドリスト不具合発表！内容を解説！【モンスターハンターNow/モンハンNOW/モンハンなう/モンハンナウ】",
+      "url": "https://youtu.be/dH4ks3jBZKI?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-07T12:56:59.000Z",
+      "image": "",
+      "categories": [
+        "new",
+        "update"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "f5f4b66f2fff",
