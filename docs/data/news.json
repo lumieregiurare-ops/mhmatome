@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T04:30:13.663Z",
+  "updatedAt": "2026-10-10T05:00:13.416Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -12,12 +12,12 @@
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 5
+      "count": 4
     },
     {
       "id": "update",
       "label": "アップデート",
-      "count": 1
+      "count": 0
     },
     {
       "id": "event",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 48
+      "count": 49
     }
   ],
   "series": [
@@ -74,7 +74,7 @@
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 5
+      "count": 6
     },
     {
       "id": "world",
@@ -84,7 +84,7 @@
     {
       "id": "now",
       "label": "Now",
-      "count": 5
+      "count": 4
     },
     {
       "id": "stories",
@@ -464,12 +464,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-10T04:00:14.974Z",
-    "previousCount": 62,
-    "newCount": 3
+    "previousAt": "2026-10-10T04:30:13.663Z",
+    "previousCount": 64,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-10T05:00:13.663Z",
+  "nextUpdateAt": "2026-10-10T05:30:13.416Z",
   "items": [
     {
       "id": "6fd2c6faafe4",
@@ -698,7 +698,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "72ce3cfbc355",
@@ -1642,7 +1642,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3a847101d21f",
@@ -1679,28 +1679,6 @@
       ],
       "series": [
         "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "61f96b2a3c11",
-      "title": "【モンハンnow】知らないと大狩猟チケットが無駄に！？大連続狩猟/古龍迎撃戦進行不能＆フレンドリスト不具合発表！内容を解説！【モンスターハンターNow/モンハンNOW/モンハンなう/モンハンナウ】",
-      "url": "https://youtu.be/dH4ks3jBZKI?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-07T12:56:59.000Z",
-      "image": "",
-      "categories": [
-        "new",
-        "update"
-      ],
-      "series": [
-        "now"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1764,6 +1742,27 @@
       ],
       "series": [
         "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "1bcad69378b6",
+      "title": "【新台スマスロ】「 スマスロ モンスターハンターライズ：サンブレイク」設定６の挙動お見せします！【スマスロ・スマパチ実戦】モンハン・アイルー",
+      "url": "https://youtu.be/OjDFiLzaeP8?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-07T09:00:19.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
       ],
       "isOfficial": false,
       "isPR": false,
