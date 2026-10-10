@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-10T09:30:13.481Z",
+  "updatedAt": "2026-10-10T10:00:14.729Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 59,
-  "todayCount": 8,
+  "total": 61,
+  "todayCount": 9,
   "categories": [
     {
       "id": "new",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 45
+      "count": 47
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 36
+      "count": 37
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 6
+      "count": 7
     },
     {
       "id": "now",
@@ -104,7 +104,7 @@
     },
     {
       "name": "YouTube",
-      "count": 9
+      "count": 10
     },
     {
       "name": "ファミ通",
@@ -112,6 +112,10 @@
     },
     {
       "name": "shiritomo",
+      "count": 2
+    },
+    {
+      "name": "Howl.Link",
       "count": 2
     },
     {
@@ -152,10 +156,6 @@
     },
     {
       "name": "AppBank",
-      "count": 1
-    },
-    {
-      "name": "Howl.Link",
       "count": 1
     },
     {
@@ -500,12 +500,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-10T09:00:16.445Z",
-    "previousCount": 61,
-    "newCount": 1
+    "previousAt": "2026-10-10T09:30:13.481Z",
+    "previousCount": 59,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-10T10:00:13.481Z",
+  "nextUpdateAt": "2026-10-10T10:30:14.729Z",
   "items": [
     {
       "id": "f66f6f053b72",
@@ -522,6 +522,25 @@
       "series": [
         "wilds"
       ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "3fc9c3b0a247",
+      "title": "俺はハンターでない“ライダー”だ！「う”ん”っ”！」│モンスターハンターストーリー",
+      "url": "https://t.co/jullo3u9dt",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-10T05:22:02.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1660,6 +1679,28 @@
       "isNew": false
     },
     {
+      "id": "d4580ad283a6",
+      "title": "【MHWilds/PS5】凍え知れ、安寧の睡郷 3分59秒 4人",
+      "url": "https://youtu.be/PeMptgSIpfA?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-07T16:23:34.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "3a847101d21f",
       "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
       "url": "https://www.famitsu.com/article/202610/90097",
@@ -1730,7 +1771,7 @@
       "source": "ライズ公式（Steam）",
       "summary": "To celebrate, please enjoy this Dango filled special artwork from the team. Th…",
       "publishedAt": "2026-10-06T07:14:40.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/41286238/2fd72d0cfbd5f9138dbac78c9d7c175e27dfec20.jpg",
+      "image": "https://clan.fastly.steamstatic.com/images/41286238/2fd72d0cfbd5f9138dbac78c9d7c175e27dfec20.jpg",
       "categories": [
         "other"
       ],
