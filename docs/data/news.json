@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T18:00:16.588Z",
+  "updatedAt": "2026-10-10T18:30:13.354Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 64,
-  "todayCount": 1,
+  "todayCount": 0,
   "categories": [
     {
       "id": "new",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 6
+      "count": 7
     },
     {
       "id": "now",
@@ -104,7 +104,7 @@
     },
     {
       "name": "YouTube",
-      "count": 10
+      "count": 11
     },
     {
       "name": "ゲームウィズ",
@@ -137,10 +137,6 @@
     {
       "name": "インサイド",
       "count": 2
-    },
-    {
-      "name": "Howl.link",
-      "count": 1
     },
     {
       "name": "ガジェット通信 GetNews",
@@ -449,32 +445,6 @@
       ]
     },
     {
-      "id": "99371e795e9f",
-      "title": "【モンハンワイルズ】オメガプラネテスリベンジの会【Vtuber】",
-      "summary": "",
-      "url": "https://t.co/oB85vXBUMr",
-      "image": "",
-      "leadSource": "Howl.link",
-      "publishedAt": "2026-10-10T17:02:14.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other"
-      ],
-      "keywords": [
-        "モンハンワイルズ"
-      ],
-      "articles": [
-        {
-          "title": "【モンハンワイルズ】久々の狩猟なんだけどいけますか？",
-          "url": "https://t.co/yvzW38PxWW",
-          "source": "Howl.Link",
-          "publishedAt": "2026-10-10T13:25:53.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "e6d79acfa4bd",
       "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
       "summary": "",
@@ -532,34 +502,13 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-10T17:30:14.291Z",
-    "previousCount": 65,
+    "previousAt": "2026-10-10T18:00:16.588Z",
+    "previousCount": 64,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-10T18:30:16.588Z",
+  "nextUpdateAt": "2026-10-10T19:00:13.354Z",
   "items": [
-    {
-      "id": "99371e795e9f",
-      "title": "【モンハンワイルズ】オメガプラネテスリベンジの会【Vtuber】",
-      "url": "https://t.co/oB85vXBUMr",
-      "host": "t.co",
-      "source": "Howl.link",
-      "summary": "",
-      "publishedAt": "2026-10-10T17:02:14.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
     {
       "id": "695d10a56da4",
       "title": "【MH Wilds】参加型 モンハンワイルズ王アルシュ100体耐久",
@@ -1123,6 +1072,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "a9e7fa720d7a",
+      "title": "【MHWilds】フリーチャレンジ ジン・ダハド ペアエンジョイ勢",
+      "url": "https://youtu.be/DAPkW8rsLxQ?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-09T00:12:13.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "174b90ed317d",
