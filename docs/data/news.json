@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T03:00:13.583Z",
+  "updatedAt": "2026-10-10T03:30:17.124Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,22 +7,22 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 62,
-  "todayCount": 4,
+  "todayCount": 6,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 5
+      "count": 6
     },
     {
       "id": "update",
       "label": "アップデート",
-      "count": 0
+      "count": 1
     },
     {
       "id": "event",
       "label": "イベント・クエスト",
-      "count": 0
+      "count": 2
     },
     {
       "id": "collab",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 4
+      "count": 3
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 49
+      "count": 47
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 39
+      "count": 37
     },
     {
       "id": "rise",
@@ -79,12 +79,12 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 6
+      "count": 4
     },
     {
       "id": "now",
       "label": "Now",
-      "count": 4
+      "count": 5
     },
     {
       "id": "stories",
@@ -94,7 +94,7 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 0
+      "count": 1
     }
   ],
   "sources": [
@@ -104,15 +104,19 @@
     },
     {
       "name": "YouTube",
-      "count": 11
+      "count": 10
     },
     {
       "name": "ファミ通",
-      "count": 5
+      "count": 7
     },
     {
       "name": "ファミ通.com",
-      "count": 4
+      "count": 3
+    },
+    {
+      "name": "Gamer",
+      "count": 2
     },
     {
       "name": "電撃オンライン",
@@ -120,10 +124,6 @@
     },
     {
       "name": "ウォーカープラス",
-      "count": 2
-    },
-    {
-      "name": "Yahoo!ニュース",
       "count": 2
     },
     {
@@ -163,15 +163,15 @@
       "count": 1
     },
     {
-      "name": "Gamer",
-      "count": 1
-    },
-    {
       "name": "電撃ホビーウェブ",
       "count": 1
     },
     {
       "name": "PR TIMES",
+      "count": 1
+    },
+    {
+      "name": "Yahoo!ニュース",
       "count": 1
     },
     {
@@ -291,7 +291,7 @@
       "leadSource": "ファミ通",
       "publishedAt": "2026-10-09T12:37:39.000Z",
       "sourceCount": 3,
-      "articleCount": 9,
+      "articleCount": 8,
       "categories": [
         "other",
         "new"
@@ -312,13 +312,6 @@
         {
           "title": "画像ページ (11/31) 11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月…",
           "url": "https://www.famitsu.com/article/images/202610/89516/889089",
-          "source": "ファミ通.com",
-          "publishedAt": "2026-10-09T12:37:39.000Z",
-          "isPR": false
-        },
-        {
-          "title": "画像ページ (15/31) 11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月…",
-          "url": "https://www.famitsu.com/article/images/202610/89516/886654",
           "source": "ファミ通.com",
           "publishedAt": "2026-10-09T12:37:39.000Z",
           "isPR": false
@@ -504,13 +497,55 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-10T02:30:15.739Z",
+    "previousAt": "2026-10-10T03:00:13.583Z",
     "previousCount": 62,
-    "newCount": 0
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-10T03:30:13.583Z",
+  "nextUpdateAt": "2026-10-10T04:00:17.124Z",
   "items": [
+    {
+      "id": "6fd2c6faafe4",
+      "title": "『モンスターハンターアウトランダーズ』キャンペーンを実施。Amazonギフトカードそれぞれ5,000円ぶんを10名様に抽選でプレゼント",
+      "url": "https://www.famitsu.com/article/202610/89339",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-10-10T03:00:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/89339/thumbnail_SVPY.png?x=1280",
+      "categories": [
+        "event"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "f788118c3e78",
+      "title": "FRONTIER「FREX∀R」1周年記念キャンペーン開催！「モンハンワイルズ」「スト6」など好きなゲーム1本をプレゼント",
+      "url": "https://www.gamer.ne.jp/news/202610100005/",
+      "host": "gamer.ne.jp",
+      "source": "Gamer",
+      "summary": "",
+      "publishedAt": "2026-10-10T02:58:00.000Z",
+      "image": "",
+      "categories": [
+        "event"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "89d87e4cc4c7",
       "title": "『モンハンNow』報酬判明!! まもなく始まる拠点要撃戦に参加してお月見気分が味わえる重ね着を獲得しよう",
@@ -665,27 +700,6 @@
       "summary": "",
       "publishedAt": "2026-10-09T12:37:39.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/famitsu/89516/a4857f366bb721c79bfe0261e96cca2a2.jpg?x=1280",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "90d2496a8349",
-      "title": "画像ページ (15/31) 11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月…",
-      "url": "https://www.famitsu.com/article/images/202610/89516/886654",
-      "host": "famitsu.com",
-      "source": "ファミ通.com",
-      "summary": "",
-      "publishedAt": "2026-10-09T12:37:39.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/89516/a6dae66143dda87d247b554a5cb420a96.jpg?x=1280",
       "categories": [
         "other"
       ],
@@ -1534,28 +1548,6 @@
       "isNew": false
     },
     {
-      "id": "db83145cba34",
-      "title": "【MHWilds/PS5】ソロ＆スラアク縛りでストーリー攻略！#4 上位解放まで行くぞ！【モンハンワイルズ】",
-      "url": "https://youtu.be/L1XPseDvc0I?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-07T20:07:32.000Z",
-      "image": "",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "f331553c2278",
       "title": "モンスターハンターライズ、スマホ版が登場。ただしネットフリックス契約が必要",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNODRvVGRrVy1FT0pBNGlvUGRFeW5ZUnVoOUNHN0FzT3N1ejltaEdoU2tuQ2FrVEJqR2RWTXc2ZVdBQXc5UlVyaVBUbU1zelIxSXBKZUN6em5BUkFhOTc1V0NPQ080RklKcm9sUkM2M2pJX25DeGlQVGx0dmJNVDh4Ri1R0gGCAUFVX3lxTE04NG9UZGtXLUVPSkE0aW9QZEV5bllSdWg5Q0c3QXNPc3V6OW1oR2hTa25DYWtUQmpHZFZNdzZlV0FBdzlSVXJpUFRtTXN6UjFJcEplQ3p6bkFSQWE5NzVXQ09DTzRGSUpyb2xSQzYzaklfbkN4aVBUbHR2Yk1UOHhGLVE?oc=5",
@@ -1599,36 +1591,14 @@
       "isNew": false
     },
     {
-      "id": "104cf127802f",
-      "title": "【MHWilds】凍え知れ、安寧の睡郷 歴戦王ジン・ダハド（Arch-tempered Jin Dahaad）フリーチャレンジクエスト 火事場 4PT（操虫棍×双剣×双剣×狩猟笛） 4'06\"40",
-      "url": "https://youtu.be/K54eA3updSM?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-07T17:16:14.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "3a847101d21f",
       "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
-      "url": "https://news.yahoo.co.jp/articles/91eca34b6b31f1ce104422e740efb3dc4ddaa3cc",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "url": "https://www.famitsu.com/article/202610/90097",
+      "host": "famitsu.com",
+      "source": "ファミ通",
       "summary": "",
       "publishedAt": "2026-10-07T15:00:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261008-00090097-famitsu-000-2-view.jpg?exp=10800",
+      "image": "https://cimg.kgl-systems.io/camion/files/90097/thumbnail_puoB.jpg?x=1280",
       "categories": [
         "media"
       ],
@@ -1661,6 +1631,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "61f96b2a3c11",
+      "title": "【モンハンnow】知らないと大狩猟チケットが無駄に！？大連続狩猟/古龍迎撃戦進行不能＆フレンドリスト不具合発表！内容を解説！【モンスターハンターNow/モンハンNOW/モンハンなう/モンハンナウ】",
+      "url": "https://youtu.be/dH4ks3jBZKI?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-07T12:56:59.000Z",
+      "image": "",
+      "categories": [
+        "new",
+        "update"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "f5f4b66f2fff",
@@ -1798,7 +1790,7 @@
       "source": "ライズ公式（Steam）",
       "summary": "To celebrate, please enjoy this Dango filled special artwork from the team. Th…",
       "publishedAt": "2026-10-06T07:14:40.000Z",
-      "image": "https://clan.fastly.steamstatic.com/images/41286238/2fd72d0cfbd5f9138dbac78c9d7c175e27dfec20.jpg",
+      "image": "https://clan.akamai.steamstatic.com/images/41286238/2fd72d0cfbd5f9138dbac78c9d7c175e27dfec20.jpg",
       "categories": [
         "other"
       ],
