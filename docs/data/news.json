@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T03:30:17.124Z",
+  "updatedAt": "2026-10-10T04:00:14.974Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 3
+      "count": 4
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 47
+      "count": 46
     }
   ],
   "series": [
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 4
+      "count": 6
     },
     {
       "id": "now",
@@ -104,18 +104,18 @@
     },
     {
       "name": "YouTube",
-      "count": 10
+      "count": 11
     },
     {
       "name": "ファミ通",
       "count": 7
     },
     {
-      "name": "ファミ通.com",
-      "count": 3
+      "name": "Gamer",
+      "count": 2
     },
     {
-      "name": "Gamer",
+      "name": "ファミ通.com",
       "count": 2
     },
     {
@@ -127,7 +127,7 @@
       "count": 2
     },
     {
-      "name": "Game*Spark",
+      "name": "Yahoo!ニュース",
       "count": 2
     },
     {
@@ -171,19 +171,19 @@
       "count": 1
     },
     {
-      "name": "Yahoo!ニュース",
-      "count": 1
-    },
-    {
       "name": "XBOX Wire",
       "count": 1
     },
     {
-      "name": "アニメ！アニメ！",
+      "name": "インサイド",
       "count": 1
     },
     {
       "name": "ゲームメモ",
+      "count": 1
+    },
+    {
+      "name": "Game*Spark",
       "count": 1
     },
     {
@@ -267,17 +267,17 @@
           "isPR": false
         },
         {
+          "title": "スイッチ2版『モンハンワイルズ』携帯モードでも大集会所は快適そう！テーブルに置いて操作する実機映像が公開",
+          "url": "https://s.inside-games.jp/article/2026/10/08/188929.html",
+          "source": "インサイド",
+          "publishedAt": "2026-10-08T02:40:03.000Z",
+          "isPR": false
+        },
+        {
           "title": "【モンハンワイルズ】チャアクの操作方法と使い方・立ち回り【モンスターハンターワイルズ】",
           "url": "https://gamewith.jp/mhwilds/461266",
           "source": "GameWith",
           "publishedAt": "2026-10-07T12:17:07.000Z",
-          "isPR": false
-        },
-        {
-          "title": "スイッチ2版『モンハンワイルズ』携帯モードでも大集会所は快適そう！テーブルに置いて操作する実機映像が公開",
-          "url": "https://www.gamespark.jp/article/2026/10/07/173277.html",
-          "source": "Game*Spark",
-          "publishedAt": "2026-10-07T03:43:01.000Z",
           "isPR": false
         }
       ]
@@ -291,7 +291,7 @@
       "leadSource": "ファミ通",
       "publishedAt": "2026-10-09T12:37:39.000Z",
       "sourceCount": 3,
-      "articleCount": 8,
+      "articleCount": 7,
       "categories": [
         "other",
         "new"
@@ -328,13 +328,6 @@
           "url": "https://www.famitsu.com/article/images/202610/89516/895230",
           "source": "ファミ通",
           "publishedAt": "2026-10-09T09:49:30.000Z",
-          "isPR": false
-        },
-        {
-          "title": "画像ページ (23/31) 11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月…",
-          "url": "https://www.famitsu.com/article/images/202610/89516/897661",
-          "source": "ファミ通.com",
-          "publishedAt": "2026-10-09T09:21:31.000Z",
           "isPR": false
         },
         {
@@ -497,12 +490,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-10T03:00:13.583Z",
+    "previousAt": "2026-10-10T03:30:17.124Z",
     "previousCount": 62,
-    "newCount": 3
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-10T04:00:17.124Z",
+  "nextUpdateAt": "2026-10-10T04:30:14.974Z",
   "items": [
     {
       "id": "6fd2c6faafe4",
@@ -523,7 +516,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f788118c3e78",
@@ -544,7 +537,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "89d87e4cc4c7",
@@ -763,27 +756,6 @@
       "summary": "",
       "publishedAt": "2026-10-09T09:38:11.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577811.png?date=1789764143",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "0241990d226c",
-      "title": "画像ページ (23/31) 11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月…",
-      "url": "https://www.famitsu.com/article/images/202610/89516/897661",
-      "host": "famitsu.com",
-      "source": "ファミ通.com",
-      "summary": "",
-      "publishedAt": "2026-10-09T09:21:31.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/89516/ac1487ce4de115e09bcc5b2817fd8e3be.jpg?x=1280",
       "categories": [
         "other"
       ],
@@ -1468,13 +1440,13 @@
     },
     {
       "id": "c1e899c93915",
-      "title": "東映、映画OPの配給マークが初の擬人化!? 「ポケモン」「モンハン」タケウチリョースケ 描き下ろしの新キャラ「あらいなみ T081」誕生",
-      "url": "https://animeanime.jp/article/2026/10/08/103609.html",
-      "host": "animeanime.jp",
-      "source": "アニメ！アニメ！",
+      "title": "東映、映画OPの配給マークが初の擬人化!? 「ポケモン」「モンハン」タケウチリョースケ 描き下ろしの新キャラ「あらいなみ T081」誕生（アニメ！アニメ！）",
+      "url": "https://news.yahoo.co.jp/articles/2e28754cb367daa1fed7bfd2c9c6f7729678af01",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-08T03:30:03.000Z",
-      "image": "https://animeanime.jp/imgs/ogp_f/940623.jpg",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261008-00000001-anmanmv-000-1-view.jpg?exp=10800",
       "categories": [
         "media"
       ],
@@ -1507,6 +1479,27 @@
       "isNew": false
     },
     {
+      "id": "7b870642c377",
+      "title": "スイッチ2版『モンハンワイルズ』携帯モードでも大集会所は快適そう！テーブルに置いて操作する実機映像が公開",
+      "url": "https://s.inside-games.jp/article/2026/10/08/188929.html",
+      "host": "s.inside-games.jp",
+      "source": "インサイド",
+      "summary": "",
+      "publishedAt": "2026-10-08T02:40:03.000Z",
+      "image": "https://www.inside-games.jp/imgs/ogp_f/1791511.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "baecfb1eaec1",
       "title": "モンハン4×ガリガリ君！ハチミツ調合のゆず味が本日発売",
       "url": "https://www.walkerplus.com/article/41312/",
@@ -1524,6 +1517,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "9792876e6e01",
+      "title": "【珍事件】ゴアに強敵乱入！2乙から始まるハンマー村の大騒動💖【モンハンワイルズ】【MHWilds】【ハンマー村】",
+      "url": "https://youtu.be/2o3mm_6mYuw?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-08T01:34:07.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "bb92601e7429",
@@ -1546,6 +1561,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "db83145cba34",
+      "title": "【MHWilds/PS5】ソロ＆スラアク縛りでストーリー攻略！#4 上位解放まで行くぞ！【モンハンワイルズ】",
+      "url": "https://youtu.be/L1XPseDvc0I?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-07T20:07:32.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "f331553c2278",
@@ -1652,7 +1689,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f5f4b66f2fff",
@@ -1741,48 +1778,6 @@
       "isNew": false
     },
     {
-      "id": "4158b45d516e",
-      "title": "【モンハンワイルズ】約束をすっぽかして反省狩 3日目・歴戦王ウズトゥナ☆１０",
-      "url": "https://youtu.be/kqHmdYU3NuE?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-07T03:58:41.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "7b870642c377",
-      "title": "スイッチ2版『モンハンワイルズ』携帯モードでも大集会所は快適そう！テーブルに置いて操作する実機映像が公開",
-      "url": "https://www.gamespark.jp/article/2026/10/07/173277.html",
-      "host": "gamespark.jp",
-      "source": "Game*Spark",
-      "summary": "",
-      "publishedAt": "2026-10-07T03:43:01.000Z",
-      "image": "https://www.gamespark.jp/imgs/ogp_f/1203522.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "79879d792dce",
       "title": "Monster Hunter Rise has hit the magnificent milestone of 20 million copies sold!",
       "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656395480",
@@ -1790,7 +1785,7 @@
       "source": "ライズ公式（Steam）",
       "summary": "To celebrate, please enjoy this Dango filled special artwork from the team. Th…",
       "publishedAt": "2026-10-06T07:14:40.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/41286238/2fd72d0cfbd5f9138dbac78c9d7c175e27dfec20.jpg",
+      "image": "https://clan.fastly.steamstatic.com/images/41286238/2fd72d0cfbd5f9138dbac78c9d7c175e27dfec20.jpg",
       "categories": [
         "other"
       ],
