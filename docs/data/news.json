@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-10-10T12:30:15.725Z",
+  "updatedAt": "2026-10-10T13:00:13.872Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 61,
-  "todayCount": 8,
+  "total": 62,
+  "todayCount": 9,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 5
+      "count": 4
     },
     {
       "id": "update",
       "label": "アップデート",
-      "count": 1
+      "count": 0
     },
     {
       "id": "event",
@@ -62,19 +62,19 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 47
+      "count": 49
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 35
+      "count": 36
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 6
+      "count": 7
     },
     {
       "id": "world",
@@ -84,7 +84,7 @@
     {
       "id": "now",
       "label": "Now",
-      "count": 5
+      "count": 4
     },
     {
       "id": "stories",
@@ -171,6 +171,10 @@
       "count": 1
     },
     {
+      "name": "Howl.link",
+      "count": 1
+    },
+    {
       "name": "インサイド",
       "count": 1
     },
@@ -196,16 +200,16 @@
       "image": "https://cimg.kgl-systems.io/camion/files/famitsu/89516/a6dae66143dda87d247b554a5cb420a96.jpg?x=1280",
       "leadSource": "ファミ通",
       "publishedAt": "2026-10-09T12:37:39.000Z",
-      "sourceCount": 4,
-      "articleCount": 6,
+      "sourceCount": 7,
+      "articleCount": 9,
       "categories": [
         "other",
         "new"
       ],
       "keywords": [
+        "モンスターハンターワイルズ",
         "アセンダンス",
-        "試遊",
-        "モンスターハンターワイルズ"
+        "試遊"
       ],
       "articles": [
         {
@@ -241,6 +245,27 @@
           "url": "https://media.unisba.ac.id/21fd8dd3/8a5117e7bfTnuu7Pg04",
           "source": "Unisba Media",
           "publishedAt": "2026-10-09T00:28:20.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】英雄の証の解放条件と報酬【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/545421",
+          "source": "GameWith",
+          "publishedAt": "2026-10-08T03:12:05.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【公式】モンスターハンターワイルズ：アセンダンス (@MH_Wilds) on X",
+          "url": "https://t.co/iyjs3sg1kT",
+          "source": "Howl.link",
+          "publishedAt": "2026-10-08T03:07:53.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【MHWs】英雄の証弓ソロ18'20\"09 モンスターハンターワイルズ",
+          "url": "https://youtu.be/g4twMZRDsCU?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-07T18:49:42.000Z",
           "isPR": false
         }
       ]
@@ -357,15 +382,44 @@
           "isPR": false
         }
       ]
+    },
+    {
+      "id": "f66f6f053b72",
+      "title": "モンハンワイルズSwitch2版12月4日発売へ、ハンターの「重ね着コーデ」投稿に7,589いいね",
+      "summary": "",
+      "url": "https://hashout.jp/game/12363/",
+      "image": "https://hashout.jp/wp-content/uploads/2026/10/2108315820006986110-img-1200x675.png",
+      "leadSource": "shiritomo",
+      "publishedAt": "2026-10-10T09:21:49.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other",
+        "new"
+      ],
+      "keywords": [
+        "モンハンワイルズ",
+        "switch2",
+        "ハンター"
+      ],
+      "articles": [
+        {
+          "title": "【モンハンワイルズ】Switch2版の発売日・最新情報【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563066",
+          "source": "GameWith",
+          "publishedAt": "2026-10-09T17:13:10.000Z",
+          "isPR": false
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-10T12:00:15.647Z",
-    "previousCount": 62,
-    "newCount": 0
+    "previousAt": "2026-10-10T12:30:15.725Z",
+    "previousCount": 61,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-10T13:00:15.725Z",
+  "nextUpdateAt": "2026-10-10T13:30:13.872Z",
   "items": [
     {
       "id": "f66f6f053b72",
@@ -465,6 +519,27 @@
       ],
       "series": [
         "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "411bb4076b94",
+      "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/575038",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-09T19:49:18.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575038.png?date=1789770323",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -952,27 +1027,6 @@
       "isNew": false
     },
     {
-      "id": "411bb4076b94",
-      "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/575038",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-08T15:27:10.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575038.png?date=1789770323",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "40bccce677c8",
       "title": "【アセンダンス】大剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/485475",
@@ -1055,6 +1109,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "14caff84e77b",
+      "title": "【神回】新台の高設定挙動がヤバすぎる【スマスロ モンスターハンターライズ：サンブレイク】【余裕の余裕録 #134】【スロット】【パチンコ】",
+      "url": "https://youtu.be/prTEqSRGAIY?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-08T11:00:08.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "0b68bd1287fd",
@@ -1371,6 +1446,27 @@
       "isNew": false
     },
     {
+      "id": "f9c75703dbe5",
+      "title": "【公式】モンスターハンターワイルズ：アセンダンス (@MH_Wilds) on X",
+      "url": "https://t.co/iyjs3sg1kT",
+      "host": "t.co",
+      "source": "Howl.link",
+      "summary": "",
+      "publishedAt": "2026-10-08T03:07:53.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "7b870642c377",
       "title": "スイッチ2版『モンハンワイルズ』携帯モードでも大集会所は快適そう！テーブルに置いて操作する実機映像が公開 1枚目の写真・画像",
       "url": "https://www.inside-games.jp/article/img/2026/10/08/188929/1791509.html",
@@ -1606,28 +1702,6 @@
       "isNew": false
     },
     {
-      "id": "61f96b2a3c11",
-      "title": "【モンハンnow】知らないと大狩猟チケットが無駄に！？大連続狩猟/古龍迎撃戦進行不能＆フレンドリスト不具合発表！内容を解説！【モンスターハンターNow/モンハンNOW/モンハンなう/モンハンナウ】",
-      "url": "https://youtu.be/dH4ks3jBZKI?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-07T12:56:59.000Z",
-      "image": "",
-      "categories": [
-        "new",
-        "update"
-      ],
-      "series": [
-        "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "79879d792dce",
       "title": "Monster Hunter Rise has hit the magnificent milestone of 20 million copies sold!",
       "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656395480",
@@ -1635,7 +1709,7 @@
       "source": "ライズ公式（Steam）",
       "summary": "To celebrate, please enjoy this Dango filled special artwork from the team. Th…",
       "publishedAt": "2026-10-06T07:14:40.000Z",
-      "image": "https://clan.fastly.steamstatic.com/images/41286238/2fd72d0cfbd5f9138dbac78c9d7c175e27dfec20.jpg",
+      "image": "https://clan.akamai.steamstatic.com/images/41286238/2fd72d0cfbd5f9138dbac78c9d7c175e27dfec20.jpg",
       "categories": [
         "other"
       ],
