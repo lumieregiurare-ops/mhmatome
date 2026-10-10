@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-10T15:00:16.170Z",
+  "updatedAt": "2026-10-10T15:30:15.651Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 65,
+  "total": 66,
   "todayCount": 0,
   "categories": [
     {
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 51
+      "count": 52
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 37
+      "count": 38
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 9
+      "count": 8
     },
     {
       "id": "now",
@@ -104,11 +104,15 @@
     },
     {
       "name": "YouTube",
-      "count": 13
+      "count": 12
     },
     {
       "name": "ファミ通",
       "count": 6
+    },
+    {
+      "name": "Howl.Link",
+      "count": 3
     },
     {
       "name": "shiritomo",
@@ -116,6 +120,10 @@
     },
     {
       "name": "Gamer",
+      "count": 2
+    },
+    {
+      "name": "ゲームウィズ",
       "count": 2
     },
     {
@@ -132,10 +140,6 @@
     },
     {
       "name": "Yahoo!ニュース",
-      "count": 2
-    },
-    {
-      "name": "Howl.link",
       "count": 2
     },
     {
@@ -164,10 +168,6 @@
     },
     {
       "name": "GameBusiness.jp",
-      "count": 1
-    },
-    {
-      "name": "Howl.Link",
       "count": 1
     },
     {
@@ -207,9 +207,9 @@
         "new"
       ],
       "keywords": [
-        "アセンダンス",
         "モンスターハンターワイルズ",
-        "試遊"
+        "アセンダンス",
+        "モンハンワイルズ"
       ],
       "articles": [
         {
@@ -255,17 +255,17 @@
           "isPR": false
         },
         {
+          "title": "【モンハンワイルズ】キザシヤンマの場所と捕獲方法【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/489324",
+          "source": "ゲームウィズ",
+          "publishedAt": "2026-10-08T05:26:03.000Z",
+          "isPR": false
+        },
+        {
           "title": "【モンハンワイルズ】英雄の証の解放条件と報酬【モンスターハンターワイルズ】",
           "url": "https://gamewith.jp/mhwilds/545421",
           "source": "GameWith",
           "publishedAt": "2026-10-08T03:12:05.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【公式】モンスターハンターワイルズ：アセンダンス (@MH_Wilds) on X",
-          "url": "https://t.co/iyjs3sg1kT",
-          "source": "Howl.link",
-          "publishedAt": "2026-10-08T03:07:53.000Z",
           "isPR": false
         }
       ]
@@ -314,6 +314,42 @@
       ]
     },
     {
+      "id": "46f1cea8a70b",
+      "title": "【モンハンワイルズ】久々の狩猟なんだけどいけますか？",
+      "summary": "",
+      "url": "https://t.co/yvzW38PxWW",
+      "image": "https://hashout.jp/wp-content/uploads/2026/10/2108315820006986110-img-1200x675.png",
+      "leadSource": "Howl.Link",
+      "publishedAt": "2026-10-10T13:25:53.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "other",
+        "new"
+      ],
+      "keywords": [
+        "モンハンワイルズ",
+        "switch2",
+        "ハンター"
+      ],
+      "articles": [
+        {
+          "title": "モンハンワイルズSwitch2版12月4日発売へ、ハンターの「重ね着コーデ」投稿に7,589いいね",
+          "url": "https://hashout.jp/game/12363/",
+          "source": "shiritomo",
+          "publishedAt": "2026-10-10T09:21:49.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】Switch2版の発売日・最新情報【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563066",
+          "source": "GameWith",
+          "publishedAt": "2026-10-09T17:13:10.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "174b90ed317d",
       "title": "モンスターハンターワイルズSwitch2、携帯モード実機映像「いつでも、どこでも、一狩りいこうぜ！」",
       "summary": "",
@@ -340,10 +376,74 @@
           "isPR": false
         },
         {
-          "title": "スイッチ2版『モンハンワイルズ』携帯モードでも大集会所は快適そう！テーブルに置いて操作する実機映像が公開",
-          "url": "https://s.inside-games.jp/article/2026/10/08/188929.html",
+          "title": "スイッチ2版『モンハンワイルズ』携帯モードでも大集会所は快適そう！テーブルに置いて操作する実機映像が公開 1枚目の写真・画像",
+          "url": "https://www.inside-games.jp/article/img/2026/10/08/188929/1791509.html",
           "source": "インサイド",
           "publishedAt": "2026-10-08T02:40:03.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "e6d79acfa4bd",
+      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
+      "summary": "",
+      "url": "https://gamewith.jp/mhwilds/563096",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
+      "leadSource": "GameWith",
+      "publishedAt": "2026-10-10T09:42:23.000Z",
+      "sourceCount": 2,
+      "articleCount": 7,
+      "categories": [
+        "guide",
+        "other"
+      ],
+      "keywords": [
+        "アセンダンス",
+        "モンハンワイルズ",
+        "最新情報"
+      ],
+      "articles": [
+        {
+          "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/575038",
+          "source": "GameWith",
+          "publishedAt": "2026-10-09T19:49:18.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/575036",
+          "source": "ゲームウィズ",
+          "publishedAt": "2026-10-09T19:40:13.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/577281",
+          "source": "GameWith",
+          "publishedAt": "2026-10-09T19:24:43.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/574841",
+          "source": "GameWith",
+          "publishedAt": "2026-10-09T07:50:40.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563077",
+          "source": "GameWith",
+          "publishedAt": "2026-10-09T03:20:37.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563104",
+          "source": "GameWith",
+          "publishedAt": "2026-10-08T10:22:10.000Z",
           "isPR": false
         }
       ]
@@ -384,33 +484,6 @@
       ]
     },
     {
-      "id": "f788118c3e78",
-      "title": "FRONTIER「FREX∀R」1周年記念キャンペーン開催！「モンハンワイルズ」「スト6」など好きなゲーム1本をプレゼント",
-      "summary": "",
-      "url": "https://www.gamer.ne.jp/news/202610100005/",
-      "image": "",
-      "leadSource": "Gamer",
-      "publishedAt": "2026-10-10T02:58:00.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "event",
-        "other"
-      ],
-      "keywords": [
-        "モンハンワイルズ"
-      ],
-      "articles": [
-        {
-          "title": "【#モンハンワイルズ 】お久しぶり！今日ものんびり朝活しますか！ ＃11【 R!K8 】",
-          "url": "https://t.co/yOUfA3Hp1v",
-          "source": "Howl.link",
-          "publishedAt": "2026-10-08T05:37:54.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "950778d7c999",
       "title": "『モンスターハンターライズ』モバイル版がNetflix経由でリリース予定？iOS/Android版の海外ストアページも公開中―独自の回復ボタンも搭載との記載 3枚目の写真・画像",
       "summary": "",
@@ -440,13 +513,55 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-10T14:30:14.448Z",
+    "previousAt": "2026-10-10T15:00:16.170Z",
     "previousCount": 65,
-    "newCount": 1
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-10T15:30:16.170Z",
+  "nextUpdateAt": "2026-10-10T16:00:15.651Z",
   "items": [
+    {
+      "id": "46f1cea8a70b",
+      "title": "【モンハンワイルズ】久々の狩猟なんだけどいけますか？",
+      "url": "https://t.co/yvzW38PxWW",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-10T13:25:53.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "32b64ea89a63",
+      "title": "週末いかがお過ごしでしょうか？３連休初日でゆったり？【モンスターハンターワイルズ】概要欄必読 PS5版",
+      "url": "https://t.co/5BvaEvxYyX",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-10T12:13:54.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "e6d79acfa4bd",
       "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
@@ -591,6 +706,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "f4f222ac2e2d",
+      "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/575036",
+      "host": "gamewith.jp",
+      "source": "ゲームウィズ",
+      "summary": "",
+      "publishedAt": "2026-10-09T19:40:13.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575036.png?date=1789770113",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "778fbb3d5344",
@@ -926,28 +1062,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "a9e7fa720d7a",
-      "title": "【MHWilds】フリーチャレンジ ジン・ダハド ペアエンジョイ勢",
-      "url": "https://youtu.be/DAPkW8rsLxQ?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-09T00:12:13.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "174b90ed317d",
@@ -1367,14 +1481,14 @@
       "isNew": false
     },
     {
-      "id": "649b704173f6",
-      "title": "【#モンハンワイルズ 】お久しぶり！今日ものんびり朝活しますか！ ＃11【 R!K8 】",
-      "url": "https://t.co/yOUfA3Hp1v",
-      "host": "t.co",
-      "source": "Howl.link",
+      "id": "eab44d70a1c9",
+      "title": "【モンハンワイルズ】キザシヤンマの場所と捕獲方法【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/489324",
+      "host": "gamewith.jp",
+      "source": "ゲームウィズ",
       "summary": "",
-      "publishedAt": "2026-10-08T05:37:54.000Z",
-      "image": "",
+      "publishedAt": "2026-10-08T05:26:03.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/489324.png?date=1741443581",
       "categories": [
         "other"
       ],
@@ -1385,7 +1499,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "480edc27831f",
@@ -1514,35 +1628,14 @@
       "isNew": false
     },
     {
-      "id": "f9c75703dbe5",
-      "title": "【公式】モンスターハンターワイルズ：アセンダンス (@MH_Wilds) on X",
-      "url": "https://t.co/iyjs3sg1kT",
-      "host": "t.co",
-      "source": "Howl.link",
-      "summary": "",
-      "publishedAt": "2026-10-08T03:07:53.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "7b870642c377",
-      "title": "スイッチ2版『モンハンワイルズ』携帯モードでも大集会所は快適そう！テーブルに置いて操作する実機映像が公開",
-      "url": "https://s.inside-games.jp/article/2026/10/08/188929.html",
-      "host": "s.inside-games.jp",
+      "title": "スイッチ2版『モンハンワイルズ』携帯モードでも大集会所は快適そう！テーブルに置いて操作する実機映像が公開 1枚目の写真・画像",
+      "url": "https://www.inside-games.jp/article/img/2026/10/08/188929/1791509.html",
+      "host": "inside-games.jp",
       "source": "インサイド",
       "summary": "",
       "publishedAt": "2026-10-08T02:40:03.000Z",
-      "image": "https://www.inside-games.jp/imgs/ogp_f/1791511.jpg",
+      "image": "https://www.inside-games.jp/imgs/ogp_f/1791509.jpg",
       "categories": [
         "other"
       ],
@@ -1685,7 +1778,7 @@
     {
       "id": "f331553c2278",
       "title": "モンスターハンターライズ、スマホ版が登場。ただしネットフリックス契約が必要",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qbFp2LVctRTdrTllicVYzWGZvOXdBM29IT1RQVmVEa0M2cVcwN052RFQ2clBYNUJsWmJRc0JfcFViVi03Y0pwWld4aGc1cWR6SGwzV0NrT19HZUJOTTF4azUzbEoxQjhFaFFvR1B5TGMzaFRjN0FtQXFR0gGCAUFVX3lxTE04NG9UZGtXLUVPSkE0aW9QZEV5bllSdWg5Q0c3QXNPc3V6OW1oR2hTa25DYWtUQmpHZFZNdzZlV0FBdzlSVXJpUFRtTXN6UjFJcEplQ3p6bkFSQWE5NzVXQ09DTzRGSUpyb2xSQzYzaklfbkN4aVBUbHR2Yk1UOHhGLVE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNODRvVGRrVy1FT0pBNGlvUGRFeW5ZUnVoOUNHN0FzT3N1ejltaEdoU2tuQ2FrVEJqR2RWTXc2ZVdBQXc5UlVyaVBUbU1zelIxSXBKZUN6em5BUkFhOTc1V0NPQ080RklKcm9sUkM2M2pJX25DeGlQVGx0dmJNVDh4Ri1R0gGCAUFVX3lxTE04NG9UZGtXLUVPSkE0aW9QZEV5bllSdWg5Q0c3QXNPc3V6OW1oR2hTa25DYWtUQmpHZFZNdzZlV0FBdzlSVXJpUFRtTXN6UjFJcEplQ3p6bkFSQWE5NzVXQ09DTzRGSUpyb2xSQzYzaklfbkN4aVBUbHR2Yk1UOHhGLVE?oc=5",
       "host": "ga-m.com",
       "source": "ゲームメモ",
       "summary": "",
@@ -1718,6 +1811,27 @@
       "series": [
         "wilds",
         "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "3a847101d21f",
+      "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
+      "url": "https://www.famitsu.com/article/images/202610/90097/892948",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-10-07T18:38:32.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90097/cf99687dd719c4e8bc6a39e946c3d9ef7.jpg?x=1280",
+      "categories": [
+        "media"
+      ],
+      "series": [
+        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1770,27 +1884,6 @@
       "isNew": false
     },
     {
-      "id": "3a847101d21f",
-      "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
-      "url": "https://www.famitsu.com/article/images/202610/90097/892945",
-      "host": "famitsu.com",
-      "source": "ファミ通",
-      "summary": "",
-      "publishedAt": "2026-10-07T15:19:44.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90097/c4efdd2f969559e8b1c92e99f32ded48e.jpg?x=1280",
-      "categories": [
-        "media"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "79879d792dce",
       "title": "Monster Hunter Rise has hit the magnificent milestone of 20 million copies sold!",
       "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656395480",
@@ -1798,7 +1891,7 @@
       "source": "ライズ公式（Steam）",
       "summary": "To celebrate, please enjoy this Dango filled special artwork from the team. Th…",
       "publishedAt": "2026-10-06T07:14:40.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/41286238/2fd72d0cfbd5f9138dbac78c9d7c175e27dfec20.jpg",
+      "image": "https://clan.fastly.steamstatic.com/images/41286238/2fd72d0cfbd5f9138dbac78c9d7c175e27dfec20.jpg",
       "categories": [
         "other"
       ],
