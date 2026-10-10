@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-10T12:00:15.647Z",
+  "updatedAt": "2026-10-10T12:30:15.725Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 62,
+  "total": 61,
   "todayCount": 8,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 4
+      "count": 3
     },
     {
       "id": "sale",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 36
+      "count": 35
     },
     {
       "id": "rise",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 18
+      "count": 17
     },
     {
       "name": "YouTube",
@@ -296,16 +296,15 @@
       "image": "https://hashout.jp/wp-content/uploads/2026/10/2108050668091052450-img-1200x675.png",
       "leadSource": "shiritomo",
       "publishedAt": "2026-10-08T23:20:54.000Z",
-      "sourceCount": 4,
-      "articleCount": 4,
+      "sourceCount": 3,
+      "articleCount": 3,
       "categories": [
-        "other",
-        "guide"
+        "other"
       ],
       "keywords": [
-        "モンハンワイルズ",
         "モード",
-        "携帯"
+        "携帯",
+        "実機映像"
       ],
       "articles": [
         {
@@ -320,13 +319,6 @@
           "url": "https://www.inside-games.jp/article/img/2026/10/08/188929/1791509.html",
           "source": "インサイド",
           "publishedAt": "2026-10-08T02:40:03.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ】チャアクの操作方法と使い方・立ち回り【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/461266",
-          "source": "GameWith",
-          "publishedAt": "2026-10-07T12:17:07.000Z",
           "isPR": false
         }
       ]
@@ -368,12 +360,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-10T11:30:15.844Z",
-    "previousCount": 61,
-    "newCount": 3
+    "previousAt": "2026-10-10T12:00:15.647Z",
+    "previousCount": 62,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-10T12:30:15.647Z",
+  "nextUpdateAt": "2026-10-10T13:00:15.725Z",
   "items": [
     {
       "id": "f66f6f053b72",
@@ -832,7 +824,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a9e7fa720d7a",
@@ -1041,7 +1033,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4cd467a24cc4",
@@ -1336,7 +1328,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c1e899c93915",
@@ -1628,27 +1620,6 @@
       ],
       "series": [
         "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f5f4b66f2fff",
-      "title": "【モンハンワイルズ】チャアクの操作方法と使い方・立ち回り【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/461266",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-07T12:17:07.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/461266.png?date=1727178690",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
