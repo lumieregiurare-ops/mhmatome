@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T00:30:15.545Z",
+  "updatedAt": "2026-10-11T01:00:13.597Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 3
+      "count": 2
     },
     {
       "id": "sale",
@@ -62,19 +62,19 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 52
+      "count": 53
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 37
+      "count": 38
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 6
+      "count": 5
     },
     {
       "id": "world",
@@ -108,14 +108,14 @@
     },
     {
       "name": "ファミ通",
-      "count": 8
-    },
-    {
-      "name": "ゲームウィズ",
-      "count": 5
+      "count": 9
     },
     {
       "name": "Howl.Link",
+      "count": 4
+    },
+    {
+      "name": "ゲームウィズ",
       "count": 4
     },
     {
@@ -240,7 +240,7 @@
       "leadSource": "ファミ通",
       "publishedAt": "2026-10-09T12:37:39.000Z",
       "sourceCount": 3,
-      "articleCount": 9,
+      "articleCount": 10,
       "categories": [
         "other"
       ],
@@ -286,6 +286,13 @@
           "isPR": false
         },
         {
+          "title": "画像ページ (9/31) 11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月1…",
+          "url": "https://www.famitsu.com/article/images/202610/89516/886653",
+          "source": "ファミ通",
+          "publishedAt": "2026-10-09T09:17:03.000Z",
+          "isPR": false
+        },
+        {
           "title": "11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月13日まで】",
           "url": "https://www.famitsu.com/article/202610/89516",
           "source": "ファミ通",
@@ -297,13 +304,6 @@
           "url": "https://gamewith.jp/mhwilds/489324",
           "source": "ゲームウィズ",
           "publishedAt": "2026-10-08T05:26:03.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ】英雄の証の解放条件と報酬【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/545421",
-          "source": "ゲームウィズ",
-          "publishedAt": "2026-10-08T03:12:05.000Z",
           "isPR": false
         }
       ]
@@ -514,12 +514,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-11T00:00:16.899Z",
-    "previousCount": 62,
-    "newCount": 3
+    "previousAt": "2026-10-11T00:30:15.545Z",
+    "previousCount": 63,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-11T01:00:15.545Z",
+  "nextUpdateAt": "2026-10-11T01:30:13.597Z",
   "items": [
     {
       "id": "6729d75a6dad",
@@ -538,7 +538,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3a847101d21f",
@@ -914,7 +914,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "90d2496a8349",
@@ -1040,7 +1040,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "488c58093be3",
@@ -1062,6 +1062,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "3171038bb2f0",
+      "title": "画像ページ (9/31) 11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月1…",
+      "url": "https://www.famitsu.com/article/images/202610/89516/886653",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-10-09T09:17:03.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/89516/aafc8e8f20f2d9785d7bcd30c11fbfe51.png?x=1280",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "2e7bd298d052",
@@ -1785,27 +1806,6 @@
       "series": [
         "wilds",
         "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "da00eeff7429",
-      "title": "【サンブレイク】狂竜症【蝕】のスキル効果と会心率の倍率｜克服方法",
-      "url": "https://gamewith.jp/mhrize/article/show/349064",
-      "host": "gamewith.jp",
-      "source": "ゲームウィズ",
-      "summary": "",
-      "publishedAt": "2026-10-08T00:55:51.000Z",
-      "image": "",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "rise"
       ],
       "isOfficial": false,
       "isPR": false,
