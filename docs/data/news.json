@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-12T20:00:14.525Z",
+  "updatedAt": "2026-10-12T20:30:13.480Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 65,
+  "total": 67,
   "todayCount": 3,
   "categories": [
     {
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 44
+      "count": 46
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 44
+      "count": 45
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 9
+      "count": 10
     },
     {
       "id": "now",
@@ -104,7 +104,7 @@
     },
     {
       "name": "YouTube",
-      "count": 17
+      "count": 18
     },
     {
       "name": "Howl.link",
@@ -132,6 +132,10 @@
     },
     {
       "name": "AppBank",
+      "count": 1
+    },
+    {
+      "name": "ウォーカープラス",
       "count": 1
     },
     {
@@ -298,10 +302,10 @@
       ],
       "articles": [
         {
-          "title": "画像ページ (18/31) 11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月…",
-          "url": "https://www.famitsu.com/article/images/202610/89516/892982",
+          "title": "画像ページ (14/31) 11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月…",
+          "url": "https://www.famitsu.com/article/images/202610/89516/892966",
           "source": "ファミ通",
-          "publishedAt": "2026-10-12T17:54:14.000Z",
+          "publishedAt": "2026-10-12T18:38:28.000Z",
           "isPR": false
         },
         {
@@ -468,12 +472,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-12T19:30:15.544Z",
-    "previousCount": 64,
-    "newCount": 2
+    "previousAt": "2026-10-12T20:00:14.525Z",
+    "previousCount": 65,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-12T20:30:14.525Z",
+  "nextUpdateAt": "2026-10-12T21:00:13.480Z",
   "items": [
     {
       "id": "b5bf6af991e4",
@@ -494,17 +498,17 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
-      "id": "e36cdf77dd53",
-      "title": "画像ページ (18/31) 11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月…",
-      "url": "https://www.famitsu.com/article/images/202610/89516/892982",
+      "id": "b5425661ef76",
+      "title": "画像ページ (14/31) 11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月…",
+      "url": "https://www.famitsu.com/article/images/202610/89516/892966",
       "host": "famitsu.com",
       "source": "ファミ通",
       "summary": "",
-      "publishedAt": "2026-10-12T17:54:14.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/89516/a4d72efec90fb5c3424213417ff8865cc.jpg?x=1280",
+      "publishedAt": "2026-10-12T18:38:28.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/89516/a3646d88b8a1b3daa4e8cfbf09540a41f.jpg?x=1280",
       "categories": [
         "other"
       ],
@@ -515,7 +519,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "3a847101d21f",
@@ -715,7 +719,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-10-12T07:58:31.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
       "categories": [
         "guide"
       ],
@@ -725,6 +729,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "ffd59e8e082b",
+      "title": "原宿でリアル「モンハン」!?期間限定のマルチプレイスポットが登場",
+      "url": "https://www.walkerplus.com/article/140574/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-12T06:09:39.000Z",
+      "image": "https://news.walkerplus.com/article/140574/788651_615.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "4cd467a24cc4",
@@ -1420,7 +1443,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c6375557fc6b",
@@ -1735,6 +1758,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "3a925a74b429",
+      "title": "【MHWilds】フリーチャレンジクエスト 歴戦王ジン・ダハド 火事場太刀ソロ 6'07 ／Arch Tempered Jin Dahaad LS Solo",
+      "url": "https://youtu.be/Dz6EJpZx8Ac",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-10T00:21:50.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "063eafed88e9",
