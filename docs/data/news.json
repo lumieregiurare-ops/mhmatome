@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-12T16:30:17.026Z",
+  "updatedAt": "2026-10-12T17:00:17.199Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 61,
+  "total": 62,
   "todayCount": 0,
   "categories": [
     {
@@ -22,7 +22,7 @@
     {
       "id": "event",
       "label": "イベント・クエスト",
-      "count": 3
+      "count": 2
     },
     {
       "id": "collab",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 13
+      "count": 12
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 38
+      "count": 41
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 42
+      "count": 43
     },
     {
       "id": "rise",
@@ -100,18 +100,18 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 21
+      "count": 20
     },
     {
       "name": "YouTube",
       "count": 16
     },
     {
-      "name": "ファミ通",
-      "count": 5
+      "name": "Howl.link",
+      "count": 6
     },
     {
-      "name": "Howl.link",
+      "name": "ファミ通",
       "count": 5
     },
     {
@@ -152,6 +152,10 @@
     },
     {
       "name": "Yahoo!ニュース",
+      "count": 1
+    },
+    {
+      "name": "Howl.Link",
       "count": 1
     },
     {
@@ -214,25 +218,31 @@
       ]
     },
     {
-      "id": "8b21ef16de53",
-      "title": "そろそろ装備を新調しなきゃかも？【モンハンワイルズ】",
+      "id": "019e6774fa75",
+      "title": "モンハンワイルズ参加型配信！",
       "summary": "",
-      "url": "https://t.co/39LrdUFObq",
+      "url": "https://t.co/PlwckuU9cC",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485337.png?date=1740668237",
       "leadSource": "Howl.link",
-      "publishedAt": "2026-10-12T09:43:08.000Z",
+      "publishedAt": "2026-10-12T11:27:56.000Z",
       "sourceCount": 2,
       "articleCount": 4,
       "categories": [
-        "guide",
-        "other"
+        "other",
+        "guide"
       ],
       "keywords": [
         "モンハンワイルズ",
-        "装備",
-        "モンスターハンターワイルズ"
+        "装備"
       ],
       "articles": [
+        {
+          "title": "そろそろ装備を新調しなきゃかも？【モンハンワイルズ】",
+          "url": "https://t.co/39LrdUFObq",
+          "source": "Howl.link",
+          "publishedAt": "2026-10-12T09:43:08.000Z",
+          "isPR": false
+        },
         {
           "title": "【モンハンワイルズ】滅龍周回",
           "url": "https://t.co/1mORiacq32",
@@ -245,13 +255,6 @@
           "url": "https://gamewith.jp/mhwilds/485337",
           "source": "GameWith",
           "publishedAt": "2026-10-11T14:27:05.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ】ライトボウガンの最強装備・おすすめ装備【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/484946",
-          "source": "GameWith",
-          "publishedAt": "2026-10-11T08:26:16.000Z",
           "isPR": false
         }
       ]
@@ -372,12 +375,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-12T16:00:16.460Z",
-    "previousCount": 1,
-    "newCount": 60
+    "previousAt": "2026-10-12T16:30:17.026Z",
+    "previousCount": 61,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-12T17:00:17.026Z",
+  "nextUpdateAt": "2026-10-12T17:30:17.199Z",
   "items": [
     {
       "id": "45e10ffdb57f",
@@ -398,7 +401,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3a4de0adfbb3",
@@ -419,7 +422,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8c263d754440",
@@ -430,6 +433,27 @@
       "summary": "",
       "publishedAt": "2026-10-12T13:02:01.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/famitsu/89516/a36f87ce7ce3ea6a26b1f089bf7a1223e.png?x=1280",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "019e6774fa75",
+      "title": "モンハンワイルズ参加型配信！",
+      "url": "https://t.co/PlwckuU9cC",
+      "host": "t.co",
+      "source": "Howl.link",
+      "summary": "",
+      "publishedAt": "2026-10-12T11:27:56.000Z",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -462,7 +486,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ec9e4a5f16ec",
@@ -483,7 +507,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8b21ef16de53",
@@ -504,7 +528,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "619a0068df3f",
@@ -525,7 +549,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f4f222ac2e2d",
@@ -535,7 +559,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-10-12T08:10:03.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575036.png?date=1789770113",
       "categories": [
         "other"
       ],
@@ -546,7 +570,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e6d79acfa4bd",
@@ -556,7 +580,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-10-12T07:58:31.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
       "categories": [
         "guide"
       ],
@@ -565,7 +589,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4cd467a24cc4",
@@ -575,7 +599,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-10-12T05:50:12.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577734.png?date=1789765976",
       "categories": [
         "other"
       ],
@@ -586,7 +610,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4453b9bbbd1c",
@@ -608,7 +632,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2b973c5ee13c",
@@ -629,7 +653,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a055fdb36115",
@@ -650,7 +674,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5fc879b1cca5",
@@ -660,7 +684,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-10-12T00:32:18.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545381.png?date=1771384851",
       "categories": [
         "guide"
       ],
@@ -671,7 +695,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "95bd4cf7f703",
@@ -692,7 +716,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4fc291f0d6e9",
@@ -715,7 +739,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3a847101d21f",
@@ -736,7 +760,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "01ecc972bd97",
@@ -758,7 +782,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "83b2536604c0",
@@ -780,7 +804,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5705da647fc7",
@@ -801,7 +825,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "390aaa23d88d",
@@ -822,7 +846,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f1e344fb9da2",
@@ -844,7 +868,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "020a33329177",
@@ -865,7 +889,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e6871ed5ac5d",
@@ -887,7 +911,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "85a8252851da",
@@ -908,7 +932,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fca5a3b45938",
@@ -929,7 +953,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0b15d718d4a3",
@@ -948,7 +972,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "055b1178bdae",
@@ -969,7 +993,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7cb00dbd91e3",
@@ -990,28 +1014,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "d94972b8ccc2",
-      "title": "【モンハンワイルズ】ライトボウガンの最強装備・おすすめ装備【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/484946",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-11T08:26:16.000Z",
-      "image": "",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fbf2d5098c1f",
@@ -1032,7 +1035,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0a960687b514",
@@ -1053,7 +1056,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "81f8b61d9239",
@@ -1074,7 +1077,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "cd75942bde4f",
@@ -1095,7 +1098,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6729d75a6dad",
@@ -1114,7 +1117,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "419ceb08f86a",
@@ -1135,7 +1138,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "411bb4076b94",
@@ -1145,7 +1148,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-10-10T22:33:28.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575038.png?date=1789770323",
       "categories": [
         "other"
       ],
@@ -1156,7 +1159,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d605748fb698",
@@ -1166,7 +1169,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-10-10T22:26:07.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574841.png?date=1789771579",
       "categories": [
         "other"
       ],
@@ -1177,7 +1180,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d8b95bbbc335",
@@ -1187,7 +1190,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-10-10T19:03:32.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563040.png?date=1789770455",
       "categories": [
         "other"
       ],
@@ -1198,7 +1201,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e08e6c8ea2a8",
@@ -1208,7 +1211,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-10-10T18:27:20.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563104.png?date=1789770630",
       "categories": [
         "other"
       ],
@@ -1219,7 +1222,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "010ece4575cd",
@@ -1229,7 +1232,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-10-10T17:52:41.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563066.png?date=1780886791",
       "categories": [
         "new"
       ],
@@ -1240,7 +1243,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "eb58d12cc1e0",
@@ -1261,7 +1264,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "778fbb3d5344",
@@ -1271,6 +1274,27 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-10-10T15:31:13.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577281.png?date=1789571405",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "32b64ea89a63",
+      "title": "週末いかがお過ごしでしょうか？３連休初日でゆったり？【モンスターハンターワイルズ】概要欄必読 PS5版",
+      "url": "https://t.co/5BvaEvxYyX",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-10T12:13:54.000Z",
       "image": "",
       "categories": [
         "other"
@@ -1292,7 +1316,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-10-10T12:05:11.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
       "categories": [
         "other"
       ],
@@ -1303,7 +1327,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "488c58093be3",
@@ -1324,7 +1348,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d680de88f01d",
@@ -1340,6 +1364,27 @@
       ],
       "series": [
         "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "420f3b159eef",
+      "title": "【サンブレイク】護石周回とリセマラのやり方｜護石厳選",
+      "url": "https://gamewith.jp/mhrize/article/show/350830",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-10T10:23:26.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/350830.png?date=1656968522",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1366,7 +1411,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9ac97cb88964",
@@ -1387,7 +1432,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "40bccce677c8",
@@ -1397,7 +1442,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-10-10T07:01:10.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485475.png?date=1789753003",
       "categories": [
         "other"
       ],
@@ -1408,7 +1453,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0b68bd1287fd",
@@ -1418,7 +1463,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-10-10T06:28:35.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577790.png?date=1789746410",
       "categories": [
         "other"
       ],
@@ -1429,7 +1474,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c1bcaad1eabb",
@@ -1439,7 +1484,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-10-10T04:06:16.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/229446.png?date=1619765775",
       "categories": [
         "guide"
       ],
@@ -1450,7 +1495,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "819405308f52",
@@ -1469,7 +1514,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6fd2c6faafe4",
@@ -1490,7 +1535,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f788118c3e78",
@@ -1511,7 +1556,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "063eafed88e9",
@@ -1532,7 +1577,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "89d87e4cc4c7",
@@ -1553,7 +1598,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3764e8792682",
@@ -1563,7 +1608,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-10-09T22:40:13.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/260893.png?date=1615284412",
       "categories": [
         "guide"
       ],
@@ -1574,7 +1619,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "adee0c448301",
@@ -1595,7 +1640,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "36bf38ad62e4",
@@ -1616,28 +1661,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "03c0bc8de9bb",
-      "title": "【モンハンライズ】イベントクエスト一覧と報酬",
-      "url": "https://gamewith.jp/mhrize/article/show/273458",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-09T16:47:12.000Z",
-      "image": "",
-      "categories": [
-        "event"
-      ],
-      "series": [
-        "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "79879d792dce",
