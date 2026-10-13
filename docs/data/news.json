@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-13T21:30:17.100Z",
+  "updatedAt": "2026-10-13T22:00:19.173Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 67,
-  "todayCount": 4,
+  "total": 63,
+  "todayCount": 3,
   "categories": [
     {
       "id": "new",
@@ -52,7 +52,7 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 3
+      "count": 2
     },
     {
       "id": "sales",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 49
+      "count": 46
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 47
+      "count": 44
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 10
+      "count": 9
     },
     {
       "id": "now",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 30
+      "count": 26
     },
     {
       "name": "GameWith",
@@ -111,15 +111,19 @@
       "count": 3
     },
     {
-      "name": "ファミ通.com",
-      "count": 3
-    },
-    {
       "name": "Howl.link",
       "count": 3
     },
     {
+      "name": "ファミ通.com",
+      "count": 2
+    },
+    {
       "name": "ガジェット通信",
+      "count": 2
+    },
+    {
+      "name": "ライブドアニュース",
       "count": 2
     },
     {
@@ -144,10 +148,6 @@
     },
     {
       "name": "千葉テレビ放送株式会社",
-      "count": 1
-    },
-    {
-      "name": "ライブドアニュース",
       "count": 1
     },
     {
@@ -226,7 +226,7 @@
       "leadSource": "ファミ通",
       "publishedAt": "2026-10-13T20:38:48.000Z",
       "sourceCount": 2,
-      "articleCount": 5,
+      "articleCount": 4,
       "categories": [
         "other"
       ],
@@ -236,13 +236,6 @@
         "ファミ"
       ],
       "articles": [
-        {
-          "title": "画像ページ (15/31) 11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月…",
-          "url": "https://www.famitsu.com/article/images/202610/89516/886654",
-          "source": "ファミ通.com",
-          "publishedAt": "2026-10-13T19:33:36.000Z",
-          "isPR": false
-        },
         {
           "title": "画像ページ (7/31) 11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月1…",
           "url": "https://www.famitsu.com/article/images/202610/89516/893438",
@@ -320,15 +313,43 @@
           "isPR": false
         }
       ]
+    },
+    {
+      "id": "0a960687b514",
+      "title": "FRONTIERゲーミングPCブランド「FREX∀R」が誕生1周年。「モンハンワイルズ」など3作品から1本プレゼント",
+      "summary": "",
+      "url": "https://news.mynavi.jp/article/20261011-5110942/",
+      "image": "https://news.mynavi.jp/article/20261011-5110942/ogp_images/ogp.jpg",
+      "leadSource": "マイナビニュース",
+      "publishedAt": "2026-10-11T05:11:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "モンハンワイルズ",
+        "frontier",
+        "frex"
+      ],
+      "articles": [
+        {
+          "title": "【画像】FRONTIERゲーミングPCブランド「FREX∀R」が誕生1周年。「モンハンワイルズ」など3作品から1本プレゼント",
+          "url": "https://news.livedoor.com/article/image_detail/32541835/?img_id",
+          "source": "ライブドアニュース",
+          "publishedAt": "2026-10-11T05:11:00.000Z",
+          "isPR": false
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-13T21:00:15.821Z",
-    "previousCount": 68,
-    "newCount": 4
+    "previousAt": "2026-10-13T21:30:17.100Z",
+    "previousCount": 67,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-13T22:00:17.100Z",
+  "nextUpdateAt": "2026-10-13T22:30:19.173Z",
   "items": [
     {
       "id": "6bbbb6906ad9",
@@ -349,7 +370,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3a847101d21f",
@@ -373,27 +394,6 @@
       "isNew": false
     },
     {
-      "id": "90d2496a8349",
-      "title": "画像ページ (15/31) 11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月…",
-      "url": "https://www.famitsu.com/article/images/202610/89516/886654",
-      "host": "famitsu.com",
-      "source": "ファミ通.com",
-      "summary": "",
-      "publishedAt": "2026-10-13T19:33:36.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/89516/a6dae66143dda87d247b554a5cb420a96.jpg?x=1280",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "ff4fbdb0d328",
       "title": "画像ページ (7/31) 11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月1…",
       "url": "https://www.famitsu.com/article/images/202610/89516/893438",
@@ -407,28 +407,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "fbeb758ce8d5",
-      "title": "【MHWilds】歴戦王アルシュベルド ランスソロ 生産武器・護石 9'36 / Arch Tempered Arkveld Craftable Lance and Talisman",
-      "url": "https://youtu.be/-GY62PXnPOE",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-13T13:42:13.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -666,7 +644,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "28ae22763412",
@@ -1001,7 +979,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "547c1490bf36",
@@ -1526,25 +1504,6 @@
       "isNew": false
     },
     {
-      "id": "b874e6f3247c",
-      "title": "【MHP2ndG/PSP】ナルガクルガ倒しました",
-      "url": "https://youtu.be/YzKwiH-nsqg",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-11T09:00:18.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "7cb00dbd91e3",
       "title": "【画像】レンジャー隊に緊急クエスト＠大阪 『モンハンストーリーズ3』×大阪文化回廊コラボ【10／14～2／19】",
       "url": "https://news.livedoor.com/article/image_detail/32542859/?img_id",
@@ -1558,27 +1517,6 @@
       ],
       "series": [
         "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "fbf2d5098c1f",
-      "title": "【ハンマー縛り】ババコンガの毛がフサフサすぎた【モンハンワイルズ】＃4",
-      "url": "https://youtu.be/F35_HtOXQsI?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-11T08:16:22.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1608,6 +1546,27 @@
       "isNew": false
     },
     {
+      "id": "51ae9686367a",
+      "title": "【画像】FRONTIERゲーミングPCブランド「FREX∀R」が誕生1周年。「モンハンワイルズ」など3作品から1本プレゼント",
+      "url": "https://news.livedoor.com/article/image_detail/32541835/?img_id",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
+      "summary": "",
+      "publishedAt": "2026-10-11T05:11:00.000Z",
+      "image": "https://image.news.livedoor.com/newsimage/stf/8/8/880a0_1223_818bc7f36fa80437ddcde2b484dd9b5d.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "81f8b61d9239",
       "title": "【モンハンワイルズ】10アルシュ もっと簡単作成装備での野良攻略",
       "url": "https://youtu.be/Rj5OXrDPh8w?si",
@@ -1618,27 +1577,6 @@
       "image": "",
       "categories": [
         "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "cd75942bde4f",
-      "title": "◇【モンハンワイルズ】闘技大会/チャタカブラ/太刀03'01\"90",
-      "url": "https://youtu.be/eL0xuivJbLs?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-11T03:00:17.000Z",
-      "image": "",
-      "categories": [
-        "community"
       ],
       "series": [
         "wilds"
