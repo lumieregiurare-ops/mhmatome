@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-13T08:30:17.975Z",
+  "updatedAt": "2026-10-13T09:00:17.201Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 65,
+  "total": 66,
   "todayCount": 15,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 13
+      "count": 11
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 46
+      "count": 49
     }
   ],
   "series": [
@@ -74,7 +74,7 @@
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 3
+      "count": 4
     },
     {
       "id": "world",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 10
+      "count": 9
     },
     {
       "id": "outlanders",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 21
+      "count": 22
     },
     {
       "name": "GameWith",
@@ -111,11 +111,11 @@
       "count": 6
     },
     {
-      "name": "AppMedia",
-      "count": 5
+      "name": "ファミ通",
+      "count": 4
     },
     {
-      "name": "ファミ通",
+      "name": "AppMedia",
       "count": 4
     },
     {
@@ -129,6 +129,10 @@
     {
       "name": "Howl.Link",
       "count": 2
+    },
+    {
+      "name": "パチンコ・パチスロ情報島＋",
+      "count": 1
     },
     {
       "name": "https://iyusuke.jp/",
@@ -416,13 +420,55 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-13T08:00:15.560Z",
+    "previousAt": "2026-10-13T08:30:17.975Z",
     "previousCount": 65,
-    "newCount": 1
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-13T09:00:17.975Z",
+  "nextUpdateAt": "2026-10-13T09:30:17.201Z",
   "items": [
+    {
+      "id": "16a3088c570a",
+      "title": "「スマスロ モンスターハンターライズ：サンブレイク」の“裏ボタン”を公開！【開発エンタビュー】",
+      "url": "https://p-johojima.jp/colum/post-73223/",
+      "host": "p-johojima.jp",
+      "source": "パチンコ・パチスロ情報島＋",
+      "summary": "",
+      "publishedAt": "2026-10-13T08:40:08.000Z",
+      "image": "https://p-johojima.jp/wp-content/uploads/2026/10/img.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "3c601507767a",
+      "title": "画像ページ (21/31) 11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月…",
+      "url": "https://www.famitsu.com/article/images/202610/89516/892967",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-10-13T08:00:42.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/89516/a46ea3830d450d0dcbb65b2ceaba41634.jpg?x=1280",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "573c89f6733d",
       "title": "【モンハンストーリーズ3】最強オトモンランキング【MHST3】",
@@ -459,27 +505,6 @@
       ],
       "series": [
         "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "76fe847f620b",
-      "title": "画像ページ (13/31) 11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月…",
-      "url": "https://www.famitsu.com/article/images/202610/89516/892964",
-      "host": "famitsu.com",
-      "source": "ファミ通",
-      "summary": "",
-      "publishedAt": "2026-10-13T03:49:30.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/89516/a08eda328709362bbddee22f11759f368.jpg?x=1280",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -547,6 +572,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "1522d4cef7f3",
+      "title": "【モンハンストーリーズ3】天変古龍一覧と出現条件【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79838603",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-13T01:17:03.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/191512_qv645.webp",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "fdbfaa09ede7",
@@ -674,27 +720,6 @@
       "isNew": false
     },
     {
-      "id": "f791b5f05428",
-      "title": "【モンハンストーリーズ3】レベル上げの効率的なやり方【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79833866",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-12T17:19:25.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/183830_lg0m4.webp",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "600cd1e4e33d",
       "title": "【モンハンストーリーズ3】クリア後の追加要素とやり込み要素【MHST3】",
       "url": "https://appmedia.jp/mhst3/79843649",
@@ -714,27 +739,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "c1ce900bfe63",
-      "title": "【モンハンストーリーズ3】侵獣攻略一覧｜解放できる危惧種まとめ【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79844810",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-12T17:05:10.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/105921_5y7po.webp",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "547c1490bf36",
@@ -1010,6 +1014,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "dbccee692a49",
+      "title": "【モンスターハンターNow】６武器種vs次元臨界パオウルムー 前編【拠点要撃戦】",
+      "url": "https://youtu.be/Y0AVRfbzQ_Y?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-12T08:09:03.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "46ab930cbc6c",
