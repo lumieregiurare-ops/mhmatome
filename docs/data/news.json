@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-13T00:00:15.980Z",
+  "updatedAt": "2026-10-13T00:30:15.608Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 66,
+  "total": 65,
   "todayCount": 4,
   "categories": [
     {
@@ -62,24 +62,24 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 47
+      "count": 46
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 44
+      "count": 43
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 6
+      "count": 7
     },
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 10
+      "count": 9
     },
     {
       "id": "now",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 21
+      "count": 22
     },
     {
       "name": "GameWith",
@@ -108,7 +108,7 @@
     },
     {
       "name": "Howl.link",
-      "count": 7
+      "count": 6
     },
     {
       "name": "ファミ通",
@@ -128,10 +128,6 @@
     },
     {
       "name": "AppBank",
-      "count": 1
-    },
-    {
-      "name": "ウォーカープラス",
       "count": 1
     },
     {
@@ -325,32 +321,6 @@
       ]
     },
     {
-      "id": "2a0c74506701",
-      "title": "【モンスターハンター：ワイルズ】守り人の使命とこれから ＶＳゾ・シア",
-      "summary": "",
-      "url": "https://youtu.be/1HLsDUu9Q8Q",
-      "image": "",
-      "leadSource": "YouTube",
-      "publishedAt": "2026-10-12T12:04:30.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other"
-      ],
-      "keywords": [
-        "ワイルズ"
-      ],
-      "articles": [
-        {
-          "title": "#モンハンワイルズ参加型 】深夜の参加型ワイルズ #116 激チケ消費！英雄の証で護石周回！ 速射の護石が欲しい・・・・キーマウ #mhwilds #モンスターハンターワイルズ",
-          "url": "https://t.co/mtwuEzF63W",
-          "source": "Howl.link",
-          "publishedAt": "2026-10-11T13:41:11.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "ec9e4a5f16ec",
       "title": "モンハンライズがNetflixでスマホ版に｜日本の配信はいつ？サンブレイクの有無も整理",
       "summary": "",
@@ -491,13 +461,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-12T23:30:16.816Z",
-    "previousCount": 65,
-    "newCount": 4
+    "previousAt": "2026-10-13T00:00:15.980Z",
+    "previousCount": 66,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-13T00:30:15.980Z",
+  "nextUpdateAt": "2026-10-13T01:00:15.608Z",
   "items": [
+    {
+      "id": "3a847101d21f",
+      "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
+      "url": "https://www.famitsu.com/article/images/202610/90097/892948",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-10-12T22:19:38.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90097/cf99687dd719c4e8bc6a39e946c3d9ef7.jpg?x=1280",
+      "categories": [
+        "media"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "fdbfaa09ede7",
       "title": "【MonsterHunterWilds】孤独から出でし君という自由。星10歴戦王アルシュベルド 5'55\"20 火事場弓ソロ 捕獲",
@@ -515,7 +506,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a055fdb36115",
@@ -552,27 +543,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "3a847101d21f",
-      "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
-      "url": "https://www.famitsu.com/article/images/202610/90097/892951",
-      "host": "famitsu.com",
-      "source": "ファミ通",
-      "summary": "",
-      "publishedAt": "2026-10-12T15:45:28.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90097/cfac4ef5554f69012fe38d2f1d4e245a6.jpg?x=1280",
-      "categories": [
-        "media"
-      ],
-      "series": [
-        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -748,7 +718,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8b21ef16de53",
@@ -852,25 +822,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "ffd59e8e082b",
-      "title": "原宿でリアル「モンハン」!?期間限定のマルチプレイスポットが登場",
-      "url": "https://www.walkerplus.com/article/140574/",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-10-12T06:09:39.000Z",
-      "image": "https://news.walkerplus.com/article/140574/788651_615.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "4cd467a24cc4",
@@ -1059,28 +1010,6 @@
       ],
       "series": [
         "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f1e344fb9da2",
-      "title": "#モンハンワイルズ参加型 】深夜の参加型ワイルズ #116 激チケ消費！英雄の証で護石周回！ 速射の護石が欲しい・・・・キーマウ #mhwilds #モンスターハンターワイルズ",
-      "url": "https://t.co/mtwuEzF63W",
-      "host": "t.co",
-      "source": "Howl.link",
-      "summary": "",
-      "publishedAt": "2026-10-11T13:41:11.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1330,6 +1259,27 @@
       ],
       "series": [
         "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "f1e344fb9da2",
+      "title": "＃30【モンスターハンターライズ】初心者コンビでナルガクルガ戦してみた",
+      "url": "https://youtu.be/KhGbNEz-1AA?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-11T03:00:07.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
       ],
       "isOfficial": false,
       "isPR": false,
