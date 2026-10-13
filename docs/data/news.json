@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-13T15:30:17.369Z",
+  "updatedAt": "2026-10-13T16:00:23.951Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 67,
+  "total": 68,
   "todayCount": 0,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 13
+      "count": 14
     },
     {
       "id": "sale",
@@ -74,12 +74,12 @@
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 2
+      "count": 3
     },
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 14
+      "count": 13
     },
     {
       "id": "now",
@@ -100,23 +100,23 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 29
+      "count": 30
     },
     {
       "name": "GameWith",
       "count": 14
     },
     {
+      "name": "ファミ通",
+      "count": 5
+    },
+    {
       "name": "AppMedia",
       "count": 4
     },
     {
-      "name": "ファミ通",
-      "count": 4
-    },
-    {
       "name": "Howl.link",
-      "count": 4
+      "count": 3
     },
     {
       "name": "ガジェット通信",
@@ -327,13 +327,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-13T15:00:21.512Z",
-    "previousCount": 0,
-    "newCount": 0
+    "previousAt": "2026-10-13T15:30:17.369Z",
+    "previousCount": 67,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-13T16:00:17.369Z",
+  "nextUpdateAt": "2026-10-13T16:30:23.951Z",
   "items": [
+    {
+      "id": "4bc982a0565e",
+      "title": "画像ページ (29/31) 11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月…",
+      "url": "https://www.famitsu.com/article/images/202610/89516/886683",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-10-13T14:28:02.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/89516/a8a6cfbaca45ed10861c7b9a42a0e45da.jpg?x=1280",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "ae22bde960f2",
       "title": "【モンハンストーリーズ3】タマゴ厳選の効率的なやり方｜レア度の違い【MHST3】",
@@ -354,6 +375,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "002be6d24581",
+      "title": "【モンハンストーリーズ3】料理のおすすめ【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79834685",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-13T13:43:15.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/191355_k3uqg.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "1145500376db",
@@ -574,27 +616,6 @@
       "summary": "",
       "publishedAt": "2026-10-13T10:59:12.000Z",
       "image": "https://appmedia.jp/wp-content/uploads/2026/03/113524_nts14.webp",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "67f07b7d284b",
-      "title": "【モンハンストーリーズ3】レウスのオトモン情報｜入手方法・絆遺伝子【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79827905",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-13T10:14:35.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2020/01/home_image.png",
       "categories": [
         "other"
       ],
@@ -1450,28 +1471,6 @@
       "isNew": false
     },
     {
-      "id": "f1e344fb9da2",
-      "title": "#モンハンワイルズ参加型 】深夜の参加型ワイルズ #116 激チケ消費！英雄の証で護石周回！ 速射の護石が欲しい・・・・キーマウ #mhwilds #モンスターハンターワイルズ",
-      "url": "https://t.co/mtwuEzF63W",
-      "host": "t.co",
-      "source": "Howl.link",
-      "summary": "",
-      "publishedAt": "2026-10-11T13:41:11.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "020a33329177",
       "title": "【火力・快適・硬さ全盛り】歴戦王も楽勝？な最高改良型ガンランス装備！これが究極の完成形かも【モンハンワイルズ】",
       "url": "https://youtu.be/DDnE1TQaNF4?si",
@@ -1671,6 +1670,27 @@
       ],
       "series": [
         "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "f1e344fb9da2",
+      "title": "＃30【モンスターハンターライズ】初心者コンビでナルガクルガ戦してみた",
+      "url": "https://youtu.be/KhGbNEz-1AA?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-11T03:00:07.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
       ],
       "isOfficial": false,
       "isPR": false,
