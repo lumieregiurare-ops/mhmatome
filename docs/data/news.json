@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-13T00:30:15.608Z",
+  "updatedAt": "2026-10-13T01:00:18.752Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 65,
+  "total": 64,
   "todayCount": 4,
   "categories": [
     {
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 46
+      "count": 45
     }
   ],
   "series": [
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 22
+      "count": 21
     },
     {
       "name": "GameWith",
@@ -249,6 +249,13 @@
           "isPR": false
         },
         {
+          "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563077",
+          "source": "GameWith",
+          "publishedAt": "2026-10-12T06:23:31.000Z",
+          "isPR": false
+        },
+        {
           "title": "【アセンダンス】双剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/577734",
           "source": "GameWith",
@@ -267,13 +274,6 @@
           "url": "https://gamewith.jp/mhwilds/545381",
           "source": "GameWith",
           "publishedAt": "2026-10-12T00:32:18.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/575038",
-          "source": "GameWith",
-          "publishedAt": "2026-10-10T22:33:28.000Z",
           "isPR": false
         }
       ]
@@ -461,12 +461,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-13T00:00:15.980Z",
-    "previousCount": 66,
+    "previousAt": "2026-10-13T00:30:15.608Z",
+    "previousCount": 65,
     "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-13T01:00:15.608Z",
+  "nextUpdateAt": "2026-10-13T01:30:18.752Z",
   "items": [
     {
       "id": "3a847101d21f",
@@ -824,6 +824,27 @@
       "isNew": false
     },
     {
+      "id": "46ab930cbc6c",
+      "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/563077",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-12T06:23:31.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "4cd467a24cc4",
       "title": "【アセンダンス】双剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/577734",
@@ -1136,25 +1157,6 @@
       "series": [
         "stories"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "b874e6f3247c",
-      "title": "【MHP2ndG/PSP】ナルガクルガ倒しました",
-      "url": "https://youtu.be/YzKwiH-nsqg",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-11T09:00:18.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1525,27 +1527,6 @@
       "summary": "",
       "publishedAt": "2026-10-10T12:13:54.000Z",
       "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "46ab930cbc6c",
-      "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563077",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-10T12:05:11.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
       "categories": [
         "other"
       ],
