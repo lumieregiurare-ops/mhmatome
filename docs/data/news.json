@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T22:30:19.804Z",
+  "updatedAt": "2026-10-13T23:00:18.020Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 65,
-  "todayCount": 3,
+  "todayCount": 4,
   "categories": [
     {
       "id": "new",
@@ -52,17 +52,17 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 3
+      "count": 2
     },
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 1
+      "count": 0
     },
     {
       "id": "other",
       "label": "その他",
-      "count": 46
+      "count": 48
     }
   ],
   "series": [
@@ -168,8 +168,8 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545381.png?date=1771384851",
       "leadSource": "GameWith",
       "publishedAt": "2026-10-13T12:37:21.000Z",
-      "sourceCount": 3,
-      "articleCount": 6,
+      "sourceCount": 2,
+      "articleCount": 5,
       "categories": [
         "guide",
         "other"
@@ -199,13 +199,6 @@
           "url": "https://gamewith.jp/mhwilds/492800",
           "source": "GameWith",
           "publishedAt": "2026-10-12T10:05:08.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ】滅龍周回",
-          "url": "https://t.co/1mORiacq32",
-          "source": "Howl.link",
-          "publishedAt": "2026-10-12T04:30:00.000Z",
           "isPR": false
         },
         {
@@ -255,6 +248,32 @@
           "url": "https://www.famitsu.com/article/images/202610/89516/895230",
           "source": "ファミ通",
           "publishedAt": "2026-10-13T02:44:47.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "b58662978edc",
+      "title": "『欲しい護石をマカ錬金に詰めてた』との指摘に心拍数130突破した茶々茶【モンハンワイルズ】",
+      "summary": "",
+      "url": "https://youtu.be/P35CDpOZlN8",
+      "image": "",
+      "leadSource": "YouTube",
+      "publishedAt": "2026-10-13T22:00:19.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "モンハンワイルズ"
+      ],
+      "articles": [
+        {
+          "title": "【モンハンワイルズ】滅龍周回",
+          "url": "https://t.co/1mORiacq32",
+          "source": "Howl.link",
+          "publishedAt": "2026-10-12T04:30:00.000Z",
           "isPR": false
         }
       ]
@@ -316,13 +335,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-13T22:00:19.173Z",
-    "previousCount": 63,
-    "newCount": 4
+    "previousAt": "2026-10-13T22:30:19.804Z",
+    "previousCount": 65,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-13T23:00:19.804Z",
+  "nextUpdateAt": "2026-10-13T23:30:18.020Z",
   "items": [
+    {
+      "id": "b58662978edc",
+      "title": "『欲しい護石をマカ錬金に詰めてた』との指摘に心拍数130突破した茶々茶【モンハンワイルズ】",
+      "url": "https://youtu.be/P35CDpOZlN8",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-13T22:00:19.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "6bbbb6906ad9",
       "title": "画像ページ (5/31) 11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月1…",
@@ -385,6 +425,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "fbeb758ce8d5",
+      "title": "【MHWilds】歴戦王アルシュベルド ランスソロ 生産武器・護石 9'36 / Arch Tempered Arkveld Craftable Lance and Talisman",
+      "url": "https://youtu.be/-GY62PXnPOE",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-13T13:42:13.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "19b89b70da3a",
@@ -1375,28 +1437,6 @@
       "isNew": false
     },
     {
-      "id": "83b2536604c0",
-      "title": "【MHWilds】記録用 ★10歴戦王アルシュベルド 双剣火事場 捕獲 4'58\"14",
-      "url": "https://youtu.be/X4e6S3f3V2M?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-11T15:00:41.000Z",
-      "image": "",
-      "categories": [
-        "sales"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "390aaa23d88d",
       "title": "『モンハンNow』ペイントボール使い放題!! 拠点要撃戦の前後30分に注目が集まる3周年記念装備強化促進クエスト最終ガイド",
       "url": "https://getnews.jp/archives/3748188",
@@ -1495,7 +1535,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7cb00dbd91e3",
@@ -1537,7 +1577,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0a960687b514",
@@ -1580,27 +1620,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "cd75942bde4f",
-      "title": "◇【モンハンワイルズ】闘技大会/チャタカブラ/太刀03'01\"90",
-      "url": "https://youtu.be/eL0xuivJbLs?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-11T03:00:17.000Z",
-      "image": "",
-      "categories": [
-        "community"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "f1e344fb9da2",
