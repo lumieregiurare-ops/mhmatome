@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-13T07:30:15.775Z",
+  "updatedAt": "2026-10-13T08:00:15.560Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 63,
-  "todayCount": 13,
+  "total": 65,
+  "todayCount": 14,
   "categories": [
     {
       "id": "new",
@@ -62,24 +62,24 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 44
+      "count": 46
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 42
+      "count": 44
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 4
+      "count": 3
     },
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 9
+      "count": 10
     },
     {
       "id": "now",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 8
+      "count": 9
     },
     {
       "id": "outlanders",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 23
+      "count": 22
     },
     {
       "name": "GameWith",
@@ -108,15 +108,15 @@
     },
     {
       "name": "Howl.link",
-      "count": 5
+      "count": 6
+    },
+    {
+      "name": "AppMedia",
+      "count": 4
     },
     {
       "name": "ファミ通",
       "count": 4
-    },
-    {
-      "name": "AppMedia",
-      "count": 3
     },
     {
       "name": "shiritomo",
@@ -124,6 +124,10 @@
     },
     {
       "name": "ライブドアニュース",
+      "count": 2
+    },
+    {
+      "name": "Howl.Link",
       "count": 2
     },
     {
@@ -157,13 +161,45 @@
     {
       "name": "Yahoo!ニュース",
       "count": 1
-    },
-    {
-      "name": "Howl.Link",
-      "count": 1
     }
   ],
   "topics": [
+    {
+      "id": "81f8b61d9239",
+      "title": "【モンハンワイルズ】10アルシュ もっと簡単作成装備での野良攻略",
+      "summary": "",
+      "url": "https://youtu.be/Rj5OXrDPh8w?si",
+      "image": "",
+      "leadSource": "YouTube",
+      "publishedAt": "2026-10-11T03:55:05.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "guide",
+        "other"
+      ],
+      "keywords": [
+        "モンハンワイルズ",
+        "アルシュ",
+        "wilds"
+      ],
+      "articles": [
+        {
+          "title": "【MH Wilds】参加型 モンハンワイルズ王アルシュ100体耐",
+          "url": "https://t.co/1HR3IIv9Ow",
+          "source": "Howl.link",
+          "publishedAt": "2026-10-11T00:57:29.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【MH Wilds】参加型 モンハンワイルズ王アルシュ100体耐久",
+          "url": "https://t.co/GAM458aaB6",
+          "source": "Howl.Link",
+          "publishedAt": "2026-10-10T14:33:24.000Z",
+          "isPR": false
+        }
+      ]
+    },
     {
       "id": "e6d79acfa4bd",
       "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
@@ -243,6 +279,32 @@
       ]
     },
     {
+      "id": "2a0c74506701",
+      "title": "【モンスターハンター：ワイルズ】守り人の使命とこれから ＶＳゾ・シア",
+      "summary": "",
+      "url": "https://youtu.be/1HLsDUu9Q8Q",
+      "image": "",
+      "leadSource": "YouTube",
+      "publishedAt": "2026-10-12T12:04:30.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "ワイルズ"
+      ],
+      "articles": [
+        {
+          "title": "#モンハンワイルズ参加型 】深夜の参加型ワイルズ #116 激チケ消費！英雄の証で護石周回！ 速射の護石が欲しい・・・・キーマウ #mhwilds #モンスターハンターワイルズ",
+          "url": "https://t.co/mtwuEzF63W",
+          "source": "Howl.link",
+          "publishedAt": "2026-10-11T13:41:11.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "ec9e4a5f16ec",
       "title": "モンハンライズがNetflixでスマホ版に｜日本の配信はいつ？サンブレイクの有無も整理",
       "summary": "",
@@ -301,7 +363,7 @@
       "title": "レンジャー隊に緊急クエスト＠大阪 『モンハンストーリーズ3』×大阪文化回廊コラボ【10／14～2／19】",
       "summary": "",
       "url": "https://www.chiba-tv.com/plus/detail/2026102100694",
-      "image": "https://img.jp.ekkowassets.com/f_auto,q_auto:eco/ch/units/279074856320255483/header_1.png",
+      "image": "https://image.news.livedoor.com/newsimage/stf/0/e/0e7fa_1460_3322d412_80f13081.jpg",
       "leadSource": "千葉テレビ放送",
       "publishedAt": "2026-10-11T09:06:58.000Z",
       "sourceCount": 2,
@@ -351,43 +413,15 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "81f8b61d9239",
-      "title": "【モンハンワイルズ】10アルシュ もっと簡単作成装備での野良攻略",
-      "summary": "",
-      "url": "https://youtu.be/Rj5OXrDPh8w?si",
-      "image": "",
-      "leadSource": "YouTube",
-      "publishedAt": "2026-10-11T03:55:05.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "guide",
-        "other"
-      ],
-      "keywords": [
-        "モンハンワイルズ",
-        "アルシュ"
-      ],
-      "articles": [
-        {
-          "title": "【MH Wilds】参加型 モンハンワイルズ王アルシュ100体耐",
-          "url": "https://t.co/1HR3IIv9Ow",
-          "source": "Howl.link",
-          "publishedAt": "2026-10-11T00:57:29.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-13T07:00:15.603Z",
-    "previousCount": 65,
-    "newCount": 1
+    "previousAt": "2026-10-13T07:30:15.775Z",
+    "previousCount": 63,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-13T08:00:15.775Z",
+  "nextUpdateAt": "2026-10-13T08:30:15.560Z",
   "items": [
     {
       "id": "573c89f6733d",
@@ -640,16 +674,37 @@
       "isNew": false
     },
     {
-      "id": "c1ce900bfe63",
-      "title": "【モンハンストーリーズ3】侵獣攻略一覧｜解放できる危惧種まとめ【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79844810",
+      "id": "f791b5f05428",
+      "title": "【モンハンストーリーズ3】レベル上げの効率的なやり方【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79833866",
       "host": "appmedia.jp",
       "source": "AppMedia",
       "summary": "",
-      "publishedAt": "2026-10-12T17:05:10.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/105921_5y7po.webp",
+      "publishedAt": "2026-10-12T17:19:25.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/183830_lg0m4.webp",
       "categories": [
         "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "600cd1e4e33d",
+      "title": "【モンハンストーリーズ3】クリア後の追加要素とやり込み要素【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79843649",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-12T17:15:09.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/143439_w9hov.webp",
+      "categories": [
+        "other"
       ],
       "series": [
         "stories"
@@ -1170,6 +1225,28 @@
       "isNew": false
     },
     {
+      "id": "f1e344fb9da2",
+      "title": "#モンハンワイルズ参加型 】深夜の参加型ワイルズ #116 激チケ消費！英雄の証で護石周回！ 速射の護石が欲しい・・・・キーマウ #mhwilds #モンスターハンターワイルズ",
+      "url": "https://t.co/mtwuEzF63W",
+      "host": "t.co",
+      "source": "Howl.link",
+      "summary": "",
+      "publishedAt": "2026-10-11T13:41:11.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "020a33329177",
       "title": "【火力・快適・硬さ全盛り】歴戦王も楽勝？な最高改良型ガンランス装備！これが究極の完成形かも【モンハンワイルズ】",
       "url": "https://youtu.be/DDnE1TQaNF4?si",
@@ -1260,7 +1337,7 @@
       "source": "千葉テレビ放送",
       "summary": "",
       "publishedAt": "2026-10-11T09:06:58.000Z",
-      "image": "https://img.jp.ekkowassets.com/f_auto,q_auto:eco/ch/units/279074856320255483/header_1.png",
+      "image": "",
       "categories": [
         "collab"
       ],
@@ -1419,27 +1496,6 @@
       "isNew": false
     },
     {
-      "id": "f1e344fb9da2",
-      "title": "＃30【モンスターハンターライズ】初心者コンビでナルガクルガ戦してみた",
-      "url": "https://youtu.be/KhGbNEz-1AA?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-11T03:00:07.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "64ea320d3b74",
       "title": "【MH Wilds】参加型 モンハンワイルズ王アルシュ100体耐",
       "url": "https://t.co/1HR3IIv9Ow",
@@ -1562,6 +1618,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "695d10a56da4",
+      "title": "【MH Wilds】参加型 モンハンワイルズ王アルシュ100体耐久",
+      "url": "https://t.co/GAM458aaB6",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-10T14:33:24.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "c6375557fc6b",
