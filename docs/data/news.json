@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T12:00:16.404Z",
+  "updatedAt": "2026-10-13T12:30:20.355Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 10
+      "count": 12
     },
     {
       "id": "sale",
@@ -62,24 +62,24 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 44
+      "count": 42
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 42
+      "count": 40
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 2
+      "count": 3
     },
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 11
+      "count": 10
     },
     {
       "id": "now",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 21
+      "count": 23
     },
     {
       "name": "GameWith",
@@ -116,14 +116,10 @@
     },
     {
       "name": "Howl.link",
-      "count": 4
+      "count": 3
     },
     {
       "name": "ライブドアニュース",
-      "count": 2
-    },
-    {
-      "name": "Howl.Link",
       "count": 2
     },
     {
@@ -164,6 +160,10 @@
     },
     {
       "name": "Yahoo!ニュース",
+      "count": 1
+    },
+    {
+      "name": "Howl.Link",
       "count": 1
     }
   ],
@@ -375,27 +375,48 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-13T11:30:19.612Z",
-    "previousCount": 64,
-    "newCount": 2
+    "previousAt": "2026-10-13T12:00:16.404Z",
+    "previousCount": 61,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-13T12:30:16.404Z",
+  "nextUpdateAt": "2026-10-13T13:00:20.355Z",
   "items": [
     {
-      "id": "75783d358b12",
-      "title": "【モンハンストーリーズ3】レベル上限はある？｜レベルが上がらないときの対処法【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79844852",
+      "id": "90b54f988b73",
+      "title": "【モンハンストーリーズ3】ネロミェールの攻略情報｜出現場所・入手素材【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79827026",
       "host": "appmedia.jp",
       "source": "AppMedia",
       "summary": "",
-      "publishedAt": "2026-10-13T10:59:12.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/113524_nts14.webp",
+      "publishedAt": "2026-10-13T11:39:53.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2020/01/home_image.png",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "3171038bb2f0",
+      "title": "画像ページ (9/31) 11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月1…",
+      "url": "https://www.famitsu.com/article/images/202610/89516/886653",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-10-13T10:36:57.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/89516/aafc8e8f20f2d9785d7bcd30c11fbfe51.png?x=1280",
       "categories": [
         "other"
       ],
       "series": [
-        "stories"
+        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -423,27 +444,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "67f07b7d284b",
-      "title": "【モンハンストーリーズ3】レウスのオトモン情報｜入手方法・絆遺伝子【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79827905",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-13T10:14:35.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2020/01/home_image.png",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "28ae22763412",
@@ -497,27 +497,6 @@
       "summary": "",
       "publishedAt": "2026-10-13T06:43:09.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575036.png?date=1789770113",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "1bf7655aefaf",
-      "title": "画像ページ (24/31) 11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月…",
-      "url": "https://www.famitsu.com/article/images/202610/89516/897425",
-      "host": "famitsu.com",
-      "source": "ファミ通",
-      "summary": "",
-      "publishedAt": "2026-10-13T05:28:19.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/89516/af09acd83c8c1876977d791b8f46b410d.jpg?x=1280",
       "categories": [
         "other"
       ],
@@ -802,6 +781,27 @@
       "isNew": false
     },
     {
+      "id": "c1ce900bfe63",
+      "title": "【モンハンストーリーズ3】侵獣攻略一覧｜解放できる危惧種まとめ【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79844810",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-12T17:05:10.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/105921_5y7po.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "547c1490bf36",
       "title": "【MONSTER HUNTER WILDS】見ていてね、しらうさが何をやるのかを！（ハードな方が強くなれる気がしてる）【steam版】【20狩目】",
       "url": "https://youtu.be/hiF5zpP_C-0?si",
@@ -916,7 +916,7 @@
       "source": "https://iyusuke.jp/",
       "summary": "",
       "publishedAt": "2026-10-12T09:51:30.000Z",
-      "image": "",
+      "image": "https://iyusuke.jp/wp-content/uploads/2026/10/mhrise-how.webp",
       "categories": [
         "other"
       ],
@@ -1033,6 +1033,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "dbccee692a49",
+      "title": "【モンスターハンターNow】６武器種vs次元臨界パオウルムー 前編【拠点要撃戦】",
+      "url": "https://youtu.be/Y0AVRfbzQ_Y?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-12T08:09:03.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "46ab930cbc6c",
@@ -1261,28 +1280,6 @@
       ],
       "series": [
         "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f1e344fb9da2",
-      "title": "#モンハンワイルズ参加型 】深夜の参加型ワイルズ #116 激チケ消費！英雄の証で護石周回！ 速射の護石が欲しい・・・・キーマウ #mhwilds #モンスターハンターワイルズ",
-      "url": "https://t.co/mtwuEzF63W",
-      "host": "t.co",
-      "source": "Howl.link",
-      "summary": "",
-      "publishedAt": "2026-10-11T13:41:11.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1540,6 +1537,27 @@
       "isNew": false
     },
     {
+      "id": "f1e344fb9da2",
+      "title": "＃30【モンスターハンターライズ】初心者コンビでナルガクルガ戦してみた",
+      "url": "https://youtu.be/KhGbNEz-1AA?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-11T03:00:07.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "6729d75a6dad",
       "title": "『モンハン』めじるしアクセサリーが初登場！リオレウスやジンオウガ、フルフルなど全6種が並び立つ（インサイド）",
       "url": "https://news.yahoo.co.jp/articles/d3ab5960c0fc8006d202f5d5af30afe8d8d3feae",
@@ -1629,27 +1647,6 @@
       "source": "Howl.Link",
       "summary": "",
       "publishedAt": "2026-10-10T14:33:24.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "32b64ea89a63",
-      "title": "週末いかがお過ごしでしょうか？３連休初日でゆったり？【モンスターハンターワイルズ】概要欄必読 PS5版",
-      "url": "https://t.co/5BvaEvxYyX",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-10-10T12:13:54.000Z",
       "image": "",
       "categories": [
         "other"
