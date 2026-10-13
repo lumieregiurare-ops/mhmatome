@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-13T10:00:14.403Z",
+  "updatedAt": "2026-10-13T10:30:17.972Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 64,
-  "todayCount": 17,
+  "total": 63,
+  "todayCount": 18,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 10
+      "count": 11
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 47
+      "count": 45
     }
   ],
   "series": [
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 25
+      "count": 23
     },
     {
       "name": "GameWith",
@@ -116,7 +116,7 @@
     },
     {
       "name": "AppMedia",
-      "count": 2
+      "count": 3
     },
     {
       "name": "ライブドアニュース",
@@ -390,12 +390,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-13T09:30:15.757Z",
-    "previousCount": 65,
-    "newCount": 2
+    "previousAt": "2026-10-13T10:00:14.403Z",
+    "previousCount": 64,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-13T10:30:14.403Z",
+  "nextUpdateAt": "2026-10-13T11:00:17.972Z",
   "items": [
     {
       "id": "28ae22763412",
@@ -417,7 +417,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "16a3088c570a",
@@ -647,7 +647,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fdbfaa09ede7",
@@ -752,6 +752,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "c1ce900bfe63",
+      "title": "【モンハンストーリーズ3】侵獣攻略一覧｜解放できる危惧種まとめ【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79844810",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-12T17:05:10.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/105921_5y7po.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "547c1490bf36",
@@ -1022,25 +1043,6 @@
       "series": [
         "wilds"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "dbccee692a49",
-      "title": "【モンスターハンターNow】６武器種vs次元臨界パオウルムー 前編【拠点要撃戦】",
-      "url": "https://youtu.be/Y0AVRfbzQ_Y?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-12T08:09:03.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1710,27 +1712,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d680de88f01d",
-      "title": "「レ・ダウ」に挑む！-PART101-【モンスターハンターストーリーズ3 ～運命の双竜～】",
-      "url": "https://youtu.be/RlQdXGibTTc?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-10T10:30:14.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
