@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-14T02:00:15.528Z",
+  "updatedAt": "2026-10-14T02:30:15.667Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 67,
+  "total": 66,
   "todayCount": 10,
   "categories": [
     {
@@ -47,12 +47,12 @@
     {
       "id": "sale",
       "label": "セール",
-      "count": 1
+      "count": 0
     },
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 3
+      "count": 2
     },
     {
       "id": "sales",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 48
+      "count": 49
     }
   ],
   "series": [
@@ -74,12 +74,12 @@
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 5
+      "count": 4
     },
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 11
+      "count": 10
     },
     {
       "id": "now",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 29
+      "count": 28
     },
     {
       "name": "GameWith",
@@ -123,8 +123,8 @@
       "count": 2
     },
     {
-      "name": "パチンコ・パチスロ情報島＋",
-      "count": 2
+      "name": "X",
+      "count": 1
     },
     {
       "name": "https://iyusuke.jp/",
@@ -132,6 +132,10 @@
     },
     {
       "name": "AppBank",
+      "count": 1
+    },
+    {
+      "name": "ウォーカープラス",
       "count": 1
     },
     {
@@ -330,44 +334,15 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "f1e344fb9da2",
-      "title": "#モンハンワイルズ参加型 】深夜の参加型ワイルズ #116 激チケ消費！英雄の証で護石周回！ 速射の護石が欲しい・・・・キーマウ #mhwilds #モンスターハンターワイルズ",
-      "summary": "",
-      "url": "https://t.co/mtwuEzF63W",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/461266.png?date=1727178690",
-      "leadSource": "Howl.link",
-      "publishedAt": "2026-10-11T13:41:11.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other",
-        "guide"
-      ],
-      "keywords": [
-        "モンスターハンターワイルズ",
-        "モンハンワイルズ",
-        "ワイルズ"
-      ],
-      "articles": [
-        {
-          "title": "【モンハンワイルズ】チャアクの操作方法と使い方・立ち回り【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/461266",
-          "source": "GameWith",
-          "publishedAt": "2026-10-11T02:37:59.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-14T01:30:15.831Z",
-    "previousCount": 63,
-    "newCount": 7
+    "previousAt": "2026-10-14T02:00:15.528Z",
+    "previousCount": 67,
+    "newCount": 5
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-14T02:30:15.528Z",
+  "nextUpdateAt": "2026-10-14T03:00:15.667Z",
   "items": [
     {
       "id": "e6d79acfa4bd",
@@ -791,6 +766,25 @@
       "isNew": false
     },
     {
+      "id": "0ce28856139e",
+      "title": "亜紗@モンハン写真部 (@p3dq4) on X - X",
+      "url": "https://x.com/intent/like?tweet_id",
+      "host": "x.com",
+      "source": "X",
+      "summary": "",
+      "publishedAt": "2026-10-13T11:09:35.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "ba4eb8939b43",
       "title": "【モンハンワイルズ】成長過程を報告♡歴戦王アルシュベルド弓ソロ10'15\"85♡孤独から出でし君という自由",
       "url": "https://youtu.be/Tq78t3l0LH4?si",
@@ -856,27 +850,6 @@
       "isNew": false
     },
     {
-      "id": "16a3088c570a",
-      "title": "「スマスロ モンスターハンターライズ：サンブレイク」の“裏ボタン”を公開！【開発エンタビュー】",
-      "url": "https://p-johojima.jp/colum/post-73223/",
-      "host": "p-johojima.jp",
-      "source": "パチンコ・パチスロ情報島＋",
-      "summary": "",
-      "publishedAt": "2026-10-13T08:40:08.000Z",
-      "image": "https://p-johojima.jp/wp-content/uploads/2026/10/img.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "0faf84f4c0fb",
       "title": "【MHWilds】竜熱擲弾ヘビィを担いでみませんか？【モンハンワイルズ】",
       "url": "https://youtu.be/lJ3BYaNG0nY?si",
@@ -897,25 +870,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "83178566b736",
-      "title": "ゲスの狩り騒ぎ！！モンハンダブルクロス Part18 骸龍編",
-      "url": "https://youtu.be/jsDXAXhvMkI?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-13T08:00:21.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "488c58093be3",
@@ -1169,27 +1123,6 @@
       "isNew": false
     },
     {
-      "id": "5c8e43ef83f5",
-      "title": "【MHR:SB ライブ切り抜き】特別討究バル茶ナス狩猟笛入り：1分32秒67 狩猟笛視点 （笛1火事場ヘヴィ3）【モンスターハンターライズ：サンブレイク】",
-      "url": "https://youtu.be/rU5oj28-oj0",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-12T14:30:53.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "bc267458231c",
       "title": "1年サボって初見で双剣ゴグマジオス撃破男 モンスターハンターワイルズ 装備 立ち回り",
       "url": "https://youtu.be/-Zuc7-yMY7o",
@@ -1231,6 +1164,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "737bce2c0d7f",
+      "title": "【MHWilds】お手伝いハンター生活【Vtuber】 #vtuber #mhwilds",
+      "url": "https://t.co/P2tGOodkan",
+      "host": "t.co",
+      "source": "Howl.link",
+      "summary": "",
+      "publishedAt": "2026-10-12T10:33:04.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "bc548e8b4345",
@@ -1335,7 +1290,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "619a0068df3f",
@@ -1399,6 +1354,27 @@
       "isNew": false
     },
     {
+      "id": "a758d5c603d3",
+      "title": "モンスターハンターライズ ・ランス、シルタ、アンカー、昇天。烈禍襲来。原初を刻むメル・ゼナ討伐動画(被弾・ミスあり)4分半台。※犬・錬成有りランス＆盟友・拘束系無し",
+      "url": "https://youtu.be/R2_kvMiQXHE?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-12T08:00:21.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "411bb4076b94",
       "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/575038",
@@ -1439,6 +1415,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "ffd59e8e082b",
+      "title": "原宿でリアル「モンハン」!?期間限定のマルチプレイスポットが登場",
+      "url": "https://www.walkerplus.com/article/140574/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-12T06:09:39.000Z",
+      "image": "https://news.walkerplus.com/article/140574/788651_615.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "4cd467a24cc4",
@@ -1568,28 +1563,6 @@
       "isNew": false
     },
     {
-      "id": "f1e344fb9da2",
-      "title": "#モンハンワイルズ参加型 】深夜の参加型ワイルズ #116 激チケ消費！英雄の証で護石周回！ 速射の護石が欲しい・・・・キーマウ #mhwilds #モンスターハンターワイルズ",
-      "url": "https://t.co/mtwuEzF63W",
-      "host": "t.co",
-      "source": "Howl.link",
-      "summary": "",
-      "publishedAt": "2026-10-11T13:41:11.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "020a33329177",
       "title": "【火力・快適・硬さ全盛り】歴戦王も楽勝？な最高改良型ガンランス装備！これが究極の完成形かも【モンハンワイルズ】",
       "url": "https://youtu.be/DDnE1TQaNF4?si",
@@ -1632,13 +1605,13 @@
       "isNew": false
     },
     {
-      "id": "b874e6f3247c",
-      "title": "【MHP2ndG/PSP】ナルガクルガ倒しました",
-      "url": "https://youtu.be/YzKwiH-nsqg",
+      "id": "0b15d718d4a3",
+      "title": "モンスターハンターＧ＃01／発掘記念保存用動画",
+      "url": "https://youtu.be/8EjCbCiEc-g?si",
       "host": "youtu.be",
       "source": "YouTube",
       "summary": "",
-      "publishedAt": "2026-10-11T09:00:18.000Z",
+      "publishedAt": "2026-10-11T10:44:23.000Z",
       "image": "",
       "categories": [
         "other"
@@ -1714,37 +1687,16 @@
       "isNew": false
     },
     {
-      "id": "bc715bf7efdc",
-      "title": "【MHW実況-Part３-】キャンプの護衛で壺とキノコが大好きなモンスターに出会ったのだ。【モンスターハンターワールド声出し実況】",
-      "url": "https://youtu.be/1A7ugfHcv8w?si",
+      "id": "f1e344fb9da2",
+      "title": "＃30【モンスターハンターライズ】初心者コンビでナルガクルガ戦してみた",
+      "url": "https://youtu.be/KhGbNEz-1AA?si",
       "host": "youtu.be",
       "source": "YouTube",
       "summary": "",
-      "publishedAt": "2026-10-11T03:24:28.000Z",
+      "publishedAt": "2026-10-11T03:00:07.000Z",
       "image": "",
       "categories": [
-        "community"
-      ],
-      "series": [
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "e49891f23a19",
-      "title": "「スマスロモンスターハンターライズ」のスマホアプリ割引セールを実施、通常1,900円が1,300円",
-      "url": "https://p-johojima.jp/news/post-72532/",
-      "host": "p-johojima.jp",
-      "source": "パチンコ・パチスロ情報島＋",
-      "summary": "",
-      "publishedAt": "2026-10-11T03:00:16.000Z",
-      "image": "https://p-johojima.jp/wp-content/uploads/2026/10/HUKBm2dacAAYjmC.jpg",
-      "categories": [
-        "sale"
+        "other"
       ],
       "series": [
         "rise"
@@ -1753,7 +1705,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f5f4b66f2fff",
