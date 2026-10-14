@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-14T10:00:14.410Z",
+  "updatedAt": "2026-10-14T10:30:14.987Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 64,
-  "todayCount": 21,
+  "total": 65,
+  "todayCount": 22,
   "categories": [
     {
       "id": "new",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 47
+      "count": 48
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 47
+      "count": 48
     },
     {
       "id": "rise",
@@ -111,6 +111,10 @@
       "count": 3
     },
     {
+      "name": "ファミ通",
+      "count": 2
+    },
+    {
       "name": "Howl.link",
       "count": 2
     },
@@ -120,10 +124,6 @@
     },
     {
       "name": "静岡新聞DIGITAL",
-      "count": 1
-    },
-    {
-      "name": "ファミ通",
       "count": 1
     },
     {
@@ -300,7 +300,7 @@
       "leadSource": "ファミ通",
       "publishedAt": "2026-10-14T09:05:15.000Z",
       "sourceCount": 2,
-      "articleCount": 3,
+      "articleCount": 4,
       "categories": [
         "other"
       ],
@@ -310,6 +310,13 @@
         "ファミ"
       ],
       "articles": [
+        {
+          "title": "画像ページ (8/31) 11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月1…",
+          "url": "https://www.famitsu.com/article/images/202610/89516/886652",
+          "source": "ファミ通",
+          "publishedAt": "2026-10-14T09:00:59.000Z",
+          "isPR": false
+        },
         {
           "title": "画像ページ (16/31) 11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月…",
           "url": "https://www.famitsu.com/article/images/202610/89516/894820",
@@ -328,12 +335,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-14T09:30:15.664Z",
-    "previousCount": 63,
-    "newCount": 4
+    "previousAt": "2026-10-14T10:00:14.410Z",
+    "previousCount": 64,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-14T10:30:14.410Z",
+  "nextUpdateAt": "2026-10-14T11:00:14.987Z",
   "items": [
     {
       "id": "83b731467e7b",
@@ -352,7 +359,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9f8eb6638756",
@@ -363,6 +370,27 @@
       "summary": "",
       "publishedAt": "2026-10-14T09:05:15.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/famitsu/89516/a4f2e377bed58282db6d7d62aba4b5dfe.jpg?x=1280",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "2d46283f4c69",
+      "title": "画像ページ (8/31) 11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月1…",
+      "url": "https://www.famitsu.com/article/images/202610/89516/886652",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-10-14T09:00:59.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/89516/a5f3b980f0213c331c10559468a556d31.png?x=1280",
       "categories": [
         "other"
       ],
@@ -394,7 +422,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "78000b51bbf1",
@@ -1109,7 +1137,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "488c58093be3",
