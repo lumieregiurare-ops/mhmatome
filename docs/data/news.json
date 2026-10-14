@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-14T07:30:14.987Z",
+  "updatedAt": "2026-10-14T08:00:17.968Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 65,
-  "todayCount": 16,
+  "total": 66,
+  "todayCount": 17,
   "categories": [
     {
       "id": "new",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 48
+      "count": 49
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 47
+      "count": 48
     },
     {
       "id": "rise",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 27
+      "count": 28
     },
     {
       "name": "GameWith",
@@ -172,7 +172,7 @@
       "articleCount": 11,
       "categories": [
         "other",
-        "guide"
+        "new"
       ],
       "keywords": [
         "モンハンワイルズ",
@@ -185,6 +185,13 @@
           "url": "https://gamewith.jp/mhwilds/548752",
           "source": "GameWith",
           "publishedAt": "2026-10-14T01:02:39.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】Switch2版の発売日・最新情報【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563066",
+          "source": "GameWith",
+          "publishedAt": "2026-10-13T14:26:09.000Z",
           "isPR": false
         },
         {
@@ -213,13 +220,6 @@
           "url": "https://youtu.be/Cz_B2Apml74?si",
           "source": "YouTube",
           "publishedAt": "2026-10-13T02:29:04.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ】Switch2版の発売日・最新情報【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/563066",
-          "source": "GameWith",
-          "publishedAt": "2026-10-12T18:36:07.000Z",
           "isPR": false
         },
         {
@@ -303,12 +303,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-14T07:00:15.977Z",
-    "previousCount": 64,
-    "newCount": 3
+    "previousAt": "2026-10-14T07:30:14.987Z",
+    "previousCount": 65,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-14T08:00:14.987Z",
+  "nextUpdateAt": "2026-10-14T08:30:17.968Z",
   "items": [
     {
       "id": "3c601507767a",
@@ -329,7 +329,28 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "3a847101d21f",
+      "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
+      "url": "https://www.famitsu.com/article/images/202610/90097/892945",
+      "host": "famitsu.com",
+      "source": "ファミ通.com",
+      "summary": "",
+      "publishedAt": "2026-10-14T05:28:43.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90097/c4efdd2f969559e8b1c92e99f32ded48e.jpg?x=1280",
+      "categories": [
+        "media"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
     },
     {
       "id": "b87f8682c195",
@@ -345,27 +366,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3a847101d21f",
-      "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
-      "url": "https://www.famitsu.com/article/images/202610/90097/892952",
-      "host": "famitsu.com",
-      "source": "ファミ通.com",
-      "summary": "",
-      "publishedAt": "2026-10-14T04:07:17.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90097/ce4bde0eb46b8f32ef4b4207f5344b4d4.jpg?x=1280",
-      "categories": [
-        "media"
-      ],
-      "series": [
-        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -394,6 +394,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "8abf7be66bd5",
+      "title": "今週の釣り・環境生物バウンティガイド[2026.10.14 ～ 2026.10.21]【モンスターハンターワイルズ/MonsterHunterWilds】",
+      "url": "https://youtu.be/5cawpUuoRJk?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-14T01:13:48.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "e6d79acfa4bd",
@@ -635,6 +656,27 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563040.png?date=1789770455",
       "categories": [
         "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "010ece4575cd",
+      "title": "【モンハンワイルズ】Switch2版の発売日・最新情報【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/563066",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-13T14:26:09.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563066.png?date=1780886791",
+      "categories": [
+        "new"
       ],
       "series": [
         "wilds"
@@ -1194,27 +1236,6 @@
       "isNew": false
     },
     {
-      "id": "010ece4575cd",
-      "title": "【モンハンワイルズ】Switch2版の発売日・最新情報【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563066",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-12T18:36:07.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563066.png?date=1780886791",
-      "categories": [
-        "new"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "5705da647fc7",
       "title": "【モンハンワイルズ】最強装備・おすすめ装備まとめ【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/485337",
@@ -1233,7 +1254,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "23a539811f20",
@@ -1506,7 +1527,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "28e92453615e",
