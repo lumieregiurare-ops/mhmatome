@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-13T23:30:19.088Z",
+  "updatedAt": "2026-10-14T00:00:14.857Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 66,
-  "todayCount": 6,
+  "total": 65,
+  "todayCount": 7,
   "categories": [
     {
       "id": "new",
@@ -27,7 +27,7 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 3
+      "count": 2
     },
     {
       "id": "goods",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 10
+      "count": 11
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 49
+      "count": 48
     }
   ],
   "series": [
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 29
+      "count": 28
     },
     {
       "name": "GameWith",
@@ -111,19 +111,15 @@
       "count": 3
     },
     {
+      "name": "Howl.link",
+      "count": 3
+    },
+    {
       "name": "ファミ通.com",
       "count": 2
     },
     {
-      "name": "Howl.link",
-      "count": 2
-    },
-    {
       "name": "ガジェット通信",
-      "count": 2
-    },
-    {
-      "name": "ウォーカープラス",
       "count": 2
     },
     {
@@ -132,6 +128,10 @@
     },
     {
       "name": "AppBank",
+      "count": 1
+    },
+    {
+      "name": "ウォーカープラス",
       "count": 1
     },
     {
@@ -272,6 +272,33 @@
       ]
     },
     {
+      "id": "8b21ef16de53",
+      "title": "そろそろ装備を新調しなきゃかも？【モンハンワイルズ】",
+      "summary": "",
+      "url": "https://t.co/39LrdUFObq",
+      "image": "",
+      "leadSource": "Howl.link",
+      "publishedAt": "2026-10-12T09:43:08.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "guide"
+      ],
+      "keywords": [
+        "モンハンワイルズ",
+        "装備"
+      ],
+      "articles": [
+        {
+          "title": "【火力・快適・硬さ全盛り】歴戦王も楽勝？な最高改良型ガンランス装備！これが究極の完成形かも【モンハンワイルズ】",
+          "url": "https://youtu.be/DDnE1TQaNF4?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-11T13:15:16.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "055b1178bdae",
       "title": "レンジャー隊に緊急クエスト＠大阪 『モンハンストーリーズ3』×大阪文化回廊コラボ【10／14～2／19】",
       "summary": "",
@@ -301,12 +328,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-13T23:00:18.020Z",
-    "previousCount": 65,
-    "newCount": 4
+    "previousAt": "2026-10-13T23:30:19.088Z",
+    "previousCount": 66,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-14T00:00:19.088Z",
+  "nextUpdateAt": "2026-10-14T00:30:14.857Z",
   "items": [
     {
       "id": "682b2c710c29",
@@ -327,7 +354,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b58662978edc",
@@ -338,6 +365,27 @@
       "summary": "",
       "publishedAt": "2026-10-13T22:00:19.000Z",
       "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "e08e6c8ea2a8",
+      "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/563104",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-13T21:15:41.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563104.png?date=1789770630",
       "categories": [
         "other"
       ],
@@ -411,7 +459,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ff4fbdb0d328",
@@ -583,25 +631,6 @@
       "isNew": false
     },
     {
-      "id": "22f58a63d794",
-      "title": "カプコン×JR東海のコラボが開催！モンスターハンターやストリートファイターのキャラと旅に出よう",
-      "url": "https://www.walkerplus.com/article/1176995/",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-10-13T11:52:10.000Z",
-      "image": "https://news.walkerplus.com/article/1176995/12576575_615.jpg",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "e6d79acfa4bd",
       "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
       "url": "https://gamewith.jp/mhwilds/563096",
@@ -684,27 +713,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "ba4eb8939b43",
-      "title": "【モンハンワイルズ】成長過程を報告♡歴戦王アルシュベルド弓ソロ10'15\"85♡孤独から出でし君という自由",
-      "url": "https://youtu.be/Tq78t3l0LH4?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-13T09:00:13.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "7ed05da3d525",
@@ -1003,27 +1011,6 @@
       "isNew": false
     },
     {
-      "id": "e08e6c8ea2a8",
-      "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563104",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-12T18:04:21.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563104.png?date=1789770630",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "23a539811f20",
       "title": "【要撃戦初日】スラアク使いの次元臨界パオウルムー初日報告【MHNow】",
       "url": "https://youtu.be/sLjISgIAibU?si",
@@ -1191,6 +1178,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "8b21ef16de53",
+      "title": "そろそろ装備を新調しなきゃかも？【モンハンワイルズ】",
+      "url": "https://t.co/39LrdUFObq",
+      "host": "t.co",
+      "source": "Howl.link",
+      "summary": "",
+      "publishedAt": "2026-10-12T09:43:08.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "619a0068df3f",
@@ -1567,6 +1575,27 @@
       "isNew": false
     },
     {
+      "id": "fbf2d5098c1f",
+      "title": "【ハンマー縛り】ババコンガの毛がフサフサすぎた【モンハンワイルズ】＃4",
+      "url": "https://youtu.be/F35_HtOXQsI?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-11T08:16:22.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "0a960687b514",
       "title": "FRONTIERゲーミングPCブランド「FREX∀R」が誕生1周年。「モンハンワイルズ」など3作品から1本プレゼント",
       "url": "https://news.mynavi.jp/article/20261011-5110942/",
@@ -1663,27 +1692,6 @@
         "other"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "419ceb08f86a",
-      "title": "[モンハンワイルズ]王アルシュベルト、ソロ笛、捕獲",
-      "url": "https://youtu.be/SeKtWOQIBdU?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-10T23:53:45.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
