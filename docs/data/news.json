@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T06:30:14.422Z",
+  "updatedAt": "2026-10-14T07:00:15.977Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 64,
-  "todayCount": 15,
+  "todayCount": 17,
   "categories": [
     {
       "id": "new",
@@ -69,12 +69,12 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 46
+      "count": 47
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 3
+      "count": 2
     },
     {
       "id": "world",
@@ -100,19 +100,19 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 27
+      "count": 26
     },
     {
       "name": "GameWith",
       "count": 18
     },
     {
-      "name": "Howl.link",
+      "name": "ファミ通.com",
       "count": 4
     },
     {
-      "name": "ファミ通.com",
-      "count": 3
+      "name": "Howl.link",
+      "count": 4
     },
     {
       "name": "ガジェット通信",
@@ -247,7 +247,7 @@
       "leadSource": "ファミ通.com",
       "publishedAt": "2026-10-14T05:20:32.000Z",
       "sourceCount": 2,
-      "articleCount": 3,
+      "articleCount": 4,
       "categories": [
         "other"
       ],
@@ -257,6 +257,13 @@
         "ファミ"
       ],
       "articles": [
+        {
+          "title": "画像ページ (10/31) 11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月…",
+          "url": "https://www.famitsu.com/article/images/202610/89516/895230",
+          "source": "ファミ通.com",
+          "publishedAt": "2026-10-14T04:41:27.000Z",
+          "isPR": false
+        },
         {
           "title": "画像ページ (19/31) 11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月…",
           "url": "https://www.famitsu.com/article/images/202610/89516/892932",
@@ -303,12 +310,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-14T06:00:16.257Z",
-    "previousCount": 67,
-    "newCount": 0
+    "previousAt": "2026-10-14T06:30:14.422Z",
+    "previousCount": 64,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-14T07:00:14.422Z",
+  "nextUpdateAt": "2026-10-14T07:30:15.977Z",
   "items": [
     {
       "id": "1bf7655aefaf",
@@ -330,6 +337,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "8c263d754440",
+      "title": "画像ページ (10/31) 11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月…",
+      "url": "https://www.famitsu.com/article/images/202610/89516/895230",
+      "host": "famitsu.com",
+      "source": "ファミ通.com",
+      "summary": "",
+      "publishedAt": "2026-10-14T04:41:27.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/89516/a36f87ce7ce3ea6a26b1f089bf7a1223e.png?x=1280",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "b87f8682c195",
@@ -423,6 +451,27 @@
       "summary": "",
       "publishedAt": "2026-10-14T01:02:39.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/548752.png?date=1773678314",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "411bb4076b94",
+      "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/575038",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-13T23:48:10.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575038.png?date=1789770323",
       "categories": [
         "other"
       ],
@@ -1439,48 +1488,6 @@
         "other"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "a758d5c603d3",
-      "title": "モンスターハンターライズ ・ランス、シルタ、アンカー、昇天。烈禍襲来。原初を刻むメル・ゼナ討伐動画(被弾・ミスあり)4分半台。※犬・錬成有りランス＆盟友・拘束系無し",
-      "url": "https://youtu.be/R2_kvMiQXHE?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-12T08:00:21.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "411bb4076b94",
-      "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/575038",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-12T07:25:27.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575038.png?date=1789770323",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
