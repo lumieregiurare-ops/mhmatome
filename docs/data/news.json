@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-14T18:30:17.586Z",
+  "updatedAt": "2026-10-14T19:00:16.540Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 63,
+  "total": 62,
   "todayCount": 2,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 8
+      "count": 7
     },
     {
       "id": "sale",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 47
+      "count": 46
     },
     {
       "id": "rise",
@@ -104,7 +104,7 @@
     },
     {
       "name": "GameWith",
-      "count": 22
+      "count": 21
     },
     {
       "name": "ファミ通.com",
@@ -264,10 +264,9 @@
       "leadSource": "YouTube",
       "publishedAt": "2026-10-14T07:16:22.000Z",
       "sourceCount": 2,
-      "articleCount": 5,
+      "articleCount": 4,
       "categories": [
-        "other",
-        "guide"
+        "other"
       ],
       "keywords": [
         "モンハンワイルズ",
@@ -294,13 +293,6 @@
           "url": "https://youtu.be/22pnObdunkE?si",
           "source": "YouTube",
           "publishedAt": "2026-10-13T04:15:40.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ】最強装備・おすすめ装備まとめ【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/485337",
-          "source": "GameWith",
-          "publishedAt": "2026-10-12T15:44:12.000Z",
           "isPR": false
         }
       ]
@@ -350,12 +342,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-14T18:00:15.881Z",
+    "previousAt": "2026-10-14T18:30:17.586Z",
     "previousCount": 63,
     "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-14T19:00:17.586Z",
+  "nextUpdateAt": "2026-10-14T19:30:16.540Z",
   "items": [
     {
       "id": "3a847101d21f",
@@ -412,6 +404,27 @@
         "guide"
       ],
       "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "778fbb3d5344",
+      "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/577281",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-14T13:01:37.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577281.png?date=1789571405",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -492,6 +505,27 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545381.png?date=1771384851",
       "categories": [
         "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "a2119f0dcdb7",
+      "title": "【モンスターハンターワイルズ 番外編 】アセンンダンス発売までに武器を全部集めよう！ランス編・後編",
+      "url": "https://youtu.be/o5-Kw6z7Lr0?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-14T09:45:37.000Z",
+      "image": "",
+      "categories": [
+        "other"
       ],
       "series": [
         "wilds"
@@ -1362,48 +1396,6 @@
       "isNew": false
     },
     {
-      "id": "778fbb3d5344",
-      "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/577281",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-12T20:07:10.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577281.png?date=1789571405",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "5705da647fc7",
-      "title": "【モンハンワイルズ】最強装備・おすすめ装備まとめ【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/485337",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-12T15:44:12.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485337.png?date=1740668237",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "23a539811f20",
       "title": "【要撃戦初日】スラアク使いの次元臨界パオウルムー初日報告【MHNow】",
       "url": "https://youtu.be/sLjISgIAibU?si",
@@ -1502,27 +1494,6 @@
       ],
       "series": [
         "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "a2119f0dcdb7",
-      "title": "【モンスターハンターワイルズ 番外編 】アセンンダンス発売までに武器を全部集めよう！ランス編・前編",
-      "url": "https://youtu.be/s4rE7gJZLOk?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-12T09:45:25.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
