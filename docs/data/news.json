@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-15T07:00:20.864Z",
+  "updatedAt": "2026-10-15T07:30:15.327Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 51,
+  "total": 52,
   "todayCount": 17,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 10
+      "count": 11
     },
     {
       "id": "update",
@@ -32,7 +32,7 @@
     {
       "id": "goods",
       "label": "グッズ・フィギュア",
-      "count": 0
+      "count": 1
     },
     {
       "id": "media",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 8
+      "count": 4
     },
     {
       "id": "sale",
@@ -52,7 +52,7 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 0
+      "count": 1
     },
     {
       "id": "sales",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 30
+      "count": 33
     }
   ],
   "series": [
@@ -74,7 +74,7 @@
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 2
+      "count": 3
     },
     {
       "id": "world",
@@ -100,11 +100,11 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 23
+      "count": 19
     },
     {
       "name": "YouTube",
-      "count": 8
+      "count": 11
     },
     {
       "name": "ファミ通.com",
@@ -115,8 +115,8 @@
       "count": 2
     },
     {
-      "name": "ウォーカープラス",
-      "count": 2
+      "name": "Yahoo!ニュース",
+      "count": 1
     },
     {
       "name": "https://mediadogs.jp/",
@@ -156,6 +156,18 @@
     },
     {
       "name": "ファミ通",
+      "count": 1
+    },
+    {
+      "name": "キャラグー",
+      "count": 1
+    },
+    {
+      "name": "ウォーカープラス",
+      "count": 1
+    },
+    {
+      "name": "https://iyusuke.jp/",
       "count": 1
     }
   ],
@@ -296,16 +308,30 @@
       "leadSource": "YouTube",
       "publishedAt": "2026-10-15T05:33:04.000Z",
       "sourceCount": 2,
-      "articleCount": 2,
+      "articleCount": 4,
       "categories": [
         "other"
       ],
       "keywords": [
         "モンハンワイルズ",
-        "アルシュベルド",
-        "歴戦王"
+        "歴戦王",
+        "アルシュベルド"
       ],
       "articles": [
+        {
+          "title": "【モンハンワイルズ】フリチャレ歴戦王ウズ•トゥナ ヘビィボウガン２分２４秒",
+          "url": "https://youtu.be/UEex0mIwAiw",
+          "source": "YouTube",
+          "publishedAt": "2026-10-14T07:16:22.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ|ソロチャレンジ動画】Enjoy勢のソロチャレンジ 歴戦王アルシュベルド ランスソロ 9'12\"14 (PS5 pro)",
+          "url": "https://youtu.be/Ly10WV2qnHA",
+          "source": "YouTube",
+          "publishedAt": "2026-10-14T04:14:30.000Z",
+          "isPR": false
+        },
         {
           "title": "【モンハンワイルズ】歴戦王アルシュベルド(フリーチャレンジ)のSランクの取り方とチャーム【モンスターハンターワイルズ】",
           "url": "https://gamewith.jp/mhwilds/548752",
@@ -344,13 +370,32 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-15T06:30:20.465Z",
+    "previousAt": "2026-10-15T07:00:20.864Z",
     "previousCount": 51,
-    "newCount": 2
+    "newCount": 7
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-15T07:30:20.864Z",
+  "nextUpdateAt": "2026-10-15T08:00:15.327Z",
   "items": [
+    {
+      "id": "0e3220baff90",
+      "title": "「カーペット変えたらなんかおかしくなっちゃった」犬さん 自分の匂いをこすりつけてる？「モンハンにこんなのいたな」",
+      "url": "https://news.yahoo.co.jp/articles/155b2b464a3761f955e54034c41507cb2f135c70",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-15T07:00:22.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-11797772-maidonans-000-1-view.png?fmt=jpeg&q=85&exp=10800",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "1631b403a18d",
       "title": "モンスターハンターワイルズ、Switch 2版の序盤体験版が10月20日配信 ローカル通信のマルチに対応、セーブデータは製品版へ引き継ぎ可能",
@@ -370,7 +415,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a43c5f6d1de5",
@@ -433,7 +478,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "259d9ff88421",
@@ -667,25 +712,6 @@
       "isNew": false
     },
     {
-      "id": "55b0bd5ff9cd",
-      "title": "秋葉原に期間限定「モンハン」ショップが登場！",
-      "url": "https://www.walkerplus.com/article/63257/",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-10-14T21:16:52.000Z",
-      "image": "https://news.walkerplus.com/article/63257/352473_615.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "e6d79acfa4bd",
       "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
       "url": "https://gamewith.jp/mhwilds/563096",
@@ -892,25 +918,25 @@
       "isNew": false
     },
     {
-      "id": "78000b51bbf1",
-      "title": "モンスターハンターワールド_慣れない弓で🔰初めましてのトビカガチ",
-      "url": "https://youtu.be/euASNRA3sTE?si",
+      "id": "632edcef6b9b",
+      "title": "【モンハンワイルズ】フリチャレ歴戦王ウズ•トゥナ ヘビィボウガン２分２４秒",
+      "url": "https://youtu.be/UEex0mIwAiw",
       "host": "youtu.be",
       "source": "YouTube",
       "summary": "",
-      "publishedAt": "2026-10-14T08:06:23.000Z",
+      "publishedAt": "2026-10-14T07:16:22.000Z",
       "image": "",
       "categories": [
         "other"
       ],
       "series": [
-        "world"
+        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "310bc849231e",
@@ -995,6 +1021,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "b87f8682c195",
+      "title": "【モンハンワイルズ|ソロチャレンジ動画】Enjoy勢のソロチャレンジ 歴戦王アルシュベルド ランスソロ 9'12\"14 (PS5 pro)",
+      "url": "https://youtu.be/Ly10WV2qnHA",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-14T04:14:30.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "f4f222ac2e2d",
@@ -1100,6 +1147,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "6e5a847e9bc1",
+      "title": "モンスターハンターのグッズ一覧・新作情報（ガチャガチャ・プライズ・キャラクターくじ・コラボ・イベント）",
+      "url": "https://charagoo.jp/ip/monsterhunter/",
+      "host": "charagoo.jp",
+      "source": "キャラグー",
+      "summary": "",
+      "publishedAt": "2026-10-13T23:21:01.000Z",
+      "image": "",
+      "categories": [
+        "goods",
+        "new"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "e08e6c8ea2a8",
@@ -1226,6 +1293,49 @@
       "isNew": false
     },
     {
+      "id": "e25943fa6fa9",
+      "title": "【モンハンワイルズ】強気に出た結果、秒で謝罪するハンターｗ #shorts #モンハンワイルズ",
+      "url": "https://youtu.be/vttkxS-eHd8?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-13T11:45:05.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "28ae22763412",
+      "title": "トシちゃん？www #モンハンワイルズ #モンハン #ワイルズ #MHWilds #ゲーム実況73 /100",
+      "url": "https://youtu.be/AECyQgQeN54",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-13T08:45:12.000Z",
+      "image": "",
+      "categories": [
+        "community"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "0241990d226c",
       "title": "画像ページ (23/31) 11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月…",
       "url": "https://www.famitsu.com/article/images/202610/89516/897661",
@@ -1310,6 +1420,27 @@
       "isNew": false
     },
     {
+      "id": "ec9e4a5f16ec",
+      "title": "モンハンライズがNetflixでスマホ版に｜日本の配信はいつ？サンブレイクの有無も整理",
+      "url": "https://iyusuke.jp/monster-hunter-rise-netflix/",
+      "host": "iyusuke.jp",
+      "source": "https://iyusuke.jp/",
+      "summary": "",
+      "publishedAt": "2026-10-12T09:51:30.000Z",
+      "image": "https://iyusuke.jp/wp-content/uploads/2026/10/mhrise-how.webp",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "dbccee692a49",
       "title": "【モンスターハンターNow】６武器種vs次元臨界パオウルムー 前編【拠点要撃戦】",
       "url": "https://youtu.be/Y0AVRfbzQ_Y?si",
@@ -1322,90 +1453,6 @@
         "other"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "a27b3fa9893f",
-      "title": "【モンハンワイルズ】チャプター3攻略チャート【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/485456",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-12T07:25:40.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485456.png?date=1740677348",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "9e101a0ff136",
-      "title": "【モンハンワイルズ】チャプター6攻略チャート【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/486856",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-12T07:25:39.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/486856.png?date=1740729415",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "9f324e3db586",
-      "title": "【モンハンワイルズ】チャプター2攻略チャート【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/485455",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-12T07:25:37.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485455.png?date=1740666633",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f0d1ad9e32bf",
-      "title": "【モンハンワイルズ】チャプター1攻略チャート【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/485454",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-12T07:25:20.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485454.png?date=1739959280",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
