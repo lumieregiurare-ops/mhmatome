@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-15T13:30:17.892Z",
+  "updatedAt": "2026-10-15T14:00:17.023Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 53,
-  "todayCount": 26,
+  "total": 54,
+  "todayCount": 27,
   "categories": [
     {
       "id": "new",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 29
+      "count": 30
     }
   ],
   "series": [
@@ -115,6 +115,10 @@
       "count": 2
     },
     {
+      "name": "ウォーカープラス",
+      "count": 2
+    },
+    {
       "name": "ファミ通",
       "count": 2
     },
@@ -160,10 +164,6 @@
     },
     {
       "name": "キャラグー",
-      "count": 1
-    },
-    {
-      "name": "ウォーカープラス",
       "count": 1
     }
   ],
@@ -272,15 +272,15 @@
           "isPR": false
         },
         {
-          "title": "画像ページ (23/31) 11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月…",
-          "url": "https://www.famitsu.com/article/images/202610/89516/897661",
+          "title": "画像ページ (20/31) 11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月…",
+          "url": "https://www.famitsu.com/article/images/202610/89516/892965",
           "source": "ファミ通.com",
           "publishedAt": "2026-10-13T07:00:00.000Z",
           "isPR": false
         },
         {
-          "title": "画像ページ (4/31) 11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月1…",
-          "url": "https://www.famitsu.com/article/images/202610/89516/895479",
+          "title": "画像ページ (23/31) 11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月…",
+          "url": "https://www.famitsu.com/article/images/202610/89516/897661",
           "source": "ファミ通.com",
           "publishedAt": "2026-10-13T07:00:00.000Z",
           "isPR": false
@@ -394,12 +394,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-15T13:00:17.166Z",
-    "previousCount": 54,
-    "newCount": 4
+    "previousAt": "2026-10-15T13:30:17.892Z",
+    "previousCount": 53,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-15T14:00:17.892Z",
+  "nextUpdateAt": "2026-10-15T14:30:17.023Z",
   "items": [
     {
       "id": "3a847101d21f",
@@ -441,7 +441,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e40cc5ecd680",
@@ -553,7 +553,7 @@
       "source": "https://mediadogs.jp/",
       "summary": "",
       "publishedAt": "2026-10-15T06:50:44.000Z",
-      "image": "",
+      "image": "https://mediadogs.jp/wp-content/uploads/2026/10/mhwilds-switch2-demo.webp",
       "categories": [
         "new"
       ],
@@ -564,7 +564,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "010ece4575cd",
@@ -732,7 +732,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6c19198188c0",
@@ -943,6 +943,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "55b0bd5ff9cd",
+      "title": "秋葉原に期間限定「モンハン」ショップが登場！",
+      "url": "https://www.walkerplus.com/article/63257/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-14T21:16:52.000Z",
+      "image": "https://news.walkerplus.com/article/63257/352473_615.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "778fbb3d5344",
@@ -1402,6 +1421,27 @@
       "isNew": false
     },
     {
+      "id": "fba9c84c839a",
+      "title": "画像ページ (20/31) 11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月…",
+      "url": "https://www.famitsu.com/article/images/202610/89516/892965",
+      "host": "famitsu.com",
+      "source": "ファミ通.com",
+      "summary": "",
+      "publishedAt": "2026-10-13T07:00:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/89516/aded281094bce034bbbb3e2a93f2128cc.jpg?x=1280",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "0241990d226c",
       "title": "画像ページ (23/31) 11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月…",
       "url": "https://www.famitsu.com/article/images/202610/89516/897661",
@@ -1421,27 +1461,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "84d72b966b00",
-      "title": "画像ページ (4/31) 11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月1…",
-      "url": "https://www.famitsu.com/article/images/202610/89516/895479",
-      "host": "famitsu.com",
-      "source": "ファミ通.com",
-      "summary": "",
-      "publishedAt": "2026-10-13T07:00:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/89516/aac3e507cf65507e0d83e6ba53582de0e.png?x=1280",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "3171038bb2f0",
