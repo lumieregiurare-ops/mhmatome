@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-15T04:00:18.055Z",
+  "updatedAt": "2026-10-15T04:30:14.833Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 54,
+  "total": 55,
   "todayCount": 11,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 6
+      "count": 8
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 36
+      "count": 35
     }
   ],
   "series": [
@@ -100,11 +100,11 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 20
+      "count": 22
     },
     {
       "name": "YouTube",
-      "count": 14
+      "count": 12
     },
     {
       "name": "ファミ通.com",
@@ -112,6 +112,10 @@
     },
     {
       "name": "ガジェット通信",
+      "count": 2
+    },
+    {
+      "name": "ウォーカープラス",
       "count": 2
     },
     {
@@ -144,10 +148,6 @@
     },
     {
       "name": "静岡新聞DIGITAL",
-      "count": 1
-    },
-    {
-      "name": "ウォーカープラス",
       "count": 1
     },
     {
@@ -332,12 +332,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-15T03:30:19.982Z",
-    "previousCount": 55,
-    "newCount": 0
+    "previousAt": "2026-10-15T04:00:18.055Z",
+    "previousCount": 54,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-15T04:30:18.055Z",
+  "nextUpdateAt": "2026-10-15T05:00:14.833Z",
   "items": [
     {
       "id": "e917c24be577",
@@ -431,7 +431,7 @@
       "source": "GAME Watch",
       "summary": "カプコンは、Nintendo Swtich 2用ハンティングアクション「モンスターハンターワイルズ」の序盤体験版を10月20日に配信する。",
       "publishedAt": "2026-10-15T01:52:34.000Z",
-      "image": "",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2148/269/1.jpg",
       "categories": [
         "new"
       ],
@@ -487,27 +487,6 @@
       "isNew": false
     },
     {
-      "id": "46ab930cbc6c",
-      "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563077",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-15T00:53:30.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "5da57240f4bf",
       "title": "『モンハンNow』アマツマガツチ装備解禁!! 次元変異ナルガクルガも確定した大阪イベント最新ガイド",
       "url": "https://getnews.jp/archives/3748853",
@@ -548,6 +527,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "55b0bd5ff9cd",
+      "title": "秋葉原に期間限定「モンハン」ショップが登場！",
+      "url": "https://www.walkerplus.com/article/63257/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-14T21:16:52.000Z",
+      "image": "https://news.walkerplus.com/article/63257/352473_615.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "e6d79acfa4bd",
@@ -1072,6 +1070,27 @@
       "isNew": false
     },
     {
+      "id": "46ab930cbc6c",
+      "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/563077",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-13T18:24:37.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "d8b95bbbc335",
       "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/563040",
@@ -1302,27 +1321,6 @@
       "isNew": false
     },
     {
-      "id": "d6b62a9a3282",
-      "title": "【モンハンワイルズ】フリチャレ歴戦王ジン•ダハド ヘビィボウガン４分43秒",
-      "url": "https://youtu.be/22pnObdunkE?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-13T04:15:40.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "23a539811f20",
       "title": "【要撃戦初日】スラアク使いの次元臨界パオウルムー初日報告【MHNow】",
       "url": "https://youtu.be/sLjISgIAibU?si",
@@ -1336,27 +1334,6 @@
       ],
       "series": [
         "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "547c1490bf36",
-      "title": "【MONSTER HUNTER WILDS】見ていてね、しらうさが何をやるのかを！（ハードな方が強くなれる気がしてる）【steam版】【20狩目】",
-      "url": "https://youtu.be/hiF5zpP_C-0?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-12T14:48:07.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1403,6 +1380,48 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "a27b3fa9893f",
+      "title": "【モンハンワイルズ】チャプター3攻略チャート【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/485456",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-12T07:25:40.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485456.png?date=1740677348",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "9e101a0ff136",
+      "title": "【モンハンワイルズ】チャプター6攻略チャート【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/486856",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-12T07:25:39.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/486856.png?date=1740729415",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "9f324e3db586",
