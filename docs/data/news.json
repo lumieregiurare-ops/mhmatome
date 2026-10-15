@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-15T16:30:16.931Z",
+  "updatedAt": "2026-10-15T17:00:19.925Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 53,
+  "total": 52,
   "todayCount": 0,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 8
+      "count": 7
     },
     {
       "id": "sale",
@@ -94,21 +94,21 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 1
+      "count": 0
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 24
+      "count": 22
+    },
+    {
+      "name": "YouTube",
+      "count": 7
     },
     {
       "name": "ファミ通.com",
       "count": 7
-    },
-    {
-      "name": "YouTube",
-      "count": 6
     },
     {
       "name": "ガジェット通信",
@@ -349,7 +349,7 @@
       "title": "Switch2「モンハンワイルズ」序盤体験版が10月20日に配信決定！ローカルマルチにも対応",
       "summary": "カプコンは、Nintendo Swtich 2用ハンティングアクション「モンスターハンターワイルズ」の序盤体験版を10月20日に配信する。",
       "url": "https://game.watch.impress.co.jp/docs/news/2148269.html",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2148/269/1.jpg",
+      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/10569/rectangle/64412.png?t=1792038731",
       "leadSource": "GAME Watch",
       "publishedAt": "2026-10-15T04:32:03.000Z",
       "sourceCount": 2,
@@ -373,12 +373,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-15T16:00:15.923Z",
-    "previousCount": 56,
-    "newCount": 0
+    "previousAt": "2026-10-15T16:30:16.931Z",
+    "previousCount": 53,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-15T17:00:16.931Z",
+  "nextUpdateAt": "2026-10-15T17:30:19.925Z",
   "items": [
     {
       "id": "70de23154610",
@@ -713,27 +713,6 @@
       "isNew": false
     },
     {
-      "id": "5b17304850ee",
-      "title": "モンハンアウトランダーズのおすすめスマホ12選｜推奨スペック",
-      "url": "https://gamewith.jp/gaming-smartphone/582778",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-15T03:38:54.000Z",
-      "image": "",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "6c19198188c0",
       "title": "【モンハンワイルズ】序盤体験版の引き継ぎ方法・いつまで遊べる？【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/571203",
@@ -846,7 +825,7 @@
       "source": "GAME Watch",
       "summary": "カプコンは、Nintendo Swtich 2用ハンティングアクション「モンスターハンターワイルズ」の序盤体験版を10月20日に配信する。",
       "publishedAt": "2026-10-15T01:52:34.000Z",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2148/269/1.jpg",
+      "image": "",
       "categories": [
         "new"
       ],
@@ -1194,6 +1173,27 @@
       "isNew": false
     },
     {
+      "id": "163f7ae535e8",
+      "title": "【モンハンワイルズ|第弐弾シリーズ企画 】ランスの楽しさを伝えたい ≪レ・ダウ編≫ ※オトモなし・捕獲 (フリークエスト)(PS5 Pro)",
+      "url": "https://youtu.be/NL2iXMYTtWc",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-14T05:00:12.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "f4f222ac2e2d",
       "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/575036",
@@ -1223,27 +1223,6 @@
       "summary": "",
       "publishedAt": "2026-10-14T01:45:21.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485475.png?date=1789753003",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "15df437f504b",
-      "title": "【モンハンワイルズ】金のお守りチケットの入手方法と使い道【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/545782",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-14T01:09:09.000Z",
-      "image": "",
       "categories": [
         "other"
       ],
