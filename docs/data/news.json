@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-15T14:00:17.023Z",
+  "updatedAt": "2026-10-15T14:30:19.650Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 54,
-  "todayCount": 27,
+  "total": 56,
+  "todayCount": 28,
   "categories": [
     {
       "id": "new",
@@ -52,7 +52,7 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 0
+      "count": 1
     },
     {
       "id": "sales",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 30
+      "count": 31
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 41
+      "count": 42
     },
     {
       "id": "rise",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 1
+      "count": 2
     },
     {
       "id": "outlanders",
@@ -104,11 +104,11 @@
     },
     {
       "name": "YouTube",
-      "count": 7
+      "count": 8
     },
     {
       "name": "ファミ通.com",
-      "count": 6
+      "count": 7
     },
     {
       "name": "ガジェット通信",
@@ -247,7 +247,7 @@
       "leadSource": "ファミ通",
       "publishedAt": "2026-10-14T09:10:05.000Z",
       "sourceCount": 2,
-      "articleCount": 6,
+      "articleCount": 7,
       "categories": [
         "other"
       ],
@@ -262,6 +262,13 @@
           "url": "https://www.famitsu.com/article/images/202610/89516/897424",
           "source": "ファミ通",
           "publishedAt": "2026-10-14T09:05:15.000Z",
+          "isPR": false
+        },
+        {
+          "title": "画像ページ (7/31) 11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月1…",
+          "url": "https://www.famitsu.com/article/images/202610/89516/893438",
+          "source": "ファミ通.com",
+          "publishedAt": "2026-10-14T08:57:31.000Z",
           "isPR": false
         },
         {
@@ -394,13 +401,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-15T13:30:17.892Z",
-    "previousCount": 53,
+    "previousAt": "2026-10-15T14:00:17.023Z",
+    "previousCount": 54,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-15T14:30:17.023Z",
+  "nextUpdateAt": "2026-10-15T15:00:19.650Z",
   "items": [
+    {
+      "id": "70de23154610",
+      "title": "【ずんだもん実況】モンスターハンターストーリーズ【初見プレイ】part 41",
+      "url": "https://youtu.be/zOZwuGAERVY?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-15T13:00:31.000Z",
+      "image": "",
+      "categories": [
+        "community"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "3a847101d21f",
       "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
@@ -961,7 +989,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "778fbb3d5344",
@@ -1128,6 +1156,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "ff4fbdb0d328",
+      "title": "画像ページ (7/31) 11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月1…",
+      "url": "https://www.famitsu.com/article/images/202610/89516/893438",
+      "host": "famitsu.com",
+      "source": "ファミ通.com",
+      "summary": "",
+      "publishedAt": "2026-10-14T08:57:31.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/89516/ad95dd3d424519c88abe3317b12097ac9.jpg?x=1280",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "8569c4687418",
@@ -1362,12 +1411,12 @@
     {
       "id": "1145500376db",
       "title": "『モンハンNow』新装備にアクセサリ実装!! 次元変異ディアブロス亜種やハロウィンイベントが到来するシーズン11ピリオド2ガイド",
-      "url": "https://getnews.jp/archives/3748541",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JUFF0clExUVotaTY4V2sxd2Y5TUVPWGRnZjNPXzdRbHYtdlhKT1oxdXlqeUMtYlJYUE1vUnNDNlVtRGE2RmRNWmQ5VQ?oc=5",
       "host": "getnews.jp",
       "source": "ガジェット通信",
       "summary": "",
       "publishedAt": "2026-10-13T13:00:21.000Z",
-      "image": "https://rensai.jp/wp-content/uploads/2026/10/b5e9114698dad7cf2a4f783edaeed4dc.jpg",
+      "image": "",
       "categories": [
         "guide"
       ],
@@ -1376,7 +1425,7 @@
       ],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
@@ -1439,7 +1488,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0241990d226c",
