@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-16T17:00:17.157Z",
+  "updatedAt": "2026-10-16T17:30:15.323Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 54,
+  "total": 56,
   "todayCount": 2,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 7
+      "count": 8
     },
     {
       "id": "sale",
@@ -52,7 +52,7 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 0
+      "count": 1
     },
     {
       "id": "sales",
@@ -89,22 +89,22 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 1
+      "count": 2
     },
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 0
+      "count": 1
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 26
+      "count": 27
     },
     {
       "name": "YouTube",
-      "count": 10
+      "count": 11
     },
     {
       "name": "GAME Watch",
@@ -378,12 +378,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-16T16:30:16.972Z",
-    "previousCount": 55,
-    "newCount": 3
+    "previousAt": "2026-10-16T17:00:17.157Z",
+    "previousCount": 54,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-16T17:30:17.157Z",
+  "nextUpdateAt": "2026-10-16T18:00:15.323Z",
   "items": [
     {
       "id": "60d9277fb29a",
@@ -861,6 +861,27 @@
       "isNew": false
     },
     {
+      "id": "70de23154610",
+      "title": "【ずんだもん実況】モンスターハンターストーリーズ【初見プレイ】part 41",
+      "url": "https://youtu.be/zOZwuGAERVY?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-15T13:00:31.000Z",
+      "image": "",
+      "categories": [
+        "community"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "488c58093be3",
       "title": "【アセンダンス】ガンランスの操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/577811",
@@ -1067,6 +1088,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "5b17304850ee",
+      "title": "モンハンアウトランダーズのおすすめスマホ12選｜推奨スペック",
+      "url": "https://gamewith.jp/gaming-smartphone/582778",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-15T03:38:54.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "6c19198188c0",
@@ -1400,7 +1442,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "bc39ce0fc00d",
@@ -1421,7 +1463,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4f6f3ae01d7b",
@@ -1463,7 +1505,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "468d57e39da7",
