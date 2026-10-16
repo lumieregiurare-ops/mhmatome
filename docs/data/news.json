@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T06:00:13.605Z",
+  "updatedAt": "2026-10-16T06:30:16.056Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 56,
-  "todayCount": 13,
+  "todayCount": 12,
   "categories": [
     {
       "id": "new",
@@ -111,16 +111,16 @@
       "count": 8
     },
     {
+      "name": "Yahoo!ニュース",
+      "count": 2
+    },
+    {
       "name": "ガジェット通信",
       "count": 2
     },
     {
       "name": "ウォーカープラス",
       "count": 2
-    },
-    {
-      "name": "千葉テレビ放送株式会社",
-      "count": 1
     },
     {
       "name": "電撃ホビーウェブ",
@@ -144,10 +144,6 @@
     },
     {
       "name": "電ファミニコゲーマー",
-      "count": 1
-    },
-    {
-      "name": "Yahoo!ニュース",
       "count": 1
     },
     {
@@ -179,37 +175,24 @@
       "url": "https://www.4gamer.net/games/014/G101402/20261015017/",
       "image": "https://www.4gamer.net/games/014/G101402/20261015017/SS/001.jpg",
       "leadSource": "4Gamer",
-      "publishedAt": "2026-10-16T01:50:35.000Z",
-      "sourceCount": 9,
+      "publishedAt": "2026-10-15T06:50:44.000Z",
+      "sourceCount": 8,
       "articleCount": 9,
       "categories": [
-        "new"
+        "new",
+        "guide"
       ],
       "keywords": [
         "体験版",
-        "序盤",
-        "ローカル"
+        "ローカル",
+        "序盤"
       ],
       "articles": [
-        {
-          "title": "スイッチ2版『モンハンワイルズ』序盤体験版が10月20日に配信！ローカル通信にも対応―顔を合わせて狩猟する日々をもう一度",
-          "url": "https://www.chiba-tv.com/plus/detail/2026102115466",
-          "source": "千葉テレビ放送株式会社",
-          "publishedAt": "2026-10-16T01:50:35.000Z",
-          "isPR": false
-        },
         {
           "title": "モンスターハンターワイルズ、Switch 2版の序盤体験版が10月20日配信 ローカル通信のマルチに対応、セーブデータは製品版へ引き継ぎ可能",
           "url": "https://mediadogs.jp/2026/10/15/mhwilds-switch2-demo-october20/",
           "source": "https://mediadogs.jp/",
           "publishedAt": "2026-10-15T06:50:44.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ】序盤体験版の引き継ぎ方法・いつまで遊べる？【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/571203",
-          "source": "GameWith",
-          "publishedAt": "2026-10-15T03:23:35.000Z",
           "isPR": false
         },
         {
@@ -241,10 +224,24 @@
           "isPR": false
         },
         {
+          "title": "スイッチ2版『モンハンワイルズ』序盤体験版が10月20日に配信！ローカル通信にも対応―顔を合わせて狩猟する日々をもう一度",
+          "url": "https://news.yahoo.co.jp/articles/d533b39cf2bb0525b62690a248e58c39f722cec7?source",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-15T01:43:32.000Z",
+          "isPR": false
+        },
+        {
           "title": "『モンスターハンターワイルズ』Nintendo Switch 2向け体験版、10月20日配信へ。「ローカルマルチプレイ」もお試し可能、製品版にセーブデータ引き継ぎもできる",
           "url": "https://automaton-media.com/articles/newsjp/20261015-473545/",
           "source": "AUTOMATON",
           "publishedAt": "2026-10-15T01:40:09.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】チャプター5攻略チャート【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/485458",
+          "source": "GameWith",
+          "publishedAt": "2026-10-13T13:00:11.000Z",
           "isPR": false
         }
       ]
@@ -258,7 +255,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-10-16T01:06:51.000Z",
       "sourceCount": 2,
-      "articleCount": 13,
+      "articleCount": 14,
       "categories": [
         "guide",
         "other"
@@ -371,12 +368,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-16T05:30:16.159Z",
-    "previousCount": 57,
+    "previousAt": "2026-10-16T06:00:13.605Z",
+    "previousCount": 56,
     "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-16T06:30:13.605Z",
+  "nextUpdateAt": "2026-10-16T07:00:16.056Z",
   "items": [
     {
       "id": "a3edf6fa7c10",
@@ -413,27 +410,6 @@
       ],
       "series": [
         "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "77d8b0fae425",
-      "title": "スイッチ2版『モンハンワイルズ』序盤体験版が10月20日に配信！ローカル通信にも対応―顔を合わせて狩猟する日々をもう一度",
-      "url": "https://www.chiba-tv.com/plus/detail/2026102115466",
-      "host": "chiba-tv.com",
-      "source": "千葉テレビ放送株式会社",
-      "summary": "",
-      "publishedAt": "2026-10-16T01:50:35.000Z",
-      "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1483640134136235409/origin_1.jpg",
-      "categories": [
-        "new"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1072,6 +1048,27 @@
       "summary": "",
       "publishedAt": "2026-10-15T01:52:00.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-00000008-impgmw-000-1-view.jpg?exp=10800",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "77d8b0fae425",
+      "title": "スイッチ2版『モンハンワイルズ』序盤体験版が10月20日に配信！ローカル通信にも対応―顔を合わせて狩猟する日々をもう一度",
+      "url": "https://news.yahoo.co.jp/articles/d533b39cf2bb0525b62690a248e58c39f722cec7?source",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-15T01:43:32.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-00000014-gamespav-000-1-view.jpg?exp=10800",
       "categories": [
         "new"
       ],
