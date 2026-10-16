@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T23:30:14.930Z",
+  "updatedAt": "2026-10-16T00:00:15.959Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -12,7 +12,7 @@
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 12
+      "count": 13
     },
     {
       "id": "update",
@@ -32,7 +32,7 @@
     {
       "id": "goods",
       "label": "グッズ・フィギュア",
-      "count": 1
+      "count": 2
     },
     {
       "id": "media",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 28
+      "count": 27
     }
   ],
   "series": [
@@ -115,8 +115,8 @@
       "count": 2
     },
     {
-      "name": "まいどなニュース",
-      "count": 1
+      "name": "ウォーカープラス",
+      "count": 2
     },
     {
       "name": "https://mediadogs.jp/",
@@ -160,10 +160,6 @@
     },
     {
       "name": "キャラグー",
-      "count": 1
-    },
-    {
-      "name": "ウォーカープラス",
       "count": 1
     }
   ],
@@ -377,7 +373,7 @@
       "title": "Switch2「モンハンワイルズ」序盤体験版が10月20日に配信決定！ローカルマルチにも対応",
       "summary": "カプコンは、Nintendo Swtich 2用ハンティングアクション「モンスターハンターワイルズ」の序盤体験版を10月20日に配信する。",
       "url": "https://game.watch.impress.co.jp/docs/news/2148269.html",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2148/269/1.jpg",
+      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/10569/rectangle/64412.png?t=1792038731",
       "leadSource": "GAME Watch",
       "publishedAt": "2026-10-15T04:32:03.000Z",
       "sourceCount": 2,
@@ -401,12 +397,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-15T23:00:15.114Z",
-    "previousCount": 54,
-    "newCount": 0
+    "previousAt": "2026-10-15T23:30:14.930Z",
+    "previousCount": 49,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-16T00:00:14.930Z",
+  "nextUpdateAt": "2026-10-16T00:30:15.959Z",
   "items": [
     {
       "id": "cd03e6faabe0",
@@ -587,25 +583,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
       "categories": [
         "guide"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "0e3220baff90",
-      "title": "「カーペット変えたらなんかおかしくなっちゃった」犬さん 自分の匂いをこすりつけてる？「モンハンにこんなのいたな」",
-      "url": "https://maidonanews.jp/article/16801500",
-      "host": "maidonanews.jp",
-      "source": "まいどなニュース",
-      "summary": "",
-      "publishedAt": "2026-10-15T07:00:00.000Z",
-      "image": "https://p.potaufeu.asahi.com/bc7f-p/picture/31197785/c2e6571ac8cc3b7dc4420b4cec01a340.png",
-      "categories": [
-        "other"
       ],
       "series": [],
       "isOfficial": false,
@@ -916,7 +893,7 @@
       "source": "GAME Watch",
       "summary": "カプコンは、Nintendo Swtich 2用ハンティングアクション「モンスターハンターワイルズ」の序盤体験版を10月20日に配信する。",
       "publishedAt": "2026-10-15T01:52:34.000Z",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2148/269/1.jpg",
+      "image": "",
       "categories": [
         "new"
       ],
@@ -1427,6 +1404,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "412431217213",
+      "title": "カプコンストアの新作グッズにリュウ、モリガン、アイルーなど37キャラが集結！",
+      "url": "https://www.walkerplus.com/article/1017988/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-13T07:00:00.000Z",
+      "image": "https://news.walkerplus.com/article/1017988/10156595_615.jpg",
+      "categories": [
+        "new",
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     }
   ]
 }
