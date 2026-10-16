@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-16T15:26:31.985Z",
+  "updatedAt": "2026-10-16T16:00:17.287Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 54,
+  "total": 49,
   "todayCount": 2,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 7
+      "count": 6
     },
     {
       "id": "sale",
@@ -52,7 +52,7 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 2
+      "count": 0
     },
     {
       "id": "sales",
@@ -62,19 +62,19 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 33
+      "count": 31
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 38
+      "count": 36
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 4
+      "count": 3
     },
     {
       "id": "world",
@@ -89,22 +89,22 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 2
+      "count": 1
     },
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 1
+      "count": 0
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 24
+      "count": 22
     },
     {
       "name": "YouTube",
-      "count": 13
+      "count": 10
     },
     {
       "name": "GAME Watch",
@@ -367,12 +367,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-16T15:00:15.197Z",
-    "previousCount": 51,
-    "newCount": 3
+    "previousAt": "2026-10-16T15:26:31.985Z",
+    "previousCount": 54,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-16T15:56:31.985Z",
+  "nextUpdateAt": "2026-10-16T16:30:17.287Z",
   "items": [
     {
       "id": "60d9277fb29a",
@@ -391,7 +391,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fb74ac39e333",
@@ -410,7 +410,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "43d4e01fc262",
@@ -487,27 +487,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "10030cd60ad7",
-      "title": "【クエスト失敗したら即リセット防具無し大型モンスリレー】混沌に呻くゴア・マガラ編【モンハンライズサンブレイク実況】",
-      "url": "https://youtu.be/m65CMLRzui8",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-16T10:30:33.000Z",
-      "image": "",
-      "categories": [
-        "community"
-      ],
-      "series": [
-        "rise"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -745,27 +724,6 @@
       "isNew": false
     },
     {
-      "id": "b0def656e8a5",
-      "title": "星10ゴグマジオス vs 青酉あゆむ＆リスナー！この強敵を倒せるのか！？【#視聴者参加型配信切り抜き】モンハンワイルズ／切り抜き",
-      "url": "https://youtu.be/81bNBDpeZXE?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-15T23:00:05.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "778fbb3d5344",
       "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/577281",
@@ -884,27 +842,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "70de23154610",
-      "title": "【ずんだもん実況】モンスターハンターストーリーズ【初見プレイ】part 41",
-      "url": "https://youtu.be/zOZwuGAERVY?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-15T13:00:31.000Z",
-      "image": "",
-      "categories": [
-        "community"
-      ],
-      "series": [
-        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1092,27 +1029,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "5b17304850ee",
-      "title": "モンハンアウトランダーズのおすすめスマホ12選｜推奨スペック",
-      "url": "https://gamewith.jp/gaming-smartphone/582778",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-15T03:38:54.000Z",
-      "image": "",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1432,27 +1348,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "bc39ce0fc00d",
-      "title": "【モンハンワイルズ】クナファお届け食事券の入手方法と使い道【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/492666",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-14T01:09:58.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "468d57e39da7",
