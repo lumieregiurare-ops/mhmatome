@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-16T02:00:14.481Z",
+  "updatedAt": "2026-10-16T02:30:14.778Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 52,
+  "total": 54,
   "todayCount": 4,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 12
+      "count": 13
     },
     {
       "id": "update",
@@ -32,7 +32,7 @@
     {
       "id": "goods",
       "label": "グッズ・フィギュア",
-      "count": 1
+      "count": 2
     },
     {
       "id": "media",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 31
+      "count": 32
     }
   ],
   "series": [
@@ -111,15 +111,23 @@
       "count": 8
     },
     {
+      "name": "ウォーカープラス",
+      "count": 3
+    },
+    {
+      "name": "Yahoo!ニュース",
+      "count": 2
+    },
+    {
       "name": "ガジェット通信",
       "count": 2
     },
     {
-      "name": "ウォーカープラス",
-      "count": 2
+      "name": "電撃ホビーウェブ",
+      "count": 1
     },
     {
-      "name": "電撃ホビーウェブ",
+      "name": "X",
       "count": 1
     },
     {
@@ -136,14 +144,6 @@
     },
     {
       "name": "電ファミニコゲーマー",
-      "count": 1
-    },
-    {
-      "name": "GAME Watch",
-      "count": 1
-    },
-    {
-      "name": "Yahoo!ニュース",
       "count": 1
     },
     {
@@ -320,12 +320,12 @@
       ]
     },
     {
-      "id": "6a2eaef5e672",
-      "title": "Switch2「モンハンワイルズ」序盤体験版が10月20日に配信決定！ローカルマルチにも対応",
-      "summary": "カプコンは、Nintendo Swtich 2用ハンティングアクション「モンスターハンターワイルズ」の序盤体験版を10月20日に配信する。",
-      "url": "https://game.watch.impress.co.jp/docs/news/2148269.html",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2148/269/1.jpg",
-      "leadSource": "GAME Watch",
+      "id": "259d9ff88421",
+      "title": "Nintendo Switch 2版『MONSTER HUNTER WILDS』序盤体験版が2026年10月20日（火）より配信決定！",
+      "summary": "",
+      "url": "https://gamewith.jp/gamedb/10569/articles/64412",
+      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/10569/rectangle/64412.png?t=1792038731",
+      "leadSource": "GameWith",
       "publishedAt": "2026-10-15T04:32:03.000Z",
       "sourceCount": 2,
       "articleCount": 2,
@@ -338,22 +338,22 @@
       ],
       "articles": [
         {
-          "title": "Nintendo Switch 2版『MONSTER HUNTER WILDS』序盤体験版が2026年10月20日（火）より配信決定！",
-          "url": "https://gamewith.jp/gamedb/10569/articles/64412",
-          "source": "GameWith",
-          "publishedAt": "2026-10-15T04:32:03.000Z",
+          "title": "Switch2「モンハンワイルズ」序盤体験版が10月20日に配信決定！ローカルマルチにも対応（GAME Watch）",
+          "url": "https://news.yahoo.co.jp/articles/b7af7e046bb78d854f92896194aa1e6f06138486",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-15T01:52:00.000Z",
           "isPR": false
         }
       ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-16T01:30:13.820Z",
+    "previousAt": "2026-10-16T02:00:14.481Z",
     "previousCount": 52,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-16T02:30:14.481Z",
+  "nextUpdateAt": "2026-10-16T03:00:14.778Z",
   "items": [
     {
       "id": "c955f1efd2a7",
@@ -391,7 +391,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "cd03e6faabe0",
@@ -520,6 +520,25 @@
       "isNew": false
     },
     {
+      "id": "0ce28856139e",
+      "title": "亜紗@モンハン写真部 (@p3dq4) on X - X",
+      "url": "https://x.com/intent/like?tweet_id",
+      "host": "x.com",
+      "source": "X",
+      "summary": "",
+      "publishedAt": "2026-10-15T10:22:58.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "3d59c35cc36d",
       "title": "【モンハンワイルズ】フリチャレ歴戦王ヌ•エグドラ ヘビィボウガン２分４６秒",
       "url": "https://youtu.be/nryeFueYXJk",
@@ -609,7 +628,7 @@
       "source": "https://mediadogs.jp/",
       "summary": "",
       "publishedAt": "2026-10-15T06:50:44.000Z",
-      "image": "",
+      "image": "https://mediadogs.jp/wp-content/uploads/2026/10/mhwilds-switch2-demo.webp",
       "categories": [
         "new"
       ],
@@ -897,13 +916,13 @@
     },
     {
       "id": "6a2eaef5e672",
-      "title": "Switch2「モンハンワイルズ」序盤体験版が10月20日に配信決定！ローカルマルチにも対応",
-      "url": "https://game.watch.impress.co.jp/docs/news/2148269.html",
-      "host": "game.watch.impress.co.jp",
-      "source": "GAME Watch",
-      "summary": "カプコンは、Nintendo Swtich 2用ハンティングアクション「モンスターハンターワイルズ」の序盤体験版を10月20日に配信する。",
-      "publishedAt": "2026-10-15T01:52:34.000Z",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2148/269/1.jpg",
+      "title": "Switch2「モンハンワイルズ」序盤体験版が10月20日に配信決定！ローカルマルチにも対応（GAME Watch）",
+      "url": "https://news.yahoo.co.jp/articles/b7af7e046bb78d854f92896194aa1e6f06138486",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-15T01:52:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-00000008-impgmw-000-1-view.jpg?exp=10800",
       "categories": [
         "new"
       ],
@@ -1348,7 +1367,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fba9c84c839a",
@@ -1433,6 +1452,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "412431217213",
+      "title": "カプコンストアの新作グッズにリュウ、モリガン、アイルーなど37キャラが集結！",
+      "url": "https://www.walkerplus.com/article/1017988/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-13T07:00:00.000Z",
+      "image": "https://news.walkerplus.com/article/1017988/10156595_615.jpg",
+      "categories": [
+        "new",
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     }
   ]
 }
