@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T01:30:13.820Z",
+  "updatedAt": "2026-10-16T02:00:14.481Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,12 +7,12 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 52,
-  "todayCount": 3,
+  "todayCount": 4,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 13
+      "count": 12
     },
     {
       "id": "update",
@@ -32,7 +32,7 @@
     {
       "id": "goods",
       "label": "グッズ・フィギュア",
-      "count": 2
+      "count": 1
     },
     {
       "id": "media",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 30
+      "count": 31
     }
   ],
   "series": [
@@ -104,7 +104,7 @@
     },
     {
       "name": "YouTube",
-      "count": 8
+      "count": 9
     },
     {
       "name": "ファミ通.com",
@@ -120,10 +120,6 @@
     },
     {
       "name": "電撃ホビーウェブ",
-      "count": 1
-    },
-    {
-      "name": "X",
       "count": 1
     },
     {
@@ -147,7 +143,7 @@
       "count": 1
     },
     {
-      "name": "Game*Spark",
+      "name": "Yahoo!ニュース",
       "count": 1
     },
     {
@@ -217,8 +213,8 @@
         },
         {
           "title": "スイッチ2版『モンハンワイルズ』序盤体験版が10月20日に配信！ローカル通信にも対応―顔を合わせて狩猟する日々をもう一度",
-          "url": "https://www.gamespark.jp/article/2026/10/15/173620.html",
-          "source": "Game*Spark",
+          "url": "https://news.yahoo.co.jp/articles/d533b39cf2bb0525b62690a248e58c39f722cec7?source",
+          "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-15T01:43:32.000Z",
           "isPR": false
         },
@@ -352,12 +348,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-16T01:00:19.447Z",
+    "previousAt": "2026-10-16T01:30:13.820Z",
     "previousCount": 52,
-    "newCount": 4
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-16T02:00:13.820Z",
+  "nextUpdateAt": "2026-10-16T02:30:14.481Z",
   "items": [
     {
       "id": "c955f1efd2a7",
@@ -377,6 +373,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "c63ff820338e",
+      "title": "【モンハンG】大剣でドスランポスを一撃討伐できるか本気で検証してみた【山田らいおん】",
+      "url": "https://youtu.be/r4tPZ5e5k6g?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-15T23:00:49.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "cd03e6faabe0",
@@ -505,25 +520,6 @@
       "isNew": false
     },
     {
-      "id": "0ce28856139e",
-      "title": "亜紗@モンハン写真部 (@p3dq4) on X - X",
-      "url": "https://x.com/intent/like?tweet_id",
-      "host": "x.com",
-      "source": "X",
-      "summary": "",
-      "publishedAt": "2026-10-15T10:22:58.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "3d59c35cc36d",
       "title": "【モンハンワイルズ】フリチャレ歴戦王ヌ•エグドラ ヘビィボウガン２分４６秒",
       "url": "https://youtu.be/nryeFueYXJk",
@@ -613,7 +609,7 @@
       "source": "https://mediadogs.jp/",
       "summary": "",
       "publishedAt": "2026-10-15T06:50:44.000Z",
-      "image": "https://mediadogs.jp/wp-content/uploads/2026/10/mhwilds-switch2-demo.webp",
+      "image": "",
       "categories": [
         "new"
       ],
@@ -923,12 +919,12 @@
     {
       "id": "77d8b0fae425",
       "title": "スイッチ2版『モンハンワイルズ』序盤体験版が10月20日に配信！ローカル通信にも対応―顔を合わせて狩猟する日々をもう一度",
-      "url": "https://www.gamespark.jp/article/2026/10/15/173620.html",
-      "host": "gamespark.jp",
-      "source": "Game*Spark",
+      "url": "https://news.yahoo.co.jp/articles/d533b39cf2bb0525b62690a248e58c39f722cec7?source",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-15T01:43:32.000Z",
-      "image": "https://www.gamespark.jp/imgs/ogp_f/1206635.jpg",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-00000014-gamespav-000-1-view.jpg?exp=10800",
       "categories": [
         "new"
       ],
@@ -1126,7 +1122,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "310bc849231e",
@@ -1272,7 +1268,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1145500376db",
@@ -1334,6 +1330,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "baecfb1eaec1",
+      "title": "モンハン4×ガリガリ君！ハチミツ調合のゆず味が本日発売",
+      "url": "https://www.walkerplus.com/article/41312/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-13T07:00:00.000Z",
+      "image": "https://news.walkerplus.com/article/41312/214942_615.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "fba9c84c839a",
@@ -1418,26 +1433,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "412431217213",
-      "title": "カプコンストアの新作グッズにリュウ、モリガン、アイルーなど37キャラが集結！",
-      "url": "https://www.walkerplus.com/article/1017988/",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-10-13T07:00:00.000Z",
-      "image": "https://news.walkerplus.com/article/1017988/10156595_615.jpg",
-      "categories": [
-        "new",
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     }
   ]
 }
