@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-16T21:00:16.173Z",
+  "updatedAt": "2026-10-16T21:30:22.233Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 54,
+  "total": 55,
   "todayCount": 4,
   "categories": [
     {
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 37
+      "count": 38
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 40
+      "count": 41
     },
     {
       "id": "rise",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 29
+      "count": 30
     },
     {
       "name": "YouTube",
@@ -352,12 +352,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-16T20:30:14.545Z",
-    "previousCount": 55,
-    "newCount": 3
+    "previousAt": "2026-10-16T21:00:16.173Z",
+    "previousCount": 54,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-16T21:30:16.173Z",
+  "nextUpdateAt": "2026-10-16T22:00:22.233Z",
   "items": [
     {
       "id": "3a847101d21f",
@@ -440,6 +440,27 @@
       "isNew": false
     },
     {
+      "id": "c1e2a15f9a9c",
+      "title": "【モンハンワイルズ】サポハンと回るオメガ・プラネテス 8から10分周回チャート 友達がいない人におすすめ 数盛りやソロ周回【モンスターハンターワイルズ】",
+      "url": "https://youtu.be/B9cjsHULOh0?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-16T14:51:31.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "43d4e01fc262",
       "title": "【モンハンサンブレイク】G数上乗せが終わりませんでした[スマパチ][パチンコ][スマスロ][スロット]【第53話】",
       "url": "https://youtu.be/AJ3lGNZPJO8?si",
@@ -499,27 +520,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "868630a231ea",
-      "title": "【厳選簡単】歴戦王アルシュベルド対策チャアク装備！快適スキル採用｜実戦解説付【モンハンワイルズ】",
-      "url": "https://youtu.be/vqMhVz3UZr0?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-16T10:35:02.000Z",
-      "image": "",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "7fd57d31d64f",
@@ -1311,7 +1311,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "cdb37730a837",
@@ -1333,6 +1333,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "5d7833d508c2",
+      "title": "【モンハンワイルズ】源流のリュウヌ玉の入手方法と使い道【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/488692",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-14T01:10:42.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "7c7eee11933a",
@@ -1416,7 +1437,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5cf063a01864",
