@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-16T21:30:22.233Z",
+  "updatedAt": "2026-10-16T22:00:16.080Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 55,
+  "total": 57,
   "todayCount": 4,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 6
+      "count": 7
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 38
+      "count": 39
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 41
+      "count": 42
     },
     {
       "id": "rise",
@@ -94,17 +94,17 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 0
+      "count": 1
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 30
+      "count": 31
     },
     {
       "name": "YouTube",
-      "count": 9
+      "count": 10
     },
     {
       "name": "ファミ通.com",
@@ -352,12 +352,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-16T21:00:16.173Z",
-    "previousCount": 54,
+    "previousAt": "2026-10-16T21:30:22.233Z",
+    "previousCount": 55,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-16T22:00:22.233Z",
+  "nextUpdateAt": "2026-10-16T22:30:16.080Z",
   "items": [
     {
       "id": "3a847101d21f",
@@ -458,7 +458,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "43d4e01fc262",
@@ -667,6 +667,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "ac2e001635d5",
+      "title": "【モンハンワイルズ】孤独から出でし君という自由 狩猟笛ソロ 5分59秒",
+      "url": "https://youtu.be/ZOel_G4HFWg?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-16T03:00:17.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "c955f1efd2a7",
@@ -978,6 +999,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "5b17304850ee",
+      "title": "モンハンアウトランダーズのおすすめスマホ12選｜推奨スペック",
+      "url": "https://gamewith.jp/gaming-smartphone/582778",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-15T03:38:54.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "6c19198188c0",
@@ -1353,7 +1395,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7c7eee11933a",
