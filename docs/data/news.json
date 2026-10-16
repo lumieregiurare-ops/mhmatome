@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-16T14:30:20.378Z",
+  "updatedAt": "2026-10-16T15:00:15.197Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 52,
-  "todayCount": 23,
+  "total": 51,
+  "todayCount": 0,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 6
+      "count": 7
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 32
+      "count": 30
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 38
+      "count": 37
     },
     {
       "id": "rise",
@@ -100,15 +100,15 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 22
+      "count": 23
     },
     {
       "name": "YouTube",
-      "count": 14
+      "count": 13
     },
     {
       "name": "ファミ通.com",
-      "count": 3
+      "count": 2
     },
     {
       "name": "千葉テレビ放送株式会社",
@@ -173,7 +173,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-10-16T10:59:35.000Z",
       "sourceCount": 3,
-      "articleCount": 14,
+      "articleCount": 15,
       "categories": [
         "guide",
         "other"
@@ -227,17 +227,17 @@
           "isPR": false
         },
         {
+          "title": "【モンハンワイルズ】護石周回（護石集め）の効率的なやり方【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/513618",
+          "source": "GameWith",
+          "publishedAt": "2026-10-15T07:31:11.000Z",
+          "isPR": false
+        },
+        {
           "title": "【モンハンワイルズ】Switch2版の発売日・最新情報【モンスターハンターワイルズ】",
           "url": "https://gamewith.jp/mhwilds/563066",
           "source": "GameWith",
           "publishedAt": "2026-10-15T06:49:08.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/563077",
-          "source": "GameWith",
-          "publishedAt": "2026-10-15T06:17:10.000Z",
           "isPR": false
         }
       ]
@@ -335,12 +335,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-16T14:00:17.670Z",
-    "previousCount": 51,
+    "previousAt": "2026-10-16T14:30:20.378Z",
+    "previousCount": 52,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-16T15:00:20.378Z",
+  "nextUpdateAt": "2026-10-16T15:30:15.197Z",
   "items": [
     {
       "id": "43d4e01fc262",
@@ -361,7 +361,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c1d96dbd2d09",
@@ -717,27 +717,6 @@
       "isNew": false
     },
     {
-      "id": "cd03e6faabe0",
-      "title": "歴戦王アルシュベルド 広域笛ソロ討伐9’16”83（猫なし）【モンハンワイルズ】",
-      "url": "https://youtu.be/2CYlCgaw3Bc",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-15T19:23:55.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "5fc879b1cca5",
       "title": "【モンハンワイルズ】英傑に愛を込めての攻略と報酬【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/545381",
@@ -923,6 +902,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "70688df1f73f",
+      "title": "【モンハンワイルズ】護石周回（護石集め）の効率的なやり方【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/513618",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-15T07:31:11.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/513618.png?date=1755086164",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "010ece4575cd",
@@ -1273,27 +1273,6 @@
         "collab"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3c601507767a",
-      "title": "画像ページ (21/31) 11月7日開催「ファミ通40周年フェス」で『モンスターハンターワイルズ：アセンダンス』や『ロックマン: デュアル オーバーライド』などの事前に遊べる全タイトルが公開！ 試遊の抽選申込もスタート【2026年10月…",
-      "url": "https://www.famitsu.com/article/images/202610/89516/892967",
-      "host": "famitsu.com",
-      "source": "ファミ通.com",
-      "summary": "",
-      "publishedAt": "2026-10-14T06:12:12.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/89516/a46ea3830d450d0dcbb65b2ceaba41634.jpg?x=1280",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
