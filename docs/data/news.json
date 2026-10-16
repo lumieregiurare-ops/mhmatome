@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-16T22:00:16.080Z",
+  "updatedAt": "2026-10-16T22:30:15.659Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 57,
+  "total": 54,
   "todayCount": 4,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 7
+      "count": 6
     },
     {
       "id": "sale",
@@ -62,19 +62,19 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 39
+      "count": 37
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 42
+      "count": 41
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 4
+      "count": 3
     },
     {
       "id": "world",
@@ -94,17 +94,17 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 1
+      "count": 0
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 31
+      "count": 30
     },
     {
       "name": "YouTube",
-      "count": 10
+      "count": 8
     },
     {
       "name": "ファミ通.com",
@@ -352,12 +352,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-16T21:30:22.233Z",
-    "previousCount": 55,
-    "newCount": 2
+    "previousAt": "2026-10-16T22:00:16.080Z",
+    "previousCount": 57,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-16T22:30:16.080Z",
+  "nextUpdateAt": "2026-10-16T23:00:15.659Z",
   "items": [
     {
       "id": "3a847101d21f",
@@ -453,27 +453,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "43d4e01fc262",
-      "title": "【モンハンサンブレイク】G数上乗せが終わりませんでした[スマパチ][パチンコ][スマスロ][スロット]【第53話】",
-      "url": "https://youtu.be/AJ3lGNZPJO8?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-16T12:39:10.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "rise"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -667,27 +646,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "ac2e001635d5",
-      "title": "【モンハンワイルズ】孤独から出でし君という自由 狩猟笛ソロ 5分59秒",
-      "url": "https://youtu.be/ZOel_G4HFWg?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-16T03:00:17.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "c955f1efd2a7",
@@ -999,27 +957,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "5b17304850ee",
-      "title": "モンハンアウトランダーズのおすすめスマホ12選｜推奨スペック",
-      "url": "https://gamewith.jp/gaming-smartphone/582778",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-15T03:38:54.000Z",
-      "image": "",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "6c19198188c0",
