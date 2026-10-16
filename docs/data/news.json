@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-16T19:30:14.844Z",
+  "updatedAt": "2026-10-16T20:00:17.219Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 53,
+  "total": 54,
   "todayCount": 3,
   "categories": [
     {
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 35
+      "count": 36
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 39
+      "count": 40
     },
     {
       "id": "rise",
@@ -104,7 +104,7 @@
     },
     {
       "name": "YouTube",
-      "count": 9
+      "count": 10
     },
     {
       "name": "ファミ通.com",
@@ -367,12 +367,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-16T18:58:40.694Z",
-    "previousCount": 55,
-    "newCount": 0
+    "previousAt": "2026-10-16T19:30:14.844Z",
+    "previousCount": 53,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-16T20:00:14.844Z",
+  "nextUpdateAt": "2026-10-16T20:30:17.219Z",
   "items": [
     {
       "id": "3a847101d21f",
@@ -661,6 +661,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "ac2e001635d5",
+      "title": "【モンハンワイルズ】孤独から出でし君という自由 狩猟笛ソロ 5分59秒",
+      "url": "https://youtu.be/ZOel_G4HFWg?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-16T03:00:17.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "77d8b0fae425",
@@ -1308,6 +1329,27 @@
       "isNew": false
     },
     {
+      "id": "fdd29d02084d",
+      "title": "【モンハンワイルズ】歴戦狩猟の証2の入手方法と使い道【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/487838",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-14T01:11:25.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "cdb37730a837",
       "title": "【モンハンワイルズ】リュウトホオズキの場所と入手方法【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/488693",
@@ -1357,27 +1399,6 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-10-14T01:10:00.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "bc39ce0fc00d",
-      "title": "【モンハンワイルズ】クナファお届け食事券の入手方法と使い道【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/492666",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-14T01:09:58.000Z",
       "image": "",
       "categories": [
         "other"
