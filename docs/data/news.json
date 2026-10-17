@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-17T06:00:15.002Z",
+  "updatedAt": "2026-10-17T06:30:17.071Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 50,
+  "total": 51,
   "todayCount": 12,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 6
+      "count": 7
     },
     {
       "id": "sale",
@@ -94,13 +94,13 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 0
+      "count": 1
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 18
+      "count": 19
     },
     {
       "name": "YouTube",
@@ -374,12 +374,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-17T05:30:16.295Z",
+    "previousAt": "2026-10-17T06:00:15.002Z",
     "previousCount": 50,
-    "newCount": 1
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-17T06:30:15.002Z",
+  "nextUpdateAt": "2026-10-17T07:00:17.071Z",
   "items": [
     {
       "id": "ade3262c4abe",
@@ -795,27 +795,6 @@
       "isNew": false
     },
     {
-      "id": "556ba25f050b",
-      "title": "TA上位勢 爆キャリーPTがヤバくてェ【モンハンワイルズ】 #shorts",
-      "url": "https://youtu.be/YEWzKfhYLmo?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-16T06:49:38.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "f4f222ac2e2d",
       "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/575036",
@@ -877,6 +856,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "ac2e001635d5",
+      "title": "【モンハンワイルズ】孤独から出でし君という自由 狩猟笛ソロ 5分59秒",
+      "url": "https://youtu.be/ZOel_G4HFWg?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-16T03:00:17.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "c955f1efd2a7",
@@ -1140,6 +1140,27 @@
       ],
       "series": [
         "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "5b17304850ee",
+      "title": "モンハンアウトランダーズのおすすめスマホ12選｜推奨スペック",
+      "url": "https://gamewith.jp/gaming-smartphone/582778",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-15T03:38:54.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
