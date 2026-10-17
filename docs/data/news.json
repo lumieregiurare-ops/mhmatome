@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T01:30:14.009Z",
+  "updatedAt": "2026-10-17T02:00:16.191Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 49,
-  "todayCount": 6,
+  "todayCount": 7,
   "categories": [
     {
       "id": "new",
@@ -115,6 +115,10 @@
       "count": 2
     },
     {
+      "name": "Yahoo!ニュース",
+      "count": 2
+    },
+    {
       "name": "電撃ホビーウェブ",
       "count": 1
     },
@@ -132,14 +136,6 @@
     },
     {
       "name": "電ファミニコゲーマー",
-      "count": 1
-    },
-    {
-      "name": "Yahoo!ニュース",
-      "count": 1
-    },
-    {
-      "name": "Game*Spark",
       "count": 1
     },
     {
@@ -173,7 +169,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-10-16T19:20:38.000Z",
       "sourceCount": 3,
-      "articleCount": 15,
+      "articleCount": 14,
       "categories": [
         "other",
         "guide"
@@ -206,13 +202,6 @@
           "isPR": false
         },
         {
-          "title": "視聴者にモンハンを教わってみた【モンハンワイルズ】",
-          "url": "https://youtu.be/yXSXs-f1z4w",
-          "source": "YouTube",
-          "publishedAt": "2026-10-16T09:00:00.000Z",
-          "isPR": false
-        },
-        {
           "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/575036",
           "source": "GameWith",
@@ -238,6 +227,13 @@
           "url": "https://gamewith.jp/mhwilds/545421",
           "source": "GameWith",
           "publishedAt": "2026-10-15T15:33:17.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンスターハンターワイルズ】「極悪な嫁ちゃん」 #モンハン #モンハンワイルズ #ゲーム",
+          "url": "https://youtu.be/DHPmzuC6PKI?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-15T13:32:11.000Z",
           "isPR": false
         }
       ]
@@ -277,8 +273,8 @@
         },
         {
           "title": "スイッチ2版『モンハンワイルズ』序盤体験版が10月20日に配信！ローカル通信にも対応―顔を合わせて狩猟する日々をもう一度",
-          "url": "https://www.gamespark.jp/article/2026/10/15/173620.html",
-          "source": "Game*Spark",
+          "url": "https://news.yahoo.co.jp/articles/d533b39cf2bb0525b62690a248e58c39f722cec7?source",
+          "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-15T01:43:32.000Z",
           "isPR": false
         }
@@ -370,13 +366,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-17T01:00:15.265Z",
-    "previousCount": 54,
-    "newCount": 9
+    "previousAt": "2026-10-17T01:30:14.009Z",
+    "previousCount": 49,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-17T02:00:14.009Z",
+  "nextUpdateAt": "2026-10-17T02:30:16.191Z",
   "items": [
+    {
+      "id": "08ecacde07fe",
+      "title": "生産武器『アルシャマリ』担いで散弾初デビュー！🔰一発撮り実戦編 🐲Monster Hunter Wilds のんびり狩猟生活🍖エンジョイプレイ動画🦉 ＃モンハンワイルズ ＃モンハンワイルズアセンダンス",
+      "url": "https://youtu.be/zZTkdLm_1D8?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-16T23:14:52.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "46ab930cbc6c",
       "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
@@ -457,7 +474,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "60d9277fb29a",
@@ -598,7 +615,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7fd57d31d64f",
@@ -703,7 +720,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f4f222ac2e2d",
@@ -748,27 +765,6 @@
       "isNew": false
     },
     {
-      "id": "a3edf6fa7c10",
-      "title": "【非火事場】孤独から出でし君という自由 狩猟笛ソロ5分40秒 モンハンワイルズ",
-      "url": "https://youtu.be/fD--v6mgfUk?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-16T03:36:10.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "40bccce677c8",
       "title": "【アセンダンス】大剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/485475",
@@ -788,6 +784,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "ac2e001635d5",
+      "title": "【モンハンワイルズ】孤独から出でし君という自由 狩猟笛ソロ 5分59秒",
+      "url": "https://youtu.be/ZOel_G4HFWg?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-16T03:00:17.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "c955f1efd2a7",
@@ -993,7 +1010,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e08e6c8ea2a8",
@@ -1098,7 +1115,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6c19198188c0",
@@ -1140,7 +1157,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e917c24be577",
@@ -1161,7 +1178,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ccd32ba851c7",
@@ -1229,12 +1246,12 @@
     {
       "id": "77d8b0fae425",
       "title": "スイッチ2版『モンハンワイルズ』序盤体験版が10月20日に配信！ローカル通信にも対応―顔を合わせて狩猟する日々をもう一度",
-      "url": "https://www.gamespark.jp/article/2026/10/15/173620.html",
-      "host": "gamespark.jp",
-      "source": "Game*Spark",
+      "url": "https://news.yahoo.co.jp/articles/d533b39cf2bb0525b62690a248e58c39f722cec7?source",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-15T01:43:32.000Z",
-      "image": "https://www.gamespark.jp/imgs/ogp_f/1206635.jpg",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-00000014-gamespav-000-1-view.jpg?exp=10800",
       "categories": [
         "new"
       ],
@@ -1370,27 +1387,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "b87f8682c195",
-      "title": "【モンハンワイルズ|ソロチャレンジ動画】Enjoy勢のソロチャレンジ 歴戦王アルシュベルド ランスソロ 9'12\"14 (PS5 pro)",
-      "url": "https://youtu.be/Ly10WV2qnHA",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-14T04:14:30.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     }
   ]
 }
