@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-17T11:00:14.498Z",
+  "updatedAt": "2026-10-17T11:30:15.346Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 52,
-  "todayCount": 15,
+  "total": 51,
+  "todayCount": 14,
   "categories": [
     {
       "id": "new",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 33
+      "count": 32
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 39
+      "count": 38
     },
     {
       "id": "rise",
@@ -104,7 +104,7 @@
     },
     {
       "name": "YouTube",
-      "count": 14
+      "count": 13
     },
     {
       "name": "ファミ通.com",
@@ -476,12 +476,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-17T10:30:15.415Z",
-    "previousCount": 53,
-    "newCount": 2
+    "previousAt": "2026-10-17T11:00:14.498Z",
+    "previousCount": 52,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-17T11:30:14.498Z",
+  "nextUpdateAt": "2026-10-17T12:00:15.346Z",
   "items": [
     {
       "id": "86bfc1ca88d5",
@@ -494,27 +494,6 @@
       "image": "https://media.loom-app.com/loom/2026/10/17/8f4c8080-07d7-47ac-84df-efd273f8a64c/original.png?w=1200&h=630",
       "categories": [
         "new"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "27c2c7723746",
-      "title": "【モンハンワイルズ】モンハン部のSwitch2版体験会に参加！タイムアタックの結末は…？【山田らいおん】",
-      "url": "https://youtu.be/_Oa03vBiM6s?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-17T09:00:18.000Z",
-      "image": "",
-      "categories": [
-        "other"
       ],
       "series": [
         "wilds"
@@ -760,7 +739,7 @@
       "source": "GAME Watch",
       "summary": "バンダイは、ガシャポン「モンスターハンター めじるしアクセサリー」を10月第4週に発売する。価格は1回400円。",
       "publishedAt": "2026-10-16T15:00:00.000Z",
-      "image": "",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2147/418/008.jpg",
       "categories": [
         "other"
       ],
@@ -935,7 +914,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "92a4ad7e8e97",
@@ -1039,6 +1018,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "cd03e6faabe0",
+      "title": "歴戦王アルシュベルド 広域笛ソロ討伐9’16”83（猫なし）【モンハンワイルズ】",
+      "url": "https://youtu.be/2CYlCgaw3Bc",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-15T19:23:55.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "cb703a4be3d4",
@@ -1268,27 +1268,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "102d1b6e0cbb",
-      "title": "【モンハンワイルズ|第弐弾シリーズ企画 】ランスの楽しさを伝えたい ≪タマミツネ編≫ ※オトモなし・捕獲 (フリークエスト)(PS5 Pro)",
-      "url": "https://youtu.be/rP1fNYqtbjA?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-15T05:00:01.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "5b17304850ee",
@@ -1528,7 +1507,7 @@
       "host": "mediamixi.jp",
       "source": "MEDIAMIXI",
       "summary": "",
-      "publishedAt": "2026-10-14T12:05:52.000Z",
+      "publishedAt": "2026-10-14T12:01:00.000Z",
       "image": "https://mediamixi.jp/app/uploads/2026/10/netflix1013.jpg",
       "categories": [
         "other"
