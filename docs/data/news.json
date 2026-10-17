@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-17T06:30:17.071Z",
+  "updatedAt": "2026-10-17T07:00:15.102Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 51,
-  "todayCount": 12,
+  "total": 50,
+  "todayCount": 11,
   "categories": [
     {
       "id": "new",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 32
+      "count": 31
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 37
+      "count": 36
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 1
+      "count": 0
     },
     {
       "id": "now",
@@ -104,7 +104,7 @@
     },
     {
       "name": "YouTube",
-      "count": 15
+      "count": 14
     },
     {
       "name": "ファミ通.com",
@@ -374,12 +374,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-17T06:00:15.002Z",
-    "previousCount": 50,
-    "newCount": 2
+    "previousAt": "2026-10-17T06:30:17.071Z",
+    "previousCount": 51,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-17T07:00:17.071Z",
+  "nextUpdateAt": "2026-10-17T07:30:15.102Z",
   "items": [
     {
       "id": "ade3262c4abe",
@@ -395,28 +395,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "07056e89a739",
-      "title": "[MHWilds] 零式オメガ・プラネテス 大剣x4 非火事場 6'57\"99 / Savage Omega Planetes GreatSword 4PT [PS5]",
-      "url": "https://youtu.be/awtAnS27LX4",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-17T03:00:30.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -876,7 +854,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c955f1efd2a7",
@@ -1166,7 +1144,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6c19198188c0",
