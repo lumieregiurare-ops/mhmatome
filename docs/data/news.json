@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T14:30:20.560Z",
+  "updatedAt": "2026-10-17T15:00:16.517Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,12 +7,12 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 52,
-  "todayCount": 26,
+  "todayCount": 0,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 10
+      "count": 11
     },
     {
       "id": "update",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 36
+      "count": 35
     }
   ],
   "series": [
@@ -104,11 +104,11 @@
     },
     {
       "name": "YouTube",
-      "count": 18
+      "count": 17
     },
     {
       "name": "ファミ通.com",
-      "count": 2
+      "count": 3
     },
     {
       "name": "GAME Watch",
@@ -161,24 +161,31 @@
   ],
   "topics": [
     {
-      "id": "e917c24be577",
-      "title": "Switch2版『モンハンワイルズ』10月20日に序盤体験版配信。ローカル通信マルチプレイにも対応",
+      "id": "3f71b913827f",
+      "title": "画像ページ (1/2) Switch2版『モンハンワイルズ』体験版が10月20日より配信。ローカル通信マルチプレイにも対応",
       "summary": "",
-      "url": "https://dengekionline.com/article/202610/91002",
-      "image": "https://cimg.kgl-systems.io/camion/files/91002/ogp_Oqzr.jpg?x=1280",
-      "leadSource": "電撃オンライン",
-      "publishedAt": "2026-10-15T02:55:00.000Z",
+      "url": "https://www.famitsu.com/article/images/202610/90994/902140",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90994/ad8290f03a14ab45f91e7e2be493e0689.jpg?x=1280",
+      "leadSource": "ファミ通.com",
+      "publishedAt": "2026-10-15T03:00:00.000Z",
       "sourceCount": 3,
-      "articleCount": 3,
+      "articleCount": 4,
       "categories": [
         "new"
       ],
       "keywords": [
         "モンハンワイルズ",
         "ローカル",
-        "通信"
+        "体験版"
       ],
       "articles": [
+        {
+          "title": "Switch2版『モンハンワイルズ』10月20日に序盤体験版配信。ローカル通信マルチプレイにも対応",
+          "url": "https://dengekionline.com/article/202610/91002",
+          "source": "電撃オンライン",
+          "publishedAt": "2026-10-15T02:55:00.000Z",
+          "isPR": false
+        },
         {
           "title": "Switch2版『モンハンワイルズ』体験版が10月20日より配信。ローカル通信マルチプレイにも対応",
           "url": "https://www.famitsu.com/article/202610/90994",
@@ -204,7 +211,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-10-17T11:40:16.000Z",
       "sourceCount": 2,
-      "articleCount": 15,
+      "articleCount": 16,
       "categories": [
         "other",
         "new"
@@ -387,12 +394,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-17T14:00:15.275Z",
-    "previousCount": 51,
-    "newCount": 4
+    "previousAt": "2026-10-17T14:30:20.560Z",
+    "previousCount": 52,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-17T15:00:20.560Z",
+  "nextUpdateAt": "2026-10-17T15:30:16.517Z",
   "items": [
     {
       "id": "3a847101d21f",
@@ -414,27 +421,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "f5f320595ab5",
-      "title": "【モンハンワイルズ】【くろおび杯予選用】 チャレンジクエスト 解鎖のアルシュベルド 双剣 ペア 4'31\"09",
-      "url": "https://youtu.be/-pVGHlbgWpw?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-17T12:13:31.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "d71ed3a9367e",
@@ -495,7 +481,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "580a68156db7",
@@ -685,7 +671,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4453b9bbbd1c",
@@ -707,7 +693,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0b68bd1287fd",
@@ -1326,6 +1312,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "3f71b913827f",
+      "title": "画像ページ (1/2) Switch2版『モンハンワイルズ』体験版が10月20日より配信。ローカル通信マルチプレイにも対応",
+      "url": "https://www.famitsu.com/article/images/202610/90994/902140",
+      "host": "famitsu.com",
+      "source": "ファミ通.com",
+      "summary": "",
+      "publishedAt": "2026-10-15T03:00:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90994/ad8290f03a14ab45f91e7e2be493e0689.jpg?x=1280",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "e917c24be577",
