@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-17T21:30:14.590Z",
+  "updatedAt": "2026-10-17T22:00:18.646Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 54,
+  "total": 52,
   "todayCount": 3,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 6
+      "count": 5
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 37
+      "count": 36
     }
   ],
   "series": [
@@ -84,7 +84,7 @@
     {
       "id": "now",
       "label": "Now",
-      "count": 3
+      "count": 2
     },
     {
       "id": "stories",
@@ -94,17 +94,17 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 1
+      "count": 0
     }
   ],
   "sources": [
     {
       "name": "YouTube",
-      "count": 22
+      "count": 21
     },
     {
       "name": "GameWith",
-      "count": 19
+      "count": 18
     },
     {
       "name": "ファミ通.com",
@@ -362,13 +362,14 @@
       "title": "【モンハンナウ】モンハンNow感謝祭【3周年記念】【モンハンNow】",
       "summary": "",
       "url": "https://gamewith.jp/monsterhunternow/article/show/577438",
-      "image": "",
+      "image": "https://rensai.jp/wp-content/uploads/2026/10/5950f391d587a392ba73a8b062db570c.jpg",
       "leadSource": "GameWith",
       "publishedAt": "2026-10-16T05:50:12.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
-        "other"
+        "other",
+        "guide"
       ],
       "keywords": [
         "モンハンNow",
@@ -376,10 +377,10 @@
       ],
       "articles": [
         {
-          "title": "S11【4日目】剣強化チャアク vs 次元臨界パオウルムー｜炎斧アクセリオン｜要撃ポイント：1,030,309pt【モンハンNow日記】",
-          "url": "https://youtu.be/V29JeO4OMBQ?si",
-          "source": "YouTube",
-          "publishedAt": "2026-10-15T13:33:46.000Z",
+          "title": "『モンハンNow』アマツマガツチ装備解禁!! 次元変異ナルガクルガも確定した大阪イベント最新ガイド",
+          "url": "https://getnews.jp/archives/3748853",
+          "source": "ガジェット通信",
+          "publishedAt": "2026-10-15T00:00:30.000Z",
           "isPR": false
         }
       ]
@@ -414,12 +415,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-17T21:00:15.672Z",
-    "previousCount": 53,
-    "newCount": 1
+    "previousAt": "2026-10-17T21:30:14.590Z",
+    "previousCount": 54,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-17T22:00:14.590Z",
+  "nextUpdateAt": "2026-10-17T22:30:18.646Z",
   "items": [
     {
       "id": "6e77cc9d580b",
@@ -1250,27 +1251,6 @@
       "isNew": false
     },
     {
-      "id": "090161d0e308",
-      "title": "S11【4日目】剣強化チャアク vs 次元臨界パオウルムー｜炎斧アクセリオン｜要撃ポイント：1,030,309pt【モンハンNow日記】",
-      "url": "https://youtu.be/V29JeO4OMBQ?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-15T13:33:46.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "7c07f035b376",
       "title": "【モンスターハンターワイルズ】「極悪な嫁ちゃん」 #モンハン #モンハンワイルズ #ゲーム",
       "url": "https://youtu.be/DHPmzuC6PKI?si",
@@ -1347,27 +1327,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "5b17304850ee",
-      "title": "モンハンアウトランダーズのおすすめスマホ12選｜推奨スペック",
-      "url": "https://gamewith.jp/gaming-smartphone/582778",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-15T03:38:54.000Z",
-      "image": "",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
