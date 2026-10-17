@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-17T12:00:16.104Z",
+  "updatedAt": "2026-10-17T12:30:14.205Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 50,
-  "todayCount": 15,
+  "total": 49,
+  "todayCount": 16,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 7
+      "count": 6
     },
     {
       "id": "sale",
@@ -74,7 +74,7 @@
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 2
+      "count": 0
     },
     {
       "id": "world",
@@ -100,11 +100,11 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 21
+      "count": 20
     },
     {
       "name": "YouTube",
-      "count": 13
+      "count": 14
     },
     {
       "name": "ファミ通.com",
@@ -152,10 +152,6 @@
     },
     {
       "name": "ガジェット通信",
-      "count": 1
-    },
-    {
-      "name": "MEDIAMIXI",
       "count": 1
     }
   ],
@@ -445,13 +441,32 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-17T11:30:15.346Z",
-    "previousCount": 51,
+    "previousAt": "2026-10-17T12:00:16.104Z",
+    "previousCount": 50,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-17T12:30:16.104Z",
+  "nextUpdateAt": "2026-10-17T13:00:14.205Z",
   "items": [
+    {
+      "id": "d71ed3a9367e",
+      "title": "モンハンをファミコンで作ったら、AIは倒せたのに僕は倒せなかった",
+      "url": "https://youtu.be/fklfDXe-Yc8?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-17T11:41:31.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "e82893a27dc3",
       "title": "【検証】歴戦王アルシュベルドを野良救難で狩ると勝率は〇〇％！？カオスな野良マルチの現実【モンハンワイルズ】",
@@ -471,7 +486,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "86bfc1ca88d5",
@@ -748,7 +763,7 @@
       "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-10-16T15:00:00.000Z",
-      "image": "",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2147/418/008.jpg",
       "categories": [
         "other"
       ],
@@ -1441,48 +1456,6 @@
       ],
       "series": [
         "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "c1bcaad1eabb",
-      "title": "【モンハンライズ】重ね着装備一覧と解放条件",
-      "url": "https://gamewith.jp/mhrize/article/show/229446",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-14T12:22:10.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/229446.png?date=1619765775",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "46fa311acf46",
-      "title": "『モンスターハンターライズ』Netflixモバイルゲームに登場 | ニュース | IT×エンタメの最前線を届ける",
-      "url": "https://mediamixi.jp/news/16287/",
-      "host": "mediamixi.jp",
-      "source": "MEDIAMIXI",
-      "summary": "",
-      "publishedAt": "2026-10-14T12:01:00.000Z",
-      "image": "https://mediamixi.jp/app/uploads/2026/10/netflix1013.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "rise"
       ],
       "isOfficial": false,
       "isPR": false,
