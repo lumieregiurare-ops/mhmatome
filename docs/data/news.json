@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T13:30:16.530Z",
+  "updatedAt": "2026-10-17T14:00:15.275Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 51,
-  "todayCount": 19,
+  "todayCount": 21,
   "categories": [
     {
       "id": "new",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 1
+      "count": 0
     },
     {
       "id": "now",
@@ -199,15 +199,15 @@
       ]
     },
     {
-      "id": "26b9c1c9341d",
-      "title": "【モンハンアセンダンス】最新情報＆PV2間近！？パリゲームズウィークに期待を寄せるハゲ #モンハンワイルズ #アセンダンス",
+      "id": "d605748fb698",
+      "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
       "summary": "",
-      "url": "https://youtu.be/nvWe6wnmIK8?si",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575036.png?date=1789770113",
-      "leadSource": "YouTube",
-      "publishedAt": "2026-10-17T11:21:04.000Z",
+      "url": "https://gamewith.jp/mhwilds/574841",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574841.png?date=1789771579",
+      "leadSource": "GameWith",
+      "publishedAt": "2026-10-17T11:40:16.000Z",
       "sourceCount": 2,
-      "articleCount": 11,
+      "articleCount": 12,
       "categories": [
         "other",
         "guide"
@@ -218,6 +218,13 @@
         "最新情報"
       ],
       "articles": [
+        {
+          "title": "【モンハンアセンダンス】最新情報＆PV2間近！？パリゲームズウィークに期待を寄せるハゲ #モンハンワイルズ #アセンダンス",
+          "url": "https://youtu.be/nvWe6wnmIK8?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-17T11:21:04.000Z",
+          "isPR": false
+        },
         {
           "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/575036",
@@ -265,13 +272,6 @@
           "url": "https://gamewith.jp/mhwilds/575038",
           "source": "GameWith",
           "publishedAt": "2026-10-16T14:29:09.000Z",
-          "isPR": false
-        },
-        {
-          "title": "視聴者にモンハンを教わってみた【モンハンワイルズ】",
-          "url": "https://youtu.be/yXSXs-f1z4w",
-          "source": "YouTube",
-          "publishedAt": "2026-10-16T09:00:00.000Z",
           "isPR": false
         }
       ]
@@ -434,34 +434,13 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-17T13:00:14.862Z",
-    "previousCount": 50,
+    "previousAt": "2026-10-17T13:30:16.530Z",
+    "previousCount": 51,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-17T14:00:16.530Z",
+  "nextUpdateAt": "2026-10-17T14:30:15.275Z",
   "items": [
-    {
-      "id": "3a847101d21f",
-      "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
-      "url": "https://www.famitsu.com/article/images/202610/90097/892949",
-      "host": "famitsu.com",
-      "source": "ファミ通.com",
-      "summary": "",
-      "publishedAt": "2026-10-17T12:25:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90097/c2de40e0d504f583cda7465979f958a98.jpg?x=1280",
-      "categories": [
-        "media"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
     {
       "id": "d71ed3a9367e",
       "title": "モンハンをファミコンで作ったら、AIは倒せたのに僕は倒せなかった",
@@ -475,6 +454,27 @@
         "other"
       ],
       "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "d605748fb698",
+      "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/574841",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-17T11:40:16.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574841.png?date=1789771579",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -566,6 +566,27 @@
       "isNew": false
     },
     {
+      "id": "488c58093be3",
+      "title": "【アセンダンス】ガンランスの操作と新要素・ブーストアクション【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/577811",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-17T07:53:29.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577811.png?date=1789764143",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "f4f222ac2e2d",
       "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/575036",
@@ -579,6 +600,27 @@
       ],
       "series": [
         "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "3a847101d21f",
+      "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
+      "url": "https://www.famitsu.com/article/images/202610/90097/892951",
+      "host": "famitsu.com",
+      "source": "ファミ通.com",
+      "summary": "",
+      "publishedAt": "2026-10-17T07:05:02.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90097/cfac4ef5554f69012fe38d2f1d4e245a6.jpg?x=1280",
+      "categories": [
+        "media"
+      ],
+      "series": [
+        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -608,26 +650,25 @@
       "isNew": false
     },
     {
-      "id": "07056e89a739",
-      "title": "[MHWilds] 零式オメガ・プラネテス 大剣x4 非火事場 6'57\"99 / Savage Omega Planetes GreatSword 4PT [PS5]",
-      "url": "https://youtu.be/awtAnS27LX4",
-      "host": "youtu.be",
-      "source": "YouTube",
+      "id": "0b68bd1287fd",
+      "title": "【アセンダンス】片手剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/577790",
+      "host": "gamewith.jp",
+      "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-10-17T03:00:30.000Z",
-      "image": "",
+      "publishedAt": "2026-10-17T02:12:20.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577790.png?date=1789746410",
       "categories": [
         "other"
       ],
       "series": [
-        "wilds",
-        "world"
+        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5fc879b1cca5",
@@ -1082,27 +1123,6 @@
       "isNew": false
     },
     {
-      "id": "0b68bd1287fd",
-      "title": "【アセンダンス】片手剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/577790",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-15T16:45:23.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577790.png?date=1789746410",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "4cd467a24cc4",
       "title": "【アセンダンス】双剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/577734",
@@ -1153,27 +1173,6 @@
       "summary": "",
       "publishedAt": "2026-10-15T13:32:11.000Z",
       "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "488c58093be3",
-      "title": "【アセンダンス】ガンランスの操作と新要素・ブーストアクション【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/577811",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-15T11:55:07.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577811.png?date=1789764143",
       "categories": [
         "other"
       ],
@@ -1248,27 +1247,6 @@
       "isNew": false
     },
     {
-      "id": "d605748fb698",
-      "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/574841",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-15T06:10:11.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574841.png?date=1789771579",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "891707c1e8f4",
       "title": "「モンスターハンターワイルズ」Switch2版，序盤体験版を10月20日から配信。セーブデータは製品版に引継ぎ可能",
       "url": "https://www.4gamer.net/games/014/G101402/20261015017/",
@@ -1288,6 +1266,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "102d1b6e0cbb",
+      "title": "【モンハンワイルズ|第弐弾シリーズ企画 】ランスの楽しさを伝えたい ≪タマミツネ編≫ ※オトモなし・捕獲 (フリークエスト)(PS5 Pro)",
+      "url": "https://youtu.be/rP1fNYqtbjA?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-15T05:00:01.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "5b17304850ee",
