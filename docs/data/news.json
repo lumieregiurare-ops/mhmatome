@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-17T21:00:15.672Z",
+  "updatedAt": "2026-10-17T21:30:14.590Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 53,
+  "total": 54,
   "todayCount": 3,
   "categories": [
     {
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 36
+      "count": 37
     }
   ],
   "series": [
@@ -84,7 +84,7 @@
     {
       "id": "now",
       "label": "Now",
-      "count": 2
+      "count": 3
     },
     {
       "id": "stories",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 21
+      "count": 22
     },
     {
       "name": "GameWith",
@@ -362,14 +362,13 @@
       "title": "【モンハンナウ】モンハンNow感謝祭【3周年記念】【モンハンNow】",
       "summary": "",
       "url": "https://gamewith.jp/monsterhunternow/article/show/577438",
-      "image": "https://rensai.jp/wp-content/uploads/2026/10/5950f391d587a392ba73a8b062db570c.jpg",
+      "image": "",
       "leadSource": "GameWith",
       "publishedAt": "2026-10-16T05:50:12.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
-        "other",
-        "guide"
+        "other"
       ],
       "keywords": [
         "モンハンNow",
@@ -377,10 +376,10 @@
       ],
       "articles": [
         {
-          "title": "『モンハンNow』アマツマガツチ装備解禁!! 次元変異ナルガクルガも確定した大阪イベント最新ガイド",
-          "url": "https://getnews.jp/archives/3748853",
-          "source": "ガジェット通信",
-          "publishedAt": "2026-10-15T00:00:30.000Z",
+          "title": "S11【4日目】剣強化チャアク vs 次元臨界パオウルムー｜炎斧アクセリオン｜要撃ポイント：1,030,309pt【モンハンNow日記】",
+          "url": "https://youtu.be/V29JeO4OMBQ?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-15T13:33:46.000Z",
           "isPR": false
         }
       ]
@@ -415,12 +414,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-17T20:30:14.426Z",
+    "previousAt": "2026-10-17T21:00:15.672Z",
     "previousCount": 53,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-17T21:30:15.672Z",
+  "nextUpdateAt": "2026-10-17T22:00:14.590Z",
   "items": [
     {
       "id": "6e77cc9d580b",
@@ -817,7 +816,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0b68bd1287fd",
@@ -1249,6 +1248,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "090161d0e308",
+      "title": "S11【4日目】剣強化チャアク vs 次元臨界パオウルムー｜炎斧アクセリオン｜要撃ポイント：1,030,309pt【モンハンNow日記】",
+      "url": "https://youtu.be/V29JeO4OMBQ?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-15T13:33:46.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "7c07f035b376",
