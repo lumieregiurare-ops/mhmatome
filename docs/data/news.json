@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T10:30:14.591Z",
+  "updatedAt": "2026-10-18T11:00:14.890Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 58,
-  "todayCount": 16,
+  "todayCount": 17,
   "categories": [
     {
       "id": "new",
@@ -52,7 +52,7 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 2
+      "count": 1
     },
     {
       "id": "sales",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 45
+      "count": 46
     }
   ],
   "series": [
@@ -74,7 +74,7 @@
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 2
+      "count": 3
     },
     {
       "id": "world",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 2
+      "count": 1
     },
     {
       "id": "outlanders",
@@ -100,11 +100,11 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 27
+      "count": 26
     },
     {
       "name": "GameWith",
-      "count": 20
+      "count": 21
     },
     {
       "name": "Unisba Media",
@@ -175,6 +175,13 @@
           "isPR": false
         },
         {
+          "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/577281",
+          "source": "GameWith",
+          "publishedAt": "2026-10-17T19:11:19.000Z",
+          "isPR": false
+        },
+        {
           "title": "【モンハンアセンダンス】最新情報＆PV2間近！？パリゲームズウィークに期待を寄せるハゲ #モンハンワイルズ #アセンダンス",
           "url": "https://youtu.be/nvWe6wnmIK8?si",
           "source": "YouTube",
@@ -200,13 +207,6 @@
           "url": "https://gamewith.jp/mhwilds/563066",
           "source": "GameWith",
           "publishedAt": "2026-10-17T06:46:13.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/577281",
-          "source": "GameWith",
-          "publishedAt": "2026-10-16T20:36:24.000Z",
           "isPR": false
         },
         {
@@ -319,12 +319,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-18T10:00:15.930Z",
-    "previousCount": 59,
-    "newCount": 2
+    "previousAt": "2026-10-18T10:30:14.591Z",
+    "previousCount": 58,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-18T11:00:14.591Z",
+  "nextUpdateAt": "2026-10-18T11:30:14.890Z",
   "items": [
     {
       "id": "f11902b7dac6",
@@ -525,6 +525,27 @@
       "summary": "",
       "publishedAt": "2026-10-17T21:25:11.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563040.png?date=1789770455",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "778fbb3d5344",
+      "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/577281",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-17T19:11:19.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577281.png?date=1789571405",
       "categories": [
         "other"
       ],
@@ -1023,27 +1044,6 @@
       "isNew": false
     },
     {
-      "id": "778fbb3d5344",
-      "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/577281",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-16T20:36:24.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577281.png?date=1789571405",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "4c01b1afdf45",
       "title": "参加型 モンスターハンターダブルクロス お気軽にご参加ください。",
       "url": "https://youtu.be/BBq-ZLSO1sc",
@@ -1089,7 +1089,7 @@
       "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-10-16T15:00:00.000Z",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2147/418/008.jpg",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1182,7 +1182,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7fd57d31d64f",
@@ -1332,6 +1332,27 @@
       "isNew": false
     },
     {
+      "id": "420f3b159eef",
+      "title": "【サンブレイク】護石周回とリセマラのやり方｜護石厳選",
+      "url": "https://gamewith.jp/mhrize/article/show/350830",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-16T05:18:33.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/350830.png?date=1656968522",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "ac2e001635d5",
       "title": "【モンハンワイルズ】孤独から出でし君という自由 狩猟笛ソロ 5分59秒",
       "url": "https://youtu.be/ZOel_G4HFWg?si",
@@ -1360,7 +1381,7 @@
       "source": "千葉テレビ放送株式会社",
       "summary": "",
       "publishedAt": "2026-10-16T01:50:35.000Z",
-      "image": "",
+      "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1483640134136235409/origin_1.jpg",
       "categories": [
         "new"
       ],
@@ -1515,27 +1536,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "70de23154610",
-      "title": "【ずんだもん実況】モンスターハンターストーリーズ【初見プレイ】part 41",
-      "url": "https://youtu.be/zOZwuGAERVY?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-15T13:00:31.000Z",
-      "image": "",
-      "categories": [
-        "community"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     }
   ]
 }
