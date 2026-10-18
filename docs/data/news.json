@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T19:30:16.524Z",
+  "updatedAt": "2026-10-18T20:00:17.239Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -52,7 +52,7 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 2
+      "count": 1
     },
     {
       "id": "sales",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 46
+      "count": 47
     }
   ],
   "series": [
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 9
+      "count": 8
     },
     {
       "id": "now",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 29
+      "count": 28
     },
     {
       "name": "GameWith",
@@ -116,6 +116,10 @@
     },
     {
       "name": "Howl.link",
+      "count": 1
+    },
+    {
+      "name": "ウォーカープラス",
       "count": 1
     },
     {
@@ -349,12 +353,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-18T18:57:19.378Z",
-    "previousCount": 60,
+    "previousAt": "2026-10-18T19:30:16.524Z",
+    "previousCount": 61,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-18T20:00:16.524Z",
+  "nextUpdateAt": "2026-10-18T20:30:17.239Z",
   "items": [
     {
       "id": "fca5a3b45938",
@@ -400,6 +404,25 @@
       "isNew": false
     },
     {
+      "id": "55b0bd5ff9cd",
+      "title": "秋葉原に期間限定「モンハン」ショップが登場！",
+      "url": "https://www.walkerplus.com/article/63257/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-18T12:54:26.000Z",
+      "image": "https://news.walkerplus.com/article/63257/352473_615.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "3a847101d21f",
       "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
       "url": "https://www.famitsu.com/article/images/202610/90097/892951",
@@ -419,27 +442,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "8736856b56bc",
-      "title": "【MHWorld:IB】雷帝がいるなら地帝も出ていいよなァ!?【ゆっくり実況】【ガンランス】【モンハンアイスボーン】#ガンランス",
-      "url": "https://youtu.be/kFMRj09J8ng?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-18T10:30:20.000Z",
-      "image": "",
-      "categories": [
-        "community"
-      ],
-      "series": [
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "3cd8fb540a5a",
@@ -483,7 +485,7 @@
     },
     {
       "id": "098e57fd95e9",
-      "title": "【画像】3段階で発光色を変えられる泡狐竜のインテリアライト！カプコン モンスターハンター ルームライト タマミツネ 2/4",
+      "title": "【画像】3段階で発光色を変えられる泡狐竜のインテリアライト！カプコン モンスターハンター ルームライト タマミツネ 3/4",
       "url": "https://news.livedoor.com/article/image_detail/32596862/?img_id",
       "host": "news.livedoor.com",
       "source": "ライブドアニュース",
