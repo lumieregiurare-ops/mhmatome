@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-18T17:30:16.586Z",
+  "updatedAt": "2026-10-18T18:00:16.075Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 60,
+  "total": 59,
   "todayCount": 1,
   "categories": [
     {
@@ -27,7 +27,7 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 1
+      "count": 2
     },
     {
       "id": "goods",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 47
+      "count": 45
     }
   ],
   "series": [
@@ -74,7 +74,7 @@
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 3
+      "count": 2
     },
     {
       "id": "world",
@@ -100,30 +100,26 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 27
+      "count": 28
     },
     {
       "name": "GameWith",
-      "count": 20
+      "count": 19
     },
     {
       "name": "Unisba Media",
       "count": 3
     },
     {
-      "name": "Howl.link",
-      "count": 2
-    },
-    {
       "name": "GAME Watch",
       "count": 2
     },
     {
-      "name": "ファミ通.com",
+      "name": "Howl.link",
       "count": 1
     },
     {
-      "name": "ライブドアニュース",
+      "name": "ファミ通.com",
       "count": 1
     },
     {
@@ -140,6 +136,10 @@
     },
     {
       "name": "電撃ホビーウェブ",
+      "count": 1
+    },
+    {
+      "name": "キャラグー",
       "count": 1
     }
   ],
@@ -316,33 +316,6 @@
       ]
     },
     {
-      "id": "e141956e25a8",
-      "title": "【モンハンワイルズ】 #669久々モンハンたまにはモンハン 【参加型】【MHWilds】",
-      "summary": "",
-      "url": "https://t.co/guE4iwlfZJ",
-      "image": "",
-      "leadSource": "Howl.link",
-      "publishedAt": "2026-10-18T12:08:19.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other"
-      ],
-      "keywords": [
-        "モンハンワイルズ",
-        "mhwilds"
-      ],
-      "articles": [
-        {
-          "title": "【モンハンワイルズ】英雄の証 一般カリピストによる初見プレイ 狩猟笛ソロ 34分39秒【MHWilds/PC】",
-          "url": "https://youtu.be/p09Ej2xyQuc",
-          "source": "YouTube",
-          "publishedAt": "2026-10-18T04:39:13.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "c1e2a15f9a9c",
       "title": "【モンハンワイルズ】サポハンと回るオメガ・プラネテス 8から10分周回チャート 友達がいない人におすすめ 数盛りやソロ周回【モンスターハンターワイルズ】",
       "summary": "",
@@ -372,12 +345,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-18T17:00:18.189Z",
-    "previousCount": 59,
+    "previousAt": "2026-10-18T17:30:16.586Z",
+    "previousCount": 60,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-18T18:00:16.586Z",
+  "nextUpdateAt": "2026-10-18T18:30:16.075Z",
   "items": [
     {
       "id": "fca5a3b45938",
@@ -398,7 +371,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0c5d385ed2eb",
@@ -408,28 +381,6 @@
       "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-10-18T14:09:51.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e141956e25a8",
-      "title": "【モンハンワイルズ】 #669久々モンハンたまにはモンハン 【参加型】【MHWilds】",
-      "url": "https://t.co/guE4iwlfZJ",
-      "host": "t.co",
-      "source": "Howl.link",
-      "summary": "",
-      "publishedAt": "2026-10-18T12:08:19.000Z",
       "image": "",
       "categories": [
         "other"
@@ -497,25 +448,6 @@
       "image": "",
       "categories": [
         "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "098e57fd95e9",
-      "title": "【画像】3段階で発光色を変えられる泡狐竜のインテリアライト！カプコン モンスターハンター ルームライト タマミツネ 2/4",
-      "url": "https://news.livedoor.com/article/image_detail/32596862/?img_id",
-      "host": "news.livedoor.com",
-      "source": "ライブドアニュース",
-      "summary": "",
-      "publishedAt": "2026-10-18T08:35:55.000Z",
-      "image": "https://image.news.livedoor.com/newsimage/stf/a/8/a8c70_1604_50a8f138_73c7f115.jpg",
-      "categories": [
-        "other"
       ],
       "series": [],
       "isOfficial": false,
@@ -756,6 +688,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "caaaf606b157",
+      "title": "野良の零式オメガにえいえいする狩猟笛の動画 #mhwilds #モンハンワイルズ",
+      "url": "https://youtu.be/FljqdUksZTE?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-17T18:08:01.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "f9ec3544fdc8",
@@ -1510,27 +1464,6 @@
       "isNew": false
     },
     {
-      "id": "420f3b159eef",
-      "title": "【サンブレイク】護石周回とリセマラのやり方｜護石厳選",
-      "url": "https://gamewith.jp/mhrize/article/show/350830",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-16T05:18:33.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/350830.png?date=1656968522",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "ac2e001635d5",
       "title": "【モンハンワイルズ】孤独から出でし君という自由 狩猟笛ソロ 5分59秒",
       "url": "https://youtu.be/ZOel_G4HFWg?si",
@@ -1609,6 +1542,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "7acaa2a44e32",
+      "title": "モンスターハンターのコラボ最新一覧｜開催中・開催予定まとめ",
+      "url": "https://charagoo.jp/monsterhunter-news/",
+      "host": "charagoo.jp",
+      "source": "キャラグー",
+      "summary": "",
+      "publishedAt": "2026-10-15T23:11:06.000Z",
+      "image": "",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "d31eab580cf5",
