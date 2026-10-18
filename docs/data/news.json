@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-18T23:00:15.551Z",
+  "updatedAt": "2026-10-18T23:27:18.735Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 62,
+  "total": 60,
   "todayCount": 2,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 5
+      "count": 4
     },
     {
       "id": "update",
@@ -27,7 +27,7 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 3
+      "count": 1
     },
     {
       "id": "goods",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 47
+      "count": 48
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 45
+      "count": 47
     },
     {
       "id": "rise",
@@ -104,14 +104,10 @@
     },
     {
       "name": "GameWith",
-      "count": 18
+      "count": 19
     },
     {
       "name": "Unisba Media",
-      "count": 3
-    },
-    {
-      "name": "ウォーカープラス",
       "count": 2
     },
     {
@@ -131,6 +127,10 @@
       "count": 1
     },
     {
+      "name": "朝日新聞",
+      "count": 1
+    },
+    {
       "name": "Gizmodo",
       "count": 1
     },
@@ -140,10 +140,6 @@
     },
     {
       "name": "電撃ホビーウェブ",
-      "count": 1
-    },
-    {
-      "name": "キャラグー",
       "count": 1
     }
   ],
@@ -324,7 +320,7 @@
       "title": "カプセルトイ「モンスターハンター めじるしアクセサリー」10月第4週に発売リオレウスなどデフォルメデザインのモンスター全6種がラインナップ",
       "summary": "バンダイは、ガシャポン「モンスターハンター めじるしアクセサリー」を10月第4週に発売する。価格は1回400円。",
       "url": "https://game.watch.impress.co.jp/docs/news/2147418.html",
-      "image": "https://hobby.dengeki.com/ss/hobby/2026/10/samu_zXNgDE1UZo9YJWKhhp2OLbnPXm1l-cp7_wFlqcDMkM7cl0FHAcuiQ-f4118JysG44.jpg",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2147/418/008.jpg",
       "leadSource": "GAME Watch",
       "publishedAt": "2026-10-16T15:00:00.000Z",
       "sourceCount": 2,
@@ -349,12 +345,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-18T22:30:13.816Z",
-    "previousCount": 61,
-    "newCount": 2
+    "previousAt": "2026-10-18T23:00:15.551Z",
+    "previousCount": 62,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-18T23:30:15.551Z",
+  "nextUpdateAt": "2026-10-18T23:57:18.735Z",
   "items": [
     {
       "id": "243930d5fa3a",
@@ -379,25 +375,26 @@
       "isNew": false
     },
     {
-      "id": "b40f8ba0871f",
-      "title": "【MHWs】★10歴戦王アルシュベルド火事場滅龍ライト3分周回",
-      "url": "https://youtu.be/lt5GwxGg1j4?si",
+      "id": "f94b3ff62c8e",
+      "title": "「モンハンワイルズ/MHW」 マルチ会怪奇現象……👻？",
+      "url": "https://youtu.be/2nza0sJySiA?si",
       "host": "youtu.be",
       "source": "YouTube",
       "summary": "",
-      "publishedAt": "2026-10-18T16:30:31.000Z",
+      "publishedAt": "2026-10-18T15:59:52.000Z",
       "image": "",
       "categories": [
         "other"
       ],
       "series": [
+        "wilds",
         "world"
       ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "0c5d385ed2eb",
@@ -420,44 +417,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "22f58a63d794",
-      "title": "カプコン×JR東海のコラボが開催！モンスターハンターやストリートファイターのキャラと旅に出よう",
-      "url": "https://www.walkerplus.com/article/1176995/",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-10-18T13:26:47.000Z",
-      "image": "https://news.walkerplus.com/article/1176995/12576575_615.jpg",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "55b0bd5ff9cd",
-      "title": "秋葉原に期間限定「モンハン」ショップが登場！",
-      "url": "https://www.walkerplus.com/article/63257/",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-10-18T12:54:26.000Z",
-      "image": "https://news.walkerplus.com/article/63257/352473_615.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "3a847101d21f",
@@ -522,7 +481,7 @@
     },
     {
       "id": "098e57fd95e9",
-      "title": "【画像】3段階で発光色を変えられる泡狐竜のインテリアライト！カプコン モンスターハンター ルームライト タマミツネ 2/4",
+      "title": "【画像】3段階で発光色を変えられる泡狐竜のインテリアライト！カプコン モンスターハンター ルームライト タマミツネ 3/4",
       "url": "https://news.livedoor.com/article/image_detail/32596862/?img_id",
       "host": "news.livedoor.com",
       "source": "ライブドアニュース",
@@ -880,6 +839,25 @@
       "isNew": false
     },
     {
+      "id": "67437209f592",
+      "title": "「モンスターハンター」シリーズ【大タル爆弾】型アイテムBOX新発売！",
+      "url": "https://www.asahi.com/and/pressrelease/16833260",
+      "host": "asahi.com",
+      "source": "朝日新聞",
+      "summary": "",
+      "publishedAt": "2026-10-17T15:59:13.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "f5f320595ab5",
       "title": "【モンハンワイルズ】【くろおび杯予選用】 チャレンジクエスト 解鎖のアルシュベルド 双剣 ペア 4'31\"09",
       "url": "https://youtu.be/-pVGHlbgWpw?si",
@@ -899,6 +877,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "52788ae2dac3",
+      "title": "【アセンダンス】太刀の新要素とブーストアクション【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/452299",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-17T12:06:26.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/452299.png?date=1789747738",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "d605748fb698",
@@ -1244,7 +1243,7 @@
       "source": "GAME Watch",
       "summary": "バンダイは、ガシャポン「モンスターハンター めじるしアクセサリー」を10月第4週に発売する。価格は1回400円。",
       "publishedAt": "2026-10-16T15:00:00.000Z",
-      "image": "",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2147/418/008.jpg",
       "categories": [
         "other"
       ],
@@ -1263,7 +1262,7 @@
       "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-10-16T15:00:00.000Z",
-      "image": "",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2147/418/008.jpg",
       "categories": [
         "other"
       ],
@@ -1546,7 +1545,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ac2e001635d5",
@@ -1591,25 +1590,6 @@
       "isNew": false
     },
     {
-      "id": "be3f5f0b74c0",
-      "title": "【モンハン級のアクション⁉】超美麗キャラで戦う新作アクションゲームがやばいｗｗｗ【マビノギ英雄伝/Vindictus/体験版/demo版】 زلزله تهران (JuV2FtXYlO)",
-      "url": "https://media.unisba.ac.id/fb619cf2/a11d4f31gNROuIfmDl8",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-10-16T01:31:26.000Z",
-      "image": "",
-      "categories": [
-        "new"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "c955f1efd2a7",
       "title": "『モンスターハンター』シリーズのガシャポン「めじるしアクセサリー」が初登場！リオレウスやジンオウガなど、モンスターたちをキュートなデフォルメで収録！",
       "url": "https://hobby.dengeki.com/news/3195619/",
@@ -1620,25 +1600,6 @@
       "image": "https://hobby.dengeki.com/ss/hobby/2026/10/samu_zXNgDE1UZo9YJWKhhp2OLbnPXm1l-cp7_wFlqcDMkM7cl0FHAcuiQ-f4118JysG44.jpg",
       "categories": [
         "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "7acaa2a44e32",
-      "title": "モンスターハンターのコラボ最新一覧｜開催中・開催予定まとめ",
-      "url": "https://charagoo.jp/monsterhunter-news/",
-      "host": "charagoo.jp",
-      "source": "キャラグー",
-      "summary": "",
-      "publishedAt": "2026-10-15T23:11:06.000Z",
-      "image": "",
-      "categories": [
-        "collab"
       ],
       "series": [],
       "isOfficial": false,
