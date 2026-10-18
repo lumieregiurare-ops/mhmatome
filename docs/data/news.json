@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T09:30:15.578Z",
+  "updatedAt": "2026-10-18T10:00:15.930Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 59,
-  "todayCount": 15,
+  "todayCount": 16,
   "categories": [
     {
       "id": "new",
@@ -57,7 +57,7 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 0
+      "count": 1
     },
     {
       "id": "other",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 43
+      "count": 44
     },
     {
       "id": "rise",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 2
+      "count": 1
     },
     {
       "id": "outlanders",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 28
+      "count": 27
     },
     {
       "name": "GameWith",
@@ -127,6 +127,10 @@
       "count": 1
     },
     {
+      "name": "Howl.link",
+      "count": 1
+    },
+    {
       "name": "千葉テレビ放送株式会社",
       "count": 1
     },
@@ -149,7 +153,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-10-18T05:51:24.000Z",
       "sourceCount": 2,
-      "articleCount": 10,
+      "articleCount": 9,
       "categories": [
         "guide",
         "other"
@@ -319,13 +323,35 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-18T09:00:15.601Z",
+    "previousAt": "2026-10-18T09:30:15.578Z",
     "previousCount": 59,
-    "newCount": 1
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-18T10:00:15.578Z",
+  "nextUpdateAt": "2026-10-18T10:30:15.930Z",
   "items": [
+    {
+      "id": "f11902b7dac6",
+      "title": "Vこおちゃペア闘技大会くろおび杯で覚醒してしまうwwペアベスト記録 4′45 モンハンワイルズ",
+      "url": "https://youtu.be/t0iQFBYZmok?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-18T07:24:55.000Z",
+      "image": "",
+      "categories": [
+        "community",
+        "sales"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "e6d79acfa4bd",
       "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
@@ -557,7 +583,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6e77cc9d580b",
@@ -892,6 +918,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "78378c525070",
+      "title": "【モンスターハンターワイルズ】 太刀を練習する会！#3",
+      "url": "https://t.co/k4MpaT5dNC",
+      "host": "t.co",
+      "source": "Howl.link",
+      "summary": "",
+      "publishedAt": "2026-10-17T04:06:53.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "40bccce677c8",
@@ -1495,27 +1542,6 @@
       "isNew": false
     },
     {
-      "id": "70de23154610",
-      "title": "【ずんだもん実況】モンスターハンターストーリーズ【初見プレイ】part 41",
-      "url": "https://youtu.be/zOZwuGAERVY?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-15T13:00:31.000Z",
-      "image": "",
-      "categories": [
-        "community"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "0ce28856139e",
       "title": "亜紗@モンハン写真部 (@p3dq4) on X - X",
       "url": "https://x.com/intent/like?tweet_id",
@@ -1528,27 +1554,6 @@
         "other"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3d59c35cc36d",
-      "title": "【モンハンワイルズ】フリチャレ歴戦王ヌ•エグドラ ヘビィボウガン２分４６秒",
-      "url": "https://youtu.be/nryeFueYXJk",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-15T09:46:21.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
