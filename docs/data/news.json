@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T14:30:16.851Z",
+  "updatedAt": "2026-10-18T15:00:16.547Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 60,
-  "todayCount": 21,
+  "todayCount": 0,
   "categories": [
     {
       "id": "new",
@@ -74,12 +74,12 @@
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 2
+      "count": 3
     },
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 8
+      "count": 9
     },
     {
       "id": "now",
@@ -104,14 +104,14 @@
     },
     {
       "name": "GameWith",
-      "count": 19
-    },
-    {
-      "name": "Unisba Media",
-      "count": 3
+      "count": 20
     },
     {
       "name": "Howl.link",
+      "count": 3
+    },
+    {
+      "name": "Unisba Media",
       "count": 3
     },
     {
@@ -120,10 +120,6 @@
     },
     {
       "name": "ファミ通.com",
-      "count": 1
-    },
-    {
-      "name": "ライブドアニュース",
       "count": 1
     },
     {
@@ -152,18 +148,25 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545421.png?date=1771483075",
       "leadSource": "YouTube",
       "publishedAt": "2026-10-18T12:53:03.000Z",
-      "sourceCount": 2,
-      "articleCount": 7,
+      "sourceCount": 3,
+      "articleCount": 8,
       "categories": [
         "other",
         "guide"
       ],
       "keywords": [
         "モンハンワイルズ",
-        "モンスターハンターワイルズ",
-        "mhwilds"
+        "mhwilds",
+        "モンスターハンターワイルズ"
       ],
       "articles": [
+        {
+          "title": "【モンハンワイルズ】 #669久々モンハンたまにはモンハン 【参加型】【MHWilds】",
+          "url": "https://t.co/guE4iwlfZJ",
+          "source": "Howl.link",
+          "publishedAt": "2026-10-18T12:08:19.000Z",
+          "isPR": false
+        },
         {
           "title": "【モンハンワイルズ】英雄の証 一般カリピストによる初見プレイ 狩猟笛ソロ 34分39秒【MHWilds/PC】",
           "url": "https://youtu.be/p09Ej2xyQuc",
@@ -362,42 +365,15 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "4453b9bbbd1c",
-      "title": "MHWilds【参加型】 #180 ※ロビー入室自由※🫣弓専と行く🏹【モンスターハンターワイルズ】ゆこいちの絶叫GAME部屋 Michael J Fox (YMiSMBJrtZ)",
-      "summary": "",
-      "url": "https://media.unisba.ac.id/9cec3567/eda5973eVCkyUSJHJD9RRCc",
-      "image": "",
-      "leadSource": "Unisba Media",
-      "publishedAt": "2026-10-17T02:30:32.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other"
-      ],
-      "keywords": [
-        "モンスターハンターワイルズ",
-        "参加型"
-      ],
-      "articles": [
-        {
-          "title": "モンスターハンターワイルズ ハンマーに呪われた人【参加型】",
-          "url": "https://t.co/91Z6ajRygJ",
-          "source": "Howl.link",
-          "publishedAt": "2026-10-16T11:43:16.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-18T14:00:18.372Z",
-    "previousCount": 61,
-    "newCount": 3
+    "previousAt": "2026-10-18T14:30:16.851Z",
+    "previousCount": 60,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-18T15:00:16.851Z",
+  "nextUpdateAt": "2026-10-18T15:30:16.547Z",
   "items": [
     {
       "id": "4b29926c5e23",
@@ -407,6 +383,28 @@
       "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-10-18T12:53:03.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "e141956e25a8",
+      "title": "【モンハンワイルズ】 #669久々モンハンたまにはモンハン 【参加型】【MHWilds】",
+      "url": "https://t.co/guE4iwlfZJ",
+      "host": "t.co",
+      "source": "Howl.link",
+      "summary": "",
+      "publishedAt": "2026-10-18T12:08:19.000Z",
       "image": "",
       "categories": [
         "other"
@@ -453,25 +451,6 @@
       "image": "",
       "categories": [
         "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "098e57fd95e9",
-      "title": "【画像】3段階で発光色を変えられる泡狐竜のインテリアライト！カプコン モンスターハンター ルームライト タマミツネ 2/4",
-      "url": "https://news.livedoor.com/article/image_detail/32596862/?img_id",
-      "host": "news.livedoor.com",
-      "source": "ライブドアニュース",
-      "summary": "",
-      "publishedAt": "2026-10-18T08:35:55.000Z",
-      "image": "https://image.news.livedoor.com/newsimage/stf/a/8/a8c70_1604_50a8f138_73c7f115.jpg",
-      "categories": [
-        "other"
       ],
       "series": [],
       "isOfficial": false,
@@ -1047,7 +1026,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4cd467a24cc4",
@@ -1319,27 +1298,6 @@
       "isNew": false
     },
     {
-      "id": "852fb62e904f",
-      "title": "モンスターハンターワイルズ ハンマーに呪われた人【参加型】",
-      "url": "https://t.co/91Z6ajRygJ",
-      "host": "t.co",
-      "source": "Howl.link",
-      "summary": "",
-      "publishedAt": "2026-10-16T11:43:16.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "db83145cba34",
       "title": "【MHWilds/PS5】ソロ＆スラアク縛りでストーリー攻略！#7 遂に完結！【モンハンワイルズ】",
       "url": "https://youtu.be/wPJrCaXunHQ?si",
@@ -1549,6 +1507,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "420f3b159eef",
+      "title": "【サンブレイク】護石周回とリセマラのやり方｜護石厳選",
+      "url": "https://gamewith.jp/mhrize/article/show/350830",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-16T05:18:33.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/350830.png?date=1656968522",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "ac2e001635d5",
