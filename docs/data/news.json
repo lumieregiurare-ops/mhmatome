@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-18T18:57:19.378Z",
+  "updatedAt": "2026-10-18T19:30:16.524Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 60,
+  "total": 61,
   "todayCount": 1,
   "categories": [
     {
@@ -52,7 +52,7 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 1
+      "count": 2
     },
     {
       "id": "sales",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 8
+      "count": 9
     },
     {
       "id": "now",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 28
+      "count": 29
     },
     {
       "name": "GameWith",
@@ -349,12 +349,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-18T18:30:14.315Z",
+    "previousAt": "2026-10-18T18:57:19.378Z",
     "previousCount": 60,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-18T19:27:19.378Z",
+  "nextUpdateAt": "2026-10-18T20:00:16.524Z",
   "items": [
     {
       "id": "fca5a3b45938",
@@ -421,6 +421,27 @@
       "isNew": false
     },
     {
+      "id": "8736856b56bc",
+      "title": "【MHWorld:IB】雷帝がいるなら地帝も出ていいよなァ!?【ゆっくり実況】【ガンランス】【モンハンアイスボーン】#ガンランス",
+      "url": "https://youtu.be/kFMRj09J8ng?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-18T10:30:20.000Z",
+      "image": "",
+      "categories": [
+        "community"
+      ],
+      "series": [
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "3cd8fb540a5a",
       "title": "歴戦王アルシュベルド 太刀 ペア 防壁火事場 捕獲6分06秒 / Arch Tempered Arkveld LS duo【モンハンワイルズ】",
       "url": "https://youtu.be/y-JG9BqB2Ew?si",
@@ -477,7 +498,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f11902b7dac6",
