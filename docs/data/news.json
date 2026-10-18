@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T12:00:14.703Z",
+  "updatedAt": "2026-10-18T12:30:15.084Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 58,
-  "todayCount": 17,
+  "todayCount": 19,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 5
+      "count": 4
     },
     {
       "id": "sale",
@@ -52,7 +52,7 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 2
+      "count": 1
     },
     {
       "id": "sales",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 43
+      "count": 45
     }
   ],
   "series": [
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 7
+      "count": 6
     },
     {
       "id": "now",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 2
+      "count": 1
     },
     {
       "id": "outlanders",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 29
+      "count": 27
     },
     {
       "name": "GameWith",
@@ -119,7 +119,15 @@
       "count": 1
     },
     {
+      "name": "朝日新聞",
+      "count": 1
+    },
+    {
       "name": "Gizmodo",
+      "count": 1
+    },
+    {
+      "name": "Howl.link",
       "count": 1
     },
     {
@@ -167,6 +175,13 @@
           "isPR": false
         },
         {
+          "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/577281",
+          "source": "GameWith",
+          "publishedAt": "2026-10-17T19:11:19.000Z",
+          "isPR": false
+        },
+        {
           "title": "【モンハンアセンダンス】最新情報＆PV2間近！？パリゲームズウィークに期待を寄せるハゲ #モンハンワイルズ #アセンダンス",
           "url": "https://youtu.be/nvWe6wnmIK8?si",
           "source": "YouTube",
@@ -195,13 +210,6 @@
           "isPR": false
         },
         {
-          "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/577281",
-          "source": "GameWith",
-          "publishedAt": "2026-10-16T20:36:24.000Z",
-          "isPR": false
-        },
-        {
           "title": "【モンハンワイルズ】ナナイロカネの集め方と精錬方法【モンスターハンターワイルズ】",
           "url": "https://gamewith.jp/mhwilds/487799",
           "source": "GameWith",
@@ -219,15 +227,15 @@
       "leadSource": "YouTube",
       "publishedAt": "2026-10-18T04:39:13.000Z",
       "sourceCount": 2,
-      "articleCount": 6,
+      "articleCount": 5,
       "categories": [
         "other",
         "guide"
       ],
       "keywords": [
         "モンハンワイルズ",
-        "mhwilds",
-        "モンスターハンターワイルズ"
+        "モンスターハンターワイルズ",
+        "mhwilds"
       ],
       "articles": [
         {
@@ -256,13 +264,6 @@
           "url": "https://youtu.be/Q9wE0X1YU28?si",
           "source": "YouTube",
           "publishedAt": "2026-10-17T16:36:16.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【MHWilds/PS5】ソロ＆スラアク縛りでストーリー攻略！#7 遂に完結！【モンハンワイルズ】",
-          "url": "https://youtu.be/wPJrCaXunHQ?si",
-          "source": "YouTube",
-          "publishedAt": "2026-10-16T11:37:15.000Z",
           "isPR": false
         }
       ]
@@ -368,12 +369,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-18T11:30:14.805Z",
-    "previousCount": 60,
+    "previousAt": "2026-10-18T12:00:14.703Z",
+    "previousCount": 58,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-18T12:30:14.703Z",
+  "nextUpdateAt": "2026-10-18T13:00:15.084Z",
   "items": [
     {
       "id": "a54dd0bbca0b",
@@ -392,7 +393,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3a847101d21f",
@@ -628,6 +629,27 @@
       "isNew": false
     },
     {
+      "id": "778fbb3d5344",
+      "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/577281",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-17T19:11:19.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577281.png?date=1789571405",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "caaaf606b157",
       "title": "野良の零式オメガにえいえいする狩猟笛の動画 #mhwilds #モンハンワイルズ",
       "url": "https://youtu.be/FljqdUksZTE?si",
@@ -733,6 +755,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "67437209f592",
+      "title": "「モンスターハンター」シリーズ【大タル爆弾】型アイテムBOX新発売！",
+      "url": "https://www.asahi.com/and/pressrelease/16833260",
+      "host": "asahi.com",
+      "source": "朝日新聞",
+      "summary": "",
+      "publishedAt": "2026-10-17T15:59:13.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "f5f320595ab5",
@@ -945,6 +986,27 @@
       "isNew": false
     },
     {
+      "id": "78378c525070",
+      "title": "【モンスターハンターワイルズ】 太刀を練習する会！#3",
+      "url": "https://t.co/k4MpaT5dNC",
+      "host": "t.co",
+      "source": "Howl.link",
+      "summary": "",
+      "publishedAt": "2026-10-17T04:06:53.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "40bccce677c8",
       "title": "【アセンダンス】大剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/485475",
@@ -1073,27 +1135,6 @@
       "isNew": false
     },
     {
-      "id": "778fbb3d5344",
-      "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/577281",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-16T20:36:24.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577281.png?date=1789571405",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "4c01b1afdf45",
       "title": "参加型 モンスターハンターダブルクロス お気軽にご参加ください。",
       "url": "https://youtu.be/BBq-ZLSO1sc",
@@ -1139,7 +1180,7 @@
       "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-10-16T15:00:00.000Z",
-      "image": "",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2147/418/008.jpg",
       "categories": [
         "other"
       ],
@@ -1191,28 +1232,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "db83145cba34",
-      "title": "【MHWilds/PS5】ソロ＆スラアク縛りでストーリー攻略！#7 遂に完結！【モンハンワイルズ】",
-      "url": "https://youtu.be/wPJrCaXunHQ?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-16T11:37:15.000Z",
-      "image": "",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "c1d96dbd2d09",
@@ -1560,27 +1579,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "70de23154610",
-      "title": "【ずんだもん実況】モンスターハンターストーリーズ【初見プレイ】part 41",
-      "url": "https://youtu.be/zOZwuGAERVY?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-15T13:00:31.000Z",
-      "image": "",
-      "categories": [
-        "community"
-      ],
-      "series": [
-        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
