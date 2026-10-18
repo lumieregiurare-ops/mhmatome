@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-17T23:30:15.906Z",
+  "updatedAt": "2026-10-18T00:00:16.567Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 55,
-  "todayCount": 7,
+  "total": 54,
+  "todayCount": 6,
   "categories": [
     {
       "id": "new",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 38
+      "count": 37
     }
   ],
   "series": [
@@ -84,7 +84,7 @@
     {
       "id": "now",
       "label": "Now",
-      "count": 3
+      "count": 2
     },
     {
       "id": "stories",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 22
+      "count": 21
     },
     {
       "name": "GameWith",
@@ -115,15 +115,15 @@
       "count": 2
     },
     {
-      "name": "朝日新聞",
-      "count": 1
-    },
-    {
       "name": "Gizmodo",
       "count": 1
     },
     {
       "name": "電撃ホビーウェブ",
+      "count": 1
+    },
+    {
+      "name": "X",
       "count": 1
     },
     {
@@ -345,13 +345,14 @@
       "title": "【モンハンナウ】モンハンNow感謝祭【3周年記念】【モンハンNow】",
       "summary": "",
       "url": "https://gamewith.jp/monsterhunternow/article/show/577438",
-      "image": "",
+      "image": "https://rensai.jp/wp-content/uploads/2026/10/5950f391d587a392ba73a8b062db570c.jpg",
       "leadSource": "GameWith",
       "publishedAt": "2026-10-16T05:50:12.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
-        "other"
+        "other",
+        "guide"
       ],
       "keywords": [
         "モンハンNow",
@@ -359,10 +360,10 @@
       ],
       "articles": [
         {
-          "title": "S11【4日目】剣強化チャアク vs 次元臨界パオウルムー｜炎斧アクセリオン｜要撃ポイント：1,030,309pt【モンハンNow日記】",
-          "url": "https://youtu.be/V29JeO4OMBQ?si",
-          "source": "YouTube",
-          "publishedAt": "2026-10-15T13:33:46.000Z",
+          "title": "『モンハンNow』アマツマガツチ装備解禁!! 次元変異ナルガクルガも確定した大阪イベント最新ガイド",
+          "url": "https://getnews.jp/archives/3748853",
+          "source": "ガジェット通信",
+          "publishedAt": "2026-10-15T00:00:30.000Z",
           "isPR": false
         }
       ]
@@ -397,12 +398,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-17T23:00:17.985Z",
-    "previousCount": 52,
-    "newCount": 3
+    "previousAt": "2026-10-17T23:30:15.906Z",
+    "previousCount": 55,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-18T00:00:15.906Z",
+  "nextUpdateAt": "2026-10-18T00:30:16.567Z",
   "items": [
     {
       "id": "d8b95bbbc335",
@@ -528,25 +529,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "67437209f592",
-      "title": "「モンスターハンター」シリーズ【大タル爆弾】型アイテムBOX新発売！",
-      "url": "https://www.asahi.com/and/pressrelease/16833260",
-      "host": "asahi.com",
-      "source": "朝日新聞",
-      "summary": "",
-      "publishedAt": "2026-10-17T15:59:13.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "3a847101d21f",
@@ -993,7 +975,7 @@
       "source": "GAME Watch",
       "summary": "バンダイは、ガシャポン「モンスターハンター めじるしアクセサリー」を10月第4週に発売する。価格は1回400円。",
       "publishedAt": "2026-10-16T15:00:00.000Z",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2147/418/008.jpg",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1253,27 +1235,6 @@
       "isNew": false
     },
     {
-      "id": "090161d0e308",
-      "title": "S11【4日目】剣強化チャアク vs 次元臨界パオウルムー｜炎斧アクセリオン｜要撃ポイント：1,030,309pt【モンハンNow日記】",
-      "url": "https://youtu.be/V29JeO4OMBQ?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-15T13:33:46.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "7c07f035b376",
       "title": "【モンスターハンターワイルズ】「極悪な嫁ちゃん」 #モンハン #モンハンワイルズ #ゲーム",
       "url": "https://youtu.be/DHPmzuC6PKI?si",
@@ -1314,6 +1275,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "0ce28856139e",
+      "title": "亜紗@モンハン写真部 (@p3dq4) on X - X",
+      "url": "https://x.com/intent/like?tweet_id",
+      "host": "x.com",
+      "source": "X",
+      "summary": "",
+      "publishedAt": "2026-10-15T10:22:58.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "891707c1e8f4",
@@ -1376,7 +1356,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6c19198188c0",
