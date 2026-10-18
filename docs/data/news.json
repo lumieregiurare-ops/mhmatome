@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-18T11:30:14.805Z",
+  "updatedAt": "2026-10-18T12:00:14.703Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 60,
-  "todayCount": 18,
+  "total": 58,
+  "todayCount": 17,
   "categories": [
     {
       "id": "new",
@@ -32,7 +32,7 @@
     {
       "id": "goods",
       "label": "グッズ・フィギュア",
-      "count": 0
+      "count": 1
     },
     {
       "id": "media",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 4
+      "count": 5
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 47
+      "count": 43
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 46
+      "count": 44
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 6
+      "count": 7
     },
     {
       "id": "now",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 28
+      "count": 29
     },
     {
       "name": "GameWith",
@@ -111,19 +111,11 @@
       "count": 3
     },
     {
-      "name": "Howl.link",
-      "count": 2
-    },
-    {
       "name": "GAME Watch",
       "count": 2
     },
     {
       "name": "ファミ通",
-      "count": 1
-    },
-    {
-      "name": "朝日新聞",
       "count": 1
     },
     {
@@ -148,16 +140,16 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
       "leadSource": "GameWith",
       "publishedAt": "2026-10-18T05:51:24.000Z",
-      "sourceCount": 3,
-      "articleCount": 10,
+      "sourceCount": 2,
+      "articleCount": 9,
       "categories": [
         "guide",
         "other"
       ],
       "keywords": [
         "モンハンワイルズ",
-        "アセンダンス",
-        "最新情報"
+        "最新情報",
+        "アセンダンス"
       ],
       "articles": [
         {
@@ -172,13 +164,6 @@
           "url": "https://gamewith.jp/mhwilds/563040",
           "source": "GameWith",
           "publishedAt": "2026-10-17T21:25:11.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/577281",
-          "source": "GameWith",
-          "publishedAt": "2026-10-17T19:11:19.000Z",
           "isPR": false
         },
         {
@@ -210,10 +195,17 @@
           "isPR": false
         },
         {
-          "title": "[視聴者参加型サークルイベント]【モンハンワイルズ】アセンダンス発売まで護石掘りしたい男の『モンスターハンターワイルズ』 Part60 #508 【Steam】",
-          "url": "https://t.co/e19Nrwuhgb",
-          "source": "Howl.link",
-          "publishedAt": "2026-10-17T04:52:29.000Z",
+          "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/577281",
+          "source": "GameWith",
+          "publishedAt": "2026-10-16T20:36:24.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】ナナイロカネの集め方と精錬方法【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/487799",
+          "source": "GameWith",
+          "publishedAt": "2026-10-16T09:38:08.000Z",
           "isPR": false
         }
       ]
@@ -227,15 +219,15 @@
       "leadSource": "YouTube",
       "publishedAt": "2026-10-18T04:39:13.000Z",
       "sourceCount": 2,
-      "articleCount": 5,
+      "articleCount": 6,
       "categories": [
         "other",
         "guide"
       ],
       "keywords": [
         "モンハンワイルズ",
-        "モンスターハンターワイルズ",
-        "mhwilds"
+        "mhwilds",
+        "モンスターハンターワイルズ"
       ],
       "articles": [
         {
@@ -264,6 +256,13 @@
           "url": "https://youtu.be/Q9wE0X1YU28?si",
           "source": "YouTube",
           "publishedAt": "2026-10-17T16:36:16.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【MHWilds/PS5】ソロ＆スラアク縛りでストーリー攻略！#7 遂に完結！【モンハンワイルズ】",
+          "url": "https://youtu.be/wPJrCaXunHQ?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-16T11:37:15.000Z",
           "isPR": false
         }
       ]
@@ -369,13 +368,32 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-18T11:00:14.890Z",
-    "previousCount": 58,
-    "newCount": 3
+    "previousAt": "2026-10-18T11:30:14.805Z",
+    "previousCount": 60,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-18T12:00:14.805Z",
+  "nextUpdateAt": "2026-10-18T12:30:14.703Z",
   "items": [
+    {
+      "id": "a54dd0bbca0b",
+      "title": "【ホビドラちゃんねる第50回】 クリエーターズモデル アルシュベルドフィギュア リペイントしてみた ＃Monsterhunterwilds",
+      "url": "https://youtu.be/ntnhAOaJG1I?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-18T09:28:41.000Z",
+      "image": "",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "3a847101d21f",
       "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
@@ -458,7 +476,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "310bc849231e",
@@ -610,27 +628,6 @@
       "isNew": false
     },
     {
-      "id": "778fbb3d5344",
-      "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/577281",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-17T19:11:19.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577281.png?date=1789571405",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "caaaf606b157",
       "title": "野良の零式オメガにえいえいする狩猟笛の動画 #mhwilds #モンハンワイルズ",
       "url": "https://youtu.be/FljqdUksZTE?si",
@@ -731,25 +728,6 @@
       "series": [
         "wilds"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "67437209f592",
-      "title": "「モンスターハンター」シリーズ【大タル爆弾】型アイテムBOX新発売！",
-      "url": "https://www.asahi.com/and/pressrelease/16833260",
-      "host": "asahi.com",
-      "source": "朝日新聞",
-      "summary": "",
-      "publishedAt": "2026-10-17T15:59:13.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -946,27 +924,6 @@
       "isNew": false
     },
     {
-      "id": "8c599b1b0473",
-      "title": "[視聴者参加型サークルイベント]【モンハンワイルズ】アセンダンス発売まで護石掘りしたい男の『モンスターハンターワイルズ』 Part60 #508 【Steam】",
-      "url": "https://t.co/e19Nrwuhgb",
-      "host": "t.co",
-      "source": "Howl.link",
-      "summary": "",
-      "publishedAt": "2026-10-17T04:52:29.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "4cd467a24cc4",
       "title": "【アセンダンス】双剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/577734",
@@ -975,27 +932,6 @@
       "summary": "",
       "publishedAt": "2026-10-17T04:26:19.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577734.png?date=1789765976",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "78378c525070",
-      "title": "【モンスターハンターワイルズ】 太刀を練習する会！#3",
-      "url": "https://t.co/k4MpaT5dNC",
-      "host": "t.co",
-      "source": "Howl.link",
-      "summary": "",
-      "publishedAt": "2026-10-17T04:06:53.000Z",
-      "image": "",
       "categories": [
         "other"
       ],
@@ -1137,6 +1073,27 @@
       "isNew": false
     },
     {
+      "id": "778fbb3d5344",
+      "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/577281",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-16T20:36:24.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577281.png?date=1789571405",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "4c01b1afdf45",
       "title": "参加型 モンスターハンターダブルクロス お気軽にご参加ください。",
       "url": "https://youtu.be/BBq-ZLSO1sc",
@@ -1182,7 +1139,7 @@
       "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-10-16T15:00:00.000Z",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2147/418/008.jpg",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1234,6 +1191,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "db83145cba34",
+      "title": "【MHWilds/PS5】ソロ＆スラアク縛りでストーリー攻略！#7 遂に完結！【モンハンワイルズ】",
+      "url": "https://youtu.be/wPJrCaXunHQ?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-16T11:37:15.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "c1d96dbd2d09",
@@ -1526,27 +1505,6 @@
       "isNew": false
     },
     {
-      "id": "cd03e6faabe0",
-      "title": "歴戦王アルシュベルド 広域笛ソロ討伐9’16”83（猫なし）【モンハンワイルズ】",
-      "url": "https://youtu.be/2CYlCgaw3Bc",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-15T19:23:55.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "090161d0e308",
       "title": "S11【4日目】剣強化チャアク vs 次元臨界パオウルムー｜炎斧アクセリオン｜要撃ポイント：1,030,309pt【モンハンNow日記】",
       "url": "https://youtu.be/V29JeO4OMBQ?si",
@@ -1628,7 +1586,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     }
   ]
 }
