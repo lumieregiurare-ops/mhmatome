@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-18T18:00:16.075Z",
+  "updatedAt": "2026-10-18T18:30:14.315Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 59,
+  "total": 60,
   "todayCount": 1,
   "categories": [
     {
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 45
+      "count": 46
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 45
+      "count": 46
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 8
+      "count": 9
     },
     {
       "id": "now",
@@ -111,12 +111,12 @@
       "count": 3
     },
     {
-      "name": "GAME Watch",
+      "name": "Howl.link",
       "count": 2
     },
     {
-      "name": "Howl.link",
-      "count": 1
+      "name": "GAME Watch",
+      "count": 2
     },
     {
       "name": "ファミ通.com",
@@ -252,6 +252,48 @@
       ]
     },
     {
+      "id": "e141956e25a8",
+      "title": "【モンハンワイルズ】 #669久々モンハンたまにはモンハン 【参加型】【MHWilds】",
+      "summary": "",
+      "url": "https://t.co/guE4iwlfZJ",
+      "image": "",
+      "leadSource": "Howl.link",
+      "publishedAt": "2026-10-18T12:08:19.000Z",
+      "sourceCount": 2,
+      "articleCount": 4,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "モンハンワイルズ",
+        "mhwilds",
+        "狩猟笛"
+      ],
+      "articles": [
+        {
+          "title": "【モンハンワイルズ】英雄の証 一般カリピストによる初見プレイ 狩猟笛ソロ 34分39秒【MHWilds/PC】",
+          "url": "https://youtu.be/p09Ej2xyQuc",
+          "source": "YouTube",
+          "publishedAt": "2026-10-18T04:39:13.000Z",
+          "isPR": false
+        },
+        {
+          "title": "野良の零式オメガにえいえいする狩猟笛の動画 #mhwilds #モンハンワイルズ",
+          "url": "https://youtu.be/FljqdUksZTE?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-17T18:08:01.000Z",
+          "isPR": false
+        },
+        {
+          "title": "野良と爆発事故に合った、とある日のモンハンワイルズ #モンハンワイルズ #monsterhunter",
+          "url": "https://youtu.be/Q9wE0X1YU28?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-17T16:36:16.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "f9ec3544fdc8",
       "title": "【モンハン×スシロー】限定ピックやボトルなど貰えるモンハン×スシローコラボ日程や注意点を解説！【モンハンワイルズ/モンハンnow/モンスターハンターNow/モンハンNOW/モンハンなう/モンハンナウ】 Immigration (lJXok…",
       "summary": "",
@@ -345,12 +387,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-18T17:30:16.586Z",
-    "previousCount": 60,
-    "newCount": 2
+    "previousAt": "2026-10-18T18:00:16.075Z",
+    "previousCount": 59,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-18T18:30:16.075Z",
+  "nextUpdateAt": "2026-10-18T19:00:14.315Z",
   "items": [
     {
       "id": "fca5a3b45938",
@@ -394,6 +436,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "e141956e25a8",
+      "title": "【モンハンワイルズ】 #669久々モンハンたまにはモンハン 【参加型】【MHWilds】",
+      "url": "https://t.co/guE4iwlfZJ",
+      "host": "t.co",
+      "source": "Howl.link",
+      "summary": "",
+      "publishedAt": "2026-10-18T12:08:19.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "3a847101d21f",
@@ -709,7 +773,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f9ec3544fdc8",
@@ -1560,7 +1624,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d31eab580cf5",
