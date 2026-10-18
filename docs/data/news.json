@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-18T11:00:14.890Z",
+  "updatedAt": "2026-10-18T11:30:14.805Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 58,
-  "todayCount": 17,
+  "total": 60,
+  "todayCount": 18,
   "categories": [
     {
       "id": "new",
@@ -52,7 +52,7 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 1
+      "count": 2
     },
     {
       "id": "sales",
@@ -62,24 +62,24 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 46
+      "count": 47
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 44
+      "count": 46
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 3
+      "count": 2
     },
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 5
+      "count": 6
     },
     {
       "id": "now",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 1
+      "count": 2
     },
     {
       "id": "outlanders",
@@ -100,22 +100,26 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 26
+      "count": 28
     },
     {
       "name": "GameWith",
-      "count": 21
+      "count": 20
     },
     {
       "name": "Unisba Media",
       "count": 3
     },
     {
+      "name": "Howl.link",
+      "count": 2
+    },
+    {
       "name": "GAME Watch",
       "count": 2
     },
     {
-      "name": "ファミ通.com",
+      "name": "ファミ通",
       "count": 1
     },
     {
@@ -124,10 +128,6 @@
     },
     {
       "name": "Gizmodo",
-      "count": 1
-    },
-    {
-      "name": "Howl.link",
       "count": 1
     },
     {
@@ -148,16 +148,16 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
       "leadSource": "GameWith",
       "publishedAt": "2026-10-18T05:51:24.000Z",
-      "sourceCount": 2,
-      "articleCount": 9,
+      "sourceCount": 3,
+      "articleCount": 10,
       "categories": [
         "guide",
         "other"
       ],
       "keywords": [
         "モンハンワイルズ",
-        "最新情報",
-        "アセンダンス"
+        "アセンダンス",
+        "最新情報"
       ],
       "articles": [
         {
@@ -210,10 +210,60 @@
           "isPR": false
         },
         {
-          "title": "【モンハンワイルズ】ナナイロカネの集め方と精錬方法【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/487799",
+          "title": "[視聴者参加型サークルイベント]【モンハンワイルズ】アセンダンス発売まで護石掘りしたい男の『モンスターハンターワイルズ』 Part60 #508 【Steam】",
+          "url": "https://t.co/e19Nrwuhgb",
+          "source": "Howl.link",
+          "publishedAt": "2026-10-17T04:52:29.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "91d6e639da27",
+      "title": "【モンハンワイルズ】英雄の証 一般カリピストによる初見プレイ 狩猟笛ソロ 34分39秒【MHWilds/PC】",
+      "summary": "",
+      "url": "https://youtu.be/p09Ej2xyQuc",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545421.png?date=1771483075",
+      "leadSource": "YouTube",
+      "publishedAt": "2026-10-18T04:39:13.000Z",
+      "sourceCount": 2,
+      "articleCount": 5,
+      "categories": [
+        "other",
+        "guide"
+      ],
+      "keywords": [
+        "モンハンワイルズ",
+        "モンスターハンターワイルズ",
+        "mhwilds"
+      ],
+      "articles": [
+        {
+          "title": "【モンハンワイルズ】英雄の証の解放条件と報酬【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/545421",
           "source": "GameWith",
-          "publishedAt": "2026-10-16T09:38:08.000Z",
+          "publishedAt": "2026-10-18T03:16:09.000Z",
+          "isPR": false
+        },
+        {
+          "title": "野良の零式オメガにえいえいする狩猟笛の動画 #mhwilds #モンハンワイルズ",
+          "url": "https://youtu.be/FljqdUksZTE?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-17T18:08:01.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】英傑に愛を込めての攻略と報酬【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/545381",
+          "source": "GameWith",
+          "publishedAt": "2026-10-17T17:00:18.000Z",
+          "isPR": false
+        },
+        {
+          "title": "野良と爆発事故に合った、とある日のモンハンワイルズ #モンハンワイルズ #monsterhunter",
+          "url": "https://youtu.be/Q9wE0X1YU28?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-17T16:36:16.000Z",
           "isPR": false
         }
       ]
@@ -319,13 +369,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-18T10:30:14.591Z",
+    "previousAt": "2026-10-18T11:00:14.890Z",
     "previousCount": 58,
-    "newCount": 1
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-18T11:30:14.890Z",
+  "nextUpdateAt": "2026-10-18T12:00:14.805Z",
   "items": [
+    {
+      "id": "3a847101d21f",
+      "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
+      "url": "https://www.famitsu.com/article/images/202610/90097/892950",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-10-18T09:26:15.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90097/c135007e7085979a7d5b41ce54c0e54d7.jpg?x=1280",
+      "categories": [
+        "media"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "f11902b7dac6",
       "title": "Vこおちゃペア闘技大会くろおび杯で覚醒してしまうwwペアベスト記録 4′45 モンハンワイルズ",
@@ -368,25 +439,26 @@
       "isNew": false
     },
     {
-      "id": "3a847101d21f",
-      "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
-      "url": "https://www.famitsu.com/article/images/202610/90097/892947",
-      "host": "famitsu.com",
-      "source": "ファミ通.com",
+      "id": "91d6e639da27",
+      "title": "【モンハンワイルズ】英雄の証 一般カリピストによる初見プレイ 狩猟笛ソロ 34分39秒【MHWilds/PC】",
+      "url": "https://youtu.be/p09Ej2xyQuc",
+      "host": "youtu.be",
+      "source": "YouTube",
       "summary": "",
-      "publishedAt": "2026-10-18T05:26:01.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90097/c3fb5ed13afe8714a7e5d13ee506003dd.jpg?x=1280",
+      "publishedAt": "2026-10-18T04:39:13.000Z",
+      "image": "",
       "categories": [
-        "media"
+        "other"
       ],
       "series": [
-        "stories"
+        "wilds",
+        "world"
       ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "310bc849231e",
@@ -874,6 +946,27 @@
       "isNew": false
     },
     {
+      "id": "8c599b1b0473",
+      "title": "[視聴者参加型サークルイベント]【モンハンワイルズ】アセンダンス発売まで護石掘りしたい男の『モンスターハンターワイルズ』 Part60 #508 【Steam】",
+      "url": "https://t.co/e19Nrwuhgb",
+      "host": "t.co",
+      "source": "Howl.link",
+      "summary": "",
+      "publishedAt": "2026-10-17T04:52:29.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "4cd467a24cc4",
       "title": "【アセンダンス】双剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/577734",
@@ -1089,7 +1182,7 @@
       "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-10-16T15:00:00.000Z",
-      "image": "",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2147/418/008.jpg",
       "categories": [
         "other"
       ],
@@ -1332,27 +1425,6 @@
       "isNew": false
     },
     {
-      "id": "420f3b159eef",
-      "title": "【サンブレイク】護石周回とリセマラのやり方｜護石厳選",
-      "url": "https://gamewith.jp/mhrize/article/show/350830",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-16T05:18:33.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/350830.png?date=1656968522",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "ac2e001635d5",
       "title": "【モンハンワイルズ】孤独から出でし君という自由 狩猟笛ソロ 5分59秒",
       "url": "https://youtu.be/ZOel_G4HFWg?si",
@@ -1536,6 +1608,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "70de23154610",
+      "title": "【ずんだもん実況】モンスターハンターストーリーズ【初見プレイ】part 41",
+      "url": "https://youtu.be/zOZwuGAERVY?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-15T13:00:31.000Z",
+      "image": "",
+      "categories": [
+        "community"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     }
   ]
 }
