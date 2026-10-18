@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-18T20:30:17.671Z",
+  "updatedAt": "2026-10-18T21:00:15.782Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 60,
+  "total": 61,
   "todayCount": 1,
   "categories": [
     {
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 46
+      "count": 47
     }
   ],
   "series": [
@@ -116,6 +116,10 @@
     },
     {
       "name": "Howl.link",
+      "count": 1
+    },
+    {
+      "name": "ウォーカープラス",
       "count": 1
     },
     {
@@ -349,12 +353,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-18T20:00:17.239Z",
-    "previousCount": 61,
-    "newCount": 0
+    "previousAt": "2026-10-18T20:30:17.671Z",
+    "previousCount": 60,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-18T21:00:17.671Z",
+  "nextUpdateAt": "2026-10-18T21:30:15.782Z",
   "items": [
     {
       "id": "fca5a3b45938",
@@ -398,6 +402,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "55b0bd5ff9cd",
+      "title": "秋葉原に期間限定「モンハン」ショップが登場！",
+      "url": "https://www.walkerplus.com/article/63257/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-18T12:54:26.000Z",
+      "image": "https://news.walkerplus.com/article/63257/352473_615.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "3a847101d21f",
