@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-19T11:30:15.177Z",
+  "updatedAt": "2026-10-19T12:00:15.346Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 61,
-  "todayCount": 16,
+  "total": 59,
+  "todayCount": 15,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 4
+      "count": 3
     },
     {
       "id": "sale",
@@ -62,24 +62,24 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 45
+      "count": 44
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 42
+      "count": 40
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 2
+      "count": 1
     },
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 10
+      "count": 9
     },
     {
       "id": "now",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 27
+      "count": 25
     },
     {
       "name": "GameWith",
@@ -304,9 +304,10 @@
       "leadSource": "Howl.link",
       "publishedAt": "2026-10-18T12:08:19.000Z",
       "sourceCount": 2,
-      "articleCount": 4,
+      "articleCount": 6,
       "categories": [
-        "other"
+        "other",
+        "guide"
       ],
       "keywords": [
         "モンハンワイルズ",
@@ -334,17 +335,31 @@
           "source": "YouTube",
           "publishedAt": "2026-10-17T16:36:16.000Z",
           "isPR": false
+        },
+        {
+          "title": "零式オメガ 9分46秒 狩猟笛ソロ サポハン無し オトモ無し 防壁火事場 零式オメガ・プラネテス検証戦",
+          "url": "https://youtu.be/3TeYbAOcZwE",
+          "source": "YouTube",
+          "publishedAt": "2026-10-17T02:30:34.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】サポハンと回るオメガ・プラネテス 8から10分周回チャート 友達がいない人におすすめ 数盛りやソロ周回【モンスターハンターワイルズ】",
+          "url": "https://youtu.be/B9cjsHULOh0?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-16T14:51:31.000Z",
+          "isPR": false
         }
       ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-19T11:00:16.930Z",
-    "previousCount": 62,
+    "previousAt": "2026-10-19T11:30:15.177Z",
+    "previousCount": 61,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-19T12:00:15.177Z",
+  "nextUpdateAt": "2026-10-19T12:30:15.346Z",
   "items": [
     {
       "id": "649b704173f6",
@@ -363,7 +378,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1d9869838996",
@@ -595,27 +610,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "147b8cfc4cc4",
-      "title": "ナルガを空中撃墜ww #モンハンライズ#スラッシュアックス#魅せプレイ #モンハン #ゲーム#ライズ#スラアク#ナルガクルガ",
-      "url": "https://youtu.be/th4NfdmGCu0?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-18T22:56:07.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "rise"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1445,6 +1439,25 @@
       "isNew": false
     },
     {
+      "id": "c057ddde0244",
+      "title": "零式オメガ 9分46秒 狩猟笛ソロ サポハン無し オトモ無し 防壁火事場 零式オメガ・プラネテス検証戦",
+      "url": "https://youtu.be/3TeYbAOcZwE",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-17T02:30:34.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "4453b9bbbd1c",
       "title": "MHWilds【参加型】 #180 ※ロビー入室自由※🫣弓専と行く🏹【モンスターハンターワイルズ】ゆこいちの絶叫GAME部屋 Michael J Fox (YMiSMBJrtZ)",
       "url": "https://media.unisba.ac.id/9cec3567/eda5973eVCkyUSJHJD9RRCc",
@@ -1535,7 +1548,7 @@
       "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-10-16T15:00:00.000Z",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2147/418/008.jpg",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1560,49 +1573,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f4955d9a1654",
-      "title": "【幸せカナコの殺し屋生活】転職天職☆やっちゃいました！×モンハンワイルズ【Dance MV】",
-      "url": "https://youtu.be/r64FNkDM2tQ",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-16T12:00:20.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "db83145cba34",
-      "title": "【MHWilds/PS5】ソロ＆スラアク縛りでストーリー攻略！#7 遂に完結！【モンハンワイルズ】",
-      "url": "https://youtu.be/wPJrCaXunHQ?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-16T11:37:15.000Z",
-      "image": "",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds",
-        "world"
       ],
       "isOfficial": false,
       "isPR": false,
