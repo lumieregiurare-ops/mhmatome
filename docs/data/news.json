@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-19T21:00:16.896Z",
+  "updatedAt": "2026-10-19T21:30:15.852Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 66,
-  "todayCount": 5,
+  "total": 67,
+  "todayCount": 6,
   "categories": [
     {
       "id": "new",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 49
+      "count": 50
     }
   ],
   "series": [
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 3
+      "count": 4
     },
     {
       "id": "outlanders",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 32
+      "count": 33
     },
     {
       "name": "GameWith",
@@ -364,12 +364,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-19T20:30:16.064Z",
-    "previousCount": 65,
-    "newCount": 2
+    "previousAt": "2026-10-19T21:00:16.896Z",
+    "previousCount": 66,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-19T21:30:16.896Z",
+  "nextUpdateAt": "2026-10-19T22:00:15.852Z",
   "items": [
     {
       "id": "600cd1e4e33d",
@@ -390,7 +390,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3a847101d21f",
@@ -452,7 +452,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ac436576b354",
@@ -472,6 +472,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "e97ee940efb2",
+      "title": "【MHS3】モンハンストーリーズ3 初見プレイ！【#1】【ただのプレイ動画】 #バ美肉おじさん #ホリちゃん #モンハン #初見プレイ",
+      "url": "https://youtu.be/ey2Vg6EaXSA?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-19T15:01:12.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "fdbbfd9baf1d",
