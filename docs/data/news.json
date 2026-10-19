@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-19T23:00:15.416Z",
+  "updatedAt": "2026-10-19T23:30:16.618Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 66,
+  "total": 65,
   "todayCount": 6,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 6
+      "count": 8
     },
     {
       "id": "update",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 49
+      "count": 46
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 44
+      "count": 43
     },
     {
       "id": "rise",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 4
+      "count": 3
     },
     {
       "id": "outlanders",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 32
+      "count": 30
     },
     {
       "name": "GameWith",
@@ -123,7 +123,7 @@
       "count": 2
     },
     {
-      "name": "AppMedia",
+      "name": "shiritomo",
       "count": 1
     },
     {
@@ -132,6 +132,10 @@
     },
     {
       "name": "Mobile Goddess",
+      "count": 1
+    },
+    {
+      "name": "Simply Wall Street",
       "count": 1
     },
     {
@@ -357,33 +361,33 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-19T22:30:15.460Z",
-    "previousCount": 65,
-    "newCount": 1
+    "previousAt": "2026-10-19T23:00:15.416Z",
+    "previousCount": 66,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-19T23:30:15.416Z",
+  "nextUpdateAt": "2026-10-20T00:00:16.618Z",
   "items": [
     {
-      "id": "600cd1e4e33d",
-      "title": "【モンハンストーリーズ3】クリア後の追加要素とやり込み要素【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79843649",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
+      "id": "1c9a7d506beb",
+      "title": "モンスターハンターワイルズSwitch2版、序盤体験版10月20日配信——オンラインマルチは体験版非対応",
+      "url": "https://hashout.jp/game/12871/",
+      "host": "hashout.jp",
+      "source": "shiritomo",
       "summary": "",
-      "publishedAt": "2026-10-19T20:03:16.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/143439_w9hov.webp",
+      "publishedAt": "2026-10-19T23:02:32.000Z",
+      "image": "https://hashout.jp/wp-content/uploads/2026/10/2112101954923134985-img-1200x675.png",
       "categories": [
-        "other"
+        "new"
       ],
       "series": [
-        "stories"
+        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "3a847101d21f",
@@ -507,6 +511,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "ebc69b49dc91",
+      "title": "『モンスターハンター』の無料体験版は、カプコンの株価動向に変化をもたらすか",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd3JhZnJ5cHZOb0RkYll3VEJYQTRham9TWHhLVFpkeU5hRmM1ZFpxTDlfZk9YU2otY2ROR3hvQlVNQ1BRdkhwU0ZqNzhaNjRVUEdlYkhDRFlZZkYtOUtMMkYxNFAtbXA0MENLM1NGV3E3MDc3cXZ2X2ZWUWJtcUw1OVp3VUNEeTJwUmczY1Nn0gGTAUFVX3lxTFBpTkVnZUdoNlE3cm1ZaEVDdzRZNC1wZUh4OEt1dHFUUzQteDVncFBTcnhPdElmN0tCU0Fzem9yU2luRTZPdnFBaEk4YkpIeEFoVkxWWUlkWWEwanVzcVRUZXVKSVRGRmlFSUpaV2ZvSGdxd2p1b2FnV1h0bU5YNjBOaG5kTEc2c0VrUzdzN2E5ZjJuRQ?oc=5",
+      "host": "simplywall.st",
+      "source": "Simply Wall Street",
+      "summary": "",
+      "publishedAt": "2026-10-19T12:32:58.000Z",
+      "image": "",
+      "categories": [
+        "new"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "9b34bb9c7404",
@@ -831,6 +854,27 @@
       "isNew": false
     },
     {
+      "id": "310bc849231e",
+      "title": "【モンハンワイルズ】英雄の証の解放条件と報酬【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/545421",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-18T23:20:12.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545421.png?date=1771483075",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "243930d5fa3a",
       "title": "カプコンが「逆転裁判」25周年・「モンスターハンターストーリーズ」10周年グッズを予約開始！ TGS先行販売の新商品も発売中",
       "url": "https://www.appbank.net/2026/10/19/game/3135626.php",
@@ -1095,27 +1139,6 @@
       "series": [
         "wilds",
         "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "310bc849231e",
-      "title": "【モンハンワイルズ】英雄の証の解放条件と報酬【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/545421",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-18T03:16:09.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545421.png?date=1771483075",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1463,27 +1486,6 @@
       "isNew": false
     },
     {
-      "id": "e82893a27dc3",
-      "title": "【検証】歴戦王アルシュベルドを野良救難で狩ると勝率は〇〇％！？カオスな野良マルチの現実【モンハンワイルズ】",
-      "url": "https://youtu.be/uvSEcCM0I0Q?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-17T10:29:41.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "86bfc1ca88d5",
       "title": "Switch 2版『モンハンワイルズ』が12月6日発売。事前予約なら14%OFF",
       "url": "https://www.gizmodo.jp/article/monster-hunter-wilds-switch2-preorder/",
@@ -1702,27 +1704,6 @@
       "summary": "",
       "publishedAt": "2026-10-17T02:12:20.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577790.png?date=1789746410",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "08ecacde07fe",
-      "title": "生産武器『アルシャマリ』担いで散弾初デビュー！🔰一発撮り実戦編 🐲Monster Hunter Wilds のんびり狩猟生活🍖エンジョイプレイ動画🦉 ＃モンハンワイルズ ＃モンハンワイルズアセンダンス",
-      "url": "https://youtu.be/zZTkdLm_1D8?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-16T23:14:52.000Z",
-      "image": "",
       "categories": [
         "other"
       ],
