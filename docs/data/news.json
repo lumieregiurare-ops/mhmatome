@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-19T20:00:15.452Z",
+  "updatedAt": "2026-10-19T20:30:16.064Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 64,
-  "todayCount": 1,
+  "total": 65,
+  "todayCount": 2,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 7
+      "count": 6
     },
     {
       "id": "update",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 3
+      "count": 4
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 46
+      "count": 47
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 43
+      "count": 45
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 12
+      "count": 13
     },
     {
       "id": "now",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 29
+      "count": 31
     },
     {
       "name": "GameWith",
@@ -131,19 +131,15 @@
       "count": 1
     },
     {
-      "name": "Simply Wall Street",
-      "count": 1
-    },
-    {
       "name": "4Gamer",
       "count": 1
     },
     {
-      "name": "ファミ通",
+      "name": "電撃オンライン",
       "count": 1
     },
     {
-      "name": "電撃オンライン",
+      "name": "ファミ通",
       "count": 1
     },
     {
@@ -368,13 +364,35 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-19T19:30:18.790Z",
+    "previousAt": "2026-10-19T20:00:15.452Z",
     "previousCount": 64,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-19T20:30:15.452Z",
+  "nextUpdateAt": "2026-10-19T21:00:16.064Z",
   "items": [
+    {
+      "id": "033fb968eb42",
+      "title": "★10ゴグマジオス 双剣 サポハン無し ソロ 46'08\"95【MHWilds】Gogmazios DB Solo",
+      "url": "https://youtu.be/MKW3DRkWwQU?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-19T18:51:15.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "ac436576b354",
       "title": "モンスターハンターパズル：アイルー島のサービス終了は2027年1月14日",
@@ -413,7 +431,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fdbbfd9baf1d",
@@ -433,25 +451,6 @@
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ebc69b49dc91",
-      "title": "『モンスターハンター』の無料体験版は、カプコンの株価動向に変化をもたらすか",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaU5FZ2VHaDZRN3JtWWhFQ3c0WTQtcGVIeDhLdXRxVFM0LXg1Z3BQU3J4T3RJZjdLQlNBc3pvclNpbkU2T3ZxQWhJOGJKSHhBaFZMVllJZFlhMGp1c3FUVGV1SklURkZpRUlKWldmb0hncXdqdW9hZ1dYdG1OWDYwTmhuZExHNnNFa1M3czdhOWYybkXSAZMBQVVfeXFMUGlORWdlR2g2UTdybVloRUN3NFk0LXBlSHg4S3V0cVRTNC14NWdwUFNyeE90SWY3S0JTQXN6b3JTaW5FNk92cUFoSThiSkh4QWhWTFZZSWRZYTBqdXNxVFRldUpJVEZGaUVJSlpXZm9IZ3F3anVvYWdXWHRtTlg2ME5obmRMRzZzRWtTN3M3YTlmMm5F?oc=5",
-      "host": "simplywall.st",
-      "source": "Simply Wall Street",
-      "summary": "",
-      "publishedAt": "2026-10-19T12:32:59.000Z",
-      "image": "",
-      "categories": [
-        "new"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
@@ -496,6 +495,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "b0371315002a",
+      "title": "【復帰勢・初心者向け】歴戦王アルシュベルドに簡単作成装備で勝つ！ガンランス立ち回り＆狩猟解説【モンハンワイルズ】",
+      "url": "https://youtu.be/3suQ7WFMC0Q?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-19T10:08:46.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "a2119f0dcdb7",
@@ -597,7 +617,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0cb380caa3eb",
@@ -679,27 +699,6 @@
       "isNew": false
     },
     {
-      "id": "3a847101d21f",
-      "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
-      "url": "https://www.famitsu.com/article/images/202610/90097/892949",
-      "host": "famitsu.com",
-      "source": "ファミ通",
-      "summary": "",
-      "publishedAt": "2026-10-19T05:53:31.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90097/c2de40e0d504f583cda7465979f958a98.jpg?x=1280",
-      "categories": [
-        "media"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "712342e44eb5",
       "title": "『モンスターハンターパズル アイルーアイランド』2027年1月14日サービス終了。買い切り版の『いつまでも版』が11月12日発売予定",
       "url": "https://dengekionline.com/article/202610/91384",
@@ -731,6 +730,27 @@
         "guide"
       ],
       "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "3a847101d21f",
+      "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
+      "url": "https://www.famitsu.com/article/images/202610/90097/892948",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-10-19T01:52:08.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90097/cf99687dd719c4e8bc6a39e946c3d9ef7.jpg?x=1280",
+      "categories": [
+        "media"
+      ],
+      "series": [
+        "stories"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
