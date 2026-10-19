@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-19T13:00:16.403Z",
+  "updatedAt": "2026-10-19T13:30:17.615Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 65,
-  "todayCount": 19,
+  "total": 59,
+  "todayCount": 16,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 6
+      "count": 4
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 47
+      "count": 43
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 41
+      "count": 39
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 10
+      "count": 9
     },
     {
       "id": "now",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 5
+      "count": 3
     },
     {
       "id": "outlanders",
@@ -100,15 +100,11 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 28
+      "count": 25
     },
     {
       "name": "GameWith",
-      "count": 17
-    },
-    {
-      "name": "AppMedia",
-      "count": 3
+      "count": 16
     },
     {
       "name": "4Gamer.net",
@@ -127,11 +123,19 @@
       "count": 2
     },
     {
+      "name": "AppMedia",
+      "count": 1
+    },
+    {
       "name": "4Gamer",
       "count": 1
     },
     {
       "name": "電撃オンライン",
+      "count": 1
+    },
+    {
+      "name": "ファミ通",
       "count": 1
     },
     {
@@ -144,10 +148,6 @@
     },
     {
       "name": "Howl.link",
-      "count": 1
-    },
-    {
-      "name": "ファミ通.com",
       "count": 1
     },
     {
@@ -230,15 +230,15 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-10-19T05:00:09.000Z",
       "sourceCount": 2,
-      "articleCount": 11,
+      "articleCount": 9,
       "categories": [
         "guide",
         "other"
       ],
       "keywords": [
+        "最新情報",
         "モンハンワイルズ",
-        "アセンダンス",
-        "最新情報"
+        "アセンダンス"
       ],
       "articles": [
         {
@@ -263,13 +263,6 @@
           "isPR": false
         },
         {
-          "title": "【アセンダンス】太刀の新要素とブーストアクション【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/452299",
-          "source": "GameWith",
-          "publishedAt": "2026-10-17T12:06:26.000Z",
-          "isPR": false
-        },
-        {
           "title": "アセンダンス最新情報が近々来るかも！！ #モンハンワイルズ #ぼん #アセンダンス",
           "url": "https://youtu.be/pbkuOMLP4B0?si",
           "source": "YouTube",
@@ -291,10 +284,17 @@
           "isPR": false
         },
         {
-          "title": "【アセンダンス】ガンランスの操作と新要素・ブーストアクション【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/577811",
+          "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/575036",
           "source": "GameWith",
-          "publishedAt": "2026-10-17T07:53:29.000Z",
+          "publishedAt": "2026-10-17T07:07:06.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】Switch2版の発売日・最新情報【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563066",
+          "source": "GameWith",
+          "publishedAt": "2026-10-17T06:46:13.000Z",
           "isPR": false
         }
       ]
@@ -358,12 +358,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-19T12:30:15.808Z",
-    "previousCount": 62,
-    "newCount": 3
+    "previousAt": "2026-10-19T13:00:16.403Z",
+    "previousCount": 65,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-19T13:30:16.403Z",
+  "nextUpdateAt": "2026-10-19T14:00:17.615Z",
   "items": [
     {
       "id": "da558e20d6e4",
@@ -384,25 +384,6 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "649b704173f6",
-      "title": "【#モンハン 】村クエすすめる※アーカイブ残るかわからん",
-      "url": "https://youtu.be/dLIWnanoQI4",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-19T09:17:21.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
       "isNew": false
     },
     {
@@ -419,48 +400,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "5cb07b2b0347",
-      "title": "【モンハンストーリーズ3】序盤の効率的な進め方｜押さえておきたいポイントまとめ【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79832135",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-19T08:04:34.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/135446_cduob.webp",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "5c5a340119cb",
-      "title": "【モンハンストーリーズ3】タルアイルーの倒し方と出現場所【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79819751",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-19T07:16:36.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/124144_ylvib.webp",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -624,6 +563,27 @@
       "isNew": false
     },
     {
+      "id": "3a847101d21f",
+      "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
+      "url": "https://www.famitsu.com/article/images/202610/90097/892948",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-10-19T01:52:08.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90097/cf99687dd719c4e8bc6a39e946c3d9ef7.jpg?x=1280",
+      "categories": [
+        "media"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "93e16b62ef46",
       "title": "「モンスターハンターパズル アイルーアイランド」が2027年1月14日をもってサービス終了。買い切り版の「いつまでも版」が11月12日に発売予定",
       "url": "https://getnews.jp/archives/3749834",
@@ -705,27 +665,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "b40f8ba0871f",
-      "title": "【MHWs】★10歴戦王アルシュベルド火事場滅龍ライト3分周回",
-      "url": "https://youtu.be/lt5GwxGg1j4?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-18T16:30:31.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "f94b3ff62c8e",
@@ -824,27 +763,6 @@
       "series": [
         "wilds",
         "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3a847101d21f",
-      "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
-      "url": "https://www.famitsu.com/article/images/202610/90097/892951",
-      "host": "famitsu.com",
-      "source": "ファミ通.com",
-      "summary": "",
-      "publishedAt": "2026-10-18T11:32:12.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90097/cfac4ef5554f69012fe38d2f1d4e245a6.jpg?x=1280",
-      "categories": [
-        "media"
-      ],
-      "series": [
-        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1028,27 +946,6 @@
       "summary": "",
       "publishedAt": "2026-10-18T02:22:32.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "cb703a4be3d4",
-      "title": "【モンハンワイルズ】モンスター一覧と弱点早見表（全34体）【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/452222",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-18T01:37:20.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/452222.png?date=1717659746",
       "categories": [
         "other"
       ],
@@ -1648,27 +1545,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "1ae8490e2d6b",
-      "title": "【歴戦王アルシュベルド】マルチで使える通常弾ライトのおすすめ装備【モンハンワイルズ】",
-      "url": "https://youtu.be/vPjVYEH4x6g?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-16T15:14:30.000Z",
-      "image": "",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "fb74ac39e333",
