@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-19T17:00:17.329Z",
+  "updatedAt": "2026-10-19T17:30:18.169Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 65,
-  "todayCount": 0,
+  "total": 64,
+  "todayCount": 3,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 7
+      "count": 6
     },
     {
       "id": "update",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 3
+      "count": 6
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 46
+      "count": 43
     }
   ],
   "series": [
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 12
+      "count": 11
     },
     {
       "id": "now",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 5
+      "count": 6
     },
     {
       "id": "outlanders",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 29
+      "count": 28
     },
     {
       "name": "GameWith",
@@ -108,7 +108,7 @@
     },
     {
       "name": "AppMedia",
-      "count": 3
+      "count": 4
     },
     {
       "name": "4Gamer.net",
@@ -127,11 +127,11 @@
       "count": 2
     },
     {
-      "name": "Simply Wall Street",
+      "name": "4Gamer",
       "count": 1
     },
     {
-      "name": "4Gamer",
+      "name": "ファミ通",
       "count": 1
     },
     {
@@ -148,10 +148,6 @@
     },
     {
       "name": "Howl.link",
-      "count": 1
-    },
-    {
-      "name": "ファミ通.com",
       "count": 1
     },
     {
@@ -357,24 +353,87 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-19T16:30:19.057Z",
-    "previousCount": 62,
-    "newCount": 6
+    "previousAt": "2026-10-19T17:00:17.329Z",
+    "previousCount": 65,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-19T17:30:17.329Z",
+  "nextUpdateAt": "2026-10-19T18:00:18.169Z",
   "items": [
     {
-      "id": "2efafebf057e",
-      "title": "【モンハンストーリーズ2】ナビルーコーデ・エナの衣装一覧【MHST2】",
-      "url": "https://appmedia.jp/mhst2/26777500",
+      "id": "09bc3a258d72",
+      "title": "【モンハンストーリーズ3】超竜化リオレウス亜種の攻略情報｜出現場所・入手素材【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79855718",
       "host": "appmedia.jp",
       "source": "AppMedia",
       "summary": "",
-      "publishedAt": "2026-10-19T14:56:19.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2021/08/05c7c205df1fadeec83a22b627c0b9b6.jpg",
+      "publishedAt": "2026-10-19T16:13:22.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2020/01/home_image.png",
       "categories": [
-        "other"
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "ae22bde960f2",
+      "title": "【モンハンストーリーズ3】タマゴ厳選の効率的なやり方｜レア度の違い【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79832483",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-19T15:18:08.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/151650_w7g1r.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "f2e1b6cce113",
+      "title": "【モンハンストーリーズ3】オロミドロの攻略情報｜出現場所・入手素材【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79843298",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-19T15:02:41.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2020/01/home_image.png",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "d5e3aa09479c",
+      "title": "【モンハンストーリーズ3】凶異ヤツカダキの攻略情報｜出現場所・入手素材【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79843277",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-19T13:52:44.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2020/01/home_image.png",
+      "categories": [
+        "guide"
       ],
       "series": [
         "stories"
@@ -405,67 +464,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "75783d358b12",
-      "title": "【モンハンストーリーズ3】レベル上限はある？｜レベルが上がらないときの対処法【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79844852",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-19T13:13:25.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/113524_nts14.webp",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "ebc69b49dc91",
-      "title": "『モンスターハンター』の無料体験版は、カプコンの株価動向に変化をもたらすか",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaU5FZ2VHaDZRN3JtWWhFQ3c0WTQtcGVIeDhLdXRxVFM0LXg1Z3BQU3J4T3RJZjdLQlNBc3pvclNpbkU2T3ZxQWhJOGJKSHhBaFZMVllJZFlhMGp1c3FUVGV1SklURkZpRUlKWldmb0hncXdqdW9hZ1dYdG1OWDYwTmhuZExHNnNFa1M3czdhOWYybkXSAZMBQVVfeXFMUGlORWdlR2g2UTdybVloRUN3NFk0LXBlSHg4S3V0cVRTNC14NWdwUFNyeE90SWY3S0JTQXN6b3JTaW5FNk92cUFoSThiSkh4QWhWTFZZSWRZYTBqdXNxVFRldUpJVEZGaUVJSlpXZm9IZ3F3anVvYWdXWHRtTlg2ME5obmRMRzZzRWtTN3M3YTlmMm5F?oc=5",
-      "host": "simplywall.st",
-      "source": "Simply Wall Street",
-      "summary": "",
-      "publishedAt": "2026-10-19T12:32:59.000Z",
-      "image": "",
-      "categories": [
-        "new"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "da558e20d6e4",
-      "title": "【モンハンストーリーズ3】凶異エスピナスの攻略情報｜出現場所・入手素材【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79848344",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-19T10:40:14.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2020/01/home_image.png",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "9b34bb9c7404",
@@ -505,7 +503,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a2119f0dcdb7",
@@ -689,6 +687,27 @@
       "isNew": false
     },
     {
+      "id": "3a847101d21f",
+      "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
+      "url": "https://www.famitsu.com/article/images/202610/90097/892949",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-10-19T05:53:31.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90097/c2de40e0d504f583cda7465979f958a98.jpg?x=1280",
+      "categories": [
+        "media"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "712342e44eb5",
       "title": "『モンスターハンターパズル アイルーアイランド』2027年1月14日サービス終了。買い切り版の『いつまでも版』が11月12日発売予定",
       "url": "https://dengekionline.com/article/202610/91384",
@@ -781,27 +800,6 @@
       ],
       "series": [
         "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "b40f8ba0871f",
-      "title": "【MHWs】★10歴戦王アルシュベルド火事場滅龍ライト3分周回",
-      "url": "https://youtu.be/lt5GwxGg1j4?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-18T16:30:31.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "world"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -928,27 +926,6 @@
       "series": [
         "wilds",
         "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3a847101d21f",
-      "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
-      "url": "https://www.famitsu.com/article/images/202610/90097/892951",
-      "host": "famitsu.com",
-      "source": "ファミ通.com",
-      "summary": "",
-      "publishedAt": "2026-10-18T11:32:12.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90097/cfac4ef5554f69012fe38d2f1d4e245a6.jpg?x=1280",
-      "categories": [
-        "media"
-      ],
-      "series": [
-        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1396,7 +1373,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "26b9c1c9341d",
