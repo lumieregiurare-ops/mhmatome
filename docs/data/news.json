@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-19T08:00:14.990Z",
+  "updatedAt": "2026-10-19T08:30:14.509Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 63,
-  "todayCount": 12,
+  "total": 65,
+  "todayCount": 13,
   "categories": [
     {
       "id": "new",
@@ -62,29 +62,29 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 47
+      "count": 49
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 46
+      "count": 48
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 1
+      "count": 2
     },
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 10
+      "count": 11
     },
     {
       "id": "now",
       "label": "Now",
-      "count": 2
+      "count": 1
     },
     {
       "id": "stories",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 30
+      "count": 31
     },
     {
       "name": "GameWith",
@@ -136,6 +136,10 @@
     },
     {
       "name": "AppBank",
+      "count": 1
+    },
+    {
+      "name": "Howl.link",
       "count": 1
     },
     {
@@ -211,15 +215,15 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-10-19T05:00:09.000Z",
       "sourceCount": 2,
-      "articleCount": 8,
+      "articleCount": 10,
       "categories": [
         "guide",
         "other"
       ],
       "keywords": [
-        "最新情報",
         "モンハンワイルズ",
-        "アセンダンス"
+        "アセンダンス",
+        "最新情報"
       ],
       "articles": [
         {
@@ -244,6 +248,13 @@
           "isPR": false
         },
         {
+          "title": "【アセンダンス】太刀の新要素とブーストアクション【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/452299",
+          "source": "GameWith",
+          "publishedAt": "2026-10-17T12:06:26.000Z",
+          "isPR": false
+        },
+        {
           "title": "【モンハンアセンダンス】最新情報＆PV2間近！？パリゲームズウィークに期待を寄せるハゲ #モンハンワイルズ #アセンダンス",
           "url": "https://youtu.be/nvWe6wnmIK8?si",
           "source": "YouTube",
@@ -258,86 +269,71 @@
           "isPR": false
         },
         {
+          "title": "【アセンダンス】ガンランスの操作と新要素・ブーストアクション【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/577811",
+          "source": "GameWith",
+          "publishedAt": "2026-10-17T07:53:29.000Z",
+          "isPR": false
+        },
+        {
           "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/575036",
           "source": "GameWith",
           "publishedAt": "2026-10-17T07:07:06.000Z",
           "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "e141956e25a8",
+      "title": "【モンハンワイルズ】 #669久々モンハンたまにはモンハン 【参加型】【MHWilds】",
+      "summary": "",
+      "url": "https://t.co/guE4iwlfZJ",
+      "image": "",
+      "leadSource": "Howl.link",
+      "publishedAt": "2026-10-18T12:08:19.000Z",
+      "sourceCount": 2,
+      "articleCount": 4,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "モンハンワイルズ",
+        "mhwilds",
+        "狩猟笛"
+      ],
+      "articles": [
+        {
+          "title": "【モンハンワイルズ】英雄の証 一般カリピストによる初見プレイ 狩猟笛ソロ 34分39秒【MHWilds/PC】",
+          "url": "https://youtu.be/p09Ej2xyQuc",
+          "source": "YouTube",
+          "publishedAt": "2026-10-18T04:39:13.000Z",
+          "isPR": false
         },
         {
-          "title": "【モンハンワイルズ】Switch2版の発売日・最新情報【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/563066",
-          "source": "GameWith",
-          "publishedAt": "2026-10-17T06:46:13.000Z",
+          "title": "野良の零式オメガにえいえいする狩猟笛の動画 #mhwilds #モンハンワイルズ",
+          "url": "https://youtu.be/FljqdUksZTE?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-17T18:08:01.000Z",
           "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "f9ec3544fdc8",
-      "title": "【モンハン×スシロー】限定ピックやボトルなど貰えるモンハン×スシローコラボ日程や注意点を解説！【モンハンワイルズ/モンハンnow/モンスターハンターNow/モンハンNOW/モンハンなう/モンハンナウ】 Immigration (lJXok…",
-      "summary": "",
-      "url": "https://media.unisba.ac.id/7ad6f894/3f3fbfb6tbAgt_KxQjg/?share",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/418926.png?date=1695261135",
-      "leadSource": "Unisba Media",
-      "publishedAt": "2026-10-17T17:08:03.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "collab",
-        "other"
-      ],
-      "keywords": [
-        "モンハンNow",
-        "now",
-        "モンハンナウ"
-      ],
-      "articles": [
+        },
         {
-          "title": "【モンハンナウ】プロモーションコード一覧と入力方法【モンハンNow】",
-          "url": "https://gamewith.jp/monsterhunternow/article/show/418926",
-          "source": "GameWith",
-          "publishedAt": "2026-10-16T08:22:13.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "c1e2a15f9a9c",
-      "title": "【モンハンワイルズ】サポハンと回るオメガ・プラネテス 8から10分周回チャート 友達がいない人におすすめ 数盛りやソロ周回【モンスターハンターワイルズ】",
-      "summary": "",
-      "url": "https://youtu.be/B9cjsHULOh0?si",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/487799.png?date=1755060453",
-      "leadSource": "YouTube",
-      "publishedAt": "2026-10-16T14:51:31.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "guide",
-        "other"
-      ],
-      "keywords": [
-        "モンスターハンターワイルズ",
-        "モンハンワイルズ"
-      ],
-      "articles": [
-        {
-          "title": "【モンハンワイルズ】ナナイロカネの集め方と精錬方法【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/487799",
-          "source": "GameWith",
-          "publishedAt": "2026-10-16T09:38:08.000Z",
+          "title": "野良と爆発事故に合った、とある日のモンハンワイルズ #モンハンワイルズ #monsterhunter",
+          "url": "https://youtu.be/Q9wE0X1YU28?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-17T16:36:16.000Z",
           "isPR": false
         }
       ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-19T07:30:15.242Z",
-    "previousCount": 65,
-    "newCount": 1
+    "previousAt": "2026-10-19T08:00:14.990Z",
+    "previousCount": 63,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-19T08:30:14.990Z",
+  "nextUpdateAt": "2026-10-19T09:00:14.509Z",
   "items": [
     {
       "id": "3b4f9edaaa72",
@@ -537,6 +533,27 @@
       "isNew": false
     },
     {
+      "id": "147b8cfc4cc4",
+      "title": "ナルガを空中撃墜ww #モンハンライズ#スラッシュアックス#魅せプレイ #モンハン #ゲーム#ライズ#スラアク#ナルガクルガ",
+      "url": "https://youtu.be/th4NfdmGCu0?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-18T22:56:07.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "243930d5fa3a",
       "title": "カプコンが「逆転裁判」25周年・「モンスターハンターストーリーズ」10周年グッズを予約開始！ TGS先行販売の新商品も発売中",
       "url": "https://www.appbank.net/2026/10/19/game/3135626.php",
@@ -639,6 +656,49 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "e141956e25a8",
+      "title": "【モンハンワイルズ】 #669久々モンハンたまにはモンハン 【参加型】【MHWilds】",
+      "url": "https://t.co/guE4iwlfZJ",
+      "host": "t.co",
+      "source": "Howl.link",
+      "summary": "",
+      "publishedAt": "2026-10-18T12:08:19.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "071e4af572fe",
+      "title": "【モンハンワイルズ】久しぶりに復帰したら見覚えない”アイツ”がいたw【骸場ミネオ&🐭】",
+      "url": "https://youtu.be/wyb6ZBzlmKI?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-18T10:20:30.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "3cd8fb540a5a",
@@ -828,6 +888,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "cb703a4be3d4",
+      "title": "【モンハンワイルズ】モンスター一覧と弱点早見表（全34体）【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/452222",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-18T01:37:20.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/452222.png?date=1717659746",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "6eacce9507bd",
@@ -1124,27 +1205,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "e82893a27dc3",
-      "title": "【検証】歴戦王アルシュベルドを野良救難で狩ると勝率は〇〇％！？カオスな野良マルチの現実【モンハンワイルズ】",
-      "url": "https://youtu.be/uvSEcCM0I0Q?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-17T10:29:41.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "86bfc1ca88d5",
@@ -1621,27 +1681,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "2a0aeb37dc6c",
-      "title": "【モンハンナウ】プロモーションコード一覧と入力方法【モンハンNow】",
-      "url": "https://gamewith.jp/monsterhunternow/article/show/418926",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-16T08:22:13.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/418926.png?date=1695261135",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "now"
       ],
       "isOfficial": false,
       "isPR": false,
