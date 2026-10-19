@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-19T12:30:15.808Z",
+  "updatedAt": "2026-10-19T13:00:16.403Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 62,
-  "todayCount": 18,
+  "total": 65,
+  "todayCount": 19,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 4
+      "count": 6
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 46
+      "count": 47
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 40
+      "count": 41
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 9
+      "count": 10
     },
     {
       "id": "now",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 4
+      "count": 5
     },
     {
       "id": "outlanders",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 26
+      "count": 28
     },
     {
       "name": "GameWith",
@@ -108,7 +108,7 @@
     },
     {
       "name": "AppMedia",
-      "count": 2
+      "count": 3
     },
     {
       "name": "4Gamer.net",
@@ -135,10 +135,6 @@
       "count": 1
     },
     {
-      "name": "ファミ通",
-      "count": 1
-    },
-    {
       "name": "ガジェット通信",
       "count": 1
     },
@@ -148,6 +144,10 @@
     },
     {
       "name": "Howl.link",
+      "count": 1
+    },
+    {
+      "name": "ファミ通.com",
       "count": 1
     },
     {
@@ -358,13 +358,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-19T12:00:15.346Z",
-    "previousCount": 59,
+    "previousAt": "2026-10-19T12:30:15.808Z",
+    "previousCount": 62,
     "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-19T13:00:15.808Z",
+  "nextUpdateAt": "2026-10-19T13:30:16.403Z",
   "items": [
+    {
+      "id": "da558e20d6e4",
+      "title": "【モンハンストーリーズ3】凶異エスピナスの攻略情報｜出現場所・入手素材【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79848344",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-19T10:40:14.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2020/01/home_image.png",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "649b704173f6",
       "title": "【#モンハン 】村クエすすめる※アーカイブ残るかわからん",
@@ -424,7 +445,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5c5a340119cb",
@@ -445,7 +466,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3b4f9edaaa72",
@@ -603,27 +624,6 @@
       "isNew": false
     },
     {
-      "id": "3a847101d21f",
-      "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
-      "url": "https://www.famitsu.com/article/images/202610/90097/892948",
-      "host": "famitsu.com",
-      "source": "ファミ通",
-      "summary": "",
-      "publishedAt": "2026-10-19T01:52:08.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90097/cf99687dd719c4e8bc6a39e946c3d9ef7.jpg?x=1280",
-      "categories": [
-        "media"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "93e16b62ef46",
       "title": "「モンスターハンターパズル アイルーアイランド」が2027年1月14日をもってサービス終了。買い切り版の「いつまでも版」が11月12日に発売予定",
       "url": "https://getnews.jp/archives/3749834",
@@ -682,7 +682,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "243930d5fa3a",
@@ -705,6 +705,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "b40f8ba0871f",
+      "title": "【MHWs】★10歴戦王アルシュベルド火事場滅龍ライト3分周回",
+      "url": "https://youtu.be/lt5GwxGg1j4?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-18T16:30:31.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "f94b3ff62c8e",
@@ -803,6 +824,27 @@
       "series": [
         "wilds",
         "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "3a847101d21f",
+      "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
+      "url": "https://www.famitsu.com/article/images/202610/90097/892951",
+      "host": "famitsu.com",
+      "source": "ファミ通.com",
+      "summary": "",
+      "publishedAt": "2026-10-18T11:32:12.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90097/cfac4ef5554f69012fe38d2f1d4e245a6.jpg?x=1280",
+      "categories": [
+        "media"
+      ],
+      "series": [
+        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1606,6 +1648,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "1ae8490e2d6b",
+      "title": "【歴戦王アルシュベルド】マルチで使える通常弾ライトのおすすめ装備【モンハンワイルズ】",
+      "url": "https://youtu.be/vPjVYEH4x6g?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-16T15:14:30.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "fb74ac39e333",
