@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T19:00:17.986Z",
+  "updatedAt": "2026-10-19T19:30:18.790Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,12 +7,12 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 64,
-  "todayCount": 1,
+  "todayCount": 2,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 7
+      "count": 8
     },
     {
       "id": "update",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 3
+      "count": 2
     },
     {
       "id": "sale",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 12
+      "count": 13
     },
     {
       "id": "now",
@@ -100,15 +100,11 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 29
+      "count": 30
     },
     {
       "name": "GameWith",
       "count": 16
-    },
-    {
-      "name": "4Gamer.net",
-      "count": 2
     },
     {
       "name": "電ファミニコゲーマー",
@@ -123,11 +119,11 @@
       "count": 2
     },
     {
-      "name": "Mobile Goddess",
+      "name": "AppMedia",
       "count": 1
     },
     {
-      "name": "AppMedia",
+      "name": "Mobile Goddess",
       "count": 1
     },
     {
@@ -139,11 +135,11 @@
       "count": 1
     },
     {
-      "name": "電撃オンライン",
+      "name": "4Gamer.net",
       "count": 1
     },
     {
-      "name": "ファミ通",
+      "name": "電撃オンライン",
       "count": 1
     },
     {
@@ -156,6 +152,10 @@
     },
     {
       "name": "Howl.link",
+      "count": 1
+    },
+    {
+      "name": "ファミ通.com",
       "count": 1
     },
     {
@@ -177,7 +177,7 @@
       "leadSource": "4Gamer",
       "publishedAt": "2026-10-19T15:29:53.000Z",
       "sourceCount": 6,
-      "articleCount": 7,
+      "articleCount": 6,
       "categories": [
         "other",
         "new"
@@ -185,7 +185,7 @@
       "keywords": [
         "モンスターハンターパズル",
         "アイルー",
-        "アイルーアイランド"
+        "サービス"
       ],
       "articles": [
         {
@@ -193,13 +193,6 @@
           "url": "https://www.mgoddess.com/news/2027-1-14-11-00/?lang",
           "source": "Mobile Goddess",
           "publishedAt": "2026-10-19T15:29:53.000Z",
-          "isPR": false
-        },
-        {
-          "title": "Nintendo Switch版 モンスターハンターパズル アイルーアイランド いつまでも版 まとめページ",
-          "url": "https://www.4gamer.net/games/051/G105130/",
-          "source": "4Gamer.net",
-          "publishedAt": "2026-10-19T07:15:06.000Z",
           "isPR": false
         },
         {
@@ -368,13 +361,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-19T18:30:18.439Z",
-    "previousCount": 65,
-    "newCount": 3
+    "previousAt": "2026-10-19T19:00:17.986Z",
+    "previousCount": 64,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-19T19:30:17.986Z",
+  "nextUpdateAt": "2026-10-19T20:00:18.790Z",
   "items": [
+    {
+      "id": "6fae96ec537f",
+      "title": "【モンハンストーリーズ3】体験版はどこまでできる？｜やっておきたいこと【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79521053",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-19T17:00:31.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2025/11/153717_b6xeo.webp",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "ac436576b354",
       "title": "モンスターハンターパズル：アイルー島のサービス終了は2027年1月14日",
@@ -388,27 +402,6 @@
         "other"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "fbd709240fd8",
-      "title": "【モンハンストーリーズ2】レベル上げにおすすめの方法・手順まとめ【MHST2】",
-      "url": "https://appmedia.jp/mhst2/6648013",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-19T14:56:21.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2021/07/cfd34185d634df738c4a56e4eec83502.jpg",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -453,7 +446,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9b34bb9c7404",
@@ -495,7 +488,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a2119f0dcdb7",
@@ -572,25 +565,6 @@
       "image": "https://www.4gamer.net/games/804/G080469/20261019019/SS/001.jpg",
       "categories": [
         "new"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "bb578618dbe2",
-      "title": "Nintendo Switch版 モンスターハンターパズル アイルーアイランド いつまでも版 まとめページ",
-      "url": "https://www.4gamer.net/games/051/G105130/",
-      "host": "4gamer.net",
-      "source": "4Gamer.net",
-      "summary": "",
-      "publishedAt": "2026-10-19T07:15:06.000Z",
-      "image": "",
-      "categories": [
-        "other"
       ],
       "series": [],
       "isOfficial": false,
@@ -717,27 +691,6 @@
       "isNew": false
     },
     {
-      "id": "3a847101d21f",
-      "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
-      "url": "https://www.famitsu.com/article/images/202610/90097/892948",
-      "host": "famitsu.com",
-      "source": "ファミ通",
-      "summary": "",
-      "publishedAt": "2026-10-19T01:52:08.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90097/cf99687dd719c4e8bc6a39e946c3d9ef7.jpg?x=1280",
-      "categories": [
-        "media"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "93e16b62ef46",
       "title": "「モンスターハンターパズル アイルーアイランド」が2027年1月14日をもってサービス終了。買い切り版の「いつまでも版」が11月12日に発売予定",
       "url": "https://getnews.jp/archives/3749834",
@@ -798,6 +751,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "b40f8ba0871f",
+      "title": "【MHWs】★10歴戦王アルシュベルド火事場滅龍ライト3分周回",
+      "url": "https://youtu.be/lt5GwxGg1j4?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-18T16:30:31.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "f94b3ff62c8e",
@@ -918,6 +892,27 @@
       "series": [
         "wilds",
         "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "3a847101d21f",
+      "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
+      "url": "https://www.famitsu.com/article/images/202610/90097/892951",
+      "host": "famitsu.com",
+      "source": "ファミ通.com",
+      "summary": "",
+      "publishedAt": "2026-10-18T11:32:12.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90097/cfac4ef5554f69012fe38d2f1d4e245a6.jpg?x=1280",
+      "categories": [
+        "media"
+      ],
+      "series": [
+        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1365,7 +1360,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "580a68156db7",
