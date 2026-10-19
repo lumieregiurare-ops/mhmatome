@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-19T04:30:15.617Z",
+  "updatedAt": "2026-10-19T05:00:14.172Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 61,
-  "todayCount": 6,
+  "total": 62,
+  "todayCount": 7,
   "categories": [
     {
       "id": "new",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 49
+      "count": 50
     }
   ],
   "series": [
@@ -74,12 +74,12 @@
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 1
+      "count": 2
     },
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 10
+      "count": 11
     },
     {
       "id": "now",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 29
+      "count": 31
     },
     {
       "name": "GameWith",
@@ -132,10 +132,6 @@
     },
     {
       "name": "ライブドアニュース",
-      "count": 1
-    },
-    {
-      "name": "朝日新聞",
       "count": 1
     },
     {
@@ -359,12 +355,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-19T04:00:15.890Z",
-    "previousCount": 62,
-    "newCount": 0
+    "previousAt": "2026-10-19T04:30:15.617Z",
+    "previousCount": 61,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-19T05:00:15.617Z",
+  "nextUpdateAt": "2026-10-19T05:30:14.172Z",
   "items": [
     {
       "id": "3a847101d21f",
@@ -448,6 +444,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "b40f8ba0871f",
+      "title": "【MHWs】★10歴戦王アルシュベルド火事場滅龍ライト3分周回",
+      "url": "https://youtu.be/lt5GwxGg1j4?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-18T16:30:31.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "f94b3ff62c8e",
@@ -616,7 +633,7 @@
     },
     {
       "id": "098e57fd95e9",
-      "title": "【画像】3段階で発光色を変えられる泡狐竜のインテリアライト！カプコン モンスターハンター ルームライト タマミツネ 2/4",
+      "title": "【画像】3段階で発光色を変えられる泡狐竜のインテリアライト！カプコン モンスターハンター ルームライト タマミツネ 3/4",
       "url": "https://news.livedoor.com/article/image_detail/32596862/?img_id",
       "host": "news.livedoor.com",
       "source": "ライブドアニュース",
@@ -927,25 +944,6 @@
       "series": [
         "wilds"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "67437209f592",
-      "title": "「モンスターハンター」シリーズ【大タル爆弾】型アイテムBOX新発売！",
-      "url": "https://www.asahi.com/and/pressrelease/16833260",
-      "host": "asahi.com",
-      "source": "朝日新聞",
-      "summary": "",
-      "publishedAt": "2026-10-17T15:59:13.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1388,6 +1386,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "3194cf3432f7",
+      "title": "解き放て、狩猟魂。第２話「盾と鎌でハサミ討ち！」【モンハンライズ】【モンハンサンブレイク】【Monster Hunter Rise Sunbreak】",
+      "url": "https://youtu.be/3DqR3EJXYTE",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-16T12:03:38.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "f4955d9a1654",
