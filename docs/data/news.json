@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-19T18:00:16.417Z",
+  "updatedAt": "2026-10-19T18:30:18.439Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 62,
-  "todayCount": 0,
+  "total": 65,
+  "todayCount": 2,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 6
+      "count": 7
     },
     {
       "id": "update",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 2
+      "count": 3
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 46
+      "count": 47
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 42
+      "count": 45
     },
     {
       "id": "rise",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 2
+      "count": 4
     },
     {
       "id": "outlanders",
@@ -100,11 +100,19 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 29
+      "count": 27
     },
     {
       "name": "GameWith",
       "count": 16
+    },
+    {
+      "name": "Howl.link",
+      "count": 4
+    },
+    {
+      "name": "AppMedia",
+      "count": 2
     },
     {
       "name": "4Gamer.net",
@@ -123,6 +131,10 @@
       "count": 2
     },
     {
+      "name": "Mobile Goddess",
+      "count": 1
+    },
+    {
       "name": "4Gamer",
       "count": 1
     },
@@ -131,7 +143,7 @@
       "count": 1
     },
     {
-      "name": "Excite エキサイト",
+      "name": "ファミ通",
       "count": 1
     },
     {
@@ -140,14 +152,6 @@
     },
     {
       "name": "AppBank",
-      "count": 1
-    },
-    {
-      "name": "Howl.link",
-      "count": 1
-    },
-    {
-      "name": "ファミ通.com",
       "count": 1
     },
     {
@@ -167,19 +171,26 @@
       "url": "https://www.4gamer.net/games/804/G080469/20261019019/",
       "image": "https://www.4gamer.net/games/804/G080469/20261019019/SS/001.jpg",
       "leadSource": "4Gamer",
-      "publishedAt": "2026-10-19T07:15:06.000Z",
-      "sourceCount": 5,
-      "articleCount": 6,
+      "publishedAt": "2026-10-19T15:29:53.000Z",
+      "sourceCount": 6,
+      "articleCount": 7,
       "categories": [
-        "new",
-        "other"
+        "other",
+        "new"
       ],
       "keywords": [
         "モンスターハンターパズル",
-        "アイルーアイランド",
-        "サービス"
+        "アイルー",
+        "アイルーアイランド"
       ],
       "articles": [
+        {
+          "title": "モンスターハンターパズル：アイルー島のサービス終了は2027年1月14日",
+          "url": "https://www.mgoddess.com/news/2027-1-14-11-00/?lang",
+          "source": "Mobile Goddess",
+          "publishedAt": "2026-10-19T15:29:53.000Z",
+          "isPR": false
+        },
         {
           "title": "Nintendo Switch版 モンスターハンターパズル アイルーアイランド いつまでも版 まとめページ",
           "url": "https://www.4gamer.net/games/051/G105130/",
@@ -226,7 +237,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-10-19T05:00:09.000Z",
       "sourceCount": 2,
-      "articleCount": 9,
+      "articleCount": 8,
       "categories": [
         "guide",
         "other"
@@ -259,13 +270,6 @@
           "isPR": false
         },
         {
-          "title": "アセンダンス最新情報が近々来るかも！！ #モンハンワイルズ #ぼん #アセンダンス",
-          "url": "https://youtu.be/pbkuOMLP4B0?si",
-          "source": "YouTube",
-          "publishedAt": "2026-10-17T11:37:51.000Z",
-          "isPR": false
-        },
-        {
           "title": "【モンハンアセンダンス】最新情報＆PV2間近！？パリゲームズウィークに期待を寄せるハゲ #モンハンワイルズ #アセンダンス",
           "url": "https://youtu.be/nvWe6wnmIK8?si",
           "source": "YouTube",
@@ -294,72 +298,77 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "4b29926c5e23",
-      "title": "【MHWilds】★10 英雄の証 ネコ火事場ヘビィボウガン 完全ソロ 14'59\"36【モンハンワイルズ】",
-      "summary": "",
-      "url": "https://youtu.be/hgf8uLVvZ8U?si",
-      "image": "",
-      "leadSource": "YouTube",
-      "publishedAt": "2026-10-18T12:53:03.000Z",
-      "sourceCount": 2,
-      "articleCount": 6,
-      "categories": [
-        "other"
-      ],
-      "keywords": [
-        "モンハンワイルズ",
-        "mhwilds",
-        "狩猟笛"
-      ],
-      "articles": [
-        {
-          "title": "【モンハンワイルズ】 #669久々モンハンたまにはモンハン 【参加型】【MHWilds】",
-          "url": "https://t.co/guE4iwlfZJ",
-          "source": "Howl.link",
-          "publishedAt": "2026-10-18T12:08:19.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ】英雄の証 一般カリピストによる初見プレイ 狩猟笛ソロ 34分39秒【MHWilds/PC】",
-          "url": "https://youtu.be/p09Ej2xyQuc",
-          "source": "YouTube",
-          "publishedAt": "2026-10-18T04:39:13.000Z",
-          "isPR": false
-        },
-        {
-          "title": "野良の零式オメガにえいえいする狩猟笛の動画 #mhwilds #モンハンワイルズ",
-          "url": "https://youtu.be/FljqdUksZTE?si",
-          "source": "YouTube",
-          "publishedAt": "2026-10-17T18:08:01.000Z",
-          "isPR": false
-        },
-        {
-          "title": "野良と爆発事故に合った、とある日のモンハンワイルズ #モンハンワイルズ #monsterhunter",
-          "url": "https://youtu.be/Q9wE0X1YU28?si",
-          "source": "YouTube",
-          "publishedAt": "2026-10-17T16:36:16.000Z",
-          "isPR": false
-        },
-        {
-          "title": "零式オメガ 9分46秒 狩猟笛ソロ サポハン無し オトモ無し 防壁火事場 零式オメガ・プラネテス検証戦",
-          "url": "https://youtu.be/3TeYbAOcZwE",
-          "source": "YouTube",
-          "publishedAt": "2026-10-17T02:30:34.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-19T17:30:18.169Z",
-    "previousCount": 64,
-    "newCount": 4
+    "previousAt": "2026-10-19T18:00:16.417Z",
+    "previousCount": 62,
+    "newCount": 8
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-19T18:30:16.417Z",
+  "nextUpdateAt": "2026-10-19T19:00:18.439Z",
   "items": [
+    {
+      "id": "6fae96ec537f",
+      "title": "【モンハンストーリーズ3】体験版はどこまでできる？｜やっておきたいこと【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79521053",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-19T17:00:31.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2025/11/153717_b6xeo.webp",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "ac436576b354",
+      "title": "モンスターハンターパズル：アイルー島のサービス終了は2027年1月14日",
+      "url": "https://www.mgoddess.com/news/2027-1-14-11-00/?lang",
+      "host": "mgoddess.com",
+      "source": "Mobile Goddess",
+      "summary": "",
+      "publishedAt": "2026-10-19T15:29:53.000Z",
+      "image": "https://www.4gamer.net/games/804/G080469/20261019019/SS/001.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "fbd709240fd8",
+      "title": "【モンハンストーリーズ2】レベル上げにおすすめの方法・手順まとめ【MHST2】",
+      "url": "https://appmedia.jp/mhst2/6648013",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-19T14:56:21.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2021/07/cfd34185d634df738c4a56e4eec83502.jpg",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "fdbbfd9baf1d",
       "title": "豪鬼??????? #モンハンワイルズ #ストリートファイター6 #豪鬼 #shorts #ゲーム実況",
@@ -446,27 +455,6 @@
       "isNew": false
     },
     {
-      "id": "5d281ea91b4d",
-      "title": "【モンスターハンターワールドアイスボーン】初回からの因縁対決？VSゾラ・マグダラオス戦！・・・それにしても、今回の声いつも以上に気持ち悪すぎやしないかい？「しるふぃのモンハンWIPart9」",
-      "url": "https://youtu.be/2zD_Bl43JuQ",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-19T09:00:08.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "1d9869838996",
       "title": "モンスターにとらわれた、さすらいのモリバーを救え！【へたっぴ大剣冒険日記#12】モンスターハンターワイルズ",
       "url": "https://youtu.be/IiIaq1WwLfk?si",
@@ -486,6 +474,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "1c9eeb562b7c",
+      "title": "【モンハンワイルズ】リハビリ狩猟⚔一狩りいくぞ！！🍓🍊part27 #モンハンワイルズ #モンハン #ワイルズ",
+      "url": "https://t.co/8pXbdiMyPH",
+      "host": "t.co",
+      "source": "Howl.link",
+      "summary": "",
+      "publishedAt": "2026-10-19T08:10:59.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "3b4f9edaaa72",
@@ -543,6 +552,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "7fa58a0c2168",
+      "title": "【モンハンワイルズ参加型】【☆10 ゴグマ救援】来てくれたみんなありがとう！全員と☆10ゴグマを倒しましょう！ #mhws #モンハンワイルズ",
+      "url": "https://t.co/VzTqyAKtU6",
+      "host": "t.co",
+      "source": "Howl.link",
+      "summary": "",
+      "publishedAt": "2026-10-19T07:09:24.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "d98a9e2dbb83",
@@ -643,23 +674,25 @@
       "isNew": false
     },
     {
-      "id": "60d9277fb29a",
-      "title": "カプセルトイ「モンスターハンター めじるしアクセサリー」10月第4週に発売リオレウスなどデフォルメデザインのモンスター全6種がラインナップ",
-      "url": "http://www.excite.co.jp/news/article/game_watch_1483846848704594028/",
-      "host": "excite.co.jp",
-      "source": "Excite エキサイト",
+      "id": "3a847101d21f",
+      "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
+      "url": "https://www.famitsu.com/article/images/202610/90097/892948",
+      "host": "famitsu.com",
+      "source": "ファミ通",
       "summary": "",
-      "publishedAt": "2026-10-19T01:18:41.000Z",
-      "image": "",
+      "publishedAt": "2026-10-19T01:52:08.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90097/cf99687dd719c4e8bc6a39e946c3d9ef7.jpg?x=1280",
       "categories": [
-        "other"
+        "media"
       ],
-      "series": [],
+      "series": [
+        "stories"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "93e16b62ef46",
@@ -722,48 +755,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "bacbcd089fb7",
-      "title": "お久しぶりサンブレイク Switch版 自由参加型 コメなしで参加OK 初見大歓迎【モンスターハンターライズサンブレイク】#24",
-      "url": "https://youtu.be/P_0thvcmPyM?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-18T16:47:27.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "b40f8ba0871f",
-      "title": "【MHWs】★10歴戦王アルシュベルド火事場滅龍ライト3分周回",
-      "url": "https://youtu.be/lt5GwxGg1j4?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-18T16:30:31.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "f94b3ff62c8e",
@@ -892,27 +883,6 @@
       "isNew": false
     },
     {
-      "id": "3a847101d21f",
-      "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
-      "url": "https://www.famitsu.com/article/images/202610/90097/892951",
-      "host": "famitsu.com",
-      "source": "ファミ通.com",
-      "summary": "",
-      "publishedAt": "2026-10-18T11:32:12.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90097/cfac4ef5554f69012fe38d2f1d4e245a6.jpg?x=1280",
-      "categories": [
-        "media"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "071e4af572fe",
       "title": "【モンハンワイルズ】久しぶりに復帰したら見覚えない”アイツ”がいたw【骸場ミネオ&🐭】",
       "url": "https://youtu.be/wyb6ZBzlmKI?si",
@@ -1015,6 +985,28 @@
       "isNew": false
     },
     {
+      "id": "1b4f2c532b70",
+      "title": "【参加型】新武器に挑戦!! 一緒にモンハンワイルズ楽しもう！267回 【モンハンワイルズ/MHWilds】",
+      "url": "https://t.co/bFQYgTP121",
+      "host": "t.co",
+      "source": "Howl.link",
+      "summary": "",
+      "publishedAt": "2026-10-18T05:46:36.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "91d6e639da27",
       "title": "【モンハンワイルズ】英雄の証 一般カリピストによる初見プレイ 狩猟笛ソロ 34分39秒【MHWilds/PC】",
       "url": "https://youtu.be/p09Ej2xyQuc",
@@ -1099,6 +1091,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "f5ac57766afa",
+      "title": "【モンハンワイルズ 配信まとめ その86〜90】スラアクで挑む歴戦王とカウンター練習！還暦じじいの狩られ道（四捨五入すると60歳、還暦的なPS5版モンスターハンターワイルズ。令和に生きる狩られ道）",
+      "url": "https://youtu.be/9mOEgwkJRFM?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-18T01:00:18.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "411bb4076b94",
@@ -1313,25 +1326,25 @@
       "isNew": false
     },
     {
-      "id": "0fad0009e4f5",
-      "title": "アセンダンス最新情報が近々来るかも！！ #モンハンワイルズ #ぼん #アセンダンス",
-      "url": "https://youtu.be/pbkuOMLP4B0?si",
+      "id": "580a68156db7",
+      "title": "参加型 switch版 モンスターハンター ライズ サンブレイク 縦型配信",
+      "url": "https://youtu.be/u_tQZQgvbrg",
       "host": "youtu.be",
       "source": "YouTube",
       "summary": "",
-      "publishedAt": "2026-10-17T11:37:51.000Z",
+      "publishedAt": "2026-10-17T11:37:26.000Z",
       "image": "",
       "categories": [
         "other"
       ],
       "series": [
-        "wilds"
+        "rise"
       ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "26b9c1c9341d",
