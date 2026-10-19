@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-19T12:00:15.346Z",
+  "updatedAt": "2026-10-19T12:30:15.808Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 59,
-  "todayCount": 15,
+  "total": 62,
+  "todayCount": 18,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 3
+      "count": 4
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 44
+      "count": 46
     }
   ],
   "series": [
@@ -74,7 +74,7 @@
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 1
+      "count": 2
     },
     {
       "id": "world",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 2
+      "count": 4
     },
     {
       "id": "outlanders",
@@ -100,11 +100,15 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 25
+      "count": 26
     },
     {
       "name": "GameWith",
       "count": 17
+    },
+    {
+      "name": "AppMedia",
+      "count": 2
     },
     {
       "name": "4Gamer.net",
@@ -354,12 +358,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-19T11:30:15.177Z",
-    "previousCount": 61,
-    "newCount": 1
+    "previousAt": "2026-10-19T12:00:15.346Z",
+    "previousCount": 59,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-19T12:30:15.346Z",
+  "nextUpdateAt": "2026-10-19T13:00:15.808Z",
   "items": [
     {
       "id": "649b704173f6",
@@ -400,6 +404,48 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "5cb07b2b0347",
+      "title": "【モンハンストーリーズ3】序盤の効率的な進め方｜押さえておきたいポイントまとめ【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79832135",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-19T08:04:34.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/135446_cduob.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "5c5a340119cb",
+      "title": "【モンハンストーリーズ3】タルアイルーの倒し方と出現場所【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79819751",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-19T07:16:36.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/124144_ylvib.webp",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "3b4f9edaaa72",
@@ -616,6 +662,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "147b8cfc4cc4",
+      "title": "ナルガを空中撃墜ww #モンハンライズ#スラッシュアックス#魅せプレイ #モンハン #ゲーム#ライズ#スラアク#ナルガクルガ",
+      "url": "https://youtu.be/th4NfdmGCu0?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-18T22:56:07.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "243930d5fa3a",
@@ -1455,7 +1522,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4453b9bbbd1c",
@@ -1548,7 +1615,7 @@
       "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-10-16T15:00:00.000Z",
-      "image": "",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2147/418/008.jpg",
       "categories": [
         "other"
       ],
