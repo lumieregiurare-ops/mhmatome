@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-19T10:00:14.422Z",
+  "updatedAt": "2026-10-19T10:30:16.164Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 64,
+  "total": 63,
   "todayCount": 15,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 4
+      "count": 5
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 48
+      "count": 46
     }
   ],
   "series": [
@@ -74,7 +74,7 @@
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 3
+      "count": 2
     },
     {
       "id": "world",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 3
+      "count": 2
     },
     {
       "id": "outlanders",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 31
+      "count": 30
     },
     {
       "name": "GameWith",
@@ -123,10 +123,6 @@
       "count": 2
     },
     {
-      "name": "AppMedia",
-      "count": 1
-    },
-    {
       "name": "4Gamer",
       "count": 1
     },
@@ -136,6 +132,10 @@
     },
     {
       "name": "ファミ通",
+      "count": 1
+    },
+    {
+      "name": "ガジェット通信",
       "count": 1
     },
     {
@@ -164,8 +164,8 @@
       "image": "https://www.4gamer.net/games/804/G080469/20261019019/SS/001.jpg",
       "leadSource": "4Gamer",
       "publishedAt": "2026-10-19T07:15:06.000Z",
-      "sourceCount": 4,
-      "articleCount": 5,
+      "sourceCount": 5,
+      "articleCount": 6,
       "categories": [
         "new",
         "other"
@@ -202,6 +202,13 @@
           "url": "https://dengekionline.com/article/202610/91384",
           "source": "電撃オンライン",
           "publishedAt": "2026-10-19T05:04:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「モンスターハンターパズル アイルーアイランド」が2027年1月14日をもってサービス終了。買い切り版の「いつまでも版」が11月12日に発売予定",
+          "url": "https://getnews.jp/archives/3749834",
+          "source": "ガジェット通信",
+          "publishedAt": "2026-10-19T01:13:00.000Z",
           "isPR": false
         }
       ]
@@ -286,12 +293,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-19T09:30:17.316Z",
-    "previousCount": 65,
-    "newCount": 3
+    "previousAt": "2026-10-19T10:00:14.422Z",
+    "previousCount": 64,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-19T10:30:14.422Z",
+  "nextUpdateAt": "2026-10-19T11:00:16.164Z",
   "items": [
     {
       "id": "1d9869838996",
@@ -313,27 +320,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "5c5a340119cb",
-      "title": "【モンハンストーリーズ3】タルアイルーの倒し方と出現場所【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79819751",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-19T07:16:36.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/124144_ylvib.webp",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "3b4f9edaaa72",
@@ -510,6 +496,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "93e16b62ef46",
+      "title": "「モンスターハンターパズル アイルーアイランド」が2027年1月14日をもってサービス終了。買い切り版の「いつまでも版」が11月12日に発売予定",
+      "url": "https://getnews.jp/archives/3749834",
+      "host": "getnews.jp",
+      "source": "ガジェット通信",
+      "summary": "",
+      "publishedAt": "2026-10-19T01:13:00.000Z",
+      "image": "https://i0.wp.com/uploads.saigacdn.com/2026/10/mhpuzzle-end-of-service-announcement-00a.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "5fc879b1cca5",
@@ -1119,7 +1124,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "580a68156db7",
@@ -1458,6 +1463,27 @@
       "isNew": false
     },
     {
+      "id": "1ae8490e2d6b",
+      "title": "【歴戦王アルシュベルド】マルチで使える通常弾ライトのおすすめ装備【モンハンワイルズ】",
+      "url": "https://youtu.be/vPjVYEH4x6g?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-16T15:14:30.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "fb74ac39e333",
       "title": "カプセルトイ「モンスターハンター めじるしアクセサリー」10月第4週に発売",
       "url": "https://game.watch.impress.co.jp/docs/news/2147418.html",
@@ -1496,27 +1522,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "3194cf3432f7",
-      "title": "解き放て、狩猟魂。第２話「盾と鎌でハサミ討ち！」【モンハンライズ】【モンハンサンブレイク】【Monster Hunter Rise Sunbreak】",
-      "url": "https://youtu.be/3DqR3EJXYTE",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-16T12:03:38.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "f4955d9a1654",
@@ -1590,27 +1595,6 @@
       "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-10-16T10:59:53.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "7fd57d31d64f",
-      "title": "【TikTokLIVEアーカイブ】モンハンワイルズ #5（2026/10/15）",
-      "url": "https://youtu.be/Dzw-16F-0Ec",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-16T10:25:12.000Z",
       "image": "",
       "categories": [
         "other"
