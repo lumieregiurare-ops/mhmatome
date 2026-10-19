@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-19T22:30:15.460Z",
+  "updatedAt": "2026-10-19T23:00:15.416Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 65,
+  "total": 66,
   "todayCount": 6,
   "categories": [
     {
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 48
+      "count": 49
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 43
+      "count": 44
     },
     {
       "id": "rise",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 31
+      "count": 32
     },
     {
       "name": "GameWith",
@@ -357,12 +357,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-19T22:00:15.156Z",
-    "previousCount": 66,
-    "newCount": 0
+    "previousAt": "2026-10-19T22:30:15.460Z",
+    "previousCount": 65,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-19T23:00:15.460Z",
+  "nextUpdateAt": "2026-10-19T23:30:15.416Z",
   "items": [
     {
       "id": "600cd1e4e33d",
@@ -1461,6 +1461,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "e82893a27dc3",
+      "title": "【検証】歴戦王アルシュベルドを野良救難で狩ると勝率は〇〇％！？カオスな野良マルチの現実【モンハンワイルズ】",
+      "url": "https://youtu.be/uvSEcCM0I0Q?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-17T10:29:41.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "86bfc1ca88d5",
