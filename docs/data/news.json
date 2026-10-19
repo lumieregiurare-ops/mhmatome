@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-19T09:30:17.316Z",
+  "updatedAt": "2026-10-19T10:00:14.422Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 65,
-  "todayCount": 14,
+  "total": 64,
+  "todayCount": 15,
   "categories": [
     {
       "id": "new",
@@ -62,24 +62,24 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 49
+      "count": 48
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 48
+      "count": 45
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 2
+      "count": 3
     },
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 11
+      "count": 10
     },
     {
       "id": "now",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 2
+      "count": 3
     },
     {
       "id": "outlanders",
@@ -104,7 +104,7 @@
     },
     {
       "name": "GameWith",
-      "count": 18
+      "count": 17
     },
     {
       "name": "4Gamer.net",
@@ -123,6 +123,10 @@
       "count": 2
     },
     {
+      "name": "AppMedia",
+      "count": 1
+    },
+    {
       "name": "4Gamer",
       "count": 1
     },
@@ -136,10 +140,6 @@
     },
     {
       "name": "AppBank",
-      "count": 1
-    },
-    {
-      "name": "Howl.link",
       "count": 1
     },
     {
@@ -215,7 +215,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-10-19T05:00:09.000Z",
       "sourceCount": 2,
-      "articleCount": 10,
+      "articleCount": 11,
       "categories": [
         "guide",
         "other"
@@ -255,6 +255,13 @@
           "isPR": false
         },
         {
+          "title": "アセンダンス最新情報が近々来るかも！！ #モンハンワイルズ #ぼん #アセンダンス",
+          "url": "https://youtu.be/pbkuOMLP4B0?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-17T11:37:51.000Z",
+          "isPR": false
+        },
+        {
           "title": "【モンハンアセンダンス】最新情報＆PV2間近！？パリゲームズウィークに期待を寄せるハゲ #モンハンワイルズ #アセンダンス",
           "url": "https://youtu.be/nvWe6wnmIK8?si",
           "source": "YouTube",
@@ -274,66 +281,17 @@
           "source": "GameWith",
           "publishedAt": "2026-10-17T07:53:29.000Z",
           "isPR": false
-        },
-        {
-          "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/575036",
-          "source": "GameWith",
-          "publishedAt": "2026-10-17T07:07:06.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "e141956e25a8",
-      "title": "【モンハンワイルズ】 #669久々モンハンたまにはモンハン 【参加型】【MHWilds】",
-      "summary": "",
-      "url": "https://t.co/guE4iwlfZJ",
-      "image": "",
-      "leadSource": "Howl.link",
-      "publishedAt": "2026-10-18T12:08:19.000Z",
-      "sourceCount": 2,
-      "articleCount": 4,
-      "categories": [
-        "other"
-      ],
-      "keywords": [
-        "モンハンワイルズ",
-        "mhwilds",
-        "狩猟笛"
-      ],
-      "articles": [
-        {
-          "title": "【モンハンワイルズ】英雄の証 一般カリピストによる初見プレイ 狩猟笛ソロ 34分39秒【MHWilds/PC】",
-          "url": "https://youtu.be/p09Ej2xyQuc",
-          "source": "YouTube",
-          "publishedAt": "2026-10-18T04:39:13.000Z",
-          "isPR": false
-        },
-        {
-          "title": "野良の零式オメガにえいえいする狩猟笛の動画 #mhwilds #モンハンワイルズ",
-          "url": "https://youtu.be/FljqdUksZTE?si",
-          "source": "YouTube",
-          "publishedAt": "2026-10-17T18:08:01.000Z",
-          "isPR": false
-        },
-        {
-          "title": "野良と爆発事故に合った、とある日のモンハンワイルズ #モンハンワイルズ #monsterhunter",
-          "url": "https://youtu.be/Q9wE0X1YU28?si",
-          "source": "YouTube",
-          "publishedAt": "2026-10-17T16:36:16.000Z",
-          "isPR": false
         }
       ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-19T09:00:16.993Z",
-    "previousCount": 63,
-    "newCount": 2
+    "previousAt": "2026-10-19T09:30:17.316Z",
+    "previousCount": 65,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-19T10:00:17.316Z",
+  "nextUpdateAt": "2026-10-19T10:30:14.422Z",
   "items": [
     {
       "id": "1d9869838996",
@@ -349,6 +307,27 @@
       ],
       "series": [
         "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "5c5a340119cb",
+      "title": "【モンハンストーリーズ3】タルアイルーの倒し方と出現場所【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79819751",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-19T07:16:36.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/124144_ylvib.webp",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -679,28 +658,6 @@
       "isNew": false
     },
     {
-      "id": "e141956e25a8",
-      "title": "【モンハンワイルズ】 #669久々モンハンたまにはモンハン 【参加型】【MHWilds】",
-      "url": "https://t.co/guE4iwlfZJ",
-      "host": "t.co",
-      "source": "Howl.link",
-      "summary": "",
-      "publishedAt": "2026-10-18T12:08:19.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "071e4af572fe",
       "title": "【モンハンワイルズ】久しぶりに復帰したら見覚えない”アイツ”がいたw【骸場ミネオ&🐭】",
       "url": "https://youtu.be/wyb6ZBzlmKI?si",
@@ -932,27 +889,6 @@
       "isNew": false
     },
     {
-      "id": "6eacce9507bd",
-      "title": "天人達のエルピス：ゾシアTA6分56秒25【モンスターハンターワイルズ】Monster Hunter Wilds PS版",
-      "url": "https://youtu.be/O1Id3TArxTc?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-18T00:26:45.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "411bb4076b94",
       "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/575038",
@@ -1163,6 +1099,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "0fad0009e4f5",
+      "title": "アセンダンス最新情報が近々来るかも！！ #モンハンワイルズ #ぼん #アセンダンス",
+      "url": "https://youtu.be/pbkuOMLP4B0?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-17T11:37:51.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "580a68156db7",
@@ -1541,6 +1498,27 @@
       "isNew": false
     },
     {
+      "id": "3194cf3432f7",
+      "title": "解き放て、狩猟魂。第２話「盾と鎌でハサミ討ち！」【モンハンライズ】【モンハンサンブレイク】【Monster Hunter Rise Sunbreak】",
+      "url": "https://youtu.be/3DqR3EJXYTE",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-16T12:03:38.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "f4955d9a1654",
       "title": "【幸せカナコの殺し屋生活】転職天職☆やっちゃいました！×モンハンワイルズ【Dance MV】",
       "url": "https://youtu.be/r64FNkDM2tQ",
@@ -1634,48 +1612,6 @@
       "summary": "",
       "publishedAt": "2026-10-16T10:25:12.000Z",
       "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "a2119f0dcdb7",
-      "title": "【モンスターハンターワイルズ 番外編 】アセンンダンス発売までに武器を全部集めよう！ガンランス編・中編",
-      "url": "https://youtu.be/VJT9-tQ4ndw?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-16T09:45:37.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "50fcac5e5963",
-      "title": "【モンハンワイルズ】ナナイロカネの集め方と精錬方法【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/487799",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-16T09:38:08.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/487799.png?date=1755060453",
       "categories": [
         "other"
       ],
