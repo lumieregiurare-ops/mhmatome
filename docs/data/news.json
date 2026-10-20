@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-20T00:00:14.984Z",
+  "updatedAt": "2026-10-20T00:30:16.129Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 62,
-  "todayCount": 6,
+  "total": 70,
+  "todayCount": 8,
   "categories": [
     {
       "id": "new",
@@ -52,24 +52,24 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 2
+      "count": 3
     },
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 0
+      "count": 1
     },
     {
       "id": "other",
       "label": "その他",
-      "count": 44
+      "count": 51
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 40
+      "count": 48
     },
     {
       "id": "rise",
@@ -79,12 +79,12 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 12
+      "count": 15
     },
     {
       "id": "now",
       "label": "Now",
-      "count": 1
+      "count": 2
     },
     {
       "id": "stories",
@@ -100,18 +100,22 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 26
+      "count": 29
     },
     {
       "name": "GameWith",
       "count": 16
     },
     {
-      "name": "4Gamer.net",
+      "name": "Howl.link",
+      "count": 6
+    },
+    {
+      "name": "ガジェット通信",
       "count": 2
     },
     {
-      "name": "Howl.link",
+      "name": "4Gamer.net",
       "count": 2
     },
     {
@@ -148,10 +152,6 @@
     },
     {
       "name": "電撃オンライン",
-      "count": 1
-    },
-    {
-      "name": "ガジェット通信",
       "count": 1
     },
     {
@@ -233,53 +233,24 @@
       ]
     },
     {
-      "id": "e6d79acfa4bd",
-      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
+      "id": "26b9c1c9341d",
+      "title": "【モンハンアセンダンス】最新情報＆PV2間近！？パリゲームズウィークに期待を寄せるハゲ #モンハンワイルズ #アセンダンス",
       "summary": "",
-      "url": "https://gamewith.jp/mhwilds/563096",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
-      "leadSource": "GameWith",
-      "publishedAt": "2026-10-19T05:00:09.000Z",
+      "url": "https://youtu.be/nvWe6wnmIK8?si",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563104.png?date=1789770630",
+      "leadSource": "YouTube",
+      "publishedAt": "2026-10-17T11:21:04.000Z",
       "sourceCount": 2,
-      "articleCount": 8,
+      "articleCount": 3,
       "categories": [
-        "guide",
         "other"
       ],
       "keywords": [
-        "最新情報",
         "モンハンワイルズ",
-        "アセンダンス"
+        "アセンダンス",
+        "最新情報"
       ],
       "articles": [
-        {
-          "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/575038",
-          "source": "GameWith",
-          "publishedAt": "2026-10-17T23:46:22.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/563040",
-          "source": "GameWith",
-          "publishedAt": "2026-10-17T21:25:11.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/577281",
-          "source": "GameWith",
-          "publishedAt": "2026-10-17T19:11:19.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンアセンダンス】最新情報＆PV2間近！？パリゲームズウィークに期待を寄せるハゲ #モンハンワイルズ #アセンダンス",
-          "url": "https://youtu.be/nvWe6wnmIK8?si",
-          "source": "YouTube",
-          "publishedAt": "2026-10-17T11:21:04.000Z",
-          "isPR": false
-        },
         {
           "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/563104",
@@ -293,25 +264,93 @@
           "source": "GameWith",
           "publishedAt": "2026-10-17T07:07:06.000Z",
           "isPR": false
-        },
+        }
+      ]
+    },
+    {
+      "id": "1c9a7d506beb",
+      "title": "モンスターハンターワイルズSwitch2版、序盤体験版10月20日配信——オンラインマルチは体験版非対応",
+      "summary": "",
+      "url": "https://hashout.jp/game/12871/",
+      "image": "https://hashout.jp/wp-content/uploads/2026/10/2112101954923134985-img-1200x675.png",
+      "leadSource": "shiritomo",
+      "publishedAt": "2026-10-19T23:02:32.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "new",
+        "other"
+      ],
+      "keywords": [
+        "モンスターハンターワイルズ"
+      ],
+      "articles": [
         {
-          "title": "【モンハンワイルズ】Switch2版の発売日・最新情報【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/563066",
-          "source": "GameWith",
-          "publishedAt": "2026-10-17T06:46:13.000Z",
+          "title": "🌈モンスターハンターワイルズ©CAPCOM🌈",
+          "url": "https://t.co/QwyyFhYscG",
+          "source": "Howl.link",
+          "publishedAt": "2026-10-18T15:33:08.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "f5ac57766afa",
+      "title": "【モンハンワイルズ 配信まとめ その86〜90】スラアクで挑む歴戦王とカウンター練習！還暦じじいの狩られ道（四捨五入すると60歳、還暦的なPS5版モンスターハンターワイルズ。令和に生きる狩られ道）",
+      "summary": "",
+      "url": "https://youtu.be/9mOEgwkJRFM?si",
+      "image": "",
+      "leadSource": "YouTube",
+      "publishedAt": "2026-10-18T01:00:18.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "モンスターハンターワイルズ",
+        "練習"
+      ],
+      "articles": [
+        {
+          "title": "【モンスターハンターワイルズ】 太刀を練習する会！#3",
+          "url": "https://t.co/k4MpaT5dNC",
+          "source": "Howl.link",
+          "publishedAt": "2026-10-17T04:06:53.000Z",
           "isPR": false
         }
       ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-19T23:30:16.618Z",
-    "previousCount": 65,
-    "newCount": 1
+    "previousAt": "2026-10-20T00:00:14.984Z",
+    "previousCount": 62,
+    "newCount": 9
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-20T00:30:14.984Z",
+  "nextUpdateAt": "2026-10-20T01:00:16.129Z",
   "items": [
+    {
+      "id": "6f79ad79a1b2",
+      "title": "『モンハンNow』次元変異ディアブロス亜種襲来!! 支給品2倍＆重ね着交換所も始まった最新イベントガイド",
+      "url": "https://getnews.jp/archives/3749862",
+      "host": "getnews.jp",
+      "source": "ガジェット通信",
+      "summary": "",
+      "publishedAt": "2026-10-20T00:00:47.000Z",
+      "image": "https://rensai.jp/wp-content/uploads/2026/10/e097558d6035cab21cee27195ce14156.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "1c9a7d506beb",
       "title": "モンスターハンターワイルズSwitch2版、序盤体験版10月20日配信——オンラインマルチは体験版非対応",
@@ -327,6 +366,25 @@
       "series": [
         "wilds"
       ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "e6d79acfa4bd",
+      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
+      "url": "https://gamewith.jp/mhwilds/563096",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-19T19:07:17.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
+      "categories": [
+        "guide"
+      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -679,7 +737,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d98a9e2dbb83",
@@ -752,25 +810,6 @@
       "image": "https://cimg.kgl-systems.io/camion/files/91384/ogp_vhwF.jpg?x=1280",
       "categories": [
         "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e6d79acfa4bd",
-      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
-      "url": "https://gamewith.jp/mhwilds/563096",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-19T05:00:09.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
-      "categories": [
-        "guide"
       ],
       "series": [],
       "isOfficial": false,
@@ -883,6 +922,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "fca5a3b45938",
+      "title": "🌈モンスターハンターワイルズ©CAPCOM🌈",
+      "url": "https://t.co/QwyyFhYscG",
+      "host": "t.co",
+      "source": "Howl.link",
+      "summary": "",
+      "publishedAt": "2026-10-18T15:33:08.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "0c5d385ed2eb",
@@ -1069,6 +1129,72 @@
       "isNew": false
     },
     {
+      "id": "f11902b7dac6",
+      "title": "Vこおちゃペア闘技大会くろおび杯で覚醒してしまうwwペアベスト記録 4′45 モンハンワイルズ",
+      "url": "https://youtu.be/t0iQFBYZmok?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-18T07:24:55.000Z",
+      "image": "",
+      "categories": [
+        "community",
+        "sales"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "1b4f2c532b70",
+      "title": "【参加型】新武器に挑戦!! 一緒にモンハンワイルズ楽しもう！267回 【モンハンワイルズ/MHWilds】",
+      "url": "https://t.co/bFQYgTP121",
+      "host": "t.co",
+      "source": "Howl.link",
+      "summary": "",
+      "publishedAt": "2026-10-18T05:46:36.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "91d6e639da27",
+      "title": "【モンハンワイルズ】英雄の証 一般カリピストによる初見プレイ 狩猟笛ソロ 34分39秒【MHWilds/PC】",
+      "url": "https://youtu.be/p09Ej2xyQuc",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-18T04:39:13.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "ae12d30b0b3a",
       "title": "【MHWilds】カウンター二連突きはココ！おススメモンスター2選",
       "url": "https://youtu.be/Yv-SxKKZTeE?si",
@@ -1196,6 +1322,28 @@
       "isNew": false
     },
     {
+      "id": "caaaf606b157",
+      "title": "野良の零式オメガにえいえいする狩猟笛の動画 #mhwilds #モンハンワイルズ",
+      "url": "https://youtu.be/FljqdUksZTE?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-17T18:08:01.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "f9ec3544fdc8",
       "title": "【モンハン×スシロー】限定ピックやボトルなど貰えるモンハン×スシローコラボ日程や注意点を解説！【モンハンワイルズ/モンハンnow/モンスターハンターNow/モンハンNOW/モンハンなう/モンハンナウ】 Immigration (lJXok…",
       "url": "https://media.unisba.ac.id/7ad6f894/3f3fbfb6tbAgt_KxQjg/?share",
@@ -1237,6 +1385,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "7031e2304ca9",
+      "title": "野良と爆発事故に合った、とある日のモンハンワイルズ #モンハンワイルズ #monsterhunter",
+      "url": "https://youtu.be/Q9wE0X1YU28?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-17T16:36:16.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "f5f320595ab5",
@@ -1449,6 +1618,27 @@
       "isNew": false
     },
     {
+      "id": "8c599b1b0473",
+      "title": "[視聴者参加型サークルイベント]【モンハンワイルズ】アセンダンス発売まで護石掘りしたい男の『モンスターハンターワイルズ』 Part60 #508 【Steam】",
+      "url": "https://t.co/e19Nrwuhgb",
+      "host": "t.co",
+      "source": "Howl.link",
+      "summary": "",
+      "publishedAt": "2026-10-17T04:52:29.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "4cd467a24cc4",
       "title": "【アセンダンス】双剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/577734",
@@ -1468,6 +1658,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "78378c525070",
+      "title": "【モンスターハンターワイルズ】 太刀を練習する会！#3",
+      "url": "https://t.co/k4MpaT5dNC",
+      "host": "t.co",
+      "source": "Howl.link",
+      "summary": "",
+      "publishedAt": "2026-10-17T04:06:53.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "40bccce677c8",
@@ -1527,25 +1738,6 @@
         "wilds",
         "world"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "c057ddde0244",
-      "title": "零式オメガ 9分46秒 狩猟笛ソロ サポハン無し オトモ無し 防壁火事場 零式オメガ・プラネテス検証戦",
-      "url": "https://youtu.be/3TeYbAOcZwE",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-17T02:30:34.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
