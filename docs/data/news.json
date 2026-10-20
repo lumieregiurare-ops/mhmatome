@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T06:30:16.460Z",
+  "updatedAt": "2026-10-20T07:00:17.531Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,12 +7,12 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 59,
-  "todayCount": 22,
+  "todayCount": 23,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 23
+      "count": 22
     },
     {
       "id": "update",
@@ -52,7 +52,7 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 1
+      "count": 2
     },
     {
       "id": "sales",
@@ -100,11 +100,15 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 13
+      "count": 12
     },
     {
       "name": "YouTube",
       "count": 12
+    },
+    {
+      "name": "PR TIMES",
+      "count": 2
     },
     {
       "name": "ファミ通",
@@ -175,10 +179,6 @@
       "count": 1
     },
     {
-      "name": "PR TIMES",
-      "count": 1
-    },
-    {
       "name": "gamebiz【ゲームビズ】",
       "count": 1
     },
@@ -225,7 +225,7 @@
       "title": "Switch2版「モンハンワイルズ」の序盤を遊べる体験版が本日配信開始。製品版へセーブデータ引き継ぎ可能",
       "summary": "カプコンは、Nintendo Switch 2用ハンティングアクション「モンスターハンターワイルズ」の体験版の配信を本日10月20日より開始した。",
       "url": "https://game.watch.impress.co.jp/docs/news/2149534.html",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2149/534/002.jpg",
+      "image": "https://cimg.kgl-systems.io/camion/files/91474/ogp_oDPH.jpg?x=1280",
       "leadSource": "GAME Watch",
       "publishedAt": "2026-10-20T03:21:00.000Z",
       "sourceCount": 14,
@@ -356,6 +356,34 @@
       ]
     },
     {
+      "id": "7181739839a8",
+      "title": "YouTube「エバースのNintendo Switch 2 でゲームやろうぜ！」第6回『モンスターハンターワイルズ』篇公開！",
+      "summary": "",
+      "url": "https://www.capcom-games.com/ja-jp/20261020/evers_yt/",
+      "image": "https://www.capcom-games.com/product/wp-content/themes/game/asset/common/images/common/share.png",
+      "leadSource": "CAPCOM",
+      "publishedAt": "2026-10-20T06:26:38.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "community",
+        "other"
+      ],
+      "keywords": [
+        "モンスターハンターワイルズ",
+        "エバース"
+      ],
+      "articles": [
+        {
+          "title": "『モンスターハンターワイルズ』をお笑いコンビ「エバース」とゲーム実況者「よしなま」が実況プレイした映像が本日公開！",
+          "url": "https://prtimes.jp/main/html/rd/p/000006126.000013450.html",
+          "source": "PR TIMES",
+          "publishedAt": "2026-10-20T06:26:38.000Z",
+          "isPR": true
+        }
+      ]
+    },
+    {
       "id": "b7a2699567e6",
       "title": "Switch2版『モンハンワイルズ』体験版が配信開始。チャタカブラ、ケマトリスを狩猟できる。ローカル通信のマルチプレイ対応",
       "summary": "",
@@ -411,13 +439,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-20T06:00:14.659Z",
-    "previousCount": 63,
+    "previousAt": "2026-10-20T06:30:16.460Z",
+    "previousCount": 59,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-20T07:00:16.460Z",
+  "nextUpdateAt": "2026-10-20T07:30:17.531Z",
   "items": [
+    {
+      "id": "690e973a5477",
+      "title": "『モンスターハンターワイルズ』をお笑いコンビ「エバース」とゲーム実況者「よしなま」が実況プレイした映像が本日公開！",
+      "url": "https://prtimes.jp/main/html/rd/p/000006126.000013450.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-10-20T06:26:38.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/13450/6126/13450-6126-f15f0998427e08f0c6798e3fe7a3e4d4-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "community"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "7181739839a8",
       "title": "YouTube「エバースのNintendo Switch 2 でゲームやろうぜ！」第6回『モンスターハンターワイルズ』篇公開！",
@@ -437,7 +486,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5b3c617b35e3",
@@ -573,7 +622,7 @@
       "source": "GAME Watch",
       "summary": "カプコンは、Nintendo Switch 2用ハンティングアクション「モンスターハンターワイルズ」の体験版の配信を本日10月20日より開始した。",
       "publishedAt": "2026-10-20T02:56:06.000Z",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2149/534/002.jpg",
+      "image": "",
       "categories": [
         "new"
       ],
@@ -903,11 +952,11 @@
     {
       "id": "ebc69b49dc91",
       "title": "『モンスターハンター』の無料体験版は、カプコンの株価動向に変化をもたらすか",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd3JhZnJ5cHZOb0RkYll3VEJYQTRham9TWHhLVFpkeU5hRmM1ZFpxTDlfZk9YU2otY2ROR3hvQlVNQ1BRdkhwU0ZqNzhaNjRVUEdlYkhDRFlZZkYtOUtMMkYxNFAtbXA0MENLM1NGV3E3MDc3cXZ2X2ZWUWJtcUw1OVp3VUNEeTJwUmczY1Nn0gGTAUFVX3lxTFBpTkVnZUdoNlE3cm1ZaEVDdzRZNC1wZUh4OEt1dHFUUzQteDVncFBTcnhPdElmN0tCU0Fzem9yU2luRTZPdnFBaEk4YkpIeEFoVkxWWUlkWWEwanVzcVRUZXVKSVRGRmlFSUpaV2ZvSGdxd2p1b2FnV1h0bU5YNjBOaG5kTEc2c0VrUzdzN2E5ZjJuRQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaU5FZ2VHaDZRN3JtWWhFQ3c0WTQtcGVIeDhLdXRxVFM0LXg1Z3BQU3J4T3RJZjdLQlNBc3pvclNpbkU2T3ZxQWhJOGJKSHhBaFZMVllJZFlhMGp1c3FUVGV1SklURkZpRUlKWldmb0hncXdqdW9hZ1dYdG1OWDYwTmhuZExHNnNFa1M3czdhOWYybkXSAZMBQVVfeXFMUGlORWdlR2g2UTdybVloRUN3NFk0LXBlSHg4S3V0cVRTNC14NWdwUFNyeE90SWY3S0JTQXN6b3JTaW5FNk92cUFoSThiSkh4QWhWTFZZSWRZYTBqdXNxVFRldUpJVEZGaUVJSlpXZm9IZ3F3anVvYWdXWHRtTlg2ME5obmRMRzZzRWtTN3M3YTlmMm5F?oc=5",
       "host": "simplywall.st",
       "source": "Simply Wall Street",
       "summary": "",
-      "publishedAt": "2026-10-19T12:32:58.000Z",
+      "publishedAt": "2026-10-19T12:32:59.000Z",
       "image": "",
       "categories": [
         "new"
@@ -1610,27 +1659,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575036.png?date=1789770113",
       "categories": [
         "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "010ece4575cd",
-      "title": "【モンハンワイルズ】Switch2版の発売日・最新情報【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563066",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-17T06:46:13.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563066.png?date=1780886791",
-      "categories": [
-        "new"
       ],
       "series": [
         "wilds"
