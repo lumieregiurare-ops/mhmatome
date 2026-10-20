@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T07:00:17.531Z",
+  "updatedAt": "2026-10-20T07:30:16.166Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -52,17 +52,17 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 2
+      "count": 3
     },
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 0
+      "count": 1
     },
     {
       "id": "other",
       "label": "その他",
-      "count": 28
+      "count": 27
     }
   ],
   "series": [
@@ -99,12 +99,12 @@
   ],
   "sources": [
     {
-      "name": "GameWith",
-      "count": 12
+      "name": "YouTube",
+      "count": 13
     },
     {
-      "name": "YouTube",
-      "count": 12
+      "name": "GameWith",
+      "count": 11
     },
     {
       "name": "PR TIMES",
@@ -135,15 +135,15 @@
       "count": 2
     },
     {
+      "name": "時事ドットコム",
+      "count": 1
+    },
+    {
       "name": "CAPCOM",
       "count": 1
     },
     {
       "name": "디지털투데이",
-      "count": 1
-    },
-    {
-      "name": "ゲームハック",
       "count": 1
     },
     {
@@ -225,7 +225,7 @@
       "title": "Switch2版「モンハンワイルズ」の序盤を遊べる体験版が本日配信開始。製品版へセーブデータ引き継ぎ可能",
       "summary": "カプコンは、Nintendo Switch 2用ハンティングアクション「モンスターハンターワイルズ」の体験版の配信を本日10月20日より開始した。",
       "url": "https://game.watch.impress.co.jp/docs/news/2149534.html",
-      "image": "https://cimg.kgl-systems.io/camion/files/91474/ogp_oDPH.jpg?x=1280",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2149/534/002.jpg",
       "leadSource": "GAME Watch",
       "publishedAt": "2026-10-20T03:21:00.000Z",
       "sourceCount": 14,
@@ -249,7 +249,7 @@
         },
         {
           "title": "Switch 2版「モンスターハンターワイルズ」の序盤体験版が配信開始！作成したハンターや装備は製品版へ引き継ぎ可能",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPTUlYNW5UMHh4eUpFRmlwVkZBME1SQlFpWFoxY1BGRURVbE1uVWlYTmR0eXA0T0hhZXc3OXpaRzUzWmFfRmU1WUczZVhVR3RFbWpaRFlubWFDQVZBbDdNRk9QX0o3TzBVQ2o4NnVkaGNKODVabDBFaEJBdGvSAYIBQVVfeXFMTjAxRUJELWkwQ2FqQ2h6ZG8tTHlEVllzS2ZuazRHN2Vja0k4bFZ2SUhSQTFyTDFwUU94VFBhNzViaEFhU2FIeXRKcXowLVFCX2puVlg0QWh4WnpxOXFybGVwMGFMVmhKZ01TSzA3MXdpRjIxU0lwdXY2VVhhQzd0UzIwQQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMDFFQkQtaTBDYWpDaHpkby1MeURWWXNLZm5rNEc3ZWNrSThsVnZJSFJBMXJMMXBRT3hUUGE3NWJoQWFTYUh5dEpxejAtUUJfam5WWDRBaHhaenE5cXJsZXAwYUxWaEpnTVNLMDcxd2lGMjFTSXB1djZVWGFDN3RTMjBB0gGCAUFVX3lxTE4wMUVCRC1pMENhakNoemRvLUx5RFZZc0tmbms0RzdlY2tJOGxWdklIUkExckwxcFFPeFRQYTc1YmhBYVNhSHl0SnF6MC1RQl9qblZYNEFoeFp6cTlxcmxlcDBhTFZoSmdNU0swNzF3aUYyMVNJcHV2NlVYYUM3dFMyMEE?oc=5",
           "source": "Saiga NAK",
           "publishedAt": "2026-10-20T03:18:32.000Z",
           "isPR": false
@@ -439,13 +439,35 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-20T06:30:16.460Z",
+    "previousAt": "2026-10-20T07:00:17.531Z",
     "previousCount": 59,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-20T07:30:17.531Z",
+  "nextUpdateAt": "2026-10-20T08:00:16.166Z",
   "items": [
+    {
+      "id": "33144dc184ca",
+      "title": "Nintendo Switch 2 版『モンスターハンターワイルズ』体験版配信記念キャンペーン～【特別支給品】ルーキー応援パックを獲得しよう！～",
+      "url": "https://www.jiji.com/jc/article?k",
+      "host": "jiji.com",
+      "source": "時事ドットコム",
+      "summary": "",
+      "publishedAt": "2026-10-20T06:46:00.000Z",
+      "image": "",
+      "categories": [
+        "new",
+        "event"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "690e973a5477",
       "title": "『モンスターハンターワイルズ』をお笑いコンビ「エバース」とゲーム実況者「よしなま」が実況プレイした映像が本日公開！",
@@ -465,7 +487,7 @@
       "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7181739839a8",
@@ -501,28 +523,6 @@
         "new"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "33144dc184ca",
-      "title": "Nintendo Switch 2 版『モンスターハンターワイルズ』体験版配信記念キャンペーン～【特別支給品】ルーキー応援パックを獲得しよう！",
-      "url": "https://gamehack.jp/386242/amp/",
-      "host": "gamehack.jp",
-      "source": "ゲームハック",
-      "summary": "",
-      "publishedAt": "2026-10-20T04:48:28.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/13450/6127/13450-6127-cc7eb8bf456b5026396da86262be0132-1440x420.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "categories": [
-        "new",
-        "event"
-      ],
-      "series": [
-        "wilds"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -574,7 +574,7 @@
     {
       "id": "c7340f59cd36",
       "title": "Switch 2版「モンスターハンターワイルズ」の序盤体験版が配信開始！作成したハンターや装備は製品版へ引き継ぎ可能",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPTUlYNW5UMHh4eUpFRmlwVkZBME1SQlFpWFoxY1BGRURVbE1uVWlYTmR0eXA0T0hhZXc3OXpaRzUzWmFfRmU1WUczZVhVR3RFbWpaRFlubWFDQVZBbDdNRk9QX0o3TzBVQ2o4NnVkaGNKODVabDBFaEJBdGvSAYIBQVVfeXFMTjAxRUJELWkwQ2FqQ2h6ZG8tTHlEVllzS2ZuazRHN2Vja0k4bFZ2SUhSQTFyTDFwUU94VFBhNzViaEFhU2FIeXRKcXowLVFCX2puVlg0QWh4WnpxOXFybGVwMGFMVmhKZ01TSzA3MXdpRjIxU0lwdXY2VVhhQzd0UzIwQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMDFFQkQtaTBDYWpDaHpkby1MeURWWXNLZm5rNEc3ZWNrSThsVnZJSFJBMXJMMXBRT3hUUGE3NWJoQWFTYUh5dEpxejAtUUJfam5WWDRBaHhaenE5cXJsZXAwYUxWaEpnTVNLMDcxd2lGMjFTSXB1djZVWGFDN3RTMjBB0gGCAUFVX3lxTE4wMUVCRC1pMENhakNoemRvLUx5RFZZc0tmbms0RzdlY2tJOGxWdklIUkExckwxcFFPeFRQYTc1YmhBYVNhSHl0SnF6MC1RQl9qblZYNEFoeFp6cTlxcmxlcDBhTFZoSmdNU0swNzF3aUYyMVNJcHV2NlVYYUM3dFMyMEE?oc=5",
       "host": "saiganak.com",
       "source": "Saiga NAK",
       "summary": "",
@@ -622,7 +622,7 @@
       "source": "GAME Watch",
       "summary": "カプコンは、Nintendo Switch 2用ハンティングアクション「モンスターハンターワイルズ」の体験版の配信を本日10月20日より開始した。",
       "publishedAt": "2026-10-20T02:56:06.000Z",
-      "image": "",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2149/534/002.jpg",
       "categories": [
         "new"
       ],
@@ -952,11 +952,11 @@
     {
       "id": "ebc69b49dc91",
       "title": "『モンスターハンター』の無料体験版は、カプコンの株価動向に変化をもたらすか",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaU5FZ2VHaDZRN3JtWWhFQ3c0WTQtcGVIeDhLdXRxVFM0LXg1Z3BQU3J4T3RJZjdLQlNBc3pvclNpbkU2T3ZxQWhJOGJKSHhBaFZMVllJZFlhMGp1c3FUVGV1SklURkZpRUlKWldmb0hncXdqdW9hZ1dYdG1OWDYwTmhuZExHNnNFa1M3czdhOWYybkXSAZMBQVVfeXFMUGlORWdlR2g2UTdybVloRUN3NFk0LXBlSHg4S3V0cVRTNC14NWdwUFNyeE90SWY3S0JTQXN6b3JTaW5FNk92cUFoSThiSkh4QWhWTFZZSWRZYTBqdXNxVFRldUpJVEZGaUVJSlpXZm9IZ3F3anVvYWdXWHRtTlg2ME5obmRMRzZzRWtTN3M3YTlmMm5F?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd3JhZnJ5cHZOb0RkYll3VEJYQTRham9TWHhLVFpkeU5hRmM1ZFpxTDlfZk9YU2otY2ROR3hvQlVNQ1BRdkhwU0ZqNzhaNjRVUEdlYkhDRFlZZkYtOUtMMkYxNFAtbXA0MENLM1NGV3E3MDc3cXZ2X2ZWUWJtcUw1OVp3VUNEeTJwUmczY1Nn0gGTAUFVX3lxTFBpTkVnZUdoNlE3cm1ZaEVDdzRZNC1wZUh4OEt1dHFUUzQteDVncFBTcnhPdElmN0tCU0Fzem9yU2luRTZPdnFBaEk4YkpIeEFoVkxWWUlkWWEwanVzcVRUZXVKSVRGRmlFSUpaV2ZvSGdxd2p1b2FnV1h0bU5YNjBOaG5kTEc2c0VrUzdzN2E5ZjJuRQ?oc=5",
       "host": "simplywall.st",
       "source": "Simply Wall Street",
       "summary": "",
-      "publishedAt": "2026-10-19T12:32:59.000Z",
+      "publishedAt": "2026-10-19T12:32:58.000Z",
       "image": "",
       "categories": [
         "new"
@@ -1375,6 +1375,28 @@
       "isNew": false
     },
     {
+      "id": "f11902b7dac6",
+      "title": "Vこおちゃペア闘技大会くろおび杯で覚醒してしまうwwペアベスト記録 4′45 モンハンワイルズ",
+      "url": "https://youtu.be/t0iQFBYZmok?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-18T07:24:55.000Z",
+      "image": "",
+      "categories": [
+        "community",
+        "sales"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "46ab930cbc6c",
       "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/563077",
@@ -1636,27 +1658,6 @@
       "summary": "",
       "publishedAt": "2026-10-17T07:53:29.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577811.png?date=1789764143",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f4f222ac2e2d",
-      "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/575036",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-17T07:07:06.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575036.png?date=1789770113",
       "categories": [
         "other"
       ],
