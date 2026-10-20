@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-20T22:30:15.984Z",
+  "updatedAt": "2026-10-20T23:00:16.201Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 55,
+  "total": 58,
   "todayCount": 0,
   "categories": [
     {
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 20
+      "count": 23
     }
   ],
   "series": [
@@ -99,20 +99,16 @@
   ],
   "sources": [
     {
-      "name": "GameWith",
+      "name": "YouTube",
       "count": 11
     },
     {
-      "name": "YouTube",
+      "name": "GameWith",
       "count": 10
     },
     {
-      "name": "ファミ通",
-      "count": 2
-    },
-    {
       "name": "4Gamer.net",
-      "count": 2
+      "count": 4
     },
     {
       "name": "電ファミニコゲーマー",
@@ -120,6 +116,10 @@
     },
     {
       "name": "PR TIMES",
+      "count": 2
+    },
+    {
+      "name": "ファミ通",
       "count": 2
     },
     {
@@ -144,6 +144,10 @@
     },
     {
       "name": "CAPCOM",
+      "count": 1
+    },
+    {
+      "name": "디지털투데이",
       "count": 1
     },
     {
@@ -220,8 +224,8 @@
       "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/sub5-41-1024x576.jpg",
       "leadSource": "電ファミニコゲーマー",
       "publishedAt": "2026-10-20T13:50:17.000Z",
-      "sourceCount": 18,
-      "articleCount": 24,
+      "sourceCount": 17,
+      "articleCount": 22,
       "categories": [
         "guide",
         "new"
@@ -237,13 +241,6 @@
           "url": "https://gamewith.jp/mhwilds/545381",
           "source": "GameWith",
           "publishedAt": "2026-10-20T13:50:17.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『モンスターハンターワイルズ』Switch2向け体験版が配信開始！セーブデータは製品版へ引継ぎ可能！",
-          "url": "https://gamewith.jp/gamedb/10569/articles/64638",
-          "source": "GameWith",
-          "publishedAt": "2026-10-20T05:03:06.000Z",
           "isPR": false
         },
         {
@@ -287,6 +284,13 @@
           "source": "GameWith",
           "publishedAt": "2026-10-20T02:18:17.000Z",
           "isPR": false
+        },
+        {
+          "title": "Switch2版「モンスターハンターワイルズ」の序盤をプレイできる体験版が配信！ローカル通信に対応＆セーブデータは製品版に引き継ぎ可能",
+          "url": "https://www.gamer.ne.jp/news/202610200006/",
+          "source": "Gamer",
+          "publishedAt": "2026-10-20T02:16:00.000Z",
+          "isPR": false
         }
       ]
     },
@@ -299,7 +303,7 @@
       "leadSource": "4Gamer",
       "publishedAt": "2026-10-20T12:13:31.000Z",
       "sourceCount": 5,
-      "articleCount": 6,
+      "articleCount": 8,
       "categories": [
         "other",
         "new"
@@ -315,6 +319,20 @@
           "url": "https://www.4gamer.net/games/051/G105129/screenshot.html?num",
           "source": "4Gamer.net",
           "publishedAt": "2026-10-20T12:13:31.000Z",
+          "isPR": false
+        },
+        {
+          "title": "画像ギャラリー | PC版 モンスターハンターパズル アイルーアイランド いつまでも版",
+          "url": "https://www.4gamer.net/games/051/G105129/screenshot.html?mode",
+          "source": "4Gamer.net",
+          "publishedAt": "2026-10-20T02:14:27.000Z",
+          "isPR": false
+        },
+        {
+          "title": "画像ギャラリー | Android版 モンスターハンターパズル アイルーアイランド いつまでも版",
+          "url": "https://www.4gamer.net/games/051/G105128/screenshot.html?mode",
+          "source": "4Gamer.net",
+          "publishedAt": "2026-10-20T02:13:24.000Z",
           "isPR": false
         },
         {
@@ -404,12 +422,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-20T22:00:16.551Z",
-    "previousCount": 56,
-    "newCount": 0
+    "previousAt": "2026-10-20T22:30:15.984Z",
+    "previousCount": 55,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-20T23:00:15.984Z",
+  "nextUpdateAt": "2026-10-20T23:30:16.201Z",
   "items": [
     {
       "id": "5fc879b1cca5",
@@ -425,27 +443,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3a847101d21f",
-      "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
-      "url": "https://www.famitsu.com/article/images/202610/90097/892948",
-      "host": "famitsu.com",
-      "source": "ファミ通",
-      "summary": "",
-      "publishedAt": "2026-10-20T13:40:12.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90097/cf99687dd719c4e8bc6a39e946c3d9ef7.jpg?x=1280",
-      "categories": [
-        "media"
-      ],
-      "series": [
-        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -685,25 +682,23 @@
       "isNew": false
     },
     {
-      "id": "4218482ebdbd",
-      "title": "『モンスターハンターワイルズ』Switch2向け体験版が配信開始！セーブデータは製品版へ引継ぎ可能！",
-      "url": "https://gamewith.jp/gamedb/10569/articles/64638",
-      "host": "gamewith.jp",
-      "source": "GameWith",
+      "id": "5b3c617b35e3",
+      "title": "Capcom、G-STAR 2026に出展 「ロックマン」「モンハン」新作を韓国初試遊",
+      "url": "https://www.digitaltoday.co.kr/jp/view/117108/capcom-to-attend-g-star-2026-first-korea-playable-demo-of-rockman-and-monster-hunter",
+      "host": "digitaltoday.co.kr",
+      "source": "디지털투데이",
       "summary": "",
-      "publishedAt": "2026-10-20T05:03:06.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/10569/rectangle/64638.png?t=1792472594",
+      "publishedAt": "2026-10-20T05:12:24.000Z",
+      "image": "https://cdn.digitaltoday.co.kr/news/photo/202610/708398_656024_102.png",
       "categories": [
         "new"
       ],
-      "series": [
-        "wilds"
-      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "3a93a9fc09c1",
@@ -898,6 +893,44 @@
       "isNew": false
     },
     {
+      "id": "c62c913fe08b",
+      "title": "画像ギャラリー | PC版 モンスターハンターパズル アイルーアイランド いつまでも版",
+      "url": "https://www.4gamer.net/games/051/G105129/screenshot.html?mode",
+      "host": "4gamer.net",
+      "source": "4Gamer.net",
+      "summary": "",
+      "publishedAt": "2026-10-20T02:14:27.000Z",
+      "image": "https://www.4gamer.net/games/051/G105129/SS/001.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "a3aad94fd181",
+      "title": "画像ギャラリー | Android版 モンスターハンターパズル アイルーアイランド いつまでも版",
+      "url": "https://www.4gamer.net/games/051/G105128/screenshot.html?mode",
+      "host": "4gamer.net",
+      "source": "4Gamer.net",
+      "summary": "",
+      "publishedAt": "2026-10-20T02:13:24.000Z",
+      "image": "https://www.4gamer.net/games/051/G105128/SS/001.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "1d673c77039b",
       "title": "カプコン、「モンスターハンターワイルズ」Ｓｗｉｔｃｈ２向け無料体験版を配信開始――最大４人で協力プレイ - https://kabu-ir.com/",
       "url": "https://kabu-ir.com/article/521826673.html",
@@ -984,12 +1017,12 @@
     {
       "id": "36f28e2a1aa6",
       "title": "スイッチ2版『モンハンワイルズ』序盤体験版が配信開始！データ引き継ぎにも対応するので今のうちにキャラクリしよう―必要空き容量は14GB以上",
-      "url": "http://www.gamespark.jp/article/2026/10/20/173821.html",
+      "url": "https://www.gamespark.jp/article/2026/10/20/173821.html",
       "host": "gamespark.jp",
       "source": "Game*Spark",
-      "summary": "セーブデータ引き継ぎにも対応し、製品版は12月4日発売。",
+      "summary": "",
       "publishedAt": "2026-10-20T01:29:45.000Z",
-      "image": "http://www.gamespark.jp/imgs/rss/1206630.jpg",
+      "image": "https://www.gamespark.jp/imgs/ogp_f/1206630.jpg",
       "categories": [
         "new"
       ],
@@ -1141,6 +1174,27 @@
         "guide"
       ],
       "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "3a847101d21f",
+      "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
+      "url": "https://www.famitsu.com/article/images/202610/90097/892950",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-10-19T18:52:32.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90097/c135007e7085979a7d5b41ce54c0e54d7.jpg?x=1280",
+      "categories": [
+        "media"
+      ],
+      "series": [
+        "stories"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1407,6 +1461,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "31e1de58faaf",
+      "title": "【ド素人】シリーズ経験者とは思えないプレイを見せるハンター【モンスターハンターワイルズ】※ネタバレ注意 #1",
+      "url": "https://youtu.be/7_Lx3DIwjys",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-18T09:00:04.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "098e57fd95e9",
