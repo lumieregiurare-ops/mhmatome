@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-20T11:00:17.294Z",
+  "updatedAt": "2026-10-20T11:30:16.141Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 61,
-  "todayCount": 27,
+  "total": 58,
+  "todayCount": 24,
   "categories": [
     {
       "id": "new",
@@ -32,7 +32,7 @@
     {
       "id": "goods",
       "label": "グッズ・フィギュア",
-      "count": 2
+      "count": 1
     },
     {
       "id": "media",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 27
+      "count": 25
     }
   ],
   "series": [
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 3
+      "count": 2
     },
     {
       "id": "outlanders",
@@ -99,12 +99,12 @@
   ],
   "sources": [
     {
-      "name": "YouTube",
-      "count": 13
-    },
-    {
       "name": "GameWith",
       "count": 12
+    },
+    {
+      "name": "YouTube",
+      "count": 10
     },
     {
       "name": "電ファミニコゲーマー",
@@ -135,11 +135,11 @@
       "count": 2
     },
     {
-      "name": "ウォーカープラス",
+      "name": "DMMぱちタウン",
       "count": 2
     },
     {
-      "name": "Infoseek",
+      "name": "PR EDGE",
       "count": 1
     },
     {
@@ -203,15 +203,15 @@
       "count": 1
     },
     {
+      "name": "ウォーカープラス",
+      "count": 1
+    },
+    {
       "name": "Howl.link",
       "count": 1
     },
     {
       "name": "ライブドアニュース",
-      "count": 1
-    },
-    {
-      "name": "DMMぱちタウン",
       "count": 1
     },
     {
@@ -359,10 +359,10 @@
       "id": "690e973a5477",
       "title": "『モンスターハンターワイルズ』をお笑いコンビ「エバース」とゲーム実況者「よしなま」が実況プレイした映像が本日公開！",
       "summary": "",
-      "url": "https://news.infoseek.co.jp/article/prtimes_000006126_000013450/",
-      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
-      "leadSource": "Infoseek",
-      "publishedAt": "2026-10-20T10:15:32.000Z",
+      "url": "https://predge.jp/pr/362511/",
+      "image": "https://img.youtube.com/vi/4qC4ulRLDgE/sddefault.jpg",
+      "leadSource": "PR EDGE",
+      "publishedAt": "2026-10-20T06:26:38.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
@@ -413,34 +413,13 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-20T10:30:18.450Z",
-    "previousCount": 59,
-    "newCount": 6
+    "previousAt": "2026-10-20T11:00:17.294Z",
+    "previousCount": 61,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-20T11:30:17.294Z",
+  "nextUpdateAt": "2026-10-20T12:00:16.141Z",
   "items": [
-    {
-      "id": "690e973a5477",
-      "title": "『モンスターハンターワイルズ』をお笑いコンビ「エバース」とゲーム実況者「よしなま」が実況プレイした映像が本日公開！",
-      "url": "https://news.infoseek.co.jp/article/prtimes_000006126_000013450/",
-      "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
-      "summary": "",
-      "publishedAt": "2026-10-20T10:15:32.000Z",
-      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
-      "categories": [
-        "community"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
     {
       "id": "96362a59960b",
       "title": "Nintendo Switch 2版『モンハンワイルズ 序盤体験版』が配信開始。ローカル通信で最大4人のマルチプレイに対応し、セーブデータは12月4日に発売予定の製品版へと引継ぎ可能",
@@ -452,6 +431,27 @@
       "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/sub5-41-1024x576.jpg",
       "categories": [
         "new"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "690e973a5477",
+      "title": "『モンスターハンターワイルズ』をお笑いコンビ「エバース」とゲーム実況者「よしなま」が実況プレイした映像が本日公開！",
+      "url": "https://predge.jp/pr/362511/",
+      "host": "predge.jp",
+      "source": "PR EDGE",
+      "summary": "",
+      "publishedAt": "2026-10-20T06:26:38.000Z",
+      "image": "https://img.youtube.com/vi/4qC4ulRLDgE/sddefault.jpg",
+      "categories": [
+        "community"
       ],
       "series": [
         "wilds"
@@ -522,7 +522,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "33144dc184ca",
@@ -884,27 +884,6 @@
       "isNew": false
     },
     {
-      "id": "651c168c09e2",
-      "title": "2連続フレーム回避をしたのにアルティメット斬りを外すww #モンハンライズ#太刀#魅せプレイ #モンハン #ゲーム#サンブレイク#傀異討究#開国クシャルダオラ#傀異克服クシャルダオラ",
-      "url": "https://youtu.be/U6KT2STmv0A?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-19T22:50:30.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "e6d79acfa4bd",
       "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
       "url": "https://gamewith.jp/mhwilds/563096",
@@ -943,46 +922,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "75685c4f2833",
-      "title": "MHXXX 超特殊許可 朧隠ホロロホルル モンハン初心者ガンナー超特殊許可制覇したい 覇爆砲イクセユクカム",
-      "url": "https://youtu.be/rDRbTNbEIyU?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-19T15:42:34.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "e97ee940efb2",
-      "title": "【MHS3】モンハンストーリーズ3 初見プレイ！【#1】【ただのプレイ動画】 #バ美肉おじさん #ホリちゃん #モンハン #初見プレイ",
-      "url": "https://youtu.be/ey2Vg6EaXSA?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-19T15:01:12.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "f4f222ac2e2d",
@@ -1163,7 +1102,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0cb380caa3eb",
@@ -1204,25 +1143,6 @@
       "isNew": false
     },
     {
-      "id": "40026d025cba",
-      "title": "“こんがり肉”がクッションに！「モンハン日記 ぽかぽかアイルー村G」が一番くじに登場",
-      "url": "https://www.walkerplus.com/article/24741/",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-10-19T06:03:14.000Z",
-      "image": "https://news.walkerplus.com/article/24741/104236_615.jpg",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "712342e44eb5",
       "title": "『モンスターハンターパズル アイルーアイランド』2027年1月14日サービス終了。買い切り版の『いつまでも版』が11月12日発売予定",
       "url": "https://dengekionline.com/article/202610/91384",
@@ -1260,7 +1180,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5fc879b1cca5",
@@ -1471,6 +1391,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "dfc29c6658af",
+      "title": "【設定6実戦】『スマスロ モンスターハンターライズ：サンブレイク』の設定差考察！ CZ・終了画面",
+      "url": "https://p-town.dmm.com/specials/5456",
+      "host": "p-town.dmm.com",
+      "source": "DMMぱちタウン",
+      "summary": "",
+      "publishedAt": "2026-10-18T07:00:00.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "2b2a6ce8b901",
