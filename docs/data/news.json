@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T08:30:21.320Z",
+  "updatedAt": "2026-10-20T09:00:17.704Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -131,7 +131,7 @@
       "count": 2
     },
     {
-      "name": "時事ドットコム",
+      "name": "Excite エキサイト",
       "count": 1
     },
     {
@@ -420,13 +420,35 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-20T08:00:17.912Z",
-    "previousCount": 60,
-    "newCount": 2
+    "previousAt": "2026-10-20T08:30:21.320Z",
+    "previousCount": 59,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-20T09:00:21.320Z",
+  "nextUpdateAt": "2026-10-20T09:30:17.704Z",
   "items": [
+    {
+      "id": "33144dc184ca",
+      "title": "Nintendo Switch 2 版『モンスターハンターワイルズ』体験版配信記念キャンペーン～【特別支給品】ルーキー応援パックを獲得しよう！",
+      "url": "http://www.excite.co.jp/news/article/Prtimes_2026-10-20-13450-6127/",
+      "host": "excite.co.jp",
+      "source": "Excite エキサイト",
+      "summary": "",
+      "publishedAt": "2026-10-20T08:15:00.000Z",
+      "image": "",
+      "categories": [
+        "new",
+        "event"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "96362a59960b",
       "title": "Nintendo Switch 2版『モンハンワイルズ 序盤体験版』が配信開始。ローカル通信で最大4人のマルチプレイに対応し、セーブデータは12月4日に発売予定の製品版へと引継ぎ可能",
@@ -438,28 +460,6 @@
       "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/sub5-41-1024x576.jpg",
       "categories": [
         "new"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "33144dc184ca",
-      "title": "Nintendo Switch 2 版『モンスターハンターワイルズ』体験版配信記念キャンペーン～【特別支給品】ルーキー応援パックを獲得しよう！～",
-      "url": "https://www.jiji.com/jc/article?k",
-      "host": "jiji.com",
-      "source": "時事ドットコム",
-      "summary": "",
-      "publishedAt": "2026-10-20T06:46:00.000Z",
-      "image": "",
-      "categories": [
-        "new",
-        "event"
       ],
       "series": [
         "wilds"
@@ -1273,7 +1273,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "22f58a63d794",
