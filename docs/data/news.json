@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T04:30:17.202Z",
+  "updatedAt": "2026-10-20T05:00:18.483Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -12,7 +12,7 @@
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 19
+      "count": 20
     },
     {
       "id": "update",
@@ -22,7 +22,7 @@
     {
       "id": "event",
       "label": "イベント・クエスト",
-      "count": 1
+      "count": 2
     },
     {
       "id": "collab",
@@ -32,7 +32,7 @@
     {
       "id": "goods",
       "label": "グッズ・フィギュア",
-      "count": 1
+      "count": 2
     },
     {
       "id": "media",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 36
+      "count": 34
     }
   ],
   "series": [
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 8
+      "count": 7
     },
     {
       "id": "now",
@@ -100,11 +100,15 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 22
+      "count": 20
     },
     {
       "name": "GameWith",
       "count": 13
+    },
+    {
+      "name": "PR TIMES",
+      "count": 2
     },
     {
       "name": "ファミ通",
@@ -124,6 +128,10 @@
     },
     {
       "name": "電ファミニコゲーマー",
+      "count": 2
+    },
+    {
+      "name": "ウォーカープラス",
       "count": 2
     },
     {
@@ -159,10 +167,6 @@
       "count": 1
     },
     {
-      "name": "PR TIMES",
-      "count": 1
-    },
-    {
       "name": "gamebiz【ゲームビズ】",
       "count": 1
     },
@@ -184,10 +188,6 @@
     },
     {
       "name": "AppBank",
-      "count": 1
-    },
-    {
-      "name": "ウォーカープラス",
       "count": 1
     },
     {
@@ -230,7 +230,7 @@
       "articles": [
         {
           "title": "Switch2版『モンハン ワイルズ』セーブデータを引き継げる序盤体験版が配信開始。最大4人でのローカルマルチプレイも可能",
-          "url": "https://dengekionline.com/article/202610/91474",
+          "url": "http://news.dengeki.com/article/202610/91474",
           "source": "電撃オンライン",
           "publishedAt": "2026-10-20T03:21:00.000Z",
           "isPR": false
@@ -351,41 +351,6 @@
       ]
     },
     {
-      "id": "4b29926c5e23",
-      "title": "【MHWilds】★10 英雄の証 ネコ火事場ヘビィボウガン 完全ソロ 14'59\"36【モンハンワイルズ】",
-      "summary": "",
-      "url": "https://youtu.be/hgf8uLVvZ8U?si",
-      "image": "",
-      "leadSource": "YouTube",
-      "publishedAt": "2026-10-18T12:53:03.000Z",
-      "sourceCount": 2,
-      "articleCount": 3,
-      "categories": [
-        "other"
-      ],
-      "keywords": [
-        "モンハンワイルズ",
-        "mhwilds",
-        "英雄"
-      ],
-      "articles": [
-        {
-          "title": "【モンハンワイルズ】 #669久々モンハンたまにはモンハン 【参加型】【MHWilds】",
-          "url": "https://t.co/guE4iwlfZJ",
-          "source": "Howl.link",
-          "publishedAt": "2026-10-18T12:08:19.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ】英雄の証 一般カリピストによる初見プレイ 狩猟笛ソロ 34分39秒【MHWilds/PC】",
-          "url": "https://youtu.be/p09Ej2xyQuc",
-          "source": "YouTube",
-          "publishedAt": "2026-10-18T04:39:13.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "26b9c1c9341d",
       "title": "【モンハンアセンダンス】最新情報＆PV2間近！？パリゲームズウィークに期待を寄せるハゲ #モンハンワイルズ #アセンダンス",
       "summary": "",
@@ -448,6 +413,33 @@
       ]
     },
     {
+      "id": "4b29926c5e23",
+      "title": "【MHWilds】★10 英雄の証 ネコ火事場ヘビィボウガン 完全ソロ 14'59\"36【モンハンワイルズ】",
+      "summary": "",
+      "url": "https://youtu.be/hgf8uLVvZ8U?si",
+      "image": "",
+      "leadSource": "YouTube",
+      "publishedAt": "2026-10-18T12:53:03.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "モンハンワイルズ",
+        "mhwilds"
+      ],
+      "articles": [
+        {
+          "title": "【モンハンワイルズ】 #669久々モンハンたまにはモンハン 【参加型】【MHWilds】",
+          "url": "https://t.co/guE4iwlfZJ",
+          "source": "Howl.link",
+          "publishedAt": "2026-10-18T12:08:19.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "f5ac57766afa",
       "title": "【モンハンワイルズ 配信まとめ その86〜90】スラアクで挑む歴戦王とカウンター練習！還暦じじいの狩られ道（四捨五入すると60歳、還暦的なPS5版モンスターハンターワイルズ。令和に生きる狩られ道）",
       "summary": "",
@@ -477,13 +469,35 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-20T04:00:16.406Z",
-    "previousCount": 66,
+    "previousAt": "2026-10-20T04:30:17.202Z",
+    "previousCount": 65,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-20T05:00:17.202Z",
+  "nextUpdateAt": "2026-10-20T05:30:18.483Z",
   "items": [
+    {
+      "id": "33144dc184ca",
+      "title": "Nintendo Switch 2 版『モンスターハンターワイルズ』体験版配信記念キャンペーン～【特別支給品】ルーキー応援パックを獲得しよう！～",
+      "url": "https://prtimes.jp/main/html/rd/p/000006127.000013450.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-10-20T04:31:12.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/13450/6127/13450-6127-cc7eb8bf456b5026396da86262be0132-1440x420.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "new",
+        "event"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "b7a2699567e6",
       "title": "Switch2版『モンハンワイルズ』体験版が配信開始。チャタカブラ、ケマトリスを狩猟できる。ローカル通信のマルチプレイ対応",
@@ -503,13 +517,13 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "148b46684296",
       "title": "Switch2版『モンハン ワイルズ』セーブデータを引き継げる序盤体験版が配信開始。最大4人でのローカルマルチプレイも可能",
-      "url": "https://dengekionline.com/article/202610/91474",
-      "host": "dengekionline.com",
+      "url": "http://news.dengeki.com/article/202610/91474",
+      "host": "news.dengeki.com",
       "source": "電撃オンライン",
       "summary": "",
       "publishedAt": "2026-10-20T03:21:00.000Z",
@@ -713,7 +727,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "960f13d0b992",
@@ -855,25 +869,6 @@
         "wilds",
         "world"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "75685c4f2833",
-      "title": "MHXXX 超特殊許可 朧隠ホロロホルル モンハン初心者ガンナー超特殊許可制覇したい 覇爆砲イクセユクカム",
-      "url": "https://youtu.be/rDRbTNbEIyU?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-19T15:42:34.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1162,6 +1157,25 @@
       "isNew": false
     },
     {
+      "id": "40026d025cba",
+      "title": "“こんがり肉”がクッションに！「モンハン日記 ぽかぽかアイルー村G」が一番くじに登場",
+      "url": "https://www.walkerplus.com/article/24741/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-19T06:03:14.000Z",
+      "image": "https://news.walkerplus.com/article/24741/104236_615.jpg",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "712342e44eb5",
       "title": "『モンスターハンターパズル アイルーアイランド』2027年1月14日サービス終了。買い切り版の『いつまでも版』が11月12日発売予定",
       "url": "https://dengekionline.com/article/202610/91384",
@@ -1427,28 +1441,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "91d6e639da27",
-      "title": "【モンハンワイルズ】英雄の証 一般カリピストによる初見プレイ 狩猟笛ソロ 34分39秒【MHWilds/PC】",
-      "url": "https://youtu.be/p09Ej2xyQuc",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-18T04:39:13.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
       ],
       "isOfficial": false,
       "isPR": false,
