@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-20T13:30:16.380Z",
+  "updatedAt": "2026-10-20T14:00:16.364Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 61,
+  "total": 58,
   "todayCount": 25,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 23
+      "count": 22
     },
     {
       "id": "update",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 7
+      "count": 8
     },
     {
       "id": "sale",
@@ -52,24 +52,24 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 3
+      "count": 2
     },
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 1
+      "count": 0
     },
     {
       "id": "other",
       "label": "その他",
-      "count": 26
+      "count": 24
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 41
+      "count": 40
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 6
+      "count": 5
     },
     {
       "id": "now",
@@ -100,11 +100,11 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 14
+      "count": 11
     },
     {
       "name": "GameWith",
-      "count": 10
+      "count": 11
     },
     {
       "name": "電ファミニコゲーマー",
@@ -199,10 +199,6 @@
       "count": 1
     },
     {
-      "name": "ニコニコニュース",
-      "count": 1
-    },
-    {
       "name": "AppBank",
       "count": 1
     },
@@ -233,7 +229,7 @@
       "leadSource": "電ファミニコゲーマー",
       "publishedAt": "2026-10-20T08:04:31.000Z",
       "sourceCount": 17,
-      "articleCount": 19,
+      "articleCount": 20,
       "categories": [
         "new",
         "guide"
@@ -310,8 +306,8 @@
       "image": "https://www.4gamer.net/games/804/G080469/20261019019/SS/001.jpg",
       "leadSource": "4Gamer",
       "publishedAt": "2026-10-19T10:06:07.000Z",
-      "sourceCount": 6,
-      "articleCount": 7,
+      "sourceCount": 5,
+      "articleCount": 6,
       "categories": [
         "other",
         "new"
@@ -341,13 +337,6 @@
           "url": "https://www.4gamer.net/games/051/G105128/",
           "source": "4Gamer.net",
           "publishedAt": "2026-10-19T07:15:06.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『モンスターハンターパズル アイルーランド』2027年1月14日をもってサービス終了を発表。買い切りとなる『いつまでも版』を11月12日に発売へ",
-          "url": "https://news.nicovideo.jp/watch/nw19894045",
-          "source": "ニコニコニュース",
-          "publishedAt": "2026-10-19T06:30:43.000Z",
           "isPR": false
         },
         {
@@ -424,12 +413,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-20T13:00:17.739Z",
-    "previousCount": 59,
-    "newCount": 3
+    "previousAt": "2026-10-20T13:30:16.380Z",
+    "previousCount": 61,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-20T14:00:16.380Z",
+  "nextUpdateAt": "2026-10-20T14:30:16.364Z",
   "items": [
     {
       "id": "690e973a5477",
@@ -1018,27 +1007,6 @@
       "isNew": false
     },
     {
-      "id": "7a53d918034e",
-      "title": "モンスターハンターワールド：アイスボーン Road To Fatalis #mhw #short",
-      "url": "https://youtu.be/Xzt9h1Il35Q?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-19T10:25:29.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "b0371315002a",
       "title": "【復帰勢・初心者向け】歴戦王アルシュベルドに簡単作成装備で勝つ！ガンランス立ち回り＆狩猟解説【モンハンワイルズ】",
       "url": "https://youtu.be/3suQ7WFMC0Q?si",
@@ -1098,6 +1066,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "70688df1f73f",
+      "title": "【モンハンワイルズ】護石周回（護石集め）の効率的なやり方【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/513618",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-19T09:02:11.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/513618.png?date=1755086164",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "1d9869838996",
@@ -1176,25 +1165,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "d98a9e2dbb83",
-      "title": "『モンスターハンターパズル アイルーランド』2027年1月14日をもってサービス終了を発表。買い切りとなる『いつまでも版』を11月12日に発売へ",
-      "url": "https://news.nicovideo.jp/watch/nw19894045",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-10-19T06:30:43.000Z",
-      "image": "",
-      "categories": [
-        "new"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "50216d3e133c",
@@ -1445,28 +1415,6 @@
       "isNew": false
     },
     {
-      "id": "f11902b7dac6",
-      "title": "Vこおちゃペア闘技大会くろおび杯で覚醒してしまうwwペアベスト記録 4′45 モンハンワイルズ",
-      "url": "https://youtu.be/t0iQFBYZmok?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-18T07:24:55.000Z",
-      "image": "",
-      "categories": [
-        "community",
-        "sales"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "dfc29c6658af",
       "title": "【設定6実戦】『スマスロ モンスターハンターライズ：サンブレイク』の設定差考察！ CZ・終了画面",
       "url": "https://p-town.dmm.com/specials/5456",
@@ -1676,27 +1624,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "7031e2304ca9",
-      "title": "野良と爆発事故に合った、とある日のモンハンワイルズ #モンハンワイルズ #monsterhunter",
-      "url": "https://youtu.be/Q9wE0X1YU28?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-17T16:36:16.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     }
   ]
 }
