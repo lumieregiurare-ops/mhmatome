@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-20T22:00:16.551Z",
+  "updatedAt": "2026-10-20T22:30:15.984Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 56,
+  "total": 55,
   "todayCount": 0,
   "categories": [
     {
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 21
+      "count": 20
     }
   ],
   "series": [
@@ -107,8 +107,12 @@
       "count": 10
     },
     {
+      "name": "ファミ通",
+      "count": 2
+    },
+    {
       "name": "4Gamer.net",
-      "count": 3
+      "count": 2
     },
     {
       "name": "電ファミニコゲーマー",
@@ -116,10 +120,6 @@
     },
     {
       "name": "PR TIMES",
-      "count": 2
-    },
-    {
-      "name": "ファミ通",
       "count": 2
     },
     {
@@ -299,7 +299,7 @@
       "leadSource": "4Gamer",
       "publishedAt": "2026-10-20T12:13:31.000Z",
       "sourceCount": 5,
-      "articleCount": 7,
+      "articleCount": 6,
       "categories": [
         "other",
         "new"
@@ -315,13 +315,6 @@
           "url": "https://www.4gamer.net/games/051/G105129/screenshot.html?num",
           "source": "4Gamer.net",
           "publishedAt": "2026-10-20T12:13:31.000Z",
-          "isPR": false
-        },
-        {
-          "title": "画像ギャラリー | Android版 モンスターハンターパズル アイルーアイランド いつまでも版",
-          "url": "https://www.4gamer.net/games/051/G105128/screenshot.html?mode",
-          "source": "4Gamer.net",
-          "publishedAt": "2026-10-20T02:13:24.000Z",
           "isPR": false
         },
         {
@@ -411,12 +404,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-20T21:30:16.723Z",
-    "previousCount": 58,
+    "previousAt": "2026-10-20T22:00:16.551Z",
+    "previousCount": 56,
     "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-20T22:30:16.551Z",
+  "nextUpdateAt": "2026-10-20T23:00:15.984Z",
   "items": [
     {
       "id": "5fc879b1cca5",
@@ -432,6 +425,27 @@
       ],
       "series": [
         "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "3a847101d21f",
+      "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
+      "url": "https://www.famitsu.com/article/images/202610/90097/892948",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-10-20T13:40:12.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90097/cf99687dd719c4e8bc6a39e946c3d9ef7.jpg?x=1280",
+      "categories": [
+        "media"
+      ],
+      "series": [
+        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -884,25 +898,6 @@
       "isNew": false
     },
     {
-      "id": "a3aad94fd181",
-      "title": "画像ギャラリー | Android版 モンスターハンターパズル アイルーアイランド いつまでも版",
-      "url": "https://www.4gamer.net/games/051/G105128/screenshot.html?mode",
-      "host": "4gamer.net",
-      "source": "4Gamer.net",
-      "summary": "",
-      "publishedAt": "2026-10-20T02:13:24.000Z",
-      "image": "https://www.4gamer.net/games/051/G105128/SS/001.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "1d673c77039b",
       "title": "カプコン、「モンスターハンターワイルズ」Ｓｗｉｔｃｈ２向け無料体験版を配信開始――最大４人で協力プレイ - https://kabu-ir.com/",
       "url": "https://kabu-ir.com/article/521826673.html",
@@ -1146,27 +1141,6 @@
         "guide"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3a847101d21f",
-      "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
-      "url": "https://www.famitsu.com/article/images/202610/90097/892950",
-      "host": "famitsu.com",
-      "source": "ファミ通",
-      "summary": "",
-      "publishedAt": "2026-10-19T18:52:32.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90097/c135007e7085979a7d5b41ce54c0e54d7.jpg?x=1280",
-      "categories": [
-        "media"
-      ],
-      "series": [
-        "stories"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
