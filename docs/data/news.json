@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-20T01:00:14.422Z",
+  "updatedAt": "2026-10-20T01:30:13.722Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 68,
-  "todayCount": 8,
+  "total": 69,
+  "todayCount": 10,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 8
+      "count": 10
     },
     {
       "id": "update",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 48
+      "count": 47
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 44
+      "count": 45
     },
     {
       "id": "rise",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 31
+      "count": 30
     },
     {
       "name": "GameWith",
@@ -125,6 +125,14 @@
     {
       "name": "Unisba Media",
       "count": 2
+    },
+    {
+      "name": "Game*Spark",
+      "count": 1
+    },
+    {
+      "name": "PR TIMES",
+      "count": 1
     },
     {
       "name": "shiritomo",
@@ -233,6 +241,49 @@
       ]
     },
     {
+      "id": "36f28e2a1aa6",
+      "title": "スイッチ2版『モンハンワイルズ』序盤体験版が配信開始！データ引き継ぎにも対応するので今のうちにキャラクリしよう―必要空き容量は14GB以上",
+      "summary": "セーブデータ引き継ぎにも対応し、製品版は12月4日発売。",
+      "url": "http://www.gamespark.jp/article/2026/10/20/173821.html",
+      "image": "http://www.gamespark.jp/imgs/rss/1206630.jpg",
+      "leadSource": "Game*Spark",
+      "publishedAt": "2026-10-20T01:29:45.000Z",
+      "sourceCount": 3,
+      "articleCount": 4,
+      "categories": [
+        "new",
+        "guide"
+      ],
+      "keywords": [
+        "モンハンワイルズ",
+        "モンスターハンターワイルズ",
+        "データ"
+      ],
+      "articles": [
+        {
+          "title": "Nintendo Switch 2 『モンスターハンターワイルズ 序盤体験版』を本日10月20日（火）より配信開始。ローカル通信で最大4人のマルチプレイが楽しめ、製品版へセーブデータを引き継ぎ可能！",
+          "url": "https://prtimes.jp/main/html/rd/p/000006118.000013450.html",
+          "source": "PR TIMES",
+          "publishedAt": "2026-10-20T01:08:57.000Z",
+          "isPR": true
+        },
+        {
+          "title": "【モンハンワイルズ】英傑に愛を込めての攻略と報酬【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/545381",
+          "source": "GameWith",
+          "publishedAt": "2026-10-19T00:21:10.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】英雄の証の解放条件と報酬【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/545421",
+          "source": "GameWith",
+          "publishedAt": "2026-10-18T23:20:12.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "4b29926c5e23",
       "title": "【MHWilds】★10 英雄の証 ネコ火事場ヘビィボウガン 完全ソロ 14'59\"36【モンハンワイルズ】",
       "summary": "",
@@ -322,16 +373,86 @@
           "isPR": false
         }
       ]
+    },
+    {
+      "id": "f5ac57766afa",
+      "title": "【モンハンワイルズ 配信まとめ その86〜90】スラアクで挑む歴戦王とカウンター練習！還暦じじいの狩られ道（四捨五入すると60歳、還暦的なPS5版モンスターハンターワイルズ。令和に生きる狩られ道）",
+      "summary": "",
+      "url": "https://youtu.be/9mOEgwkJRFM?si",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563066.png?date=1780886791",
+      "leadSource": "YouTube",
+      "publishedAt": "2026-10-18T01:00:18.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other",
+        "new"
+      ],
+      "keywords": [
+        "モンスターハンターワイルズ",
+        "モンハンワイルズ"
+      ],
+      "articles": [
+        {
+          "title": "【モンハンワイルズ】Switch2版の発売日・最新情報【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563066",
+          "source": "GameWith",
+          "publishedAt": "2026-10-17T06:46:13.000Z",
+          "isPR": false
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-20T00:30:16.129Z",
-    "previousCount": 70,
-    "newCount": 3
+    "previousAt": "2026-10-20T01:00:14.422Z",
+    "previousCount": 68,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-20T01:30:14.422Z",
+  "nextUpdateAt": "2026-10-20T02:00:13.722Z",
   "items": [
+    {
+      "id": "36f28e2a1aa6",
+      "title": "スイッチ2版『モンハンワイルズ』序盤体験版が配信開始！データ引き継ぎにも対応するので今のうちにキャラクリしよう―必要空き容量は14GB以上",
+      "url": "http://www.gamespark.jp/article/2026/10/20/173821.html",
+      "host": "gamespark.jp",
+      "source": "Game*Spark",
+      "summary": "セーブデータ引き継ぎにも対応し、製品版は12月4日発売。",
+      "publishedAt": "2026-10-20T01:29:45.000Z",
+      "image": "http://www.gamespark.jp/imgs/rss/1206630.jpg",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "960f13d0b992",
+      "title": "Nintendo Switch 2 『モンスターハンターワイルズ 序盤体験版』を本日10月20日（火）より配信開始。ローカル通信で最大4人のマルチプレイが楽しめ、製品版へセーブデータを引き継ぎ可能！",
+      "url": "https://prtimes.jp/main/html/rd/p/000006118.000013450.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-10-20T01:08:57.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/13450/6118/13450-6118-1667e4623bf57fbf902539da75f4321f-3840x2160.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "6f79ad79a1b2",
       "title": "『モンハンNow』次元変異ディアブロス亜種襲来!! 支給品2倍＆重ね着交換所も始まった最新イベントガイド",
@@ -796,7 +917,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "712342e44eb5",
@@ -1490,27 +1611,6 @@
       "isNew": false
     },
     {
-      "id": "e82893a27dc3",
-      "title": "【検証】歴戦王アルシュベルドを野良救難で狩ると勝率は〇〇％！？カオスな野良マルチの現実【モンハンワイルズ】",
-      "url": "https://youtu.be/uvSEcCM0I0Q?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-17T10:29:41.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "86bfc1ca88d5",
       "title": "Switch 2版『モンハンワイルズ』が12月6日発売。事前予約なら14%OFF",
       "url": "https://www.gizmodo.jp/article/monster-hunter-wilds-switch2-preorder/",
@@ -1696,7 +1796,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4453b9bbbd1c",
