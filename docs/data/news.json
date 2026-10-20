@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-20T16:30:18.111Z",
+  "updatedAt": "2026-10-20T17:00:14.346Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 58,
+  "total": 59,
   "todayCount": 0,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 24
+      "count": 25
     },
     {
       "id": "update",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 6
+      "count": 5
     },
     {
       "id": "sale",
@@ -52,7 +52,7 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 2
+      "count": 3
     },
     {
       "id": "sales",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 5
+      "count": 6
     },
     {
       "id": "now",
@@ -99,11 +99,11 @@
   ],
   "sources": [
     {
-      "name": "GameWith",
-      "count": 12
+      "name": "YouTube",
+      "count": 13
     },
     {
-      "name": "YouTube",
+      "name": "GameWith",
       "count": 11
     },
     {
@@ -228,8 +228,8 @@
       "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/sub5-41-1024x576.jpg",
       "leadSource": "電ファミニコゲーマー",
       "publishedAt": "2026-10-20T08:04:31.000Z",
-      "sourceCount": 17,
-      "articleCount": 17,
+      "sourceCount": 16,
+      "articleCount": 16,
       "categories": [
         "new",
         "guide"
@@ -421,17 +421,24 @@
       "leadSource": "YouTube",
       "publishedAt": "2026-10-20T08:22:13.000Z",
       "sourceCount": 2,
-      "articleCount": 3,
+      "articleCount": 4,
       "categories": [
         "new",
         "other"
       ],
       "keywords": [
         "モンハンワイルズ",
-        "mhwilds",
-        "switch2"
+        "switch2",
+        "mhwilds"
       ],
       "articles": [
+        {
+          "title": "【ロード時間やカクつき気になる所】モンハンワイルズ序盤体験版遊んでいくー！！体験版はここまで遊べるのね！【Switch2/モンハンワイルズ】",
+          "url": "https://youtu.be/hHx9a3BshDQ",
+          "source": "YouTube",
+          "publishedAt": "2026-10-20T08:11:40.000Z",
+          "isPR": false
+        },
         {
           "title": "【モンハンワイルズ】Switch2体験版フレームレート検証その2(フレームレート優先)【MHWilds】",
           "url": "https://youtu.be/Nl5msXvVuJw",
@@ -505,12 +512,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-20T16:00:15.109Z",
-    "previousCount": 59,
-    "newCount": 1
+    "previousAt": "2026-10-20T16:30:18.111Z",
+    "previousCount": 58,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-20T17:00:18.111Z",
+  "nextUpdateAt": "2026-10-20T17:30:14.346Z",
   "items": [
     {
       "id": "690e973a5477",
@@ -552,7 +559,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a17e094dfac3",
@@ -575,6 +582,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "aca8349664f0",
+      "title": "【ロード時間やカクつき気になる所】モンハンワイルズ序盤体験版遊んでいくー！！体験版はここまで遊べるのね！【Switch2/モンハンワイルズ】",
+      "url": "https://youtu.be/hHx9a3BshDQ",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-20T08:11:40.000Z",
+      "image": "",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "96362a59960b",
@@ -701,6 +729,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "9a71a0c642eb",
+      "title": "【MHWilds】めぇ～たん、ひと狩り行こうよ13最終回【VOICEVOX実況】",
+      "url": "https://youtu.be/T0xyLW3MRRU",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-20T03:30:07.000Z",
+      "image": "",
+      "categories": [
+        "community"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "148b46684296",
@@ -1162,6 +1212,27 @@
       "isNew": false
     },
     {
+      "id": "7a53d918034e",
+      "title": "モンスターハンターワールド：アイスボーン Road To Fatalis #mhw #short",
+      "url": "https://youtu.be/Xzt9h1Il35Q?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-19T10:25:29.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "93e16b62ef46",
       "title": "「モンスターハンターパズル アイルーアイランド」が2027年1月14日をもってサービス終了。買い切り版の「いつまでも版」が11月12日に発売予定",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVT3FsVnBDQTRxTG5Fbnp6ejZsY1lPcDZUeXFLeGJOQnZ6alVRaDNXQkJHMDkzMnRQMlR4eWE5dlZPemI1MmU2cXZXdzkzQTJYQVRXT3Vja0VrcVZOSjNsUVI2UlE3OEZPbWZ4cm1ObnFoU0pE0gF6QVVfeXFMTVhEZ1l0cFdFU29sUlprcnNzRXRtcl9xQTlKSTJsRUFHZElqQW03MV9jN0g0WHNQYTRhZm9oSkpsT2EyOERhYlpVR3ZCS2JhOWlfRGhJV0hWNzVDcmdQUF9QRlJGMEJ3MVE5dDZzVkNveFk1US12alI0Q0E?oc=5",
@@ -1191,27 +1262,6 @@
       "image": "",
       "categories": [
         "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "70688df1f73f",
-      "title": "【モンハンワイルズ】護石周回（護石集め）の効率的なやり方【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/513618",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-19T09:02:11.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/513618.png?date=1755086164",
-      "categories": [
-        "guide"
       ],
       "series": [
         "wilds"
@@ -1355,28 +1405,6 @@
       ],
       "series": [
         "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f94b3ff62c8e",
-      "title": "「モンハンワイルズ/MHW」 マルチ会怪奇現象……👻？",
-      "url": "https://youtu.be/2nza0sJySiA?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-18T15:59:52.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
       ],
       "isOfficial": false,
       "isPR": false,
