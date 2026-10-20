@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-20T02:00:15.644Z",
+  "updatedAt": "2026-10-20T02:30:18.349Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 70,
-  "todayCount": 14,
+  "total": 71,
+  "todayCount": 15,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 14
+      "count": 15
     },
     {
       "id": "update",
@@ -32,7 +32,7 @@
     {
       "id": "goods",
       "label": "グッズ・フィギュア",
-      "count": 2
+      "count": 3
     },
     {
       "id": "media",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 45
+      "count": 44
     }
   ],
   "series": [
@@ -104,7 +104,11 @@
     },
     {
       "name": "GameWith",
-      "count": 16
+      "count": 15
+    },
+    {
+      "name": "ウォーカープラス",
+      "count": 3
     },
     {
       "name": "4Gamer",
@@ -123,12 +127,12 @@
       "count": 2
     },
     {
-      "name": "ウォーカープラス",
+      "name": "Unisba Media",
       "count": 2
     },
     {
-      "name": "Unisba Media",
-      "count": 2
+      "name": "https://kabu-ir.com/",
+      "count": 1
     },
     {
       "name": "Nintendo",
@@ -195,19 +199,26 @@
       "url": "https://www.4gamer.net/games/014/G101402/20261020001/",
       "image": "https://www.4gamer.net/games/014/G101402/20261020001/SS/005.jpg",
       "leadSource": "4Gamer",
-      "publishedAt": "2026-10-20T01:52:58.000Z",
-      "sourceCount": 8,
-      "articleCount": 9,
+      "publishedAt": "2026-10-20T01:57:29.000Z",
+      "sourceCount": 10,
+      "articleCount": 11,
       "categories": [
         "new",
         "guide"
       ],
       "keywords": [
-        "モンスターハンターワイルズ",
         "体験版",
-        "序盤"
+        "モンスターハンターワイルズ",
+        "配信開始"
       ],
       "articles": [
+        {
+          "title": "カプコン、「モンスターハンターワイルズ」Ｓｗｉｔｃｈ２向け無料体験版を配信開始――最大４人で協力プレイ - https://kabu-ir.com/",
+          "url": "https://kabu-ir.com/article/521826673.html",
+          "source": "https://kabu-ir.com/",
+          "publishedAt": "2026-10-20T01:57:29.000Z",
+          "isPR": false
+        },
         {
           "title": "『モンスターハンターワイルズ』の序盤が遊べる体験版がNintendo Switch 2 で本日より配信開始。製品版へのセーブデータ引き継ぎも可能。",
           "url": "https://www.nintendo.com/jp/topics/article/b197b37a-9255-41f2-932f-6583f010254f",
@@ -251,17 +262,10 @@
           "isPR": false
         },
         {
-          "title": "【モンハンワイルズ】英傑に愛を込めての攻略と報酬【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/545381",
-          "source": "GameWith",
-          "publishedAt": "2026-10-19T00:21:10.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ】英雄の証の解放条件と報酬【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/545421",
-          "source": "GameWith",
-          "publishedAt": "2026-10-18T23:20:12.000Z",
+          "title": "『モンスターハンター』の無料体験版は、カプコンの株価動向に変化をもたらすか",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd3JhZnJ5cHZOb0RkYll3VEJYQTRham9TWHhLVFpkeU5hRmM1ZFpxTDlfZk9YU2otY2ROR3hvQlVNQ1BRdkhwU0ZqNzhaNjRVUEdlYkhDRFlZZkYtOUtMMkYxNFAtbXA0MENLM1NGV3E3MDc3cXZ2X2ZWUWJtcUw1OVp3VUNEeTJwUmczY1Nn0gGTAUFVX3lxTFBpTkVnZUdoNlE3cm1ZaEVDdzRZNC1wZUh4OEt1dHFUUzQteDVncFBTcnhPdElmN0tCU0Fzem9yU2luRTZPdnFBaEk4YkpIeEFoVkxWWUlkWWEwanVzcVRUZXVKSVRGRmlFSUpaV2ZvSGdxd2p1b2FnV1h0bU5YNjBOaG5kTEc2c0VrUzdzN2E5ZjJuRQ?oc=5",
+          "source": "Simply Wall Street",
+          "publishedAt": "2026-10-19T12:32:58.000Z",
           "isPR": false
         }
       ]
@@ -430,13 +434,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-20T01:30:13.722Z",
-    "previousCount": 69,
-    "newCount": 4
+    "previousAt": "2026-10-20T02:00:15.644Z",
+    "previousCount": 70,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-20T02:30:15.644Z",
+  "nextUpdateAt": "2026-10-20T03:00:18.349Z",
   "items": [
+    {
+      "id": "1d673c77039b",
+      "title": "カプコン、「モンスターハンターワイルズ」Ｓｗｉｔｃｈ２向け無料体験版を配信開始――最大４人で協力プレイ - https://kabu-ir.com/",
+      "url": "https://kabu-ir.com/article/521826673.html",
+      "host": "kabu-ir.com",
+      "source": "https://kabu-ir.com/",
+      "summary": "",
+      "publishedAt": "2026-10-20T01:57:29.000Z",
+      "image": "",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "d484a931f265",
       "title": "Switch2版「モンスターハンターワイルズ」序盤体験版を本日配信。Chapter1-3まで遊べる。最大4人のローカル通信にも対応",
@@ -456,7 +481,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "309bce02cb53",
@@ -477,7 +502,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6f236d7e94d7",
@@ -498,7 +523,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "36f28e2a1aa6",
@@ -561,7 +586,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6f79ad79a1b2",
@@ -920,7 +945,7 @@
       "source": "4Gamer.net",
       "summary": "",
       "publishedAt": "2026-10-19T07:15:06.000Z",
-      "image": "",
+      "image": "https://www.4gamer.net/games/051/G105130/SS/001.jpg",
       "categories": [
         "other"
       ],
@@ -939,7 +964,7 @@
       "source": "4Gamer.net",
       "summary": "",
       "publishedAt": "2026-10-19T07:15:06.000Z",
-      "image": "",
+      "image": "https://www.4gamer.net/games/051/G105128/SS/001.jpg",
       "categories": [
         "other"
       ],
@@ -1009,6 +1034,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "40026d025cba",
+      "title": "“こんがり肉”がクッションに！「モンハン日記 ぽかぽかアイルー村G」が一番くじに登場",
+      "url": "https://www.walkerplus.com/article/24741/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-19T06:03:14.000Z",
+      "image": "https://news.walkerplus.com/article/24741/104236_615.jpg",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "712342e44eb5",
@@ -1863,27 +1907,6 @@
       "series": [
         "wilds",
         "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "0b68bd1287fd",
-      "title": "【アセンダンス】片手剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/577790",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-17T02:12:20.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577790.png?date=1789746410",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
