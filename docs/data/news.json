@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-20T14:00:16.364Z",
+  "updatedAt": "2026-10-20T14:30:19.713Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 58,
+  "total": 59,
   "todayCount": 25,
   "categories": [
     {
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 24
+      "count": 25
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 40
+      "count": 41
     },
     {
       "id": "rise",
@@ -99,11 +99,11 @@
   ],
   "sources": [
     {
-      "name": "YouTube",
-      "count": 11
+      "name": "GameWith",
+      "count": 12
     },
     {
-      "name": "GameWith",
+      "name": "YouTube",
       "count": 11
     },
     {
@@ -229,7 +229,7 @@
       "leadSource": "電ファミニコゲーマー",
       "publishedAt": "2026-10-20T08:04:31.000Z",
       "sourceCount": 17,
-      "articleCount": 20,
+      "articleCount": 21,
       "categories": [
         "new",
         "guide"
@@ -413,12 +413,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-20T13:30:16.380Z",
-    "previousCount": 61,
+    "previousAt": "2026-10-20T14:00:16.364Z",
+    "previousCount": 58,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-20T14:30:16.364Z",
+  "nextUpdateAt": "2026-10-20T15:00:19.713Z",
   "items": [
     {
       "id": "690e973a5477",
@@ -1086,7 +1086,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1d9869838996",
@@ -1310,6 +1310,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "9ea6638356a8",
+      "title": "【モンハンワイルズ】ダイオウカジキの釣り方と場所【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/487879",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-18T13:57:08.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/487879.png?date=1740939059",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "22f58a63d794",
