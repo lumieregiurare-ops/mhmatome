@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-21T16:00:18.203Z",
+  "updatedAt": "2026-10-21T16:30:21.511Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 57,
+  "total": 60,
   "todayCount": 0,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 29
+      "count": 30
     },
     {
       "id": "update",
@@ -32,7 +32,7 @@
     {
       "id": "goods",
       "label": "グッズ・フィギュア",
-      "count": 1
+      "count": 2
     },
     {
       "id": "media",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 11
+      "count": 12
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 15
+      "count": 16
     }
   ],
   "series": [
@@ -84,7 +84,7 @@
     {
       "id": "now",
       "label": "Now",
-      "count": 6
+      "count": 8
     },
     {
       "id": "stories",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 17
+      "count": 19
     },
     {
       "name": "YouTube",
@@ -115,11 +115,11 @@
       "count": 3
     },
     {
-      "name": "AppBank",
+      "name": "ファミ通",
       "count": 2
     },
     {
-      "name": "ファミ通",
+      "name": "AppBank",
       "count": 2
     },
     {
@@ -129,6 +129,10 @@
     {
       "name": "Saiga NAK",
       "count": 2
+    },
+    {
+      "name": "Dellows News",
+      "count": 1
     },
     {
       "name": "AERA DIGITAL",
@@ -511,13 +515,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-21T15:30:15.591Z",
-    "previousCount": 58,
-    "newCount": 0
+    "previousAt": "2026-10-21T16:00:18.203Z",
+    "previousCount": 57,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-21T16:30:18.203Z",
+  "nextUpdateAt": "2026-10-21T17:00:21.511Z",
   "items": [
+    {
+      "id": "3a847101d21f",
+      "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
+      "url": "https://www.famitsu.com/article/images/202610/90097/892948",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-10-21T10:45:15.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90097/cf99687dd719c4e8bc6a39e946c3d9ef7.jpg?x=1280",
+      "categories": [
+        "media"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "747e52a6933d",
       "title": "Switch2版『モンスターハンターワイルズ』序盤体験版プレイレポ！携帯モードで気軽に一狩り。ベッドでも出先でも快適に遊べる",
@@ -559,6 +584,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "671363df5417",
+      "title": "カプコン、逆転裁判25周年記念商品の予約を開始 モンハンなどの新作グッズも発売",
+      "url": "https://news.dellows.jp/775017/",
+      "host": "news.dellows.jp",
+      "source": "Dellows News",
+      "summary": "",
+      "publishedAt": "2026-10-21T07:52:26.000Z",
+      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/775017_1.jpg",
+      "categories": [
+        "new",
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "7f91b56c8561",
@@ -761,27 +806,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3a847101d21f",
-      "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
-      "url": "https://www.famitsu.com/article/images/202610/90097/892948",
-      "host": "famitsu.com",
-      "source": "ファミ通",
-      "summary": "",
-      "publishedAt": "2026-10-20T13:40:12.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90097/cf99687dd719c4e8bc6a39e946c3d9ef7.jpg?x=1280",
-      "categories": [
-        "media"
-      ],
-      "series": [
-        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1426,11 +1450,11 @@
     {
       "id": "ebc69b49dc91",
       "title": "『モンスターハンター』の無料体験版は、カプコンの株価動向に変化をもたらすか",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd3JhZnJ5cHZOb0RkYll3VEJYQTRham9TWHhLVFpkeU5hRmM1ZFpxTDlfZk9YU2otY2ROR3hvQlVNQ1BRdkhwU0ZqNzhaNjRVUEdlYkhDRFlZZkYtOUtMMkYxNFAtbXA0MENLM1NGV3E3MDc3cXZ2X2ZWUWJtcUw1OVp3VUNEeTJwUmczY1Nn0gGTAUFVX3lxTFBpTkVnZUdoNlE3cm1ZaEVDdzRZNC1wZUh4OEt1dHFUUzQteDVncFBTcnhPdElmN0tCU0Fzem9yU2luRTZPdnFBaEk4YkpIeEFoVkxWWUlkWWEwanVzcVRUZXVKSVRGRmlFSUpaV2ZvSGdxd2p1b2FnV1h0bU5YNjBOaG5kTEc2c0VrUzdzN2E5ZjJuRQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaU5FZ2VHaDZRN3JtWWhFQ3c0WTQtcGVIeDhLdXRxVFM0LXg1Z3BQU3J4T3RJZjdLQlNBc3pvclNpbkU2T3ZxQWhJOGJKSHhBaFZMVllJZFlhMGp1c3FUVGV1SklURkZpRUlKWldmb0hncXdqdW9hZ1dYdG1OWDYwTmhuZExHNnNFa1M3czdhOWYybkXSAZMBQVVfeXFMUGlORWdlR2g2UTdybVloRUN3NFk0LXBlSHg4S3V0cVRTNC14NWdwUFNyeE90SWY3S0JTQXN6b3JTaW5FNk92cUFoSThiSkh4QWhWTFZZSWRZYTBqdXNxVFRldUpJVEZGaUVJSlpXZm9IZ3F3anVvYWdXWHRtTlg2ME5obmRMRzZzRWtTN3M3YTlmMm5F?oc=5",
       "host": "simplywall.st",
       "source": "Simply Wall Street",
       "summary": "",
-      "publishedAt": "2026-10-19T12:32:58.000Z",
+      "publishedAt": "2026-10-19T12:32:59.000Z",
       "image": "",
       "categories": [
         "new"
@@ -1603,6 +1627,27 @@
       "isNew": false
     },
     {
+      "id": "6ce8c85065c5",
+      "title": "【モンハンナウ】キリンイベントの開催情報｜ウィンターハント2025【モンハンNow】",
+      "url": "https://gamewith.jp/monsterhunternow/article/show/481557",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-19T01:33:51.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "ad1e9c9ba7e2",
       "title": "【モンハンナウ】カーニバル2024グローバルの開催期間とクエスト情報【モンハンNow】",
       "url": "https://gamewith.jp/monsterhunternow/article/show/468720",
@@ -1665,6 +1710,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "e532a79f9bb1",
+      "title": "【モンハンナウ】リオレウスの弱点と攻略｜解放条件【モンハンNow】",
+      "url": "https://gamewith.jp/monsterhunternow/article/show/415431",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-19T01:30:07.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "310bc849231e",
