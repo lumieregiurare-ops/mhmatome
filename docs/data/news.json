@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-21T12:00:17.615Z",
+  "updatedAt": "2026-10-21T12:30:15.552Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 57,
+  "total": 56,
   "todayCount": 9,
   "categories": [
     {
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 17
+      "count": 16
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 41
+      "count": 40
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 4
+      "count": 3
     },
     {
       "id": "now",
@@ -196,10 +196,6 @@
     },
     {
       "name": "ウォーカープラス",
-      "count": 1
-    },
-    {
-      "name": "Howl.link",
       "count": 1
     }
   ],
@@ -499,42 +495,15 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "8ec154617ea7",
-      "title": "歴戦王アルシュベルド ガンランスソロのコーチング企画説明【モンハンワイルズ】【MHWilds】",
-      "summary": "",
-      "url": "https://youtu.be/xNimcCKvO9A?si",
-      "image": "",
-      "leadSource": "YouTube",
-      "publishedAt": "2026-10-20T10:00:52.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other"
-      ],
-      "keywords": [
-        "モンハンワイルズ",
-        "mhwilds"
-      ],
-      "articles": [
-        {
-          "title": "【モンハンワイルズ】 #669久々モンハンたまにはモンハン 【参加型】【MHWilds】",
-          "url": "https://t.co/guE4iwlfZJ",
-          "source": "Howl.link",
-          "publishedAt": "2026-10-18T12:08:19.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-21T11:30:20.088Z",
-    "previousCount": 56,
-    "newCount": 4
+    "previousAt": "2026-10-21T12:00:17.615Z",
+    "previousCount": 57,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-21T12:30:17.615Z",
+  "nextUpdateAt": "2026-10-21T13:00:15.552Z",
   "items": [
     {
       "id": "747e52a6933d",
@@ -576,7 +545,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7f91b56c8561",
@@ -597,7 +566,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "690e973a5477",
@@ -954,7 +923,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "36bf38ad62e4",
@@ -1114,7 +1083,7 @@
       "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-10-20T02:56:06.000Z",
-      "image": "",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2149/534/002.jpg",
       "categories": [
         "new"
       ],
@@ -1619,7 +1588,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "310bc849231e",
@@ -1698,28 +1667,6 @@
         "collab"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e141956e25a8",
-      "title": "【モンハンワイルズ】 #669久々モンハンたまにはモンハン 【参加型】【MHWilds】",
-      "url": "https://t.co/guE4iwlfZJ",
-      "host": "t.co",
-      "source": "Howl.link",
-      "summary": "",
-      "publishedAt": "2026-10-18T12:08:19.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
