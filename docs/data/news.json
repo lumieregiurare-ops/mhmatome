@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T17:30:17.970Z",
+  "updatedAt": "2026-10-21T18:00:18.459Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -12,7 +12,7 @@
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 29
+      "count": 28
     },
     {
       "id": "update",
@@ -32,7 +32,7 @@
     {
       "id": "goods",
       "label": "グッズ・フィギュア",
-      "count": 2
+      "count": 1
     },
     {
       "id": "media",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 12
+      "count": 13
     },
     {
       "id": "sale",
@@ -84,7 +84,7 @@
     {
       "id": "now",
       "label": "Now",
-      "count": 8
+      "count": 9
     },
     {
       "id": "stories",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 19
+      "count": 20
     },
     {
       "name": "YouTube",
@@ -129,10 +129,6 @@
     {
       "name": "Saiga NAK",
       "count": 2
-    },
-    {
-      "name": "Dellows News",
-      "count": 1
     },
     {
       "name": "AERA DIGITAL",
@@ -459,12 +455,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-21T17:00:20.156Z",
-    "previousCount": 61,
+    "previousAt": "2026-10-21T17:30:17.970Z",
+    "previousCount": 59,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-21T18:00:17.970Z",
+  "nextUpdateAt": "2026-10-21T18:30:18.459Z",
   "items": [
     {
       "id": "747e52a6933d",
@@ -507,26 +503,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "671363df5417",
-      "title": "カプコン、逆転裁判25周年記念商品の予約を開始 モンハンなどの新作グッズも発売",
-      "url": "https://news.dellows.jp/775017/",
-      "host": "news.dellows.jp",
-      "source": "Dellows News",
-      "summary": "",
-      "publishedAt": "2026-10-21T07:52:26.000Z",
-      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/775017_1.jpg",
-      "categories": [
-        "new",
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "7f91b56c8561",
@@ -1062,7 +1038,7 @@
       "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-10-20T02:56:06.000Z",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2149/534/002.jpg",
+      "image": "",
       "categories": [
         "new"
       ],
@@ -1589,6 +1565,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "49f3c1b6d6f4",
+      "title": "【モンハンナウ】ツィツィヤックの弱点と攻略｜解放条件【モンハンNow】",
+      "url": "https://gamewith.jp/monsterhunternow/article/show/440002",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-19T01:32:34.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "adb858145007",
