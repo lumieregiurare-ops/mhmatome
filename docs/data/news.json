@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-22T13:30:17.289Z",
+  "updatedAt": "2026-10-22T14:00:16.609Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 55,
-  "todayCount": 11,
+  "total": 57,
+  "todayCount": 12,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 32
+      "count": 35
     },
     {
       "id": "update",
@@ -32,7 +32,7 @@
     {
       "id": "goods",
       "label": "グッズ・フィギュア",
-      "count": 0
+      "count": 1
     },
     {
       "id": "media",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 6
+      "count": 4
     },
     {
       "id": "sale",
@@ -52,7 +52,7 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 3
+      "count": 2
     },
     {
       "id": "sales",
@@ -62,29 +62,29 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 13
+      "count": 15
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 41
+      "count": 44
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 1
+      "count": 0
     },
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 1
+      "count": 2
     },
     {
       "id": "now",
       "label": "Now",
-      "count": 5
+      "count": 4
     },
     {
       "id": "stories",
@@ -99,12 +99,12 @@
   ],
   "sources": [
     {
-      "name": "GameWith",
-      "count": 10
+      "name": "YouTube",
+      "count": 15
     },
     {
-      "name": "YouTube",
-      "count": 10
+      "name": "GameWith",
+      "count": 8
     },
     {
       "name": "4Gamer.net",
@@ -135,15 +135,15 @@
       "count": 2
     },
     {
-      "name": "Howl.link",
-      "count": 1
-    },
-    {
       "name": "게임메카",
       "count": 1
     },
     {
-      "name": "KENTWORLD for ゲームレビュー",
+      "name": "ウォーカープラス",
+      "count": 1
+    },
+    {
+      "name": "Dellows News",
       "count": 1
     },
     {
@@ -203,10 +203,6 @@
       "count": 1
     },
     {
-      "name": "Monster Hunter Now",
-      "count": 1
-    },
-    {
       "name": "gamebiz【ゲームビズ】",
       "count": 1
     },
@@ -217,30 +213,43 @@
   ],
   "topics": [
     {
-      "id": "0670a628bfad",
-      "title": "【レビュー】Switch2版モンハンワイルズは大丈夫？体験版を遊んで分かった完成度と注意点",
+      "id": "886aa1c43dcd",
+      "title": "【Switch2版】モンハンワイルズ序盤体験版をやってみた感想。思ったより・・・【モンハンワイルズ】",
       "summary": "",
-      "url": "https://kentworld-blog.com/archives/mhwilds-review.html",
-      "image": "https://kentworld-blog.com/wp-content/uploads/2026/10/52011f34ab80f63a664d691b3f6211fd.jpg",
-      "leadSource": "KENTWORLD for ゲームレビュー",
-      "publishedAt": "2026-10-21T12:15:57.000Z",
+      "url": "https://youtu.be/4nqnQxtL_XM?si",
+      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/10569/rectangle/64712.png?t=1792577299",
+      "leadSource": "YouTube",
+      "publishedAt": "2026-10-21T17:43:35.000Z",
       "sourceCount": 10,
-      "articleCount": 13,
+      "articleCount": 18,
       "categories": [
-        "new",
-        "other"
+        "new"
       ],
       "keywords": [
         "体験版",
-        "モンスターハンターワイルズ",
-        "switch2"
+        "switch2",
+        "モンスターハンターワイルズ"
       ],
       "articles": [
+        {
+          "title": "Switch2版『モンスターハンターワイルズ』序盤体験版プレイレポ！携帯モードで気軽に一狩り。ベッドでも出先でも快適に遊べる",
+          "url": "https://gamewith.jp/gamedb/10569/articles/64712",
+          "source": "GameWith",
+          "publishedAt": "2026-10-21T10:00:35.000Z",
+          "isPR": false
+        },
         {
           "title": "【Switch2】モンスターハンターワイルズ体験版を試してみる【モンハン】#switch2 #モンハン #モンハンワイルズ",
           "url": "https://youtu.be/Qmh4LLsgFFo?si",
           "source": "YouTube",
           "publishedAt": "2026-10-21T02:45:10.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】序盤体験版の引き継ぎ方法・いつまで遊べる？【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/571203",
+          "source": "GameWith",
+          "publishedAt": "2026-10-20T23:05:07.000Z",
           "isPR": false
         },
         {
@@ -251,45 +260,31 @@
           "isPR": false
         },
         {
+          "title": "【本日配信開始！】Switch2でモンハンワイルズが遊べる！？実際にプレイしてみた！【無料体験版】",
+          "url": "https://youtu.be/PKvhLkhOSsI?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-20T09:40:35.000Z",
+          "isPR": false
+        },
+        {
+          "title": "モンハンワイルズswitch2体験版を4kモニターでプレイしてみた。蜂蜜採取～ケマトリス戦【MHWilds】【switch2】【4k】",
+          "url": "https://youtu.be/E8zCA8b_rG0",
+          "source": "YouTube",
+          "publishedAt": "2026-10-20T08:22:13.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【ロード時間やカクつき気になる所】モンハンワイルズ序盤体験版遊んでいくー！！体験版はここまで遊べるのね！【Switch2/モンハンワイルズ】",
+          "url": "https://youtu.be/hHx9a3BshDQ",
+          "source": "YouTube",
+          "publishedAt": "2026-10-20T08:11:40.000Z",
+          "isPR": false
+        },
+        {
           "title": "Switch2版「モンハンワイルズ」の序盤を遊べる体験版が本日配信開始。製品版へセーブデータ引き継ぎ可能",
           "url": "https://game.watch.impress.co.jp/docs/news/2149534.html",
           "source": "GAME Watch",
           "publishedAt": "2026-10-20T02:56:06.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ】Switch2版の発売日・最新情報【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/563066",
-          "source": "GameWith",
-          "publishedAt": "2026-10-20T02:18:17.000Z",
-          "isPR": false
-        },
-        {
-          "title": "Switch2版「モンスターハンターワイルズ」の序盤をプレイできる体験版が配信！ローカル通信に対応＆セーブデータは製品版に引き継ぎ可能",
-          "url": "https://www.gamer.ne.jp/news/202610200006/",
-          "source": "Gamer",
-          "publishedAt": "2026-10-20T02:16:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "Switch2版「モンスターハンターワイルズ」序盤体験版を本日配信。Chapter1-3まで遊べる。最大4人のローカル通信にも対応",
-          "url": "https://www.4gamer.net/games/014/G101402/20261020001/",
-          "source": "4Gamer.net",
-          "publishedAt": "2026-10-20T01:52:58.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『モンスターハンターワイルズ』の序盤が遊べる体験版がNintendo Switch 2 で本日より配信開始。製品版へのセーブデータ引き継ぎも可能。",
-          "url": "https://www.nintendo.com/jp/topics/article/b197b37a-9255-41f2-932f-6583f010254f",
-          "source": "Nintendo",
-          "publishedAt": "2026-10-20T01:42:40.000Z",
-          "isPR": false
-        },
-        {
-          "title": "カプコン、Switch 2版「モンハンワイルズ」体験版を配信開始",
-          "url": "https://voix.jp/biz/news-analysis/180114/",
-          "source": "ニュースメディアVOIX",
-          "publishedAt": "2026-10-20T01:32:19.000Z",
           "isPR": false
         }
       ]
@@ -373,56 +368,6 @@
       ]
     },
     {
-      "id": "d79ae3926f64",
-      "title": "誰も知らなかったチャタカブラの特殊地形ギミック 【モンハンワイルズNintendo Switch2版】 - YouTube",
-      "summary": "",
-      "url": "https://t.co/qjE2pROWso",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/571203.png?date=1785891324",
-      "leadSource": "Howl.link",
-      "publishedAt": "2026-10-22T09:45:34.000Z",
-      "sourceCount": 4,
-      "articleCount": 5,
-      "categories": [
-        "other",
-        "new"
-      ],
-      "keywords": [
-        "モンハンワイルズ",
-        "モンスターハンターワイルズ",
-        "switch2"
-      ],
-      "articles": [
-        {
-          "title": "【Switch2版】モンハンワイルズ序盤体験版をやってみた感想。思ったより・・・【モンハンワイルズ】",
-          "url": "https://youtu.be/4nqnQxtL_XM?si",
-          "source": "YouTube",
-          "publishedAt": "2026-10-21T17:43:35.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ】序盤体験版の引き継ぎ方法・いつまで遊べる？【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/571203",
-          "source": "GameWith",
-          "publishedAt": "2026-10-20T23:05:07.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ】Switch 2版は買い？Steam版と画質・fpsを比較してみた【モンスターハンターワイルズ】",
-          "url": "https://youtu.be/Sl_z1LqmGSw?si",
-          "source": "YouTube",
-          "publishedAt": "2026-10-20T22:00:36.000Z",
-          "isPR": false
-        },
-        {
-          "title": "YouTube「エバースのNintendo Switch 2 でゲームやろうぜ！」第6回『モンスターハンターワイルズ』篇公開！",
-          "url": "https://www.capcom-games.com/ja-jp/20261020/evers_yt/",
-          "source": "CAPCOM",
-          "publishedAt": "2026-10-20T16:16:15.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "9e3e3e175794",
       "title": "『Monster Hunter Now』「モンハンNowハロウィン2026」イベントの詳細が発表！",
       "summary": "",
@@ -466,23 +411,22 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545381.png?date=1771384851",
       "leadSource": "GameWith",
       "publishedAt": "2026-10-22T01:01:08.000Z",
-      "sourceCount": 2,
+      "sourceCount": 3,
       "articleCount": 3,
       "categories": [
         "guide",
-        "new"
+        "other"
       ],
       "keywords": [
         "モンハンワイルズ",
-        "モンスターハンターワイルズ",
-        "報酬"
+        "モンスターハンターワイルズ"
       ],
       "articles": [
         {
-          "title": "【モンハンワイルズ】極熱重鎧グラビモスの報酬と周回装備【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/492800",
-          "source": "GameWith",
-          "publishedAt": "2026-10-20T07:27:10.000Z",
+          "title": "【モンハンワイルズ】Switch 2版は買い？Steam版と画質・fpsを比較してみた【モンスターハンターワイルズ】",
+          "url": "https://youtu.be/Sl_z1LqmGSw?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-20T22:00:36.000Z",
           "isPR": false
         },
         {
@@ -495,41 +439,48 @@
       ]
     },
     {
-      "id": "ad93b7cbf1de",
-      "title": "switch2版大健闘！【モンスターハンターワイルズ】PC版・switch2版比較 #shorts",
+      "id": "690e973a5477",
+      "title": "『モンスターハンターワイルズ』をお笑いコンビ「エバース」とゲーム実況者「よしなま」が実況プレイした映像が本日公開！",
       "summary": "",
-      "url": "https://youtu.be/XRvo8QizFyM?si",
-      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/10569/rectangle/64712.png?t=1792577299",
-      "leadSource": "YouTube",
-      "publishedAt": "2026-10-21T10:12:34.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
+      "url": "https://dot.asahi.com/articles/-/295670",
+      "image": "https://aeradot.ismcdn.jp/mwimgs/5/4/1200xm/img_54443d8388227b7a6fd238aee7e6b71b101215.jpg",
+      "leadSource": "AERA DIGITAL",
+      "publishedAt": "2026-10-21T06:16:21.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
       "categories": [
-        "other",
-        "new"
+        "community",
+        "other"
       ],
       "keywords": [
         "モンスターハンターワイルズ",
-        "switch2"
+        "エバース"
       ],
       "articles": [
         {
-          "title": "Switch2版『モンスターハンターワイルズ』序盤体験版プレイレポ！携帯モードで気軽に一狩り。ベッドでも出先でも快適に遊べる",
-          "url": "https://gamewith.jp/gamedb/10569/articles/64712",
-          "source": "GameWith",
-          "publishedAt": "2026-10-21T10:00:35.000Z",
+          "title": "YouTube「エバースのNintendo Switch 2 でゲームやろうぜ！」第6回『モンスターハンターワイルズ』篇公開！",
+          "url": "https://www.capcom-games.com/ja-jp/20261020/evers_yt/",
+          "source": "CAPCOM",
+          "publishedAt": "2026-10-20T16:16:15.000Z",
+          "isPR": false
+        },
+        {
+          "title": "第6回「エバースのNintendo Switch 2 でゲームやろうぜ！モンスターハンターワイルズ篇」",
+          "url": "https://youtu.be/4qC4ulRLDgE?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-20T05:55:10.000Z",
           "isPR": false
         }
       ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-22T13:00:18.116Z",
-    "previousCount": 42,
-    "newCount": 17
+    "previousAt": "2026-10-22T13:30:17.289Z",
+    "previousCount": 55,
+    "newCount": 10
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-22T14:00:17.289Z",
+  "nextUpdateAt": "2026-10-22T14:30:16.609Z",
   "items": [
     {
       "id": "89c52c877cdd",
@@ -551,27 +502,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "d79ae3926f64",
-      "title": "誰も知らなかったチャタカブラの特殊地形ギミック 【モンハンワイルズNintendo Switch2版】 - YouTube",
-      "url": "https://t.co/qjE2pROWso",
-      "host": "t.co",
-      "source": "Howl.link",
-      "summary": "",
-      "publishedAt": "2026-10-22T09:45:34.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "dce4932e17c7",
@@ -633,6 +563,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "fec99e57a04f",
+      "title": "【モンハン】のんびりデイリーとかやるよ～",
+      "url": "https://youtu.be/t7RJfJnGj1U?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-22T01:45:51.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "9e3e3e175794",
@@ -756,6 +705,25 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "55b0bd5ff9cd",
+      "title": "秋葉原に期間限定「モンハン」ショップが登場！",
+      "url": "https://www.walkerplus.com/article/63257/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-21T16:48:31.000Z",
+      "image": "https://news.walkerplus.com/article/63257/352473_615.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
       "isNew": true
     },
     {
@@ -777,50 +745,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "6f6cd5ddf28b",
-      "title": "【モンハンワイルズ】神様の直感を信じたら★10の強敵が来た！？🤣 #モンハンワイルズ #MHWilds #モンハン #ゲーム実況 #VTuber #shorts",
-      "url": "https://youtu.be/YpnuvZ5EKc0?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-21T12:49:05.000Z",
-      "image": "",
-      "categories": [
-        "community"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "0670a628bfad",
-      "title": "【レビュー】Switch2版モンハンワイルズは大丈夫？体験版を遊んで分かった完成度と注意点",
-      "url": "https://kentworld-blog.com/archives/mhwilds-review.html",
-      "host": "kentworld-blog.com",
-      "source": "KENTWORLD for ゲームレビュー",
-      "summary": "",
-      "publishedAt": "2026-10-21T12:15:57.000Z",
-      "image": "https://kentworld-blog.com/wp-content/uploads/2026/10/52011f34ab80f63a664d691b3f6211fd.jpg",
-      "categories": [
-        "new"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3a847101d21f",
@@ -841,7 +766,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ad93b7cbf1de",
@@ -902,7 +827,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6c6fe5f2a39e",
@@ -917,6 +842,47 @@
         "other"
       ],
       "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "671363df5417",
+      "title": "カプコン、逆転裁判25周年記念商品の予約を開始 モンハンなどの新作グッズも発売",
+      "url": "https://news.dellows.jp/775017/",
+      "host": "news.dellows.jp",
+      "source": "Dellows News",
+      "summary": "",
+      "publishedAt": "2026-10-21T07:52:26.000Z",
+      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/775017_1.jpg",
+      "categories": [
+        "new",
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "7f91b56c8561",
+      "title": "雰囲気モンハン勢が闘技ガチ勢とペアをやるとこうなる【モンハンワイルズ】 #shorts",
+      "url": "https://youtu.be/2N9rLcA9kF0?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-21T06:50:04.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1068,7 +1034,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "96543e7ded25",
@@ -1089,7 +1055,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7181739839a8",
@@ -1113,18 +1079,106 @@
       "isNew": false
     },
     {
-      "id": "7b3d1c3825c0",
-      "title": "【チャレンジクエスト】歴戦王アルシュベルド弓ソロ 4分59秒51 討伐傷複数同時破壊、歴戦傷ダウンなし",
-      "url": "https://youtu.be/QiMu7xL9Vuo?si",
+      "id": "5e95ae92340c",
+      "title": "Switch2版がスゴい！？【モンスターハンターワイルズ】Switch２版・PC版比較",
+      "url": "https://youtu.be/nV2RNkOt5tI?si",
       "host": "youtu.be",
       "source": "YouTube",
       "summary": "",
-      "publishedAt": "2026-10-20T08:54:52.000Z",
+      "publishedAt": "2026-10-20T13:42:17.000Z",
       "image": "",
       "categories": [
         "other"
       ],
-      "series": [],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "8ec154617ea7",
+      "title": "歴戦王アルシュベルド ガンランスソロのコーチング企画説明【モンハンワイルズ】【MHWilds】",
+      "url": "https://youtu.be/xNimcCKvO9A?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-20T10:00:52.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "219f95dc353a",
+      "title": "【本日配信開始！】Switch2でモンハンワイルズが遊べる！？実際にプレイしてみた！【無料体験版】",
+      "url": "https://youtu.be/PKvhLkhOSsI?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-20T09:40:35.000Z",
+      "image": "",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "a17e094dfac3",
+      "title": "モンハンワイルズswitch2体験版を4kモニターでプレイしてみた。蜂蜜採取～ケマトリス戦【MHWilds】【switch2】【4k】",
+      "url": "https://youtu.be/E8zCA8b_rG0",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-20T08:22:13.000Z",
+      "image": "",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "aca8349664f0",
+      "title": "【ロード時間やカクつき気になる所】モンハンワイルズ序盤体験版遊んでいくー！！体験版はここまで遊べるのね！【Switch2/モンハンワイルズ】",
+      "url": "https://youtu.be/hHx9a3BshDQ",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-20T08:11:40.000Z",
+      "image": "",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "wilds"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1175,35 +1229,16 @@
       "isNew": false
     },
     {
-      "id": "238497d277a1",
-      "title": "【FF14 PS5Pro】【黄金】初見 護竜アルシュベルド狩猟戦 ～モンスターハンターがサカ・トラルで護竜アルシュベルドに出会った話",
-      "url": "https://youtu.be/LBYhnRkep-M?si",
+      "id": "8f4bea72f3ff",
+      "title": "第6回「エバースのNintendo Switch 2 でゲームやろうぜ！モンスターハンターワイルズ篇」",
+      "url": "https://youtu.be/4qC4ulRLDgE?si",
       "host": "youtu.be",
       "source": "YouTube",
       "summary": "",
-      "publishedAt": "2026-10-20T08:00:35.000Z",
+      "publishedAt": "2026-10-20T05:55:10.000Z",
       "image": "",
       "categories": [
         "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "bc548e8b4345",
-      "title": "【モンハンワイルズ】極熱重鎧グラビモスの報酬と周回装備【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/492800",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-20T07:27:10.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/492800.png?date=1744168629",
-      "categories": [
-        "guide"
       ],
       "series": [
         "wilds"
@@ -1212,7 +1247,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "4218482ebdbd",
@@ -1233,7 +1268,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "62cbb26fd4ad",
@@ -1254,7 +1289,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b7a2699567e6",
@@ -1402,7 +1437,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5fb55bc2264a",
@@ -1531,27 +1566,6 @@
       "isNew": false
     },
     {
-      "id": "3fca56133adc",
-      "title": "【部位破壊スキル効果10倍！】「モンハンNowハロウィン2026」開催！",
-      "url": "https://monsterhunternow.com/ja/news/halloween-2026",
-      "host": "monsterhunternow.com",
-      "source": "Monster Hunter Now",
-      "summary": "",
-      "publishedAt": "2026-10-20T01:14:00.000Z",
-      "image": "https://lh3.googleusercontent.com/Fc6J5cH_FlbFh4i_KV7tPXS6HJ9uiPUeR5MWG56NtO-zfHyNhqSEi2O6Ji2Mknn7rfXMKYSCQs7y9WhJGxgCqMIgeD4kE2WloMSP0i9ifkI=e365-pa-nu-w1200-rj",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "62a953fcf7a2",
       "title": "カプコン、12月4日に発売予定のSwitch 2向け『モンスターハンターワイルズ』の序盤体験版を配信開始 ローカル通信でのマルチプレイにも対応",
       "url": "https://gamebiz.jp/news/434357",
@@ -1634,27 +1648,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "420f3b159eef",
-      "title": "【サンブレイク】護石周回とリセマラのやり方｜護石厳選",
-      "url": "https://gamewith.jp/mhrize/article/show/350830",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-19T20:02:11.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/350830.png?date=1656968522",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "f4f222ac2e2d",
