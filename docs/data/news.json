@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-22T21:30:17.255Z",
+  "updatedAt": "2026-10-22T21:57:44.756Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 59,
+  "total": 60,
   "todayCount": 4,
   "categories": [
     {
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 19
+      "count": 20
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 44
+      "count": 45
     },
     {
       "id": "rise",
@@ -156,6 +156,10 @@
     },
     {
       "name": "CAPCOM",
+      "count": 1
+    },
+    {
+      "name": "Howl.link",
       "count": 1
     },
     {
@@ -534,12 +538,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-22T21:00:16.435Z",
-    "previousCount": 61,
-    "newCount": 0
+    "previousAt": "2026-10-22T21:30:17.255Z",
+    "previousCount": 59,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-22T22:00:17.255Z",
+  "nextUpdateAt": "2026-10-22T22:27:44.756Z",
   "items": [
     {
       "id": "e6d79acfa4bd",
@@ -1181,6 +1185,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "649b704173f6",
+      "title": "【#モンハンワイルズ】いつの間にか受肉してた人と狩る久しぶりのモンハン【#vtuber 】",
+      "url": "https://t.co/cW3dam9pLQ",
+      "host": "t.co",
+      "source": "Howl.link",
+      "summary": "",
+      "publishedAt": "2026-10-20T16:07:57.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "5e95ae92340c",
