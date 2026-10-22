@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-22T17:30:15.645Z",
+  "updatedAt": "2026-10-22T18:00:23.833Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 59,
+  "total": 60,
   "todayCount": 1,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 34
+      "count": 33
     },
     {
       "id": "update",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 17
+      "count": 19
     }
   ],
   "series": [
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 5
+      "count": 4
     },
     {
       "id": "now",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 17
+      "count": 18
     },
     {
       "name": "GameWith",
@@ -236,6 +236,13 @@
           "isPR": false
         },
         {
+          "title": "【モンハンワイルズ】序盤体験版の引き継ぎ方法・いつまで遊べる？【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/571203",
+          "source": "GameWith",
+          "publishedAt": "2026-10-21T15:48:08.000Z",
+          "isPR": false
+        },
+        {
           "title": "『モンスターハンターワイルズ』Switch 2版の序盤体験版が配信開始 ローカル通信での4人プレイに対応 (リアルサウンド)",
           "url": "https://news.yahoo.co.jp/articles/9b079aa141aaaacfef620ce16d17b9c5ab7628ca/images/000",
           "source": "Yahoo!ニュース",
@@ -247,13 +254,6 @@
           "url": "https://www.appbank.net/2026/10/21/game/3138301.php",
           "source": "AppBank",
           "publishedAt": "2026-10-21T00:00:55.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ】序盤体験版の引き継ぎ方法・いつまで遊べる？【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/571203",
-          "source": "GameWith",
-          "publishedAt": "2026-10-20T23:05:07.000Z",
           "isPR": false
         },
         {
@@ -500,12 +500,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-22T17:00:16.031Z",
-    "previousCount": 63,
-    "newCount": 3
+    "previousAt": "2026-10-22T17:30:15.645Z",
+    "previousCount": 59,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-22T18:00:15.645Z",
+  "nextUpdateAt": "2026-10-22T18:30:23.833Z",
   "items": [
     {
       "id": "af3240f60340",
@@ -676,6 +676,25 @@
       "isNew": false
     },
     {
+      "id": "fec99e57a04f",
+      "title": "【モンハン】のんびりデイリーとかやるよ～",
+      "url": "https://youtu.be/t7RJfJnGj1U?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-22T01:45:51.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "9e3e3e175794",
       "title": "『Monster Hunter Now』「モンハンNowハロウィン2026」イベントの詳細が発表！",
       "url": "https://gamewith.jp/gamedb/9422/articles/64732",
@@ -837,7 +856,28 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "6c19198188c0",
+      "title": "【モンハンワイルズ】序盤体験版の引き継ぎ方法・いつまで遊べる？【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/571203",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-21T15:48:08.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/571203.png?date=1785891324",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
     },
     {
       "id": "1c881af0efa6",
@@ -962,6 +1002,27 @@
       "isNew": false
     },
     {
+      "id": "7f91b56c8561",
+      "title": "雰囲気モンハン勢が闘技ガチ勢とペアをやるとこうなる【モンハンワイルズ】 #shorts",
+      "url": "https://youtu.be/2N9rLcA9kF0?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-21T06:50:04.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "ea2ce928c17d",
       "title": "『モンハンNow』ハロウィン2026で“部位破壊スキルの効果10倍”など、秋の特別イベントが開催！",
       "url": "https://dengekionline.com/article/202610/91587",
@@ -1025,27 +1086,6 @@
       "isNew": false
     },
     {
-      "id": "6c19198188c0",
-      "title": "【モンハンワイルズ】序盤体験版の引き継ぎ方法・いつまで遊べる？【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/571203",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-20T23:05:07.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/571203.png?date=1785891324",
-      "categories": [
-        "new"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "0b5bef6cc9df",
       "title": "身内向け無言だらだらプレイ Switch2版モンハンワイルズ 体験版",
       "url": "https://youtu.be/WLgXFbLQcKs?si",
@@ -1065,28 +1105,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "58ae82bb2a88",
-      "title": "【初見】Wilds体験版にて…気持ち良すぎだろww #モンハンワイルズ#太刀#魅せプレイ #MHWs#モンハン #ゲーム#ワイルズ#Wilds#チャタカブラ",
-      "url": "https://youtu.be/puUQxF0mqWY?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-20T22:10:45.000Z",
-      "image": "",
-      "categories": [
-        "new"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "96543e7ded25",
@@ -1170,7 +1188,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "690e973a5477",
