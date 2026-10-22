@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-22T16:00:23.264Z",
+  "updatedAt": "2026-10-22T16:30:16.258Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 61,
-  "todayCount": 0,
+  "total": 60,
+  "todayCount": 1,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 35
+      "count": 34
     },
     {
       "id": "update",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 47
+      "count": 46
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 5
+      "count": 4
     },
     {
       "id": "now",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 19
+      "count": 18
     },
     {
       "name": "GameWith",
@@ -131,8 +131,16 @@
       "count": 2
     },
     {
+      "name": "Yahoo!ニュース",
+      "count": 2
+    },
+    {
       "name": "Infoseek",
       "count": 2
+    },
+    {
+      "name": "インサイド",
+      "count": 1
     },
     {
       "name": "게임메카",
@@ -147,15 +155,7 @@
       "count": 1
     },
     {
-      "name": "Yahoo!ニュース",
-      "count": 1
-    },
-    {
       "name": "CAPCOM",
-      "count": 1
-    },
-    {
-      "name": "Howl.link",
       "count": 1
     },
     {
@@ -196,10 +196,6 @@
     },
     {
       "name": "ニュースメディアVOIX",
-      "count": 1
-    },
-    {
-      "name": "Game*Spark",
       "count": 1
     },
     {
@@ -504,13 +500,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-22T15:30:20.942Z",
-    "previousCount": 60,
-    "newCount": 7
+    "previousAt": "2026-10-22T16:00:23.264Z",
+    "previousCount": 61,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-22T16:30:23.264Z",
+  "nextUpdateAt": "2026-10-22T17:00:16.258Z",
   "items": [
+    {
+      "id": "af3240f60340",
+      "title": "『モンハンワイルズ：アセンダンス』では「ナタ」に代わって「ニャタ」が登場―集落の取次役を代理、名前はもちろんダジャレ",
+      "url": "https://www.inside-games.jp/article/2026/10/23/189662.html",
+      "host": "inside-games.jp",
+      "source": "インサイド",
+      "summary": "成長したナタ、集落の取次役を卒業。代理としてアイルーの新NPC「ニャタ」が登場します。",
+      "publishedAt": "2026-10-22T16:25:02.000Z",
+      "image": "https://www.inside-games.jp/imgs/rss/1797424.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "c830e0f6fe28",
       "title": "【MHWilds】今日のラギアクルス 2026.10.22 - 19.04",
@@ -902,7 +919,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "747e52a6933d",
@@ -942,7 +959,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6c6fe5f2a39e",
@@ -961,7 +978,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ea2ce928c17d",
@@ -1090,28 +1107,6 @@
       "isNew": false
     },
     {
-      "id": "58ae82bb2a88",
-      "title": "【初見】Wilds体験版にて…気持ち良すぎだろww #モンハンワイルズ#太刀#魅せプレイ #MHWs#モンハン #ゲーム#ワイルズ#Wilds#チャタカブラ",
-      "url": "https://youtu.be/puUQxF0mqWY?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-20T22:10:45.000Z",
-      "image": "",
-      "categories": [
-        "new"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "96543e7ded25",
       "title": "【モンハンワイルズ】Switch 2版は買い？Steam版と画質・fpsを比較してみた【モンスターハンターワイルズ】",
       "url": "https://youtu.be/Sl_z1LqmGSw?si",
@@ -1154,27 +1149,6 @@
       "isNew": false
     },
     {
-      "id": "649b704173f6",
-      "title": "【#モンハンワイルズ】いつの間にか受肉してた人と狩る久しぶりのモンハン【#vtuber 】",
-      "url": "https://t.co/cW3dam9pLQ",
-      "host": "t.co",
-      "source": "Howl.link",
-      "summary": "",
-      "publishedAt": "2026-10-20T16:07:57.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "87939ace04ee",
       "title": "【サンブレイク】マカ錬金おすすめと解放条件｜覇気・円環【モンハンライズ】",
       "url": "https://gamewith.jp/mhrize/article/show/349697",
@@ -1214,7 +1188,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "690e973a5477",
@@ -1364,7 +1338,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8f4bea72f3ff",
@@ -1684,13 +1658,13 @@
     },
     {
       "id": "36f28e2a1aa6",
-      "title": "スイッチ2版『モンハンワイルズ』序盤体験版が配信開始！データ引き継ぎにも対応するので今のうちにキャラクリしよう―必要空き容量は14GB以上",
-      "url": "https://www.gamespark.jp/article/2026/10/20/173821.html",
-      "host": "gamespark.jp",
-      "source": "Game*Spark",
+      "title": "スイッチ2版『モンハンワイルズ』序盤体験版が配信開始！データ引き継ぎにも対応するので今のうちにキャラクリしよう―必要空き容量は14GB以上 (Game Spark)",
+      "url": "https://news.yahoo.co.jp/articles/d7da5447a3891668a0ba12740606ded8bfa7f2ae/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-20T01:29:45.000Z",
-      "image": "https://www.gamespark.jp/imgs/ogp_f/1206630.jpg",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnQvBU9wfWsAmR7v5WYkt_MYh-LsM7UGBDWb2u0OLf1QrDeXBptlw8UFWVi_yc1qZAAIw9PCspD2ocztNCIsetcHSEZ4j3dQhLm1jrXxrMa7c",
       "categories": [
         "new"
       ],
