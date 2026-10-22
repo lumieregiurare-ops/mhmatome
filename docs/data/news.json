@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-22T18:30:23.396Z",
+  "updatedAt": "2026-10-22T19:00:17.986Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 59,
+  "total": 62,
   "todayCount": 3,
   "categories": [
     {
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 17
+      "count": 20
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 47
+      "count": 48
     },
     {
       "id": "rise",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 17
+      "count": 18
     },
     {
       "name": "GameWith",
@@ -147,11 +147,19 @@
       "count": 1
     },
     {
+      "name": "ウォーカープラス",
+      "count": 1
+    },
+    {
       "name": "Yahoo!ニュース",
       "count": 1
     },
     {
       "name": "CAPCOM",
+      "count": 1
+    },
+    {
+      "name": "Howl.link",
       "count": 1
     },
     {
@@ -291,7 +299,7 @@
       "title": "Switch2版「モンハンワイルズ」の序盤を遊べる体験版が本日配信開始。製品版へセーブデータ引き継ぎ可能",
       "summary": "",
       "url": "https://game.watch.impress.co.jp/docs/news/2149534.html",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2149/534/002.jpg",
+      "image": "https://www.4gamer.net/games/014/G101402/20261020001/SS/005.jpg",
       "leadSource": "GAME Watch",
       "publishedAt": "2026-10-20T02:56:06.000Z",
       "sourceCount": 6,
@@ -528,12 +536,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-22T18:00:23.833Z",
-    "previousCount": 60,
-    "newCount": 2
+    "previousAt": "2026-10-22T18:30:23.396Z",
+    "previousCount": 59,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-22T19:00:23.396Z",
+  "nextUpdateAt": "2026-10-22T19:30:17.986Z",
   "items": [
     {
       "id": "3292c4e9c190",
@@ -554,7 +562,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "af3240f60340",
@@ -744,6 +752,25 @@
       "isNew": false
     },
     {
+      "id": "fec99e57a04f",
+      "title": "【モンハン】のんびりデイリーとかやるよ～",
+      "url": "https://youtu.be/t7RJfJnGj1U?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-22T01:45:51.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "9e3e3e175794",
       "title": "『Monster Hunter Now』「モンハンNowハロウィン2026」イベントの詳細が発表！",
       "url": "https://gamewith.jp/gamedb/9422/articles/64732",
@@ -868,6 +895,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "55b0bd5ff9cd",
+      "title": "秋葉原に期間限定「モンハン」ショップが登場！",
+      "url": "https://www.walkerplus.com/article/63257/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-21T16:48:31.000Z",
+      "image": "https://news.walkerplus.com/article/63257/352473_615.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "6c19198188c0",
@@ -1116,7 +1162,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "96543e7ded25",
@@ -1159,6 +1205,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "649b704173f6",
+      "title": "【#モンハンワイルズ】いつの間にか受肉してた人と狩る久しぶりのモンハン【#vtuber 】",
+      "url": "https://t.co/cW3dam9pLQ",
+      "host": "t.co",
+      "source": "Howl.link",
+      "summary": "",
+      "publishedAt": "2026-10-20T16:07:57.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "87939ace04ee",
@@ -1529,7 +1596,7 @@
       "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-10-20T02:56:06.000Z",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2149/534/002.jpg",
+      "image": "",
       "categories": [
         "new"
       ],
