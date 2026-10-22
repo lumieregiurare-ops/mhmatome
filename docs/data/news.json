@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-22T21:57:44.756Z",
+  "updatedAt": "2026-10-22T22:30:15.720Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 60,
+  "total": 57,
   "todayCount": 4,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 5
+      "count": 4
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 20
+      "count": 18
     }
   ],
   "series": [
@@ -79,12 +79,12 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 4
+      "count": 5
     },
     {
       "id": "now",
       "label": "Now",
-      "count": 7
+      "count": 6
     },
     {
       "id": "stories",
@@ -100,19 +100,23 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 16
+      "count": 15
     },
     {
       "name": "GameWith",
       "count": 7
     },
     {
-      "name": "Game*Spark",
+      "name": "4Gamer.net",
       "count": 3
     },
     {
-      "name": "4Gamer.net",
-      "count": 3
+      "name": "Game*Spark",
+      "count": 2
+    },
+    {
+      "name": "ファミ通",
+      "count": 2
     },
     {
       "name": "AUTOMATON",
@@ -127,11 +131,11 @@
       "count": 2
     },
     {
-      "name": "ファミ通",
+      "name": "電撃オンライン",
       "count": 2
     },
     {
-      "name": "電撃オンライン",
+      "name": "Infoseek",
       "count": 2
     },
     {
@@ -147,10 +151,6 @@
       "count": 1
     },
     {
-      "name": "ウォーカープラス",
-      "count": 1
-    },
-    {
       "name": "Yahoo!ニュース",
       "count": 1
     },
@@ -160,10 +160,6 @@
     },
     {
       "name": "Howl.link",
-      "count": 1
-    },
-    {
-      "name": "Infoseek",
       "count": 1
     },
     {
@@ -204,10 +200,6 @@
     },
     {
       "name": "ニュースメディアVOIX",
-      "count": 1
-    },
-    {
-      "name": "Monster Hunter Now",
       "count": 1
     },
     {
@@ -482,34 +474,6 @@
       ]
     },
     {
-      "id": "3292c4e9c190",
-      "title": "Switch 2版『モンハンワイルズ』、Xbox Series S版を一部の画質表現で上回る。30fps動作も安定、Digital Foundryが高評価",
-      "summary": "",
-      "url": "https://gamestalk.net/monster-hunter-wilds-switch-2-digital-foundry-tech-analysis/",
-      "image": "https://gamestalk.net/wp-content/uploads/2026/10/MHW2-Switch2-demo_261023.webp",
-      "leadSource": "ゲーム情報！ゲームのはなし",
-      "publishedAt": "2026-10-22T16:47:39.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other"
-      ],
-      "keywords": [
-        "モンハンワイルズ",
-        "fps",
-        "画質"
-      ],
-      "articles": [
-        {
-          "title": "【モンハンワイルズ】Switch 2版は買い？Steam版と画質・fpsを比較してみた【モンスターハンターワイルズ】",
-          "url": "https://youtu.be/Sl_z1LqmGSw?si",
-          "source": "YouTube",
-          "publishedAt": "2026-10-20T22:00:36.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "5fc879b1cca5",
       "title": "【モンハンワイルズ】英傑に愛を込めての攻略と報酬【モンスターハンターワイルズ】",
       "summary": "",
@@ -538,12 +502,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-22T21:30:17.255Z",
-    "previousCount": 59,
+    "previousAt": "2026-10-22T21:57:44.756Z",
+    "previousCount": 60,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-22T22:27:44.756Z",
+  "nextUpdateAt": "2026-10-22T23:00:15.720Z",
   "items": [
     {
       "id": "e6d79acfa4bd",
@@ -620,6 +584,27 @@
       ],
       "series": [
         "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "3a847101d21f",
+      "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
+      "url": "https://www.famitsu.com/article/images/202610/90097/892948",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-10-22T14:25:06.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90097/cf99687dd719c4e8bc6a39e946c3d9ef7.jpg?x=1280",
+      "categories": [
+        "media"
+      ],
+      "series": [
+        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -714,6 +699,28 @@
       "isNew": false
     },
     {
+      "id": "e58813289576",
+      "title": "【MHWilds】フリチャレ「啼き濡れろ、怒りの叢雨」歴戦王ウズ・トゥナ 太刀 食事火事場 討伐 3’04”68",
+      "url": "https://youtu.be/34V9xelXY34?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-22T11:00:34.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "dce4932e17c7",
       "title": "これが噂のオブジェクトヘッド？「モンスターハンターNow」ハロウィンイベント開催予告",
       "url": "https://www.gamemeca.com/ja/view.php?gid",
@@ -768,25 +775,6 @@
       "series": [
         "wilds"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "fec99e57a04f",
-      "title": "【モンハン】のんびりデイリーとかやるよ～",
-      "url": "https://youtu.be/t7RJfJnGj1U?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-22T01:45:51.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -899,25 +887,6 @@
       "isNew": false
     },
     {
-      "id": "55b0bd5ff9cd",
-      "title": "秋葉原に期間限定「モンハン」ショップが登場！",
-      "url": "https://www.walkerplus.com/article/63257/",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-10-21T16:48:31.000Z",
-      "image": "https://news.walkerplus.com/article/63257/352473_615.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "6c19198188c0",
       "title": "【モンハンワイルズ】序盤体験版の引き継ぎ方法・いつまで遊べる？【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/571203",
@@ -952,27 +921,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3a847101d21f",
-      "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
-      "url": "https://www.famitsu.com/article/images/202610/90097/892948",
-      "host": "famitsu.com",
-      "source": "ファミ通",
-      "summary": "",
-      "publishedAt": "2026-10-21T10:45:15.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90097/cf99687dd719c4e8bc6a39e946c3d9ef7.jpg?x=1280",
-      "categories": [
-        "media"
-      ],
-      "series": [
-        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1145,27 +1093,6 @@
       "isNew": false
     },
     {
-      "id": "96543e7ded25",
-      "title": "【モンハンワイルズ】Switch 2版は買い？Steam版と画質・fpsを比較してみた【モンスターハンターワイルズ】",
-      "url": "https://youtu.be/Sl_z1LqmGSw?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-20T22:00:36.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "7181739839a8",
       "title": "YouTube「エバースのNintendo Switch 2 でゲームやろうぜ！」第6回『モンスターハンターワイルズ』篇公開！",
       "url": "https://www.capcom-games.com/ja-jp/20261020/evers_yt/",
@@ -1205,7 +1132,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5e95ae92340c",
@@ -1486,13 +1413,13 @@
     },
     {
       "id": "960f13d0b992",
-      "title": "Nintendo Switch 2 『モンスターハンターワイルズ 序盤体験版』を本日10月20日（火）より配信開始。ローカル通信で最大4人のマルチプレイが楽しめ、製品版へセーブデータを引き継ぎ可能！",
-      "url": "https://www.gamespark.jp/release/prtimes/20261020/322383.html",
-      "host": "gamespark.jp",
-      "source": "Game*Spark",
+      "title": "Nintendo Switch 2 『モンスターハンターワイルズ 序盤体験版』を本日10月20日（火）より配信開始。ローカル通信で最大4人のマルチプレイが楽しめ、製品版へセーブデータを引き継ぎ可能！｜Infoseekニュース",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000006118_000013450/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
       "summary": "",
-      "publishedAt": "2026-10-20T03:16:32.000Z",
-      "image": "https://www.gamespark.jp/release/imgs/list/566202.jpg",
+      "publishedAt": "2026-10-20T03:15:23.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
       "categories": [
         "new"
       ],
@@ -1687,27 +1614,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3fca56133adc",
-      "title": "【部位破壊スキル効果10倍！】「モンハンNowハロウィン2026」開催！",
-      "url": "https://monsterhunternow.com/ja/news/halloween-2026",
-      "host": "monsterhunternow.com",
-      "source": "Monster Hunter Now",
-      "summary": "",
-      "publishedAt": "2026-10-20T01:14:00.000Z",
-      "image": "https://lh3.googleusercontent.com/Fc6J5cH_FlbFh4i_KV7tPXS6HJ9uiPUeR5MWG56NtO-zfHyNhqSEi2O6Ji2Mknn7rfXMKYSCQs7y9WhJGxgCqMIgeD4kE2WloMSP0i9ifkI=e365-pa-nu-w1200-rj",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "now"
       ],
       "isOfficial": false,
       "isPR": false,
