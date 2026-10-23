@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-23T17:00:16.313Z",
+  "updatedAt": "2026-10-23T17:30:15.980Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 64,
+  "total": 70,
   "todayCount": 1,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 18
+      "count": 20
     },
     {
       "id": "update",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 31
+      "count": 35
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 44
+      "count": 48
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 9
+      "count": 10
     },
     {
       "id": "now",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 5
+      "count": 7
     },
     {
       "id": "outlanders",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 30
+      "count": 32
     },
     {
       "name": "GameWith",
@@ -108,7 +108,7 @@
     },
     {
       "name": "AppMedia",
-      "count": 3
+      "count": 5
     },
     {
       "name": "Howl.Link",
@@ -167,6 +167,10 @@
       "count": 1
     },
     {
+      "name": "Howl.link",
+      "count": 1
+    },
+    {
       "name": "電撃オンライン",
       "count": 1
     },
@@ -175,11 +179,64 @@
       "count": 1
     },
     {
+      "name": "ライブドアニュース",
+      "count": 1
+    },
+    {
       "name": "千葉テレビ放送株式会社",
       "count": 1
     }
   ],
   "topics": [
+    {
+      "id": "598b794fb8a8",
+      "title": "写真・図版（1枚目）| Nintendo Switch 2 『モンスターハンターワイルズ 序盤体験版』を本日10月20日（火）より配信開始。ローカル通信で最大4人のマルチプレイが楽しめ、製品版へセーブデータを引き継ぎ可能！",
+      "summary": "",
+      "url": "https://dot.asahi.com/articles/photo/295587",
+      "image": "https://aeradot.ismcdn.jp/mwimgs/f/2/1200xm/img_f26e97715377c8b7c0bfeb9df9b21aa279452.jpg",
+      "leadSource": "AERA DIGITAL",
+      "publishedAt": "2026-10-22T03:13:52.000Z",
+      "sourceCount": 4,
+      "articleCount": 5,
+      "categories": [
+        "new"
+      ],
+      "keywords": [
+        "モンスターハンターワイルズ",
+        "配信開始",
+        "体験版"
+      ],
+      "articles": [
+        {
+          "title": "『モンスターハンターワイルズ』Switch 2体験版が配信開始！ セーブデータは製品版へ引き継ぎ可能",
+          "url": "https://www.appbank.net/2026/10/22/game/3138707.php",
+          "source": "AppBank",
+          "publishedAt": "2026-10-22T01:34:30.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『モンスターハンターワイルズ』Switch 2版の序盤体験版が配信開始 ローカル通信での4人プレイに対応 (リアルサウンド)",
+          "url": "https://news.yahoo.co.jp/articles/9b079aa141aaaacfef620ce16d17b9c5ab7628ca/images/000",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-21T01:31:38.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【画像】『モンスターハンターワイルズ』Switch 2版の序盤体験版が配信開始 ローカル通信での4人プレイに対応",
+          "url": "https://news.livedoor.com/article/image_detail/32617605/?img_id",
+          "source": "ライブドアニュース",
+          "publishedAt": "2026-10-21T01:29:53.000Z",
+          "isPR": false
+        },
+        {
+          "title": "Switch 2版『モンスターハンターワイルズ』序盤体験版が10月20日配信開始！ ローカル通信で最大4人マルチに対応",
+          "url": "https://www.appbank.net/2026/10/21/game/3138301.php",
+          "source": "AppBank",
+          "publishedAt": "2026-10-21T00:00:55.000Z",
+          "isPR": false
+        }
+      ]
+    },
     {
       "id": "a74304b32427",
       "title": "Switch2版モンハンワイルズは買うべき？PS5版とSwitch2体験版の画質やフレームレート、ロード時間を比較してみた！【モンスターハンターワイルズ】",
@@ -295,43 +352,36 @@
       ]
     },
     {
-      "id": "598b794fb8a8",
-      "title": "写真・図版（1枚目）| Nintendo Switch 2 『モンスターハンターワイルズ 序盤体験版』を本日10月20日（火）より配信開始。ローカル通信で最大4人のマルチプレイが楽しめ、製品版へセーブデータを引き継ぎ可能！",
+      "id": "f0a85567f4bf",
+      "title": "【MHWilds】 Charge Blade is Super Amped Elemental Discharge! 証クエでヌシ3頭1000もやってるYO 参加型 【モンスターハンターワイルズ】",
       "summary": "",
-      "url": "https://dot.asahi.com/articles/photo/295587",
-      "image": "https://aeradot.ismcdn.jp/mwimgs/f/2/1200xm/img_f26e97715377c8b7c0bfeb9df9b21aa279452.jpg",
-      "leadSource": "AERA DIGITAL",
-      "publishedAt": "2026-10-22T03:13:52.000Z",
+      "url": "https://t.co/VnoOlZx57a",
+      "image": "",
+      "leadSource": "Howl.Link",
+      "publishedAt": "2026-10-22T15:48:14.000Z",
       "sourceCount": 3,
-      "articleCount": 4,
+      "articleCount": 3,
       "categories": [
-        "new"
+        "other"
       ],
       "keywords": [
         "モンスターハンターワイルズ",
-        "配信開始",
-        "体験版"
+        "mhwilds",
+        "参加型"
       ],
       "articles": [
         {
-          "title": "『モンスターハンターワイルズ』Switch 2体験版が配信開始！ セーブデータは製品版へ引き継ぎ可能",
-          "url": "https://www.appbank.net/2026/10/22/game/3138707.php",
-          "source": "AppBank",
-          "publishedAt": "2026-10-22T01:34:30.000Z",
+          "title": "【MHWilds】今日のラギアクルス 2026.10.22 - 19.04",
+          "url": "https://youtu.be/OFkashFzlkU",
+          "source": "YouTube",
+          "publishedAt": "2026-10-22T13:45:22.000Z",
           "isPR": false
         },
         {
-          "title": "『モンスターハンターワイルズ』Switch 2版の序盤体験版が配信開始 ローカル通信での4人プレイに対応 (リアルサウンド)",
-          "url": "https://news.yahoo.co.jp/articles/9b079aa141aaaacfef620ce16d17b9c5ab7628ca/images/000",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-21T01:31:38.000Z",
-          "isPR": false
-        },
-        {
-          "title": "Switch 2版『モンスターハンターワイルズ』序盤体験版が10月20日配信開始！ ローカル通信で最大4人マルチに対応",
-          "url": "https://www.appbank.net/2026/10/21/game/3138301.php",
-          "source": "AppBank",
-          "publishedAt": "2026-10-21T00:00:55.000Z",
+          "title": "モンスターハンターワイルズ ハンマーに呪われた人【参加型】",
+          "url": "https://t.co/sfF20a55Q3",
+          "source": "Howl.link",
+          "publishedAt": "2026-10-21T05:50:24.000Z",
           "isPR": false
         }
       ]
@@ -370,41 +420,15 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "f0a85567f4bf",
-      "title": "【MHWilds】 Charge Blade is Super Amped Elemental Discharge! 証クエでヌシ3頭1000もやってるYO 参加型 【モンスターハンターワイルズ】",
-      "summary": "",
-      "url": "https://t.co/VnoOlZx57a",
-      "image": "",
-      "leadSource": "Howl.Link",
-      "publishedAt": "2026-10-22T15:48:14.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other"
-      ],
-      "keywords": [
-        "mhwilds"
-      ],
-      "articles": [
-        {
-          "title": "【MHWilds】今日のラギアクルス 2026.10.22 - 19.04",
-          "url": "https://youtu.be/OFkashFzlkU",
-          "source": "YouTube",
-          "publishedAt": "2026-10-22T13:45:22.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-23T16:30:42.157Z",
-    "previousCount": 73,
-    "newCount": 1
+    "previousAt": "2026-10-23T17:00:16.313Z",
+    "previousCount": 64,
+    "newCount": 6
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-23T17:30:16.313Z",
+  "nextUpdateAt": "2026-10-23T18:00:15.980Z",
   "items": [
     {
       "id": "75783d358b12",
@@ -513,6 +537,27 @@
       "isNew": false
     },
     {
+      "id": "5c5a340119cb",
+      "title": "【モンハンストーリーズ3】タルアイルーの倒し方と出現場所【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79819751",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-23T09:55:26.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/124144_ylvib.webp",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "0690eb369f08",
       "title": "2026年9月のPS Storeダウンロードランキングを公開。PS5は「鬼武者 Way of the Sword」，PS4は「MONSTER HUNTER: WORLD」が1位",
       "url": "https://www.4gamer.net/games/085/G008540/20261023035/",
@@ -570,6 +615,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "6fae96ec537f",
+      "title": "【モンハンストーリーズ3】体験版はどこまでできる？｜やっておきたいこと【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79521053",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-23T08:26:33.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2025/11/153717_b6xeo.webp",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "95cb5c1f1a07",
@@ -1053,7 +1119,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "dce4932e17c7",
@@ -1094,6 +1160,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "1f67c0577c89",
+      "title": "【ワイルズ/弓初心者】使用回数70回◆歴戦王アルシュベルド初めての10分切り【PS5/40fps】",
+      "url": "https://youtu.be/l6HOKUqI-U4?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-22T03:30:22.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "598b794fb8a8",
@@ -1221,6 +1308,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "8b8a12b6c9df",
+      "title": "【MHWilds】この鳥達が見る夢は/チャレンジクエスト 【ﾗﾝｽｿﾛ 9′31″76】",
+      "url": "https://youtu.be/PJWcLCpwTUQ?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-21T21:09:49.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "886aa1c43dcd",
@@ -1515,6 +1624,27 @@
       "isNew": false
     },
     {
+      "id": "852fb62e904f",
+      "title": "モンスターハンターワイルズ ハンマーに呪われた人【参加型】",
+      "url": "https://t.co/sfF20a55Q3",
+      "host": "t.co",
+      "source": "Howl.link",
+      "summary": "",
+      "publishedAt": "2026-10-21T05:50:24.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "ea2ce928c17d",
       "title": "『モンハンNow』ハロウィン2026で“部位破壊スキルの効果10倍”など、秋の特別イベントが開催！",
       "url": "https://dengekionline.com/article/202610/91587",
@@ -1618,6 +1748,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "da8004fe2151",
+      "title": "【画像】『モンスターハンターワイルズ』Switch 2版の序盤体験版が配信開始 ローカル通信での4人プレイに対応",
+      "url": "https://news.livedoor.com/article/image_detail/32617605/?img_id",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
+      "summary": "",
+      "publishedAt": "2026-10-21T01:29:53.000Z",
+      "image": "https://image.news.livedoor.com/newsimage/stf/c/7/c7900_1830_3620502b_a6dd8119.jpg",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "36f28e2a1aa6",
