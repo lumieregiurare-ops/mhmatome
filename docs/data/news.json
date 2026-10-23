@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-23T15:30:15.021Z",
+  "updatedAt": "2026-10-23T16:00:16.492Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 68,
+  "total": 71,
   "todayCount": 0,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 19
+      "count": 20
     },
     {
       "id": "update",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 7
+      "count": 8
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 34
+      "count": 35
     }
   ],
   "series": [
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 3
+      "count": 6
     },
     {
       "id": "outlanders",
@@ -107,6 +107,10 @@
       "count": 12
     },
     {
+      "name": "AppMedia",
+      "count": 4
+    },
+    {
       "name": "Howl.Link",
       "count": 2
     },
@@ -121,10 +125,6 @@
     {
       "name": "AppBank",
       "count": 2
-    },
-    {
-      "name": "AppMedia",
-      "count": 1
     },
     {
       "name": "4Gamer",
@@ -487,12 +487,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-23T15:00:18.763Z",
-    "previousCount": 66,
-    "newCount": 5
+    "previousAt": "2026-10-23T15:30:15.021Z",
+    "previousCount": 68,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-23T16:00:15.021Z",
+  "nextUpdateAt": "2026-10-23T16:30:16.492Z",
   "items": [
     {
       "id": "573c89f6733d",
@@ -506,6 +506,27 @@
       "categories": [
         "guide",
         "sales"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "31a0464673f0",
+      "title": "【モンハンストーリーズ2】共闘探索チケットSRの効率的な入手方法【MHST2】",
+      "url": "https://appmedia.jp/mhst2/6661393",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-23T10:19:47.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2021/07/fbfb02930f31951f67a4020f6ec34913.jpg",
+      "categories": [
+        "guide"
       ],
       "series": [
         "stories"
@@ -559,6 +580,27 @@
       "isNew": false
     },
     {
+      "id": "5c5a340119cb",
+      "title": "【モンハンストーリーズ3】タルアイルーの倒し方と出現場所【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79819751",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-23T09:55:26.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/124144_ylvib.webp",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "0690eb369f08",
       "title": "2026年9月のPS Storeダウンロードランキングを公開。PS5は「鬼武者 Way of the Sword」，PS4は「MONSTER HUNTER: WORLD」が1位",
       "url": "https://www.4gamer.net/games/085/G008540/20261023035/",
@@ -596,7 +638,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b045eea5cb61",
@@ -616,6 +658,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "6fae96ec537f",
+      "title": "【モンハンストーリーズ3】体験版はどこまでできる？｜やっておきたいこと【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79521053",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-23T08:26:33.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2025/11/153717_b6xeo.webp",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "5fc879b1cca5",
@@ -782,7 +845,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8c086bb7f518",
@@ -825,7 +888,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3a847101d21f",
@@ -1236,7 +1299,7 @@
       "source": "AppBank",
       "summary": "",
       "publishedAt": "2026-10-22T01:34:30.000Z",
-      "image": "https://www.appbank.net/wp-content/uploads/2026/10/20261020_143525_467_01.webp",
+      "image": "",
       "categories": [
         "new"
       ],
@@ -1760,7 +1823,7 @@
       "source": "AppBank",
       "summary": "",
       "publishedAt": "2026-10-21T00:00:55.000Z",
-      "image": "",
+      "image": "https://www.appbank.net/wp-content/uploads/2026/10/20261020_105917_527_01.webp",
       "categories": [
         "new"
       ],
@@ -1877,7 +1940,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7181739839a8",
