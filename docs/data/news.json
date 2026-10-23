@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-23T06:00:15.579Z",
+  "updatedAt": "2026-10-23T06:30:14.991Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 59,
+  "total": 60,
   "todayCount": 7,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 5
+      "count": 6
     },
     {
       "id": "sale",
@@ -74,12 +74,12 @@
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 0
+      "count": 1
     },
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 10
+      "count": 9
     },
     {
       "id": "now",
@@ -104,7 +104,11 @@
     },
     {
       "name": "GameWith",
-      "count": 6
+      "count": 7
+    },
+    {
+      "name": "ファミ通",
+      "count": 2
     },
     {
       "name": "AUTOMATON",
@@ -116,10 +120,6 @@
     },
     {
       "name": "AppBank",
-      "count": 2
-    },
-    {
-      "name": "ファミ通",
       "count": 2
     },
     {
@@ -429,23 +429,32 @@
       ]
     },
     {
-      "id": "3cea49fe1028",
-      "title": "【モンハンワイルズ】画面も音もなし!?コメントを頼りに狩りをした結果w #MHWs #VTuber",
+      "id": "1c881af0efa6",
+      "title": "簡易領域 #モンハンワイルズ #ラギアクルス #呪術廻戦 #shorts #ゲーム実況",
       "summary": "",
-      "url": "https://youtu.be/Cm6erUmpByk?si",
+      "url": "https://youtu.be/UxcClRw7jDc?si",
       "image": "",
       "leadSource": "YouTube",
-      "publishedAt": "2026-10-21T14:21:28.000Z",
+      "publishedAt": "2026-10-21T13:20:25.000Z",
       "sourceCount": 2,
-      "articleCount": 2,
+      "articleCount": 3,
       "categories": [
+        "community",
         "other"
       ],
       "keywords": [
         "モンハンワイルズ",
-        "vtuber"
+        "shorts",
+        "実況"
       ],
       "articles": [
+        {
+          "title": "【モンハンワイルズ】神様の直感を信じたら★10の強敵が来た！？🤣 #モンハンワイルズ #MHWilds #モンハン #ゲーム実況 #VTuber #shorts",
+          "url": "https://youtu.be/YpnuvZ5EKc0?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-21T12:49:05.000Z",
+          "isPR": false
+        },
         {
           "title": "【#モンハンワイルズ】いつの間にか受肉してた人と狩る久しぶりのモンハン【#vtuber 】",
           "url": "https://t.co/cW3dam9pLQ",
@@ -485,12 +494,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-23T05:30:15.558Z",
+    "previousAt": "2026-10-23T06:00:15.579Z",
     "previousCount": 59,
-    "newCount": 1
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-23T06:30:15.579Z",
+  "nextUpdateAt": "2026-10-23T07:00:14.991Z",
   "items": [
     {
       "id": "f6f8bc3f1de2",
@@ -551,7 +560,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3292c4e9c190",
@@ -631,6 +640,27 @@
       "series": [
         "wilds",
         "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "3a847101d21f",
+      "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
+      "url": "https://www.famitsu.com/article/images/202610/90097/892948",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-10-22T14:25:06.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90097/cf99687dd719c4e8bc6a39e946c3d9ef7.jpg?x=1280",
+      "categories": [
+        "media"
+      ],
+      "series": [
+        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -766,6 +796,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "a2119f0dcdb7",
+      "title": "【モンスターハンターワイルズ 番外編 】アセンンダンス発売までに武器を全部集めよう！スラッシュアックス編・後編",
+      "url": "https://youtu.be/dIU6ef-FqJg?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-22T09:45:21.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "cb58cb1337bb",
@@ -1080,28 +1131,6 @@
       "isNew": false
     },
     {
-      "id": "3cea49fe1028",
-      "title": "【モンハンワイルズ】画面も音もなし!?コメントを頼りに狩りをした結果w #MHWs #VTuber",
-      "url": "https://youtu.be/Cm6erUmpByk?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-21T14:21:28.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "1c881af0efa6",
       "title": "簡易領域 #モンハンワイルズ #ラギアクルス #呪術廻戦 #shorts #ゲーム実況",
       "url": "https://youtu.be/UxcClRw7jDc?si",
@@ -1137,27 +1166,6 @@
       "series": [
         "wilds",
         "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3a847101d21f",
-      "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
-      "url": "https://www.famitsu.com/article/images/202610/90097/892948",
-      "host": "famitsu.com",
-      "source": "ファミ通",
-      "summary": "",
-      "publishedAt": "2026-10-21T10:45:15.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90097/cf99687dd719c4e8bc6a39e946c3d9ef7.jpg?x=1280",
-      "categories": [
-        "media"
-      ],
-      "series": [
-        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1499,6 +1507,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "87939ace04ee",
+      "title": "【サンブレイク】マカ錬金おすすめと解放条件｜覇気・円環【モンハンライズ】",
+      "url": "https://gamewith.jp/mhrize/article/show/349697",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-20T14:18:06.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/349697.png?date=1669320356",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "5e95ae92340c",
