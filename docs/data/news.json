@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T07:00:17.169Z",
+  "updatedAt": "2026-10-23T07:30:15.296Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 47
+      "count": 46
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 10
+      "count": 9
     },
     {
       "id": "now",
@@ -107,6 +107,10 @@
       "count": 6
     },
     {
+      "name": "ファミ通",
+      "count": 2
+    },
+    {
       "name": "AUTOMATON",
       "count": 2
     },
@@ -116,10 +120,6 @@
     },
     {
       "name": "AppBank",
-      "count": 2
-    },
-    {
-      "name": "ファミ通",
       "count": 2
     },
     {
@@ -429,23 +429,32 @@
       ]
     },
     {
-      "id": "3cea49fe1028",
-      "title": "【モンハンワイルズ】画面も音もなし!?コメントを頼りに狩りをした結果w #MHWs #VTuber",
+      "id": "1c881af0efa6",
+      "title": "簡易領域 #モンハンワイルズ #ラギアクルス #呪術廻戦 #shorts #ゲーム実況",
       "summary": "",
-      "url": "https://youtu.be/Cm6erUmpByk?si",
+      "url": "https://youtu.be/UxcClRw7jDc?si",
       "image": "",
       "leadSource": "YouTube",
-      "publishedAt": "2026-10-21T14:21:28.000Z",
+      "publishedAt": "2026-10-21T13:20:25.000Z",
       "sourceCount": 2,
-      "articleCount": 2,
+      "articleCount": 3,
       "categories": [
+        "community",
         "other"
       ],
       "keywords": [
         "モンハンワイルズ",
-        "vtuber"
+        "shorts",
+        "実況"
       ],
       "articles": [
+        {
+          "title": "【モンハンワイルズ】神様の直感を信じたら★10の強敵が来た！？🤣 #モンハンワイルズ #MHWilds #モンハン #ゲーム実況 #VTuber #shorts",
+          "url": "https://youtu.be/YpnuvZ5EKc0?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-21T12:49:05.000Z",
+          "isPR": false
+        },
         {
           "title": "【#モンハンワイルズ】いつの間にか受肉してた人と狩る久しぶりのモンハン【#vtuber 】",
           "url": "https://t.co/cW3dam9pLQ",
@@ -485,12 +494,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-23T06:30:14.991Z",
-    "previousCount": 60,
+    "previousAt": "2026-10-23T07:00:17.169Z",
+    "previousCount": 59,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-23T07:30:17.169Z",
+  "nextUpdateAt": "2026-10-23T08:00:15.296Z",
   "items": [
     {
       "id": "f6f8bc3f1de2",
@@ -631,6 +640,27 @@
       "series": [
         "wilds",
         "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "3a847101d21f",
+      "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
+      "url": "https://www.famitsu.com/article/images/202610/90097/892948",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-10-22T14:25:06.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90097/cf99687dd719c4e8bc6a39e946c3d9ef7.jpg?x=1280",
+      "categories": [
+        "media"
+      ],
+      "series": [
+        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1101,28 +1131,6 @@
       "isNew": false
     },
     {
-      "id": "3cea49fe1028",
-      "title": "【モンハンワイルズ】画面も音もなし!?コメントを頼りに狩りをした結果w #MHWs #VTuber",
-      "url": "https://youtu.be/Cm6erUmpByk?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-21T14:21:28.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "1c881af0efa6",
       "title": "簡易領域 #モンハンワイルズ #ラギアクルス #呪術廻戦 #shorts #ゲーム実況",
       "url": "https://youtu.be/UxcClRw7jDc?si",
@@ -1158,27 +1166,6 @@
       "series": [
         "wilds",
         "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3a847101d21f",
-      "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
-      "url": "https://www.famitsu.com/article/images/202610/90097/892948",
-      "host": "famitsu.com",
-      "source": "ファミ通",
-      "summary": "",
-      "publishedAt": "2026-10-21T10:45:15.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90097/cf99687dd719c4e8bc6a39e946c3d9ef7.jpg?x=1280",
-      "categories": [
-        "media"
-      ],
-      "series": [
-        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1626,6 +1613,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "7b3d1c3825c0",
+      "title": "【チャレンジクエスト】歴戦王アルシュベルド弓ソロ 4分59秒51 討伐傷複数同時破壊、歴戦傷ダウンなし",
+      "url": "https://youtu.be/QiMu7xL9Vuo?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-20T08:54:52.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "a17e094dfac3",
