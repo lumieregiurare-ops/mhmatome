@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-23T12:30:17.550Z",
+  "updatedAt": "2026-10-23T13:00:16.402Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 61,
+  "total": 63,
   "todayCount": 12,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 17
+      "count": 18
     },
     {
       "id": "update",
@@ -22,7 +22,7 @@
     {
       "id": "event",
       "label": "イベント・クエスト",
-      "count": 0
+      "count": 1
     },
     {
       "id": "collab",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 31
+      "count": 32
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 46
+      "count": 48
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 8
+      "count": 9
     },
     {
       "id": "now",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 30
+      "count": 31
     },
     {
       "name": "GameWith",
@@ -131,10 +131,6 @@
       "count": 1
     },
     {
-      "name": "ファミ通",
-      "count": 1
-    },
-    {
       "name": "Unisba Media",
       "count": 1
     },
@@ -152,6 +148,10 @@
     },
     {
       "name": "KENTWORLD for ゲームレビュー",
+      "count": 1
+    },
+    {
+      "name": "ファミ通",
       "count": 1
     },
     {
@@ -176,6 +176,10 @@
     },
     {
       "name": "Howl.link",
+      "count": 1
+    },
+    {
+      "name": "ニコニコニュース",
       "count": 1
     }
   ],
@@ -386,6 +390,33 @@
       ]
     },
     {
+      "id": "3cea49fe1028",
+      "title": "【モンハンワイルズ】画面も音もなし!?コメントを頼りに狩りをした結果w #MHWs #VTuber",
+      "summary": "",
+      "url": "https://youtu.be/Cm6erUmpByk?si",
+      "image": "",
+      "leadSource": "YouTube",
+      "publishedAt": "2026-10-21T14:21:28.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "モンハンワイルズ",
+        "vtuber"
+      ],
+      "articles": [
+        {
+          "title": "【#モンハンワイルズ】いつの間にか受肉してた人と狩る久しぶりのモンハン【#vtuber 】",
+          "url": "https://t.co/cW3dam9pLQ",
+          "source": "Howl.link",
+          "publishedAt": "2026-10-20T16:07:57.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "690e973a5477",
       "title": "『モンスターハンターワイルズ』をお笑いコンビ「エバース」とゲーム実況者「よしなま」が実況プレイした映像が本日公開！",
       "summary": "",
@@ -415,12 +446,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-23T12:00:15.355Z",
-    "previousCount": 63,
-    "newCount": 0
+    "previousAt": "2026-10-23T12:30:17.550Z",
+    "previousCount": 61,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-23T13:00:17.550Z",
+  "nextUpdateAt": "2026-10-23T13:30:16.402Z",
   "items": [
     {
       "id": "16f6cd8c1248",
@@ -662,27 +693,6 @@
       "series": [
         "wilds",
         "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3a847101d21f",
-      "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
-      "url": "https://www.famitsu.com/article/images/202610/90097/892948",
-      "host": "famitsu.com",
-      "source": "ファミ通",
-      "summary": "",
-      "publishedAt": "2026-10-22T14:25:06.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90097/cf99687dd719c4e8bc6a39e946c3d9ef7.jpg?x=1280",
-      "categories": [
-        "media"
-      ],
-      "series": [
-        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1217,6 +1227,28 @@
       "isNew": false
     },
     {
+      "id": "3cea49fe1028",
+      "title": "【モンハンワイルズ】画面も音もなし!?コメントを頼りに狩りをした結果w #MHWs #VTuber",
+      "url": "https://youtu.be/Cm6erUmpByk?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-21T14:21:28.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "1c881af0efa6",
       "title": "簡易領域 #モンハンワイルズ #ラギアクルス #呪術廻戦 #shorts #ゲーム実況",
       "url": "https://youtu.be/UxcClRw7jDc?si",
@@ -1273,6 +1305,27 @@
       ],
       "series": [
         "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "3a847101d21f",
+      "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
+      "url": "https://www.famitsu.com/article/images/202610/90097/892948",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-10-21T10:45:15.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90097/cf99687dd719c4e8bc6a39e946c3d9ef7.jpg?x=1280",
+      "categories": [
+        "media"
+      ],
+      "series": [
+        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1677,6 +1730,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "33144dc184ca",
+      "title": "Nintendo Switch 2 版『モンスターハンターワイルズ』体験版配信記念キャンペーン～【特別支給品】ルーキー応援パックを獲得しよう！～",
+      "url": "https://news.nicovideo.jp/watch/nw19899610",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-10-20T14:45:32.000Z",
+      "image": "",
+      "categories": [
+        "new",
+        "event"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "5e95ae92340c",
