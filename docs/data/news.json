@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-23T11:30:15.615Z",
+  "updatedAt": "2026-10-23T12:00:15.355Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 61,
-  "todayCount": 9,
+  "total": 63,
+  "todayCount": 11,
   "categories": [
     {
       "id": "new",
@@ -52,7 +52,7 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 3
+      "count": 4
     },
     {
       "id": "sales",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 31
+      "count": 32
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 47
+      "count": 48
     },
     {
       "id": "rise",
@@ -100,15 +100,11 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 27
+      "count": 31
     },
     {
       "name": "GameWith",
-      "count": 11
-    },
-    {
-      "name": "Howl.link",
-      "count": 2
+      "count": 10
     },
     {
       "name": "AUTOMATON",
@@ -176,6 +172,10 @@
     },
     {
       "name": "CAPCOM",
+      "count": 1
+    },
+    {
+      "name": "Howl.link",
       "count": 1
     },
     {
@@ -489,19 +489,40 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-23T11:00:14.756Z",
+    "previousAt": "2026-10-23T11:30:15.615Z",
     "previousCount": 61,
     "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-23T12:00:15.615Z",
+  "nextUpdateAt": "2026-10-23T12:30:15.355Z",
   "items": [
     {
+      "id": "16f6cd8c1248",
+      "title": "【モンハンライズ】部位破壊気持ちよすぎだろ！MHP3rd序盤の村クエで折れたポンが行く！ part８【ゆっくり実況】",
+      "url": "https://youtu.be/5ljtZHnnrjg",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-23T10:00:28.000Z",
+      "image": "",
+      "categories": [
+        "community"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "1c7c02d20c21",
-      "title": "【カプコンに潜入】スイッチ２版ワイルズ体験会に行ってみた！【モンハンTravel】 - YouTube",
-      "url": "https://t.co/8yHkxXj1h8",
-      "host": "t.co",
-      "source": "Howl.link",
+      "title": "【カプコンに潜入】スイッチ２版ワイルズ体験会に行ってみた！【モンハンTravel】",
+      "url": "https://youtu.be/K2gusfZsVmU?si",
+      "host": "youtu.be",
+      "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-10-23T10:00:21.000Z",
       "image": "",
@@ -515,7 +536,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0690eb369f08",
@@ -535,6 +556,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "b045eea5cb61",
+      "title": "剥ぎ取りGを過去イチ上手く使いこなしました【モンハン ライズ】【スマスロ】",
+      "url": "https://youtu.be/7T7zumosqrA?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-23T09:00:00.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "dea6bab2022f",
@@ -788,6 +828,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "f125a91190b6",
+      "title": "【モンハンワイルズ】配信中に突然プクリ顔を作り始めるハンターwww",
+      "url": "https://youtu.be/NuijnufpaaM?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-22T11:46:56.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "89c52c877cdd",
@@ -1500,7 +1561,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ecf7d81084d6",
@@ -1670,27 +1731,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "07e705a2eb21",
-      "title": "【サンブレイク】マスターランク(MR)の解放条件と上限解放クエスト",
-      "url": "https://gamewith.jp/mhrize/article/show/324046",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-20T17:05:24.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/324046.png?date=1648791075",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "7181739839a8",
