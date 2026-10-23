@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T11:00:14.756Z",
+  "updatedAt": "2026-10-23T11:30:15.615Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,12 +7,12 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 61,
-  "todayCount": 10,
+  "todayCount": 9,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 19
+      "count": 18
     },
     {
       "id": "update",
@@ -62,19 +62,19 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 30
+      "count": 31
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 46
+      "count": 47
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 1
+      "count": 2
     },
     {
       "id": "world",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 4
+      "count": 2
     },
     {
       "id": "outlanders",
@@ -100,14 +100,14 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 28
+      "count": 27
     },
     {
       "name": "GameWith",
-      "count": 9
+      "count": 11
     },
     {
-      "name": "AppMedia",
+      "name": "Howl.link",
       "count": 2
     },
     {
@@ -176,10 +176,6 @@
     },
     {
       "name": "CAPCOM",
-      "count": 1
-    },
-    {
-      "name": "Howl.link",
       "count": 1
     },
     {
@@ -282,7 +278,7 @@
       "leadSource": "YouTube",
       "publishedAt": "2026-10-22T15:01:09.000Z",
       "sourceCount": 2,
-      "articleCount": 7,
+      "articleCount": 8,
       "categories": [
         "new",
         "other"
@@ -326,6 +322,13 @@
           "url": "https://youtu.be/XRvo8QizFyM?si",
           "source": "YouTube",
           "publishedAt": "2026-10-21T10:12:34.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】名前変更のやり方と非表示の方法【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/470430",
+          "source": "GameWith",
+          "publishedAt": "2026-10-21T03:15:13.000Z",
           "isPR": false
         },
         {
@@ -486,27 +489,27 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-23T10:30:16.309Z",
-    "previousCount": 71,
+    "previousAt": "2026-10-23T11:00:14.756Z",
+    "previousCount": 61,
     "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-23T11:30:14.756Z",
+  "nextUpdateAt": "2026-10-23T12:00:15.615Z",
   "items": [
     {
-      "id": "5c5a340119cb",
-      "title": "【モンハンストーリーズ3】タルアイルーの倒し方と出現場所【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79819751",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
+      "id": "1c7c02d20c21",
+      "title": "【カプコンに潜入】スイッチ２版ワイルズ体験会に行ってみた！【モンハンTravel】 - YouTube",
+      "url": "https://t.co/8yHkxXj1h8",
+      "host": "t.co",
+      "source": "Howl.link",
       "summary": "",
-      "publishedAt": "2026-10-23T09:55:26.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/124144_ylvib.webp",
+      "publishedAt": "2026-10-23T10:00:21.000Z",
+      "image": "",
       "categories": [
         "other"
       ],
       "series": [
-        "stories"
+        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -532,27 +535,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "6fae96ec537f",
-      "title": "【モンハンストーリーズ3】体験版はどこまでできる？｜やっておきたいこと【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79521053",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-23T08:26:33.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2025/11/153717_b6xeo.webp",
-      "categories": [
-        "new"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "dea6bab2022f",
@@ -806,27 +788,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "f125a91190b6",
-      "title": "【モンハンワイルズ】配信中に突然プクリ顔を作り始めるハンターwww",
-      "url": "https://youtu.be/NuijnufpaaM?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-22T11:46:56.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "89c52c877cdd",
@@ -1521,6 +1482,27 @@
       "isNew": false
     },
     {
+      "id": "cfd5ba0ab47a",
+      "title": "【モンハンワイルズ】名前変更のやり方と非表示の方法【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/470430",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-21T03:15:13.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/470430.png?date=1730200450",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "ecf7d81084d6",
       "title": "【Switch2】モンスターハンターワイルズ体験版を試してみる【モンハン】#switch2 #モンハン #モンハンワイルズ",
       "url": "https://youtu.be/Qmh4LLsgFFo?si",
@@ -1688,6 +1670,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "07e705a2eb21",
+      "title": "【サンブレイク】マスターランク(MR)の解放条件と上限解放クエスト",
+      "url": "https://gamewith.jp/mhrize/article/show/324046",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-20T17:05:24.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/324046.png?date=1648791075",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "7181739839a8",
