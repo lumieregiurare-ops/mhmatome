@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T22:00:16.538Z",
+  "updatedAt": "2026-10-24T22:30:16.711Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -12,7 +12,7 @@
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 9
+      "count": 10
     },
     {
       "id": "update",
@@ -57,19 +57,19 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 2
+      "count": 1
     },
     {
       "id": "other",
       "label": "その他",
-      "count": 33
+      "count": 32
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 39
+      "count": 38
     },
     {
       "id": "rise",
@@ -84,12 +84,12 @@
     {
       "id": "now",
       "label": "Now",
-      "count": 8
+      "count": 7
     },
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 7
+      "count": 8
     },
     {
       "id": "outlanders",
@@ -108,11 +108,11 @@
     },
     {
       "name": "AppMedia",
-      "count": 5
+      "count": 6
     },
     {
       "name": "Howl.Link",
-      "count": 4
+      "count": 3
     },
     {
       "name": "AUTOMATON",
@@ -223,7 +223,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-10-23T12:59:04.000Z",
       "sourceCount": 2,
-      "articleCount": 7,
+      "articleCount": 6,
       "categories": [
         "guide",
         "other"
@@ -239,13 +239,6 @@
           "url": "https://gamewith.jp/monsterhunternow/article/show/583157",
           "source": "GameWith",
           "publishedAt": "2026-10-23T09:03:04.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンナウ】最強武器種ランキング【モンハンNow】",
-          "url": "https://gamewith.jp/monsterhunternow/article/show/415866",
-          "source": "GameWith",
-          "publishedAt": "2026-10-23T04:09:09.000Z",
           "isPR": false
         },
         {
@@ -330,12 +323,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-24T21:30:14.305Z",
-    "previousCount": 61,
+    "previousAt": "2026-10-24T22:00:16.538Z",
+    "previousCount": 62,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-24T22:30:16.538Z",
+  "nextUpdateAt": "2026-10-24T23:00:16.711Z",
   "items": [
     {
       "id": "f2e1b6cce113",
@@ -504,6 +497,27 @@
       "isNew": false
     },
     {
+      "id": "6fae96ec537f",
+      "title": "【モンハンストーリーズ3】体験版はどこまでできる？｜やっておきたいこと【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79521053",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-24T10:02:13.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2025/11/153717_b6xeo.webp",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "f1e344fb9da2",
       "title": "＃02【MHWilds​】ワイルズSwitch2体験版。さよならセクレト〜ようこそクナファ村まで。",
       "url": "https://youtu.be/p3JmpPmuzy0",
@@ -622,27 +636,6 @@
       "series": [
         "wilds",
         "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "011ff6530a04",
-      "title": "週末はんてんぐ【モンスターハンターワイルズ】概要欄必読 PS5版",
-      "url": "https://t.co/btTtOBTSR1",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-10-23T23:47:30.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -964,28 +957,6 @@
       "isNew": false
     },
     {
-      "id": "55c33e94fb1b",
-      "title": "【モンハンナウ】最強武器種ランキング【モンハンNow】",
-      "url": "https://gamewith.jp/monsterhunternow/article/show/415866",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-23T04:09:09.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/415866.png?date=1693792782",
-      "categories": [
-        "guide",
-        "sales"
-      ],
-      "series": [
-        "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "dea6bab2022f",
       "title": "余計なことはしてはいけない英雄の証【モンハンワイルズ】 #shorts",
       "url": "https://youtu.be/ut_dJ-7U9wU?si",
@@ -1237,7 +1208,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ff27977f11aa",
@@ -1323,7 +1294,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a2119f0dcdb7",
@@ -1387,6 +1358,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "488530f4941c",
+      "title": "【パズドラ】ジンオウガの評価！超覚醒/潜在覚醒おすすめ",
+      "url": "https://xn--0ck4aw2h.gamewith.jp/article/show/86399",
+      "host": "xn--0ck4aw2h.gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-22T07:44:59.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/86399.png?date=1515658099",
+      "categories": [
+        "guide"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "dce4932e17c7",
