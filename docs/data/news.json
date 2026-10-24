@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-24T08:30:18.790Z",
+  "updatedAt": "2026-10-24T09:00:16.404Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 65,
-  "todayCount": 14,
+  "total": 64,
+  "todayCount": 15,
   "categories": [
     {
       "id": "new",
@@ -27,12 +27,12 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 0
+      "count": 2
     },
     {
       "id": "goods",
       "label": "グッズ・フィギュア",
-      "count": 1
+      "count": 0
     },
     {
       "id": "media",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 35
+      "count": 33
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 42
+      "count": 41
     },
     {
       "id": "rise",
@@ -111,11 +111,11 @@
       "count": 6
     },
     {
-      "name": "ウォーカープラス",
+      "name": "Howl.Link",
       "count": 2
     },
     {
-      "name": "Howl.Link",
+      "name": "ウォーカープラス",
       "count": 2
     },
     {
@@ -127,15 +127,15 @@
       "count": 2
     },
     {
+      "name": "静岡新聞DIGITAL",
+      "count": 1
+    },
+    {
       "name": "日本経済新聞",
       "count": 1
     },
     {
       "name": "4Gamer",
-      "count": 1
-    },
-    {
-      "name": "Sortir à Paris",
       "count": 1
     },
     {
@@ -168,10 +168,6 @@
     },
     {
       "name": "KENTWORLD for ゲームレビュー",
-      "count": 1
-    },
-    {
-      "name": "4Gamer.net",
       "count": 1
     }
   ],
@@ -369,13 +365,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-24T08:00:16.611Z",
-    "previousCount": 57,
-    "newCount": 12
+    "previousAt": "2026-10-24T08:30:18.790Z",
+    "previousCount": 65,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-24T09:00:18.790Z",
+  "nextUpdateAt": "2026-10-24T09:30:16.404Z",
   "items": [
+    {
+      "id": "d3cd7084b2c3",
+      "title": "【モンハンストーリーズ3】最強装備まとめ【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79849634",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-24T07:54:12.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/174453_f690s.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "be4b63eccda9",
       "title": "【モンハンストーリーズ3】凶異ビシュテンゴの攻略情報｜出現場所・入手素材【MHST3】",
@@ -419,6 +436,27 @@
       "isNew": false
     },
     {
+      "id": "5c5a340119cb",
+      "title": "【モンハンストーリーズ3】タルアイルーの倒し方と出現場所【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79819751",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-24T05:16:03.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/124144_ylvib.webp",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "1f7bd9553bdb",
       "title": "【モンハンストーリーズ3】ドスプーギーのオトモン情報｜入手方法・絆遺伝子【MHST3】",
       "url": "https://appmedia.jp/mhst3/79844306",
@@ -440,25 +478,23 @@
       "isNew": false
     },
     {
-      "id": "8500ea73cc86",
-      "title": "【モンハンストーリーズ3】リオレウス亜種の攻略情報｜出現場所・入手素材【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79844519",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
+      "id": "8717cd688c6e",
+      "title": "水彩画個展「タケダヒロキ展～いのちの鼓動～」が静岡市駿河区・駿府博物館で開幕 緻密な筆遣いと色彩 「モンハン」とのコラボ作品も",
+      "url": "https://news.at-s.com/article/2083586",
+      "host": "news.at-s.com",
+      "source": "静岡新聞DIGITAL",
       "summary": "",
-      "publishedAt": "2026-10-24T04:03:17.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2020/01/home_image.png",
+      "publishedAt": "2026-10-24T03:49:00.000Z",
+      "image": "",
       "categories": [
-        "guide"
+        "collab"
       ],
-      "series": [
-        "stories"
-      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "d4178e175580",
@@ -480,26 +516,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "c9e8956051ac",
-      "title": "激レアグッズも満載！ セブン-イレブンに「モンハン3G」一番くじが登場",
-      "url": "https://www.walkerplus.com/article/28645/",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-10-24T01:09:33.000Z",
-      "image": "https://news.walkerplus.com/article/28645/127931_615.jpg",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "38ec9c7bc7f9",
@@ -558,27 +575,6 @@
       "series": [
         "wilds",
         "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "600cd1e4e33d",
-      "title": "【モンハンストーリーズ3】クリア後の追加要素とやり込み要素【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79843649",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-23T21:45:29.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/143439_w9hov.webp",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -646,6 +642,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "22f58a63d794",
+      "title": "カプコン×JR東海のコラボが開催！モンスターハンターやストリートファイターのキャラと旅に出よう",
+      "url": "https://www.walkerplus.com/article/1176995/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-23T17:30:32.000Z",
+      "image": "https://news.walkerplus.com/article/1176995/12576575_615.jpg",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "5fc879b1cca5",
@@ -839,27 +854,6 @@
       "isNew": false
     },
     {
-      "id": "48e167d72856",
-      "title": "『モンスターハンターワイルズ アセンダンス』：パリゲームウィークでの先行プレイレポート",
-      "url": "https://www.sortiraparis.com/ja/pari-de-nani-o-suru-ka/gemu/articles/351683-monsutahantawairuzu-asendansu-pari-gemuzu-u-ikudeno-xian-xingpureirepoto",
-      "host": "sortiraparis.com",
-      "source": "Sortir à Paris",
-      "summary": "",
-      "publishedAt": "2026-10-23T08:00:00.000Z",
-      "image": "https://cdn.sortiraparis.com/images/80/66131/1308036-monster-hunter-wilds-ascendance.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "55c33e94fb1b",
       "title": "【モンハンナウ】最強武器種ランキング【モンハンNow】",
       "url": "https://gamewith.jp/monsterhunternow/article/show/415866",
@@ -982,7 +976,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3292c4e9c190",
@@ -1110,7 +1104,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0ca776c57f3d",
@@ -1131,7 +1125,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3e752da9db31",
@@ -1174,7 +1168,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f125a91190b6",
@@ -1280,7 +1274,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0ef33fa27918",
@@ -1383,7 +1377,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "598b794fb8a8",
@@ -1510,7 +1504,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8b8a12b6c9df",
@@ -1553,7 +1547,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "55b0bd5ff9cd",
@@ -1615,7 +1609,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1c881af0efa6",
@@ -1717,25 +1711,6 @@
       "series": [
         "wilds"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "7c66e040ba31",
-      "title": "画像ギャラリー No.001 | iPhone/iPad版 モンスターハンターパズル アイルーアイランド いつまでも版",
-      "url": "https://www.4gamer.net/games/051/G105127/screenshot.html?num",
-      "host": "4gamer.net",
-      "source": "4Gamer.net",
-      "summary": "",
-      "publishedAt": "2026-10-21T08:36:10.000Z",
-      "image": "https://www.4gamer.net/games/051/G105127/SS/001.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
