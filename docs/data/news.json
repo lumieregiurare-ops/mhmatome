@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-24T13:30:17.453Z",
+  "updatedAt": "2026-10-24T14:00:13.461Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 63,
-  "todayCount": 10,
+  "total": 61,
+  "todayCount": 9,
   "categories": [
     {
       "id": "new",
@@ -27,7 +27,7 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 2
+      "count": 1
     },
     {
       "id": "goods",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 33
+      "count": 32
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 43
+      "count": 42
     },
     {
       "id": "rise",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 28
+      "count": 27
     },
     {
       "name": "GameWith",
@@ -117,10 +117,6 @@
     {
       "name": "AUTOMATON",
       "count": 2
-    },
-    {
-      "name": "静岡新聞DIGITAL",
-      "count": 1
     },
     {
       "name": "日本経済新聞",
@@ -177,24 +173,17 @@
       "leadSource": "ファミ通",
       "publishedAt": "2026-10-23T02:40:00.000Z",
       "sourceCount": 5,
-      "articleCount": 7,
+      "articleCount": 6,
       "categories": [
         "new",
         "other"
       ],
       "keywords": [
         "体験版",
-        "モンスターハンターワイルズ",
-        "モンハンワイルズ"
+        "モンハンワイルズ",
+        "モンスターハンターワイルズ"
       ],
       "articles": [
-        {
-          "title": "モンスターハンターワイルズSwitch2体験版で遊んでみた",
-          "url": "https://youtu.be/TcW_q_G8pUA?si",
-          "source": "YouTube",
-          "publishedAt": "2026-10-22T14:18:59.000Z",
-          "isPR": false
-        },
         {
           "title": "写真・図版（1枚目）| Nintendo Switch 2 『モンスターハンターワイルズ 序盤体験版』を本日10月20日（火）より配信開始。ローカル通信で最大4人のマルチプレイが楽しめ、製品版へセーブデータを引き継ぎ可能！",
           "url": "https://dot.asahi.com/articles/photo/295587",
@@ -333,12 +322,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-24T13:00:16.861Z",
-    "previousCount": 62,
-    "newCount": 6
+    "previousAt": "2026-10-24T13:30:17.453Z",
+    "previousCount": 63,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-24T14:00:17.453Z",
+  "nextUpdateAt": "2026-10-24T14:30:13.461Z",
   "items": [
     {
       "id": "d49c2f3fa7b9",
@@ -358,25 +347,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "8717cd688c6e",
-      "title": "水彩画個展「タケダヒロキ展～いのちの鼓動～」が静岡市駿河区・駿府博物館で開幕 緻密な筆遣いと色彩 「モンハン」とのコラボ作品も",
-      "url": "https://news.at-s.com/article/2083586",
-      "host": "news.at-s.com",
-      "source": "静岡新聞DIGITAL",
-      "summary": "",
-      "publishedAt": "2026-10-24T03:49:00.000Z",
-      "image": "",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "064e96a050ce",
@@ -440,7 +410,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a5a099850e77",
@@ -483,7 +453,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "06cd0a988d7a",
@@ -707,6 +677,28 @@
       ],
       "series": [
         "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "f1e344fb9da2",
+      "title": "＃01【MHWilds​】ワイルズSwitch2体験版。禁足地調査隊ハンター拝命〜チャタカブラ討伐まで。",
+      "url": "https://youtu.be/uGCKuVS_jv0",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-23T09:55:03.000Z",
+      "image": "",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "wilds",
+        "world"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -965,27 +957,6 @@
       "isNew": false
     },
     {
-      "id": "f1e344fb9da2",
-      "title": "#40 iPhone Duo、発売日に届く？予約とデータ整理の話／モンスターハンターワイルズのアクセシビリティ設定／Suno AIで作った「Fold No More」をもう一度",
-      "url": "https://youtu.be/wGJvQGiNkNQ?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-22T21:21:41.000Z",
-      "image": "",
-      "categories": [
-        "new"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "0f52eaa101a0",
       "title": "【モンハンアセンダンス】新機能「いいもの発掘隊」やナタの代わりにニャタなど！パリゲームズウィークで発表された内容を解説！【モンスターハンターワイルズ】",
       "url": "https://youtu.be/_V3yoOxGfC8?si",
@@ -1083,6 +1054,28 @@
       ],
       "series": [
         "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "68ae3a0df6fc",
+      "title": "【モンハンワイルズ】迫真の演技が狩猟の緊迫感を盛り上げる！サポハンの麻痺等のやられボイス集【MHWilds】",
+      "url": "https://youtu.be/iERlcYtmYRE",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-22T14:00:07.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1196,28 +1189,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "e58813289576",
-      "title": "【MHWilds】フリチャレ「啼き濡れろ、怒りの叢雨」歴戦王ウズ・トゥナ 太刀 食事火事場 討伐 3’04”68",
-      "url": "https://youtu.be/34V9xelXY34?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-22T11:00:34.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "a2119f0dcdb7",
@@ -1553,7 +1524,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "19a774e09a77",
@@ -1630,28 +1601,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3cea49fe1028",
-      "title": "【モンハンワイルズ】画面も音もなし!?コメントを頼りに狩りをした結果w #MHWs #VTuber",
-      "url": "https://youtu.be/Cm6erUmpByk?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-21T14:21:28.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
       ],
       "isOfficial": false,
       "isPR": false,
