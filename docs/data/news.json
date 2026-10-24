@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T20:30:16.055Z",
+  "updatedAt": "2026-10-24T21:00:17.680Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 61,
-  "todayCount": 3,
+  "todayCount": 4,
   "categories": [
     {
       "id": "new",
@@ -37,12 +37,12 @@
     {
       "id": "media",
       "label": "映像・音楽・書籍",
-      "count": 1
+      "count": 0
     },
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 12
+      "count": 14
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 33
+      "count": 32
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 40
+      "count": 39
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 12
+      "count": 11
     },
     {
       "id": "now",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 5
+      "count": 6
     },
     {
       "id": "outlanders",
@@ -100,23 +100,19 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 29
+      "count": 28
     },
     {
       "name": "GameWith",
       "count": 13
     },
     {
+      "name": "AppMedia",
+      "count": 4
+    },
+    {
       "name": "Howl.Link",
       "count": 3
-    },
-    {
-      "name": "AppMedia",
-      "count": 2
-    },
-    {
-      "name": "ファミ通",
-      "count": 2
     },
     {
       "name": "AUTOMATON",
@@ -136,6 +132,10 @@
     },
     {
       "name": "Sortir à Paris",
+      "count": 1
+    },
+    {
+      "name": "ファミ通",
       "count": 1
     },
     {
@@ -266,12 +266,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-24T20:00:14.094Z",
+    "previousAt": "2026-10-24T20:30:16.055Z",
     "previousCount": 61,
-    "newCount": 0
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-24T21:00:16.055Z",
+  "nextUpdateAt": "2026-10-24T21:30:17.680Z",
   "items": [
     {
       "id": "e6d79acfa4bd",
@@ -312,6 +312,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "15dfeca257b9",
+      "title": "【モンハンストーリーズ3】侵獣ディアブロスの攻略情報｜出現場所・入手素材【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79843328",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-24T15:38:06.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2020/01/home_image.png",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "f791b5f05428",
@@ -439,6 +460,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "fbd709240fd8",
+      "title": "【モンハンストーリーズ2】レベル上げにおすすめの方法・手順まとめ【MHST2】",
+      "url": "https://appmedia.jp/mhst2/6648013",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-24T08:08:12.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2021/07/cfd34185d634df738c4a56e4eec83502.jpg",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "6a9d60eab1f0",
@@ -1006,27 +1048,6 @@
       "isNew": false
     },
     {
-      "id": "3a847101d21f",
-      "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
-      "url": "https://www.famitsu.com/article/images/202610/90097/892948",
-      "host": "famitsu.com",
-      "source": "ファミ通",
-      "summary": "",
-      "publishedAt": "2026-10-22T14:25:06.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90097/cf99687dd719c4e8bc6a39e946c3d9ef7.jpg?x=1280",
-      "categories": [
-        "media"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "fecc46b11179",
       "title": "モンスターハンターワイルズSwitch2体験版で遊んでみた",
       "url": "https://youtu.be/TcW_q_G8pUA?si",
@@ -1169,28 +1190,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e58813289576",
-      "title": "【MHWilds】フリチャレ「啼き濡れろ、怒りの叢雨」歴戦王ウズ・トゥナ 太刀 食事火事場 討伐 3’04”68",
-      "url": "https://youtu.be/34V9xelXY34?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-22T11:00:34.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
       ],
       "isOfficial": false,
       "isPR": false,
