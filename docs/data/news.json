@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T04:00:15.962Z",
+  "updatedAt": "2026-10-24T04:30:15.801Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 69,
-  "todayCount": 12,
+  "todayCount": 13,
   "categories": [
     {
       "id": "new",
@@ -27,7 +27,7 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 0
+      "count": 1
     },
     {
       "id": "goods",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 37
+      "count": 36
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 45
+      "count": 44
     },
     {
       "id": "rise",
@@ -79,12 +79,12 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 13
+      "count": 12
     },
     {
       "id": "now",
       "label": "Now",
-      "count": 5
+      "count": 6
     },
     {
       "id": "stories",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 32
+      "count": 31
     },
     {
       "name": "AppMedia",
@@ -108,11 +108,15 @@
     },
     {
       "name": "GameWith",
-      "count": 6
+      "count": 7
     },
     {
       "name": "Howl.Link",
-      "count": 4
+      "count": 3
+    },
+    {
+      "name": "ウォーカープラス",
+      "count": 2
     },
     {
       "name": "ファミ通",
@@ -160,10 +164,6 @@
     },
     {
       "name": "ガジェット通信",
-      "count": 1
-    },
-    {
-      "name": "ウォーカープラス",
       "count": 1
     },
     {
@@ -302,14 +302,14 @@
       ]
     },
     {
-      "id": "8c086bb7f518",
-      "title": "【モンハンナウ】モンハンNow感謝祭【3周年記念】【モンハンNow】",
+      "id": "1c34490387c6",
+      "title": "【モンハンナウ】襲来！次元変異ディアブロス亜種【モンハンNow】",
       "summary": "",
-      "url": "https://gamewith.jp/monsterhunternow/article/show/577438",
+      "url": "https://gamewith.jp/monsterhunternow/article/show/583157",
       "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/9422/rectangle/64732.jpg?t=1792637129",
       "leadSource": "GameWith",
-      "publishedAt": "2026-10-22T15:08:05.000Z",
-      "sourceCount": 3,
+      "publishedAt": "2026-10-23T09:03:04.000Z",
+      "sourceCount": 2,
       "articleCount": 4,
       "categories": [
         "other",
@@ -318,9 +318,16 @@
       "keywords": [
         "モンハンNow",
         "now",
-        "ハロウィン"
+        "モンハンナウ"
       ],
       "articles": [
+        {
+          "title": "【モンハンナウ】モンハンNow感謝祭【3周年記念】【モンハンNow】",
+          "url": "https://gamewith.jp/monsterhunternow/article/show/577438",
+          "source": "GameWith",
+          "publishedAt": "2026-10-22T15:08:05.000Z",
+          "isPR": false
+        },
         {
           "title": "【モンハンNOW】黒ディア弓ついに完成！ディアブロス亜種の弓で実戦！剛連射が難しすぎる‼︎",
           "url": "https://youtu.be/AhA5RO_0BqI",
@@ -334,24 +341,17 @@
           "source": "GameWith",
           "publishedAt": "2026-10-22T01:35:12.000Z",
           "isPR": false
-        },
-        {
-          "title": "『モンハンNow』ハロウィン2026で“部位破壊スキルの効果10倍”など、秋の特別イベントが開催！",
-          "url": "https://dengekionline.com/article/202610/91587",
-          "source": "電撃オンライン",
-          "publishedAt": "2026-10-21T05:00:00.000Z",
-          "isPR": false
         }
       ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-24T03:30:18.229Z",
+    "previousAt": "2026-10-24T04:00:15.962Z",
     "previousCount": 69,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-24T04:30:15.962Z",
+  "nextUpdateAt": "2026-10-24T05:00:15.801Z",
   "items": [
     {
       "id": "002be6d24581",
@@ -456,7 +456,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "573c89f6733d",
@@ -540,6 +540,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "22f58a63d794",
+      "title": "カプコン×JR東海のコラボが開催！モンスターハンターやストリートファイターのキャラと旅に出よう",
+      "url": "https://www.walkerplus.com/article/1176995/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-23T17:30:32.000Z",
+      "image": "https://news.walkerplus.com/article/1176995/12576575_615.jpg",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "24347ba4d574",
@@ -752,18 +771,20 @@
       "isNew": false
     },
     {
-      "id": "b045eea5cb61",
-      "title": "剥ぎ取りGを過去イチ上手く使いこなしました【モンハン ライズ】【スマスロ】",
-      "url": "https://youtu.be/7T7zumosqrA?si",
-      "host": "youtu.be",
-      "source": "YouTube",
+      "id": "1c34490387c6",
+      "title": "【モンハンナウ】襲来！次元変異ディアブロス亜種【モンハンNow】",
+      "url": "https://gamewith.jp/monsterhunternow/article/show/583157",
+      "host": "gamewith.jp",
+      "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-10-23T09:00:00.000Z",
+      "publishedAt": "2026-10-23T09:03:04.000Z",
       "image": "",
       "categories": [
         "other"
       ],
-      "series": [],
+      "series": [
+        "now"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -929,28 +950,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f0a85567f4bf",
-      "title": "【MHWilds】 Charge Blade is Super Amped Elemental Discharge! 証クエでヌシ3頭1000もやってるYO 参加型 【モンスターハンターワイルズ】",
-      "url": "https://t.co/VnoOlZx57a",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-10-22T15:48:14.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
       ],
       "isOfficial": false,
       "isPR": false,
