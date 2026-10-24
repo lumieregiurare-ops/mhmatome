@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T21:00:17.680Z",
+  "updatedAt": "2026-10-24T21:30:14.305Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 61,
-  "todayCount": 4,
+  "todayCount": 5,
   "categories": [
     {
       "id": "new",
@@ -79,17 +79,17 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 11
+      "count": 10
     },
     {
       "id": "now",
       "label": "Now",
-      "count": 8
+      "count": 7
     },
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 6
+      "count": 7
     },
     {
       "id": "outlanders",
@@ -100,19 +100,19 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 28
+      "count": 27
     },
     {
       "name": "GameWith",
-      "count": 13
+      "count": 12
     },
     {
       "name": "AppMedia",
-      "count": 4
+      "count": 5
     },
     {
       "name": "Howl.Link",
-      "count": 3
+      "count": 4
     },
     {
       "name": "AUTOMATON",
@@ -266,13 +266,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-24T20:30:16.055Z",
+    "previousAt": "2026-10-24T21:00:17.680Z",
     "previousCount": 61,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-24T21:30:17.680Z",
+  "nextUpdateAt": "2026-10-24T22:00:14.305Z",
   "items": [
+    {
+      "id": "f2e1b6cce113",
+      "title": "【モンハンストーリーズ3】オロミドロの攻略情報｜出現場所・入手素材【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79843298",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-24T19:44:21.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2020/01/home_image.png",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "e6d79acfa4bd",
       "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
@@ -332,7 +353,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f791b5f05428",
@@ -480,7 +501,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6a9d60eab1f0",
@@ -543,6 +564,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "011ff6530a04",
+      "title": "週末はんてんぐ【モンスターハンターワイルズ】概要欄必読 PS5版",
+      "url": "https://t.co/btTtOBTSR1",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-23T23:47:30.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "a5a099850e77",
@@ -893,27 +935,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "c2405cd8805e",
-      "title": "【モンハンナウ】弓の最強装備・おすすめ装備【モンハンNow】",
-      "url": "https://gamewith.jp/monsterhunternow/article/show/415963",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-23T03:14:06.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/415963.png?date=1738838746",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "now"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1525,28 +1546,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "8b8a12b6c9df",
-      "title": "【MHWilds】この鳥達が見る夢は/チャレンジクエスト 【ﾗﾝｽｿﾛ 9′31″76】",
-      "url": "https://youtu.be/PJWcLCpwTUQ?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-21T21:09:49.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
       ],
       "isOfficial": false,
       "isPR": false,
