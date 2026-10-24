@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-24T14:30:15.776Z",
+  "updatedAt": "2026-10-24T15:00:16.309Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 65,
-  "todayCount": 12,
+  "total": 67,
+  "todayCount": 0,
   "categories": [
     {
       "id": "new",
@@ -52,7 +52,7 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 3
+      "count": 4
     },
     {
       "id": "sales",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 34
+      "count": 35
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 44
+      "count": 45
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 11
+      "count": 13
     },
     {
       "id": "now",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 29
+      "count": 30
     },
     {
       "name": "GameWith",
@@ -108,11 +108,7 @@
     },
     {
       "name": "Howl.Link",
-      "count": 3
-    },
-    {
-      "name": "ウォーカープラス",
-      "count": 2
+      "count": 5
     },
     {
       "name": "ファミ通",
@@ -124,6 +120,10 @@
     },
     {
       "name": "日本経済新聞",
+      "count": 1
+    },
+    {
+      "name": "ウォーカープラス",
       "count": 1
     },
     {
@@ -315,12 +315,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-24T14:00:13.461Z",
-    "previousCount": 61,
-    "newCount": 4
+    "previousAt": "2026-10-24T14:30:15.776Z",
+    "previousCount": 65,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-24T15:00:15.776Z",
+  "nextUpdateAt": "2026-10-24T15:30:16.309Z",
   "items": [
     {
       "id": "ccdef5308ea1",
@@ -341,7 +341,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e6d79acfa4bd",
@@ -381,7 +381,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d49c2f3fa7b9",
@@ -694,6 +694,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "49e6110c6fcc",
+      "title": "2🐰🍒〖 MHW:IB 〗わたし至上運よくかみ合った時の雰囲気ミラボレアス🩵💙 ＃モンハン モンスターハンターワールド:アイスボーン アイボ スラアク ゲーム実況 〖 えりえり 〗",
+      "url": "https://youtu.be/hfivRUAl53w?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-23T10:15:26.000Z",
+      "image": "",
+      "categories": [
+        "community"
+      ],
+      "series": [
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "e13729131556",
@@ -1054,6 +1075,28 @@
       "isNew": false
     },
     {
+      "id": "f0a85567f4bf",
+      "title": "【MHWilds】 Charge Blade is Super Amped Elemental Discharge! 証クエでヌシ3頭1000もやってるYO 参加型 【モンスターハンターワイルズ】",
+      "url": "https://t.co/VnoOlZx57a",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-22T15:48:14.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "8c086bb7f518",
       "title": "【モンハンナウ】モンハンNow感謝祭【3周年記念】【モンハンNow】",
       "url": "https://gamewith.jp/monsterhunternow/article/show/577438",
@@ -1093,7 +1136,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fecc46b11179",
@@ -1159,6 +1202,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "d8d35b74723e",
+      "title": "【MH3/モンスターハンタートライ】水中戦！wiiでモンハントライに初挑戦です！★3から【兎ノ花ののち/Varium】",
+      "url": "https://t.co/vUguc3BhfE",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-22T13:44:23.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "0ca776c57f3d",
@@ -1265,7 +1327,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a2119f0dcdb7",
@@ -1639,25 +1701,6 @@
       "series": [
         "wilds"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "55b0bd5ff9cd",
-      "title": "秋葉原に期間限定「モンハン」ショップが登場！",
-      "url": "https://www.walkerplus.com/article/63257/",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-10-21T16:48:31.000Z",
-      "image": "https://news.walkerplus.com/article/63257/352473_615.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
