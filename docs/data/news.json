@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T01:30:14.512Z",
+  "updatedAt": "2026-10-24T02:00:15.185Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -22,7 +22,7 @@
     {
       "id": "event",
       "label": "イベント・クエスト",
-      "count": 1
+      "count": 0
     },
     {
       "id": "collab",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 8
+      "count": 9
     },
     {
       "id": "sale",
@@ -74,7 +74,7 @@
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 2
+      "count": 1
     },
     {
       "id": "world",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 8
+      "count": 9
     },
     {
       "id": "outlanders",
@@ -100,22 +100,22 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 30
-    },
-    {
-      "name": "GameWith",
-      "count": 8
+      "count": 31
     },
     {
       "name": "AppMedia",
-      "count": 6
+      "count": 7
     },
     {
-      "name": "Howl.Link",
-      "count": 3
+      "name": "GameWith",
+      "count": 7
     },
     {
       "name": "ウォーカープラス",
+      "count": 2
+    },
+    {
+      "name": "Howl.Link",
       "count": 2
     },
     {
@@ -179,7 +179,7 @@
       "count": 1
     },
     {
-      "name": "Yahoo!ニュース",
+      "name": "ニコニコニュース",
       "count": 1
     }
   ],
@@ -188,12 +188,12 @@
       "id": "b7a2699567e6",
       "title": "Switch2版『モンハンワイルズ』体験版が配信開始。チャタカブラ、ケマトリスを狩猟できる。ローカル通信のマルチプレイ対応",
       "summary": "",
-      "url": "https://www.famitsu.com/article/images/202610/91469/906367",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/91469/abae7faf07af20508226837ac8f327d4a.jpg?x=1280",
+      "url": "https://www.famitsu.com/article/images/202610/91469/906372",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/91469/aa1e873bb1fa052919bde483651d08db7.jpg?x=1280",
       "leadSource": "ファミ通",
-      "publishedAt": "2026-10-23T01:10:00.000Z",
-      "sourceCount": 7,
-      "articleCount": 12,
+      "publishedAt": "2026-10-23T02:40:00.000Z",
+      "sourceCount": 6,
+      "articleCount": 11,
       "categories": [
         "new",
         "other"
@@ -390,34 +390,13 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-24T01:00:16.750Z",
-    "previousCount": 66,
-    "newCount": 7
+    "previousAt": "2026-10-24T01:30:14.512Z",
+    "previousCount": 69,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-24T02:00:14.512Z",
+  "nextUpdateAt": "2026-10-24T02:30:15.185Z",
   "items": [
-    {
-      "id": "011ff6530a04",
-      "title": "週末はんてんぐ【モンスターハンターワイルズ】概要欄必読 PS5版",
-      "url": "https://t.co/btTtOBTSR1",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-10-23T23:47:30.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
     {
       "id": "1522d4cef7f3",
       "title": "【モンハンストーリーズ3】天変古龍一覧と出現条件【MHST3】",
@@ -480,7 +459,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "06cd0a988d7a",
@@ -556,6 +535,27 @@
         "collab"
       ],
       "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "24347ba4d574",
+      "title": "【モンハンストーリーズ3】交易ポイントの効率的な集め方【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79820612",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-23T17:03:57.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/162218_i8g6p.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -792,6 +792,27 @@
       "isNew": false
     },
     {
+      "id": "b7a2699567e6",
+      "title": "Switch2版『モンハンワイルズ』体験版が配信開始。チャタカブラ、ケマトリスを狩猟できる。ローカル通信のマルチプレイ対応",
+      "url": "https://www.famitsu.com/article/images/202610/91469/906372",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-10-23T02:40:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/91469/aa1e873bb1fa052919bde483651d08db7.jpg?x=1280",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "e6d79acfa4bd",
       "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
       "url": "https://gamewith.jp/mhwilds/563096",
@@ -804,27 +825,6 @@
         "guide"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "b7a2699567e6",
-      "title": "Switch2版『モンハンワイルズ』体験版が配信開始。チャタカブラ、ケマトリスを狩猟できる。ローカル通信のマルチプレイ対応",
-      "url": "https://www.famitsu.com/article/images/202610/91469/906367",
-      "host": "famitsu.com",
-      "source": "ファミ通",
-      "summary": "",
-      "publishedAt": "2026-10-23T01:10:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/91469/abae7faf07af20508226837ac8f327d4a.jpg?x=1280",
-      "categories": [
-        "new"
-      ],
-      "series": [
-        "wilds"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -881,7 +881,7 @@
       "source": "ゲーム情報！ゲームのはなし",
       "summary": "",
       "publishedAt": "2026-10-22T16:47:39.000Z",
-      "image": "",
+      "image": "https://gamestalk.net/wp-content/uploads/2026/10/MHW2-Switch2-demo_261023.webp",
       "categories": [
         "other"
       ],
@@ -1403,6 +1403,27 @@
       "isNew": false
     },
     {
+      "id": "06dbb50febf1",
+      "title": "【モンハンワイルズ】Switch2版どれを買う？全エディションの違いを比較｜通常版・デラックス・ゴールド・狩友ダブルパック",
+      "url": "https://youtu.be/Uozzw_qupwI?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-21T22:00:05.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "8b8a12b6c9df",
       "title": "【MHWilds】この鳥達が見る夢は/チャレンジクエスト 【ﾗﾝｽｿﾛ 9′31″76】",
       "url": "https://youtu.be/PJWcLCpwTUQ?si",
@@ -1422,7 +1443,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "886aa1c43dcd",
@@ -1483,7 +1504,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6c19198188c0",
@@ -1579,7 +1600,7 @@
       "source": "KENTWORLD for ゲームレビュー",
       "summary": "",
       "publishedAt": "2026-10-21T12:15:57.000Z",
-      "image": "",
+      "image": "https://kentworld-blog.com/wp-content/uploads/2026/10/52011f34ab80f63a664d691b3f6211fd.jpg",
       "categories": [
         "new"
       ],
@@ -1611,7 +1632,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "747e52a6933d",
@@ -1735,7 +1756,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ea2ce928c17d",
@@ -1801,35 +1822,14 @@
       "isNew": false
     },
     {
-      "id": "d31eab580cf5",
-      "title": "【サンブレイク】イベントクエスト一覧と報酬",
-      "url": "https://gamewith.jp/mhrize/article/show/358171",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-21T01:33:11.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/358171.png?date=1660054501",
-      "categories": [
-        "event"
-      ],
-      "series": [
-        "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "89d3753c9767",
-      "title": "『モンスターハンターワイルズ』Switch 2版の序盤体験版が配信開始 ローカル通信での4人プレイに対応（リアルサウンド）",
-      "url": "https://news.yahoo.co.jp/articles/9b079aa141aaaacfef620ce16d17b9c5ab7628ca",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "title": "『モンスターハンターワイルズ』Switch 2版の序盤体験版が配信開始 ローカル通信での4人プレイに対応",
+      "url": "https://news.nicovideo.jp/watch/nw19901190",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
       "summary": "",
-      "publishedAt": "2026-10-21T01:31:38.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00010012-realsound-000-1-view.jpg?exp=10800",
+      "publishedAt": "2026-10-21T02:33:16.000Z",
+      "image": "",
       "categories": [
         "new"
       ],
