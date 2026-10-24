@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-24T16:30:16.422Z",
+  "updatedAt": "2026-10-24T17:00:14.084Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 61,
+  "total": 63,
   "todayCount": 0,
   "categories": [
     {
@@ -37,7 +37,7 @@
     {
       "id": "media",
       "label": "映像・音楽・書籍",
-      "count": 0
+      "count": 1
     },
     {
       "id": "guide",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 31
+      "count": 32
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 40
+      "count": 42
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 10
+      "count": 11
     },
     {
       "id": "now",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 2
+      "count": 3
     },
     {
       "id": "outlanders",
@@ -100,14 +100,14 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 28
+      "count": 30
     },
     {
       "name": "GameWith",
       "count": 17
     },
     {
-      "name": "ウォーカープラス",
+      "name": "ファミ通",
       "count": 2
     },
     {
@@ -115,7 +115,15 @@
       "count": 2
     },
     {
+      "name": "Howl.Link",
+      "count": 1
+    },
+    {
       "name": "日本経済新聞",
+      "count": 1
+    },
+    {
+      "name": "ウォーカープラス",
       "count": 1
     },
     {
@@ -127,19 +135,11 @@
       "count": 1
     },
     {
-      "name": "ファミ通",
-      "count": 1
-    },
-    {
       "name": "ゲーム情報！ゲームのはなし",
       "count": 1
     },
     {
       "name": "インサイド",
-      "count": 1
-    },
-    {
-      "name": "Howl.Link",
       "count": 1
     },
     {
@@ -243,8 +243,8 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
       "leadSource": "GameWith",
       "publishedAt": "2026-10-24T11:35:13.000Z",
-      "sourceCount": 3,
-      "articleCount": 7,
+      "sourceCount": 4,
+      "articleCount": 8,
       "categories": [
         "guide",
         "other"
@@ -260,6 +260,13 @@
           "url": "https://youtu.be/sauqhsOgA6M?si",
           "source": "YouTube",
           "publishedAt": "2026-10-23T22:00:11.000Z",
+          "isPR": false
+        },
+        {
+          "title": "モンハンたまにバグるよね？w【モンスターハンターワイルズ】＃モンハン #モンハンワイルズ #モンスターハンターワイルズ",
+          "url": "https://t.co/QmdZits5hN",
+          "source": "Howl.Link",
+          "publishedAt": "2026-10-23T21:22:06.000Z",
           "isPR": false
         },
         {
@@ -301,12 +308,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-24T16:00:14.786Z",
-    "previousCount": 63,
-    "newCount": 1
+    "previousAt": "2026-10-24T16:30:16.422Z",
+    "previousCount": 61,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-24T17:00:16.422Z",
+  "nextUpdateAt": "2026-10-24T17:30:14.084Z",
   "items": [
     {
       "id": "ccdef5308ea1",
@@ -452,6 +459,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "0255f6485ed9",
+      "title": "モンハンたまにバグるよね？w【モンスターハンターワイルズ】＃モンハン #モンハンワイルズ #モンスターハンターワイルズ",
+      "url": "https://t.co/QmdZits5hN",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-23T21:22:06.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "06cd0a988d7a",
@@ -977,28 +1005,6 @@
       "isNew": false
     },
     {
-      "id": "f0a85567f4bf",
-      "title": "【MHWilds】 Charge Blade is Super Amped Elemental Discharge! 証クエでヌシ3頭1000もやってるYO 参加型 【モンスターハンターワイルズ】",
-      "url": "https://t.co/VnoOlZx57a",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-10-22T15:48:14.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "8c086bb7f518",
       "title": "【モンハンナウ】モンハンNow感謝祭【3周年記念】【モンハンNow】",
       "url": "https://gamewith.jp/monsterhunternow/article/show/577438",
@@ -1018,6 +1024,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "3a847101d21f",
+      "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
+      "url": "https://www.famitsu.com/article/images/202610/90097/892948",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-10-22T14:25:06.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90097/cf99687dd719c4e8bc6a39e946c3d9ef7.jpg?x=1280",
+      "categories": [
+        "media"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "fecc46b11179",
@@ -1168,6 +1195,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "e58813289576",
+      "title": "【MHWilds】フリチャレ「啼き濡れろ、怒りの叢雨」歴戦王ウズ・トゥナ 太刀 食事火事場 討伐 3’04”68",
+      "url": "https://youtu.be/34V9xelXY34?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-22T11:00:34.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "a2119f0dcdb7",
@@ -1526,6 +1575,28 @@
       "isNew": false
     },
     {
+      "id": "8b8a12b6c9df",
+      "title": "【MHWilds】この鳥達が見る夢は/チャレンジクエスト 【ﾗﾝｽｿﾛ 9′31″76】",
+      "url": "https://youtu.be/PJWcLCpwTUQ?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-21T21:09:49.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "19a774e09a77",
       "title": "【モンハンワイルズ】森につづく場所の行き方【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/487205",
@@ -1561,25 +1632,6 @@
       "series": [
         "wilds"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "55b0bd5ff9cd",
-      "title": "秋葉原に期間限定「モンハン」ショップが登場！",
-      "url": "https://www.walkerplus.com/article/63257/",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-10-21T16:48:31.000Z",
-      "image": "https://news.walkerplus.com/article/63257/352473_615.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
