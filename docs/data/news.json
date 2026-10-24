@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-24T07:00:18.290Z",
+  "updatedAt": "2026-10-24T07:30:16.525Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 63,
-  "todayCount": 16,
+  "total": 65,
+  "todayCount": 15,
   "categories": [
     {
       "id": "new",
@@ -37,12 +37,12 @@
     {
       "id": "media",
       "label": "映像・音楽・書籍",
-      "count": 0
+      "count": 1
     },
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 9
+      "count": 7
     },
     {
       "id": "sale",
@@ -52,7 +52,7 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 3
+      "count": 4
     },
     {
       "id": "sales",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 34
+      "count": 36
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 39
+      "count": 41
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 13
+      "count": 15
     },
     {
       "id": "now",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 10
+      "count": 9
     },
     {
       "id": "outlanders",
@@ -100,11 +100,11 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 28
+      "count": 30
     },
     {
       "name": "AppMedia",
-      "count": 9
+      "count": 7
     },
     {
       "name": "GameWith",
@@ -116,6 +116,10 @@
     },
     {
       "name": "Howl.Link",
+      "count": 2
+    },
+    {
+      "name": "ファミ通",
       "count": 2
     },
     {
@@ -131,7 +135,7 @@
       "count": 1
     },
     {
-      "name": "ファミ通",
+      "name": "Sortir à Paris",
       "count": 1
     },
     {
@@ -316,24 +320,24 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-24T06:30:14.249Z",
-    "previousCount": 74,
-    "newCount": 4
+    "previousAt": "2026-10-24T07:00:18.290Z",
+    "previousCount": 63,
+    "newCount": 5
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-24T07:30:18.290Z",
+  "nextUpdateAt": "2026-10-24T08:00:16.525Z",
   "items": [
     {
-      "id": "f8e3c4895cef",
-      "title": "【モンハンストーリーズ3】レダウの攻略情報｜出現場所・入手素材【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79844534",
+      "id": "1f7bd9553bdb",
+      "title": "【モンハンストーリーズ3】ドスプーギーのオトモン情報｜入手方法・絆遺伝子【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79844306",
       "host": "appmedia.jp",
       "source": "AppMedia",
       "summary": "",
-      "publishedAt": "2026-10-24T05:32:03.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2020/01/home_image.png",
+      "publishedAt": "2026-10-24T04:50:28.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/195000_zawrn.webp",
       "categories": [
-        "guide"
+        "other"
       ],
       "series": [
         "stories"
@@ -366,6 +370,28 @@
       "isNew": false
     },
     {
+      "id": "d4178e175580",
+      "title": "10ゴグマジオス ハンマーソロ サポハンなし 49'00\"66 非火事場 非不屈/ Gogmazios Hammer Solo 【MHWilds/PS5】",
+      "url": "https://youtu.be/MgELIUAtnwc?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-24T02:52:05.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "c9e8956051ac",
       "title": "激レアグッズも満載！ セブン-イレブンに「モンハン3G」一番くじが登場",
       "url": "https://www.walkerplus.com/article/28645/",
@@ -382,7 +408,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "38ec9c7bc7f9",
@@ -403,7 +429,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "002be6d24581",
@@ -552,27 +578,6 @@
       "isNew": false
     },
     {
-      "id": "f791b5f05428",
-      "title": "【モンハンストーリーズ3】レベル上げの効率的なやり方【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79833866",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-23T18:26:36.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/183830_lg0m4.webp",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "fbd709240fd8",
       "title": "【モンハンストーリーズ2】レベル上げにおすすめの方法・手順まとめ【MHST2】",
       "url": "https://appmedia.jp/mhst2/6648013",
@@ -634,27 +639,6 @@
       "isNew": false
     },
     {
-      "id": "75783d358b12",
-      "title": "【モンハンストーリーズ3】レベル上限はある？｜レベルが上がらないときの対処法【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79844852",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-23T16:04:14.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/113524_nts14.webp",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "47edea9d447d",
       "title": "【MHWilds PS5】ド下手ハンター、★9歴戦3頭に挑戦！40分間の太刀バトル【緋水に浮かぶセレナーデ】",
       "url": "https://youtu.be/DtqbbmHSu5c",
@@ -675,6 +659,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "49e6110c6fcc",
+      "title": "2🐰🍒〖 MHW:IB 〗わたし至上運よくかみ合った時の雰囲気ミラボレアス🩵💙 ＃モンハン モンスターハンターワールド:アイスボーン アイボ スラアク ゲーム実況 〖 えりえり 〗",
+      "url": "https://youtu.be/hfivRUAl53w?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-23T10:15:26.000Z",
+      "image": "",
+      "categories": [
+        "community"
+      ],
+      "series": [
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "e13729131556",
@@ -802,6 +807,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "48e167d72856",
+      "title": "『モンスターハンターワイルズ アセンダンス』：パリゲームウィークでの先行プレイレポート",
+      "url": "https://www.sortiraparis.com/ja/pari-de-nani-o-suru-ka/gemu/articles/351683-monsutahantawairuzu-asendansu-pari-gemuzu-u-ikudeno-xian-xingpureirepoto",
+      "host": "sortiraparis.com",
+      "source": "Sortir à Paris",
+      "summary": "",
+      "publishedAt": "2026-10-23T08:00:00.000Z",
+      "image": "https://cdn.sortiraparis.com/images/80/66131/1308036-monster-hunter-wilds-ascendance.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "dea6bab2022f",
@@ -969,6 +995,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "3a847101d21f",
+      "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
+      "url": "https://www.famitsu.com/article/images/202610/90097/892948",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-10-22T14:25:06.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90097/cf99687dd719c4e8bc6a39e946c3d9ef7.jpg?x=1280",
+      "categories": [
+        "media"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "c830e0f6fe28",
@@ -1602,7 +1649,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "747e52a6933d",
