@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-24T16:00:14.786Z",
+  "updatedAt": "2026-10-24T16:30:16.422Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 63,
+  "total": 61,
   "todayCount": 0,
   "categories": [
     {
@@ -37,7 +37,7 @@
     {
       "id": "media",
       "label": "映像・音楽・書籍",
-      "count": 1
+      "count": 0
     },
     {
       "id": "guide",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 32
+      "count": 31
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 41
+      "count": 40
     },
     {
       "id": "rise",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 3
+      "count": 2
     },
     {
       "id": "outlanders",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 29
+      "count": 28
     },
     {
       "name": "GameWith",
@@ -111,16 +111,8 @@
       "count": 2
     },
     {
-      "name": "ファミ通",
-      "count": 2
-    },
-    {
       "name": "AUTOMATON",
       "count": 2
-    },
-    {
-      "name": "Howl.Link",
-      "count": 1
     },
     {
       "name": "日本経済新聞",
@@ -135,11 +127,19 @@
       "count": 1
     },
     {
+      "name": "ファミ通",
+      "count": 1
+    },
+    {
       "name": "ゲーム情報！ゲームのはなし",
       "count": 1
     },
     {
       "name": "インサイド",
+      "count": 1
+    },
+    {
+      "name": "Howl.Link",
       "count": 1
     },
     {
@@ -243,8 +243,8 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
       "leadSource": "GameWith",
       "publishedAt": "2026-10-24T11:35:13.000Z",
-      "sourceCount": 4,
-      "articleCount": 8,
+      "sourceCount": 3,
+      "articleCount": 7,
       "categories": [
         "guide",
         "other"
@@ -260,13 +260,6 @@
           "url": "https://youtu.be/sauqhsOgA6M?si",
           "source": "YouTube",
           "publishedAt": "2026-10-23T22:00:11.000Z",
-          "isPR": false
-        },
-        {
-          "title": "モンハンたまにバグるよね？w【モンスターハンターワイルズ】＃モンハン #モンハンワイルズ #モンスターハンターワイルズ",
-          "url": "https://t.co/QmdZits5hN",
-          "source": "Howl.Link",
-          "publishedAt": "2026-10-23T21:22:06.000Z",
           "isPR": false
         },
         {
@@ -308,12 +301,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-24T15:30:21.819Z",
-    "previousCount": 3,
-    "newCount": 60
+    "previousAt": "2026-10-24T16:00:14.786Z",
+    "previousCount": 63,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-24T16:30:14.786Z",
+  "nextUpdateAt": "2026-10-24T17:00:16.422Z",
   "items": [
     {
       "id": "ccdef5308ea1",
@@ -334,7 +327,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e6d79acfa4bd",
@@ -353,7 +346,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6a9d60eab1f0",
@@ -374,7 +367,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d49c2f3fa7b9",
@@ -393,7 +386,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "064e96a050ce",
@@ -415,7 +408,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "38ec9c7bc7f9",
@@ -436,7 +429,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a5a099850e77",
@@ -458,28 +451,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "0255f6485ed9",
-      "title": "モンハンたまにバグるよね？w【モンスターハンターワイルズ】＃モンハン #モンハンワイルズ #モンスターハンターワイルズ",
-      "url": "https://t.co/QmdZits5hN",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-10-23T21:22:06.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "06cd0a988d7a",
@@ -498,7 +470,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "22f58a63d794",
@@ -517,7 +489,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5fc879b1cca5",
@@ -538,7 +510,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d73b07fbcc19",
@@ -559,7 +531,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "babd7c51435b",
@@ -580,7 +552,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "bc548e8b4345",
@@ -601,7 +573,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "47edea9d447d",
@@ -623,7 +595,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7954943b4086",
@@ -644,7 +616,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e13729131556",
@@ -666,7 +638,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1c7c02d20c21",
@@ -687,7 +659,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "70688df1f73f",
@@ -708,7 +680,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0690eb369f08",
@@ -749,7 +721,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1c34490387c6",
@@ -770,7 +742,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "48e167d72856",
@@ -791,7 +763,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "55c33e94fb1b",
@@ -813,7 +785,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "dea6bab2022f",
@@ -834,7 +806,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c2405cd8805e",
@@ -855,7 +827,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b7a2699567e6",
@@ -876,7 +848,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "81028676ddfa",
@@ -897,7 +869,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f1e344fb9da2",
@@ -918,7 +890,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0f52eaa101a0",
@@ -939,7 +911,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "adb53438b5ef",
@@ -960,7 +932,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3292c4e9c190",
@@ -981,7 +953,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "af3240f60340",
@@ -997,6 +969,28 @@
       ],
       "series": [
         "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "f0a85567f4bf",
+      "title": "【MHWilds】 Charge Blade is Super Amped Elemental Discharge! 証クエでヌシ3頭1000もやってるYO 参加型 【モンスターハンターワイルズ】",
+      "url": "https://t.co/VnoOlZx57a",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-22T15:48:14.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1023,28 +1017,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "3a847101d21f",
-      "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
-      "url": "https://www.famitsu.com/article/images/202610/90097/892948",
-      "host": "famitsu.com",
-      "source": "ファミ通",
-      "summary": "",
-      "publishedAt": "2026-10-22T14:25:06.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90097/cf99687dd719c4e8bc6a39e946c3d9ef7.jpg?x=1280",
-      "categories": [
-        "media"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fecc46b11179",
@@ -1065,7 +1038,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "68ae3a0df6fc",
@@ -1087,7 +1060,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c830e0f6fe28",
@@ -1109,7 +1082,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0ca776c57f3d",
@@ -1130,7 +1103,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ff27977f11aa",
@@ -1152,7 +1125,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f125a91190b6",
@@ -1173,7 +1146,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "89c52c877cdd",
@@ -1215,7 +1188,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "cb58cb1337bb",
@@ -1236,7 +1209,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0ef33fa27918",
@@ -1257,7 +1230,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "dce4932e17c7",
@@ -1276,7 +1249,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0f18628a05a9",
@@ -1318,7 +1291,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1f67c0577c89",
@@ -1339,7 +1312,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "639e1da11ec0",
@@ -1360,7 +1333,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "660fe1d988e8",
@@ -1381,7 +1354,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "598b794fb8a8",
@@ -1402,7 +1375,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "270a24a56650",
@@ -1424,7 +1397,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c1844694200b",
@@ -1445,7 +1418,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9e3e3e175794",
@@ -1466,7 +1439,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a370b6325c6d",
@@ -1487,7 +1460,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c11510170849",
@@ -1508,7 +1481,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c859fa9d9bd5",
@@ -1529,7 +1502,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "06dbb50febf1",
@@ -1550,29 +1523,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "8b8a12b6c9df",
-      "title": "【MHWilds】この鳥達が見る夢は/チャレンジクエスト 【ﾗﾝｽｿﾛ 9′31″76】",
-      "url": "https://youtu.be/PJWcLCpwTUQ?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-21T21:09:49.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "19a774e09a77",
@@ -1593,7 +1544,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "886aa1c43dcd",
@@ -1614,7 +1565,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "55b0bd5ff9cd",
@@ -1633,7 +1584,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     }
   ]
 }
