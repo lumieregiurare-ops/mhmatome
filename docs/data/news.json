@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-24T02:00:15.185Z",
+  "updatedAt": "2026-10-24T02:30:16.201Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 69,
+  "total": 71,
   "todayCount": 10,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 15
+      "count": 16
     },
     {
       "id": "update",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 36
+      "count": 37
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 45
+      "count": 48
     },
     {
       "id": "rise",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 9
+      "count": 8
     },
     {
       "id": "outlanders",
@@ -100,22 +100,22 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 31
-    },
-    {
-      "name": "AppMedia",
-      "count": 7
+      "count": 32
     },
     {
       "name": "GameWith",
       "count": 7
     },
     {
-      "name": "ウォーカープラス",
-      "count": 2
+      "name": "AppMedia",
+      "count": 6
     },
     {
       "name": "Howl.Link",
+      "count": 3
+    },
+    {
+      "name": "ウォーカープラス",
       "count": 2
     },
     {
@@ -140,6 +140,10 @@
     },
     {
       "name": "4Gamer",
+      "count": 1
+    },
+    {
+      "name": "Sortir à Paris",
       "count": 1
     },
     {
@@ -306,6 +310,34 @@
       ]
     },
     {
+      "id": "011ff6530a04",
+      "title": "週末はんてんぐ【モンスターハンターワイルズ】概要欄必読 PS5版",
+      "summary": "",
+      "url": "https://t.co/btTtOBTSR1",
+      "image": "",
+      "leadSource": "Howl.Link",
+      "publishedAt": "2026-10-23T23:47:30.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other",
+        "new"
+      ],
+      "keywords": [
+        "モンスターハンターワイルズ",
+        "ps5"
+      ],
+      "articles": [
+        {
+          "title": "Switch2版モンハンワイルズは買うべき？PS5版とSwitch2体験版の画質やフレームレート、ロード時間を比較してみた！【モンスターハンターワイルズ】",
+          "url": "https://youtu.be/xWL05off5p0?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-22T06:00:29.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "5fc879b1cca5",
       "title": "【モンハンワイルズ】英傑に愛を込めての攻略と報酬【モンスターハンターワイルズ】",
       "summary": "",
@@ -390,13 +422,55 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-24T01:30:14.512Z",
+    "previousAt": "2026-10-24T02:00:15.185Z",
     "previousCount": 69,
-    "newCount": 2
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-24T02:30:15.185Z",
+  "nextUpdateAt": "2026-10-24T03:00:16.201Z",
   "items": [
+    {
+      "id": "002be6d24581",
+      "title": "【モンハンストーリーズ3】料理のおすすめ【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79834685",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-24T00:43:09.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/191355_k3uqg.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "011ff6530a04",
+      "title": "週末はんてんぐ【モンスターハンターワイルズ】概要欄必読 PS5版",
+      "url": "https://t.co/btTtOBTSR1",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-23T23:47:30.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "1522d4cef7f3",
       "title": "【モンハンストーリーズ3】天変古龍一覧と出現条件【MHST3】",
@@ -542,27 +616,6 @@
       "isNew": false
     },
     {
-      "id": "24347ba4d574",
-      "title": "【モンハンストーリーズ3】交易ポイントの効率的な集め方【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79820612",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-23T17:03:57.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/162218_i8g6p.webp",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "5fc879b1cca5",
       "title": "【モンハンワイルズ】英傑に愛を込めての攻略と報酬【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/545381",
@@ -576,27 +629,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "75783d358b12",
-      "title": "【モンハンストーリーズ3】レベル上限はある？｜レベルが上がらないときの対処法【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79844852",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-23T16:04:14.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/113524_nts14.webp",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -769,6 +801,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "48e167d72856",
+      "title": "『モンスターハンターワイルズ アセンダンス』：パリゲームウィークでの先行プレイレポート",
+      "url": "https://www.sortiraparis.com/ja/pari-de-nani-o-suru-ka/gemu/articles/351683-monsutahantawairuzu-asendansu-pari-gemuzu-u-ikudeno-xian-xingpureirepoto",
+      "host": "sortiraparis.com",
+      "source": "Sortir à Paris",
+      "summary": "",
+      "publishedAt": "2026-10-23T08:00:00.000Z",
+      "image": "https://cdn.sortiraparis.com/images/80/66131/1308036-monster-hunter-wilds-ascendance.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "dea6bab2022f",
@@ -1215,6 +1268,27 @@
       "isNew": false
     },
     {
+      "id": "a74304b32427",
+      "title": "Switch2版モンハンワイルズは買うべき？PS5版とSwitch2体験版の画質やフレームレート、ロード時間を比較してみた！【モンスターハンターワイルズ】",
+      "url": "https://youtu.be/xWL05off5p0?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-22T06:00:29.000Z",
+      "image": "",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "dce4932e17c7",
       "title": "これが噂のオブジェクトヘッド？「モンスターハンターNow」ハロウィンイベント開催予告",
       "url": "https://www.gamemeca.com/ja/view.php?gid",
@@ -1421,7 +1495,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8b8a12b6c9df",
