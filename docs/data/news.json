@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T09:00:16.404Z",
+  "updatedAt": "2026-10-24T09:28:17.474Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 64,
-  "todayCount": 15,
+  "todayCount": 14,
   "categories": [
     {
       "id": "new",
@@ -27,7 +27,7 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 2
+      "count": 1
     },
     {
       "id": "goods",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 33
+      "count": 34
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 41
+      "count": 42
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 14
+      "count": 13
     },
     {
       "id": "now",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 8
+      "count": 7
     },
     {
       "id": "outlanders",
@@ -100,15 +100,15 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 29
+      "count": 30
     },
     {
       "name": "GameWith",
-      "count": 10
+      "count": 11
     },
     {
       "name": "AppMedia",
-      "count": 6
+      "count": 5
     },
     {
       "name": "Howl.Link",
@@ -125,10 +125,6 @@
     {
       "name": "AUTOMATON",
       "count": 2
-    },
-    {
-      "name": "静岡新聞DIGITAL",
-      "count": 1
     },
     {
       "name": "日本経済新聞",
@@ -181,7 +177,7 @@
       "leadSource": "ファミ通",
       "publishedAt": "2026-10-23T02:40:00.000Z",
       "sourceCount": 6,
-      "articleCount": 7,
+      "articleCount": 8,
       "categories": [
         "new",
         "other"
@@ -204,6 +200,13 @@
           "url": "https://www.appbank.net/2026/10/22/game/3138707.php",
           "source": "AppBank",
           "publishedAt": "2026-10-22T01:34:30.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】森につづく場所の行き方【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/487205",
+          "source": "GameWith",
+          "publishedAt": "2026-10-21T18:10:14.000Z",
           "isPR": false
         },
         {
@@ -365,34 +368,13 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-24T08:30:18.790Z",
-    "previousCount": 65,
-    "newCount": 4
+    "previousAt": "2026-10-24T09:00:16.404Z",
+    "previousCount": 64,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-24T09:30:16.404Z",
+  "nextUpdateAt": "2026-10-24T09:58:17.474Z",
   "items": [
-    {
-      "id": "d3cd7084b2c3",
-      "title": "【モンハンストーリーズ3】最強装備まとめ【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79849634",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-24T07:54:12.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/174453_f690s.webp",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
     {
       "id": "be4b63eccda9",
       "title": "【モンハンストーリーズ3】凶異ビシュテンゴの攻略情報｜出現場所・入手素材【MHST3】",
@@ -413,6 +395,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "d49c2f3fa7b9",
+      "title": "【MHXX】参加型🌟HR９～ 南風装備つくるダブクロ配信【モンハンダブルクロス】 #mhxx #モンハン",
+      "url": "https://youtu.be/JpysCZipYlc?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-24T05:53:49.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "f8e3c4895cef",
@@ -454,7 +455,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1f7bd9553bdb",
@@ -476,25 +477,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "8717cd688c6e",
-      "title": "水彩画個展「タケダヒロキ展～いのちの鼓動～」が静岡市駿河区・駿府博物館で開幕 緻密な筆遣いと色彩 「モンハン」とのコラボ作品も",
-      "url": "https://news.at-s.com/article/2083586",
-      "host": "news.at-s.com",
-      "source": "静岡新聞DIGITAL",
-      "summary": "",
-      "publishedAt": "2026-10-24T03:49:00.000Z",
-      "image": "",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "d4178e175580",
@@ -660,7 +642,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5fc879b1cca5",
@@ -762,28 +744,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f1e344fb9da2",
-      "title": "＃01【MHWilds​】ワイルズSwitch2体験版。禁足地調査隊ハンター拝命〜チャタカブラ討伐まで。",
-      "url": "https://youtu.be/uGCKuVS_jv0",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-23T09:55:03.000Z",
-      "image": "",
-      "categories": [
-        "new"
-      ],
-      "series": [
-        "wilds",
-        "world"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -951,6 +911,27 @@
         "guide"
       ],
       "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "f1e344fb9da2",
+      "title": "#40 iPhone Duo、発売日に届く？予約とデータ整理の話／モンスターハンターワイルズのアクセシビリティ設定／Suno AIで作った「Fold No More」をもう一度",
+      "url": "https://youtu.be/wGJvQGiNkNQ?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-22T21:21:41.000Z",
+      "image": "",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "wilds"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1527,6 +1508,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "19a774e09a77",
+      "title": "【モンハンワイルズ】森につづく場所の行き方【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/487205",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-21T18:10:14.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/487205.png?date=1740766763",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "886aa1c43dcd",
