@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-25T14:30:14.346Z",
+  "updatedAt": "2026-10-25T15:00:18.012Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 67,
-  "todayCount": 32,
+  "total": 65,
+  "todayCount": 0,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 20
+      "count": 19
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 35
+      "count": 34
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 41
+      "count": 40
     },
     {
       "id": "rise",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 15
+      "count": 14
     },
     {
       "id": "outlanders",
@@ -104,7 +104,7 @@
     },
     {
       "name": "AppMedia",
-      "count": 13
+      "count": 12
     },
     {
       "name": "GameWith",
@@ -112,7 +112,7 @@
     },
     {
       "name": "Howl.Link",
-      "count": 5
+      "count": 4
     },
     {
       "name": "ウォーカープラス",
@@ -251,33 +251,6 @@
       ]
     },
     {
-      "id": "6efe0557eea9",
-      "title": "【特殊任務・ゴグマジオスの討伐など】配信中のあれこれ ワイルズ編その16【モンハンワイルズ /MHWilds】",
-      "summary": "",
-      "url": "https://youtu.be/k-7_GgQxuwk",
-      "image": "",
-      "leadSource": "YouTube",
-      "publishedAt": "2026-10-25T09:00:38.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other"
-      ],
-      "keywords": [
-        "モンハンワイルズ",
-        "ワイルズ"
-      ],
-      "articles": [
-        {
-          "title": "【モンハンワイルズ 参加型】王ベドを狩ろう。 #151 【ワイルズ ライブ配信】",
-          "url": "https://t.co/bbP3FilhR7",
-          "source": "Howl.Link",
-          "publishedAt": "2026-10-23T09:26:44.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "83b5cd9ee0ef",
       "title": "【PSP】モンハン日記ぽかぽかアイルー村G 初見プレイ Part１５ ～Battle１５ 【モンチャン】【JAPAGE】 【モンスターハンター 攻略】【モンスターハンター PSP】 Tanker (ClsNGQyk2C)",
       "summary": "",
@@ -336,12 +309,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-25T14:00:17.192Z",
-    "previousCount": 65,
-    "newCount": 4
+    "previousAt": "2026-10-25T14:30:14.346Z",
+    "previousCount": 67,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-25T15:00:14.346Z",
+  "nextUpdateAt": "2026-10-25T15:30:18.012Z",
   "items": [
     {
       "id": "f09bfbab67a7",
@@ -782,28 +755,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "c1ce900bfe63",
-      "title": "【モンハンストーリーズ3】侵獣攻略一覧｜解放できる危惧種まとめ【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79844810",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-25T03:03:12.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/105921_5y7po.webp",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5fc879b1cca5",
@@ -1033,7 +985,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "364b598c5948",
@@ -1453,27 +1405,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "bb0db1e00b30",
-      "title": "【モンハンワイルズ 参加型】王ベドを狩ろう。 #151 【ワイルズ ライブ配信】",
-      "url": "https://t.co/bbP3FilhR7",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-10-23T09:26:44.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "1dd1ad9265ee",
