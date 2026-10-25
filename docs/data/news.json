@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-25T00:00:15.687Z",
+  "updatedAt": "2026-10-25T00:30:14.506Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 62,
-  "todayCount": 7,
+  "total": 64,
+  "todayCount": 8,
   "categories": [
     {
       "id": "new",
@@ -27,7 +27,7 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 1
+      "count": 2
     },
     {
       "id": "goods",
@@ -37,7 +37,7 @@
     {
       "id": "media",
       "label": "映像・音楽・書籍",
-      "count": 0
+      "count": 1
     },
     {
       "id": "guide",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 8
+      "count": 9
     },
     {
       "id": "outlanders",
@@ -100,11 +100,11 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 28
+      "count": 29
     },
     {
       "name": "GameWith",
-      "count": 11
+      "count": 10
     },
     {
       "name": "AppMedia",
@@ -115,11 +115,19 @@
       "count": 3
     },
     {
+      "name": "ファミ通",
+      "count": 2
+    },
+    {
       "name": "AUTOMATON",
       "count": 2
     },
     {
       "name": "Game*Spark",
+      "count": 1
+    },
+    {
+      "name": "静岡新聞DIGITAL",
       "count": 1
     },
     {
@@ -136,10 +144,6 @@
     },
     {
       "name": "Sortir à Paris",
-      "count": 1
-    },
-    {
-      "name": "ファミ通",
       "count": 1
     },
     {
@@ -169,32 +173,24 @@
   ],
   "topics": [
     {
-      "id": "e6d79acfa4bd",
-      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
+      "id": "1fc10cd87f85",
+      "title": "キャラクリの完成度が偉業すぎる総集編【モンハンワイルズ】",
       "summary": "",
-      "url": "https://gamewith.jp/mhwilds/563096",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
-      "leadSource": "GameWith",
-      "publishedAt": "2026-10-24T19:21:27.000Z",
-      "sourceCount": 4,
-      "articleCount": 5,
+      "url": "https://youtu.be/Q7NTUPuVaAI",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545381.png?date=1771384851",
+      "leadSource": "YouTube",
+      "publishedAt": "2026-10-24T22:00:17.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
       "categories": [
-        "guide",
-        "other"
+        "other",
+        "guide"
       ],
       "keywords": [
         "モンハンワイルズ",
-        "モンスターハンターワイルズ",
-        "アセンダンス"
+        "モンスターハンターワイルズ"
       ],
       "articles": [
-        {
-          "title": "【モンハンワイルズ アセンダンス】最新情報！新拠点マドイの中身が判明 ラオシャンロン迎撃の砦・撃龍槍も【MHWilds】",
-          "url": "https://youtu.be/sauqhsOgA6M?si",
-          "source": "YouTube",
-          "publishedAt": "2026-10-23T22:00:11.000Z",
-          "isPR": false
-        },
         {
           "title": "モンハンたまにバグるよね？w【モンスターハンターワイルズ】＃モンハン #モンハンワイルズ #モンスターハンターワイルズ",
           "url": "https://t.co/QmdZits5hN",
@@ -207,13 +203,6 @@
           "url": "https://gamewith.jp/mhwilds/545381",
           "source": "GameWith",
           "publishedAt": "2026-10-23T16:48:58.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『モンスターハンターワイルズ アセンダンス』：パリゲームウィークでの先行プレイレポート",
-          "url": "https://www.sortiraparis.com/ja/pari-de-nani-o-suru-ka/gemu/articles/351683-monsutahantawairuzu-asendansu-pari-gemuzu-u-ikudeno-xian-xingpureirepoto",
-          "source": "Sortir à Paris",
-          "publishedAt": "2026-10-23T08:00:00.000Z",
           "isPR": false
         }
       ]
@@ -284,15 +273,15 @@
       "leadSource": "YouTube",
       "publishedAt": "2026-10-22T13:04:22.000Z",
       "sourceCount": 2,
-      "articleCount": 5,
+      "articleCount": 4,
       "categories": [
         "guide",
         "other"
       ],
       "keywords": [
         "モンハンワイルズ",
-        "モンスター",
-        "モンスターハンターワイルズ"
+        "ガンランス",
+        "モンスター"
       ],
       "articles": [
         {
@@ -315,24 +304,45 @@
           "source": "GameWith",
           "publishedAt": "2026-10-22T02:12:30.000Z",
           "isPR": false
-        },
+        }
+      ]
+    },
+    {
+      "id": "e6d79acfa4bd",
+      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
+      "summary": "",
+      "url": "https://gamewith.jp/mhwilds/563096",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
+      "leadSource": "GameWith",
+      "publishedAt": "2026-10-24T19:21:27.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "guide",
+        "other"
+      ],
+      "keywords": [
+        "アセンダンス",
+        "最新情報"
+      ],
+      "articles": [
         {
-          "title": "【モンハンワイルズ】歴戦王ウズトゥナの対策・攻略と弱点【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/505026",
-          "source": "GameWith",
-          "publishedAt": "2026-10-22T00:01:16.000Z",
+          "title": "【モンハンワイルズ アセンダンス】最新情報！新拠点マドイの中身が判明 ラオシャンロン迎撃の砦・撃龍槍も【MHWilds】",
+          "url": "https://youtu.be/sauqhsOgA6M?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-23T22:00:11.000Z",
           "isPR": false
         }
       ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-24T23:30:15.282Z",
-    "previousCount": 60,
-    "newCount": 3
+    "previousAt": "2026-10-25T00:00:15.687Z",
+    "previousCount": 62,
+    "newCount": 5
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-25T00:30:15.687Z",
+  "nextUpdateAt": "2026-10-25T01:00:14.506Z",
   "items": [
     {
       "id": "2fb695ab8e99",
@@ -353,22 +363,43 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
-      "id": "de32d12816a6",
-      "title": "【モンハンストーリーズ3】キャラメイクの項目とやり方｜変更はできる？【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79825274",
+      "id": "5cb07b2b0347",
+      "title": "【モンハンストーリーズ3】序盤の効率的な進め方｜押さえておきたいポイントまとめ【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79832135",
       "host": "appmedia.jp",
       "source": "AppMedia",
       "summary": "",
-      "publishedAt": "2026-10-24T22:48:38.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/170332_7zwlr.webp",
+      "publishedAt": "2026-10-24T22:45:45.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/135446_cduob.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "1fc10cd87f85",
+      "title": "キャラクリの完成度が偉業すぎる総集編【モンハンワイルズ】",
+      "url": "https://youtu.be/Q7NTUPuVaAI",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-24T22:00:17.000Z",
+      "image": "",
       "categories": [
         "other"
       ],
       "series": [
-        "stories"
+        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -472,27 +503,6 @@
       ],
       "series": [
         "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "364b598c5948",
-      "title": "ゆるっとハンティング。 #吾白ゆるふわ語り草 【モンハンワイルズ】",
-      "url": "https://t.co/ZzYYoQkAZe",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-10-24T13:56:25.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -645,6 +655,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "8717cd688c6e",
+      "title": "水彩画個展「タケダヒロキ展～いのちの鼓動～」が静岡市駿河区・駿府博物館で開幕 緻密な筆遣いと色彩 「モンハン」とのコラボ作品も",
+      "url": "https://news.at-s.com/article/2083586",
+      "host": "news.at-s.com",
+      "source": "静岡新聞DIGITAL",
+      "summary": "",
+      "publishedAt": "2026-10-24T03:49:00.000Z",
+      "image": "",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "064e96a050ce",
@@ -918,6 +947,27 @@
       "isNew": false
     },
     {
+      "id": "bb0db1e00b30",
+      "title": "【モンハンワイルズ 参加型】王ベドを狩ろう。 #151 【ワイルズ ライブ配信】",
+      "url": "https://t.co/bbP3FilhR7",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-23T09:26:44.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "1dd1ad9265ee",
       "title": "【MHWilds】英雄の証 猫火事場 ヘビィボウガン 14'31\"38/Proof of a Hero Heroics Heavy Bowgun【モンハンワイルズ】",
       "url": "https://youtu.be/VOcNPSsrmLo?si",
@@ -1129,6 +1179,27 @@
       "isNew": false
     },
     {
+      "id": "3a847101d21f",
+      "title": "『モンスターハンター ストーリーズ』10周年。テレビアニメにもなったライダーとオトモンの絆をテーマにしたRPG【今日は何の日？】",
+      "url": "https://www.famitsu.com/article/images/202610/90097/892948",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-10-22T14:25:06.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90097/cf99687dd719c4e8bc6a39e946c3d9ef7.jpg?x=1280",
+      "categories": [
+        "media"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "fecc46b11179",
       "title": "モンスターハンターワイルズSwitch2体験版で遊んでみた",
       "url": "https://youtu.be/TcW_q_G8pUA?si",
@@ -1319,7 +1390,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a2119f0dcdb7",
@@ -1607,27 +1678,6 @@
       ],
       "series": [
         "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "c859fa9d9bd5",
-      "title": "【モンハンワイルズ】歴戦王ウズトゥナの対策・攻略と弱点【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/505026",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-22T00:01:16.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/505026.png?date=1753236212",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
