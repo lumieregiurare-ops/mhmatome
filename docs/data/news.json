@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-25T21:00:13.965Z",
+  "updatedAt": "2026-10-25T21:30:15.066Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 79,
+  "total": 72,
   "todayCount": 6,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 18
+      "count": 17
     },
     {
       "id": "sale",
@@ -62,29 +62,29 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 47
+      "count": 41
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 44
+      "count": 42
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 5
+      "count": 3
     },
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 14
+      "count": 13
     },
     {
       "id": "now",
       "label": "Now",
-      "count": 2
+      "count": 1
     },
     {
       "id": "stories",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 38
+      "count": 31
     },
     {
       "name": "AppMedia",
@@ -108,7 +108,7 @@
     },
     {
       "name": "GameWith",
-      "count": 9
+      "count": 8
     },
     {
       "name": "Howl.Link",
@@ -119,15 +119,15 @@
       "count": 3
     },
     {
+      "name": "Unisba Media",
+      "count": 2
+    },
+    {
       "name": "AUTOMATON",
       "count": 2
     },
     {
       "name": "X",
-      "count": 1
-    },
-    {
-      "name": "Unisba Media",
       "count": 1
     },
     {
@@ -340,12 +340,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-25T20:30:16.330Z",
-    "previousCount": 58,
-    "newCount": 21
+    "previousAt": "2026-10-25T21:00:13.965Z",
+    "previousCount": 79,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-25T21:30:13.965Z",
+  "nextUpdateAt": "2026-10-25T22:00:15.066Z",
   "items": [
     {
       "id": "6fae96ec537f",
@@ -366,7 +366,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5c5a340119cb",
@@ -387,7 +387,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "cc88090a1e7f",
@@ -408,7 +408,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ae22bde960f2",
@@ -429,7 +429,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "31a0464673f0",
@@ -450,7 +450,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e6d79acfa4bd",
@@ -486,6 +486,25 @@
       "series": [
         "stories"
       ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "3d0bc9e4a207",
+      "title": "格闘将官のモンスターハンター第1話「ひと狩り行こうぜ！」 Ve Day (sGzMMMLZHl)",
+      "url": "https://media.unisba.ac.id/a8e6d4be/7aa0e9cfPyYNBT59MApQGjs/",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-10-25T14:20:05.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -533,7 +552,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1522d4cef7f3",
@@ -554,7 +573,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f09bfbab67a7",
@@ -617,7 +636,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1a84f5bbd0bd",
@@ -638,7 +657,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0e3be61d9028",
@@ -702,7 +721,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c299ccb1012c",
@@ -866,7 +885,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fac730dd3ea3",
@@ -929,26 +948,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "383edbda84b8",
-      "title": "【MONSTER HUNTER: WORLD】古龍狩りのお時間 Part: 9",
-      "url": "https://youtu.be/OGErQv_cOHA?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-25T05:34:53.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "649b704173f6",
@@ -989,7 +989,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5fc879b1cca5",
@@ -1242,28 +1242,6 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "f1e344fb9da2",
-      "title": "＃02【MHWilds​】ワイルズSwitch2体験版。さよならセクレト〜ようこそクナファ村まで。",
-      "url": "https://youtu.be/p3JmpPmuzy0",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-24T09:55:01.000Z",
-      "image": "",
-      "categories": [
-        "new"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
       "isNew": false
     },
     {
@@ -1331,47 +1309,6 @@
       "isNew": false
     },
     {
-      "id": "0e925b64b006",
-      "title": "【MHWilds】ラギア一式でセルレギオスに挑むオジサン",
-      "url": "https://youtu.be/8muHca85usU?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-24T06:15:13.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "d49c2f3fa7b9",
-      "title": "【MHXX】参加型🌟HR９～ 南風装備つくるダブクロ配信【モンハンダブルクロス】 #mhxx #モンハン",
-      "url": "https://youtu.be/JpysCZipYlc?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-24T05:53:49.000Z",
-      "image": "",
-      "categories": [
-        "guide"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "064e96a050ce",
       "title": "★10ゴグマジオス ハンマーソロ サポハンなし 49'00\"66 非火事場 非不屈/ Gogmazios Hammer Solo 【MHWilds/PS5】",
       "url": "https://youtu.be/MgELIUAtnwc?si",
@@ -1392,27 +1329,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "38ec9c7bc7f9",
-      "title": "【モンハンサンブレイク】キュラララ原初メルゼナ【苦手克服シリーズ】【switch】",
-      "url": "https://youtu.be/TyJCVg4xd5o?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-24T01:00:34.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "a5a099850e77",
@@ -1625,27 +1541,6 @@
       "isNew": false
     },
     {
-      "id": "5b31a52ba6f9",
-      "title": "【原初メルゼナ防具護石禁止ノーダメ討伐】ランス 13'26 モンスターハンターライズ：サンブレイク 烈禍襲来：キュララララララ!",
-      "url": "https://youtu.be/x25IWD7PcOQ?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-23T10:00:33.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "1c7c02d20c21",
       "title": "【カプコンに潜入】スイッチ２版ワイルズ体験会に行ってみた！【モンハンTravel】",
       "url": "https://t.co/8yHkxXj1h8",
@@ -1659,6 +1554,28 @@
       ],
       "series": [
         "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "f1e344fb9da2",
+      "title": "＃01【MHWilds​】ワイルズSwitch2体験版。禁足地調査隊ハンター拝命〜チャタカブラ討伐まで。",
+      "url": "https://youtu.be/uGCKuVS_jv0",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-23T09:55:03.000Z",
+      "image": "",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "wilds",
+        "world"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1707,27 +1624,6 @@
       "isNew": false
     },
     {
-      "id": "1b79e9e5c23f",
-      "title": "【モンハンワイルズ】全武器種で全モンスターを狩ってモンハンワイルズを極める！☆10ゾシアガンランスpart136",
-      "url": "https://youtu.be/obSVmthtJGQ?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-23T09:28:13.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "1dd1ad9265ee",
       "title": "【MHWilds】英雄の証 猫火事場 ヘビィボウガン 14'31\"38/Proof of a Hero Heroics Heavy Bowgun【モンハンワイルズ】",
       "url": "https://youtu.be/VOcNPSsrmLo?si",
@@ -1743,25 +1639,6 @@
         "wilds",
         "world"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "95cb5c1f1a07",
-      "title": "ゲスの狩り騒ぎ！！モンハンダブルクロス Part21 水竜編",
-      "url": "https://youtu.be/iKaUGeAVwuM?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-23T08:00:27.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1872,6 +1749,27 @@
       "isNew": false
     },
     {
+      "id": "b7a2699567e6",
+      "title": "Switch2版『モンハンワイルズ』体験版が配信開始。チャタカブラ、ケマトリスを狩猟できる。ローカル通信のマルチプレイ対応",
+      "url": "https://www.famitsu.com/article/images/202610/91469/906374",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-10-23T02:40:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/91469/a29aa750d1aa4d768eb84a3e42c7257ee.jpg?x=1280",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "81028676ddfa",
       "title": "【モンハンナウ】最強装備・おすすめ装備まとめ【モンハンNow】",
       "url": "https://gamewith.jp/monsterhunternow/article/show/414964",
@@ -1893,27 +1791,6 @@
       "isNew": false
     },
     {
-      "id": "b7a2699567e6",
-      "title": "Switch2版『モンハンワイルズ』体験版が配信開始。チャタカブラ、ケマトリスを狩猟できる。ローカル通信のマルチプレイ対応",
-      "url": "https://www.famitsu.com/article/images/202610/91469/906367",
-      "host": "famitsu.com",
-      "source": "ファミ通",
-      "summary": "",
-      "publishedAt": "2026-10-23T01:10:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/91469/abae7faf07af20508226837ac8f327d4a.jpg?x=1280",
-      "categories": [
-        "new"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "05b3b3164526",
       "title": "【サンブレイク】鎧玉集めの効率的なやり方【モンハンライズ】",
       "url": "https://gamewith.jp/mhrize/article/show/266437",
@@ -1927,27 +1804,6 @@
       ],
       "series": [
         "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "62cc1bf6e194",
-      "title": "【モンハンナウ】招待コードの入力方法｜後から入力できる？【モンハンNow】",
-      "url": "https://gamewith.jp/monsterhunternow/416413",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-22T21:22:10.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/416413.png?date=1694146222",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "now"
       ],
       "isOfficial": false,
       "isPR": false,
