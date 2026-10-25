@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-25T13:00:18.175Z",
+  "updatedAt": "2026-10-25T13:30:18.579Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 64,
-  "todayCount": 26,
+  "total": 69,
+  "todayCount": 32,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 19
+      "count": 20
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 32
+      "count": 36
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 39
+      "count": 42
     },
     {
       "id": "rise",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 13
+      "count": 15
     },
     {
       "id": "outlanders",
@@ -100,11 +100,11 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 27
+      "count": 28
     },
     {
       "name": "AppMedia",
-      "count": 11
+      "count": 13
     },
     {
       "name": "GameWith",
@@ -112,7 +112,7 @@
     },
     {
       "name": "Howl.Link",
-      "count": 3
+      "count": 5
     },
     {
       "name": "ウォーカープラス",
@@ -211,6 +211,40 @@
       ]
     },
     {
+      "id": "f09bfbab67a7",
+      "title": "【モンハンワイルズ配信】ちょっとだけモンハン",
+      "summary": "",
+      "url": "https://t.co/IDLWeMZxqW",
+      "image": "",
+      "leadSource": "Howl.Link",
+      "publishedAt": "2026-10-25T12:36:55.000Z",
+      "sourceCount": 2,
+      "articleCount": 3,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "モンハンワイルズ",
+        "アセンダンス"
+      ],
+      "articles": [
+        {
+          "title": "ただ鎧玉が必要なだけ、憎いからじゃない。【モンハンワイルズ アセンダンス】",
+          "url": "https://t.co/L76GzdWpOr",
+          "source": "Howl.Link",
+          "publishedAt": "2026-10-25T12:26:58.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ アセンダンス】最新情報！新拠点マドイの中身が判明 ラオシャンロン迎撃の砦・撃龍槍も【MHWilds】",
+          "url": "https://youtu.be/sauqhsOgA6M?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-23T22:00:11.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "7b0035d5632a",
       "title": "参加型！いろいろ狩っていきましょうか～ #モンハン #ワイルズ 【#モンスターハンターワイルズ 】",
       "summary": "",
@@ -274,44 +308,79 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "e6d79acfa4bd",
-      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
-      "summary": "",
-      "url": "https://gamewith.jp/mhwilds/563096",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
-      "leadSource": "GameWith",
-      "publishedAt": "2026-10-24T19:21:27.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "guide",
-        "other"
-      ],
-      "keywords": [
-        "アセンダンス",
-        "最新情報"
-      ],
-      "articles": [
-        {
-          "title": "【モンハンワイルズ アセンダンス】最新情報！新拠点マドイの中身が判明 ラオシャンロン迎撃の砦・撃龍槍も【MHWilds】",
-          "url": "https://youtu.be/sauqhsOgA6M?si",
-          "source": "YouTube",
-          "publishedAt": "2026-10-23T22:00:11.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-25T12:30:13.328Z",
+    "previousAt": "2026-10-25T13:00:18.175Z",
     "previousCount": 64,
-    "newCount": 5
+    "newCount": 6
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-25T13:30:18.175Z",
+  "nextUpdateAt": "2026-10-25T14:00:18.579Z",
   "items": [
+    {
+      "id": "f09bfbab67a7",
+      "title": "【モンハンワイルズ配信】ちょっとだけモンハン",
+      "url": "https://t.co/IDLWeMZxqW",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-25T12:36:55.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "12710de69ab1",
+      "title": "ただ鎧玉が必要なだけ、憎いからじゃない。【モンハンワイルズ アセンダンス】",
+      "url": "https://t.co/L76GzdWpOr",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-25T12:26:58.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "b6fb0db0cf71",
+      "title": "【モンハンストーリーズ3】おすすめキャラ【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79834010",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-25T11:55:34.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/190142_hb7wm.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "f791b5f05428",
       "title": "【モンハンストーリーズ3】レベル上げの効率的なやり方【MHST3】",
@@ -320,7 +389,28 @@
       "source": "AppMedia",
       "summary": "",
       "publishedAt": "2026-10-25T11:22:12.000Z",
-      "image": "",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/183830_lg0m4.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "1a84f5bbd0bd",
+      "title": "【モンハンストーリーズ3】アルシュベルドの攻略情報｜出現場所・入手素材【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79852925",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-25T11:17:34.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2020/01/home_image.png",
       "categories": [
         "guide"
       ],
@@ -363,12 +453,33 @@
       "source": "AppMedia",
       "summary": "",
       "publishedAt": "2026-10-25T10:51:10.000Z",
-      "image": "",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/173337_x0wn3.webp",
       "categories": [
         "guide"
       ],
       "series": [
         "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "9585fd0bcc0f",
+      "title": "ゴグマジオｽﾋﾟｷ【モンスターハンターワイルズ】",
+      "url": "https://youtu.be/wAFLWkteksg?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-25T09:54:36.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -467,7 +578,7 @@
       "source": "AppMedia",
       "summary": "",
       "publishedAt": "2026-10-25T07:18:57.000Z",
-      "image": "",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/205551_ovsmj.webp",
       "categories": [
         "guide",
         "sales"
@@ -552,7 +663,7 @@
       "source": "AppMedia",
       "summary": "",
       "publishedAt": "2026-10-25T05:51:01.000Z",
-      "image": "",
+      "image": "https://appmedia.jp/wp-content/uploads/2020/01/home_image.png",
       "categories": [
         "guide"
       ],
@@ -594,7 +705,7 @@
       "source": "AppMedia",
       "summary": "",
       "publishedAt": "2026-10-25T03:51:26.000Z",
-      "image": "",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/143439_w9hov.webp",
       "categories": [
         "other"
       ],
@@ -762,7 +873,7 @@
       "source": "AppMedia",
       "summary": "",
       "publishedAt": "2026-10-25T01:16:56.000Z",
-      "image": "",
+      "image": "https://appmedia.jp/wp-content/uploads/2025/11/111147_kl2nw.webp",
       "categories": [
         "other"
       ],
@@ -858,6 +969,27 @@
       "isNew": false
     },
     {
+      "id": "7fd57d31d64f",
+      "title": "【TikTokLIVEアーカイブ】モンハンワイルズ #9（2026/10/23）",
+      "url": "https://youtu.be/gyavnu5N_wY",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-24T15:09:41.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "364b598c5948",
       "title": "ゆるっとハンティング。 #吾白ゆるふわ語り草 【モンハンワイルズ】",
       "url": "https://t.co/ZzYYoQkAZe",
@@ -918,7 +1050,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ccdef5308ea1",
@@ -1170,7 +1302,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e7b3f6b66129",
@@ -1594,27 +1726,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "0ca776c57f3d",
-      "title": "【慣れてきた中級者向け】歴戦王アルシュベルドでタイムをちょっと縮めるガンランス立ち回り＆狩猟解説【モンハンワイルズ】",
-      "url": "https://youtu.be/ghAZKixobc8?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-22T13:04:22.000Z",
-      "image": "",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "89c52c877cdd",
