@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-25T03:30:15.716Z",
+  "updatedAt": "2026-10-25T04:00:15.458Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 63,
-  "todayCount": 12,
+  "total": 64,
+  "todayCount": 15,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 8
+      "count": 7
     },
     {
       "id": "update",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 35
+      "count": 37
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 36
+      "count": 37
     },
     {
       "id": "rise",
@@ -89,26 +89,26 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 12
+      "count": 14
     },
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 2
+      "count": 1
     }
   ],
   "sources": [
     {
       "name": "YouTube",
-      "count": 27
+      "count": 28
     },
     {
       "name": "AppMedia",
-      "count": 10
+      "count": 12
     },
     {
       "name": "GameWith",
-      "count": 8
+      "count": 6
     },
     {
       "name": "Howl.Link",
@@ -161,18 +161,18 @@
   ],
   "topics": [
     {
-      "id": "1fc10cd87f85",
-      "title": "キャラクリの完成度が偉業すぎる総集編【モンハンワイルズ】",
+      "id": "ad3e913d4ea2",
+      "title": "【空前オメガブーム】仲間を守ってドパる新装備「広域剣斧マン」を紹介【モンハンワイルズ/スラッシュアックス/装備】",
       "summary": "",
-      "url": "https://youtu.be/Q7NTUPuVaAI",
+      "url": "https://youtu.be/hrAmqjThNr0",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545381.png?date=1771384851",
       "leadSource": "YouTube",
-      "publishedAt": "2026-10-24T22:00:17.000Z",
+      "publishedAt": "2026-10-25T01:00:27.000Z",
       "sourceCount": 3,
       "articleCount": 3,
       "categories": [
-        "other",
-        "guide"
+        "guide",
+        "other"
       ],
       "keywords": [
         "モンハンワイルズ",
@@ -303,13 +303,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-25T03:00:14.161Z",
-    "previousCount": 56,
-    "newCount": 13
+    "previousAt": "2026-10-25T03:30:15.716Z",
+    "previousCount": 63,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-25T04:00:15.716Z",
+  "nextUpdateAt": "2026-10-25T04:30:15.458Z",
   "items": [
+    {
+      "id": "5c5a340119cb",
+      "title": "【モンハンストーリーズ3】タルアイルーの倒し方と出現場所【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79819751",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-25T02:27:45.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/124144_ylvib.webp",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "d7198b0ce489",
       "title": "【モンハンストーリーズ3】イヴェルカーナのオトモン情報｜入手方法・絆遺伝子【MHST3】",
@@ -329,7 +350,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "335359f79d55",
@@ -350,7 +371,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b76a54b5b309",
@@ -366,6 +387,27 @@
       ],
       "series": [
         "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "ad3e913d4ea2",
+      "title": "【空前オメガブーム】仲間を守ってドパる新装備「広域剣斧マン」を紹介【モンハンワイルズ/スラッシュアックス/装備】",
+      "url": "https://youtu.be/hrAmqjThNr0",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-25T01:00:27.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -413,7 +455,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5cb07b2b0347",
@@ -434,7 +476,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1fc10cd87f85",
@@ -476,7 +518,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e6d79acfa4bd",
@@ -516,7 +558,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "15dfeca257b9",
@@ -529,6 +571,27 @@
       "image": "https://appmedia.jp/wp-content/uploads/2020/01/home_image.png",
       "categories": [
         "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "1522d4cef7f3",
+      "title": "【モンハンストーリーズ3】天変古龍一覧と出現条件【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79838603",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-24T15:09:47.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/191512_qv645.webp",
+      "categories": [
+        "other"
       ],
       "series": [
         "stories"
@@ -558,7 +621,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "364b598c5948",
@@ -685,7 +748,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6a9d60eab1f0",
@@ -833,7 +896,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "06cd0a988d7a",
@@ -1486,7 +1549,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a2119f0dcdb7",
@@ -1552,25 +1615,6 @@
       "isNew": false
     },
     {
-      "id": "488530f4941c",
-      "title": "【パズドラ】ジンオウガの評価！超覚醒/潜在覚醒おすすめ",
-      "url": "https://xn--0ck4aw2h.gamewith.jp/article/show/86399",
-      "host": "xn--0ck4aw2h.gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-22T07:44:59.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/86399.png?date=1515658099",
-      "categories": [
-        "guide"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "dce4932e17c7",
       "title": "これが噂のオブジェクトヘッド？「モンスターハンターNow」ハロウィンイベント開催予告",
       "url": "https://www.gamemeca.com/ja/view.php?gid",
@@ -1603,27 +1647,6 @@
       ],
       "series": [
         "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4b8431f2d480",
-      "title": "『モンスターハンターアウトランダーズ』のゲーム概要や公式発表の情報まとめ！モンハン新作アプリはオープンワールド！",
-      "url": "https://gamewith.jp/gamedb/8636/articles/20086",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-22T03:46:01.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/8636/rectangle/20086.png?t=1792640762",
-      "categories": [
-        "new"
-      ],
-      "series": [
-        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
