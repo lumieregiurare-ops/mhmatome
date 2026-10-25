@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-25T10:30:14.283Z",
+  "updatedAt": "2026-10-25T11:00:16.651Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 67,
-  "todayCount": 26,
+  "total": 68,
+  "todayCount": 27,
   "categories": [
     {
       "id": "new",
@@ -62,24 +62,24 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 34
+      "count": 35
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 39
+      "count": 40
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 2
+      "count": 3
     },
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 11
+      "count": 10
     },
     {
       "id": "now",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 16
+      "count": 15
     },
     {
       "id": "outlanders",
@@ -100,19 +100,19 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 24
+      "count": 26
     },
     {
       "name": "AppMedia",
-      "count": 14
+      "count": 13
     },
     {
       "name": "GameWith",
-      "count": 9
+      "count": 10
     },
     {
       "name": "Howl.Link",
-      "count": 6
+      "count": 5
     },
     {
       "name": "ウォーカープラス",
@@ -346,34 +346,6 @@
       ]
     },
     {
-      "id": "f968b6b05d32",
-      "title": "【モンハンワイルズ】【零式オメガ】【応援上映】なんかできた記念配信。零式オメガ討伐耐久！ #mhws #モンハンワイルズ",
-      "summary": "",
-      "url": "https://t.co/Na9RpeoNDw",
-      "image": "",
-      "leadSource": "Howl.Link",
-      "publishedAt": "2026-10-23T20:43:49.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other"
-      ],
-      "keywords": [
-        "モンハンワイルズ",
-        "オメガ",
-        "零式"
-      ],
-      "articles": [
-        {
-          "title": "脱臼からの復帰戦【MHWilds】零式オメガと闘い続ける日常(305日目)狩猟笛ソロ（サポハン有）/Daily Challenge Savage Omega Planetes #モンハンワイルズ",
-          "url": "https://youtu.be/vilLuWoqcKc",
-          "source": "YouTube",
-          "publishedAt": "2026-10-22T12:00:28.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "b7a2699567e6",
       "title": "Switch2版『モンハンワイルズ』体験版が配信開始。チャタカブラ、ケマトリスを狩猟できる。ローカル通信のマルチプレイ対応",
       "summary": "",
@@ -402,13 +374,55 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-25T10:00:15.315Z",
-    "previousCount": 66,
-    "newCount": 1
+    "previousAt": "2026-10-25T10:30:14.283Z",
+    "previousCount": 67,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-25T11:00:14.283Z",
+  "nextUpdateAt": "2026-10-25T11:30:16.651Z",
   "items": [
+    {
+      "id": "7120ab019e57",
+      "title": "【PC版・switch2版】モンスターハンターワイルズ【起動速度比較】",
+      "url": "https://youtu.be/RGObnbEOD5M?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-25T09:10:25.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "0bc99c29f87d",
+      "title": "【モンハンストーリーズ3】おすすめ絆遺伝子【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79862321",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-25T09:08:38.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/191734_k1xrs.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "eefc78a0b6f9",
       "title": "モンスターハンターNow(ナウ)カーニバル 2026：大阪(大阪府)の情報",
@@ -449,6 +463,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "fac730dd3ea3",
+      "title": "【うにゃ猫弓ハンター】モンスターハンターワイルズ【PC版 ネタバレ注意】 #90",
+      "url": "https://youtu.be/7AZbPFaEh-c",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-25T06:38:24.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "6daa344d4daf",
@@ -511,7 +546,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "90b54f988b73",
@@ -871,27 +906,6 @@
       "isNew": false
     },
     {
-      "id": "f2e1b6cce113",
-      "title": "【モンハンストーリーズ3】オロミドロの攻略情報｜出現場所・入手素材【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79843298",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-24T19:44:21.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2020/01/home_image.png",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "e6d79acfa4bd",
       "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
       "url": "https://gamewith.jp/mhwilds/563096",
@@ -919,27 +933,6 @@
       "summary": "",
       "publishedAt": "2026-10-24T15:38:06.000Z",
       "image": "https://appmedia.jp/wp-content/uploads/2020/01/home_image.png",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f791b5f05428",
-      "title": "【モンハンストーリーズ3】レベル上げの効率的なやり方【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79833866",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-24T15:08:19.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/183830_lg0m4.webp",
       "categories": [
         "guide"
       ],
@@ -1178,28 +1171,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f968b6b05d32",
-      "title": "【モンハンワイルズ】【零式オメガ】【応援上映】なんかできた記念配信。零式オメガ討伐耐久！ #mhws #モンハンワイルズ",
-      "url": "https://t.co/Na9RpeoNDw",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-10-23T20:43:49.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1561,6 +1532,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "05b3b3164526",
+      "title": "【サンブレイク】鎧玉集めの効率的なやり方【モンハンライズ】",
+      "url": "https://gamewith.jp/mhrize/article/show/266437",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-22T23:59:06.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/266437.png?date=1655804078",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "f1e344fb9da2",
