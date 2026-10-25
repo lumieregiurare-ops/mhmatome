@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-25T16:30:15.432Z",
+  "updatedAt": "2026-10-25T17:00:16.472Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 65,
+  "total": 69,
   "todayCount": 1,
   "categories": [
     {
@@ -27,7 +27,7 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 1
+      "count": 2
     },
     {
       "id": "goods",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 18
+      "count": 20
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 35
+      "count": 36
     }
   ],
   "series": [
@@ -79,17 +79,17 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 10
+      "count": 11
     },
     {
       "id": "now",
       "label": "Now",
-      "count": 0
+      "count": 1
     },
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 14
+      "count": 17
     },
     {
       "id": "outlanders",
@@ -100,11 +100,11 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 27
+      "count": 28
     },
     {
       "name": "AppMedia",
-      "count": 12
+      "count": 15
     },
     {
       "name": "GameWith",
@@ -119,15 +119,19 @@
       "count": 2
     },
     {
-      "name": "Game*Spark",
-      "count": 2
-    },
-    {
       "name": "AUTOMATON",
       "count": 2
     },
     {
       "name": "Unisba Media",
+      "count": 1
+    },
+    {
+      "name": "Game*Spark",
+      "count": 1
+    },
+    {
+      "name": "静岡新聞DIGITAL",
       "count": 1
     },
     {
@@ -151,7 +155,7 @@
       "count": 1
     },
     {
-      "name": "ゲーム情報！ゲームのはなし",
+      "name": "ｄメニューニュース",
       "count": 1
     }
   ],
@@ -165,7 +169,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-10-25T02:52:05.000Z",
       "sourceCount": 3,
-      "articleCount": 7,
+      "articleCount": 6,
       "categories": [
         "guide",
         "other"
@@ -173,7 +177,7 @@
       "keywords": [
         "モンハンワイルズ",
         "モンスターハンターワイルズ",
-        "攻略"
+        "報酬"
       ],
       "articles": [
         {
@@ -181,13 +185,6 @@
           "url": "https://gamewith.jp/mhwilds/545421",
           "source": "GameWith",
           "publishedAt": "2026-10-25T01:38:04.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ】ゴグマジオスの対策装備と周回装備・攻略【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/520491",
-          "source": "GameWith",
-          "publishedAt": "2026-10-24T05:13:05.000Z",
           "isPR": false
         },
         {
@@ -254,35 +251,6 @@
       ]
     },
     {
-      "id": "83b5cd9ee0ef",
-      "title": "【PSP】モンハン日記ぽかぽかアイルー村G 初見プレイ Part１５ ～Battle１５ 【モンチャン】【JAPAGE】 【モンスターハンター 攻略】【モンスターハンター PSP】 Tanker (ClsNGQyk2C)",
-      "summary": "",
-      "url": "https://media.unisba.ac.id/7ed23838/cdf86486XDMMIQ1XHjctMg0",
-      "image": "",
-      "leadSource": "Unisba Media",
-      "publishedAt": "2026-10-25T03:24:19.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "guide",
-        "community"
-      ],
-      "keywords": [
-        "part",
-        "プレイ",
-        "初見"
-      ],
-      "articles": [
-        {
-          "title": "【ずんだもん実況】モンスターハンターストーリーズ【初見プレイ】part 43",
-          "url": "https://youtu.be/YpQ6CkY_Its?si",
-          "source": "YouTube",
-          "publishedAt": "2026-10-23T13:00:27.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "e6d79acfa4bd",
       "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
       "summary": "",
@@ -312,12 +280,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-25T16:00:16.267Z",
-    "previousCount": 52,
-    "newCount": 15
+    "previousAt": "2026-10-25T16:30:15.432Z",
+    "previousCount": 65,
+    "newCount": 8
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-25T17:00:15.432Z",
+  "nextUpdateAt": "2026-10-25T17:30:16.472Z",
   "items": [
     {
       "id": "31a0464673f0",
@@ -338,28 +306,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "002be6d24581",
-      "title": "【モンハンストーリーズ3】料理のおすすめ【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79834685",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-25T14:57:28.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/191355_k3uqg.webp",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b76a54b5b309",
@@ -380,7 +327,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1522d4cef7f3",
@@ -401,7 +348,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f09bfbab67a7",
@@ -464,7 +411,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f791b5f05428",
@@ -485,7 +432,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1a84f5bbd0bd",
@@ -506,7 +453,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0e3be61d9028",
@@ -549,7 +496,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9585fd0bcc0f",
@@ -592,6 +539,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "0bc99c29f87d",
+      "title": "【モンハンストーリーズ3】おすすめ絆遺伝子【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79862321",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-25T09:08:38.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/191734_k1xrs.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "eefc78a0b6f9",
@@ -654,7 +622,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fac730dd3ea3",
@@ -717,6 +685,69 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "8af321878f51",
+      "title": "【モンハンワイルズ】♯112 バウンティも終わったし強いやつ行くべ 【茶乃 小涼】 Henry Winkler (mWJM5g4bRR)",
+      "url": "https://media.unisba.ac.id/a65b7317/b5c794607Ps2iax5N6k",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-10-25T06:01:51.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "90b54f988b73",
+      "title": "【モンハンストーリーズ3】ネロミェールの攻略情報｜出現場所・入手素材【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79827026",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-25T05:51:01.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2020/01/home_image.png",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "24347ba4d574",
+      "title": "【モンハンストーリーズ3】交易ポイントの効率的な集め方【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79820612",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-25T05:14:07.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/162218_i8g6p.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
       "isNew": true
     },
     {
@@ -738,7 +769,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "649b704173f6",
@@ -763,18 +794,20 @@
       "isNew": false
     },
     {
-      "id": "83b5cd9ee0ef",
-      "title": "【PSP】モンハン日記ぽかぽかアイルー村G 初見プレイ Part１５ ～Battle１５ 【モンチャン】【JAPAGE】 【モンスターハンター 攻略】【モンスターハンター PSP】 Tanker (ClsNGQyk2C)",
-      "url": "https://media.unisba.ac.id/7ed23838/cdf86486XDMMIQ1XHjctMg0",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
+      "id": "c1ce900bfe63",
+      "title": "【モンハンストーリーズ3】侵獣攻略一覧｜解放できる危惧種まとめ【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79844810",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
       "summary": "",
-      "publishedAt": "2026-10-25T03:24:19.000Z",
-      "image": "",
+      "publishedAt": "2026-10-25T03:03:12.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/105921_5y7po.webp",
       "categories": [
         "guide"
       ],
-      "series": [],
+      "series": [
+        "stories"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -843,7 +876,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "310bc849231e",
@@ -1118,19 +1151,39 @@
       "isNew": false
     },
     {
-      "id": "92a4ad7e8e97",
-      "title": "【モンハンワイルズ】ゴグマジオスの対策装備と周回装備・攻略【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/520491",
-      "host": "gamewith.jp",
-      "source": "GameWith",
+      "id": "8717cd688c6e",
+      "title": "水彩画個展「タケダヒロキ展～いのちの鼓動～」が静岡市駿河区・駿府博物館で開幕 緻密な筆遣いと色彩 「モンハン」とのコラボ作品も",
+      "url": "https://news.at-s.com/article/2083586",
+      "host": "news.at-s.com",
+      "source": "静岡新聞DIGITAL",
       "summary": "",
-      "publishedAt": "2026-10-24T05:13:05.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/520491.png?date=1758724718",
+      "publishedAt": "2026-10-24T03:49:00.000Z",
+      "image": "",
       "categories": [
-        "guide"
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "064e96a050ce",
+      "title": "★10ゴグマジオス ハンマーソロ サポハンなし 49'00\"66 非火事場 非不屈/ Gogmazios Hammer Solo 【MHWilds/PS5】",
+      "url": "https://youtu.be/MgELIUAtnwc?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-24T02:52:05.000Z",
+      "image": "",
+      "categories": [
+        "other"
       ],
       "series": [
-        "wilds"
+        "wilds",
+        "world"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1471,7 +1524,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "da00eeff7429",
@@ -1537,6 +1590,27 @@
       "isNew": false
     },
     {
+      "id": "81028676ddfa",
+      "title": "【モンハンナウ】最強装備・おすすめ装備まとめ【モンハンNow】",
+      "url": "https://gamewith.jp/monsterhunternow/article/show/414964",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-23T01:34:08.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/414964.png?date=1694484685",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "05b3b3164526",
       "title": "【サンブレイク】鎧玉集めの効率的なやり方【モンハンライズ】",
       "url": "https://gamewith.jp/mhrize/article/show/266437",
@@ -1579,6 +1653,27 @@
       "isNew": false
     },
     {
+      "id": "af3240f60340",
+      "title": "『モンハンワイルズ：アセンダンス』では「ナタ」に代わって「ニャタ」が登場―集落の取次役を代理、名前はもちろんダジャレ",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUzE1TW1idkR2dVZUNFl4MlYxSEk3Q2tUZ0tWRHVzdkEyRm5JcjZCcmFrUlJkelM3MDVQX3RES3ZPc0tmNjhVZTY1LWZDRGI2bV9oR3FCbGVlSGN3UnV2Nmx6cHpMVVlWYjRwNXljZGJBWnRIV3F2SFdWQmFQN2FfMldDQ1QwZHdBWEpQaHptNWVRZEk3R0tGTVRMYjlTWjlUZ3dwZXRKY0cxaS02ZUhQZjVQVmpyYjA4SEd1OUlTSnUzbDdkT081WW9YRE9BZ25sREZ5UEh6NNIBhwFBVV95cUxQeFFVVkVzckcwWU02NTRUR0RTdW5EVWtQUUx0WklEcGFxX0t0ZE5TOTNkV3lpQnEteFhJMktBWmk3RExnUldhNEExeEtrQ1hsZFctZzh0bE5MMzB6ZWg2VFBfOE5BZTRHQUdjMmlJNFNuRkx0Z09IdWxVeTdVZGdXWEVyTHhBMWM?oc=5",
+      "host": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
+      "summary": "",
+      "publishedAt": "2026-10-22T18:17:22.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "c7f9d0b321c3",
       "title": "【モンハンワイルズ】装飾品集めの効率的なやり方【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/487794",
@@ -1589,48 +1684,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/487794.png?date=1740863355",
       "categories": [
         "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3292c4e9c190",
-      "title": "Switch 2版『モンハンワイルズ』、Xbox Series S版を一部の画質表現で上回る。30fps動作も安定、Digital Foundryが高評価",
-      "url": "https://gamestalk.net/monster-hunter-wilds-switch-2-digital-foundry-tech-analysis/",
-      "host": "gamestalk.net",
-      "source": "ゲーム情報！ゲームのはなし",
-      "summary": "",
-      "publishedAt": "2026-10-22T16:47:39.000Z",
-      "image": "https://gamestalk.net/wp-content/uploads/2026/10/MHW2-Switch2-demo_261023.webp",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "af3240f60340",
-      "title": "『モンハンワイルズ：アセンダンス』では「ナタ」に代わって「ニャタ」が登場―集落の取次役を代理、名前はもちろんダジャレ",
-      "url": "https://www.gamespark.jp/article/2026/10/23/173965.html",
-      "host": "gamespark.jp",
-      "source": "Game*Spark",
-      "summary": "",
-      "publishedAt": "2026-10-22T16:33:34.000Z",
-      "image": "https://www.gamespark.jp/imgs/ogp_f/1209960.jpg",
-      "categories": [
-        "other"
       ],
       "series": [
         "wilds"
