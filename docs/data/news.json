@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-25T02:00:18.135Z",
+  "updatedAt": "2026-10-25T02:30:22.263Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 61,
-  "todayCount": 9,
+  "total": 63,
+  "todayCount": 10,
   "categories": [
     {
       "id": "new",
@@ -27,7 +27,7 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 2
+      "count": 1
     },
     {
       "id": "goods",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 13
+      "count": 14
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 32
+      "count": 34
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 36
+      "count": 37
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 10
+      "count": 11
     },
     {
       "id": "now",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 10
+      "count": 11
     },
     {
       "id": "outlanders",
@@ -103,16 +103,16 @@
       "count": 28
     },
     {
+      "name": "AppMedia",
+      "count": 9
+    },
+    {
       "name": "GameWith",
       "count": 9
     },
     {
-      "name": "AppMedia",
-      "count": 8
-    },
-    {
       "name": "Howl.Link",
-      "count": 3
+      "count": 5
     },
     {
       "name": "AUTOMATON",
@@ -120,10 +120,6 @@
     },
     {
       "name": "Game*Spark",
-      "count": 1
-    },
-    {
-      "name": "静岡新聞DIGITAL",
       "count": 1
     },
     {
@@ -258,7 +254,7 @@
       "leadSource": "YouTube",
       "publishedAt": "2026-10-22T13:04:22.000Z",
       "sourceCount": 2,
-      "articleCount": 4,
+      "articleCount": 3,
       "categories": [
         "guide",
         "other"
@@ -266,7 +262,7 @@
       "keywords": [
         "モンハンワイルズ",
         "ガンランス",
-        "モンスター"
+        "アルシュベルド"
       ],
       "articles": [
         {
@@ -281,13 +277,6 @@
           "url": "https://gamewith.jp/mhwilds/461264",
           "source": "GameWith",
           "publishedAt": "2026-10-22T03:24:26.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ】キャラクリのやり直し方と引き継ぎ方法【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/470286",
-          "source": "GameWith",
-          "publishedAt": "2026-10-22T02:12:30.000Z",
           "isPR": false
         }
       ]
@@ -322,12 +311,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-25T01:30:16.033Z",
-    "previousCount": 72,
-    "newCount": 2
+    "previousAt": "2026-10-25T02:00:18.135Z",
+    "previousCount": 61,
+    "newCount": 5
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-25T02:30:18.135Z",
+  "nextUpdateAt": "2026-10-25T03:00:22.263Z",
   "items": [
     {
       "id": "2fb695ab8e99",
@@ -496,6 +485,27 @@
       "isNew": false
     },
     {
+      "id": "1522d4cef7f3",
+      "title": "【モンハンストーリーズ3】天変古龍一覧と出現条件【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79838603",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-24T15:09:47.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/191512_qv645.webp",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "f791b5f05428",
       "title": "【モンハンストーリーズ3】レベル上げの効率的なやり方【MHST3】",
       "url": "https://appmedia.jp/mhst3/79833866",
@@ -598,7 +608,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f1e344fb9da2",
@@ -705,25 +715,6 @@
       "isNew": false
     },
     {
-      "id": "8717cd688c6e",
-      "title": "水彩画個展「タケダヒロキ展～いのちの鼓動～」が静岡市駿河区・駿府博物館で開幕 緻密な筆遣いと色彩 「モンハン」とのコラボ作品も",
-      "url": "https://news.at-s.com/article/2083586",
-      "host": "news.at-s.com",
-      "source": "静岡新聞DIGITAL",
-      "summary": "",
-      "publishedAt": "2026-10-24T03:49:00.000Z",
-      "image": "",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "064e96a050ce",
       "title": "★10ゴグマジオス ハンマーソロ サポハンなし 49'00\"66 非火事場 非不屈/ Gogmazios Hammer Solo 【MHWilds/PS5】",
       "url": "https://youtu.be/MgELIUAtnwc?si",
@@ -744,6 +735,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "011ff6530a04",
+      "title": "週末はんてんぐ【モンスターハンターワイルズ】概要欄必読 PS5版",
+      "url": "https://t.co/btTtOBTSR1",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-23T23:47:30.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "a5a099850e77",
@@ -890,6 +902,28 @@
       "isNew": false
     },
     {
+      "id": "e7b3f6b66129",
+      "title": "【MHWilds】『英雄の証』チャージアックス 4pt 12'35｜Proof of a Hero Charge Blade 4pt｜モンハンワイルズ",
+      "url": "https://youtu.be/Gm4HrWdIygw?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-23T11:08:09.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "47edea9d447d",
       "title": "【MHWilds PS5】ド下手ハンター、★9歴戦3頭に挑戦！40分間の太刀バトル【緋水に浮かぶセレナーデ】",
       "url": "https://youtu.be/DtqbbmHSu5c",
@@ -993,6 +1027,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "bb0db1e00b30",
+      "title": "【モンハンワイルズ 参加型】王ベドを狩ろう。 #151 【ワイルズ ライブ配信】",
+      "url": "https://t.co/bbP3FilhR7",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-23T09:26:44.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "1dd1ad9265ee",
@@ -1440,6 +1495,25 @@
       "isNew": false
     },
     {
+      "id": "488530f4941c",
+      "title": "【パズドラ】ジンオウガの評価！超覚醒/潜在覚醒おすすめ",
+      "url": "https://xn--0ck4aw2h.gamewith.jp/article/show/86399",
+      "host": "xn--0ck4aw2h.gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-22T07:44:59.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/86399.png?date=1515658099",
+      "categories": [
+        "guide"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "dce4932e17c7",
       "title": "これが噂のオブジェクトヘッド？「モンスターハンターNow」ハロウィンイベント開催予告",
       "url": "https://www.gamemeca.com/ja/view.php?gid",
@@ -1493,27 +1567,6 @@
       ],
       "series": [
         "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "1f67c0577c89",
-      "title": "【ワイルズ/弓初心者】使用回数70回◆歴戦王アルシュベルド初めての10分切り【PS5/40fps】",
-      "url": "https://youtu.be/l6HOKUqI-U4?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-22T03:30:22.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1578,27 +1631,6 @@
       "series": [
         "wilds",
         "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "c1844694200b",
-      "title": "【モンハンワイルズ】キャラクリのやり直し方と引き継ぎ方法【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/470286",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-22T02:12:30.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/470286.png?date=1730171033",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
