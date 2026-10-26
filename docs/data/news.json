@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-26T08:30:16.463Z",
+  "updatedAt": "2026-10-26T09:00:19.667Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 75,
+  "total": 74,
   "todayCount": 17,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 16
+      "count": 17
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 48
+      "count": 46
     }
   ],
   "series": [
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 14
+      "count": 13
     },
     {
       "id": "outlanders",
@@ -104,15 +104,15 @@
     },
     {
       "name": "AppMedia",
-      "count": 13
+      "count": 12
     },
     {
       "name": "Howl.Link",
-      "count": 9
+      "count": 8
     },
     {
       "name": "GameWith",
-      "count": 6
+      "count": 7
     },
     {
       "name": "Unisba Media",
@@ -161,7 +161,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-10-25T13:15:07.000Z",
       "sourceCount": 2,
-      "articleCount": 5,
+      "articleCount": 6,
       "categories": [
         "other",
         "guide"
@@ -172,6 +172,13 @@
         "モンスター"
       ],
       "articles": [
+        {
+          "title": "【モンハンワイルズ】ライトボウガンの最強装備・おすすめ装備【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/484946",
+          "source": "GameWith",
+          "publishedAt": "2026-10-25T07:11:05.000Z",
+          "isPR": false
+        },
         {
           "title": "【モンハンワイルズ】英傑に愛を込めての攻略と報酬【モンスターハンターワイルズ】",
           "url": "https://gamewith.jp/mhwilds/545381",
@@ -231,41 +238,6 @@
           "url": "https://youtu.be/q8Suw2TxxEI?si",
           "source": "YouTube",
           "publishedAt": "2026-10-24T14:39:47.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "a8a395bfe2d2",
-      "title": "【モンハンワイルズ】狩りを頑張るポメラニアンVtuberまとめ",
-      "summary": "",
-      "url": "https://youtu.be/mL0zjDGZ5Oc?si",
-      "image": "",
-      "leadSource": "YouTube",
-      "publishedAt": "2026-10-25T11:00:10.000Z",
-      "sourceCount": 2,
-      "articleCount": 3,
-      "categories": [
-        "other"
-      ],
-      "keywords": [
-        "モンハンワイルズ",
-        "vtuber",
-        "新人"
-      ],
-      "articles": [
-        {
-          "title": "【 モンハンワイルズ#8】初見さんも歓迎！釣り釣り釣り釣り！【 #新人VTuber #花緒ちるな 】",
-          "url": "https://t.co/6rq7aHf5oY",
-          "source": "Howl.Link",
-          "publishedAt": "2026-10-25T10:44:42.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ 自由参加型】一緒にクエ行こ！って気軽に言ってください！みんなで楽しく一狩りいこうぜ！ 【新人Vtuber】",
-          "url": "https://t.co/4Zc1wO9qOG",
-          "source": "Howl.Link",
-          "publishedAt": "2026-10-25T01:45:26.000Z",
           "isPR": false
         }
       ]
@@ -353,6 +325,33 @@
       ]
     },
     {
+      "id": "a8a395bfe2d2",
+      "title": "【モンハンワイルズ】狩りを頑張るポメラニアンVtuberまとめ",
+      "summary": "",
+      "url": "https://youtu.be/mL0zjDGZ5Oc?si",
+      "image": "",
+      "leadSource": "YouTube",
+      "publishedAt": "2026-10-25T11:00:10.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "モンハンワイルズ",
+        "vtuber"
+      ],
+      "articles": [
+        {
+          "title": "【 モンハンワイルズ#8】初見さんも歓迎！釣り釣り釣り釣り！【 #新人VTuber #花緒ちるな 】",
+          "url": "https://t.co/6rq7aHf5oY",
+          "source": "Howl.Link",
+          "publishedAt": "2026-10-25T10:44:42.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "7fd57d31d64f",
       "title": "【TikTokLIVEアーカイブ】モンハンワイルズ #9（2026/10/23）",
       "summary": "",
@@ -382,12 +381,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-26T08:00:20.578Z",
-    "previousCount": 73,
+    "previousAt": "2026-10-26T08:30:16.463Z",
+    "previousCount": 75,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-26T09:00:16.463Z",
+  "nextUpdateAt": "2026-10-26T09:30:19.667Z",
   "items": [
     {
       "id": "2439e97df408",
@@ -403,6 +402,27 @@
       ],
       "series": [
         "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "d3cd7084b2c3",
+      "title": "【モンハンストーリーズ3】最強装備まとめ【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79849634",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-26T07:51:21.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/174453_f690s.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -596,27 +616,6 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "c1ce900bfe63",
-      "title": "【モンハンストーリーズ3】侵獣攻略一覧｜解放できる危惧種まとめ【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79844810",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-25T21:42:30.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/105921_5y7po.webp",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
       "isNew": false
     },
     {
@@ -803,27 +802,6 @@
       "series": [
         "wilds",
         "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "b76a54b5b309",
-      "title": "【モンハンストーリーズ3】キャラ・声優一覧【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79518029",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-25T13:40:44.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2025/11/111147_kl2nw.webp",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1120,6 +1098,27 @@
       "isNew": false
     },
     {
+      "id": "d94972b8ccc2",
+      "title": "【モンハンワイルズ】ライトボウガンの最強装備・おすすめ装備【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/484946",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-25T07:11:05.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/484946.png?date=1740714622",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "fac730dd3ea3",
       "title": "【うにゃ猫弓ハンター】モンスターハンターワイルズ【PC版 ネタバレ注意】 #90",
       "url": "https://youtu.be/7AZbPFaEh-c",
@@ -1240,27 +1239,6 @@
       "series": [
         "wilds",
         "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "659ed4a638be",
-      "title": "【モンハンワイルズ 自由参加型】一緒にクエ行こ！って気軽に言ってください！みんなで楽しく一狩りいこうぜ！ 【新人Vtuber】",
-      "url": "https://t.co/4Zc1wO9qOG",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-10-25T01:45:26.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
