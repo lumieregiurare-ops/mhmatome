@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-26T16:00:19.687Z",
+  "updatedAt": "2026-10-26T16:30:16.612Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 66,
+  "total": 64,
   "todayCount": 0,
   "categories": [
     {
@@ -62,24 +62,24 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 43
+      "count": 41
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 41
+      "count": 39
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 5
+      "count": 6
     },
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 13
+      "count": 12
     },
     {
       "id": "now",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 11
+      "count": 10
     },
     {
       "id": "outlanders",
@@ -100,22 +100,22 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 28
-    },
-    {
-      "name": "AppMedia",
-      "count": 11
+      "count": 30
     },
     {
       "name": "GameWith",
-      "count": 9
+      "count": 11
     },
     {
-      "name": "Howl.Link",
-      "count": 8
+      "name": "AppMedia",
+      "count": 10
     },
     {
       "name": "Unisba Media",
+      "count": 3
+    },
+    {
+      "name": "Howl.Link",
       "count": 3
     },
     {
@@ -149,7 +149,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-10-25T12:33:10.000Z",
       "sourceCount": 3,
-      "articleCount": 7,
+      "articleCount": 8,
       "categories": [
         "guide",
         "other"
@@ -164,6 +164,13 @@
           "url": "https://youtu.be/n5e583nba9U?si",
           "source": "YouTube",
           "publishedAt": "2026-10-25T06:00:33.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】歴戦狩猟の証3の効率的な集め方と使い道【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/487801",
+          "source": "GameWith",
+          "publishedAt": "2026-10-25T03:21:08.000Z",
           "isPR": false
         },
         {
@@ -212,13 +219,12 @@
       "leadSource": "YouTube",
       "publishedAt": "2026-10-26T09:00:10.000Z",
       "sourceCount": 2,
-      "articleCount": 5,
+      "articleCount": 4,
       "categories": [
         "other"
       ],
       "keywords": [
         "モンハンワイルズ",
-        "アセンダンス",
         "キャラクリ"
       ],
       "articles": [
@@ -227,13 +233,6 @@
           "url": "https://t.co/IDLWeMZxqW",
           "source": "Howl.Link",
           "publishedAt": "2026-10-25T12:36:55.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ただ鎧玉が必要なだけ、憎いからじゃない。【モンハンワイルズ アセンダンス】",
-          "url": "https://t.co/L76GzdWpOr",
-          "source": "Howl.Link",
-          "publishedAt": "2026-10-25T12:26:58.000Z",
           "isPR": false
         },
         {
@@ -248,67 +247,6 @@
           "url": "https://youtu.be/q8Suw2TxxEI?si",
           "source": "YouTube",
           "publishedAt": "2026-10-24T14:39:47.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "a8a395bfe2d2",
-      "title": "【モンハンワイルズ】狩りを頑張るポメラニアンVtuberまとめ",
-      "summary": "",
-      "url": "https://youtu.be/mL0zjDGZ5Oc?si",
-      "image": "",
-      "leadSource": "YouTube",
-      "publishedAt": "2026-10-25T11:00:10.000Z",
-      "sourceCount": 2,
-      "articleCount": 3,
-      "categories": [
-        "other"
-      ],
-      "keywords": [
-        "モンハンワイルズ",
-        "vtuber",
-        "新人"
-      ],
-      "articles": [
-        {
-          "title": "【 モンハンワイルズ#8】初見さんも歓迎！釣り釣り釣り釣り！【 #新人VTuber #花緒ちるな 】",
-          "url": "https://t.co/6rq7aHf5oY",
-          "source": "Howl.Link",
-          "publishedAt": "2026-10-25T10:44:42.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ 自由参加型】一緒にクエ行こ！って気軽に言ってください！みんなで楽しく一狩りいこうぜ！ 【新人Vtuber】",
-          "url": "https://t.co/4Zc1wO9qOG",
-          "source": "Howl.Link",
-          "publishedAt": "2026-10-25T01:45:26.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "2439e97df408",
-      "title": "『VALORANT』新エージェント「ハッシュ」の日本語ボイスは島田愛野―『ウマ娘 』ビターグラッセ役、『モンスターハンターワイルズ』ナタ役など",
-      "summary": "",
-      "url": "https://fistbump-news.jp/article/2026/10/26/3084.html",
-      "image": "https://fistbump-news.jp/imgs/ogp_f/17779.jpg",
-      "leadSource": "FISTBUMP",
-      "publishedAt": "2026-10-26T08:20:02.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other"
-      ],
-      "keywords": [
-        "モンスターハンターワイルズ"
-      ],
-      "articles": [
-        {
-          "title": "ゴグマジオｽﾋﾟｷ【モンスターハンターワイルズ】",
-          "url": "https://youtu.be/wAFLWkteksg?si",
-          "source": "YouTube",
-          "publishedAt": "2026-10-25T09:54:36.000Z",
           "isPR": false
         }
       ]
@@ -343,12 +281,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-26T15:30:17.319Z",
-    "previousCount": 68,
-    "newCount": 0
+    "previousAt": "2026-10-26T16:00:19.687Z",
+    "previousCount": 66,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-26T16:30:19.687Z",
+  "nextUpdateAt": "2026-10-26T17:00:16.612Z",
   "items": [
     {
       "id": "75783d358b12",
@@ -370,6 +308,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "591521602b36",
+      "title": "モンスターハンターワイルズ 王アルシュ 火事場失敗の様子😔",
+      "url": "https://youtu.be/vbcc1eZ0uAw?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-26T14:06:45.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "5c5a340119cb",
@@ -562,6 +521,27 @@
       "isNew": false
     },
     {
+      "id": "53ccfcaea3af",
+      "title": "視聴者にスラアクを教わって歴戦王アルシュベルドに挑んだ結果【モンハンワイルズ】",
+      "url": "https://youtu.be/VO6Qs8TQy00",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-26T07:00:31.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "3fd92acbcf5a",
       "title": "【モンハンストーリーズ2】取り返しのつかない要素【MHST2】",
       "url": "https://appmedia.jp/mhst2/6589636",
@@ -572,27 +552,6 @@
       "image": "https://appmedia.jp/wp-content/uploads/2021/06/c1d07259827744cb0d9bce0092a2e8f7.jpg",
       "categories": [
         "other"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "cc88090a1e7f",
-      "title": "【モンハンストーリーズ2】オフダの効率的な集め方と使い道｜おすすめオフダも掲載【MHST2】",
-      "url": "https://appmedia.jp/mhst2/6648943",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-26T05:28:13.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2021/07/02e0a7b0b6dce673eac82228f03046e8.jpg",
-      "categories": [
-        "guide"
       ],
       "series": [
         "stories"
@@ -852,27 +811,6 @@
       "isNew": false
     },
     {
-      "id": "12710de69ab1",
-      "title": "ただ鎧玉が必要なだけ、憎いからじゃない。【モンハンワイルズ アセンダンス】",
-      "url": "https://t.co/L76GzdWpOr",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-10-25T12:26:58.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "0e3be61d9028",
       "title": "零式 オメガ・プラネテス 8'50\"99 狩猟笛 ソロ サポハンなし 火事場 Savage Omega Planetes Hunting Horn Solo TA【MHWilds】",
       "url": "https://youtu.be/AGgCy3tno6w",
@@ -902,27 +840,6 @@
       "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-10-25T11:00:10.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "c299ccb1012c",
-      "title": "【 モンハンワイルズ#8】初見さんも歓迎！釣り釣り釣り釣り！【 #新人VTuber #花緒ちるな 】",
-      "url": "https://t.co/6rq7aHf5oY",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-10-25T10:44:42.000Z",
       "image": "",
       "categories": [
         "other"
@@ -1164,6 +1081,27 @@
       "isNew": false
     },
     {
+      "id": "0053f990a8f2",
+      "title": "【モンハンワイルズ】歴戦狩猟の証3の効率的な集め方と使い道【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/487801",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-25T03:21:08.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "4032a00fd08c",
       "title": "【MHWilds PS5】 孤独から出でし君という自由 歴戦王アルシュベルド 太刀 食事火事場 5'51\"78",
       "url": "https://youtu.be/iQYjTZlhs7s?si",
@@ -1178,27 +1116,6 @@
       "series": [
         "wilds",
         "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "659ed4a638be",
-      "title": "【モンハンワイルズ 自由参加型】一緒にクエ行こ！って気軽に言ってください！みんなで楽しく一狩りいこうぜ！ 【新人Vtuber】",
-      "url": "https://t.co/4Zc1wO9qOG",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-10-25T01:45:26.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1568,27 +1485,6 @@
       "isNew": false
     },
     {
-      "id": "011ff6530a04",
-      "title": "週末はんてんぐ【モンスターハンターワイルズ】概要欄必読 PS5版",
-      "url": "https://t.co/btTtOBTSR1",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-10-23T23:47:30.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "a5a099850e77",
       "title": "【モンハンワイルズ アセンダンス】最新情報！新拠点マドイの中身が判明 ラオシャンロン迎撃の砦・撃龍槍も【MHWilds】",
       "url": "https://youtu.be/sauqhsOgA6M?si",
@@ -1611,6 +1507,27 @@
       "isNew": false
     },
     {
+      "id": "a4d6803edaf3",
+      "title": "【モンハンライズ】集会所クエスト一覧 | 緊急・上位下位まとめ",
+      "url": "https://gamewith.jp/mhrize/article/show/263873",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-23T21:38:15.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/263873.png?date=1616777640",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "0255f6485ed9",
       "title": "モンハンたまにバグるよね？w【モンスターハンターワイルズ】＃モンハン #モンハンワイルズ #モンスターハンターワイルズ",
       "url": "https://t.co/QmdZits5hN",
@@ -1624,28 +1541,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f968b6b05d32",
-      "title": "【モンハンワイルズ】【零式オメガ】【応援上映】なんかできた記念配信。零式オメガ討伐耐久！ #mhws #モンハンワイルズ",
-      "url": "https://t.co/Na9RpeoNDw",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-10-23T20:43:49.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
       ],
       "isOfficial": false,
       "isPR": false,
