@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-26T08:00:20.578Z",
+  "updatedAt": "2026-10-26T08:30:16.463Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 73,
-  "todayCount": 15,
+  "total": 75,
+  "todayCount": 17,
   "categories": [
     {
       "id": "new",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 46
+      "count": 48
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 46
+      "count": 48
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 16
+      "count": 17
     },
     {
       "id": "now",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 33
+      "count": 34
     },
     {
       "name": "AppMedia",
@@ -121,6 +121,10 @@
     {
       "name": "ウォーカープラス",
       "count": 3
+    },
+    {
+      "name": "FISTBUMP",
+      "count": 1
     },
     {
       "name": "X",
@@ -156,25 +160,18 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/452222.png?date=1717659746",
       "leadSource": "GameWith",
       "publishedAt": "2026-10-25T13:15:07.000Z",
-      "sourceCount": 3,
-      "articleCount": 6,
+      "sourceCount": 2,
+      "articleCount": 5,
       "categories": [
         "other",
         "guide"
       ],
       "keywords": [
         "モンスターハンターワイルズ",
-        "モンスター",
-        "モンハンワイルズ"
+        "モンハンワイルズ",
+        "モンスター"
       ],
       "articles": [
-        {
-          "title": "ゴグマジオｽﾋﾟｷ【モンスターハンターワイルズ】",
-          "url": "https://youtu.be/wAFLWkteksg?si",
-          "source": "YouTube",
-          "publishedAt": "2026-10-25T09:54:36.000Z",
-          "isPR": false
-        },
         {
           "title": "【モンハンワイルズ】英傑に愛を込めての攻略と報酬【モンスターハンターワイルズ】",
           "url": "https://gamewith.jp/mhwilds/545381",
@@ -274,6 +271,32 @@
       ]
     },
     {
+      "id": "2439e97df408",
+      "title": "『VALORANT』新エージェント「ハッシュ」の日本語ボイスは島田愛野―『ウマ娘 』ビターグラッセ役、『モンスターハンターワイルズ』ナタ役など",
+      "summary": "",
+      "url": "https://fistbump-news.jp/article/2026/10/26/3084.html",
+      "image": "https://fistbump-news.jp/imgs/ogp_f/17779.jpg",
+      "leadSource": "FISTBUMP",
+      "publishedAt": "2026-10-26T08:20:02.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "モンスターハンターワイルズ"
+      ],
+      "articles": [
+        {
+          "title": "ゴグマジオｽﾋﾟｷ【モンスターハンターワイルズ】",
+          "url": "https://youtu.be/wAFLWkteksg?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-25T09:54:36.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "83b5cd9ee0ef",
       "title": "【PSP】モンハン日記ぽかぽかアイルー村G 初見プレイ Part１５ ～Battle１５ 【モンチャン】【JAPAGE】 【モンスターハンター 攻略】【モンスターハンター PSP】 Darderi Jodar (8w8NMd6tpB)",
       "summary": "",
@@ -359,13 +382,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-26T07:30:16.636Z",
-    "previousCount": 77,
-    "newCount": 5
+    "previousAt": "2026-10-26T08:00:20.578Z",
+    "previousCount": 73,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-26T08:30:20.578Z",
+  "nextUpdateAt": "2026-10-26T09:00:16.463Z",
   "items": [
+    {
+      "id": "2439e97df408",
+      "title": "『VALORANT』新エージェント「ハッシュ」の日本語ボイスは島田愛野―『ウマ娘 』ビターグラッセ役、『モンスターハンターワイルズ』ナタ役など",
+      "url": "https://fistbump-news.jp/article/2026/10/26/3084.html",
+      "host": "fistbump-news.jp",
+      "source": "FISTBUMP",
+      "summary": "",
+      "publishedAt": "2026-10-26T08:20:02.000Z",
+      "image": "https://fistbump-news.jp/imgs/ogp_f/17779.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "1f7bd9553bdb",
       "title": "【モンハンストーリーズ3】ドスプーギーのオトモン情報｜入手方法・絆遺伝子【MHST3】",
@@ -385,7 +429,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3fd92acbcf5a",
@@ -531,6 +575,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "894fcea60138",
+      "title": "【MHWilds】カクつきテスト！見るに堪えなかったら別ゲームします",
+      "url": "https://youtu.be/J_4m0c5yrv0?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-25T23:04:03.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "c1ce900bfe63",
@@ -698,7 +764,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c39bbb529d3c",
@@ -784,7 +850,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "83b5cd9ee0ef",
@@ -1410,7 +1476,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f1e344fb9da2",
@@ -1515,7 +1581,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "064e96a050ce",
