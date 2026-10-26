@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-26T02:30:14.482Z",
+  "updatedAt": "2026-10-26T03:00:17.487Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 80,
+  "total": 82,
   "todayCount": 11,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 7
+      "count": 6
     },
     {
       "id": "update",
@@ -27,7 +27,7 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 2
+      "count": 3
     },
     {
       "id": "goods",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 17
+      "count": 18
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 49
+      "count": 50
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 50
+      "count": 49
     },
     {
       "id": "rise",
@@ -84,7 +84,7 @@
     {
       "id": "now",
       "label": "Now",
-      "count": 0
+      "count": 2
     },
     {
       "id": "stories",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 33
+      "count": 34
     },
     {
       "name": "AppMedia",
@@ -112,7 +112,7 @@
     },
     {
       "name": "GameWith",
-      "count": 6
+      "count": 7
     },
     {
       "name": "Unisba Media",
@@ -135,6 +135,10 @@
       "count": 1
     },
     {
+      "name": "静岡新聞DIGITAL",
+      "count": 1
+    },
+    {
       "name": "日本経済新聞",
       "count": 1
     },
@@ -148,10 +152,6 @@
     },
     {
       "name": "Sortir à Paris",
-      "count": 1
-    },
-    {
-      "name": "ファミ通",
       "count": 1
     }
   ],
@@ -329,6 +329,35 @@
       ]
     },
     {
+      "id": "efcb265c703b",
+      "title": "【モンハンNow】ハロウィンイベント開幕！太刀使いが絶対に狙うべき武器・防具を徹底解説！🎃",
+      "summary": "",
+      "url": "https://youtu.be/Xic1qbAmMAk?si",
+      "image": "",
+      "leadSource": "YouTube",
+      "publishedAt": "2026-10-25T09:33:08.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other",
+        "guide"
+      ],
+      "keywords": [
+        "モンハンNow",
+        "now",
+        "武器"
+      ],
+      "articles": [
+        {
+          "title": "【モンハンナウ】ヘビィボウガンのおすすめ武器と最終強化【モンハンNow】",
+          "url": "https://gamewith.jp/monsterhunternow/article/show/483866",
+          "source": "GameWith",
+          "publishedAt": "2026-10-23T13:48:25.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "83b5cd9ee0ef",
       "title": "【PSP】モンハン日記ぽかぽかアイルー村G 初見プレイ Part１５ ～Battle１５ 【モンチャン】【JAPAGE】 【モンスターハンター 攻略】【モンスターハンター PSP】 Tanker (ClsNGQyk2C)",
       "summary": "",
@@ -387,12 +416,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-26T02:00:16.951Z",
+    "previousAt": "2026-10-26T02:30:14.482Z",
     "previousCount": 80,
-    "newCount": 1
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-26T03:00:14.482Z",
+  "nextUpdateAt": "2026-10-26T03:30:17.487Z",
   "items": [
     {
       "id": "3fd92acbcf5a",
@@ -937,6 +966,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "efcb265c703b",
+      "title": "【モンハンNow】ハロウィンイベント開幕！太刀使いが絶対に狙うべき武器・防具を徹底解説！🎃",
+      "url": "https://youtu.be/Xic1qbAmMAk?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-25T09:33:08.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "7120ab019e57",
@@ -1485,6 +1535,25 @@
       "isNew": false
     },
     {
+      "id": "8717cd688c6e",
+      "title": "水彩画個展「タケダヒロキ展～いのちの鼓動～」が静岡市駿河区・駿府博物館で開幕 緻密な筆遣いと色彩 「モンハン」とのコラボ作品も",
+      "url": "https://news.at-s.com/article/2083586",
+      "host": "news.at-s.com",
+      "source": "静岡新聞DIGITAL",
+      "summary": "",
+      "publishedAt": "2026-10-24T03:49:00.000Z",
+      "image": "",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "064e96a050ce",
       "title": "★10ゴグマジオス ハンマーソロ サポハンなし 49'00\"66 非火事場 非不屈/ Gogmazios Hammer Solo 【MHWilds/PS5】",
       "url": "https://youtu.be/MgELIUAtnwc?si",
@@ -1612,11 +1681,11 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
-      "id": "06cd0a988d7a",
-      "title": "カプコン株高値圏 旧作が支える高収益、最高値は「モンハン」など新作次第",
+      "id": "affdda4df967",
+      "title": "カプコン株高値圏 旧作が支える高収益、最高値は「モンハン」など新作次第 - 日経ヴェリタス",
       "url": "https://www.nikkei.com/prime/veritas/article/DGXZQOUF093AK0Z01C26A0000000",
       "host": "nikkei.com",
       "source": "日本経済新聞",
@@ -1631,7 +1700,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "22f58a63d794",
@@ -1672,6 +1741,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "6425635926d1",
+      "title": "【モンハンナウ】ヘビィボウガンのおすすめ武器と最終強化【モンハンNow】",
+      "url": "https://gamewith.jp/monsterhunternow/article/show/483866",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-23T13:48:25.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "d73b07fbcc19",
@@ -2000,27 +2090,6 @@
       "image": "",
       "categories": [
         "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "b7a2699567e6",
-      "title": "Switch2版『モンハンワイルズ』体験版が配信開始。チャタカブラ、ケマトリスを狩猟できる。ローカル通信のマルチプレイ対応",
-      "url": "https://www.famitsu.com/article/images/202610/91469/906372",
-      "host": "famitsu.com",
-      "source": "ファミ通",
-      "summary": "",
-      "publishedAt": "2026-10-23T02:40:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/91469/aa1e873bb1fa052919bde483651d08db7.jpg?x=1280",
-      "categories": [
-        "new"
       ],
       "series": [
         "wilds"
