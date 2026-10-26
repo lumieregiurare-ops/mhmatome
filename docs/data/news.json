@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-26T15:00:20.302Z",
+  "updatedAt": "2026-10-26T15:30:17.319Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 79,
+  "total": 68,
   "todayCount": 0,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 24
+      "count": 18
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 49
+      "count": 44
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 45
+      "count": 43
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 15
+      "count": 13
     },
     {
       "id": "now",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 20
+      "count": 11
     },
     {
       "id": "outlanders",
@@ -100,11 +100,11 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 32
+      "count": 29
     },
     {
       "name": "AppMedia",
-      "count": 19
+      "count": 11
     },
     {
       "name": "GameWith",
@@ -343,13 +343,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-26T14:30:16.912Z",
-    "previousCount": 65,
-    "newCount": 16
+    "previousAt": "2026-10-26T15:00:20.302Z",
+    "previousCount": 79,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-26T15:30:20.302Z",
+  "nextUpdateAt": "2026-10-26T16:00:17.319Z",
   "items": [
+    {
+      "id": "75783d358b12",
+      "title": "【モンハンストーリーズ3】レベル上限はある？｜レベルが上がらないときの対処法【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79844852",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-26T14:45:01.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/113524_nts14.webp",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "5c5a340119cb",
       "title": "【モンハンストーリーズ3】タルアイルーの倒し方と出現場所【MHST3】",
@@ -541,48 +562,6 @@
       "isNew": false
     },
     {
-      "id": "d3cd7084b2c3",
-      "title": "【モンハンストーリーズ3】最強装備まとめ【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79849634",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-26T07:51:21.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/174453_f690s.webp",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "1f7bd9553bdb",
-      "title": "【モンハンストーリーズ3】ドスプーギーのオトモン情報｜入手方法・絆遺伝子【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79844306",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-26T06:52:52.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/195000_zawrn.webp",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "3fd92acbcf5a",
       "title": "【モンハンストーリーズ2】取り返しのつかない要素【MHST2】",
       "url": "https://appmedia.jp/mhst2/6589636",
@@ -686,28 +665,6 @@
       "isNew": false
     },
     {
-      "id": "894fcea60138",
-      "title": "【MHWilds】カクつきテスト！見るに堪えなかったら別ゲームします",
-      "url": "https://youtu.be/J_4m0c5yrv0?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-25T23:04:03.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "ef786efd8d97",
       "title": "【双剣】歴戦王アルシュベルド10分切り達成！【非火事場・笛バフ有】",
       "url": "https://youtu.be/6XfV93MHz6w?si",
@@ -725,48 +682,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "c1ce900bfe63",
-      "title": "【モンハンストーリーズ3】侵獣攻略一覧｜解放できる危惧種まとめ【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79844810",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-25T21:42:30.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/105921_5y7po.webp",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "75783d358b12",
-      "title": "【モンハンストーリーズ3】レベル上限はある？｜レベルが上がらないときの対処法【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79844852",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-25T21:01:47.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/113524_nts14.webp",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "ecfb4b4408af",
@@ -955,28 +870,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "1a84f5bbd0bd",
-      "title": "【モンハンストーリーズ3】アルシュベルドの攻略情報｜出現場所・入手素材【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79852925",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-25T11:17:34.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2020/01/home_image.png",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0e3be61d9028",
@@ -1022,27 +916,6 @@
       "isNew": false
     },
     {
-      "id": "ced5755e5db0",
-      "title": "【モンハンストーリーズ3】おすすめオトモン｜進行度別に掲載【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79833716",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-25T10:51:10.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/173337_x0wn3.webp",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "c299ccb1012c",
       "title": "【 モンハンワイルズ#8】初見さんも歓迎！釣り釣り釣り釣り！【 #新人VTuber #花緒ちるな 】",
       "url": "https://t.co/6rq7aHf5oY",
@@ -1061,7 +934,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0ce28856139e",
@@ -1081,27 +954,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "a8f55e76ff18",
-      "title": "モンスターと絆を交わす！？黒煙纏うナルガクルガに会ったんだがｗ 【モンスターハンターストーリーズ】",
-      "url": "https://youtu.be/HiLdzFqxFWk?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-25T10:00:33.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "9585fd0bcc0f",
@@ -1373,7 +1225,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "310bc849231e",
@@ -1437,48 +1289,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "c33f7237cb4a",
-      "title": "【モンハンストーリーズ3】取り返しのつかないこと【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79833269",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-24T20:30:56.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/162356_gpczd.webp",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "5832564da656",
-      "title": "【モンハンストーリーズ3】アンジャナフ亜種の攻略情報｜出現場所・入手素材【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79844468",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-24T15:57:26.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2020/01/home_image.png",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "7fd57d31d64f",
@@ -1714,27 +1524,6 @@
       "isNew": false
     },
     {
-      "id": "f64870368a23",
-      "title": "【モンハンストーリーズ2】最強オトモンまとめ｜属性別に掲載【MHST2】",
-      "url": "https://appmedia.jp/mhst2/26677399",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-24T08:08:10.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2021/07/8e879b5f3a4979f8a9f6cd734b23fa0f.jpg",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "6a9d60eab1f0",
       "title": "【ゆっくり実況】世の中と一緒にケツの穴舐めて引退します【モンハンワイルズ 番外編2】",
       "url": "https://youtu.be/KFaZCZ19CqM?si",
@@ -1754,28 +1543,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "0e925b64b006",
-      "title": "【MHWilds】ラギア一式でセルレギオスに挑むオジサン",
-      "url": "https://youtu.be/8muHca85usU?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-24T06:15:13.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "0a31cdb61626",
@@ -1861,7 +1628,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a5a099850e77",
@@ -1926,7 +1693,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c79d08487066",
