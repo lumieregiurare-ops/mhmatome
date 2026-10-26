@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-26T20:00:17.533Z",
+  "updatedAt": "2026-10-26T20:30:15.528Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 71,
-  "todayCount": 3,
+  "total": 70,
+  "todayCount": 4,
   "categories": [
     {
       "id": "new",
@@ -27,7 +27,7 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 1
+      "count": 0
     },
     {
       "id": "goods",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 17
+      "count": 18
     },
     {
       "id": "sale",
@@ -57,19 +57,19 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 1
+      "count": 2
     },
     {
       "id": "other",
       "label": "その他",
-      "count": 49
+      "count": 48
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 48
+      "count": 47
     },
     {
       "id": "rise",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 9
+      "count": 10
     },
     {
       "id": "outlanders",
@@ -100,15 +100,15 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 35
-    },
-    {
-      "name": "GameWith",
-      "count": 10
+      "count": 36
     },
     {
       "name": "AppMedia",
-      "count": 9
+      "count": 10
+    },
+    {
+      "name": "GameWith",
+      "count": 8
     },
     {
       "name": "Howl.Link",
@@ -133,32 +133,36 @@
     {
       "name": "X",
       "count": 1
-    },
-    {
-      "name": "静岡新聞DIGITAL",
-      "count": 1
     }
   ],
   "topics": [
     {
-      "id": "9dd3e1c6b641",
-      "title": "【モンハンワイルズ】第2回歴戦王アルシュベルドフリチャレ前日にアプデ(修正パッチ)配信！内容を解説！【モンハンアセンダンス/モンスターハンターワイルズ】",
+      "id": "0176c5bb24f4",
+      "title": "【モンハンワイルズ】フリチャレの歴戦王アルシュベルドで連撃強化、龍属性ランスの装備チェック ※半分記録用",
       "summary": "",
-      "url": "https://youtu.be/taiwRWnw5xE?si",
+      "url": "https://youtu.be/f35H4Y7xBW4?si",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485430.png?date=1787565141",
       "leadSource": "YouTube",
-      "publishedAt": "2026-10-26T10:07:55.000Z",
+      "publishedAt": "2026-10-26T13:01:53.000Z",
       "sourceCount": 3,
       "articleCount": 7,
       "categories": [
-        "update",
-        "other"
+        "guide",
+        "sales"
       ],
       "keywords": [
         "モンハンワイルズ",
-        "モンスターハンターワイルズ"
+        "モンスターハンターワイルズ",
+        "アルシュベルド"
       ],
       "articles": [
+        {
+          "title": "視聴者にスラアクを教わって歴戦王アルシュベルドに挑んだ結果【モンハンワイルズ】",
+          "url": "https://youtu.be/VO6Qs8TQy00",
+          "source": "YouTube",
+          "publishedAt": "2026-10-26T07:00:31.000Z",
+          "isPR": false
+        },
         {
           "title": "【モンハンワイルズ配信】ちょっとだけモンハン",
           "url": "https://t.co/IDLWeMZxqW",
@@ -193,13 +197,6 @@
           "source": "YouTube",
           "publishedAt": "2026-10-24T14:39:47.000Z",
           "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ】護石ガチャの当たりおすすめスキル【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/513752",
-          "source": "GameWith",
-          "publishedAt": "2026-10-24T10:43:08.000Z",
-          "isPR": false
         }
       ]
     },
@@ -212,7 +209,7 @@
       "leadSource": "YouTube",
       "publishedAt": "2026-10-25T06:00:33.000Z",
       "sourceCount": 3,
-      "articleCount": 4,
+      "articleCount": 3,
       "categories": [
         "other"
       ],
@@ -233,13 +230,6 @@
           "url": "https://t.co/QmdZits5hN",
           "source": "Howl.Link",
           "publishedAt": "2026-10-23T21:22:06.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ】ナナイロカネの集め方と精錬方法【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/487799",
-          "source": "GameWith",
-          "publishedAt": "2026-10-23T20:27:21.000Z",
           "isPR": false
         }
       ]
@@ -380,13 +370,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-26T19:30:18.544Z",
-    "previousCount": 70,
+    "previousAt": "2026-10-26T20:00:17.533Z",
+    "previousCount": 71,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-26T20:30:17.533Z",
+  "nextUpdateAt": "2026-10-26T21:00:15.528Z",
   "items": [
+    {
+      "id": "352bce40b55c",
+      "title": "【モンハンストーリーズ2】最強装備まとめ｜各コンテンツごとの最強装備を掲載【MHST2】",
+      "url": "https://appmedia.jp/mhst2/6706042",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-26T19:06:26.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2021/07/3e8beee14329e9f9894bab286fe2aba0.jpg",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "2efafebf057e",
       "title": "【モンハンストーリーズ2】ナビルーコーデ・エナの衣装一覧【MHST2】",
@@ -515,6 +526,28 @@
       "isNew": false
     },
     {
+      "id": "0176c5bb24f4",
+      "title": "【モンハンワイルズ】フリチャレの歴戦王アルシュベルドで連撃強化、龍属性ランスの装備チェック ※半分記録用",
+      "url": "https://youtu.be/f35H4Y7xBW4?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-26T13:01:53.000Z",
+      "image": "",
+      "categories": [
+        "guide",
+        "sales"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "5c5a340119cb",
       "title": "【モンハンストーリーズ3】タルアイルーの倒し方と出現場所【MHST3】",
       "url": "https://appmedia.jp/mhst3/79819751",
@@ -575,7 +608,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9dd3e1c6b641",
@@ -1560,27 +1593,6 @@
       "isNew": false
     },
     {
-      "id": "9cf4755d715f",
-      "title": "【モンハンワイルズ】護石ガチャの当たりおすすめスキル【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/513752",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-24T10:43:08.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/513752.png?date=1755088232",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "f1e344fb9da2",
       "title": "＃02【MHWilds​】ワイルズSwitch2体験版。さよならセクレト〜ようこそクナファ村まで。",
       "url": "https://youtu.be/p3JmpPmuzy0",
@@ -1665,25 +1677,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "8717cd688c6e",
-      "title": "水彩画個展「タケダヒロキ展～いのちの鼓動～」が静岡市駿河区・駿府博物館で開幕 緻密な筆遣いと色彩 「モンハン」とのコラボ作品も",
-      "url": "https://news.at-s.com/article/2083586",
-      "host": "news.at-s.com",
-      "source": "静岡新聞DIGITAL",
-      "summary": "",
-      "publishedAt": "2026-10-24T03:49:00.000Z",
-      "image": "",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "0a31cdb61626",
@@ -1850,27 +1843,6 @@
       "series": [
         "wilds",
         "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "50fcac5e5963",
-      "title": "【モンハンワイルズ】ナナイロカネの集め方と精錬方法【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/487799",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-23T20:27:21.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/487799.png?date=1755060453",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
