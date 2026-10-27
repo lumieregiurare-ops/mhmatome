@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-27T11:30:14.413Z",
+  "updatedAt": "2026-10-27T12:00:16.499Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 76,
-  "todayCount": 21,
+  "total": 69,
+  "todayCount": 17,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 3
+      "count": 2
     },
     {
       "id": "update",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 20
+      "count": 15
     },
     {
       "id": "sale",
@@ -62,24 +62,24 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 49
+      "count": 48
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 46
+      "count": 45
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 6
+      "count": 5
     },
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 12
+      "count": 9
     },
     {
       "id": "now",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 14
+      "count": 9
     },
     {
       "id": "outlanders",
@@ -100,23 +100,23 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 38
+      "count": 34
+    },
+    {
+      "name": "Howl.Link",
+      "count": 9
     },
     {
       "name": "AppMedia",
-      "count": 13
+      "count": 8
     },
     {
       "name": "GameWith",
       "count": 7
     },
     {
-      "name": "Howl.Link",
-      "count": 6
-    },
-    {
       "name": "Unisba Media",
-      "count": 4
+      "count": 3
     },
     {
       "name": "ファミ通",
@@ -203,7 +203,7 @@
       "leadSource": "YouTube",
       "publishedAt": "2026-10-27T08:52:06.000Z",
       "sourceCount": 2,
-      "articleCount": 3,
+      "articleCount": 4,
       "categories": [
         "other"
       ],
@@ -217,6 +217,13 @@
           "url": "https://t.co/LSXy51B7oW",
           "source": "Howl.Link",
           "publishedAt": "2026-10-26T22:00:04.000Z",
+          "isPR": false
+        },
+        {
+          "title": "モンハンワイルズ参加型配信！",
+          "url": "https://t.co/vvtOez4VSp",
+          "source": "Howl.Link",
+          "publishedAt": "2026-10-26T11:28:38.000Z",
           "isPR": false
         },
         {
@@ -310,34 +317,13 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-27T11:00:16.380Z",
-    "previousCount": 62,
-    "newCount": 19
+    "previousAt": "2026-10-27T11:30:14.413Z",
+    "previousCount": 76,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-27T12:00:14.413Z",
+  "nextUpdateAt": "2026-10-27T12:30:16.499Z",
   "items": [
-    {
-      "id": "f791b5f05428",
-      "title": "【モンハンストーリーズ3】レベル上げの効率的なやり方【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79833866",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-27T09:12:33.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/183830_lg0m4.webp",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
     {
       "id": "09330fea6c50",
       "title": "【モンハンワイルズ】ゴグマジオス ★10 ハンマー サポハン無し 48'12''62 【PS5】",
@@ -373,27 +359,6 @@
       ],
       "series": [
         "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "1a84f5bbd0bd",
-      "title": "【モンハンストーリーズ3】アルシュベルドの攻略情報｜出現場所・入手素材【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79852925",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-27T08:21:32.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2020/01/home_image.png",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -521,48 +486,6 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "31a0464673f0",
-      "title": "【モンハンストーリーズ2】共闘探索チケットSRの効率的な入手方法【MHST2】",
-      "url": "https://appmedia.jp/mhst2/6661393",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-27T02:58:22.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2021/07/fbfb02930f31951f67a4020f6ec34913.jpg",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "352bce40b55c",
-      "title": "【モンハンストーリーズ2】最強装備まとめ｜各コンテンツごとの最強装備を掲載【MHST2】",
-      "url": "https://appmedia.jp/mhst2/6706042",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-27T02:58:17.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2021/07/3e8beee14329e9f9894bab286fe2aba0.jpg",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
       "isNew": false
     },
     {
@@ -587,25 +510,23 @@
       "isNew": false
     },
     {
-      "id": "6fae96ec537f",
-      "title": "【モンハンストーリーズ3】体験版はどこまでできる？｜やっておきたいこと【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79521053",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
+      "id": "eac17e2eda16",
+      "title": "[TFD] イクシード武器「モンスターハンター」ビルド及び検証結果の紹介",
+      "url": "https://youtu.be/_iM515SiU3I",
+      "host": "youtu.be",
+      "source": "YouTube",
       "summary": "",
-      "publishedAt": "2026-10-27T01:21:29.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2025/11/153717_b6xeo.webp",
+      "publishedAt": "2026-10-27T02:00:23.000Z",
+      "image": "",
       "categories": [
-        "new"
+        "guide"
       ],
-      "series": [
-        "stories"
-      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "dbc470c55d16",
@@ -731,7 +652,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c33f7237cb4a",
@@ -752,7 +673,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "75783d358b12",
@@ -773,7 +694,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ced5755e5db0",
@@ -794,7 +715,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ccacd9fd4c3e",
@@ -815,7 +736,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "591521602b36",
@@ -925,6 +846,27 @@
       "isNew": false
     },
     {
+      "id": "019e6774fa75",
+      "title": "モンハンワイルズ参加型配信！",
+      "url": "https://t.co/vvtOez4VSp",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-26T11:28:38.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "b2dd703b8a6b",
       "title": "【MHWilds】歴戦王アルシュベルド 双剣ソロ 16’02”51（捕獲・オトモ有）孤独から出でし君という自由",
       "url": "https://youtu.be/j3Grltpo8ms",
@@ -945,6 +887,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "2ec081b7f029",
+      "title": "【モンハンワイルズ】RTA！？ 遂に最終回か！！！ #初見さん大歓迎 #モンハンワイルズ #シェファー出撃中",
+      "url": "https://t.co/3fUNMtcKj4",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-26T09:54:56.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "c4ec322a8719",
@@ -1091,7 +1054,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ef786efd8d97",
@@ -1218,28 +1181,6 @@
       "isNew": false
     },
     {
-      "id": "c39bbb529d3c",
-      "title": "【MHWilds/PS5】歴戦王アルシュベルド 太刀 TA wiki rules 7'25\"40",
-      "url": "https://youtu.be/LWstpFcrLfk?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-25T14:19:16.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "d20df3be65bd",
       "title": "【MHWilds】★10歴戦王ウズ・トゥナ スラッシュアックス ソロ 火事場 04'57／Arch Tempered Uth Duna Switch Axe Solo",
       "url": "https://youtu.be/DIl_okGQ6WU?si",
@@ -1255,25 +1196,6 @@
         "wilds",
         "world"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "83b5cd9ee0ef",
-      "title": "【PSP】モンハン日記ぽかぽかアイルー村G 初見プレイ Part１５ ～Battle１５ 【モンチャン】【JAPAGE】 【モンスターハンター 攻略】【モンスターハンター PSP】 Darderi Jodar (8w8NMd6tpB)",
-      "url": "https://media.unisba.ac.id/4ebdcfae/26d3e8e6AVwrClV2IF8tQFI/",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-10-25T12:49:23.000Z",
-      "image": "",
-      "categories": [
-        "guide"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1341,6 +1263,27 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "d76027a192fc",
+      "title": "片手剣を練習する回３ モンハン ワイルズ",
+      "url": "https://t.co/aqqCBgheID",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-25T12:11:23.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
       "isNew": true
     },
     {
@@ -1363,7 +1306,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "72859b4e7632",
@@ -1406,7 +1349,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c299ccb1012c",
@@ -1510,49 +1453,6 @@
       "isNew": false
     },
     {
-      "id": "6efe0557eea9",
-      "title": "【特殊任務・ゴグマジオスの討伐など】配信中のあれこれ ワイルズ編その16【モンハンワイルズ /MHWilds】",
-      "url": "https://youtu.be/k-7_GgQxuwk",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-25T09:00:38.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "ce0d7e67f60d",
-      "title": "生存スキルを積みまくっているのに火力も出てしまう「防壁再生フルチャ狩猟笛」を紹介【モンハンワイルズ】",
-      "url": "https://youtu.be/kM1Gs7i0EY8",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-25T09:00:29.000Z",
-      "image": "",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "18edad208b22",
       "title": "そのハンター、孤独より出でし君という自由【モンスターハンターワイルズ】#72",
       "url": "https://youtu.be/Kme0hv6eDHw?si",
@@ -1611,7 +1511,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6daa344d4daf",
@@ -1677,28 +1577,6 @@
       "isNew": false
     },
     {
-      "id": "649b704173f6",
-      "title": "【#MHWilds】『俺たちのアルシュベルド』慶紀★華月★なつえ★シント",
-      "url": "https://youtu.be/yZr0Z31u-SA?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-25T03:43:43.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "0053f990a8f2",
       "title": "【モンハンワイルズ】歴戦狩猟の証3の効率的な集め方と使い道【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/487801",
@@ -1739,7 +1617,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "310bc849231e",
@@ -1823,7 +1701,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0be22d95d9f4",
@@ -1865,7 +1743,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3da54bf752f7",
@@ -1878,27 +1756,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/359456.png?date=1661390817",
       "categories": [
         "guide"
-      ],
-      "series": [
-        "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ccdef5308ea1",
-      "title": "縦型配信 参加型 switch版 モンスターハンター ライズ サンブレイク 縦型配信",
-      "url": "https://youtu.be/9PsxDPO9iXI",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-24T11:44:16.000Z",
-      "image": "",
-      "categories": [
-        "other"
       ],
       "series": [
         "rise"
