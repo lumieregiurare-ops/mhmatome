@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-27T01:30:17.348Z",
+  "updatedAt": "2026-10-27T02:00:14.456Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 49,
-  "todayCount": 9,
+  "total": 50,
+  "todayCount": 10,
   "categories": [
     {
       "id": "new",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 34
+      "count": 35
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 27
+      "count": 28
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 6
+      "count": 7
     },
     {
       "id": "now",
@@ -112,7 +112,7 @@
     },
     {
       "name": "Howl.Link",
-      "count": 3
+      "count": 4
     },
     {
       "name": "Unisba Media",
@@ -215,13 +215,55 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-27T01:00:15.944Z",
-    "previousCount": 71,
-    "newCount": 1
+    "previousAt": "2026-10-27T01:30:17.348Z",
+    "previousCount": 49,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-27T02:00:17.348Z",
+  "nextUpdateAt": "2026-10-27T02:30:14.456Z",
   "items": [
+    {
+      "id": "dbc470c55d16",
+      "title": "モンスターハンターワイルズ ノープラン見切り発進❗",
+      "url": "https://t.co/WBCcAeGU3L",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-27T00:22:48.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "90b54f988b73",
+      "title": "【モンハンストーリーズ3】ネロミェールの攻略情報｜出現場所・入手素材【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79827026",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-27T00:14:26.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2020/01/home_image.png",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "ae22bde960f2",
       "title": "【モンハンストーリーズ3】タマゴ厳選の効率的なやり方｜レア度の違い【MHST3】",
@@ -241,7 +283,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "573c89f6733d",
@@ -255,27 +297,6 @@
       "categories": [
         "guide",
         "sales"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "c6970e3ce733",
-      "title": "【モンハンストーリーズ3】侵獣セルレギオスの攻略情報｜出現場所・入手素材【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79843634",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-26T23:27:22.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2020/01/home_image.png",
-      "categories": [
-        "guide"
       ],
       "series": [
         "stories"
@@ -560,6 +581,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "b2dd703b8a6b",
+      "title": "【MHWilds】歴戦王アルシュベルド 双剣ソロ 16’02”51（捕獲・オトモ有）孤独から出でし君という自由",
+      "url": "https://youtu.be/j3Grltpo8ms",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-26T10:00:07.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "c4ec322a8719",
@@ -986,27 +1029,6 @@
         "other"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "fac730dd3ea3",
-      "title": "【うにゃ猫弓ハンター】モンスターハンターワイルズ【PC版 ネタバレ注意】 #90",
-      "url": "https://youtu.be/7AZbPFaEh-c",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-25T06:38:24.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
