@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-27T00:00:16.994Z",
+  "updatedAt": "2026-10-27T00:30:16.350Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 70,
-  "todayCount": 8,
+  "total": 67,
+  "todayCount": 4,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 21
+      "count": 19
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 45
+      "count": 44
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 42
+      "count": 45
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 13
+      "count": 15
     },
     {
       "id": "now",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 15
+      "count": 10
     },
     {
       "id": "outlanders",
@@ -100,15 +100,15 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 37
+      "count": 39
     },
     {
       "name": "AppMedia",
-      "count": 14
+      "count": 9
     },
     {
       "name": "GameWith",
-      "count": 7
+      "count": 8
     },
     {
       "name": "Howl.Link",
@@ -116,7 +116,7 @@
     },
     {
       "name": "Unisba Media",
-      "count": 3
+      "count": 2
     },
     {
       "name": "ウォーカープラス",
@@ -290,34 +290,13 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-26T23:30:17.660Z",
-    "previousCount": 75,
-    "newCount": 1
+    "previousAt": "2026-10-27T00:00:16.994Z",
+    "previousCount": 70,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-27T00:30:16.994Z",
+  "nextUpdateAt": "2026-10-27T01:00:16.350Z",
   "items": [
-    {
-      "id": "b76a54b5b309",
-      "title": "【モンハンストーリーズ3】キャラ・声優一覧【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79518029",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-26T22:47:55.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2025/11/111147_kl2nw.webp",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
     {
       "id": "b9f0277cbf14",
       "title": "スイッチ2版とPS5版で悩んでる人へ簡単に比較して選び方を解説する茶々茶【モンハンワイルズ】",
@@ -332,69 +311,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "24347ba4d574",
-      "title": "【モンハンストーリーズ3】交易ポイントの効率的な集め方【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79820612",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-26T20:43:55.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/162218_i8g6p.webp",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "352bce40b55c",
-      "title": "【モンハンストーリーズ2】最強装備まとめ｜各コンテンツごとの最強装備を掲載【MHST2】",
-      "url": "https://appmedia.jp/mhst2/6706042",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-26T19:06:26.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2021/07/3e8beee14329e9f9894bab286fe2aba0.jpg",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "2efafebf057e",
-      "title": "【モンハンストーリーズ2】ナビルーコーデ・エナの衣装一覧【MHST2】",
-      "url": "https://appmedia.jp/mhst2/26777500",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-26T17:10:20.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2021/08/05c7c205df1fadeec83a22b627c0b9b6.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -530,6 +446,27 @@
       "isNew": false
     },
     {
+      "id": "dbed5911d932",
+      "title": "【ワイルズ弓】毎日チャレンジ / チャレンジクエスト アルシュベルド DLSS5のテスト/ 20261026 #まおきー",
+      "url": "https://youtu.be/WnCaLkpftuw?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-26T13:41:35.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "0176c5bb24f4",
       "title": "【モンハンワイルズ】フリチャレの歴戦王アルシュベルドで連撃強化、龍属性ランスの装備チェック ※半分記録用",
       "url": "https://youtu.be/f35H4Y7xBW4?si",
@@ -552,25 +489,26 @@
       "isNew": false
     },
     {
-      "id": "5c5a340119cb",
-      "title": "【モンハンストーリーズ3】タルアイルーの倒し方と出現場所【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79819751",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
+      "id": "5854a3f5f1ca",
+      "title": "[MHWilds]★9歴戦セルレギオス 火事場 ヘビィボウガンソロ 04'16'47",
+      "url": "https://youtu.be/aIslsdWYMgE?si",
+      "host": "youtu.be",
+      "source": "YouTube",
       "summary": "",
-      "publishedAt": "2026-10-26T12:50:10.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/124144_ylvib.webp",
+      "publishedAt": "2026-10-26T12:15:27.000Z",
+      "image": "",
       "categories": [
         "other"
       ],
       "series": [
-        "stories"
+        "wilds",
+        "world"
       ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "cdf8457f748a",
@@ -592,6 +530,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "b2dd703b8a6b",
+      "title": "【MHWilds】歴戦王アルシュベルド 双剣ソロ 16’02”51（捕獲・オトモ有）孤独から出でし君という自由",
+      "url": "https://youtu.be/j3Grltpo8ms",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-26T10:00:07.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "c4ec322a8719",
@@ -943,25 +903,6 @@
         "wilds",
         "world"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "83b5cd9ee0ef",
-      "title": "【PSP】モンハン日記ぽかぽかアイルー村G 初見プレイ Part１５ ～Battle１５ 【モンチャン】【JAPAGE】 【モンスターハンター 攻略】【モンスターハンター PSP】 Darderi Jodar (8w8NMd6tpB)",
-      "url": "https://media.unisba.ac.id/4ebdcfae/26d3e8e6AVwrClV2IF8tQFI/",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-10-25T12:49:23.000Z",
-      "image": "",
-      "categories": [
-        "guide"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1534,16 +1475,16 @@
       "isNew": false
     },
     {
-      "id": "ccdef5308ea1",
-      "title": "縦型配信 参加型 switch版 モンスターハンター ライズ サンブレイク 縦型配信",
-      "url": "https://youtu.be/9PsxDPO9iXI",
-      "host": "youtu.be",
-      "source": "YouTube",
+      "id": "8784d5cd31c0",
+      "title": "【サンブレイク】ランスの最強装備・おすすめ装備 | アプデ対応",
+      "url": "https://gamewith.jp/mhrize/article/show/349735",
+      "host": "gamewith.jp",
+      "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-10-24T11:44:16.000Z",
-      "image": "",
+      "publishedAt": "2026-10-24T11:00:36.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/349735.png?date=1656726223",
       "categories": [
-        "other"
+        "guide"
       ],
       "series": [
         "rise"
@@ -1552,7 +1493,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "f1e344fb9da2",
@@ -1731,7 +1672,7 @@
       "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-10-24T02:52:05.000Z",
-      "image": "",
+      "image": "https://i.ytimg.com/vi/MgELIUAtnwc/maxresdefault.jpg",
       "categories": [
         "other"
       ],
