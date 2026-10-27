@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-27T04:00:22.889Z",
+  "updatedAt": "2026-10-27T04:30:15.548Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 58,
-  "todayCount": 15,
+  "total": 59,
+  "todayCount": 16,
   "categories": [
     {
       "id": "new",
@@ -22,7 +22,7 @@
     {
       "id": "event",
       "label": "イベント・クエスト",
-      "count": 0
+      "count": 1
     },
     {
       "id": "collab",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 19
+      "count": 18
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 36
+      "count": 37
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 28
+      "count": 29
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 7
+      "count": 8
     },
     {
       "id": "now",
@@ -104,7 +104,7 @@
     },
     {
       "name": "AppMedia",
-      "count": 16
+      "count": 15
     },
     {
       "name": "GameWith",
@@ -112,11 +112,11 @@
     },
     {
       "name": "Howl.Link",
-      "count": 3
+      "count": 4
     },
     {
       "name": "Unisba Media",
-      "count": 3
+      "count": 4
     },
     {
       "name": "ウォーカープラス",
@@ -136,6 +136,70 @@
     }
   ],
   "topics": [
+    {
+      "id": "997434c99e56",
+      "title": "[MHWilds] イベントクエスト 歴戦王アルシュベルド 散弾ヘビィボウガン 06'49\"27 /Arch Tempered Uth Duna Heavy Bowgun solo",
+      "summary": "",
+      "url": "https://t.co/9nohV79dbJ",
+      "image": "",
+      "leadSource": "Howl.Link",
+      "publishedAt": "2026-10-27T03:30:05.000Z",
+      "sourceCount": 2,
+      "articleCount": 7,
+      "categories": [
+        "event",
+        "other"
+      ],
+      "keywords": [
+        "mhwilds",
+        "歴戦王",
+        "アルシュベルド"
+      ],
+      "articles": [
+        {
+          "title": "【MHWilds】歴戦王アルシュベルド 双剣ソロ 16’02”51（捕獲・オトモ有）孤独から出でし君という自由",
+          "url": "https://youtu.be/j3Grltpo8ms",
+          "source": "YouTube",
+          "publishedAt": "2026-10-26T10:00:07.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【MHWilds】カクつきテスト！見るに堪えなかったら別ゲームします",
+          "url": "https://youtu.be/J_4m0c5yrv0?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-25T23:04:03.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【双剣】歴戦王アルシュベルド10分切り達成！【非火事場・笛バフ有】",
+          "url": "https://youtu.be/6XfV93MHz6w?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-25T22:51:59.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【MHWilds】王ベドが10分切れません。アドバイスください。",
+          "url": "https://youtu.be/7h8hBMncSp0?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-25T16:27:40.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【MHWilds】★10歴戦王ウズ・トゥナ スラッシュアックス ソロ 火事場 04'57／Arch Tempered Uth Duna Switch Axe Solo",
+          "url": "https://youtu.be/DIl_okGQ6WU?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-25T13:48:25.000Z",
+          "isPR": false
+        },
+        {
+          "title": "そのハンター、孤独より出でし君という自由【モンスターハンターワイルズ】#72",
+          "url": "https://youtu.be/Kme0hv6eDHw?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-25T09:00:12.000Z",
+          "isPR": false
+        }
+      ]
+    },
     {
       "id": "0176c5bb24f4",
       "title": "【モンハンワイルズ】フリチャレの歴戦王アルシュベルドで連撃強化、龍属性ランスの装備チェック ※半分記録用",
@@ -188,13 +252,35 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-27T03:30:17.166Z",
-    "previousCount": 59,
-    "newCount": 2
+    "previousAt": "2026-10-27T04:00:22.889Z",
+    "previousCount": 58,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-27T04:30:22.889Z",
+  "nextUpdateAt": "2026-10-27T05:00:15.548Z",
   "items": [
+    {
+      "id": "997434c99e56",
+      "title": "[MHWilds] イベントクエスト 歴戦王アルシュベルド 散弾ヘビィボウガン 06'49\"27 /Arch Tempered Uth Duna Heavy Bowgun solo",
+      "url": "https://t.co/9nohV79dbJ",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-27T03:30:05.000Z",
+      "image": "",
+      "categories": [
+        "event"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "62dcba96d651",
       "title": "【モンハンストーリーズ2】サブクエスト一覧【MHST2】",
@@ -206,6 +292,27 @@
       "image": "https://appmedia.jp/wp-content/uploads/2021/08/3c19cdf675f8a7ed92da2b291f96b236.jpeg",
       "categories": [
         "other"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "31a0464673f0",
+      "title": "【モンハンストーリーズ2】共闘探索チケットSRの効率的な入手方法【MHST2】",
+      "url": "https://appmedia.jp/mhst2/6661393",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-27T02:58:22.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2021/07/fbfb02930f31951f67a4020f6ec34913.jpg",
+      "categories": [
+        "guide"
       ],
       "series": [
         "stories"
@@ -277,7 +384,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "600cd1e4e33d",
@@ -330,27 +437,6 @@
       "summary": "",
       "publishedAt": "2026-10-27T00:14:29.000Z",
       "image": "https://appmedia.jp/wp-content/uploads/2021/07/8e879b5f3a4979f8a9f6cd734b23fa0f.jpg",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "90b54f988b73",
-      "title": "【モンハンストーリーズ3】ネロミェールの攻略情報｜出現場所・入手素材【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79827026",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-27T00:14:26.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2020/01/home_image.png",
       "categories": [
         "guide"
       ],
@@ -449,16 +535,16 @@
       "isNew": false
     },
     {
-      "id": "24347ba4d574",
-      "title": "【モンハンストーリーズ3】交易ポイントの効率的な集め方【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79820612",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
+      "id": "911158a2006b",
+      "title": "「エバースのNintendo Switch 2 でゲームやろうぜ！モンスターハンターストーリーズ3 ～運命の双竜～篇」 Trapani Shark (YpkYCm524l)",
+      "url": "https://media.unisba.ac.id/3adc178e/ae23e040DAsMGxhkOAUuJg0/",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
       "summary": "",
-      "publishedAt": "2026-10-26T20:43:55.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/162218_i8g6p.webp",
+      "publishedAt": "2026-10-26T17:39:32.000Z",
+      "image": "",
       "categories": [
-        "guide"
+        "other"
       ],
       "series": [
         "stories"
@@ -467,7 +553,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "c1ce900bfe63",
