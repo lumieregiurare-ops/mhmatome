@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-27T12:30:19.140Z",
+  "updatedAt": "2026-10-27T13:00:16.605Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 62,
-  "todayCount": 16,
+  "total": 65,
+  "todayCount": 19,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 1
+      "count": 2
     },
     {
       "id": "update",
@@ -62,19 +62,19 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 41
+      "count": 43
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 39
+      "count": 41
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 5
+      "count": 4
     },
     {
       "id": "world",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 8
+      "count": 10
     },
     {
       "id": "outlanders",
@@ -100,15 +100,15 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 36
+      "count": 37
     },
     {
       "name": "AppMedia",
-      "count": 8
+      "count": 9
     },
     {
       "name": "GameWith",
-      "count": 6
+      "count": 5
     },
     {
       "name": "Howl.Link",
@@ -116,6 +116,10 @@
     },
     {
       "name": "Unisba Media",
+      "count": 3
+    },
+    {
+      "name": "ファミ通",
       "count": 2
     },
     {
@@ -123,15 +127,11 @@
       "count": 2
     },
     {
-      "name": "ファミ通",
-      "count": 1
-    },
-    {
       "name": "gamebiz【ゲームビズ】",
       "count": 1
     },
     {
-      "name": "Game*Spark",
+      "name": "Yahoo!ニュース",
       "count": 1
     },
     {
@@ -242,13 +242,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-27T12:00:16.499Z",
-    "previousCount": 69,
+    "previousAt": "2026-10-27T12:30:19.140Z",
+    "previousCount": 62,
     "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-27T13:00:19.140Z",
+  "nextUpdateAt": "2026-10-27T13:30:16.605Z",
   "items": [
+    {
+      "id": "7a06f011fab0",
+      "title": "何となく始めたガチャタイムで起きてしまった #モンハンワイルズ #shorts",
+      "url": "https://youtu.be/x_uulfLTKVw?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-27T11:22:50.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "09330fea6c50",
       "title": "【モンハンワイルズ】ゴグマジオス ★10 ハンマー サポハン無し 48'12''62 【PS5】",
@@ -414,6 +435,27 @@
       "isNew": false
     },
     {
+      "id": "352bce40b55c",
+      "title": "【モンハンストーリーズ2】最強装備まとめ｜各コンテンツごとの最強装備を掲載【MHST2】",
+      "url": "https://appmedia.jp/mhst2/6706042",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-27T02:58:17.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2021/07/3e8beee14329e9f9894bab286fe2aba0.jpg",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "fbd709240fd8",
       "title": "【モンハンストーリーズ2】レベル上げにおすすめの方法・手順まとめ【MHST2】",
       "url": "https://appmedia.jp/mhst2/6648013",
@@ -536,6 +578,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "911158a2006b",
+      "title": "「エバースのNintendo Switch 2 でゲームやろうぜ！モンスターハンターストーリーズ3 ～運命の双竜～篇」 Trapani Shark (YpkYCm524l)",
+      "url": "https://media.unisba.ac.id/3adc178e/ae23e040DAsMGxhkOAUuJg0/",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-10-26T17:39:32.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "c1ce900bfe63",
@@ -729,27 +792,6 @@
       "isNew": false
     },
     {
-      "id": "cdf8457f748a",
-      "title": "全て最安値を更新！PS5/PS4『モンハンライズ』478円、『クライスタ』288円、『トゥームレイダー』3部作が528円など、いずれも3桁台でお買い得【eショップ・PS Storeのお薦めセール】",
-      "url": "http://www.gamespark.jp/article/2026/10/26/174102.html",
-      "host": "gamespark.jp",
-      "source": "Game*Spark",
-      "summary": "次に遊ぶゲームを探している方は、セールでお得に手に入れてみてはいかがでしょうか。",
-      "publishedAt": "2026-10-26T12:00:04.000Z",
-      "image": "http://www.gamespark.jp/imgs/rss/1211437.png",
-      "categories": [
-        "sale"
-      ],
-      "series": [
-        "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "b2dd703b8a6b",
       "title": "【MHWilds】歴戦王アルシュベルド 双剣ソロ 16’02”51（捕獲・オトモ有）孤独から出でし君という自由",
       "url": "https://youtu.be/j3Grltpo8ms",
@@ -764,6 +806,27 @@
       "series": [
         "wilds",
         "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "cdf8457f748a",
+      "title": "全て最安値を更新！PS5/PS4『モンハンライズ』478円、『クライスタ』288円、『トゥームレイダー』3部作が528円など、いずれも3桁台でお買い得【eショップ・PS Storeのお薦めセール】（インサイド）",
+      "url": "https://news.yahoo.co.jp/articles/cdbfe50b9c55b3660bb647b8ad3400dd578c512d",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-26T10:00:03.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261026-00000056-isd-000-1-view.jpg?exp=10800",
+      "categories": [
+        "sale"
+      ],
+      "series": [
+        "rise"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -938,6 +1001,27 @@
       "isNew": false
     },
     {
+      "id": "3f71b913827f",
+      "title": "画像ページ (1/2) Switch2版『モンハンワイルズ』体験版が10月20日より配信。ローカル通信マルチプレイにも対応",
+      "url": "https://www.famitsu.com/article/images/202610/90994/902140",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-10-25T22:10:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90994/ad8290f03a14ab45f91e7e2be493e0689.jpg?x=1280",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "ecfb4b4408af",
       "title": "｢モンハンワイルズ/MHW｣ 豪鬼でチャタカブラ討伐🐸 with守人＆かなで",
       "url": "https://youtu.be/kIof8hdNIPU?si",
@@ -1041,7 +1125,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d20df3be65bd",
@@ -1251,7 +1335,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ce0d7e67f60d",
@@ -1272,7 +1356,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "18edad208b22",
@@ -1397,7 +1481,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0053f990a8f2",
@@ -1518,27 +1602,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3da54bf752f7",
-      "title": "【サンブレイク】エスピナス亜種の弱点と攻略【モンハンライズ】",
-      "url": "https://gamewith.jp/mhrize/article/show/359456",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-24T12:44:08.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/359456.png?date=1661390817",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "rise"
       ],
       "isOfficial": false,
       "isPR": false,
