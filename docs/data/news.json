@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-27T14:00:17.786Z",
+  "updatedAt": "2026-10-27T14:30:18.579Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 55,
-  "todayCount": 16,
+  "total": 62,
+  "todayCount": 21,
   "categories": [
     {
       "id": "new",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 37
+      "count": 44
     }
   ],
   "series": [
@@ -74,12 +74,12 @@
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 2
+      "count": 3
     },
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 11
+      "count": 12
     },
     {
       "id": "now",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 5
+      "count": 9
     },
     {
       "id": "outlanders",
@@ -100,22 +100,26 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 36
+      "count": 39
     },
     {
       "name": "AppMedia",
-      "count": 4
+      "count": 8
     },
     {
-      "name": "GameWith",
-      "count": 4
+      "name": "Howl.Link",
+      "count": 3
     },
     {
       "name": "Unisba Media",
       "count": 3
     },
     {
-      "name": "Howl.Link",
+      "name": "GameWith",
+      "count": 2
+    },
+    {
+      "name": "ウォーカープラス",
       "count": 2
     },
     {
@@ -127,7 +131,7 @@
       "count": 1
     },
     {
-      "name": "インサイド",
+      "name": "Yahoo!ニュース",
       "count": 1
     },
     {
@@ -137,49 +141,9 @@
     {
       "name": "X",
       "count": 1
-    },
-    {
-      "name": "ウォーカープラス",
-      "count": 1
     }
   ],
   "topics": [
-    {
-      "id": "09330fea6c50",
-      "title": "【モンハンワイルズ】ゴグマジオス ★10 ハンマー サポハン無し 48'12''62 【PS5】",
-      "summary": "",
-      "url": "https://youtu.be/hRJbAqzDueg?si",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/520491.png?date=1758724718",
-      "leadSource": "YouTube",
-      "publishedAt": "2026-10-27T08:52:06.000Z",
-      "sourceCount": 2,
-      "articleCount": 3,
-      "categories": [
-        "other",
-        "guide"
-      ],
-      "keywords": [
-        "モンハンワイルズ",
-        "モンスターハンターワイルズ",
-        "ゴグマジオス"
-      ],
-      "articles": [
-        {
-          "title": "【モンハンワイルズ】ゴグマジオスの対策装備と周回装備・攻略【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/520491",
-          "source": "GameWith",
-          "publishedAt": "2026-10-26T05:28:13.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ】序盤おすすめ装備まとめ｜下位装備おすすめ【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/485430",
-          "source": "GameWith",
-          "publishedAt": "2026-10-25T12:33:10.000Z",
-          "isPR": false
-        }
-      ]
-    },
     {
       "id": "2aef5650b438",
       "title": "アセンダンス発売日＆ベータテストの日付を『カプコン決算短信』の最新情報を元に予想する茶々茶【モンハンワイルズ】",
@@ -204,6 +168,33 @@
           "url": "https://gamewith.jp/mhwilds/563096",
           "source": "GameWith",
           "publishedAt": "2026-10-27T03:51:05.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "09330fea6c50",
+      "title": "【モンハンワイルズ】ゴグマジオス ★10 ハンマー サポハン無し 48'12''62 【PS5】",
+      "summary": "",
+      "url": "https://youtu.be/hRJbAqzDueg?si",
+      "image": "",
+      "leadSource": "YouTube",
+      "publishedAt": "2026-10-27T08:52:06.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "モンハンワイルズ",
+        "ps5"
+      ],
+      "articles": [
+        {
+          "title": "スイッチ2版とPS5版で悩んでる人へ簡単に比較して選び方を解説する茶々茶【モンハンワイルズ】",
+          "url": "https://t.co/LSXy51B7oW",
+          "source": "Howl.Link",
+          "publishedAt": "2026-10-26T22:00:04.000Z",
           "isPR": false
         }
       ]
@@ -264,12 +255,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-27T13:30:15.162Z",
-    "previousCount": 68,
-    "newCount": 6
+    "previousAt": "2026-10-27T14:00:17.786Z",
+    "previousCount": 55,
+    "newCount": 9
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-27T14:30:17.786Z",
+  "nextUpdateAt": "2026-10-27T15:00:18.579Z",
   "items": [
     {
       "id": "2aef5650b438",
@@ -291,7 +282,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7a06f011fab0",
@@ -333,7 +324,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "09330fea6c50",
@@ -398,6 +389,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "000d70b6b89b",
+      "title": "ゲスの狩り騒ぎ！！モンハンダブルクロス Part22 桃毛獣編",
+      "url": "https://youtu.be/DFOzo6nQNbs?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-27T08:00:30.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "4e253362e7fa",
@@ -584,6 +594,49 @@
       "isNew": false
     },
     {
+      "id": "b9f0277cbf14",
+      "title": "スイッチ2版とPS5版で悩んでる人へ簡単に比較して選び方を解説する茶々茶【モンハンワイルズ】",
+      "url": "https://t.co/LSXy51B7oW",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-26T22:00:04.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "1703d8b32e5f",
+      "title": "【MHWilds】歴戦王アルシュベルド 火事場太刀ソロ 6'51 ／ Arch Tempered Arkveld LS Solo",
+      "url": "https://youtu.be/ZNi_6VbJmy8",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-26T21:20:12.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "911158a2006b",
       "title": "「エバースのNintendo Switch 2 でゲームやろうぜ！モンスターハンターストーリーズ3 ～運命の双竜～篇」 Trapani Shark (YpkYCm524l)",
       "url": "https://media.unisba.ac.id/3adc178e/ae23e040DAsMGxhkOAUuJg0/",
@@ -603,6 +656,90 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "c1ce900bfe63",
+      "title": "【モンハンストーリーズ3】侵獣攻略一覧｜解放できる危惧種まとめ【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79844810",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-26T16:48:01.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/105921_5y7po.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "c33f7237cb4a",
+      "title": "【モンハンストーリーズ3】取り返しのつかないこと【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79833269",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-26T16:29:29.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/162356_gpczd.webp",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "75783d358b12",
+      "title": "【モンハンストーリーズ3】レベル上限はある？｜レベルが上がらないときの対処法【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79844852",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-26T14:45:01.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/113524_nts14.webp",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "ced5755e5db0",
+      "title": "【モンハンストーリーズ3】おすすめオトモン｜進行度別に掲載【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79833716",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-26T14:43:09.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/173337_x0wn3.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "ccacd9fd4c3e",
@@ -735,13 +872,13 @@
     },
     {
       "id": "cdf8457f748a",
-      "title": "全て最安値を更新！PS5/PS4『モンハンライズ』478円、『クライスタ』288円、『トゥームレイダー』3部作が528円など、いずれも3桁台でお買い得【eショップ・PS Storeのお薦めセール】",
-      "url": "https://www.inside-games.jp/article/2026/10/26/189867.html",
-      "host": "inside-games.jp",
-      "source": "インサイド",
+      "title": "全て最安値を更新！PS5/PS4『モンハンライズ』478円、『クライスタ』288円、『トゥームレイダー』3部作が528円など、いずれも3桁台でお買い得【eショップ・PS Storeのお薦めセール】（インサイド）",
+      "url": "https://news.yahoo.co.jp/articles/cdbfe50b9c55b3660bb647b8ad3400dd578c512d",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-26T10:00:03.000Z",
-      "image": "https://www.inside-games.jp/imgs/ogp_f/1798915.png",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261026-00000056-isd-000-1-view.jpg?exp=10800",
       "categories": [
         "sale"
       ],
@@ -860,25 +997,25 @@
       "isNew": false
     },
     {
-      "id": "92a4ad7e8e97",
-      "title": "【モンハンワイルズ】ゴグマジオスの対策装備と周回装備・攻略【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/520491",
-      "host": "gamewith.jp",
-      "source": "GameWith",
+      "id": "6bf8e6696fec",
+      "title": "カウンターで脈動解除ww #モンハンライズ#太刀#魅せプレイ #モンハン #ゲーム#サンブレイク#傀異克服バルファルク#開国バルク",
+      "url": "https://youtu.be/eary2A0MvSE?si",
+      "host": "youtu.be",
+      "source": "YouTube",
       "summary": "",
-      "publishedAt": "2026-10-26T05:28:13.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/520491.png?date=1758724718",
+      "publishedAt": "2026-10-25T23:02:28.000Z",
+      "image": "",
       "categories": [
-        "guide"
+        "other"
       ],
       "series": [
-        "wilds"
+        "rise"
       ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "ef786efd8d97",
@@ -1003,7 +1140,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d20df3be65bd",
@@ -1020,27 +1157,6 @@
       "series": [
         "wilds",
         "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "36bf38ad62e4",
-      "title": "【モンハンワイルズ】序盤おすすめ装備まとめ｜下位装備おすすめ【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/485430",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-25T12:33:10.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485430.png?date=1787565141",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1213,7 +1329,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ce0d7e67f60d",
@@ -1234,7 +1350,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "18edad208b22",
@@ -1256,6 +1372,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "55b0bd5ff9cd",
+      "title": "秋葉原に期間限定「モンハン」ショップが登場！",
+      "url": "https://www.walkerplus.com/article/63257/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-25T07:34:04.000Z",
+      "image": "https://news.walkerplus.com/article/63257/352473_615.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "6daa344d4daf",
@@ -1340,7 +1475,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0053f990a8f2",
