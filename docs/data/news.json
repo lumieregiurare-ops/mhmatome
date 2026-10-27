@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-27T21:00:15.924Z",
+  "updatedAt": "2026-10-27T21:30:17.510Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 52,
+  "total": 57,
   "todayCount": 1,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 11
+      "count": 12
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 33
+      "count": 37
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 34
+      "count": 39
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 7
+      "count": 12
     },
     {
       "id": "now",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 7
+      "count": 6
     },
     {
       "id": "outlanders",
@@ -100,15 +100,15 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 24
-    },
-    {
-      "name": "Howl.Link",
-      "count": 8
+      "count": 35
     },
     {
       "name": "AppMedia",
-      "count": 6
+      "count": 5
+    },
+    {
+      "name": "Howl.Link",
+      "count": 3
     },
     {
       "name": "GameWith",
@@ -156,14 +156,13 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
       "leadSource": "YouTube",
       "publishedAt": "2026-10-27T12:21:38.000Z",
-      "sourceCount": 3,
-      "articleCount": 4,
+      "sourceCount": 2,
+      "articleCount": 2,
       "categories": [
         "new",
         "sales"
       ],
       "keywords": [
-        "モンハンワイルズ",
         "アセンダンス",
         "最新情報"
       ],
@@ -174,31 +173,17 @@
           "source": "GameWith",
           "publishedAt": "2026-10-27T03:51:05.000Z",
           "isPR": false
-        },
-        {
-          "title": "モンハンワイルズ参加型配信！",
-          "url": "https://t.co/vvtOez4VSp",
-          "source": "Howl.Link",
-          "publishedAt": "2026-10-26T11:28:38.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ配信】ちょっとだけモンハン",
-          "url": "https://t.co/IDLWeMZxqW",
-          "source": "Howl.Link",
-          "publishedAt": "2026-10-25T12:36:55.000Z",
-          "isPR": false
         }
       ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-27T20:30:17.287Z",
-    "previousCount": 70,
-    "newCount": 3
+    "previousAt": "2026-10-27T21:00:15.924Z",
+    "previousCount": 52,
+    "newCount": 11
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-27T21:30:15.924Z",
+  "nextUpdateAt": "2026-10-27T22:00:17.510Z",
   "items": [
     {
       "id": "573c89f6733d",
@@ -369,6 +354,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "a2119f0dcdb7",
+      "title": "【モンスターハンターワイルズ 番外編 】アセンンダンス発売までに武器を全部集めよう！チャージアックス編・後編",
+      "url": "https://youtu.be/oMDakLtQlIQ?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-27T09:45:37.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "09330fea6c50",
@@ -640,27 +646,6 @@
       "isNew": false
     },
     {
-      "id": "ced5755e5db0",
-      "title": "【モンハンストーリーズ3】おすすめオトモン｜進行度別に掲載【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79833716",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-26T14:43:09.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/173337_x0wn3.webp",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "ccacd9fd4c3e",
       "title": "（参加歓迎！）【モンハンワイルズ】下手くそハンターの狩猟生活",
       "url": "https://t.co/BK7t9CjC5v",
@@ -747,27 +732,6 @@
       "isNew": false
     },
     {
-      "id": "019e6774fa75",
-      "title": "モンハンワイルズ参加型配信！",
-      "url": "https://t.co/vvtOez4VSp",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-10-26T11:28:38.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "bc548e8b4345",
       "title": "【モンハンワイルズ】極熱重鎧グラビモスの報酬と周回装備【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/492800",
@@ -830,27 +794,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "2ec081b7f029",
-      "title": "【モンハンワイルズ】RTA！？ 遂に最終回か！！！ #初見さん大歓迎 #モンハンワイルズ #シェファー出撃中",
-      "url": "https://t.co/3fUNMtcKj4",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-10-26T09:54:56.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "c4ec322a8719",
@@ -916,6 +859,27 @@
       "isNew": false
     },
     {
+      "id": "53ccfcaea3af",
+      "title": "視聴者にスラアクを教わって歴戦王アルシュベルドに挑んだ結果【モンハンワイルズ】",
+      "url": "https://youtu.be/VO6Qs8TQy00",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-26T07:00:31.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "419ceb08f86a",
       "title": "[モンハンワイルズ]王アルシュベルト、ソロ笛、捕獲",
       "url": "https://youtu.be/oWtteZByIhA?si",
@@ -935,6 +899,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "ef786efd8d97",
+      "title": "【双剣】歴戦王アルシュベルド10分切り達成！【非火事場・笛バフ有】",
+      "url": "https://youtu.be/6XfV93MHz6w?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-25T22:51:59.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "3f71b913827f",
@@ -1042,34 +1025,101 @@
       "isNew": false
     },
     {
-      "id": "f09bfbab67a7",
-      "title": "【モンハンワイルズ配信】ちょっとだけモンハン",
-      "url": "https://t.co/IDLWeMZxqW",
-      "host": "t.co",
-      "source": "Howl.Link",
+      "id": "c39bbb529d3c",
+      "title": "【MHWilds/PS5】歴戦王アルシュベルド 太刀 TA wiki rules 7'25\"40",
+      "url": "https://youtu.be/LWstpFcrLfk?si",
+      "host": "youtu.be",
+      "source": "YouTube",
       "summary": "",
-      "publishedAt": "2026-10-25T12:36:55.000Z",
+      "publishedAt": "2026-10-25T14:19:16.000Z",
       "image": "",
       "categories": [
         "other"
       ],
       "series": [
-        "wilds"
+        "wilds",
+        "world"
       ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
-      "id": "d76027a192fc",
-      "title": "片手剣を練習する回３ モンハン ワイルズ",
-      "url": "https://t.co/aqqCBgheID",
-      "host": "t.co",
-      "source": "Howl.Link",
+      "id": "d20df3be65bd",
+      "title": "【MHWilds】★10歴戦王ウズ・トゥナ スラッシュアックス ソロ 火事場 04'57／Arch Tempered Uth Duna Switch Axe Solo",
+      "url": "https://youtu.be/DIl_okGQ6WU?si",
+      "host": "youtu.be",
+      "source": "YouTube",
       "summary": "",
-      "publishedAt": "2026-10-25T12:11:23.000Z",
+      "publishedAt": "2026-10-25T13:48:25.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "0e3be61d9028",
+      "title": "零式 オメガ・プラネテス 8'50\"99 狩猟笛 ソロ サポハンなし 火事場 Savage Omega Planetes Hunting Horn Solo TA【MHWilds】",
+      "url": "https://youtu.be/AGgCy3tno6w",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-25T11:15:19.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "72859b4e7632",
+      "title": "【MHWilds】兄妹で初めての散策(2) ~in 緋の森【English Subtitles】",
+      "url": "https://youtu.be/YVzII1btR8k",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-25T11:00:35.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "a8a395bfe2d2",
+      "title": "【モンハンワイルズ】狩りを頑張るポメラニアンVtuberまとめ",
+      "url": "https://youtu.be/mL0zjDGZ5Oc?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-25T11:00:10.000Z",
       "image": "",
       "categories": [
         "other"
@@ -1082,27 +1132,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": true
-    },
-    {
-      "id": "c299ccb1012c",
-      "title": "【 モンハンワイルズ#8】初見さんも歓迎！釣り釣り釣り釣り！【 #新人VTuber #花緒ちるな 】",
-      "url": "https://t.co/6rq7aHf5oY",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-10-25T10:44:42.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
     },
     {
       "id": "0ce28856139e",
@@ -1207,6 +1236,27 @@
       "isNew": false
     },
     {
+      "id": "ce0d7e67f60d",
+      "title": "生存スキルを積みまくっているのに火力も出てしまう「防壁再生フルチャ狩猟笛」を紹介【モンハンワイルズ】",
+      "url": "https://youtu.be/kM1Gs7i0EY8",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-25T09:00:29.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "18edad208b22",
       "title": "そのハンター、孤独より出でし君という自由【モンスターハンターワイルズ】#72",
       "url": "https://youtu.be/Kme0hv6eDHw?si",
@@ -1270,6 +1320,28 @@
       "isNew": false
     },
     {
+      "id": "649b704173f6",
+      "title": "【#MHWilds】『俺たちのアルシュベルド』慶紀★華月★なつえ★シント",
+      "url": "https://youtu.be/yZr0Z31u-SA?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-25T03:43:43.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "0053f990a8f2",
       "title": "【モンハンワイルズ】歴戦狩猟の証3の効率的な集め方と使い道【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/487801",
@@ -1289,6 +1361,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "ad3e913d4ea2",
+      "title": "【空前オメガブーム】仲間を守ってドパる新装備「広域剣斧マン」を紹介【モンハンワイルズ/スラッシュアックス/装備】",
+      "url": "https://youtu.be/hrAmqjThNr0",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-25T01:00:27.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     }
   ]
 }
