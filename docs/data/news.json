@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-28T16:00:19.992Z",
+  "updatedAt": "2026-10-28T16:30:53.865Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 56,
+  "total": 68,
   "todayCount": 2,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 5
+      "count": 6
     },
     {
       "id": "update",
@@ -22,7 +22,7 @@
     {
       "id": "event",
       "label": "イベント・クエスト",
-      "count": 0
+      "count": 1
     },
     {
       "id": "collab",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 5
+      "count": 8
     },
     {
       "id": "sale",
@@ -57,39 +57,39 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 2
+      "count": 5
     },
     {
       "id": "other",
       "label": "その他",
-      "count": 37
+      "count": 44
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 29
+      "count": 37
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 2
+      "count": 4
     },
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 8
+      "count": 11
     },
     {
       "id": "now",
       "label": "Now",
-      "count": 7
+      "count": 5
     },
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 2
+      "count": 4
     },
     {
       "id": "outlanders",
@@ -100,23 +100,27 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 18
+      "count": 32
     },
     {
       "name": "GameWith",
-      "count": 13
-    },
-    {
-      "name": "Howl.Link",
-      "count": 5
+      "count": 11
     },
     {
       "name": "ファミ通",
       "count": 4
     },
     {
+      "name": "Howl.Link",
+      "count": 4
+    },
+    {
       "name": "キャラグー",
       "count": 3
+    },
+    {
+      "name": "AppMedia",
+      "count": 2
     },
     {
       "name": "PR TIMES",
@@ -151,10 +155,6 @@
       "count": 1
     },
     {
-      "name": "Unisba Media",
-      "count": 1
-    },
-    {
       "name": "Yahoo!ニュース",
       "count": 1
     },
@@ -177,15 +177,15 @@
       "leadSource": "YouTube",
       "publishedAt": "2026-10-28T07:00:38.000Z",
       "sourceCount": 3,
-      "articleCount": 7,
+      "articleCount": 9,
       "categories": [
         "guide",
         "other"
       ],
       "keywords": [
         "モンハンワイルズ",
-        "モンスターハンターワイルズ",
-        "アルシュベルド"
+        "アルシュベルド",
+        "歴戦王"
       ],
       "articles": [
         {
@@ -217,6 +217,13 @@
           "isPR": false
         },
         {
+          "title": "【超解放】歴戦王アルシュベルドを6分台で倒す強属性チャージアックス装備を紹介します！【モンハンワイルズ】",
+          "url": "https://youtu.be/JDi66pU6qIY?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-27T09:00:29.000Z",
+          "isPR": false
+        },
+        {
           "title": "【モンハンワイルズ】アップデートの最新情報｜アプデ予定・ロードマップ【モンスターハンターワイルズ】",
           "url": "https://gamewith.jp/mhwilds/484655",
           "source": "GameWith",
@@ -228,6 +235,13 @@
           "url": "https://gamewith.jp/mhwilds/485430",
           "source": "GameWith",
           "publishedAt": "2026-10-26T18:07:03.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】フリチャレの歴戦王アルシュベルドで連撃強化、龍属性ランスの装備チェック ※半分記録用",
+          "url": "https://youtu.be/f35H4Y7xBW4?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-26T13:01:53.000Z",
           "isPR": false
         }
       ]
@@ -241,7 +255,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-10-28T03:05:00.000Z",
       "sourceCount": 2,
-      "articleCount": 6,
+      "articleCount": 4,
       "categories": [
         "other"
       ],
@@ -252,24 +266,10 @@
       ],
       "articles": [
         {
-          "title": "【モンハンナウ】災禍の宴【モンハンNow】",
-          "url": "https://gamewith.jp/monsterhunternow/article/show/565559",
-          "source": "GameWith",
-          "publishedAt": "2026-10-28T03:02:43.000Z",
-          "isPR": false
-        },
-        {
           "title": "【モンハンナウ】「漂移錬成&モンスターピックアップ」イベント開催！【モンハンNow】",
           "url": "https://gamewith.jp/monsterhunternow/article/show/551987",
           "source": "GameWith",
           "publishedAt": "2026-10-28T03:01:02.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンナウ】漂移錬成&モンスターピックアップ【モンハンNow】",
-          "url": "https://gamewith.jp/monsterhunternow/article/show/570461",
-          "source": "GameWith",
-          "publishedAt": "2026-10-28T02:54:14.000Z",
           "isPR": false
         },
         {
@@ -317,32 +317,6 @@
       ]
     },
     {
-      "id": "b03eb9708c67",
-      "title": "【モンハンワイルズ】魚を捕まえるだけで20万ゼニー！？まさかの落とし穴🐰💸【DAY3】#モンハンワイルズ #MHWilds #モコプの運勢診断 #金策 #vtuber",
-      "summary": "",
-      "url": "https://youtu.be/JjNBg4iRDRA?si",
-      "image": "",
-      "leadSource": "YouTube",
-      "publishedAt": "2026-10-28T11:10:27.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other"
-      ],
-      "keywords": [
-        "モンハンワイルズ"
-      ],
-      "articles": [
-        {
-          "title": "【モンハンワイルズ】対よろー【S取れたら参加型】",
-          "url": "https://t.co/JRchlPAM5t",
-          "source": "Howl.Link",
-          "publishedAt": "2026-10-28T09:14:48.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "7eaa2c8d940a",
       "title": "【2夜連続配信】10月30日(金)よる7時！モンハン部のラジオ第5回",
       "summary": "",
@@ -371,12 +345,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-28T15:29:46.893Z",
-    "previousCount": 67,
-    "newCount": 2
+    "previousAt": "2026-10-28T16:00:19.992Z",
+    "previousCount": 56,
+    "newCount": 16
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-28T16:30:19.992Z",
+  "nextUpdateAt": "2026-10-28T17:00:53.865Z",
   "items": [
     {
       "id": "0880770d45ae",
@@ -438,6 +412,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "573c89f6733d",
+      "title": "【モンハンストーリーズ3】最強オトモンランキング【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79852682",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-28T11:13:47.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/205551_ovsmj.webp",
+      "categories": [
+        "guide",
+        "sales"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "b03eb9708c67",
@@ -502,6 +498,27 @@
       "isNew": false
     },
     {
+      "id": "82bffe0e7f1b",
+      "title": "「大蝕龍蟲」に挑む！-PART110-【モンスターハンターストーリーズ3 ～運命の双竜～】",
+      "url": "https://youtu.be/YI3nE9DONO0?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-28T10:30:38.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "517ef492feb0",
       "title": "【MHWilds/PS5】生き誇れ、野生の仔 5分13秒 狩猟笛 ソロ",
       "url": "https://youtu.be/e4E-vSr5vUE?si",
@@ -522,27 +539,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "1b1999e7fa22",
-      "title": "【モンハンワイルズ】対よろー【S取れたら参加型】",
-      "url": "https://t.co/JRchlPAM5t",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-10-28T09:14:48.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "fe525e87bf69",
@@ -689,6 +685,27 @@
       "isNew": false
     },
     {
+      "id": "c33f7237cb4a",
+      "title": "【モンハンストーリーズ3】取り返しのつかないこと【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79833269",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-28T04:50:06.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/162356_gpczd.webp",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "0922bed70c47",
       "title": "武器はランダムで選ばれるMHR（モンスターハンターライズ）ゆっくり実況 31",
       "url": "https://youtu.be/-mEim_0P4w4?si",
@@ -793,27 +810,6 @@
       "isNew": false
     },
     {
-      "id": "626bae22627f",
-      "title": "【モンハンナウ】災禍の宴【モンハンNow】",
-      "url": "https://gamewith.jp/monsterhunternow/article/show/565559",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-28T03:02:43.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "3cdc0bd2aa98",
       "title": "【モンハンナウ】「漂移錬成&モンスターピックアップ」イベント開催！【モンハンNow】",
       "url": "https://gamewith.jp/monsterhunternow/article/show/551987",
@@ -821,27 +817,6 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-10-28T03:01:02.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "508f3b371a27",
-      "title": "【モンハンナウ】漂移錬成&モンスターピックアップ【モンハンNow】",
-      "url": "https://gamewith.jp/monsterhunternow/article/show/570461",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-28T02:54:14.000Z",
       "image": "",
       "categories": [
         "other"
@@ -917,6 +892,26 @@
       "isNew": false
     },
     {
+      "id": "6e5a847e9bc1",
+      "title": "モンスターハンターのグッズ一覧・新作情報（ガチャガチャ・プライズ・キャラクターくじ・コラボ・イベント）",
+      "url": "https://charagoo.jp/ip/monsterhunter/",
+      "host": "charagoo.jp",
+      "source": "キャラグー",
+      "summary": "",
+      "publishedAt": "2026-10-27T23:51:08.000Z",
+      "image": "",
+      "categories": [
+        "goods",
+        "new"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "54d7f1614741",
       "title": "モンスターハンター 捕獲し隊｜モンスターハンターのガチャガチャ 発売日・価格・設置場所",
       "url": "https://charagoo.jp/gacha/item/8b2426f39891/",
@@ -955,24 +950,25 @@
       "isNew": false
     },
     {
-      "id": "6e5a847e9bc1",
-      "title": "モンスターハンターのグッズ一覧・新作情報（ガチャガチャ・プライズ・キャラクターくじ・コラボ・イベント）",
-      "url": "https://charagoo.jp/ip/monsterhunter/",
-      "host": "charagoo.jp",
-      "source": "キャラグー",
+      "id": "8d03a006786c",
+      "title": "ノールック空中フレーム回避してみたww #モンハンライズ#太刀#魅せプレイ #モンハン #ゲーム#サンブレイク#傀異討究#エスピナス亜種",
+      "url": "https://youtu.be/4p83h_uqzuA?si",
+      "host": "youtu.be",
+      "source": "YouTube",
       "summary": "",
-      "publishedAt": "2026-10-27T23:51:08.000Z",
+      "publishedAt": "2026-10-27T22:20:31.000Z",
       "image": "",
       "categories": [
-        "goods",
-        "new"
+        "other"
       ],
-      "series": [],
+      "series": [
+        "rise"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "3def9f3fa579",
@@ -1101,6 +1097,49 @@
       "isNew": false
     },
     {
+      "id": "2aef5650b438",
+      "title": "アセンダンス発売日＆ベータテストの日付を『カプコン決算短信』の最新情報を元に予想する茶々茶【モンハンワイルズ】",
+      "url": "https://youtu.be/kQYeoDup5m0",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-27T12:21:38.000Z",
+      "image": "",
+      "categories": [
+        "new",
+        "sales"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "580a68156db7",
+      "title": "参加型 switch版 モンスターハンター ライズ サンブレイク 縦型配信",
+      "url": "https://youtu.be/8bgDb3fYpgA",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-27T12:18:45.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "7a06f011fab0",
       "title": "何となく始めたガチャタイムで起きてしまった #モンハンワイルズ #shorts",
       "url": "https://youtu.be/x_uulfLTKVw?si",
@@ -1204,6 +1243,27 @@
       "isNew": false
     },
     {
+      "id": "dd604161fc3a",
+      "title": "【超解放】歴戦王アルシュベルドを6分台で倒す強属性チャージアックス装備を紹介します！【モンハンワイルズ】",
+      "url": "https://youtu.be/JDi66pU6qIY?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-27T09:00:29.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "09330fea6c50",
       "title": "【モンハンワイルズ】ゴグマジオス ★10 ハンマー サポハン無し 48'12''62 【PS5】",
       "url": "https://youtu.be/hRJbAqzDueg?si",
@@ -1244,6 +1304,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "000d70b6b89b",
+      "title": "ゲスの狩り騒ぎ！！モンハンダブルクロス Part22 桃毛獣編",
+      "url": "https://youtu.be/DFOzo6nQNbs?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-27T08:00:30.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "4e253362e7fa",
@@ -1308,6 +1387,50 @@
       "isNew": false
     },
     {
+      "id": "997434c99e56",
+      "title": "[MHWilds] イベントクエスト 歴戦王アルシュベルド 散弾ヘビィボウガン 06'49\"27 /Arch Tempered Uth Duna Heavy Bowgun solo",
+      "url": "https://youtu.be/9X3L4tzZ7X8?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-27T03:30:05.000Z",
+      "image": "",
+      "categories": [
+        "event"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "1703d8b32e5f",
+      "title": "【MHWilds】歴戦王アルシュベルド 火事場太刀ソロ 6'51 ／ Arch Tempered Arkveld LS Solo",
+      "url": "https://youtu.be/ZNi_6VbJmy8",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-26T21:20:12.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "36bf38ad62e4",
       "title": "【モンハンワイルズ】序盤おすすめ装備まとめ｜下位装備おすすめ【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/485430",
@@ -1321,27 +1444,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "911158a2006b",
-      "title": "「エバースのNintendo Switch 2 でゲームやろうぜ！モンスターハンターストーリーズ3 ～運命の双竜～篇」 Trapani Shark (YpkYCm524l)",
-      "url": "https://media.unisba.ac.id/3adc178e/ae23e040DAsMGxhkOAUuJg0/",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-10-26T17:39:32.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1369,6 +1471,50 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "0176c5bb24f4",
+      "title": "【モンハンワイルズ】フリチャレの歴戦王アルシュベルドで連撃強化、龍属性ランスの装備チェック ※半分記録用",
+      "url": "https://youtu.be/f35H4Y7xBW4?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-26T13:01:53.000Z",
+      "image": "",
+      "categories": [
+        "guide",
+        "sales"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "5854a3f5f1ca",
+      "title": "[MHWilds]★9歴戦セルレギオス 火事場 ヘビィボウガンソロ 04'16'47",
+      "url": "https://youtu.be/aIslsdWYMgE?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-26T12:15:27.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "b2dd703b8a6b",
@@ -1412,6 +1558,48 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "c4ec322a8719",
+      "title": "セクレト砥石中にさざ波で初1乙！？感覚障害薬剤師のウズ・トゥナ戦【モンハンワイルズ】#07",
+      "url": "https://youtu.be/7_xyeCpotfg",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-26T09:45:24.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "61d4904aaf50",
+      "title": "【モンハンワイルズ アセンダンス】可愛いハンターキャラメイク/キャラクリ７選【switch版対応】",
+      "url": "https://youtu.be/Q03c-nENh9w?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-26T09:00:10.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "2439e97df408",
@@ -1475,6 +1663,27 @@
       "isNew": false
     },
     {
+      "id": "419ceb08f86a",
+      "title": "[モンハンワイルズ]王アルシュベルト、ソロ笛、捕獲",
+      "url": "https://youtu.be/oWtteZByIhA?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-26T06:07:01.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "497ce84a00d9",
       "title": "【モンハンワイルズ】セルレギオスの攻略・弱点と出現条件【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/505025",
@@ -1493,17 +1702,36 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "ef786efd8d97",
+      "title": "【双剣】歴戦王アルシュベルド10分切り達成！【非火事場・笛バフ有】",
+      "url": "https://youtu.be/6XfV93MHz6w?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-25T22:51:59.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
       "isNew": true
     },
     {
       "id": "b7a2699567e6",
       "title": "Switch2版『モンハンワイルズ』体験版が配信開始。チャタカブラ、ケマトリスを狩猟できる。ローカル通信のマルチプレイ対応",
-      "url": "https://www.famitsu.com/article/images/202610/91469/906370",
+      "url": "https://www.famitsu.com/article/images/202610/91469/906376",
       "host": "famitsu.com",
       "source": "ファミ通",
       "summary": "",
       "publishedAt": "2026-10-25T22:10:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/91469/ad58b73bfb1fab191a42cacc78209410e.jpg?x=1280",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/91469/a3646d88b8a1b3daa4e8cfbf09540a41f.jpg?x=1280",
       "categories": [
         "new"
       ],
