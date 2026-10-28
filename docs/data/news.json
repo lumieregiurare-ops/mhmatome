@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-28T00:00:16.724Z",
+  "updatedAt": "2026-10-28T00:30:23.395Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 71,
-  "todayCount": 1,
+  "total": 66,
+  "todayCount": 4,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 3
+      "count": 4
     },
     {
       "id": "update",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 14
+      "count": 10
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 49
+      "count": 47
     }
   ],
   "series": [
@@ -74,7 +74,7 @@
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 3
+      "count": 2
     },
     {
       "id": "world",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 9
+      "count": 6
     },
     {
       "id": "outlanders",
@@ -100,27 +100,27 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 41
-    },
-    {
-      "name": "AppMedia",
-      "count": 8
+      "count": 37
     },
     {
       "name": "Howl.Link",
       "count": 8
     },
     {
+      "name": "AppMedia",
+      "count": 5
+    },
+    {
+      "name": "ファミ通",
+      "count": 3
+    },
+    {
       "name": "GameWith",
       "count": 3
     },
     {
-      "name": "ファミ通",
-      "count": 2
-    },
-    {
       "name": "Unisba Media",
-      "count": 2
+      "count": 3
     },
     {
       "name": "ウォーカープラス",
@@ -199,6 +199,41 @@
       ]
     },
     {
+      "id": "b7a2699567e6",
+      "title": "Switch2版『モンハンワイルズ』体験版が配信開始。チャタカブラ、ケマトリスを狩猟できる。ローカル通信のマルチプレイ対応",
+      "summary": "",
+      "url": "https://www.famitsu.com/article/images/202610/91469/906368",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/91469/a767bc8f184f8992bbf69a1a663082404.jpg?x=1280",
+      "leadSource": "ファミ通",
+      "publishedAt": "2026-10-25T22:10:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 3,
+      "categories": [
+        "new"
+      ],
+      "keywords": [
+        "モンハンワイルズ",
+        "switch2",
+        "体験版"
+      ],
+      "articles": [
+        {
+          "title": "画像ページ (1/2) Switch2版『モンハンワイルズ』体験版が10月20日より配信。ローカル通信マルチプレイにも対応",
+          "url": "https://www.famitsu.com/article/images/202610/90994/902140",
+          "source": "ファミ通",
+          "publishedAt": "2026-10-25T22:10:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【Switch2版モンハンワイルズ】古の並ハンがワイルズに挑む！纏蛙チャタカブラ！【序盤体験版】",
+          "url": "https://youtu.be/6DCEE6WkF6g?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-25T06:33:53.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "a8a395bfe2d2",
       "title": "【モンハンワイルズ】狩りを頑張るポメラニアンVtuberまとめ",
       "summary": "",
@@ -235,13 +270,76 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-27T23:30:15.840Z",
-    "previousCount": 62,
-    "newCount": 17
+    "previousAt": "2026-10-28T00:00:16.724Z",
+    "previousCount": 71,
+    "newCount": 5
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-28T00:30:16.724Z",
+  "nextUpdateAt": "2026-10-28T01:00:23.395Z",
   "items": [
+    {
+      "id": "600cd1e4e33d",
+      "title": "【モンハンストーリーズ3】クリア後の追加要素とやり込み要素【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79843649",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-27T22:00:08.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/143439_w9hov.webp",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "1522d4cef7f3",
+      "title": "【モンハンストーリーズ3】天変古龍一覧と出現条件【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79838603",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-27T17:49:17.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/191512_qv645.webp",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "5cb07b2b0347",
+      "title": "【モンハンストーリーズ3】序盤の効率的な進め方｜押さえておきたいポイントまとめ【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79832135",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-27T16:33:49.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/135446_cduob.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "573c89f6733d",
       "title": "【モンハンストーリーズ3】最強オトモンランキング【MHST3】",
@@ -284,27 +382,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "c1ce900bfe63",
-      "title": "【モンハンストーリーズ3】侵獣攻略一覧｜解放できる危惧種まとめ【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79844810",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-27T14:36:38.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/105921_5y7po.webp",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "f64870368a23",
@@ -368,7 +445,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7a06f011fab0",
@@ -476,27 +553,6 @@
       "isNew": false
     },
     {
-      "id": "dd604161fc3a",
-      "title": "【超解放】歴戦王アルシュベルドを6分台で倒す強属性チャージアックス装備を紹介します！【モンハンワイルズ】",
-      "url": "https://youtu.be/JDi66pU6qIY?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-27T09:00:29.000Z",
-      "image": "",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "09330fea6c50",
       "title": "【モンハンワイルズ】ゴグマジオス ★10 ハンマー サポハン無し 48'12''62 【PS5】",
       "url": "https://youtu.be/hRJbAqzDueg?si",
@@ -537,25 +593,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "000d70b6b89b",
-      "title": "ゲスの狩り騒ぎ！！モンハンダブルクロス Part22 桃毛獣編",
-      "url": "https://youtu.be/DFOzo6nQNbs?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-27T08:00:30.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "4e253362e7fa",
@@ -638,67 +675,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "d3cd7084b2c3",
-      "title": "【モンハンストーリーズ3】最強装備まとめ【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79849634",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-27T03:10:28.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/174453_f690s.webp",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "fbd709240fd8",
-      "title": "【モンハンストーリーズ2】レベル上げにおすすめの方法・手順まとめ【MHST2】",
-      "url": "https://appmedia.jp/mhst2/6648013",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-27T02:58:15.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2021/07/cfd34185d634df738c4a56e4eec83502.jpg",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "eac17e2eda16",
-      "title": "[TFD] イクシード武器「モンスターハンター」ビルド及び検証結果の紹介",
-      "url": "https://youtu.be/_iM515SiU3I",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-27T02:00:23.000Z",
-      "image": "",
-      "categories": [
-        "guide"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "dbc470c55d16",
@@ -784,69 +760,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "c33f7237cb4a",
-      "title": "【モンハンストーリーズ3】取り返しのつかないこと【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79833269",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-26T16:29:29.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/162356_gpczd.webp",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "75783d358b12",
-      "title": "【モンハンストーリーズ3】レベル上限はある？｜レベルが上がらないときの対処法【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79844852",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-26T14:45:01.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/113524_nts14.webp",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "ced5755e5db0",
-      "title": "【モンハンストーリーズ3】おすすめオトモン｜進行度別に掲載【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79833716",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-26T14:43:09.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/173337_x0wn3.webp",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "ccacd9fd4c3e",
@@ -1104,27 +1017,6 @@
       "isNew": false
     },
     {
-      "id": "6bf8e6696fec",
-      "title": "カウンターで脈動解除ww #モンハンライズ#太刀#魅せプレイ #モンハン #ゲーム#サンブレイク#傀異克服バルファルク#開国バルク",
-      "url": "https://youtu.be/eary2A0MvSE?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-25T23:02:28.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "ef786efd8d97",
       "title": "【双剣】歴戦王アルシュベルド10分切り達成！【非火事場・笛バフ有】",
       "url": "https://youtu.be/6XfV93MHz6w?si",
@@ -1137,6 +1029,27 @@
         "other"
       ],
       "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "b7a2699567e6",
+      "title": "Switch2版『モンハンワイルズ』体験版が配信開始。チャタカブラ、ケマトリスを狩猟できる。ローカル通信のマルチプレイ対応",
+      "url": "https://www.famitsu.com/article/images/202610/91469/906368",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-10-25T22:10:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/91469/a767bc8f184f8992bbf69a1a663082404.jpg?x=1280",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "wilds"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1268,7 +1181,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d20df3be65bd",
@@ -1291,6 +1204,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "83b5cd9ee0ef",
+      "title": "【PSP】モンハン日記ぽかぽかアイルー村G 初見プレイ Part１５ ～Battle１５ 【モンチャン】【JAPAGE】 【モンスターハンター 攻略】【モンスターハンター PSP】 Darderi Jodar (8w8NMd6tpB)",
+      "url": "https://media.unisba.ac.id/4ebdcfae/26d3e8e6AVwrClV2IF8tQFI/",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-10-25T12:49:23.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "f09bfbab67a7",
@@ -1376,7 +1308,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a8a395bfe2d2",
@@ -1541,7 +1473,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "18edad208b22",
@@ -1645,7 +1577,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0053f990a8f2",
@@ -1730,7 +1662,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     }
   ]
 }
