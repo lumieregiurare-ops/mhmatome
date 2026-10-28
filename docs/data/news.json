@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-28T12:00:19.213Z",
+  "updatedAt": "2026-10-28T12:30:17.715Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 57,
-  "todayCount": 27,
+  "total": 51,
+  "todayCount": 24,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 9
+      "count": 4
     },
     {
       "id": "sale",
@@ -57,12 +57,12 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 3
+      "count": 2
     },
     {
       "id": "other",
       "label": "その他",
-      "count": 37
+      "count": 36
     }
   ],
   "series": [
@@ -74,7 +74,7 @@
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 3
+      "count": 2
     },
     {
       "id": "world",
@@ -84,12 +84,12 @@
     {
       "id": "now",
       "label": "Now",
-      "count": 5
+      "count": 7
     },
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 8
+      "count": 2
     },
     {
       "id": "outlanders",
@@ -100,15 +100,11 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 20
+      "count": 18
     },
     {
       "name": "GameWith",
-      "count": 10
-    },
-    {
-      "name": "AppMedia",
-      "count": 6
+      "count": 12
     },
     {
       "name": "ファミ通",
@@ -223,7 +219,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-10-28T03:05:00.000Z",
       "sourceCount": 2,
-      "articleCount": 4,
+      "articleCount": 6,
       "categories": [
         "other"
       ],
@@ -234,10 +230,24 @@
       ],
       "articles": [
         {
+          "title": "【モンハンナウ】災禍の宴【モンハンNow】",
+          "url": "https://gamewith.jp/monsterhunternow/article/show/565559",
+          "source": "GameWith",
+          "publishedAt": "2026-10-28T03:02:43.000Z",
+          "isPR": false
+        },
+        {
           "title": "【モンハンナウ】「漂移錬成&モンスターピックアップ」イベント開催！【モンハンNow】",
           "url": "https://gamewith.jp/monsterhunternow/article/show/551987",
           "source": "GameWith",
           "publishedAt": "2026-10-28T03:01:02.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンナウ】漂移錬成&モンスターピックアップ【モンハンNow】",
+          "url": "https://gamewith.jp/monsterhunternow/article/show/570461",
+          "source": "GameWith",
+          "publishedAt": "2026-10-28T02:54:14.000Z",
           "isPR": false
         },
         {
@@ -285,12 +295,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-28T11:30:18.226Z",
-    "previousCount": 72,
+    "previousAt": "2026-10-28T12:00:19.213Z",
+    "previousCount": 57,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-28T12:30:19.213Z",
+  "nextUpdateAt": "2026-10-28T13:00:17.715Z",
   "items": [
     {
       "id": "3b7d81679795",
@@ -319,7 +329,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "You must install the latest version of Monster Hunter Wilds in order to play online multiplayer and access downloadable content. Release Date Tuesday October 2…",
       "publishedAt": "2026-10-28T10:54:39.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/44795648/0e20be10642d99093ef2af9c518c27a7ead4eb78.jpg",
+      "image": "https://clan.fastly.steamstatic.com/images/44795648/0e20be10642d99093ef2af9c518c27a7ead4eb78.jpg",
       "categories": [
         "update"
       ],
@@ -457,27 +467,6 @@
       "isNew": false
     },
     {
-      "id": "c33f7237cb4a",
-      "title": "【モンハンストーリーズ3】取り返しのつかないこと【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79833269",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-28T04:50:06.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/162356_gpczd.webp",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "0922bed70c47",
       "title": "武器はランダムで選ばれるMHR（モンスターハンターライズ）ゆっくり実況 31",
       "url": "https://youtu.be/-mEim_0P4w4?si",
@@ -513,28 +502,6 @@
       "series": [
         "wilds",
         "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "573c89f6733d",
-      "title": "【モンハンストーリーズ3】最強オトモンランキング【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79852682",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-28T03:28:28.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/205551_ovsmj.webp",
-      "categories": [
-        "guide",
-        "sales"
-      ],
-      "series": [
-        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -604,6 +571,27 @@
       "isNew": false
     },
     {
+      "id": "626bae22627f",
+      "title": "【モンハンナウ】災禍の宴【モンハンNow】",
+      "url": "https://gamewith.jp/monsterhunternow/article/show/565559",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-28T03:02:43.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "3cdc0bd2aa98",
       "title": "【モンハンナウ】「漂移錬成&モンスターピックアップ」イベント開催！【モンハンNow】",
       "url": "https://gamewith.jp/monsterhunternow/article/show/551987",
@@ -623,6 +611,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "508f3b371a27",
+      "title": "【モンハンナウ】漂移錬成&モンスターピックアップ【モンハンNow】",
+      "url": "https://gamewith.jp/monsterhunternow/article/show/570461",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-28T02:54:14.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "010ece4575cd",
@@ -646,27 +655,6 @@
       "isNew": false
     },
     {
-      "id": "ced5755e5db0",
-      "title": "【モンハンストーリーズ3】おすすめオトモン｜進行度別に掲載【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79833716",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-28T02:42:12.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/173337_x0wn3.webp",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "9daed907d952",
       "title": "【モンハンナウ】モンハンNowハロウィン2026【モンハンNow】",
       "url": "https://gamewith.jp/monsterhunternow/article/show/585617",
@@ -680,27 +668,6 @@
       ],
       "series": [
         "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d3cd7084b2c3",
-      "title": "【モンハンストーリーズ3】最強装備まとめ【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79849634",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-28T01:00:14.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/174453_f690s.webp",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -759,27 +726,6 @@
         "other"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "8d03a006786c",
-      "title": "ノールック空中フレーム回避してみたww #モンハンライズ#太刀#魅せプレイ #モンハン #ゲーム#サンブレイク#傀異討究#エスピナス亜種",
-      "url": "https://youtu.be/4p83h_uqzuA?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-27T22:20:31.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "rise"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -884,48 +830,6 @@
       ],
       "series": [
         "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "c1ce900bfe63",
-      "title": "【モンハンストーリーズ3】侵獣攻略一覧｜解放できる危惧種まとめ【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79844810",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-27T14:36:38.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/105921_5y7po.webp",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f64870368a23",
-      "title": "【モンハンストーリーズ2】最強オトモンまとめ｜属性別に掲載【MHST2】",
-      "url": "https://appmedia.jp/mhst2/26677399",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-27T14:00:42.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2021/07/8e879b5f3a4979f8a9f6cd734b23fa0f.jpg",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1100,25 +1004,6 @@
       "isNew": false
     },
     {
-      "id": "000d70b6b89b",
-      "title": "ゲスの狩り騒ぎ！！モンハンダブルクロス Part22 桃毛獣編",
-      "url": "https://youtu.be/DFOzo6nQNbs?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-27T08:00:30.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "4e253362e7fa",
       "title": "カプコン、9月中間決算は営業益54％増の607億円と大幅増益…『プラグマタ』270万本、『鬼武者WS』170万本突破、『バイオ』『モンハン』リピートも伸長",
       "url": "https://gamebiz.jp/news/434660",
@@ -1221,7 +1106,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d94972b8ccc2",
@@ -1473,7 +1358,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     }
   ]
 }
