@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-29T14:30:23.553Z",
+  "updatedAt": "2026-10-29T15:00:19.898Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 96,
-  "todayCount": 53,
+  "total": 89,
+  "todayCount": 0,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 10
+      "count": 9
     },
     {
       "id": "update",
@@ -32,7 +32,7 @@
     {
       "id": "goods",
       "label": "グッズ・フィギュア",
-      "count": 2
+      "count": 1
     },
     {
       "id": "media",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 9
+      "count": 8
     },
     {
       "id": "sale",
@@ -57,19 +57,19 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 2
+      "count": 1
     },
     {
       "id": "other",
       "label": "その他",
-      "count": 70
+      "count": 66
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 40
+      "count": 33
     },
     {
       "id": "rise",
@@ -79,12 +79,12 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 8
+      "count": 6
     },
     {
       "id": "now",
       "label": "Now",
-      "count": 9
+      "count": 8
     },
     {
       "id": "stories",
@@ -94,17 +94,17 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 18
+      "count": 19
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 23
+      "count": 21
     },
     {
       "name": "YouTube",
-      "count": 21
+      "count": 16
     },
     {
       "name": "ファミ通",
@@ -119,23 +119,31 @@
       "count": 4
     },
     {
-      "name": "Howl.Link",
+      "name": "キャラグー",
       "count": 4
-    },
-    {
-      "name": "インサイド",
-      "count": 3
     },
     {
       "name": "GAME Watch",
       "count": 3
     },
     {
-      "name": "キャラグー",
+      "name": "Howl.Link",
       "count": 3
     },
     {
       "name": "Yahoo!ニュース",
+      "count": 2
+    },
+    {
+      "name": "Game*Spark",
+      "count": 2
+    },
+    {
+      "name": "ニコニコニュース",
+      "count": 2
+    },
+    {
+      "name": "インサイド",
       "count": 2
     },
     {
@@ -155,15 +163,7 @@
       "count": 2
     },
     {
-      "name": "PR TIMES",
-      "count": 2
-    },
-    {
       "name": "アプリ島",
-      "count": 1
-    },
-    {
-      "name": "Game*Spark",
       "count": 1
     },
     {
@@ -187,11 +187,11 @@
       "count": 1
     },
     {
-      "name": "ライブドアニュース",
+      "name": "4Gamer",
       "count": 1
     },
     {
-      "name": "4Gamer",
+      "name": "エンタメラッシュ",
       "count": 1
     },
     {
@@ -207,7 +207,7 @@
       "count": 1
     },
     {
-      "name": "イザ！",
+      "name": "PR TIMES",
       "count": 1
     },
     {
@@ -302,8 +302,8 @@
       "image": "http://www.gamespark.jp/imgs/rss/1212935.png",
       "leadSource": "Game*Spark",
       "publishedAt": "2026-10-29T11:07:21.000Z",
-      "sourceCount": 6,
-      "articleCount": 6,
+      "sourceCount": 7,
+      "articleCount": 7,
       "categories": [
         "other"
       ],
@@ -318,6 +318,13 @@
           "url": "https://www.appbank.net/2026/10/29/game/3148083.php",
           "source": "AppBank",
           "publishedAt": "2026-10-29T11:07:21.000Z",
+          "isPR": false
+        },
+        {
+          "title": "スマホで体感せよ！新たな狩猟と探索の極致！『モンスターハンターアウトランダーズ』本日10月29日に正式サービス開始！",
+          "url": "https://news.nicovideo.jp/watch/nw19934085?news_ref",
+          "source": "ニコニコニュース",
+          "publishedAt": "2026-10-29T09:21:26.000Z",
           "isPR": false
         },
         {
@@ -346,56 +353,6 @@
           "url": "https://gamebiz.jp/news/434773",
           "source": "gamebiz【ゲームビズ】",
           "publishedAt": "2026-10-29T02:03:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "d2a9ff3d3207",
-      "title": "土佐兄弟がSwitch 2版『ドラゴンズドグマ 2：ダークアリズン』と『モンハンワイルズ』を実況！ 「カプコンTVチャレンジ!!」10月29日夜8時配信",
-      "summary": "",
-      "url": "https://www.appbank.net/2026/10/29/game/3147976.php",
-      "image": "https://www.appbank.net/wp-content/uploads/2026/10/20261029_130146_751_01.webp",
-      "leadSource": "AppBank",
-      "publishedAt": "2026-10-29T10:18:00.000Z",
-      "sourceCount": 4,
-      "articleCount": 5,
-      "categories": [
-        "community",
-        "new"
-      ],
-      "keywords": [
-        "モンハンワイルズ",
-        "カプコン",
-        "モンスターハンターワイルズ"
-      ],
-      "articles": [
-        {
-          "title": "「カプコンTVチャレンジ!!」10月29日(木)よる8時配信決定！ 『ドラゴンズドグマ 2：ダークアリズン』と『モンスターハンターワイルズ』序盤体験版をNintendo Switch 2 版でプレイ",
-          "url": "https://prtimes.jp/main/html/rd/p/000006120.000013450.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-10-29T02:00:03.000Z",
-          "isPR": true
-        },
-        {
-          "title": "【モンハンワイルズ】Switch2版の発売日・最新情報【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/563066",
-          "source": "GameWith",
-          "publishedAt": "2026-10-28T02:43:20.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ】スキルシミュレーター【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/484058",
-          "source": "GameWith",
-          "publishedAt": "2026-10-28T02:01:18.000Z",
-          "isPR": false
-        },
-        {
-          "title": "アセンダンス発売日＆ベータテストの日付を『カプコン決算短信』の最新情報を元に予想する茶々茶【モンハンワイルズ】",
-          "url": "https://youtu.be/kQYeoDup5m0",
-          "source": "YouTube",
-          "publishedAt": "2026-10-27T12:21:38.000Z",
           "isPR": false
         }
       ]
@@ -435,10 +392,10 @@
           "isPR": false
         },
         {
-          "title": "オトモの育成要素まとめ【モンハンアウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/576839",
+          "title": "冒険譚イベントの進め方と報酬【モンハンアウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/585588",
           "source": "GameWith",
-          "publishedAt": "2026-10-28T22:25:56.000Z",
+          "publishedAt": "2026-10-28T22:37:28.000Z",
           "isPR": false
         },
         {
@@ -493,41 +450,6 @@
       ]
     },
     {
-      "id": "65aede7150a0",
-      "title": "『モンハン部のラジオ』第4回・第5回の配信が決定！ ゲストは桜ころみん 10月29日から2夜連続",
-      "summary": "",
-      "url": "https://www.appbank.net/2026/10/29/game/3146916.php",
-      "image": "https://www.appbank.net/wp-content/uploads/2026/10/20261028_151313_352_01.webp",
-      "leadSource": "AppBank",
-      "publishedAt": "2026-10-29T09:32:07.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "other"
-      ],
-      "keywords": [
-        "ラジオ",
-        "夜連続",
-        "ゲスト"
-      ],
-      "articles": [
-        {
-          "title": "【ラジオ番組】「モンハン部のラジオ －ゆるふわ集会所－」が10月29日(木)、 30日(金)のよる7時から2夜連続配信決定！ ゲストは桜ころみんさん！",
-          "url": "https://prtimes.jp/main/html/rd/p/000006135.000013450.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-10-28T05:00:01.000Z",
-          "isPR": true
-        },
-        {
-          "title": "【2夜連続配信】10月29日(木)よる7時！モンハン部のラジオ第4回",
-          "url": "https://t.co/5ecscdzENI",
-          "source": "Howl.Link",
-          "publishedAt": "2026-10-27T10:03:18.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "cced93b214fa",
       "title": "「バンタン文化祭2026」がモンハンとコラボ！ 11月14日に全国5校で開催",
       "summary": "",
@@ -538,19 +460,20 @@
       "sourceCount": 3,
       "articleCount": 3,
       "categories": [
-        "collab"
+        "collab",
+        "other"
       ],
       "keywords": [
-        "コラボ",
         "バンタン",
-        "文化祭"
+        "文化祭",
+        "コラボ"
       ],
       "articles": [
         {
-          "title": "カプコン×JR東海のコラボが開催！モンスターハンターやストリートファイターのキャラと旅に出よう",
-          "url": "https://www.walkerplus.com/article/1176995/",
-          "source": "ウォーカープラス",
-          "publishedAt": "2026-10-28T11:23:06.000Z",
+          "title": "バンタン×モンスターハンター没入型イベント「モンハン」の世界へ、狩猟（ダイブ）せよ！「バンタン文化祭2026」11月1",
+          "url": "https://news.nicovideo.jp/watch/nw19929963?from",
+          "source": "ニコニコニュース",
+          "publishedAt": "2026-10-28T13:00:32.000Z",
           "isPR": false
         },
         {
@@ -571,7 +494,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-10-28T18:30:08.000Z",
       "sourceCount": 2,
-      "articleCount": 7,
+      "articleCount": 6,
       "categories": [
         "other",
         "guide"
@@ -582,13 +505,6 @@
         "モンハンナウ"
       ],
       "articles": [
-        {
-          "title": "【モンハンナウ】狩人たちの夏祭り2026【モンハンNow】",
-          "url": "https://gamewith.jp/monsterhunternow/article/show/573258",
-          "source": "GameWith",
-          "publishedAt": "2026-10-28T03:05:00.000Z",
-          "isPR": false
-        },
         {
           "title": "【モンハンナウ】「漂移錬成&モンスターピックアップ」イベント開催！【モンハンNow】",
           "url": "https://gamewith.jp/monsterhunternow/article/show/551987",
@@ -627,6 +543,112 @@
       ]
     },
     {
+      "id": "44e6e3658602",
+      "title": "[復刻] 歴戦王アルシュベルド/太刀ソロ火事場討伐6分30秒/[モンハンワイルズ]",
+      "summary": "",
+      "url": "https://youtu.be/XrtVsnip3hY?si",
+      "image": "",
+      "leadSource": "YouTube",
+      "publishedAt": "2026-10-29T08:41:33.000Z",
+      "sourceCount": 2,
+      "articleCount": 5,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "モンハンワイルズ",
+        "アルシュベルド",
+        "歴戦王"
+      ],
+      "articles": [
+        {
+          "title": "【参加型/朝活】歴戦王アルシュベルド フリチャレSランク報酬で神おま周回🔥 誰でもお気軽に参加OK！初見さん大歓迎【モンハンワイルズ】",
+          "url": "https://t.co/yRFBopMzKD",
+          "source": "Howl.Link",
+          "publishedAt": "2026-10-29T01:48:02.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【MHWilds/PS5】フリーチャエンジクエスト 歴戦王アルシュベルド！地形ハメで余裕のSランク！【モンハンワイルズ】",
+          "url": "https://youtu.be/SUU1UlwEjfM?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-28T13:01:24.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】対よろー【S取れたら参加型】",
+          "url": "https://t.co/JRchlPAM5t",
+          "source": "Howl.Link",
+          "publishedAt": "2026-10-28T09:14:48.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】ゴグマジオス ★10 ハンマー サポハン無し 48'12''62 【PS5】",
+          "url": "https://youtu.be/hRJbAqzDueg?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-27T08:52:06.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "d2a9ff3d3207",
+      "title": "土佐兄弟がSwitch 2版『ドラゴンズドグマ 2：ダークアリズン』と『モンハンワイルズ』を実況！ 「カプコンTVチャレンジ!!」10月29日夜8時配信",
+      "summary": "",
+      "url": "https://www.appbank.net/2026/10/29/game/3147976.php",
+      "image": "https://www.appbank.net/wp-content/uploads/2026/10/20261029_130146_751_01.webp",
+      "leadSource": "AppBank",
+      "publishedAt": "2026-10-29T10:18:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "community",
+        "new"
+      ],
+      "keywords": [
+        "カプコン",
+        "ドラゴンズドグマ",
+        "ダークアリズン"
+      ],
+      "articles": [
+        {
+          "title": "「カプコンTVチャレンジ!!」10月29日(木)よる8時配信決定！ 『ドラゴンズドグマ 2：ダークアリズン』と『モンスターハンターワイルズ』序盤体験版をNintendo Switch 2 版でプレイ",
+          "url": "https://entamerush.jp/722362/",
+          "source": "エンタメラッシュ",
+          "publishedAt": "2026-10-29T02:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "65aede7150a0",
+      "title": "『モンハン部のラジオ』第4回・第5回の配信が決定！ ゲストは桜ころみん 10月29日から2夜連続",
+      "summary": "",
+      "url": "https://www.appbank.net/2026/10/29/game/3146916.php",
+      "image": "https://www.appbank.net/wp-content/uploads/2026/10/20261028_151313_352_01.webp",
+      "leadSource": "AppBank",
+      "publishedAt": "2026-10-29T09:32:07.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "ラジオ",
+        "ゲスト",
+        "決定"
+      ],
+      "articles": [
+        {
+          "title": "【ラジオ番組】「モンハン部のラジオ －ゆるふわ集会所－」が10月29日(木)、 30日(金)のよる7時から2夜連続配信決定！ ゲストは桜ころみんさん！",
+          "url": "https://prtimes.jp/main/html/rd/p/000006135.000013450.html",
+          "source": "PR TIMES",
+          "publishedAt": "2026-10-28T05:00:01.000Z",
+          "isPR": true
+        }
+      ]
+    },
+    {
       "id": "08e166e4824c",
       "title": "『モンハン』新作『モンハンアウトランダーズ』正式サービス開始！スマホ向けながら本格的な狩猟体験が楽しめる注目のタイトル。プレイヤーは「冒険者」として、新モンスターの潜む島へと調査へ赴く",
       "summary": "スマホ向けながら本格的な狩猟体験が楽しめる注目の基本無料タイトル。プレイヤーは「冒険者」として、新モンスターの潜む島へと調査へ赴く。また、従来の操作に近いコントローラーにも対応",
@@ -657,12 +679,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-29T14:00:18.169Z",
-    "previousCount": 95,
-    "newCount": 7
+    "previousAt": "2026-10-29T14:30:23.553Z",
+    "previousCount": 96,
+    "newCount": 6
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-29T15:00:23.553Z",
+  "nextUpdateAt": "2026-10-29T15:30:19.898Z",
   "items": [
     {
       "id": "aff8008c6cf2",
@@ -717,6 +739,25 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-18428007-kbcv-000-2-thumb.jpg?exp=10800",
       "categories": [
         "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "e6d79acfa4bd",
+      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
+      "url": "https://gamewith.jp/mhwilds/563096",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-29T10:21:12.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
+      "categories": [
+        "guide"
       ],
       "series": [],
       "isOfficial": false,
@@ -826,6 +867,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "79f8da0db4ba",
+      "title": "スマホで体感せよ！新たな狩猟と探索の極致！『モンスターハンターアウトランダーズ』本日10月29日に正式サービス開始！",
+      "url": "https://news.nicovideo.jp/watch/nw19934085?news_ref",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-10-29T09:21:26.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "d6a5d4580888",
@@ -1011,7 +1073,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fb8f62e0d71c",
@@ -1153,28 +1215,6 @@
       "isNew": false
     },
     {
-      "id": "eb845090d947",
-      "title": "【MHWilds】＜フリチャレ＞『生き誇れ、野生の仔』歴戦王アルシュベルド チャージアックス ソロ 5'25（火事場）｜Arch Tempered Arkveld Charge Blade Solo",
-      "url": "https://youtu.be/9sG23SxYsFk?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-29T03:16:12.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "64281f59b1f4",
       "title": "「マリノア」跡地のアウトレットモール 2027年4月に開業へ 「ロピア」が出店 店舗数は九州最大級に モンスターハンターの巨大立像も 福岡",
       "url": "https://news.tnc.co.jp/news/articles/NID2026102932639",
@@ -1233,7 +1273,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5b17304850ee",
@@ -1269,27 +1309,6 @@
         "other"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d1e493214446",
-      "title": "【画像】夢灯の儀の装いを刺繍や鞍まで再現！e-CAPCOM「モンスターハンターワイルズ ぬいぐるみ セクレト (リビングドールの装い)」 2/5",
-      "url": "https://news.livedoor.com/article/image_detail/32682854/?img_id",
-      "host": "news.livedoor.com",
-      "source": "ライブドアニュース",
-      "summary": "",
-      "publishedAt": "2026-10-29T02:57:15.000Z",
-      "image": "https://image.news.livedoor.com/newsimage/stf/2/f/2f313_1604_1b4f5756_942f14b0.jpg",
-      "categories": [
-        "goods"
-      ],
-      "series": [
-        "wilds"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1455,27 +1474,6 @@
       "isNew": false
     },
     {
-      "id": "95ae415ba723",
-      "title": "「カプコンTVチャレンジ!!」10月29日(木)よる8時配信決定！ 『ドラゴンズドグマ 2：ダークアリズン』と『モンスターハンターワイルズ』序盤体験版をNintendo Switch 2 版でプレイ",
-      "url": "https://prtimes.jp/main/html/rd/p/000006120.000013450.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
-      "summary": "",
-      "publishedAt": "2026-10-29T02:00:03.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/13450/6120/13450-6120-5b86072b030259c8861b0f920b68f22c-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "categories": [
-        "new"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": true,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "3912dc754908",
       "title": "「モンスターハンターアウトランダーズ」1ボタンで武器種の魅力を引き出す，野心作のモバイル向けモンハン［プレイレポ］",
       "url": "https://www.4gamer.net/games/667/G066758/20261022012/",
@@ -1518,6 +1516,48 @@
       "isNew": false
     },
     {
+      "id": "95ae415ba723",
+      "title": "「カプコンTVチャレンジ!!」10月29日(木)よる8時配信決定！ 『ドラゴンズドグマ 2：ダークアリズン』と『モンスターハンターワイルズ』序盤体験版をNintendo Switch 2 版でプレイ",
+      "url": "https://entamerush.jp/722362/",
+      "host": "entamerush.jp",
+      "source": "エンタメラッシュ",
+      "summary": "",
+      "publishedAt": "2026-10-29T02:00:00.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/13450/6120/13450-6120-5b86072b030259c8861b0f920b68f22c-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "af4f009fbce3",
+      "title": "【参加型/朝活】歴戦王アルシュベルド フリチャレSランク報酬で神おま周回🔥 誰でもお気軽に参加OK！初見さん大歓迎【モンハンワイルズ】",
+      "url": "https://t.co/yRFBopMzKD",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-29T01:48:02.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "8008a16ce0d0",
       "title": "ガシャポン『モンハン』めじるしアクセサリーが発売！個性的なデフォルメのリオレウスやタマミツネ、フルフルなど全6種",
       "url": "https://www.inside-games.jp/article/2026/10/29/190008.html",
@@ -1530,27 +1570,6 @@
         "other"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "5b911c874025",
-      "title": "【モンハンワイルズ】報酬の多いフリチャレで「S」ランク一緒に目指しましょ！【参加型】",
-      "url": "https://t.co/ZDhM4THBEZ",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-10-29T00:36:22.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1579,25 +1598,6 @@
       "isNew": false
     },
     {
-      "id": "e6d79acfa4bd",
-      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
-      "url": "https://gamewith.jp/mhwilds/563096",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-29T00:13:10.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
-      "categories": [
-        "guide"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "207ef88f84f4",
       "title": "体力（HP）の回復方法【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/579048",
@@ -1619,14 +1619,14 @@
       "isNew": false
     },
     {
-      "id": "4c5e375075e6",
-      "title": "オトモの育成要素まとめ【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/576839",
+      "id": "1c3200ed52ee",
+      "title": "冒険譚イベントの進め方と報酬【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/585588",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-10-28T22:25:56.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/576839.png?date=1789539114",
+      "publishedAt": "2026-10-28T22:37:28.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/585588.png?date=1793227049",
       "categories": [
         "other"
       ],
@@ -1850,6 +1850,25 @@
       "isNew": false
     },
     {
+      "id": "ce9bb963be98",
+      "title": "バンタン×モンスターハンター没入型イベント「モンハン」の世界へ、狩猟（ダイブ）せよ！「バンタン文化祭2026」11月1",
+      "url": "https://news.nicovideo.jp/watch/nw19929963?from",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-10-28T13:00:32.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "411bb4076b94",
       "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/575038",
@@ -1912,6 +1931,25 @@
       "isNew": false
     },
     {
+      "id": "3b7d81679795",
+      "title": "文化祭で『モンハン』を体験!? ジンオウガ討伐謎解き、モンハン飯などが楽しめる「バンタン文化祭2026」が開催決定 1枚目の写真・画像",
+      "url": "https://www.gamespark.jp/article/img/2026/10/28/174191/1212138.html",
+      "host": "gamespark.jp",
+      "source": "Game*Spark",
+      "summary": "",
+      "publishedAt": "2026-10-28T11:00:03.000Z",
+      "image": "https://www.gamespark.jp/imgs/ogp_f/1212138.png",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "72add4c5ae75",
       "title": "Update Summary (Ver.1.042.00.03)",
       "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302230509",
@@ -1933,6 +1971,49 @@
       "isNew": false
     },
     {
+      "id": "517ef492feb0",
+      "title": "【MHWilds/PS5】生き誇れ、野生の仔 5分13秒 狩猟笛 ソロ",
+      "url": "https://youtu.be/e4E-vSr5vUE?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-28T09:36:05.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "1b1999e7fa22",
+      "title": "【モンハンワイルズ】対よろー【S取れたら参加型】",
+      "url": "https://t.co/JRchlPAM5t",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-28T09:14:48.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "bf166c2ea99a",
       "title": "『モンスターハンターワイルズ』『Forza Horizon 6』を4Kで楽しめる！ Lenovoの最上級ゲーミングノートLegion Pro 7i Gen 10の実力を徹底レビュー",
       "url": "https://www.famitsu.com/article/202610/92239",
@@ -1947,25 +2028,6 @@
       "series": [
         "wilds"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3b7d81679795",
-      "title": "文化祭で『モンハン』を体験!? ジンオウガ討伐謎解き、モンハン飯などが楽しめる「バンタン文化祭2026」が開催決定",
-      "url": "https://www.inside-games.jp/article/2026/10/28/189978.html",
-      "host": "inside-games.jp",
-      "source": "インサイド",
-      "summary": "",
-      "publishedAt": "2026-10-28T07:40:03.000Z",
-      "image": "https://www.inside-games.jp/imgs/ogp_f/1800143.png",
-      "categories": [
-        "other"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -2074,28 +2136,6 @@
       "isNew": false
     },
     {
-      "id": "2474ed3a23e6",
-      "title": "生き誇れ、野生の仔（歴戦王アルシュベルド） / スラッシュアックス 9'52''56 #モンハンワイルズ #mhws",
-      "url": "https://youtu.be/OKvooc8kWrY?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-28T03:36:16.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "e08e6c8ea2a8",
       "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/563104",
@@ -2109,67 +2149,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "b97b0b543a12",
-      "title": "[モンハンワイルズ参加型]#4＜神おま、神錬成めざして全速前進＞",
-      "url": "https://t.co/xapn7pbEIR",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-10-28T03:17:14.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ce9bb963be98",
-      "title": "バンタン×モンスターハンター没入型イベント「モンハン」の世界へ、狩猟（ダイブ）せよ！「バンタン文化祭2026」11月14日（土）全国5校で同時開催",
-      "url": "https://www.iza.ne.jp/pressrelease/prtimes/SRMDVPVHXJMGNKZYALHB6X75VU/",
-      "host": "iza.ne.jp",
-      "source": "イザ！",
-      "summary": "",
-      "publishedAt": "2026-10-28T03:08:13.000Z",
-      "image": "https://www.iza.ne.jp/common/images/ogp_default_iza.png",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "2e75eb4018e2",
-      "title": "【モンハンナウ】狩人たちの夏祭り2026【モンハンNow】",
-      "url": "https://gamewith.jp/monsterhunternow/article/show/573258",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-28T03:05:00.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "now"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -2283,27 +2262,6 @@
       "isNew": false
     },
     {
-      "id": "78078e467bcf",
-      "title": "【モンハンワイルズ】スキルシミュレーター【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/484058",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-28T02:01:18.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/484058.png?date=1740767796",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "6e5a847e9bc1",
       "title": "モンスターハンターのグッズ一覧・新作情報（ガチャガチャ・プライズ・キャラクターくじ・コラボ・イベント）",
       "url": "https://charagoo.jp/ip/monsterhunter/",
@@ -2343,6 +2301,25 @@
       "isNew": false
     },
     {
+      "id": "fe893fa116d5",
+      "title": "【バンダイナムコオフィシャルショップ限定再販】モンスターハンター 捕獲し隊２",
+      "url": "https://charagoo.jp/gacha/item/73b3b6d5cbe9/",
+      "host": "charagoo.jp",
+      "source": "キャラグー",
+      "summary": "",
+      "publishedAt": "2026-10-27T23:51:08.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "54d7f1614741",
       "title": "モンスターハンター 捕獲し隊｜モンスターハンターのガチャガチャ 発売日・価格・設置場所",
       "url": "https://charagoo.jp/gacha/item/8b2426f39891/",
@@ -2355,49 +2332,6 @@
         "new"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e55a944ada28",
-      "title": "【MH Wilds】歴戦王アルシュベルド 非火事場 双剣 × 狩猟笛ペア 05'26\"39 / Arch Tempered Arkveld DB × HH No Heroics",
-      "url": "https://youtu.be/S9oI8FcA3ME?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-27T19:18:18.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "24686ecd42dd",
-      "title": "抜刀禁止勢の夢(？) 英雄の証 行ってみた結果... モンスターハンターワイルズ MHWilds",
-      "url": "https://youtu.be/0Hn2Hgzts6c?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-27T14:47:35.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -2447,49 +2381,6 @@
       "isNew": false
     },
     {
-      "id": "2aef5650b438",
-      "title": "アセンダンス発売日＆ベータテストの日付を『カプコン決算短信』の最新情報を元に予想する茶々茶【モンハンワイルズ】",
-      "url": "https://youtu.be/kQYeoDup5m0",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-27T12:21:38.000Z",
-      "image": "",
-      "categories": [
-        "new",
-        "sales"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "9625811d6ab4",
-      "title": "[Monster Hunter Wilds] Twitchアーカイブ 26/10/26",
-      "url": "https://youtu.be/NQSqb9lGSnw?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-27T10:56:22.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "e26ae4956e54",
       "title": "【後悔する前に】無料武器で全星10楽勝!!!「ローズアサルトを超えたスカルホイッスル」が強すぎてヤバいぞｗｗｗ【モンハンnow】",
       "url": "https://t.co/UK7Oq15uU1",
@@ -2509,25 +2400,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "f6bb716a9b6d",
-      "title": "【2夜連続配信】10月29日(木)よる7時！モンハン部のラジオ第4回",
-      "url": "https://t.co/5ecscdzENI",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-10-27T10:03:18.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "a2119f0dcdb7",
