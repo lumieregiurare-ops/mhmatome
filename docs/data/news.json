@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-30T21:30:16.449Z",
+  "updatedAt": "2026-10-30T22:00:15.989Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 128,
+  "total": 129,
   "todayCount": 11,
   "categories": [
     {
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 78
+      "count": 79
     }
   ],
   "series": [
@@ -84,7 +84,7 @@
     {
       "id": "now",
       "label": "Now",
-      "count": 16
+      "count": 17
     },
     {
       "id": "stories",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 79
+      "count": 80
     },
     {
       "name": "YouTube",
@@ -508,12 +508,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-30T21:00:18.122Z",
-    "previousCount": 134,
-    "newCount": 4
+    "previousAt": "2026-10-30T21:30:16.449Z",
+    "previousCount": 128,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-30T22:00:16.449Z",
+  "nextUpdateAt": "2026-10-30T22:30:15.989Z",
   "items": [
     {
       "id": "fce79821309b",
@@ -803,7 +803,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "da6774683cf4",
@@ -864,7 +864,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "cd0d069a8749",
@@ -948,7 +948,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "620baae43e82",
@@ -1515,7 +1515,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "488c58093be3",
@@ -1553,6 +1553,26 @@
       "series": [
         "outlanders"
       ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "6e5a847e9bc1",
+      "title": "モンスターハンターのグッズ一覧・新作情報（ガチャガチャ・プライズ・キャラクターくじ・コラボ・イベント）",
+      "url": "https://charagoo.jp/ip/monsterhunter/",
+      "host": "charagoo.jp",
+      "source": "キャラグー",
+      "summary": "",
+      "publishedAt": "2026-10-30T00:02:57.000Z",
+      "image": "",
+      "categories": [
+        "goods",
+        "new"
+      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -2358,7 +2378,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "You must install the latest version of Monster Hunter Wilds in order to play online multiplayer and access downloadable content. Release Date Tuesday October 2…",
       "publishedAt": "2026-10-28T10:54:39.000Z",
-      "image": "https://clan.fastly.steamstatic.com/images/44795648/0e20be10642d99093ef2af9c518c27a7ead4eb78.jpg",
+      "image": "https://clan.akamai.steamstatic.com/images/44795648/0e20be10642d99093ef2af9c518c27a7ead4eb78.jpg",
       "categories": [
         "update"
       ],
@@ -2553,6 +2573,27 @@
       "isNew": false
     },
     {
+      "id": "66bce194a9ec",
+      "title": "【モンハンナウ】シーズン4 スタートイベントの開催期間とクエスト情報【モンハンNow】",
+      "url": "https://gamewith.jp/monsterhunternow/article/show/477848",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-28T03:06:26.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/477848.png?date=1733483576",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "6db0137d2cb1",
       "title": "【モンハンナウ】春景裂く乱入者の開催期間とクエスト｜シーズン1【モンハンNow】",
       "url": "https://gamewith.jp/monsterhunternow/article/show/437271",
@@ -2679,14 +2720,14 @@
       "isNew": false
     },
     {
-      "id": "b99642edfe2e",
-      "title": "【モンハンナウ】シーズン6 スタートイベントの開催期間とクエスト情報【モンハンNow】",
-      "url": "https://gamewith.jp/monsterhunternow/article/show/501409",
+      "id": "61f4e343688b",
+      "title": "【モンハンナウ】爆破属性強化クエストの開催期間とクエスト情報【モンハンNow】",
+      "url": "https://gamewith.jp/monsterhunternow/article/show/483014",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-10-28T02:59:05.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/501409.png?date=1750244471",
+      "publishedAt": "2026-10-28T02:59:12.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/483014.png?date=1739150062",
       "categories": [
         "other"
       ],
@@ -2697,7 +2738,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "e00e97b1f5cc",
@@ -3114,26 +3155,6 @@
       "series": [
         "wilds"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "6e5a847e9bc1",
-      "title": "モンスターハンターのグッズ一覧・新作情報（ガチャガチャ・プライズ・キャラクターくじ・コラボ・イベント）",
-      "url": "https://charagoo.jp/ip/monsterhunter/",
-      "host": "charagoo.jp",
-      "source": "キャラグー",
-      "summary": "",
-      "publishedAt": "2026-10-27T23:51:08.000Z",
-      "image": "",
-      "categories": [
-        "goods",
-        "new"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
