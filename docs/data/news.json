@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-30T14:00:17.969Z",
+  "updatedAt": "2026-10-30T14:30:17.312Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 130,
+  "total": 131,
   "todayCount": 59,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 39
+      "count": 38
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 78
+      "count": 80
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 37
+      "count": 39
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 5
+      "count": 6
     },
     {
       "id": "now",
@@ -94,7 +94,7 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 53
+      "count": 52
     }
   ],
   "sources": [
@@ -104,7 +104,7 @@
     },
     {
       "name": "YouTube",
-      "count": 20
+      "count": 21
     },
     {
       "name": "AppBank",
@@ -434,8 +434,8 @@
           "isPR": false
         },
         {
-          "title": "【アウトランダーズ】ペペの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/561564",
+          "title": "【アウトランダーズ】マドレの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/577464",
           "source": "GameWith",
           "publishedAt": "2026-10-30T02:50:00.000Z",
           "isPR": false
@@ -486,7 +486,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-10-30T10:44:11.000Z",
       "sourceCount": 2,
-      "articleCount": 16,
+      "articleCount": 15,
       "categories": [
         "other",
         "guide"
@@ -597,13 +597,6 @@
           "isPR": false
         },
         {
-          "title": "【モンハンナウ】シーズン4 スタートイベントの開催期間とクエスト情報【モンハンNow】",
-          "url": "https://gamewith.jp/monsterhunternow/article/show/477848",
-          "source": "GameWith",
-          "publishedAt": "2026-10-28T03:06:26.000Z",
-          "isPR": false
-        },
-        {
           "title": "【モンハンナウ】春景裂く乱入者の開催期間とクエスト｜シーズン1【モンハンNow】",
           "url": "https://gamewith.jp/monsterhunternow/article/show/437271",
           "source": "GameWith",
@@ -629,6 +622,13 @@
           "url": "https://gamewith.jp/monsterhunternow/article/show/556866",
           "source": "GameWith",
           "publishedAt": "2026-10-28T02:59:29.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンナウ】シーズン6 スタートイベントの開催期間とクエスト情報【モンハンNow】",
+          "url": "https://gamewith.jp/monsterhunternow/article/show/501409",
+          "source": "GameWith",
+          "publishedAt": "2026-10-28T02:59:05.000Z",
           "isPR": false
         }
       ]
@@ -663,12 +663,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-30T13:30:16.005Z",
-    "previousCount": 129,
-    "newCount": 8
+    "previousAt": "2026-10-30T14:00:17.969Z",
+    "previousCount": 130,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-30T14:30:17.969Z",
+  "nextUpdateAt": "2026-10-30T15:00:17.312Z",
   "items": [
     {
       "id": "e6d79acfa4bd",
@@ -791,6 +791,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "b5d6fe40ab2e",
+      "title": "【アセンダンス】護竜リオレイアの最新情報まとめ【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/575037",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-30T09:14:14.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575037.png?date=1789770931",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "b08d88bcb897",
@@ -917,7 +938,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "825afb22021c",
@@ -1099,27 +1120,6 @@
       "summary": "",
       "publishedAt": "2026-10-30T06:06:06.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577471.png?date=1790214971",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "151e799beb6b",
-      "title": "【アウトランダーズ】おすすめSR(低レア)オトモと無課金育成優先度【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/578991",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-30T05:19:08.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/578991.png?date=1793082492",
       "categories": [
         "guide"
       ],
@@ -1406,14 +1406,14 @@
       "isNew": false
     },
     {
-      "id": "2df15bd544a5",
-      "title": "【アウトランダーズ】ペペの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/561564",
+      "id": "bf01f8835eca",
+      "title": "【アウトランダーズ】マドレの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577464",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-10-30T02:50:00.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/561564.png?date=1790214134",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577464.png?date=1790214658",
       "categories": [
         "guide"
       ],
@@ -1427,14 +1427,14 @@
       "isNew": false
     },
     {
-      "id": "bf01f8835eca",
-      "title": "【アウトランダーズ】マドレの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577464",
+      "id": "2df15bd544a5",
+      "title": "【アウトランダーズ】ペペの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/561564",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-10-30T02:50:00.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577464.png?date=1790214658",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/561564.png?date=1790214134",
       "categories": [
         "guide"
       ],
@@ -1574,14 +1574,14 @@
       "isNew": false
     },
     {
-      "id": "43ba0d31b055",
-      "title": "【アウトランダーズ】ブリックスの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577456",
+      "id": "593c6d2e0d0a",
+      "title": "【アウトランダーズ】ロードの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/583506",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-10-30T02:49:52.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577456.png?date=1790214292",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583506.png?date=1792581205",
       "categories": [
         "guide"
       ],
@@ -1595,14 +1595,14 @@
       "isNew": false
     },
     {
-      "id": "593c6d2e0d0a",
-      "title": "【アウトランダーズ】ロードの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/583506",
+      "id": "43ba0d31b055",
+      "title": "【アウトランダーズ】ブリックスの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577456",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-10-30T02:49:52.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583506.png?date=1792581205",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577456.png?date=1790214292",
       "categories": [
         "guide"
       ],
@@ -1925,7 +1925,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "46ab930cbc6c",
@@ -2028,7 +2028,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d2a9ff3d3207",
@@ -2298,7 +2298,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0ba02fe854cb",
@@ -2336,7 +2336,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c0ef111a6993",
@@ -2781,6 +2781,28 @@
       "isNew": false
     },
     {
+      "id": "b03eb9708c67",
+      "title": "【モンハンワイルズ】魚を捕まえるだけで20万ゼニー！？まさかの落とし穴🐰💸【DAY3】#モンハンワイルズ #MHWilds #モコプの運勢診断 #金策 #vtuber",
+      "url": "https://youtu.be/JjNBg4iRDRA?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-28T11:10:27.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "3b7d81679795",
       "title": "文化祭で『モンハン』を体験!? ジンオウガ討伐謎解き、モンハン飯などが楽しめる「バンタン文化祭2026」が開催決定",
       "url": "https://www.gamespark.jp/article/2026/10/28/174191.html",
@@ -2837,7 +2859,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "bf166c2ea99a",
@@ -3002,27 +3024,6 @@
       "isNew": false
     },
     {
-      "id": "66bce194a9ec",
-      "title": "【モンハンナウ】シーズン4 スタートイベントの開催期間とクエスト情報【モンハンNow】",
-      "url": "https://gamewith.jp/monsterhunternow/article/show/477848",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-28T03:06:26.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/477848.png?date=1733483576",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "6db0137d2cb1",
       "title": "【モンハンナウ】春景裂く乱入者の開催期間とクエスト｜シーズン1【モンハンNow】",
       "url": "https://gamewith.jp/monsterhunternow/article/show/437271",
@@ -3105,6 +3106,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "b99642edfe2e",
+      "title": "【モンハンナウ】シーズン6 スタートイベントの開催期間とクエスト情報【モンハンNow】",
+      "url": "https://gamewith.jp/monsterhunternow/article/show/501409",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-28T02:59:05.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/501409.png?date=1750244471",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "1a6205be3509",
@@ -3270,7 +3292,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6e5a847e9bc1",
