@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-29T23:30:17.412Z",
+  "updatedAt": "2026-10-30T00:00:15.836Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 102,
+  "total": 101,
   "todayCount": 7,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 9
+      "count": 8
     },
     {
       "id": "sale",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 39
+      "count": 38
     },
     {
       "id": "rise",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "YouTube",
-      "count": 24
+      "count": 23
     },
     {
       "name": "GameWith",
@@ -127,10 +127,6 @@
       "count": 4
     },
     {
-      "name": "ニコニコニュース",
-      "count": 3
-    },
-    {
       "name": "GAME Watch",
       "count": 3
     },
@@ -143,6 +139,10 @@
       "count": 2
     },
     {
+      "name": "ニコニコニュース",
+      "count": 2
+    },
+    {
       "name": "インサイド",
       "count": 2
     },
@@ -152,10 +152,6 @@
     },
     {
       "name": "電撃オンライン",
-      "count": 2
-    },
-    {
-      "name": "Saiga NAK",
       "count": 2
     },
     {
@@ -191,6 +187,14 @@
       "count": 1
     },
     {
+      "name": "Saiga NAK",
+      "count": 1
+    },
+    {
+      "name": "ｄメニューニュース",
+      "count": 1
+    },
+    {
       "name": "福岡TNCニュース",
       "count": 1
     },
@@ -204,6 +208,10 @@
     },
     {
       "name": "4Gamer",
+      "count": 1
+    },
+    {
+      "name": "ゲームハック",
       "count": 1
     },
     {
@@ -330,17 +338,10 @@
           "isPR": false
         },
         {
-          "title": "スマホで体感せよ！新たな狩猟と探索の極致！『モンスターハンターアウトランダーズ』本日10月29日に正式サービス開始！",
-          "url": "https://news.nicovideo.jp/watch/nw19934085?news_ref",
-          "source": "ニコニコニュース",
-          "publishedAt": "2026-10-29T09:21:26.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ついにスマホで狩猟解禁！「モンスターハンターアウトランダーズ」正式サービス開始！",
-          "url": "https://saiganak.com/ja/release/monsterhunteroutlanders/amp/",
-          "source": "Saiga NAK",
-          "publishedAt": "2026-10-29T04:10:54.000Z",
+          "title": "ついにスマホで狩猟解禁！「モンスターハンターアウトランダーズ」正式サービス開始！（Saiga NAK）",
+          "url": "https://topics.smt.docomo.ne.jp/article/funglr_games/trend/funglr_games-202610335909?utm_source",
+          "source": "ｄメニューニュース",
+          "publishedAt": "2026-10-29T04:10:00.000Z",
           "isPR": false
         },
         {
@@ -348,6 +349,13 @@
           "url": "https://gamebiz.jp/news/434773",
           "source": "gamebiz【ゲームビズ】",
           "publishedAt": "2026-10-29T02:03:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "スマホで体感せよ！新たな狩猟と探索の極致！『モンスターハンターアウトランダーズ』本日10月29日に正式サービス開始！",
+          "url": "https://gamehack.jp/386670/",
+          "source": "ゲームハック",
+          "publishedAt": "2026-10-29T02:00:00.000Z",
           "isPR": false
         },
         {
@@ -380,9 +388,9 @@
       "articles": [
         {
           "title": "「モンスターハンターアウトランダーズ」の正式サービスが開始！コントローラーで狩猟中の主要な操作が可能に",
-          "url": "https://www.gamer.ne.jp/news/202610290012/image/8/",
+          "url": "https://www.gamer.ne.jp/news/202610290012/image/5/",
           "source": "Gamer",
-          "publishedAt": "2026-10-29T16:00:31.000Z",
+          "publishedAt": "2026-10-29T15:50:32.000Z",
           "isPR": false
         },
         {
@@ -615,12 +623,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-29T22:59:30.882Z",
-    "previousCount": 85,
-    "newCount": 20
+    "previousAt": "2026-10-29T23:30:17.412Z",
+    "previousCount": 102,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-30T00:00:17.412Z",
+  "nextUpdateAt": "2026-10-30T00:30:15.836Z",
   "items": [
     {
       "id": "b45b2f276be1",
@@ -641,7 +649,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a46d388e9575",
@@ -705,11 +713,11 @@
     {
       "id": "c9984cf66282",
       "title": "「モンスターハンターアウトランダーズ」の正式サービスが開始！コントローラーで狩猟中の主要な操作が可能に",
-      "url": "https://www.gamer.ne.jp/news/202610290012/image/8/",
+      "url": "https://www.gamer.ne.jp/news/202610290012/image/5/",
       "host": "gamer.ne.jp",
       "source": "Gamer",
       "summary": "",
-      "publishedAt": "2026-10-29T16:00:31.000Z",
+      "publishedAt": "2026-10-29T15:50:32.000Z",
       "image": "",
       "categories": [
         "other"
@@ -742,7 +750,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "bb7f0a18dd56",
@@ -1008,7 +1016,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "bae434cea647",
@@ -1028,27 +1036,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "79f8da0db4ba",
-      "title": "スマホで体感せよ！新たな狩猟と探索の極致！『モンスターハンターアウトランダーズ』本日10月29日に正式サービス開始！",
-      "url": "https://news.nicovideo.jp/watch/nw19934085?news_ref",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-10-29T09:21:26.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "d6a5d4580888",
@@ -1109,7 +1096,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ae613e9a6c15",
@@ -1258,14 +1245,14 @@
       "isNew": false
     },
     {
-      "id": "e896f84b7005",
-      "title": "屋外広場に展示されるモンスターハンターの巨大立像のイメージ - 三井アウトレットパーク福岡マリノア、来年4月開業 モンスターハンター立像や九州最大級ロピアも - 写真・画像(3/4)",
-      "url": "https://www.nishinippon.co.jp/image/1097497/",
+      "id": "62f553761b3d",
+      "title": "「三井アウトレットパーク福岡マリノア」の屋外広場のイメージ。「モンスターハンター」のキャラクターの巨大立像が展示される - 三井アウトレットパーク福岡マリノア、来年4月開業 モンスターハンター立像や九州最大級ロピアも - 写真・画像(2/…",
+      "url": "https://www.nishinippon.co.jp/image/1097496/",
       "host": "nishinippon.co.jp",
       "source": "西日本新聞me",
       "summary": "",
-      "publishedAt": "2026-10-29T05:37:39.000Z",
-      "image": "https://www.nishinippon.co.jp/uploads/image/1954336/sns_IP261029JAA000146000-001-141757.jpg",
+      "publishedAt": "2026-10-29T05:37:40.000Z",
+      "image": "https://www.nishinippon.co.jp/uploads/image/1954335/sns_IP261029JAA000144000-001-141632.jpg",
       "categories": [
         "other"
       ],
@@ -1274,7 +1261,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "fb8f62e0d71c",
@@ -1284,7 +1271,7 @@
       "source": "GAME Watch",
       "summary": "三井不動産および福岡地所は、共同で開発を推進する福岡市西区「マリノアシティ福岡」跡地の商業施設について、施設名称を「三井アウトレットパーク 福岡マリノア」に決定した。本施設の開業は2027年4月の予定。",
       "publishedAt": "2026-10-29T05:36:58.000Z",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2152/270/012.jpg",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1396,13 +1383,13 @@
     },
     {
       "id": "8297296be69e",
-      "title": "ついにスマホで狩猟解禁！「モンスターハンターアウトランダーズ」正式サービス開始！",
-      "url": "https://saiganak.com/ja/release/monsterhunteroutlanders/amp/",
-      "host": "saiganak.com",
-      "source": "Saiga NAK",
+      "title": "ついにスマホで狩猟解禁！「モンスターハンターアウトランダーズ」正式サービス開始！（Saiga NAK）",
+      "url": "https://topics.smt.docomo.ne.jp/article/funglr_games/trend/funglr_games-202610335909?utm_source",
+      "host": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
       "summary": "",
-      "publishedAt": "2026-10-29T04:10:54.000Z",
-      "image": "https://i0.wp.com/uploads.saigacdn.com/2026/10/monsterhunteroutlanders-00.jpg?resize=1200,630",
+      "publishedAt": "2026-10-29T04:10:00.000Z",
+      "image": "https://img.topics.smt.news.goo.ne.jp/picture/funglr_games/m_funglr_games-202610335909.jpg",
       "categories": [
         "other"
       ],
@@ -1454,7 +1441,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "62f9c29ec36f",
@@ -1519,7 +1506,7 @@
     },
     {
       "id": "d1e493214446",
-      "title": "【画像】夢灯の儀の装いを刺繍や鞍まで再現！e-CAPCOM「モンスターハンターワイルズ ぬいぐるみ セクレト (リビングドールの装い)」 2/5",
+      "title": "【画像】夢灯の儀の装いを刺繍や鞍まで再現！e-CAPCOM「モンスターハンターワイルズ ぬいぐるみ セクレト (リビングドールの装い)」 3/5",
       "url": "https://news.livedoor.com/article/image_detail/32682854/?img_id",
       "host": "news.livedoor.com",
       "source": "ライブドアニュース",
@@ -1536,7 +1523,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0a6fa4a6c908",
@@ -1546,7 +1533,7 @@
       "source": "GAME Watch",
       "summary": "2027年4月に開業予定の「三井アウトレットパーク 福岡マリノア」に、カプコンの「モンスターハンター」シリーズから「天空の王者 リオレウス」と「大海の王者 ラギアクルス」の等身大立像の設置が決定した。",
       "publishedAt": "2026-10-29T02:54:20.000Z",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2152/185/0.jpg",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1739,6 +1726,27 @@
       "isNew": false
     },
     {
+      "id": "79f8da0db4ba",
+      "title": "スマホで体感せよ！新たな狩猟と探索の極致！『モンスターハンターアウトランダーズ』本日10月29日に正式サービス開始！",
+      "url": "https://gamehack.jp/386670/",
+      "host": "gamehack.jp",
+      "source": "ゲームハック",
+      "summary": "",
+      "publishedAt": "2026-10-29T02:00:00.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/120153/158/120153-158-1fe69ef54f7ecca1437e5f1eea953d72-2778x1284.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "8008a16ce0d0",
       "title": "ガシャポン『モンハン』めじるしアクセサリーが発売！個性的なデフォルメのリオレウスやタマミツネ、フルフルなど全6種",
       "url": "https://www.inside-games.jp/article/2026/10/29/190008.html",
@@ -1776,7 +1784,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "08e166e4824c",
@@ -1840,7 +1848,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0880770d45ae",
@@ -2067,27 +2075,6 @@
       "isNew": false
     },
     {
-      "id": "9dd94ea5ecec",
-      "title": "【モンハンワイルズ】操虫棍講座 第17弾｜狩猟のススメ 歴戦王アルシュベルド編｜被弾を減らす技対策・立ち回り＆狩猟解説",
-      "url": "https://youtu.be/IP_oL0ySlgk?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-28T07:00:38.000Z",
-      "image": "",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "cdcd612f70f8",
       "title": "バンタン文化祭2026、モンハンとコラボ！全国5校で没入体験",
       "url": "https://koubo.jp/article/135733",
@@ -2166,7 +2153,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e08e6c8ea2a8",
@@ -2208,7 +2195,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3cdc0bd2aa98",
@@ -2352,7 +2339,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "75565643ddd3",
@@ -2390,7 +2377,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e55a944ada28",
@@ -2411,7 +2398,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "24686ecd42dd",
@@ -2433,7 +2420,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d4cf02d0e256",
@@ -2496,7 +2483,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2aef5650b438",
@@ -2518,7 +2505,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9625811d6ab4",
@@ -2539,7 +2526,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e26ae4956e54",
@@ -2579,7 +2566,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a2119f0dcdb7",
@@ -2680,7 +2667,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c1bcaad1eabb",
