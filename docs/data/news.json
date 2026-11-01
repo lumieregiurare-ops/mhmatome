@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-01T15:00:15.398Z",
+  "updatedAt": "2026-11-01T15:30:14.681Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 100,
+  "total": 103,
   "todayCount": 0,
   "categories": [
     {
@@ -52,7 +52,7 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 1
+      "count": 0
     },
     {
       "id": "sales",
@@ -62,24 +62,24 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 44
+      "count": 47
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 36
+      "count": 35
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 4
+      "count": 8
     },
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 6
+      "count": 5
     },
     {
       "id": "now",
@@ -94,17 +94,17 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 44
+      "count": 45
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 58
+      "count": 63
     },
     {
       "name": "YouTube",
-      "count": 24
+      "count": 22
     },
     {
       "name": "キャラグー",
@@ -153,18 +153,18 @@
   ],
   "topics": [
     {
-      "id": "705870b0ff79",
-      "title": "【アウトランダーズ】主人公(弓)の評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "id": "c7cdbb587bba",
+      "title": "【MHO】ソロ闘技:クルルヤック ぺぺ 01’31”50 【モンハンアウトランダーズ】",
       "summary": "",
-      "url": "https://gamewith.jp/mhoutlanders/577466",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577466.png?date=1790214739",
-      "leadSource": "GameWith",
-      "publishedAt": "2026-11-01T12:22:04.000Z",
+      "url": "https://youtu.be/eSUnDSg5ADY?si",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577469.png?date=1790214889",
+      "leadSource": "YouTube",
+      "publishedAt": "2026-11-01T14:05:11.000Z",
       "sourceCount": 3,
-      "articleCount": 38,
+      "articleCount": 40,
       "categories": [
-        "guide",
-        "sales"
+        "other",
+        "guide"
       ],
       "keywords": [
         "アウトランダーズ",
@@ -172,6 +172,20 @@
         "装備"
       ],
       "articles": [
+        {
+          "title": "【アウトランダーズ】主人公(双剣)の評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/577469",
+          "source": "GameWith",
+          "publishedAt": "2026-11-01T12:43:10.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アウトランダーズ】主人公(弓)の評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/577466",
+          "source": "GameWith",
+          "publishedAt": "2026-11-01T12:22:04.000Z",
+          "isPR": false
+        },
         {
           "title": "【アウトランダーズ】ストーリー攻略チャート【モンハンアウトランダーズ】",
           "url": "https://gamewith.jp/mhoutlanders/531933",
@@ -213,20 +227,6 @@
           "source": "GameWith",
           "publishedAt": "2026-11-01T10:32:21.000Z",
           "isPR": false
-        },
-        {
-          "title": "【アウトランダーズ】ペペの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/561564",
-          "source": "GameWith",
-          "publishedAt": "2026-11-01T10:32:19.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アウトランダーズ】マドレの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/577464",
-          "source": "GameWith",
-          "publishedAt": "2026-11-01T10:32:19.000Z",
-          "isPR": false
         }
       ]
     },
@@ -239,9 +239,10 @@
       "leadSource": "YouTube",
       "publishedAt": "2026-11-01T09:47:33.000Z",
       "sourceCount": 2,
-      "articleCount": 7,
+      "articleCount": 9,
       "categories": [
-        "other"
+        "other",
+        "guide"
       ],
       "keywords": [
         "アルシュベルド",
@@ -289,6 +290,63 @@
           "url": "https://youtu.be/gwCyRpDqbWU?si",
           "source": "YouTube",
           "publishedAt": "2026-10-30T18:41:58.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】操虫棍の最強装備・おすすめ装備【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/484940",
+          "source": "GameWith",
+          "publishedAt": "2026-10-30T13:55:10.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】アセンダンスに備えろ！初心者向けゴグマジオス装備の作り方",
+          "url": "https://youtu.be/XfXBsjxTRow?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-30T12:31:22.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "9b7f5ac9e558",
+      "title": "「バイオハザード レクイエム」30%オフで6,293円！ もうすぐ終了のセール情報まとめ【10月31日更新】「ウルトラ怪獣モンスターファーム」や「モンハンライズ・サンブレイク」のセットも割引",
+      "summary": "10月末を迎え、各ゲームプラットフォームではハロウィンセールなども実施されている。セール中のタイトルから、とくに開催終了までの期間が短いものをピックアップして紹介しよう。",
+      "url": "https://game.watch.impress.co.jp/docs/news/2152283.html",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2152/283/000.jpg",
+      "leadSource": "GAME Watch",
+      "publishedAt": "2026-10-30T15:00:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 4,
+      "categories": [
+        "sale",
+        "guide"
+      ],
+      "keywords": [
+        "サンブレイク",
+        "モンハンライズ",
+        "解放条件"
+      ],
+      "articles": [
+        {
+          "title": "【サンブレイク】おすすめ盟友と組み合わせ | 増やし方【モンハンライズ】",
+          "url": "https://gamewith.jp/mhrize/article/show/379765",
+          "source": "GameWith",
+          "publishedAt": "2026-10-30T06:01:22.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【サンブレイク】サブキャンプの解放条件と場所一覧【モンハンライズ】",
+          "url": "https://gamewith.jp/mhrize/article/show/264945",
+          "source": "GameWith",
+          "publishedAt": "2026-10-29T23:42:12.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【サンブレイク】重ね着装備一覧と解放条件｜マスターランク",
+          "url": "https://gamewith.jp/mhrize/article/show/347297",
+          "source": "GameWith",
+          "publishedAt": "2026-10-29T18:09:09.000Z",
           "isPR": false
         }
       ]
@@ -379,13 +437,55 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-01T14:30:15.003Z",
-    "previousCount": 105,
-    "newCount": 3
+    "previousAt": "2026-11-01T15:00:15.398Z",
+    "previousCount": 100,
+    "newCount": 7
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-01T15:30:15.398Z",
+  "nextUpdateAt": "2026-11-01T16:00:14.681Z",
   "items": [
+    {
+      "id": "dd131fce20ae",
+      "title": "水辺のきつねを狩るまぐろ #モンハンワイルズ #まぐろ #モンハン",
+      "url": "https://youtu.be/TXl4cf1YuN8?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-01T14:17:30.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "c7cdbb587bba",
+      "title": "【MHO】ソロ闘技:クルルヤック ぺぺ 01’31”50 【モンハンアウトランダーズ】",
+      "url": "https://youtu.be/eSUnDSg5ADY?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-01T14:05:11.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "e775fda94739",
       "title": "【トロコン中】「モンスターハンターライズ」#56",
@@ -400,6 +500,27 @@
       ],
       "series": [
         "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "1f6ecbc0b45f",
+      "title": "【アウトランダーズ】主人公(双剣)の評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577469",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-01T12:43:10.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577469.png?date=1790214889",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -857,27 +978,6 @@
       "summary": "",
       "publishedAt": "2026-11-01T10:32:11.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583506.png?date=1792581205",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "1f6ecbc0b45f",
-      "title": "【アウトランダーズ】主人公(双剣)の評価とおすすめ装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577469",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-01T10:32:08.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577469.png?date=1790214889",
       "categories": [
         "guide"
       ],
@@ -1534,6 +1634,27 @@
       "isNew": false
     },
     {
+      "id": "9befdbafe697",
+      "title": "【アウトランダーズ】冒険譚イベントの進め方と報酬【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/585588",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-31T13:04:57.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/585588.png?date=1793227049",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "5705da647fc7",
       "title": "【モンハンワイルズ】最強装備・おすすめ装備まとめ【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/485337",
@@ -1699,25 +1820,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "5f960b95db30",
-      "title": "【二つ名最強候補⁉️】超特殊＆G5「紅兜アオアシラ」に令和プロハンが初見ソロ挑戦【モンスターハンターXX/モンスターハンターダブルクロス/アオアシラ】",
-      "url": "https://youtu.be/ypsPx8ILOD0?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-31T03:35:33.000Z",
-      "image": "",
-      "categories": [
-        "guide"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "778fbb3d5344",
@@ -1929,27 +2031,6 @@
       "isNew": false
     },
     {
-      "id": "2b28f4e94641",
-      "title": "【モンスターハンターアウトランダーズ #01】人生初のモンハン！完全初心者が未知の世界へ飛び込んでみた！🌿✨【初見プレイ】",
-      "url": "https://youtu.be/OxeM4rwsvWM",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-30T12:30:23.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "7eaa2c8d940a",
       "title": "【2夜連続配信】10月30日(金)よる7時！モンハン部のラジオ第5回",
       "url": "https://youtu.be/6NjSODoh8oE?si",
@@ -2011,27 +2092,6 @@
       "isNew": false
     },
     {
-      "id": "95212d7fa70f",
-      "title": "最終アプデ対応！ワイルズ狩猟笛講座完全版【モンハンワイルズ】",
-      "url": "https://youtu.be/27uPeJq6ZH8?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-30T09:00:23.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "0b68bd1287fd",
       "title": "【アセンダンス】片手剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/577790",
@@ -2053,29 +2113,6 @@
       "isNew": false
     },
     {
-      "id": "883a20b7a219",
-      "title": "盛り土いらねぇ #mhwilds #ゲーム実況 #装備厳選 #ps5 #games #モンハンワイルズ #ゲーム #初心者",
-      "url": "https://youtu.be/65ipjkfGwXU?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-30T07:35:05.000Z",
-      "image": "",
-      "categories": [
-        "guide",
-        "community"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "c2950a291114",
       "title": "モンハンアウトランダーズのおすすめタブレット10選｜iPad対応・推奨スペック",
       "url": "https://gamewith.jp/gaming-pc/586155",
@@ -2095,6 +2132,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "a1d5eaa7197a",
+      "title": "【サンブレイク】おすすめ盟友と組み合わせ | 増やし方【モンハンライズ】",
+      "url": "https://gamewith.jp/mhrize/article/show/379765",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-30T06:01:22.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/379765.png?date=1671012169",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "9f9deddd8b65",
@@ -2282,6 +2340,27 @@
       "isNew": false
     },
     {
+      "id": "46a705156eaa",
+      "title": "【サンブレイク】サブキャンプの解放条件と場所一覧【モンハンライズ】",
+      "url": "https://gamewith.jp/mhrize/article/show/264945",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-29T23:42:12.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/264945.png?date=1616756590",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "8931b9d260fa",
       "title": "スマホで“ひと狩りいこうぜ”『モンスターハンターアウトランダーズ』サービス開始！武器種「チャージアックス」を初公開",
       "url": "https://www.gamebusiness.jp/article/2026/10/30/28498.html",
@@ -2301,6 +2380,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "bedfdcfcec77",
+      "title": "【モンハンライズ】モンスター一覧｜弱点早見表",
+      "url": "https://gamewith.jp/mhrize/article/show/250249",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-29T22:07:16.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/250249.png?date=1610017057",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "70688df1f73f",
@@ -2385,6 +2485,27 @@
       "isNew": false
     },
     {
+      "id": "45337545cd02",
+      "title": "【サンブレイク】重ね着装備一覧と解放条件｜マスターランク",
+      "url": "https://gamewith.jp/mhrize/article/show/347297",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-29T18:09:09.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/347297.png?date=1655703651",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "14a3ee9d033c",
       "title": "【モンハンワイルズ】ユニオン鉱石の入手方法と効率的な集め方【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/487485",
@@ -2455,7 +2576,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "You must install the latest version of Monster Hunter Wilds in order to play online multiplayer and access downloadable content. Release Date Tuesday October 2…",
       "publishedAt": "2026-10-28T10:54:39.000Z",
-      "image": "https://clan.fastly.steamstatic.com/images/44795648/0e20be10642d99093ef2af9c518c27a7ead4eb78.jpg",
+      "image": "https://clan.akamai.steamstatic.com/images/44795648/0e20be10642d99093ef2af9c518c27a7ead4eb78.jpg",
       "categories": [
         "update"
       ],
