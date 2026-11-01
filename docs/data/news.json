@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-01T06:00:15.447Z",
+  "updatedAt": "2026-11-01T06:30:14.438Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 91,
-  "todayCount": 32,
+  "total": 102,
+  "todayCount": 34,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 33
+      "count": 34
     },
     {
       "id": "sale",
@@ -52,7 +52,7 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 1
+      "count": 2
     },
     {
       "id": "sales",
@@ -62,19 +62,19 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 44
+      "count": 54
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 26
+      "count": 33
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 3
+      "count": 4
     },
     {
       "id": "world",
@@ -94,17 +94,17 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 43
+      "count": 42
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 51
+      "count": 50
     },
     {
       "name": "YouTube",
-      "count": 14
+      "count": 25
     },
     {
       "name": "AppBank",
@@ -120,6 +120,10 @@
     },
     {
       "name": "gamebiz【ゲームビズ】",
+      "count": 2
+    },
+    {
+      "name": "ニコニコニュース",
       "count": 2
     },
     {
@@ -155,10 +159,6 @@
       "count": 1
     },
     {
-      "name": "ニコニコニュース",
-      "count": 1
-    },
-    {
       "name": "au Webポータル",
       "count": 1
     },
@@ -184,15 +184,15 @@
       "image": "https://www.appbank.net/wp-content/uploads/2026/10/20261029_131653_819_01.webp",
       "leadSource": "Gamer",
       "publishedAt": "2026-10-31T06:59:00.000Z",
-      "sourceCount": 4,
-      "articleCount": 4,
+      "sourceCount": 5,
+      "articleCount": 5,
       "categories": [
         "other"
       ],
       "keywords": [
-        "マリノア",
-        "福岡",
-        "立像"
+        "立像",
+        "リオレウス",
+        "ラギアクルス"
       ],
       "articles": [
         {
@@ -207,6 +207,13 @@
           "url": "https://www.toy-people.com/jp/?p",
           "source": "玩具人 TOY PEOPLE",
           "publishedAt": "2026-10-29T09:29:38.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「天空の王者 リオレウス」と「大海の王者 ラギアクルス」の等身大立像が降臨！！",
+          "url": "https://news.nicovideo.jp/watch/nw19933776",
+          "source": "ニコニコニュース",
+          "publishedAt": "2026-10-29T08:30:26.000Z",
           "isPR": false
         },
         {
@@ -304,15 +311,15 @@
       ]
     },
     {
-      "id": "bf01f8835eca",
-      "title": "【アウトランダーズ】マドレの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "id": "232e77676ac6",
+      "title": "【アウトランダーズ】主人公(ヘビィボウガン)の評価とおすすめ装備・編成【モンハンアウトランダーズ】",
       "summary": "",
-      "url": "https://gamewith.jp/mhoutlanders/577464",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577464.png?date=1790214658",
+      "url": "https://gamewith.jp/mhoutlanders/577467",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577467.png?date=1790214807",
       "leadSource": "GameWith",
-      "publishedAt": "2026-11-01T04:59:13.000Z",
+      "publishedAt": "2026-11-01T06:01:08.000Z",
       "sourceCount": 2,
-      "articleCount": 32,
+      "articleCount": 31,
       "categories": [
         "guide",
         "other"
@@ -323,6 +330,13 @@
         "装備"
       ],
       "articles": [
+        {
+          "title": "【アウトランダーズ】マドレの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/577464",
+          "source": "GameWith",
+          "publishedAt": "2026-11-01T04:59:13.000Z",
+          "isPR": false
+        },
         {
           "title": "【アウトランダーズ】ヘイズの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
           "url": "https://gamewith.jp/mhoutlanders/583505",
@@ -371,25 +385,124 @@
           "source": "GameWith",
           "publishedAt": "2026-11-01T01:51:29.000Z",
           "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "468d57e39da7",
+      "title": "【モンハンワイルズ】歴戦王アルシュベルド(フリーチャレンジ)のSランクの取り方とチャーム【モンスターハンターワイルズ】",
+      "summary": "",
+      "url": "https://gamewith.jp/mhwilds/548752",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/548752.png?date=1773678314",
+      "leadSource": "GameWith",
+      "publishedAt": "2026-10-30T19:49:17.000Z",
+      "sourceCount": 2,
+      "articleCount": 5,
+      "categories": [
+        "other",
+        "guide"
+      ],
+      "keywords": [
+        "モンスターハンターワイルズ",
+        "モンハンワイルズ",
+        "アルシュベルド"
+      ],
+      "articles": [
+        {
+          "title": "【モンハンワイルズ】護石周回（護石集め）の効率的なやり方【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/513618",
+          "source": "GameWith",
+          "publishedAt": "2026-10-29T21:43:45.000Z",
+          "isPR": false
         },
         {
-          "title": "【アウトランダーズ】課金要素まとめとおすすめパック【モンハンアウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/560244",
+          "title": "[復刻] 歴戦王アルシュベルド/太刀ソロ火事場討伐6分30秒/[モンハンワイルズ]",
+          "url": "https://youtu.be/XrtVsnip3hY?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-29T08:41:33.000Z",
+          "isPR": false
+        },
+        {
+          "title": "モンスターハンターワイルズ プロハンではない大剣一筋アラフィフおじさんが狩る！歴戦王アルシュベルド フリチャレ装備紹介&１戦！",
+          "url": "https://youtu.be/St6EDxSFGJI?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-29T08:27:43.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】ドストレバリーパーチの釣り方と場所【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/488432",
           "source": "GameWith",
-          "publishedAt": "2026-11-01T01:50:16.000Z",
+          "publishedAt": "2026-10-29T07:09:11.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "7eaa2c8d940a",
+      "title": "【2夜連続配信】10月30日(金)よる7時！モンハン部のラジオ第5回",
+      "summary": "",
+      "url": "https://youtu.be/6NjSODoh8oE?si",
+      "image": "https://www.appbank.net/wp-content/uploads/2026/10/20261028_151313_352_01.webp",
+      "leadSource": "YouTube",
+      "publishedAt": "2026-10-30T10:00:10.000Z",
+      "sourceCount": 2,
+      "articleCount": 3,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "ラジオ",
+        "夜連続",
+        "夜連続配信"
+      ],
+      "articles": [
+        {
+          "title": "【2夜連続配信】10月29日(木)よる7時！モンハン部のラジオ第4回",
+          "url": "https://youtu.be/IFBTFAJtFLk?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-29T10:00:07.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『モンハン部のラジオ』第4回・第5回の配信が決定！ ゲストは桜ころみん 10月29日から2夜連続",
+          "url": "https://www.appbank.net/2026/10/29/game/3146916.php",
+          "source": "AppBank",
+          "publishedAt": "2026-10-29T09:32:07.000Z",
           "isPR": false
         }
       ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-01T05:30:16.426Z",
-    "previousCount": 93,
-    "newCount": 5
+    "previousAt": "2026-11-01T06:00:15.447Z",
+    "previousCount": 91,
+    "newCount": 14
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-01T06:30:15.447Z",
+  "nextUpdateAt": "2026-11-01T07:00:14.438Z",
   "items": [
+    {
+      "id": "232e77676ac6",
+      "title": "【アウトランダーズ】主人公(ヘビィボウガン)の評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577467",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-01T06:01:08.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577467.png?date=1790214807",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "bf01f8835eca",
       "title": "【アウトランダーズ】マドレの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
@@ -454,6 +567,27 @@
       "isNew": false
     },
     {
+      "id": "40bccce677c8",
+      "title": "【アセンダンス】大剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/485475",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-01T03:40:29.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485475.png?date=1789753003",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "84bb77cbf185",
       "title": "【モンハンサンブレイク】 MR2の緊急からストーリー進めてくよー！（Steam版）【MHSB】",
       "url": "https://youtu.be/TIfsE1W9PFA?si",
@@ -493,7 +627,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "61f9107c6efe",
@@ -1097,16 +1231,37 @@
       "isNew": false
     },
     {
-      "id": "232e77676ac6",
-      "title": "【アウトランダーズ】主人公(ヘビィボウガン)の評価とおすすめ装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577467",
+      "id": "5014a9a63018",
+      "title": "【モンハンワイルズ】THANK YOU, HUNTERS!｜夢灯の儀 🎃",
+      "url": "https://youtu.be/GNAmSvBKOSo",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-31T13:05:38.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "9befdbafe697",
+      "title": "【アウトランダーズ】冒険譚イベントの進め方と報酬【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/585588",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-10-31T11:30:09.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577467.png?date=1790214807",
+      "publishedAt": "2026-10-31T13:04:57.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/585588.png?date=1793227049",
       "categories": [
-        "guide"
+        "other"
       ],
       "series": [
         "outlanders"
@@ -1115,7 +1270,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "d605748fb698",
@@ -1327,6 +1482,25 @@
       "isNew": false
     },
     {
+      "id": "5f960b95db30",
+      "title": "【二つ名最強候補⁉️】超特殊＆G5「紅兜アオアシラ」に令和プロハンが初見ソロ挑戦【モンスターハンターXX/モンスターハンターダブルクロス/アオアシラ】",
+      "url": "https://youtu.be/ypsPx8ILOD0?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-31T03:35:33.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "f299ebe1626f",
       "title": "【アウトランダーズ】コジローの性能とおすすめキャラ【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577648",
@@ -1390,27 +1564,6 @@
       "isNew": false
     },
     {
-      "id": "bdd6dc72abed",
-      "title": "【アウトランダーズ】主人公(ランス)の評価とおすすめ装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577468",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-31T00:00:15.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577468.png?date=1790214845",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "628aeb8d4406",
       "title": "モンスターハンター めじるしアクセサリーの設置場所・発売日・ラインナップ｜ガチャガチャ",
       "url": "https://charagoo.jp/gacha/item/c6521f7523c1/",
@@ -1427,7 +1580,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "468d57e39da7",
@@ -1473,27 +1626,6 @@
       "isNew": false
     },
     {
-      "id": "f5b273aee9ef",
-      "title": "【アウトランダーズ】エンショウの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577460",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-30T15:43:12.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577460.png?date=1790214483",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "e08e6c8ea2a8",
       "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/563104",
@@ -1528,27 +1660,6 @@
       ],
       "series": [
         "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "40bccce677c8",
-      "title": "【アセンダンス】大剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/485475",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-30T14:20:13.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485475.png?date=1789753003",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1641,6 +1752,25 @@
       "isNew": false
     },
     {
+      "id": "7eaa2c8d940a",
+      "title": "【2夜連続配信】10月30日(金)よる7時！モンハン部のラジオ第5回",
+      "url": "https://youtu.be/6NjSODoh8oE?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-30T10:00:10.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "cd0d069a8749",
       "title": "咄嗟のガードが間に合わない！？感覚障害薬剤師のププロポル戦【モンハンワイルズ】#08",
       "url": "https://youtu.be/VvmT0LWA7j4",
@@ -1662,6 +1792,48 @@
       "isNew": false
     },
     {
+      "id": "95212d7fa70f",
+      "title": "最終アプデ対応！ワイルズ狩猟笛講座完全版【モンハンワイルズ】",
+      "url": "https://youtu.be/27uPeJq6ZH8?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-30T09:00:23.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "64b1d0669ae8",
+      "title": "【Switch2版ワイルズ#2】アイルー可愛すぎるし、MHのシュールなムービーも好きすぎる【モンスターハンターワイルズ】",
+      "url": "https://youtu.be/DOsIXQ02j8U?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-30T08:15:05.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "0b68bd1287fd",
       "title": "【アセンダンス】片手剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/577790",
@@ -1681,6 +1853,29 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "883a20b7a219",
+      "title": "盛り土いらねぇ #mhwilds #ゲーム実況 #装備厳選 #ps5 #games #モンハンワイルズ #ゲーム #初心者",
+      "url": "https://youtu.be/65ipjkfGwXU?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-30T07:35:05.000Z",
+      "image": "",
+      "categories": [
+        "guide",
+        "community"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "c2950a291114",
@@ -1830,6 +2025,27 @@
       "isNew": false
     },
     {
+      "id": "6c7a36768771",
+      "title": "20 ファビウス卿、2回も当たってしまってすみません。 たかの「モンスターハンターワイルズ」【ハンティングアクション】",
+      "url": "https://youtu.be/w9xXArSQgJ8?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-30T00:37:08.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "e95cc1fb5a7d",
       "title": "【App Store(10/30)】新作『モンスターハンターアウトランダーズ』がいきなりトップ3入り 『ポケポケ』は新拡張パック「デュアルフュージョン」登場で2位に浮上",
       "url": "https://gamebiz.jp/news/434826",
@@ -1889,28 +2105,6 @@
       "isNew": false
     },
     {
-      "id": "453087ff6b54",
-      "title": "【MHWilds】歷戰王鎖刃龍 太刀 (自由挑戰)/歴戦王アルシュベルド/Arch Tempered Arkveld LS Free Quest 8\"00\"94",
-      "url": "https://youtu.be/kv7d_ijlrHU?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-29T21:46:11.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "70688df1f73f",
       "title": "【モンハンワイルズ】護石周回（護石集め）の効率的なやり方【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/513618",
@@ -1930,6 +2124,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "b45b2f276be1",
+      "title": "絶体絶命のピンチ！修羅場シーン1️⃣ フリチャレダイジェスト 🐲Monster Hunter Wilds のんびり狩猟生活🍖エンジョイプレイ動画🦉 ＃モンハンワイルズ ＃モンハンワイルズアセンダンス",
+      "url": "https://youtu.be/8R99SzFYLVs?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-29T21:28:54.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "6526260db7c3",
@@ -1979,7 +2194,7 @@
       "source": "アプリ島",
       "summary": "",
       "publishedAt": "2026-10-29T13:52:30.000Z",
-      "image": "https://apps-island.com/wp-content/uploads/2026/10/monhanout1.webp",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -2035,6 +2250,27 @@
       "isNew": false
     },
     {
+      "id": "45d327b00a82",
+      "title": "【サンブレイク】みなひろさんと未解析情報を徹底的に喋り倒した！！[スマスロ][スロット][パチスロ]",
+      "url": "https://youtu.be/WIppm0SOkfI?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-29T11:00:18.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "d2a9ff3d3207",
       "title": "土佐兄弟がSwitch 2版『ドラゴンズドグマ 2：ダークアリズン』と『モンハンワイルズ』を実況！ 「カプコンTVチャレンジ!!」10月29日夜8時配信",
       "url": "https://www.appbank.net/2026/10/29/game/3147976.php",
@@ -2076,6 +2312,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "f6bb716a9b6d",
+      "title": "【2夜連続配信】10月29日(木)よる7時！モンハン部のラジオ第4回",
+      "url": "https://youtu.be/IFBTFAJtFLk?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-29T10:00:07.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "8931b9d260fa",
@@ -2158,6 +2413,67 @@
       "isNew": false
     },
     {
+      "id": "44e6e3658602",
+      "title": "[復刻] 歴戦王アルシュベルド/太刀ソロ火事場討伐6分30秒/[モンハンワイルズ]",
+      "url": "https://youtu.be/XrtVsnip3hY?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-29T08:41:33.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "dfc8a154559f",
+      "title": "「天空の王者 リオレウス」と「大海の王者 ラギアクルス」の等身大立像が降臨！！",
+      "url": "https://news.nicovideo.jp/watch/nw19933776",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-10-29T08:30:26.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "ae613e9a6c15",
+      "title": "モンスターハンターワイルズ プロハンではない大剣一筋アラフィフおじさんが狩る！歴戦王アルシュベルド フリチャレ装備紹介&１戦！",
+      "url": "https://youtu.be/St6EDxSFGJI?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-29T08:27:43.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "e7fa63eebb01",
       "title": "【モンハンワイルズ】ドストレバリーパーチの釣り方と場所【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/488432",
@@ -2195,7 +2511,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "acc367d27640",
@@ -2216,7 +2532,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "39021812eff2",
@@ -2266,7 +2582,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "You must install the latest version of Monster Hunter Wilds in order to play online multiplayer and access downloadable content. Release Date Tuesday October 2…",
       "publishedAt": "2026-10-28T10:54:39.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/44795648/0e20be10642d99093ef2af9c518c27a7ead4eb78.jpg",
+      "image": "https://clan.fastly.steamstatic.com/images/44795648/0e20be10642d99093ef2af9c518c27a7ead4eb78.jpg",
       "categories": [
         "update"
       ],
