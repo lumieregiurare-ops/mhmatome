@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-01T12:30:15.088Z",
+  "updatedAt": "2026-11-01T13:00:17.339Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 97,
-  "todayCount": 48,
+  "total": 98,
+  "todayCount": 51,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 38
+      "count": 40
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 44
+      "count": 43
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 36
+      "count": 35
     },
     {
       "id": "rise",
@@ -94,13 +94,13 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 42
+      "count": 44
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 56
+      "count": 57
     },
     {
       "name": "YouTube",
@@ -197,7 +197,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-11-01T11:00:17.000Z",
       "sourceCount": 2,
-      "articleCount": 15,
+      "articleCount": 14,
       "categories": [
         "guide",
         "sales"
@@ -465,12 +465,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-01T12:00:15.507Z",
-    "previousCount": 99,
-    "newCount": 4
+    "previousAt": "2026-11-01T12:30:15.088Z",
+    "previousCount": 97,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-01T13:00:15.088Z",
+  "nextUpdateAt": "2026-11-01T13:30:17.339Z",
   "items": [
     {
       "id": "674e3b8e2219",
@@ -554,7 +554,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "705870b0ff79",
@@ -725,6 +725,48 @@
       "isNew": false
     },
     {
+      "id": "9183c4bcb387",
+      "title": "【アウトランダーズ】クレスの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577459",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-01T10:32:15.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577459.png?date=1790214418",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "4749e6e7e0c8",
+      "title": "【アウトランダーズ】アケニアの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577458",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-01T10:32:15.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577458.png?date=1790214381",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "43ba0d31b055",
       "title": "【アウトランダーズ】ブリックスの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577456",
@@ -765,6 +807,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "19b8b625f26f",
+      "title": "【アウトランダーズ】主人公(ハンマー)の評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/583504",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-01T10:32:11.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583504.png?date=1792581337",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "5f417c989053",
@@ -1494,27 +1557,6 @@
       "isNew": false
     },
     {
-      "id": "9befdbafe697",
-      "title": "【アウトランダーズ】冒険譚イベントの進め方と報酬【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/585588",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-31T13:04:57.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/585588.png?date=1793227049",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "5705da647fc7",
       "title": "【モンハンワイルズ】最強装備・おすすめ装備まとめ【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/485337",
@@ -1968,7 +2010,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "cd0d069a8749",
@@ -2201,7 +2243,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e95cc1fb5a7d",
@@ -2363,7 +2405,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ef1149edc523",
@@ -2442,27 +2484,6 @@
       ],
       "series": [
         "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "c859fa9d9bd5",
-      "title": "【モンハンワイルズ】歴戦王ウズトゥナの対策・攻略と弱点【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/505026",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-29T11:30:32.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/505026.png?date=1753236212",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
