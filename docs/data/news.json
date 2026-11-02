@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-02T15:00:15.465Z",
+  "updatedAt": "2026-11-02T15:30:17.693Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 96,
+  "total": 100,
   "todayCount": 0,
   "categories": [
     {
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 49
+      "count": 53
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 37
+      "count": 41
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 8
+      "count": 9
     },
     {
       "id": "now",
@@ -104,11 +104,15 @@
     },
     {
       "name": "YouTube",
-      "count": 27
+      "count": 30
     },
     {
       "name": "キャラグー",
       "count": 3
+    },
+    {
+      "name": "Howl.Link",
+      "count": 2
     },
     {
       "name": "ウォーカープラス",
@@ -124,10 +128,6 @@
     },
     {
       "name": "Game*Spark",
-      "count": 1
-    },
-    {
-      "name": "Howl.Link",
       "count": 1
     },
     {
@@ -268,12 +268,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-02T14:30:16.194Z",
-    "previousCount": 91,
-    "newCount": 8
+    "previousAt": "2026-11-02T15:00:15.465Z",
+    "previousCount": 96,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-02T15:30:15.465Z",
+  "nextUpdateAt": "2026-11-02T16:00:17.693Z",
   "items": [
     {
       "id": "7f005fa7ae94",
@@ -336,7 +336,28 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "5f417c989053",
+      "title": "【アウトランダーズ】ヘイズの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/583505",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-02T14:45:09.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583505.png?date=1792581250",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
     },
     {
       "id": "6067c3f9ff9d",
@@ -352,6 +373,27 @@
       ],
       "series": [
         "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "4d6e26129e11",
+      "title": "【モンハンワイルズ】登録者800人記念配信ペア狩り写真集",
+      "url": "https://youtu.be/ZQpFYJiOUbE?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-02T14:39:05.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -483,7 +525,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2df15bd544a5",
@@ -507,14 +549,14 @@
       "isNew": false
     },
     {
-      "id": "bf01f8835eca",
-      "title": "【アウトランダーズ】マドレの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577464",
+      "id": "ff04e8abcae0",
+      "title": "【アウトランダーズ】ラヤの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577463",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-02T13:30:57.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577464.png?date=1790214658",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577463.png?date=1790214602",
       "categories": [
         "guide"
       ],
@@ -528,14 +570,14 @@
       "isNew": false
     },
     {
-      "id": "ff04e8abcae0",
-      "title": "【アウトランダーズ】ラヤの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577463",
+      "id": "bf01f8835eca",
+      "title": "【アウトランダーズ】マドレの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577464",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-02T13:30:57.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577463.png?date=1790214602",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577464.png?date=1790214658",
       "categories": [
         "guide"
       ],
@@ -609,7 +651,28 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "46ab930cbc6c",
+      "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/563077",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-02T13:12:15.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
     },
     {
       "id": "50f22f844d2a",
@@ -673,6 +736,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "aa7f8600bdd3",
+      "title": "【MHWilds】フリチャレ「生き誇れ、野生の仔」歴戦王アルシュベルド 太刀 不屈+食事火事場 討伐 6’15”47",
+      "url": "https://youtu.be/JGQkHVWXt7Y?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-02T12:15:51.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "c65fe4ace7a3",
@@ -942,7 +1027,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f4cbbb9ab9e0",
@@ -1364,27 +1449,6 @@
       "isNew": false
     },
     {
-      "id": "5f417c989053",
-      "title": "【アウトランダーズ】ヘイズの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/583505",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-02T01:34:07.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583505.png?date=1792581250",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "a0bd6b38afe6",
       "title": "《参加型・初見さん歓迎》かじゃいなで【モンハンワイルズ】アセンダンスに向けておまほりとかしよ！！！！！ Gemini Ai (O5xgQch4ZI)",
       "url": "https://media.unisba.ac.id/66d1a57a/a656137cW1QlABFWQAYhCQk/?share",
@@ -1419,27 +1483,6 @@
       ],
       "series": [
         "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "46ab930cbc6c",
-      "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563077",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-01T23:37:21.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1634,7 +1677,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6f00a2da507b",
@@ -1864,7 +1907,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "40bccce677c8",
@@ -1930,6 +1973,27 @@
       "isNew": false
     },
     {
+      "id": "19068cfb0a42",
+      "title": "【Monster Hunter Wilds】零式オメガ大剣ソロ※オトモアイルーあり",
+      "url": "https://youtu.be/bMfQUayhktM?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-01T00:57:05.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "6a39c21bbb31",
       "title": "解鎖のアルシュベルド 銃槍ペア4'28\"66",
       "url": "https://youtu.be/Edye3SW0Vf0?si",
@@ -1986,6 +2050,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "87883d147d7b",
+      "title": "11時まで【鼓膜破壊型モンハン】モンスターハンターワイルズ第133回 楽しくたくさん狩ろう！【参加型】初見大歓迎🔰",
+      "url": "https://t.co/rgHBA6BIoS",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-31T23:26:09.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "67fcd29fa21a",
@@ -2066,7 +2151,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5014a9a63018",
@@ -2260,7 +2345,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "You must install the latest version of Monster Hunter Wilds in order to play online multiplayer and access downloadable content. Release Date Tuesday October 2…",
       "publishedAt": "2026-10-28T10:54:39.000Z",
-      "image": "https://clan.fastly.steamstatic.com/images/44795648/0e20be10642d99093ef2af9c518c27a7ead4eb78.jpg",
+      "image": "https://clan.akamai.steamstatic.com/images/44795648/0e20be10642d99093ef2af9c518c27a7ead4eb78.jpg",
       "categories": [
         "update"
       ],
