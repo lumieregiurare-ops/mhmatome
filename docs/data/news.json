@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-02T16:30:20.093Z",
+  "updatedAt": "2026-11-02T17:00:18.139Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 102,
+  "total": 101,
   "todayCount": 1,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 35
+      "count": 37
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 51
+      "count": 48
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 40
+      "count": 37
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 9
+      "count": 8
     },
     {
       "id": "now",
@@ -94,21 +94,25 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 43
+      "count": 45
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 53
+      "count": 55
     },
     {
       "name": "YouTube",
-      "count": 30
+      "count": 25
     },
     {
       "name": "キャラグー",
       "count": 3
+    },
+    {
+      "name": "Howl.Link",
+      "count": 2
     },
     {
       "name": "ウォーカープラス",
@@ -264,12 +268,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-02T16:00:16.229Z",
-    "previousCount": 103,
-    "newCount": 1
+    "previousAt": "2026-11-02T16:30:20.093Z",
+    "previousCount": 102,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-02T17:00:20.093Z",
+  "nextUpdateAt": "2026-11-02T17:30:18.139Z",
   "items": [
     {
       "id": "9183c4bcb387",
@@ -377,6 +381,48 @@
       "isNew": false
     },
     {
+      "id": "756534bb8a2d",
+      "title": "【アウトランダーズ】トーリーの性能とおすすめキャラ【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577673",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-02T14:46:52.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577673.png?date=1792755810",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "3a62259e0a61",
+      "title": "【アウトランダーズ】クローラの性能とおすすめキャラ【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/583845",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-02T14:46:47.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583845.png?date=1792756096",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "705870b0ff79",
       "title": "【アウトランダーズ】主人公(弓)の評価とおすすめ装備・編成【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577466",
@@ -479,7 +525,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4749e6e7e0c8",
@@ -490,6 +536,27 @@
       "summary": "",
       "publishedAt": "2026-11-02T14:45:14.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577458.png?date=1790214381",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "593c6d2e0d0a",
+      "title": "【アウトランダーズ】ロードの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/583506",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-02T14:45:11.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583506.png?date=1792581205",
       "categories": [
         "guide"
       ],
@@ -776,27 +843,6 @@
       "isNew": false
     },
     {
-      "id": "593c6d2e0d0a",
-      "title": "【アウトランダーズ】ロードの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/583506",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-02T13:30:50.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583506.png?date=1792581205",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "43ba0d31b055",
       "title": "【アウトランダーズ】ブリックスの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577456",
@@ -903,28 +949,6 @@
       "isNew": false
     },
     {
-      "id": "c65fe4ace7a3",
-      "title": "【MHWilds】フリチャレ歴戦王アルシュベルド「生き誇れ、野生の仔」ソロヘビィ散弾火事場 6分49秒 Arch-Tempered Arkveld Solo Heavy Bowgun Heroics",
-      "url": "https://youtu.be/kRo7rttJlYI?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-02T12:04:25.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "f4f222ac2e2d",
       "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/575036",
@@ -980,27 +1004,6 @@
       ],
       "series": [
         "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "9e85f0d99859",
-      "title": "【モンハンワイルズ】ニーア オートマタ 2B風 キャラメイクレシピ",
-      "url": "https://youtu.be/7P7k-VsbzCY?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-02T11:00:00.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1112,27 +1115,6 @@
       "isNew": false
     },
     {
-      "id": "a2119f0dcdb7",
-      "title": "【モンスターハンターワイルズ 番外編 】アセンンダンス発売までに武器を全部集めよう！ライトボウガン編・前編",
-      "url": "https://youtu.be/hOtBrJO0E6o?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-02T09:45:20.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "d0c3a1035c51",
       "title": "『モンハン』デフォルメでも圧倒的威圧感…！「金獅子ラージャン」通常種と激昂した状態の2種がプライズフィギュア「鎮座獣」で登場",
       "url": "http://www.gamespark.jp/article/2026/11/02/174395.html",
@@ -1171,6 +1153,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "86d57cbc3869",
+      "title": "【モンハンワイルズ】ゴグマジオス勝てなかったからリベンジしたい※ネタバレ注意【 ＃憩いづも ＃Vtuber",
+      "url": "https://t.co/RqCo3Lo63t",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-11-02T09:37:55.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "f4cbbb9ab9e0",
@@ -2032,27 +2035,6 @@
       "isNew": false
     },
     {
-      "id": "19068cfb0a42",
-      "title": "【Monster Hunter Wilds】零式オメガ大剣ソロ※オトモアイルーあり",
-      "url": "https://youtu.be/bMfQUayhktM?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-01T00:57:05.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "6a39c21bbb31",
       "title": "解鎖のアルシュベルド 銃槍ペア4'28\"66",
       "url": "https://youtu.be/Edye3SW0Vf0?si",
@@ -2109,6 +2091,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "87883d147d7b",
+      "title": "11時まで【鼓膜破壊型モンハン】モンスターハンターワイルズ第133回 楽しくたくさん狩ろう！【参加型】初見大歓迎🔰",
+      "url": "https://t.co/rgHBA6BIoS",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-31T23:26:09.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "67fcd29fa21a",
@@ -2185,27 +2188,6 @@
         "other"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "5014a9a63018",
-      "title": "【モンハンワイルズ】THANK YOU, HUNTERS!｜夢灯の儀 🎃",
-      "url": "https://youtu.be/GNAmSvBKOSo",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-31T13:05:38.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -2383,7 +2365,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "You must install the latest version of Monster Hunter Wilds in order to play online multiplayer and access downloadable content. Release Date Tuesday October 2…",
       "publishedAt": "2026-10-28T10:54:39.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/44795648/0e20be10642d99093ef2af9c518c27a7ead4eb78.jpg",
+      "image": "https://clan.fastly.steamstatic.com/images/44795648/0e20be10642d99093ef2af9c518c27a7ead4eb78.jpg",
       "categories": [
         "update"
       ],
