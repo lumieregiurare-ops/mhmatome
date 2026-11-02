@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-02T05:00:16.831Z",
+  "updatedAt": "2026-11-02T05:30:16.916Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 90,
-  "todayCount": 21,
+  "total": 83,
+  "todayCount": 24,
   "categories": [
     {
       "id": "new",
@@ -42,12 +42,12 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 36
+      "count": 35
     },
     {
       "id": "sale",
       "label": "セール",
-      "count": 1
+      "count": 2
     },
     {
       "id": "community",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 41
+      "count": 34
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 28
+      "count": 25
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 6
+      "count": 5
     },
     {
       "id": "now",
@@ -100,15 +100,11 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 55
+      "count": 54
     },
     {
       "name": "YouTube",
-      "count": 19
-    },
-    {
-      "name": "Howl.Link",
-      "count": 3
+      "count": 15
     },
     {
       "name": "キャラグー",
@@ -119,15 +115,19 @@
       "count": 2
     },
     {
+      "name": "AUTOMATON",
+      "count": 1
+    },
+    {
       "name": "ふくおかナビ",
       "count": 1
     },
     {
-      "name": "AppBank",
+      "name": "Howl.Link",
       "count": 1
     },
     {
-      "name": "X",
+      "name": "AppBank",
       "count": 1
     },
     {
@@ -153,6 +153,84 @@
   ],
   "topics": [
     {
+      "id": "e08e6c8ea2a8",
+      "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
+      "summary": "",
+      "url": "https://gamewith.jp/mhwilds/563104",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563104.png?date=1789770630",
+      "leadSource": "GameWith",
+      "publishedAt": "2026-11-02T02:34:13.000Z",
+      "sourceCount": 2,
+      "articleCount": 11,
+      "categories": [
+        "other",
+        "guide"
+      ],
+      "keywords": [
+        "モンハンワイルズ",
+        "アセンダンス",
+        "最新情報"
+      ],
+      "articles": [
+        {
+          "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563077",
+          "source": "GameWith",
+          "publishedAt": "2026-11-01T23:37:21.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/575038",
+          "source": "GameWith",
+          "publishedAt": "2026-11-01T22:02:19.000Z",
+          "isPR": false
+        },
+        {
+          "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
+          "url": "https://gamewith.jp/mhwilds/563096",
+          "source": "GameWith",
+          "publishedAt": "2026-11-01T21:22:25.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】護竜リオレイアの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/575037",
+          "source": "GameWith",
+          "publishedAt": "2026-11-01T20:46:10.000Z",
+          "isPR": false
+        },
+        {
+          "title": "水辺のきつねを狩るまぐろ #モンハンワイルズ #まぐろ #モンハン",
+          "url": "https://youtu.be/TXl4cf1YuN8?si",
+          "source": "YouTube",
+          "publishedAt": "2026-11-01T14:17:30.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563040",
+          "source": "GameWith",
+          "publishedAt": "2026-11-01T12:23:20.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/577281",
+          "source": "GameWith",
+          "publishedAt": "2026-11-01T12:10:31.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】Switch2版の発売日・最新情報【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563066",
+          "source": "GameWith",
+          "publishedAt": "2026-11-01T10:29:13.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "9ee56e1f8a2d",
       "title": "【MHWs】フリーチャレンジクエスト 歴戦王アルシュベルド チャージアックス 5'49",
       "summary": "",
@@ -160,11 +238,10 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/548752.png?date=1773678314",
       "leadSource": "YouTube",
       "publishedAt": "2026-11-01T22:25:23.000Z",
-      "sourceCount": 3,
-      "articleCount": 7,
+      "sourceCount": 2,
+      "articleCount": 4,
       "categories": [
-        "other",
-        "new"
+        "other"
       ],
       "keywords": [
         "アルシュベルド",
@@ -187,94 +264,10 @@
           "isPR": false
         },
         {
-          "title": "【モンハンワイルズ】Switch2版の発売日・最新情報【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/563066",
-          "source": "GameWith",
-          "publishedAt": "2026-11-01T10:29:13.000Z",
-          "isPR": false
-        },
-        {
           "title": "歴戦王アルシュベルドと抜刀禁止で戯れたい！モンスターハンターワイルズ MHWilds",
           "url": "https://youtu.be/XlI5DtxVucQ?si",
           "source": "YouTube",
           "publishedAt": "2026-11-01T09:47:33.000Z",
-          "isPR": false
-        },
-        {
-          "title": "歴戦王 アルシュベルド 大剣 ソロ 【生き誇れ、野生の仔】フリーチャレンジクエスト",
-          "url": "https://youtu.be/grw--5eA3h0?si",
-          "source": "YouTube",
-          "publishedAt": "2026-10-31T21:34:55.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【MHWilds】#34: 1か月振りのリハビリ配信【モンスターハンターワイルズ】",
-          "url": "https://t.co/SQmfQX44HP",
-          "source": "Howl.Link",
-          "publishedAt": "2026-10-31T11:04:38.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "46ab930cbc6c",
-      "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
-      "summary": "",
-      "url": "https://gamewith.jp/mhwilds/563077",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
-      "leadSource": "GameWith",
-      "publishedAt": "2026-11-01T23:37:21.000Z",
-      "sourceCount": 2,
-      "articleCount": 7,
-      "categories": [
-        "other"
-      ],
-      "keywords": [
-        "モンハンワイルズ",
-        "アセンダンス",
-        "アクション"
-      ],
-      "articles": [
-        {
-          "title": "【アセンダンス】ガンランスの操作と新要素・ブーストアクション【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/577811",
-          "source": "GameWith",
-          "publishedAt": "2026-11-01T22:30:08.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】片手剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/577790",
-          "source": "GameWith",
-          "publishedAt": "2026-11-01T15:43:09.000Z",
-          "isPR": false
-        },
-        {
-          "title": "水辺のきつねを狩るまぐろ #モンハンワイルズ #まぐろ #モンハン",
-          "url": "https://youtu.be/TXl4cf1YuN8?si",
-          "source": "YouTube",
-          "publishedAt": "2026-11-01T14:17:30.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/574841",
-          "source": "GameWith",
-          "publishedAt": "2026-11-01T09:36:06.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】大剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/485475",
-          "source": "GameWith",
-          "publishedAt": "2026-11-01T03:40:29.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】双剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/577734",
-          "source": "GameWith",
-          "publishedAt": "2026-10-31T18:39:13.000Z",
           "isPR": false
         }
       ]
@@ -337,13 +330,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-02T04:30:20.883Z",
-    "previousCount": 88,
-    "newCount": 5
+    "previousAt": "2026-11-02T05:00:16.831Z",
+    "previousCount": 90,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-02T05:30:16.831Z",
+  "nextUpdateAt": "2026-11-02T06:00:16.916Z",
   "items": [
+    {
+      "id": "9de1705fab5e",
+      "title": "Nintendo Switch 2/Switch向けセールで大粒多めの170本追加。『ライザのアトリエ』決定版が最安値更新、『モンハンライズ：サンブレイク』や『ロマサガ2』リメイクなども最安値級",
+      "url": "https://automaton-media.com/articles/newsjp/20261102-477097/",
+      "host": "automaton-media.com",
+      "source": "AUTOMATON",
+      "summary": "ニンテンドーeショップにて11月2日、Nintendo Switch 2/Nintendo Switch向けタイトルの新たなセールが開始された。対象タイトルは約170本。",
+      "publishedAt": "2026-11-02T05:29:53.000Z",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477097-header.jpg",
+      "categories": [
+        "sale"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "beabe43ecd72",
       "title": "【2027年4月開業】「三井アウトレットパーク福岡マリノア」モンハンの巨大像やBBQ施設「グリルピア」も！？",
@@ -361,7 +375,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4749e6e7e0c8",
@@ -398,6 +412,27 @@
       ],
       "series": [
         "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "e08e6c8ea2a8",
+      "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/563104",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-02T02:34:13.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563104.png?date=1789770630",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -524,6 +559,27 @@
       ],
       "series": [
         "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "411bb4076b94",
+      "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/575038",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-01T22:02:19.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575038.png?date=1789770323",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1244,27 +1300,6 @@
       "isNew": false
     },
     {
-      "id": "74ba90f3ae6f",
-      "title": "【参加型】神おま周回 モンハンワイルズ 初心者大歓迎✨ 一狩り行こうぜ #桜守メル",
-      "url": "https://t.co/n0y65PH4Ov",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-11-01T10:28:18.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "22f58a63d794",
       "title": "カプコン×JR東海のコラボが開催！モンスターハンターやストリートファイターのキャラと旅に出よう",
       "url": "https://www.walkerplus.com/article/1176995/",
@@ -1616,25 +1651,6 @@
       "isNew": false
     },
     {
-      "id": "32e67bd09da9",
-      "title": "歴戦王 アルシュベルド 大剣 ソロ 【生き誇れ、野生の仔】フリーチャレンジクエスト",
-      "url": "https://youtu.be/grw--5eA3h0?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-31T21:34:55.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "4cd467a24cc4",
       "title": "【アセンダンス】双剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/577734",
@@ -1677,110 +1693,6 @@
       "isNew": false
     },
     {
-      "id": "0ce28856139e",
-      "title": "亜紗@モンハン写真部 (@p3dq4) on X - X",
-      "url": "https://x.com/intent/like?tweet_id",
-      "host": "x.com",
-      "source": "X",
-      "summary": "",
-      "publishedAt": "2026-10-31T14:40:44.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "5014a9a63018",
-      "title": "【モンハンワイルズ】THANK YOU, HUNTERS!｜夢灯の儀 🎃",
-      "url": "https://youtu.be/GNAmSvBKOSo",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-31T13:05:38.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "12bedb355176",
-      "title": "【MHWilds】#34: 1か月振りのリハビリ配信【モンスターハンターワイルズ】",
-      "url": "https://t.co/SQmfQX44HP",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-10-31T11:04:38.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "411bb4076b94",
-      "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/575038",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-31T09:52:12.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575038.png?date=1789770323",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e08e6c8ea2a8",
-      "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563104",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-31T09:46:09.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563104.png?date=1789770630",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "7a354707aaf8",
       "title": "KONAMIスポーツゲーム7日中6日で首位獲得 『モンハンアウトランダーズ』『パチスロL 東京喰種』TOP10入り AppStore(10/24～30)売上ランキング振り返り",
       "url": "https://gamebiz.jp/news/434867",
@@ -1799,7 +1711,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "644051b16b02",
@@ -1923,25 +1835,6 @@
       "isNew": false
     },
     {
-      "id": "a796ff9dd306",
-      "title": "【モンスターハンター：ワールド】#7 古龍の痕跡探し【南雲ライフ】",
-      "url": "https://youtu.be/rQl-zZ1xWhk?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-30T13:25:29.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "18707b9afb85",
       "title": "【モンハンワイルズ】アセンダンスに備えろ！初心者向けゴグマジオス装備の作り方",
       "url": "https://youtu.be/XfXBsjxTRow?si",
@@ -1998,25 +1891,6 @@
       "series": [
         "wilds"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "7eaa2c8d940a",
-      "title": "【2夜連続配信】10月30日(金)よる7時！モンハン部のラジオ第5回",
-      "url": "https://youtu.be/6NjSODoh8oE?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-30T10:00:10.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -2085,27 +1959,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "7720d12daae7",
-      "title": "【サンブレイク】太刀の立ち回りと操作方法【モンハンライズ】",
-      "url": "https://gamewith.jp/mhrize/article/show/245829",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-30T09:00:06.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/245829.png?date=1653299368",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "c2950a291114",
