@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-01T23:30:17.364Z",
+  "updatedAt": "2026-11-02T00:00:15.390Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 94,
+  "total": 101,
   "todayCount": 9,
   "categories": [
     {
@@ -57,19 +57,19 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 2
+      "count": 4
     },
     {
       "id": "other",
       "label": "その他",
-      "count": 40
+      "count": 45
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 26
+      "count": 32
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 5
+      "count": 6
     },
     {
       "id": "now",
@@ -100,19 +100,23 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 60
+      "count": 59
     },
     {
       "name": "YouTube",
-      "count": 19
+      "count": 22
+    },
+    {
+      "name": "Howl.Link",
+      "count": 5
     },
     {
       "name": "キャラグー",
       "count": 5
     },
     {
-      "name": "Howl.Link",
-      "count": 1
+      "name": "gamebiz【ゲームビズ】",
+      "count": 2
     },
     {
       "name": "AppBank",
@@ -143,10 +147,6 @@
       "count": 1
     },
     {
-      "name": "gamebiz【ゲームビズ】",
-      "count": 1
-    },
-    {
       "name": "ワイルズ公式（Steam）",
       "count": 1
     }
@@ -160,8 +160,8 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/548752.png?date=1773678314",
       "leadSource": "GameWith",
       "publishedAt": "2026-11-01T14:48:20.000Z",
-      "sourceCount": 2,
-      "articleCount": 7,
+      "sourceCount": 3,
+      "articleCount": 8,
       "categories": [
         "other",
         "new"
@@ -205,6 +205,13 @@
           "url": "https://youtu.be/grw--5eA3h0?si",
           "source": "YouTube",
           "publishedAt": "2026-10-31T21:34:55.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【MHWilds】#34: 1か月振りのリハビリ配信【モンスターハンターワイルズ】",
+          "url": "https://t.co/SQmfQX44HP",
+          "source": "Howl.Link",
+          "publishedAt": "2026-10-31T11:04:38.000Z",
           "isPR": false
         },
         {
@@ -260,17 +267,17 @@
       ]
     },
     {
-      "id": "7720a38c62bd",
-      "title": "【モンハンアウトランダーズ攻略】リセマラはできる？ 最強おすすめのSSR冒険者＆武器種は？",
+      "id": "7a354707aaf8",
+      "title": "KONAMIスポーツゲーム7日中6日で首位獲得 『モンハンアウトランダーズ』『パチスロL 東京喰種』TOP10入り AppStore(10/24～30)売上ランキング振り返り",
       "summary": "",
-      "url": "https://dengekionline.com/article/202610/92408",
-      "image": "https://cimg.kgl-systems.io/camion/files/92408/ogp_ApCO.jpg?x=1280",
-      "leadSource": "電撃オンライン",
-      "publishedAt": "2026-10-30T17:30:00.000Z",
+      "url": "https://gamebiz.jp/news/434867",
+      "image": "https://i3.gamebiz.jp/media/d09080d4-e8af-4680-9b5f-562d08a71ce6.jpg",
+      "leadSource": "gamebiz【ゲームビズ】",
+      "publishedAt": "2026-10-31T07:03:40.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
-        "guide",
+        "sales",
         "other"
       ],
       "keywords": [
@@ -317,12 +324,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-01T23:00:14.444Z",
-    "previousCount": 98,
-    "newCount": 7
+    "previousAt": "2026-11-01T23:30:17.364Z",
+    "previousCount": 94,
+    "newCount": 8
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-02T00:00:17.364Z",
+  "nextUpdateAt": "2026-11-02T00:30:15.390Z",
   "items": [
     {
       "id": "3c3d23e8d64b",
@@ -343,7 +350,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "da6774683cf4",
@@ -1060,6 +1067,27 @@
       "isNew": false
     },
     {
+      "id": "74ba90f3ae6f",
+      "title": "【参加型】神おま周回 モンハンワイルズ 初心者大歓迎✨ 一狩り行こうぜ #桜守メル",
+      "url": "https://t.co/n0y65PH4Ov",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-11-01T10:28:18.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "b176da3746bc",
       "title": "【総集編】モンハンnow全モンスター☆10体力まとめ/Monster Hunter Now All☆10 monster HP compilation #mhnow",
       "url": "https://youtu.be/ccOzFatv-SQ",
@@ -1078,7 +1106,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f69be16271e9",
@@ -1249,6 +1277,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "e0d2f3f7ab4f",
+      "title": "【モンスターハンターワイルズ】序盤をぼちぼちやります【どてもちカラス/#新人Vtuber】",
+      "url": "https://t.co/FWX28L3L9L",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-11-01T06:36:37.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "f299ebe1626f",
@@ -1619,25 +1668,47 @@
       "isNew": false
     },
     {
-      "id": "9befdbafe697",
-      "title": "【アウトランダーズ】冒険譚イベントの進め方と報酬【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/585588",
-      "host": "gamewith.jp",
-      "source": "GameWith",
+      "id": "5014a9a63018",
+      "title": "【モンハンワイルズ】THANK YOU, HUNTERS!｜夢灯の儀 🎃",
+      "url": "https://youtu.be/GNAmSvBKOSo",
+      "host": "youtu.be",
+      "source": "YouTube",
       "summary": "",
-      "publishedAt": "2026-10-31T13:04:57.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/585588.png?date=1793227049",
+      "publishedAt": "2026-10-31T13:05:38.000Z",
+      "image": "",
       "categories": [
         "other"
       ],
       "series": [
-        "outlanders"
+        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
+    },
+    {
+      "id": "12bedb355176",
+      "title": "【MHWilds】#34: 1か月振りのリハビリ配信【モンスターハンターワイルズ】",
+      "url": "https://t.co/SQmfQX44HP",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-31T11:04:38.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "411bb4076b94",
@@ -1703,6 +1774,27 @@
       "isNew": false
     },
     {
+      "id": "7a354707aaf8",
+      "title": "KONAMIスポーツゲーム7日中6日で首位獲得 『モンハンアウトランダーズ』『パチスロL 東京喰種』TOP10入り AppStore(10/24～30)売上ランキング振り返り",
+      "url": "https://gamebiz.jp/news/434867",
+      "host": "gamebiz.jp",
+      "source": "gamebiz【ゲームビズ】",
+      "summary": "",
+      "publishedAt": "2026-10-31T07:03:40.000Z",
+      "image": "https://i3.gamebiz.jp/media/d09080d4-e8af-4680-9b5f-562d08a71ce6.jpg",
+      "categories": [
+        "sales"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "644051b16b02",
       "title": "「デカすぎ…本物かよ」全長13メートルの巨大怪物が1.8万人の前に出現→モンハン開発陣が明かした“異例の選定理由”とは？",
       "url": "https://www.walkerplus.com/article/1335406/",
@@ -1758,6 +1850,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "dfa0a1df0eb5",
+      "title": "〖 護石周回・マルチ 〗ランキング名前残そう‼️神おまｸﾀﾞｻｰｲ〖タダまる。／ #モンハンワイルズ 〗",
+      "url": "https://t.co/uyvLCeo8TI",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-30T21:05:21.000Z",
+      "image": "",
+      "categories": [
+        "sales"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "8c7bdae4225b",
@@ -1880,6 +1993,25 @@
       "series": [
         "rise"
       ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "7eaa2c8d940a",
+      "title": "【2夜連続配信】10月30日(金)よる7時！モンハン部のラジオ第5回",
+      "url": "https://youtu.be/6NjSODoh8oE?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-30T10:00:10.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -2010,7 +2142,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9f9deddd8b65",
@@ -2136,6 +2268,27 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "6c7a36768771",
+      "title": "20 ファビウス卿、2回も当たってしまってすみません。 たかの「モンスターハンターワイルズ」【ハンティングアクション】",
+      "url": "https://youtu.be/w9xXArSQgJ8?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-30T00:37:08.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
       "isNew": true
     },
     {
@@ -2157,7 +2310,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "814888fd2faf",
@@ -2259,7 +2412,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "72add4c5ae75",
