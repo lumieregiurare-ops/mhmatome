@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-02T00:00:15.390Z",
+  "updatedAt": "2026-11-02T00:30:16.666Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 101,
+  "total": 106,
   "todayCount": 9,
   "categories": [
     {
@@ -27,7 +27,7 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 0
+      "count": 1
     },
     {
       "id": "goods",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 38
+      "count": 37
     },
     {
       "id": "sale",
@@ -52,7 +52,7 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 1
+      "count": 2
     },
     {
       "id": "sales",
@@ -62,24 +62,24 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 45
+      "count": 50
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 32
+      "count": 36
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 12
+      "count": 8
     },
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 6
+      "count": 8
     },
     {
       "id": "now",
@@ -94,17 +94,17 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 41
+      "count": 42
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 59
+      "count": 57
     },
     {
       "name": "YouTube",
-      "count": 22
+      "count": 28
     },
     {
       "name": "Howl.Link",
@@ -120,6 +120,10 @@
     },
     {
       "name": "AppBank",
+      "count": 1
+    },
+    {
+      "name": "X",
       "count": 1
     },
     {
@@ -161,15 +165,15 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-11-01T14:48:20.000Z",
       "sourceCount": 3,
-      "articleCount": 8,
+      "articleCount": 9,
       "categories": [
         "other",
-        "new"
+        "collab"
       ],
       "keywords": [
-        "モンハンワイルズ",
         "アルシュベルド",
-        "歴戦王"
+        "歴戦王",
+        "モンハンワイルズ"
       ],
       "articles": [
         {
@@ -177,6 +181,13 @@
           "url": "https://youtu.be/TXl4cf1YuN8?si",
           "source": "YouTube",
           "publishedAt": "2026-11-01T14:17:30.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【 コラボ 】フリチャレ歴戦王アルシュベルド カムぱおんさんとペア狩り🏹",
+          "url": "https://youtu.be/zJm922tn8EM?si",
+          "source": "YouTube",
+          "publishedAt": "2026-11-01T13:37:00.000Z",
           "isPR": false
         },
         {
@@ -232,15 +243,15 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-11-01T03:40:29.000Z",
       "sourceCount": 2,
-      "articleCount": 4,
+      "articleCount": 6,
       "categories": [
         "other",
         "guide"
       ],
       "keywords": [
         "モンハンワイルズ",
-        "アセンダンス",
-        "ブーストアクション"
+        "ワイルズ",
+        "アセンダンス"
       ],
       "articles": [
         {
@@ -255,6 +266,20 @@
           "url": "https://youtu.be/XfXBsjxTRow?si",
           "source": "YouTube",
           "publishedAt": "2026-10-30T12:31:22.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【サンブレイク】双剣の最強装備・おすすめ装備 | アプデ対応",
+          "url": "https://gamewith.jp/mhrize/article/show/349741",
+          "source": "GameWith",
+          "publishedAt": "2026-10-30T09:06:20.000Z",
+          "isPR": false
+        },
+        {
+          "title": "最終アプデ対応！ワイルズ狩猟笛講座完全版【モンハンワイルズ】",
+          "url": "https://youtu.be/27uPeJq6ZH8?si",
+          "source": "YouTube",
+          "publishedAt": "2026-10-30T09:00:23.000Z",
           "isPR": false
         },
         {
@@ -314,22 +339,22 @@
       ],
       "articles": [
         {
-          "title": "【サンブレイク】おすすめ盟友と組み合わせ | 増やし方【モンハンライズ】",
-          "url": "https://gamewith.jp/mhrize/article/show/379765",
+          "title": "【サンブレイク】太刀の立ち回りと操作方法【モンハンライズ】",
+          "url": "https://gamewith.jp/mhrize/article/show/245829",
           "source": "GameWith",
-          "publishedAt": "2026-10-30T06:01:22.000Z",
+          "publishedAt": "2026-10-30T09:00:06.000Z",
           "isPR": false
         }
       ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-01T23:30:17.364Z",
-    "previousCount": 94,
-    "newCount": 8
+    "previousAt": "2026-11-02T00:00:15.390Z",
+    "previousCount": 101,
+    "newCount": 10
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-02T00:30:15.390Z",
+  "nextUpdateAt": "2026-11-02T01:00:16.666Z",
   "items": [
     {
       "id": "3c3d23e8d64b",
@@ -603,6 +628,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "94e6014f0fc8",
+      "title": "【 コラボ 】フリチャレ歴戦王アルシュベルド カムぱおんさんとペア狩り🏹",
+      "url": "https://youtu.be/zJm922tn8EM?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-01T13:37:00.000Z",
+      "image": "",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "e775fda94739",
@@ -1085,7 +1129,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b176da3746bc",
@@ -1297,7 +1341,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f299ebe1626f",
@@ -1668,6 +1712,25 @@
       "isNew": false
     },
     {
+      "id": "0ce28856139e",
+      "title": "亜紗@モンハン写真部 (@p3dq4) on X - X",
+      "url": "https://x.com/intent/like?tweet_id",
+      "host": "x.com",
+      "source": "X",
+      "summary": "",
+      "publishedAt": "2026-10-31T14:40:44.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "5014a9a63018",
       "title": "【モンハンワイルズ】THANK YOU, HUNTERS!｜夢灯の儀 🎃",
       "url": "https://youtu.be/GNAmSvBKOSo",
@@ -1681,6 +1744,27 @@
       ],
       "series": [
         "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "9befdbafe697",
+      "title": "【アウトランダーズ】冒険譚イベントの進め方と報酬【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/585588",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-31T13:04:57.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/585588.png?date=1793227049",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1708,7 +1792,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "411bb4076b94",
@@ -1774,6 +1858,28 @@
       "isNew": false
     },
     {
+      "id": "19ca0b777bb0",
+      "title": "フリチャレ 歴戦王アルシュベルド 太刀ソロ 火事場 6′38／Arch Tempered Arkveld LS Solo Heroics【MHWilds】",
+      "url": "https://youtu.be/waYl57p4EhU?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-31T08:17:17.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "7a354707aaf8",
       "title": "KONAMIスポーツゲーム7日中6日で首位獲得 『モンハンアウトランダーズ』『パチスロL 東京喰種』TOP10入り AppStore(10/24～30)売上ランキング振り返り",
       "url": "https://gamebiz.jp/news/434867",
@@ -1792,7 +1898,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "644051b16b02",
@@ -1833,6 +1939,25 @@
       "isNew": false
     },
     {
+      "id": "5f960b95db30",
+      "title": "【二つ名最強候補⁉️】超特殊＆G5「紅兜アオアシラ」に令和プロハンが初見ソロ挑戦【モンスターハンターXX/モンスターハンターダブルクロス/アオアシラ】",
+      "url": "https://youtu.be/ypsPx8ILOD0?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-31T03:35:33.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "628aeb8d4406",
       "title": "モンスターハンター めじるしアクセサリーの設置場所・発売日・ラインナップ｜ガチャガチャ",
       "url": "https://charagoo.jp/gacha/item/c6521f7523c1/",
@@ -1870,7 +1995,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8c7bdae4225b",
@@ -1958,6 +2083,25 @@
       "isNew": false
     },
     {
+      "id": "a796ff9dd306",
+      "title": "【モンスターハンター：ワールド】#7 古龍の痕跡探し【南雲ライフ】",
+      "url": "https://youtu.be/rQl-zZ1xWhk?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-30T13:25:29.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "18707b9afb85",
       "title": "【モンハンワイルズ】アセンダンスに備えろ！初心者向けゴグマジオス装備の作り方",
       "url": "https://youtu.be/XfXBsjxTRow?si",
@@ -1979,25 +2123,25 @@
       "isNew": false
     },
     {
-      "id": "aedfa70656d4",
-      "title": "【サンブレイク】弓の最強装備・おすすめ装備 | アプデ対応",
-      "url": "https://gamewith.jp/mhrize/article/show/349742",
+      "id": "c1844694200b",
+      "title": "【モンハンワイルズ】キャラクリのやり直し方と引き継ぎ方法【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/470286",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-10-30T12:22:09.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/349742.png?date=1656726283",
+      "publishedAt": "2026-10-30T11:26:14.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/470286.png?date=1730171033",
       "categories": [
-        "guide"
+        "other"
       ],
       "series": [
-        "rise"
+        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "7eaa2c8d940a",
@@ -2016,7 +2160,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c1b19ea83418",
@@ -2082,6 +2226,48 @@
       "isNew": false
     },
     {
+      "id": "95212d7fa70f",
+      "title": "最終アプデ対応！ワイルズ狩猟笛講座完全版【モンハンワイルズ】",
+      "url": "https://youtu.be/27uPeJq6ZH8?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-30T09:00:23.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "7720d12daae7",
+      "title": "【サンブレイク】太刀の立ち回りと操作方法【モンハンライズ】",
+      "url": "https://gamewith.jp/mhrize/article/show/245829",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-30T09:00:06.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/245829.png?date=1653299368",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "0b68bd1287fd",
       "title": "【アセンダンス】片手剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/577790",
@@ -2103,6 +2289,29 @@
       "isNew": false
     },
     {
+      "id": "883a20b7a219",
+      "title": "盛り土いらねぇ #mhwilds #ゲーム実況 #装備厳選 #ps5 #games #モンハンワイルズ #ゲーム #初心者",
+      "url": "https://youtu.be/65ipjkfGwXU?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-10-30T07:35:05.000Z",
+      "image": "",
+      "categories": [
+        "guide",
+        "community"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "c2950a291114",
       "title": "モンハンアウトランダーズのおすすめタブレット10選｜iPad対応・推奨スペック",
       "url": "https://gamewith.jp/gaming-pc/586155",
@@ -2116,27 +2325,6 @@
       ],
       "series": [
         "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "a1d5eaa7197a",
-      "title": "【サンブレイク】おすすめ盟友と組み合わせ | 増やし方【モンハンライズ】",
-      "url": "https://gamewith.jp/mhrize/article/show/379765",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-30T06:01:22.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/379765.png?date=1671012169",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "rise"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -2250,27 +2438,6 @@
       "isNew": false
     },
     {
-      "id": "4d106dfef3a1",
-      "title": "【サンブレイク】原初メルゼナの弱点と攻略 | 解放条件【モンハンライズ】",
-      "url": "https://gamewith.jp/mhrize/article/show/402803",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-30T00:53:09.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/402803.png?date=1686147389",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "6c7a36768771",
       "title": "20 ファビウス卿、2回も当たってしまってすみません。 たかの「モンスターハンターワイルズ」【ハンティングアクション】",
       "url": "https://youtu.be/w9xXArSQgJ8?si",
@@ -2284,27 +2451,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "eb7f7ee727a3",
-      "title": "【サンブレイク】傀異(怪異)錬成リセマラのやり方 | スキル特化型の解放条件【モンハンライズ】",
-      "url": "https://gamewith.jp/mhrize/article/show/352670",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-30T00:19:18.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/352670.png?date=1661739523",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "rise"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -2387,27 +2533,6 @@
         "goods"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "46a705156eaa",
-      "title": "【サンブレイク】サブキャンプの解放条件と場所一覧【モンハンライズ】",
-      "url": "https://gamewith.jp/mhrize/article/show/264945",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-29T23:42:12.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/264945.png?date=1616756590",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "rise"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
