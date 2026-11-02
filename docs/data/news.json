@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-02T04:00:17.281Z",
+  "updatedAt": "2026-11-02T04:30:20.883Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 97,
-  "todayCount": 21,
+  "total": 88,
+  "todayCount": 20,
   "categories": [
     {
       "id": "new",
@@ -27,7 +27,7 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 2
+      "count": 1
     },
     {
       "id": "goods",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 34
+      "count": 35
     },
     {
       "id": "sale",
@@ -52,34 +52,34 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 2
+      "count": 0
     },
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 4
+      "count": 2
     },
     {
       "id": "other",
       "label": "その他",
-      "count": 47
+      "count": 41
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 33
+      "count": 28
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 5
+      "count": 7
     },
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 8
+      "count": 6
     },
     {
       "id": "now",
@@ -94,21 +94,21 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 40
+      "count": 37
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 54
+      "count": 56
     },
     {
       "name": "YouTube",
-      "count": 26
+      "count": 19
     },
     {
       "name": "Howl.Link",
-      "count": 4
+      "count": 3
     },
     {
       "name": "キャラグー",
@@ -123,23 +123,11 @@
       "count": 1
     },
     {
-      "name": "X",
-      "count": 1
-    },
-    {
-      "name": "gamebiz【ゲームビズ】",
-      "count": 1
-    },
-    {
       "name": "Gamer",
       "count": 1
     },
     {
       "name": "電撃オンライン",
-      "count": 1
-    },
-    {
-      "name": "note",
       "count": 1
     },
     {
@@ -161,10 +149,10 @@
       "leadSource": "YouTube",
       "publishedAt": "2026-11-01T22:25:23.000Z",
       "sourceCount": 3,
-      "articleCount": 8,
+      "articleCount": 7,
       "categories": [
         "other",
-        "collab"
+        "new"
       ],
       "keywords": [
         "アルシュベルド",
@@ -177,13 +165,6 @@
           "url": "https://gamewith.jp/mhwilds/548752",
           "source": "GameWith",
           "publishedAt": "2026-11-01T14:48:20.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【 コラボ 】フリチャレ歴戦王アルシュベルド カムぱおんさんとペア狩り🏹",
-          "url": "https://youtu.be/zJm922tn8EM?si",
-          "source": "YouTube",
-          "publishedAt": "2026-11-01T13:37:00.000Z",
           "isPR": false
         },
         {
@@ -313,43 +294,15 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "7a354707aaf8",
-      "title": "KONAMIスポーツゲーム7日中6日で首位獲得 『モンハンアウトランダーズ』『パチスロL 東京喰種』TOP10入り AppStore(10/24～30)売上ランキング振り返り",
-      "summary": "",
-      "url": "https://gamebiz.jp/news/434867",
-      "image": "https://i3.gamebiz.jp/media/d09080d4-e8af-4680-9b5f-562d08a71ce6.jpg",
-      "leadSource": "gamebiz【ゲームビズ】",
-      "publishedAt": "2026-10-31T07:03:40.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "sales",
-        "other"
-      ],
-      "keywords": [
-        "アウトランダーズ",
-        "モンハンアウトランダーズ"
-      ],
-      "articles": [
-        {
-          "title": "【アウトランダーズ】評価レビューと感想【モンハンアウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/586148",
-          "source": "GameWith",
-          "publishedAt": "2026-10-30T04:29:41.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-02T03:30:16.005Z",
-    "previousCount": 94,
-    "newCount": 8
+    "previousAt": "2026-11-02T04:00:17.281Z",
+    "previousCount": 97,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-02T04:30:17.281Z",
+  "nextUpdateAt": "2026-11-02T05:00:20.883Z",
   "items": [
     {
       "id": "4749e6e7e0c8",
@@ -512,27 +465,6 @@
       ],
       "series": [
         "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3c3d23e8d64b",
-      "title": "魅せプでSランク取ってみたww #モンハンライズ#ランス#魅せプレイ #モンハン #ゲーム#サンブレイク#闘技大会2#ビシュテンゴ亜種#Sランク",
-      "url": "https://youtu.be/O9l7e8RmyMg?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-01T22:13:54.000Z",
-      "image": "",
-      "categories": [
-        "community"
-      ],
-      "series": [
-        "rise"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -791,6 +723,27 @@
       "isNew": false
     },
     {
+      "id": "e177980ff7dc",
+      "title": "【アウトランダーズ】コントローラーは使える？【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/574152",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-01T14:59:26.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574152.png?date=1793227034",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "df195c9be8fa",
       "title": "【アウトランダーズ】主人公のおすすめ武器種と心得｜最強武器種【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/531944",
@@ -852,25 +805,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "94e6014f0fc8",
-      "title": "【 コラボ 】フリチャレ歴戦王アルシュベルド カムぱおんさんとペア狩り🏹",
-      "url": "https://youtu.be/zJm922tn8EM?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-01T13:37:00.000Z",
-      "image": "",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "e775fda94739",
@@ -1330,7 +1264,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f69be16271e9",
@@ -1474,27 +1408,6 @@
       "series": [
         "wilds",
         "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "825afb22021c",
-      "title": "【アウトランダーズ】PC版やPS5版はある？対応機種まとめ【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/573756",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-01T04:13:18.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/573756.png?date=1789018939",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1747,25 +1660,6 @@
       "isNew": false
     },
     {
-      "id": "0ce28856139e",
-      "title": "亜紗@モンハン写真部 (@p3dq4) on X - X",
-      "url": "https://x.com/intent/like?tweet_id",
-      "host": "x.com",
-      "source": "X",
-      "summary": "",
-      "publishedAt": "2026-10-31T14:40:44.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "5014a9a63018",
       "title": "【モンハンワイルズ】THANK YOU, HUNTERS!｜夢灯の儀 🎃",
       "url": "https://youtu.be/GNAmSvBKOSo",
@@ -1779,27 +1673,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "9befdbafe697",
-      "title": "【アウトランダーズ】冒険譚イベントの進め方と報酬【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/585588",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-31T13:04:57.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/585588.png?date=1793227049",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1872,70 +1745,6 @@
       "isNew": false
     },
     {
-      "id": "36e3fe9ce14c",
-      "title": "【モンハンワイルズ】11分46秒 サポハンなし零式オメガソロ【PS5/狩猟笛】",
-      "url": "https://youtu.be/-Ky5wWkNq6A?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-31T09:00:32.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "19ca0b777bb0",
-      "title": "フリチャレ 歴戦王アルシュベルド 太刀ソロ 火事場 6′38／Arch Tempered Arkveld LS Solo Heroics【MHWilds】",
-      "url": "https://youtu.be/waYl57p4EhU?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-31T08:17:17.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "7a354707aaf8",
-      "title": "KONAMIスポーツゲーム7日中6日で首位獲得 『モンハンアウトランダーズ』『パチスロL 東京喰種』TOP10入り AppStore(10/24～30)売上ランキング振り返り",
-      "url": "https://gamebiz.jp/news/434867",
-      "host": "gamebiz.jp",
-      "source": "gamebiz【ゲームビズ】",
-      "summary": "",
-      "publishedAt": "2026-10-31T07:03:40.000Z",
-      "image": "https://i3.gamebiz.jp/media/d09080d4-e8af-4680-9b5f-562d08a71ce6.jpg",
-      "categories": [
-        "sales"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "644051b16b02",
       "title": "「デカすぎ…本物かよ」全長13メートルの巨大怪物が1.8万人の前に出現→モンハン開発陣が明かした“異例の選定理由”とは？",
       "url": "https://www.walkerplus.com/article/1335406/",
@@ -1974,25 +1783,6 @@
       "isNew": false
     },
     {
-      "id": "5f960b95db30",
-      "title": "【二つ名最強候補⁉️】超特殊＆G5「紅兜アオアシラ」に令和プロハンが初見ソロ挑戦【モンスターハンターXX/モンスターハンターダブルクロス/アオアシラ】",
-      "url": "https://youtu.be/ypsPx8ILOD0?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-31T03:35:33.000Z",
-      "image": "",
-      "categories": [
-        "guide"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "628aeb8d4406",
       "title": "モンスターハンター めじるしアクセサリーの設置場所・発売日・ラインナップ｜ガチャガチャ",
       "url": "https://charagoo.jp/gacha/item/c6521f7523c1/",
@@ -2005,27 +1795,6 @@
         "new"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "dfa0a1df0eb5",
-      "title": "〖 護石周回・マルチ 〗ランキング名前残そう‼️神おまｸﾀﾞｻｰｲ〖タダまる。／ #モンハンワイルズ 〗",
-      "url": "https://t.co/uyvLCeo8TI",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-10-30T21:05:21.000Z",
-      "image": "",
-      "categories": [
-        "sales"
-      ],
-      "series": [
-        "wilds"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -2118,6 +1887,27 @@
       "isNew": false
     },
     {
+      "id": "aedfa70656d4",
+      "title": "【サンブレイク】弓の最強装備・おすすめ装備 | アプデ対応",
+      "url": "https://gamewith.jp/mhrize/article/show/349742",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-30T12:22:09.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/349742.png?date=1656726283",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "c1844694200b",
       "title": "【モンハンワイルズ】キャラクリのやり直し方と引き継ぎ方法【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/470286",
@@ -2179,6 +1969,27 @@
       "isNew": false
     },
     {
+      "id": "c60cda9bca05",
+      "title": "【サンブレイク】双剣の最強装備・おすすめ装備 | アプデ対応",
+      "url": "https://gamewith.jp/mhrize/article/show/349741",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-30T09:06:20.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/349741.png?date=1656726276",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "d31eab580cf5",
       "title": "【サンブレイク】イベントクエスト一覧と報酬",
       "url": "https://gamewith.jp/mhrize/article/show/358171",
@@ -2200,50 +2011,6 @@
       "isNew": false
     },
     {
-      "id": "95212d7fa70f",
-      "title": "最終アプデ対応！ワイルズ狩猟笛講座完全版【モンハンワイルズ】",
-      "url": "https://youtu.be/27uPeJq6ZH8?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-30T09:00:23.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "883a20b7a219",
-      "title": "盛り土いらねぇ #mhwilds #ゲーム実況 #装備厳選 #ps5 #games #モンハンワイルズ #ゲーム #初心者",
-      "url": "https://youtu.be/65ipjkfGwXU?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-30T07:35:05.000Z",
-      "image": "",
-      "categories": [
-        "guide",
-        "community"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "c2950a291114",
       "title": "モンハンアウトランダーズのおすすめタブレット10選｜iPad対応・推奨スペック",
       "url": "https://gamewith.jp/gaming-pc/586155",
@@ -2263,6 +2030,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "a1d5eaa7197a",
+      "title": "【サンブレイク】おすすめ盟友と組み合わせ | 増やし方【モンハンライズ】",
+      "url": "https://gamewith.jp/mhrize/article/show/379765",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-30T06:01:22.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/379765.png?date=1671012169",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "9f9deddd8b65",
@@ -2307,27 +2095,6 @@
       "isNew": false
     },
     {
-      "id": "d0ce2c31b6b5",
-      "title": "「モンハンアウトランダーズ」を大画面で｜iPhoneからモバイルモニターへの接続・コントローラー設定方法｜haku|白デスク",
-      "url": "https://note.com/h16oa/n/n62417be7651d",
-      "host": "note.com",
-      "source": "note",
-      "summary": "",
-      "publishedAt": "2026-10-30T04:00:20.000Z",
-      "image": "https://assets.st-note.com/production/uploads/images/330083086/rectangle_large_type_2_e848218092c37e859be8241a07c29410.png?fit=bounds&quality=85&width=1280",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "7c174628355f",
       "title": "「超探偵事件簿 レインコード プラス」が1980円！ 根強い人気を誇る「モンスターハンターライズ」は478円！「今週のすべり込みセール情報」",
       "url": "https://www.4gamer.net/games/484/G048410/20261029007/",
@@ -2356,7 +2123,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "You must install the latest version of Monster Hunter Wilds in order to play online multiplayer and access downloadable content. Release Date Tuesday October 2…",
       "publishedAt": "2026-10-28T10:54:39.000Z",
-      "image": "https://clan.fastly.steamstatic.com/images/44795648/0e20be10642d99093ef2af9c518c27a7ead4eb78.jpg",
+      "image": "https://clan.akamai.steamstatic.com/images/44795648/0e20be10642d99093ef2af9c518c27a7ead4eb78.jpg",
       "categories": [
         "update"
       ],
