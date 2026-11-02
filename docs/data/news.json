@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-02T00:30:16.666Z",
+  "updatedAt": "2026-11-02T01:00:16.371Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 106,
-  "todayCount": 9,
+  "total": 96,
+  "todayCount": 10,
   "categories": [
     {
       "id": "new",
@@ -32,7 +32,7 @@
     {
       "id": "goods",
       "label": "グッズ・フィギュア",
-      "count": 3
+      "count": 2
     },
     {
       "id": "media",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 37
+      "count": 35
     },
     {
       "id": "sale",
@@ -57,19 +57,19 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 4
+      "count": 3
     },
     {
       "id": "other",
       "label": "その他",
-      "count": 50
+      "count": 44
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 36
+      "count": 31
     },
     {
       "id": "rise",
@@ -79,12 +79,12 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 8
+      "count": 7
     },
     {
       "id": "now",
       "label": "Now",
-      "count": 3
+      "count": 2
     },
     {
       "id": "stories",
@@ -94,29 +94,29 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 42
+      "count": 40
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 57
+      "count": 55
     },
     {
       "name": "YouTube",
-      "count": 28
-    },
-    {
-      "name": "Howl.Link",
-      "count": 5
+      "count": 25
     },
     {
       "name": "キャラグー",
-      "count": 5
+      "count": 4
     },
     {
       "name": "gamebiz【ゲームビズ】",
       "count": 2
+    },
+    {
+      "name": "Howl.Link",
+      "count": 1
     },
     {
       "name": "AppBank",
@@ -164,8 +164,8 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/548752.png?date=1773678314",
       "leadSource": "GameWith",
       "publishedAt": "2026-11-01T14:48:20.000Z",
-      "sourceCount": 3,
-      "articleCount": 9,
+      "sourceCount": 2,
+      "articleCount": 8,
       "categories": [
         "other",
         "collab"
@@ -216,13 +216,6 @@
           "url": "https://youtu.be/grw--5eA3h0?si",
           "source": "YouTube",
           "publishedAt": "2026-10-31T21:34:55.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【MHWilds】#34: 1か月振りのリハビリ配信【モンスターハンターワイルズ】",
-          "url": "https://t.co/SQmfQX44HP",
-          "source": "Howl.Link",
-          "publishedAt": "2026-10-31T11:04:38.000Z",
           "isPR": false
         },
         {
@@ -349,12 +342,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-02T00:00:15.390Z",
-    "previousCount": 101,
-    "newCount": 10
+    "previousAt": "2026-11-02T00:30:16.666Z",
+    "previousCount": 106,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-02T01:00:16.666Z",
+  "nextUpdateAt": "2026-11-02T01:30:16.371Z",
   "items": [
     {
       "id": "3c3d23e8d64b",
@@ -388,6 +381,27 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531931.png?date=1793082187",
       "categories": [
         "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "620baae43e82",
+      "title": "【アウトランダーズ】課金要素まとめとおすすめパック【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/560244",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-01T20:41:11.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560244.png?date=1793262813",
+      "categories": [
+        "guide"
       ],
       "series": [
         "outlanders"
@@ -646,7 +660,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e775fda94739",
@@ -1111,48 +1125,6 @@
       "isNew": false
     },
     {
-      "id": "74ba90f3ae6f",
-      "title": "【参加型】神おま周回 モンハンワイルズ 初心者大歓迎✨ 一狩り行こうぜ #桜守メル",
-      "url": "https://t.co/n0y65PH4Ov",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-11-01T10:28:18.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "b176da3746bc",
-      "title": "【総集編】モンハンnow全モンスター☆10体力まとめ/Monster Hunter Now All☆10 monster HP compilation #mhnow",
-      "url": "https://youtu.be/ccOzFatv-SQ",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-01T10:00:17.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "f69be16271e9",
       "title": "歴戦王アルシュベルドと抜刀禁止で戯れたい！モンスターハンターワイルズ MHWilds",
       "url": "https://youtu.be/XlI5DtxVucQ?si",
@@ -1287,7 +1259,7 @@
       "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-11-01T07:10:13.000Z",
-      "image": "",
+      "image": "https://i.ytimg.com/vi/pcjXA2rFhyI/maxresdefault.jpg",
       "categories": [
         "new"
       ],
@@ -1315,27 +1287,6 @@
       "series": [
         "wilds",
         "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e0d2f3f7ab4f",
-      "title": "【モンスターハンターワイルズ】序盤をぼちぼちやります【どてもちカラス/#新人Vtuber】",
-      "url": "https://t.co/FWX28L3L9L",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-11-01T06:36:37.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1447,48 +1398,6 @@
       "isNew": false
     },
     {
-      "id": "620baae43e82",
-      "title": "【アウトランダーズ】課金要素まとめとおすすめパック【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/560244",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-01T01:50:16.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560244.png?date=1793262813",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "151e799beb6b",
-      "title": "【アウトランダーズ】おすすめSR(低レア)オトモと無課金育成優先度【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/578991",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-01T01:48:44.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/578991.png?date=1793082492",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "5d64945e98d4",
       "title": "【アウトランダーズ】ルタコインの効率的な集め方【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/560176",
@@ -1520,27 +1429,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559856.png?date=1789010739",
       "categories": [
         "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "90f9e9d4490d",
-      "title": "【アウトランダーズ】おすすめSR(低レア)キャラと無課金育成優先度【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/559753",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-01T01:46:07.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559753.png?date=1789014409",
-      "categories": [
-        "guide"
       ],
       "series": [
         "outlanders"
@@ -1728,7 +1616,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5014a9a63018",
@@ -1765,28 +1653,6 @@
       ],
       "series": [
         "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "12bedb355176",
-      "title": "【MHWilds】#34: 1か月振りのリハビリ配信【モンスターハンターワイルズ】",
-      "url": "https://t.co/SQmfQX44HP",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-10-31T11:04:38.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1877,7 +1743,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7a354707aaf8",
@@ -1955,7 +1821,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "628aeb8d4406",
@@ -1970,27 +1836,6 @@
         "new"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "dfa0a1df0eb5",
-      "title": "〖 護石周回・マルチ 〗ランキング名前残そう‼️神おまｸﾀﾞｻｰｲ〖タダまる。／ #モンハンワイルズ 〗",
-      "url": "https://t.co/uyvLCeo8TI",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-10-30T21:05:21.000Z",
-      "image": "",
-      "categories": [
-        "sales"
-      ],
-      "series": [
-        "wilds"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -2099,7 +1944,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "18707b9afb85",
@@ -2137,25 +1982,6 @@
       "series": [
         "wilds"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "7eaa2c8d940a",
-      "title": "【2夜連続配信】10月30日(金)よる7時！モンハン部のラジオ第5回",
-      "url": "https://youtu.be/6NjSODoh8oE?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-30T10:00:10.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -2244,7 +2070,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7720d12daae7",
@@ -2265,7 +2091,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0b68bd1287fd",
@@ -2309,7 +2135,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c2950a291114",
@@ -2438,27 +2264,6 @@
       "isNew": false
     },
     {
-      "id": "6c7a36768771",
-      "title": "20 ファビウス卿、2回も当たってしまってすみません。 たかの「モンスターハンターワイルズ」【ハンティングアクション】",
-      "url": "https://youtu.be/w9xXArSQgJ8?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-10-30T00:37:08.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "814888fd2faf",
       "title": "【モンハンワイルズ/MHWilds】歴戦王アルシュベルド(フリーチャレンジ) チャージアックス 9分28秒94",
       "url": "https://youtu.be/dVNW8G9FykY?si",
@@ -2512,25 +2317,6 @@
       "image": "",
       "categories": [
         "new"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3850c7eb0774",
-      "title": "モンスターハンター 鎮座獣 ティガレックス～絶対強者～｜モンスターハンターのプライズ 入荷予定・取扱店舗",
-      "url": "https://charagoo.jp/prize/item/b5425a571eab/",
-      "host": "charagoo.jp",
-      "source": "キャラグー",
-      "summary": "",
-      "publishedAt": "2026-10-29T23:56:37.000Z",
-      "image": "",
-      "categories": [
-        "goods"
       ],
       "series": [],
       "isOfficial": false,
