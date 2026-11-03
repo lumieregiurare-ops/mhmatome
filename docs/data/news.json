@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-03T21:00:27.955Z",
+  "updatedAt": "2026-11-03T21:30:21.795Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 103,
+  "total": 106,
   "todayCount": 4,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 5
+      "count": 7
     },
     {
       "id": "update",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 52
+      "count": 53
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 46
+      "count": 48
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 10
+      "count": 11
     },
     {
       "id": "now",
@@ -94,7 +94,7 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 42
+      "count": 43
     }
   ],
   "sources": [
@@ -104,7 +104,7 @@
     },
     {
       "name": "YouTube",
-      "count": 28
+      "count": 31
     },
     {
       "name": "電撃オンライン",
@@ -251,7 +251,7 @@
       "leadSource": "YouTube",
       "publishedAt": "2026-11-03T11:14:04.000Z",
       "sourceCount": 2,
-      "articleCount": 9,
+      "articleCount": 10,
       "categories": [
         "other"
       ],
@@ -370,6 +370,49 @@
       ]
     },
     {
+      "id": "d0266ed3e0b1",
+      "title": "【MHWs】Switch2が壊れる？体験版を限界までプレイした結果…！！【モンハンワイルズ体験版】",
+      "summary": "",
+      "url": "https://youtu.be/ih_9Gd7KCi0?si",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563066.png?date=1780886791",
+      "leadSource": "YouTube",
+      "publishedAt": "2026-11-03T07:26:44.000Z",
+      "sourceCount": 2,
+      "articleCount": 4,
+      "categories": [
+        "new",
+        "guide"
+      ],
+      "keywords": [
+        "モンハンワイルズ",
+        "モンスターハンターワイルズ",
+        "switch2"
+      ],
+      "articles": [
+        {
+          "title": "【モンハンワイルズ】Switch2版の発売日・最新情報【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563066",
+          "source": "GameWith",
+          "publishedAt": "2026-11-02T18:22:04.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】護石周回（護石集め）の効率的なやり方【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/513618",
+          "source": "GameWith",
+          "publishedAt": "2026-11-02T02:42:13.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】歴戦狩猟の証3の効率的な集め方と使い道【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/487801",
+          "source": "GameWith",
+          "publishedAt": "2026-11-01T18:05:23.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "d13843974e3d",
       "title": "【モンハンワイルズ 配信まとめ その96〜100】四捨五入すると60歳、還暦的なPS5版モンスターハンターワイルズ。令和に生きる狩られ道",
       "summary": "",
@@ -398,12 +441,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-03T20:30:23.558Z",
-    "previousCount": 99,
-    "newCount": 6
+    "previousAt": "2026-11-03T21:00:27.955Z",
+    "previousCount": 103,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-03T21:30:27.955Z",
+  "nextUpdateAt": "2026-11-03T22:00:21.795Z",
   "items": [
     {
       "id": "c50fb94399e9",
@@ -1120,6 +1163,28 @@
       "isNew": false
     },
     {
+      "id": "d0266ed3e0b1",
+      "title": "【MHWs】Switch2が壊れる？体験版を限界までプレイした結果…！！【モンハンワイルズ体験版】",
+      "url": "https://youtu.be/ih_9Gd7KCi0?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-03T07:26:44.000Z",
+      "image": "",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "0fa16261f863",
       "title": "【モンハンアウトランダーズ】エナジー(スタミナ)の回復方法と使い道【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/560263",
@@ -1603,27 +1668,6 @@
       "isNew": false
     },
     {
-      "id": "0053f990a8f2",
-      "title": "【モンハンワイルズ】歴戦狩猟の証3の効率的な集め方と使い道【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/487801",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-03T01:24:31.000Z",
-      "image": "",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "fdd6af106df8",
       "title": "「モンハンワイルズ/MHW」王ベドソロで行ってみた🔨",
       "url": "https://youtu.be/B3QXiETeX_c?si",
@@ -1958,7 +2002,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0e069d5d2ec4",
@@ -1979,7 +2023,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0b68bd1287fd",
@@ -2010,7 +2054,7 @@
       "source": "Excite エキサイト",
       "summary": "",
       "publishedAt": "2026-11-02T08:01:13.000Z",
-      "image": "https://s.eximg.jp/exnews/logo/noimg_1200x630_trend-topic.jpg",
+      "image": "",
       "categories": [
         "goods"
       ],
@@ -2059,7 +2103,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "411bb4076b94",
@@ -2273,6 +2317,27 @@
       "isNew": false
     },
     {
+      "id": "0053f990a8f2",
+      "title": "【モンハンワイルズ】歴戦狩猟の証3の効率的な集め方と使い道【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/487801",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-01T18:05:23.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "468d57e39da7",
       "title": "【モンハンワイルズ】歴戦王アルシュベルド(フリーチャレンジ)のSランクの取り方とチャーム【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/548752",
@@ -2292,6 +2357,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "dd131fce20ae",
+      "title": "水辺のきつねを狩るまぐろ #モンハンワイルズ #まぐろ #モンハン",
+      "url": "https://youtu.be/TXl4cf1YuN8?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-01T14:17:30.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "9058648b85bc",
@@ -2374,6 +2460,27 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "02e630b041b2",
+      "title": "【新作モンスターハンターアウトランダーズ モバイル#0】#モンハンアウトランダーズ #新作モバイルゲーム#オススメゲーム",
+      "url": "https://youtu.be/pcjXA2rFhyI?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-01T07:10:13.000Z",
+      "image": "",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
       "isNew": true
     },
     {
@@ -2395,7 +2502,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d13843974e3d",
@@ -2435,7 +2542,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "50fcac5e5963",
@@ -2546,7 +2653,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "You must install the latest version of Monster Hunter Wilds in order to play online multiplayer and access downloadable content. Release Date Tuesday October 2…",
       "publishedAt": "2026-10-28T10:54:39.000Z",
-      "image": "https://clan.fastly.steamstatic.com/images/44795648/0e20be10642d99093ef2af9c518c27a7ead4eb78.jpg",
+      "image": "https://clan.akamai.steamstatic.com/images/44795648/0e20be10642d99093ef2af9c518c27a7ead4eb78.jpg",
       "categories": [
         "update"
       ],
