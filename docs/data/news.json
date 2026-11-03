@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-03T19:30:17.762Z",
+  "updatedAt": "2026-11-03T20:00:24.965Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 104,
+  "total": 103,
   "todayCount": 3,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 6
+      "count": 5
     },
     {
       "id": "update",
@@ -27,12 +27,12 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 1
+      "count": 2
     },
     {
       "id": "goods",
       "label": "グッズ・フィギュア",
-      "count": 4
+      "count": 5
     },
     {
       "id": "media",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 52
+      "count": 50
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 46
+      "count": 44
     },
     {
       "id": "rise",
@@ -94,7 +94,7 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 43
+      "count": 42
     }
   ],
   "sources": [
@@ -104,7 +104,7 @@
     },
     {
       "name": "YouTube",
-      "count": 30
+      "count": 29
     },
     {
       "name": "電撃オンライン",
@@ -112,7 +112,7 @@
     },
     {
       "name": "キャラグー",
-      "count": 2
+      "count": 3
     },
     {
       "name": "電ファミニコゲーマー",
@@ -140,10 +140,6 @@
     },
     {
       "name": "AUTOMATON",
-      "count": 1
-    },
-    {
-      "name": "Unisba Media",
       "count": 1
     },
     {
@@ -249,12 +245,13 @@
       "sourceCount": 2,
       "articleCount": 10,
       "categories": [
-        "other"
+        "other",
+        "collab"
       ],
       "keywords": [
-        "wilds",
         "アルシュベルド",
-        "歴戦王"
+        "歴戦王",
+        "wilds"
       ],
       "articles": [
         {
@@ -394,12 +391,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-03T19:00:29.064Z",
-    "previousCount": 105,
-    "newCount": 1
+    "previousAt": "2026-11-03T19:30:17.762Z",
+    "previousCount": 104,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-03T20:00:17.762Z",
+  "nextUpdateAt": "2026-11-03T20:30:24.965Z",
   "items": [
     {
       "id": "d4123a096654",
@@ -1599,6 +1596,27 @@
       "isNew": false
     },
     {
+      "id": "0053f990a8f2",
+      "title": "【モンハンワイルズ】歴戦狩猟の証3の効率的な集め方と使い道【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/487801",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-03T01:24:31.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "fdd6af106df8",
       "title": "「モンハンワイルズ/MHW」王ベドソロで行ってみた🔨",
       "url": "https://youtu.be/B3QXiETeX_c?si",
@@ -2206,27 +2224,6 @@
       "isNew": false
     },
     {
-      "id": "a0bd6b38afe6",
-      "title": "《参加型・初見さん歓迎》かじゃいなで【モンハンワイルズ】アセンダンスに向けておまほりとかしよ！！！！！ Gemini Ai (EO5xgQch4Z)",
-      "url": "https://media.unisba.ac.id/9579f81d/535abca9W1QlABFWQAYhCQk/",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-11-02T01:51:49.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "488c58093be3",
       "title": "【アセンダンス】ガンランスの操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/577811",
@@ -2237,27 +2234,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577811.png?date=1789764143",
       "categories": [
         "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "0053f990a8f2",
-      "title": "【モンハンワイルズ】歴戦狩猟の証3の効率的な集め方と使い道【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/487801",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-01T18:05:23.000Z",
-      "image": "",
-      "categories": [
-        "guide"
       ],
       "series": [
         "wilds"
@@ -2290,25 +2266,23 @@
       "isNew": false
     },
     {
-      "id": "dd131fce20ae",
-      "title": "水辺のきつねを狩るまぐろ #モンハンワイルズ #まぐろ #モンハン",
-      "url": "https://youtu.be/TXl4cf1YuN8?si",
+      "id": "94e6014f0fc8",
+      "title": "【 コラボ 】フリチャレ歴戦王アルシュベルド カムぱおんさんとペア狩り🏹",
+      "url": "https://youtu.be/zJm922tn8EM?si",
       "host": "youtu.be",
       "source": "YouTube",
       "summary": "",
-      "publishedAt": "2026-11-01T14:17:30.000Z",
+      "publishedAt": "2026-11-01T13:37:00.000Z",
       "image": "",
       "categories": [
-        "other"
+        "collab"
       ],
-      "series": [
-        "wilds"
-      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "9058648b85bc",
@@ -2392,27 +2366,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "02e630b041b2",
-      "title": "【新作モンスターハンターアウトランダーズ モバイル#0】#モンハンアウトランダーズ #新作モバイルゲーム#オススメゲーム",
-      "url": "https://youtu.be/pcjXA2rFhyI?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-01T07:10:13.000Z",
-      "image": "",
-      "categories": [
-        "new"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "9ae133e92aad",
@@ -2556,6 +2509,25 @@
       "isNew": false
     },
     {
+      "id": "9f5ff66b6d9c",
+      "title": "【2026年11月】モンスターハンターの一番くじ最新一覧｜発売予定とコンビニ取扱店舗",
+      "url": "https://charagoo.jp/monsterhunter-lottery/",
+      "host": "charagoo.jp",
+      "source": "キャラグー",
+      "summary": "",
+      "publishedAt": "2026-10-31T19:56:44.000Z",
+      "image": "",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "72add4c5ae75",
       "title": "Update Summary (Ver.1.042.00.03)",
       "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302230509",
@@ -2563,7 +2535,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "You must install the latest version of Monster Hunter Wilds in order to play online multiplayer and access downloadable content. Release Date Tuesday October 2…",
       "publishedAt": "2026-10-28T10:54:39.000Z",
-      "image": "https://clan.fastly.steamstatic.com/images/44795648/0e20be10642d99093ef2af9c518c27a7ead4eb78.jpg",
+      "image": "https://clan.akamai.steamstatic.com/images/44795648/0e20be10642d99093ef2af9c518c27a7ead4eb78.jpg",
       "categories": [
         "update"
       ],
