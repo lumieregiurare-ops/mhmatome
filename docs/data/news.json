@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-03T07:00:17.150Z",
+  "updatedAt": "2026-11-03T07:30:14.990Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 100,
+  "total": 101,
   "todayCount": 48,
   "categories": [
     {
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 47
+      "count": 48
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 42
+      "count": 43
     },
     {
       "id": "rise",
@@ -140,6 +140,10 @@
     },
     {
       "name": "Unisba Media",
+      "count": 1
+    },
+    {
+      "name": "Howl.Link",
       "count": 1
     },
     {
@@ -407,12 +411,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-03T06:30:15.308Z",
-    "previousCount": 102,
+    "previousAt": "2026-11-03T07:00:17.150Z",
+    "previousCount": 100,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-03T07:30:17.150Z",
+  "nextUpdateAt": "2026-11-03T08:00:14.990Z",
   "items": [
     {
       "id": "bd81d62cb8d7",
@@ -520,14 +524,14 @@
       "isNew": false
     },
     {
-      "id": "5094988b1589",
-      "title": "【モンハンアウトランダーズ】主人公(ランス)の評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577468",
+      "id": "2dd0a4c576af",
+      "title": "【モンハンアウトランダーズ】主人公(双剣)の評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577469",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-03T03:52:16.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577468.png?date=1790214845",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577469.png?date=1790214889",
       "categories": [
         "guide"
       ],
@@ -541,14 +545,14 @@
       "isNew": false
     },
     {
-      "id": "2dd0a4c576af",
-      "title": "【モンハンアウトランダーズ】主人公(双剣)の評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577469",
+      "id": "5094988b1589",
+      "title": "【モンハンアウトランダーズ】主人公(ランス)の評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577468",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-03T03:52:16.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577469.png?date=1790214889",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577468.png?date=1790214845",
       "categories": [
         "guide"
       ],
@@ -643,7 +647,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d4123a096654",
@@ -2316,6 +2320,27 @@
       "isNew": false
     },
     {
+      "id": "87883d147d7b",
+      "title": "11時まで【鼓膜破壊型モンハン】モンスターハンターワイルズ第133回 楽しくたくさん狩ろう！【参加型】初見大歓迎🔰",
+      "url": "https://t.co/rgHBA6BIoS",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-31T23:26:09.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "67fcd29fa21a",
       "title": "『バイオハザード』30周年の額装アートと『モンハン』ゴグマジオスXLフィギュアの予約情報が公開！",
       "url": "https://www.appbank.net/2026/11/01/iphone-news/3150477.php",
@@ -2486,7 +2511,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "You must install the latest version of Monster Hunter Wilds in order to play online multiplayer and access downloadable content. Release Date Tuesday October 2…",
       "publishedAt": "2026-10-28T10:54:39.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/44795648/0e20be10642d99093ef2af9c518c27a7ead4eb78.jpg",
+      "image": "https://clan.fastly.steamstatic.com/images/44795648/0e20be10642d99093ef2af9c518c27a7ead4eb78.jpg",
       "categories": [
         "update"
       ],
