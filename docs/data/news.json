@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T02:30:16.070Z",
+  "updatedAt": "2026-11-03T03:00:18.175Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 103,
-  "todayCount": 21,
+  "todayCount": 25,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 36
+      "count": 38
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 53
+      "count": 51
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 46
+      "count": 44
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 10
+      "count": 11
     },
     {
       "id": "now",
@@ -94,13 +94,13 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 42
+      "count": 43
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 56
+      "count": 57
     },
     {
       "name": "YouTube",
@@ -108,10 +108,6 @@
     },
     {
       "name": "Game*Spark",
-      "count": 2
-    },
-    {
-      "name": "Howl.Link",
       "count": 2
     },
     {
@@ -124,6 +120,10 @@
     },
     {
       "name": "オリコンニュース",
+      "count": 1
+    },
+    {
+      "name": "Howl.Link",
       "count": 1
     },
     {
@@ -251,7 +251,7 @@
       "leadSource": "YouTube",
       "publishedAt": "2026-11-02T22:12:22.000Z",
       "sourceCount": 2,
-      "articleCount": 6,
+      "articleCount": 7,
       "categories": [
         "other"
       ],
@@ -273,6 +273,13 @@
           "url": "https://youtu.be/d_2F2ul2hAM?si",
           "source": "YouTube",
           "publishedAt": "2026-11-02T09:00:11.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【MHWs】フリーチャレンジクエスト 歴戦王アルシュベルド チャージアックス 5'49",
+          "url": "https://youtu.be/OjQtB8M6bJY?si",
+          "source": "YouTube",
+          "publishedAt": "2026-11-01T22:25:23.000Z",
           "isPR": false
         },
         {
@@ -328,12 +335,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-03T02:00:18.627Z",
-    "previousCount": 99,
-    "newCount": 11
+    "previousAt": "2026-11-03T02:30:16.070Z",
+    "previousCount": 103,
+    "newCount": 15
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-03T03:00:16.070Z",
+  "nextUpdateAt": "2026-11-03T03:30:18.175Z",
   "items": [
     {
       "id": "151e799beb6b",
@@ -357,6 +364,27 @@
       "isNew": false
     },
     {
+      "id": "c3ef4d2c6063",
+      "title": "【モンハンアウトランダーズ】主人公(大剣)の評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577471",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-03T01:59:48.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577471.png?date=1790214971",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "4d8236f8bea1",
       "title": "【アウトランダーズ】リセマラ当たりランキング【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/531925",
@@ -376,6 +404,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "e4e0f463fac1",
+      "title": "【モンハンアウトランダーズ】主人公のおすすめ武器種と心得｜最強武器種【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531944",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-03T01:54:50.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531944.png?date=1793082656",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "da6774683cf4",
@@ -399,6 +448,48 @@
       "isNew": false
     },
     {
+      "id": "66c13c293b86",
+      "title": "【モンハンアウトランダーズ】ガチャ一覧とおすすめ【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531924",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-03T01:53:45.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531924.png?date=1793225649",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "fa5f63e461a4",
+      "title": "【モンハンアウトランダーズ】マップ攻略一覧｜探索ツール【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531937",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-03T01:53:32.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531937.png?date=1793226114",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "a8368fa876ef",
       "title": "【MHWilds】野良で☆１０英雄の証 広域片手 #モンハンワイルズ #広域片手 #アセンダンス",
       "url": "https://youtu.be/kHsDJISzIeQ?si",
@@ -418,7 +509,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fdd6af106df8",
@@ -546,8 +637,8 @@
       "isNew": false
     },
     {
-      "id": "c2e889543125",
-      "title": "【アウトランダーズ】絵装の厳選方法とおすすめ効果【モンハンアウトランダーズ】",
+      "id": "7cc6494b340f",
+      "title": "【モンハンアウトランダーズ】絵装の厳選方法とおすすめ効果【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/575851",
       "host": "gamewith.jp",
       "source": "GameWith",
@@ -564,7 +655,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "1012b0904003",
@@ -778,8 +869,8 @@
       "isNew": false
     },
     {
-      "id": "6018b78f215a",
-      "title": "【アウトランダーズ】ミドリの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "id": "78d907e0c7ca",
+      "title": "【モンハンアウトランダーズ】ミドリの評価とおすすめ装備・編成【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577465",
       "host": "gamewith.jp",
       "source": "GameWith",
@@ -796,7 +887,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "7f005fa7ae94",
@@ -925,8 +1016,8 @@
       "isNew": false
     },
     {
-      "id": "1f6ecbc0b45f",
-      "title": "【アウトランダーズ】主人公(双剣)の評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "id": "2dd0a4c576af",
+      "title": "【モンハンアウトランダーズ】主人公(双剣)の評価とおすすめ装備・編成【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577469",
       "host": "gamewith.jp",
       "source": "GameWith",
@@ -943,32 +1034,11 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
-      "id": "fce79821309b",
-      "title": "【アウトランダーズ】主人公(大剣)の評価とおすすめ装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577471",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-02T14:45:24.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577471.png?date=1790214971",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "1a7d5001720c",
-      "title": "【アウトランダーズ】主人公(太刀)の評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "id": "de51f2f1d013",
+      "title": "【モンハンアウトランダーズ】主人公(太刀)の評価とおすすめ装備・編成【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577470",
       "host": "gamewith.jp",
       "source": "GameWith",
@@ -985,11 +1055,11 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
-      "id": "bdd6dc72abed",
-      "title": "【アウトランダーズ】主人公(ランス)の評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "id": "5094988b1589",
+      "title": "【モンハンアウトランダーズ】主人公(ランス)の評価とおすすめ装備・編成【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577468",
       "host": "gamewith.jp",
       "source": "GameWith",
@@ -1006,11 +1076,11 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
-      "id": "2df15bd544a5",
-      "title": "【アウトランダーズ】ペペの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "id": "d4123a096654",
+      "title": "【モンハンアウトランダーズ】ペペの評価とおすすめ装備・編成【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/561564",
       "host": "gamewith.jp",
       "source": "GameWith",
@@ -1027,11 +1097,11 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
-      "id": "bf01f8835eca",
-      "title": "【アウトランダーズ】マドレの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "id": "6cc16e919d3b",
+      "title": "【モンハンアウトランダーズ】マドレの評価とおすすめ装備・編成【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577464",
       "host": "gamewith.jp",
       "source": "GameWith",
@@ -1048,7 +1118,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "259a74d63608",
@@ -1093,8 +1163,8 @@
       "isNew": false
     },
     {
-      "id": "91f587978fbf",
-      "title": "【アウトランダーズ】リュウノスケの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "id": "3a6d0385a177",
+      "title": "【モンハンアウトランダーズ】リュウノスケの評価とおすすめ装備・編成【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577455",
       "host": "gamewith.jp",
       "source": "GameWith",
@@ -1111,11 +1181,11 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
-      "id": "43ba0d31b055",
-      "title": "【アウトランダーズ】ブリックスの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "id": "0574437f25e8",
+      "title": "【モンハンアウトランダーズ】ブリックスの評価とおすすめ装備・編成【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577456",
       "host": "gamewith.jp",
       "source": "GameWith",
@@ -1132,11 +1202,11 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
-      "id": "6067c3f9ff9d",
-      "title": "【アウトランダーズ】主人公(チャージアックス)の評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "id": "06db529e3790",
+      "title": "【モンハンアウトランダーズ】主人公(チャージアックス)の評価とおすすめ装備・編成【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/583503",
       "host": "gamewith.jp",
       "source": "GameWith",
@@ -1153,7 +1223,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "4d6e26129e11",
@@ -1169,27 +1239,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "df195c9be8fa",
-      "title": "【アウトランダーズ】主人公のおすすめ武器種と心得｜最強武器種【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531944",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-02T14:04:25.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531944.png?date=1793082656",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1258,7 +1307,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aa7f8600bdd3",
@@ -1368,27 +1417,6 @@
       "isNew": false
     },
     {
-      "id": "9e85f0d99859",
-      "title": "【モンハンワイルズ】ニーア オートマタ 2B風 キャラメイクレシピ",
-      "url": "https://youtu.be/7P7k-VsbzCY?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-02T11:00:00.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "f7bf8bf18ca0",
       "title": "大剣初心者が硬そうな猿とアチアチのタコと戦いました。【へたっぴ大剣冒険日記#15 】モンスターハンターワイルズ",
       "url": "https://youtu.be/Lq2KFPxg0AA?si",
@@ -1487,27 +1515,6 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "86d57cbc3869",
-      "title": "【モンハンワイルズ】ゴグマジオス勝てなかったからリベンジしたい※ネタバレ注意【 ＃憩いづも ＃Vtuber",
-      "url": "https://t.co/RqCo3Lo63t",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-11-02T09:37:55.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
       "isNew": false
     },
     {
@@ -1530,7 +1537,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0e069d5d2ec4",
@@ -1583,7 +1590,7 @@
       "source": "はてなブログ",
       "summary": "",
       "publishedAt": "2026-11-02T07:51:09.000Z",
-      "image": "https://cdn.image.st-hatena.com/image/scale/e1d56399a35510077355eec7e73cccc4a21dd79c/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsuicapenguin777%2F20261102%2F20261102165039.png",
+      "image": "",
       "categories": [
         "community"
       ],
@@ -1613,7 +1620,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8017a504cd91",
@@ -1676,7 +1683,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5d64945e98d4",
@@ -1806,27 +1813,6 @@
       "isNew": false
     },
     {
-      "id": "88c2a9f62f21",
-      "title": "【アウトランダーズ】シーズン0「双陽照らす輝きの鳥」【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/586140",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-02T01:15:40.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586140.png?date=1793352110",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "488c58093be3",
       "title": "【アセンダンス】ガンランスの操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/577811",
@@ -1846,6 +1832,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "9ee56e1f8a2d",
+      "title": "【MHWs】フリーチャレンジクエスト 歴戦王アルシュベルド チャージアックス 5'49",
+      "url": "https://youtu.be/OjQtB8M6bJY?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-01T22:25:23.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "411bb4076b94",
@@ -2180,7 +2187,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d13843974e3d",
@@ -2220,7 +2227,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6e5a847e9bc1",
@@ -2342,7 +2349,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "36e3fe9ce14c",
@@ -2363,7 +2370,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b1075837ccdb",
