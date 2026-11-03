@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-03T00:30:24.584Z",
+  "updatedAt": "2026-11-03T01:00:15.153Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 98,
+  "total": 94,
   "todayCount": 13,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 6
+      "count": 4
     },
     {
       "id": "update",
@@ -32,7 +32,7 @@
     {
       "id": "goods",
       "label": "グッズ・フィギュア",
-      "count": 5
+      "count": 4
     },
     {
       "id": "media",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 39
+      "count": 36
     },
     {
       "id": "sale",
@@ -52,7 +52,7 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 1
+      "count": 2
     },
     {
       "id": "sales",
@@ -62,24 +62,24 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 43
+      "count": 44
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 37
+      "count": 38
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 2
+      "count": 1
     },
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 5
+      "count": 6
     },
     {
       "id": "now",
@@ -94,7 +94,7 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 43
+      "count": 42
     }
   ],
   "sources": [
@@ -104,15 +104,7 @@
     },
     {
       "name": "YouTube",
-      "count": 21
-    },
-    {
-      "name": "ウォーカープラス",
-      "count": 3
-    },
-    {
-      "name": "キャラグー",
-      "count": 3
+      "count": 20
     },
     {
       "name": "Game*Spark",
@@ -120,6 +112,14 @@
     },
     {
       "name": "Howl.Link",
+      "count": 2
+    },
+    {
+      "name": "ウォーカープラス",
+      "count": 2
+    },
+    {
+      "name": "キャラグー",
       "count": 2
     },
     {
@@ -144,10 +144,6 @@
     },
     {
       "name": "AppBank",
-      "count": 1
-    },
-    {
-      "name": "X",
       "count": 1
     },
     {
@@ -176,8 +172,8 @@
       "image": "https://contents.oricon.co.jp/upimg/news/2491000/2490441/20261102_193246_p_o_27338522.jpg",
       "leadSource": "オリコンニュース",
       "publishedAt": "2026-11-02T22:55:38.000Z",
-      "sourceCount": 4,
-      "articleCount": 9,
+      "sourceCount": 3,
+      "articleCount": 10,
       "categories": [
         "other",
         "guide"
@@ -185,7 +181,7 @@
       "keywords": [
         "アウトランダーズ",
         "モンハンアウトランダーズ",
-        "モンスターハンターアウトランダーズ"
+        "チャート"
       ],
       "articles": [
         {
@@ -217,6 +213,13 @@
           "isPR": false
         },
         {
+          "title": "【アウトランダーズ】巣穴一覧【モンハンアウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/559856",
+          "source": "GameWith",
+          "publishedAt": "2026-11-02T07:48:25.000Z",
+          "isPR": false
+        },
+        {
           "title": "【アウトランダーズ】おすすめSR(低レア)オトモと無課金育成優先度【モンハンアウトランダーズ】",
           "url": "https://gamewith.jp/mhoutlanders/578991",
           "source": "GameWith",
@@ -235,13 +238,6 @@
           "url": "https://gamewith.jp/mhoutlanders/559753",
           "source": "GameWith",
           "publishedAt": "2026-11-02T05:49:48.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【新作モンスターハンターアウトランダーズ モバイル#0】#モンハンアウトランダーズ #新作モバイルゲーム#オススメゲーム",
-          "url": "https://youtu.be/pcjXA2rFhyI?si",
-          "source": "YouTube",
-          "publishedAt": "2026-11-01T07:10:13.000Z",
           "isPR": false
         }
       ]
@@ -326,12 +322,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-03T00:00:15.440Z",
-    "previousCount": 99,
-    "newCount": 10
+    "previousAt": "2026-11-03T00:30:24.584Z",
+    "previousCount": 98,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-03T01:00:24.584Z",
+  "nextUpdateAt": "2026-11-03T01:30:15.153Z",
   "items": [
     {
       "id": "3c0542122688",
@@ -371,7 +367,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9cfdd5784387",
@@ -718,69 +714,6 @@
       "summary": "",
       "publishedAt": "2026-11-02T14:47:03.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577654.png?date=1790215839",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "0e0c5df7afa4",
-      "title": "【アウトランダーズ】サニャンの性能とおすすめキャラ【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577665",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-02T14:46:57.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577665.png?date=1792755775",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "89543477594d",
-      "title": "【アウトランダーズ】ホーホウの性能とおすすめキャラ【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577671",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-02T14:46:53.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577671.png?date=1792756495",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "756534bb8a2d",
-      "title": "【アウトランダーズ】トーリーの性能とおすすめキャラ【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577673",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-02T14:46:52.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577673.png?date=1792755810",
       "categories": [
         "guide"
       ],
@@ -1376,7 +1309,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "86d57cbc3869",
@@ -1392,6 +1325,28 @@
       ],
       "series": [
         "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "f4cbbb9ab9e0",
+      "title": "【MHWilds】 ゆるーく武器コンプ Part9 VOICEROID実況",
+      "url": "https://youtu.be/WTUEsj1UXYM?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-02T09:30:52.000Z",
+      "image": "",
+      "categories": [
+        "community"
+      ],
+      "series": [
+        "wilds",
+        "world"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1441,6 +1396,27 @@
       "isNew": false
     },
     {
+      "id": "dd74f72e5ea2",
+      "title": "【アウトランダーズ】巣穴一覧【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/559856",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-02T07:48:25.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559856.png?date=1789010739",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "8017a504cd91",
       "title": "[MH Wilds ]生き誇れ、野生の仔 ランスソロ 不屈火事場 6'58\"74 オトモ笛バフあり",
       "url": "https://youtu.be/xB3L9rdM_oM?si",
@@ -1481,6 +1457,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "c40047072081",
+      "title": "【アウトランダーズ】シーズンショップの解放条件と交換アイテム【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/584336",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-02T05:54:21.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/584336.png?date=1792921458",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "151e799beb6b",
@@ -1631,6 +1628,27 @@
       "isNew": false
     },
     {
+      "id": "88c2a9f62f21",
+      "title": "【アウトランダーズ】シーズン0「双陽照らす輝きの鳥」【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/586140",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-02T01:15:40.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586140.png?date=1793352110",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "488c58093be3",
       "title": "【アセンダンス】ガンランスの操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/577811",
@@ -1670,7 +1688,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "411bb4076b94",
@@ -1776,27 +1794,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "e775fda94739",
-      "title": "【トロコン中】「モンスターハンターライズ」#56",
-      "url": "https://youtu.be/s9LDGxuUtb4?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-01T13:28:27.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "6f00a2da507b",
@@ -1964,27 +1961,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "02e630b041b2",
-      "title": "【新作モンスターハンターアウトランダーズ モバイル#0】#モンハンアウトランダーズ #新作モバイルゲーム#オススメゲーム",
-      "url": "https://youtu.be/pcjXA2rFhyI?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-01T07:10:13.000Z",
-      "image": "",
-      "categories": [
-        "new"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "bc548e8b4345",
@@ -2172,25 +2148,6 @@
       "isNew": false
     },
     {
-      "id": "0ce28856139e",
-      "title": "亜紗@モンハン写真部 (@p3dq4) on X - X",
-      "url": "https://x.com/intent/like?tweet_id",
-      "host": "x.com",
-      "source": "X",
-      "summary": "",
-      "publishedAt": "2026-10-31T14:40:44.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "36e3fe9ce14c",
       "title": "【モンハンワイルズ】11分46秒 サポハンなし零式オメガソロ【PS5/狩猟笛】",
       "url": "https://youtu.be/-Ky5wWkNq6A?si",
@@ -2210,25 +2167,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "152cbe867b16",
-      "title": "モンスターハンターのあの癒しキャラがフィギュアに！",
-      "url": "https://www.walkerplus.com/article/1165/",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-10-31T07:00:00.000Z",
-      "image": "https://news.walkerplus.com/article/1165/2642_615.jpg",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "b1075837ccdb",
@@ -2325,25 +2263,6 @@
       "series": [
         "outlanders"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "628aeb8d4406",
-      "title": "モンスターハンター めじるしアクセサリーの設置場所・発売日・ラインナップ｜ガチャガチャ",
-      "url": "https://charagoo.jp/gacha/item/c6521f7523c1/",
-      "host": "charagoo.jp",
-      "source": "キャラグー",
-      "summary": "",
-      "publishedAt": "2026-10-30T23:59:41.000Z",
-      "image": "",
-      "categories": [
-        "new"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
