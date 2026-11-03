@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T17:30:21.227Z",
+  "updatedAt": "2026-11-03T18:00:23.796Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,12 +7,12 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 99,
-  "todayCount": 0,
+  "todayCount": 1,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 5
+      "count": 6
     },
     {
       "id": "update",
@@ -32,7 +32,7 @@
     {
       "id": "goods",
       "label": "グッズ・フィギュア",
-      "count": 4
+      "count": 5
     },
     {
       "id": "media",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 40
+      "count": 38
     },
     {
       "id": "sale",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 44
+      "count": 43
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 6
+      "count": 7
     },
     {
       "id": "now",
@@ -100,11 +100,11 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 61
+      "count": 59
     },
     {
       "name": "YouTube",
-      "count": 21
+      "count": 22
     },
     {
       "name": "電撃オンライン",
@@ -112,7 +112,7 @@
     },
     {
       "name": "キャラグー",
-      "count": 2
+      "count": 3
     },
     {
       "name": "電ファミニコゲーマー",
@@ -165,15 +165,15 @@
   ],
   "topics": [
     {
-      "id": "580a376efe1a",
-      "title": "【モンハンアウトランダーズ】おすすめSR(低レア)キャラと無課金育成優先度【アウトランダーズ】",
+      "id": "d4123a096654",
+      "title": "【モンハンアウトランダーズ】ペペの評価とおすすめ装備・編成【アウトランダーズ】",
       "summary": "",
-      "url": "https://gamewith.jp/mhoutlanders/559753",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559753.png?date=1789014409",
+      "url": "https://gamewith.jp/mhoutlanders/561564",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/561564.png?date=1790214134",
       "leadSource": "GameWith",
-      "publishedAt": "2026-11-03T14:53:05.000Z",
+      "publishedAt": "2026-11-03T17:46:50.000Z",
       "sourceCount": 3,
-      "articleCount": 42,
+      "articleCount": 41,
       "categories": [
         "guide",
         "other"
@@ -184,6 +184,13 @@
         "装備"
       ],
       "articles": [
+        {
+          "title": "【モンハンアウトランダーズ】おすすめSR(低レア)キャラと無課金育成優先度【アウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/559753",
+          "source": "GameWith",
+          "publishedAt": "2026-11-03T14:53:05.000Z",
+          "isPR": false
+        },
         {
           "title": "【モンハンアウトランダーズ】主人公(太刀)の評価とおすすめ装備・編成【アウトランダーズ】",
           "url": "https://gamewith.jp/mhoutlanders/577470",
@@ -231,13 +238,6 @@
           "url": "https://gamewith.jp/mhoutlanders/581392",
           "source": "GameWith",
           "publishedAt": "2026-11-03T12:43:28.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンアウトランダーズ】主人公(大剣)の評価とおすすめ装備・編成【アウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/577471",
-          "source": "GameWith",
-          "publishedAt": "2026-11-03T12:42:33.000Z",
           "isPR": false
         }
       ]
@@ -354,16 +354,64 @@
           "isPR": false
         }
       ]
+    },
+    {
+      "id": "d13843974e3d",
+      "title": "【モンハンワイルズ 配信まとめ その96〜100】四捨五入すると60歳、還暦的なPS5版モンスターハンターワイルズ。令和に生きる狩られ道",
+      "summary": "",
+      "url": "https://youtu.be/Ks3VK_2dcWY?si",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/487799.png?date=1755060453",
+      "leadSource": "YouTube",
+      "publishedAt": "2026-11-01T01:00:04.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "モンスターハンターワイルズ",
+        "モンハンワイルズ"
+      ],
+      "articles": [
+        {
+          "title": "【モンハンワイルズ】ナナイロカネの集め方と精錬方法【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/487799",
+          "source": "GameWith",
+          "publishedAt": "2026-11-01T00:09:05.000Z",
+          "isPR": false
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-03T17:00:20.287Z",
-    "previousCount": 105,
+    "previousAt": "2026-11-03T17:30:21.227Z",
+    "previousCount": 99,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-03T18:00:21.227Z",
+  "nextUpdateAt": "2026-11-03T18:30:23.796Z",
   "items": [
+    {
+      "id": "d4123a096654",
+      "title": "【モンハンアウトランダーズ】ペペの評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/561564",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-03T17:46:50.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/561564.png?date=1790214134",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "580a376efe1a",
       "title": "【モンハンアウトランダーズ】おすすめSR(低レア)キャラと無課金育成優先度【アウトランダーズ】",
@@ -805,27 +853,6 @@
       "isNew": false
     },
     {
-      "id": "d4123a096654",
-      "title": "【モンハンアウトランダーズ】ペペの評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/561564",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-03T10:06:04.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/561564.png?date=1790214134",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "2d3ed020ccc5",
       "title": "【モンハンアウトランダーズ】ガチャおすすめと一覧│引くべきガチャ【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/531924",
@@ -1035,6 +1062,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "d0266ed3e0b1",
+      "title": "【MHWs】Switch2が壊れる？体験版を限界までプレイした結果…！！【モンハンワイルズ体験版】",
+      "url": "https://youtu.be/ih_9Gd7KCi0?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-03T07:26:44.000Z",
+      "image": "",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "0fa16261f863",
@@ -1935,27 +1984,6 @@
       "isNew": false
     },
     {
-      "id": "87e4b8514801",
-      "title": "【モンハンワイルズ】双剣の最強装備・おすすめ装備【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/484913",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-02T07:48:07.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/484913.png?date=1740686517",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "411bb4076b94",
       "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/575038",
@@ -2164,7 +2192,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "488c58093be3",
@@ -2262,27 +2290,6 @@
       ],
       "series": [
         "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "bc548e8b4345",
-      "title": "【モンハンワイルズ】極熱重鎧グラビモスの報酬と周回装備【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/492800",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-01T03:58:24.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/492800.png?date=1744168629",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -2390,7 +2397,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "67fcd29fa21a",
@@ -2411,6 +2418,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "9f5ff66b6d9c",
+      "title": "【2026年11月】モンスターハンターの一番くじ最新一覧｜発売予定とコンビニ取扱店舗",
+      "url": "https://charagoo.jp/monsterhunter-lottery/",
+      "host": "charagoo.jp",
+      "source": "キャラグー",
+      "summary": "",
+      "publishedAt": "2026-10-31T19:56:44.000Z",
+      "image": "",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "72add4c5ae75",
