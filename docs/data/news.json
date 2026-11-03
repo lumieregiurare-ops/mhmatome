@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-02T23:30:13.702Z",
+  "updatedAt": "2026-11-03T00:00:15.440Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 101,
-  "todayCount": 10,
+  "total": 99,
+  "todayCount": 11,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 36
+      "count": 37
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 50
+      "count": 47
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 42
+      "count": 40
     },
     {
       "id": "rise",
@@ -104,15 +104,11 @@
     },
     {
       "name": "YouTube",
-      "count": 26
+      "count": 25
     },
     {
       "name": "キャラグー",
       "count": 3
-    },
-    {
-      "name": "Howl.Link",
-      "count": 2
     },
     {
       "name": "ウォーカープラス",
@@ -147,6 +143,10 @@
       "count": 1
     },
     {
+      "name": "Howl.Link",
+      "count": 1
+    },
+    {
       "name": "AppBank",
       "count": 1
     },
@@ -177,7 +177,7 @@
       "leadSource": "オリコンニュース",
       "publishedAt": "2026-11-02T22:55:38.000Z",
       "sourceCount": 3,
-      "articleCount": 10,
+      "articleCount": 9,
       "categories": [
         "other",
         "guide"
@@ -217,13 +217,6 @@
           "isPR": false
         },
         {
-          "title": "【アウトランダーズ】巣穴一覧【モンハンアウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/559856",
-          "source": "GameWith",
-          "publishedAt": "2026-11-02T07:48:25.000Z",
-          "isPR": false
-        },
-        {
           "title": "【アウトランダーズ】おすすめSR(低レア)オトモと無課金育成優先度【モンハンアウトランダーズ】",
           "url": "https://gamewith.jp/mhoutlanders/578991",
           "source": "GameWith",
@@ -242,6 +235,13 @@
           "url": "https://gamewith.jp/mhoutlanders/559753",
           "source": "GameWith",
           "publishedAt": "2026-11-02T05:49:48.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アウトランダーズ】シーズン0「双陽照らす輝きの鳥」【モンハンアウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/586140",
+          "source": "GameWith",
+          "publishedAt": "2026-11-02T01:15:40.000Z",
           "isPR": false
         }
       ]
@@ -353,12 +353,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-02T23:00:16.294Z",
-    "previousCount": 99,
-    "newCount": 3
+    "previousAt": "2026-11-02T23:30:13.702Z",
+    "previousCount": 101,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-03T00:00:13.702Z",
+  "nextUpdateAt": "2026-11-03T00:30:15.440Z",
   "items": [
     {
       "id": "9cfdd5784387",
@@ -371,6 +371,27 @@
       "image": "https://contents.oricon.co.jp/upimg/news/2491000/2490441/20261102_193246_p_o_27338522.jpg",
       "categories": [
         "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "c2e889543125",
+      "title": "【アウトランダーズ】絵装の厳選方法とおすすめ効果【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/575851",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-02T22:13:05.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575851.png?date=1789454673",
+      "categories": [
+        "guide"
       ],
       "series": [
         "outlanders"
@@ -613,27 +634,6 @@
       "isNew": false
     },
     {
-      "id": "c2e889543125",
-      "title": "【アウトランダーズ】絵装の厳選方法とおすすめ効果【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/575851",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-02T14:54:12.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575851.png?date=1789454673",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "f299ebe1626f",
       "title": "【アウトランダーズ】コジローの性能とおすすめキャラ【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577648",
@@ -716,6 +716,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "756534bb8a2d",
+      "title": "【アウトランダーズ】トーリーの性能とおすすめキャラ【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577673",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-02T14:46:52.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577673.png?date=1792755810",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "3a62259e0a61",
@@ -1368,48 +1389,6 @@
       "isNew": false
     },
     {
-      "id": "547c1490bf36",
-      "title": "【MONSTER HUNTER WILDS】見ていてね、しらうさが何をやるのかを！（ゴグマジオス周回）【steam版】【28狩目】",
-      "url": "https://youtu.be/ZB0a9xpYeps?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-02T09:42:50.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "86d57cbc3869",
-      "title": "【モンハンワイルズ】ゴグマジオス勝てなかったからリベンジしたい※ネタバレ注意【 ＃憩いづも ＃Vtuber",
-      "url": "https://t.co/RqCo3Lo63t",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-11-02T09:37:55.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "0e069d5d2ec4",
       "title": "第1回ソラのモンハン対談会【モンハンワイルズ】w/いすず、KEMO、七海わかめ",
       "url": "https://youtu.be/ZX8v8rywekY?si",
@@ -1465,27 +1444,6 @@
         "community"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "dd74f72e5ea2",
-      "title": "【アウトランダーズ】巣穴一覧【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/559856",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-02T07:48:25.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559856.png?date=1789010739",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1703,12 +1661,12 @@
     },
     {
       "id": "a0bd6b38afe6",
-      "title": "《参加型・初見さん歓迎》かじゃいなで【モンハンワイルズ】アセンダンスに向けておまほりとかしよ！！！！！ Gemini Ai (EO5xgQch4Z)",
-      "url": "https://media.unisba.ac.id/9579f81d/535abca9W1QlABFWQAYhCQk/",
+      "title": "《参加型・初見さん歓迎》かじゃいなで【モンハンワイルズ】アセンダンスに向けておまほりとかしよ！！！！！ Gemini Ai (O5xgQch4ZI)",
+      "url": "https://media.unisba.ac.id/66d1a57a/a656137cW1QlABFWQAYhCQk/?share",
       "host": "media.unisba.ac.id",
       "source": "Unisba Media",
       "summary": "",
-      "publishedAt": "2026-11-02T01:51:49.000Z",
+      "publishedAt": "2026-11-02T01:27:11.000Z",
       "image": "",
       "categories": [
         "other"
@@ -1886,7 +1844,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6f00a2da507b",
@@ -2116,7 +2074,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d13843974e3d",
@@ -2156,7 +2114,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6e5a847e9bc1",
