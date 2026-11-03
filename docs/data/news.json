@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-03T17:00:20.287Z",
+  "updatedAt": "2026-11-03T17:30:21.227Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 105,
+  "total": 99,
   "todayCount": 0,
   "categories": [
     {
@@ -32,7 +32,7 @@
     {
       "id": "goods",
       "label": "グッズ・フィギュア",
-      "count": 5
+      "count": 4
     },
     {
       "id": "media",
@@ -52,7 +52,7 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 3
+      "count": 2
     },
     {
       "id": "sales",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 50
+      "count": 46
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 47
+      "count": 44
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 10
+      "count": 6
     },
     {
       "id": "now",
@@ -104,7 +104,7 @@
     },
     {
       "name": "YouTube",
-      "count": 28
+      "count": 21
     },
     {
       "name": "電撃オンライン",
@@ -112,7 +112,7 @@
     },
     {
       "name": "キャラグー",
-      "count": 3
+      "count": 2
     },
     {
       "name": "電ファミニコゲーマー",
@@ -143,7 +143,15 @@
       "count": 1
     },
     {
+      "name": "Unisba Media",
+      "count": 1
+    },
+    {
       "name": "ウォーカープラス",
+      "count": 1
+    },
+    {
+      "name": "Howl.Link",
       "count": 1
     },
     {
@@ -243,12 +251,12 @@
       "leadSource": "YouTube",
       "publishedAt": "2026-11-03T11:14:04.000Z",
       "sourceCount": 2,
-      "articleCount": 9,
+      "articleCount": 7,
       "categories": [
         "other"
       ],
       "keywords": [
-        "wilds",
+        "フリーチャレンジ",
         "アルシュベルド",
         "歴戦王"
       ],
@@ -279,20 +287,6 @@
           "url": "https://youtu.be/36r603z7A1M?si",
           "source": "YouTube",
           "publishedAt": "2026-11-02T21:31:48.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【MHWilds】フリチャレ歴戦王アルシュベルド「生き誇れ、野生の仔」ソロヘビィ散弾火事場 6分49秒 Arch-Tempered Arkveld Solo Heavy Bowgun Heroics",
-          "url": "https://youtu.be/kRo7rttJlYI?si",
-          "source": "YouTube",
-          "publishedAt": "2026-11-02T12:04:25.000Z",
-          "isPR": false
-        },
-        {
-          "title": "[MH Wilds ]生き誇れ、野生の仔 ランスソロ 不屈火事場 6'58\"74 オトモ笛バフあり",
-          "url": "https://youtu.be/xB3L9rdM_oM?si",
-          "source": "YouTube",
-          "publishedAt": "2026-11-02T07:20:04.000Z",
           "isPR": false
         },
         {
@@ -363,12 +357,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-03T16:28:14.636Z",
-    "previousCount": 101,
-    "newCount": 7
+    "previousAt": "2026-11-03T17:00:20.287Z",
+    "previousCount": 105,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-03T17:30:20.287Z",
+  "nextUpdateAt": "2026-11-03T18:00:21.227Z",
   "items": [
     {
       "id": "580a376efe1a",
@@ -1819,28 +1813,6 @@
       "isNew": false
     },
     {
-      "id": "c65fe4ace7a3",
-      "title": "【MHWilds】フリチャレ歴戦王アルシュベルド「生き誇れ、野生の仔」ソロヘビィ散弾火事場 6分49秒 Arch-Tempered Arkveld Solo Heavy Bowgun Heroics",
-      "url": "https://youtu.be/kRo7rttJlYI?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-02T12:04:25.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "4b44c9cf5fca",
       "title": "『モンスターハンターアウトランダーズ』が無料チャート1位に初登場（10/26～11/1）",
       "url": "https://www.sankei.com/article/20261102-HJ2TBZCLZJNR5LS5UN7O2JHJQI/",
@@ -1902,49 +1874,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "f4cbbb9ab9e0",
-      "title": "【MHWilds】 ゆるーく武器コンプ Part9 VOICEROID実況",
-      "url": "https://youtu.be/WTUEsj1UXYM?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-02T09:30:52.000Z",
-      "image": "",
-      "categories": [
-        "community"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "0e069d5d2ec4",
-      "title": "第1回ソラのモンハン対談会【モンハンワイルズ】w/いすず、KEMO、七海わかめ",
-      "url": "https://youtu.be/ZX8v8rywekY?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-02T09:30:32.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "0b68bd1287fd",
@@ -2025,27 +1954,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "8017a504cd91",
-      "title": "[MH Wilds ]生き誇れ、野生の仔 ランスソロ 不屈火事場 6'58\"74 オトモ笛バフあり",
-      "url": "https://youtu.be/xB3L9rdM_oM?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-02T07:20:04.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "411bb4076b94",
@@ -2238,6 +2146,27 @@
       "isNew": false
     },
     {
+      "id": "a0bd6b38afe6",
+      "title": "《参加型・初見さん歓迎》かじゃいなで【モンハンワイルズ】アセンダンスに向けておまほりとかしよ！！！！！ Gemini Ai (EO5xgQch4Z)",
+      "url": "https://media.unisba.ac.id/9579f81d/535abca9W1QlABFWQAYhCQk/",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-11-02T01:51:49.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "488c58093be3",
       "title": "【アセンダンス】ガンランスの操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/577811",
@@ -2341,28 +2270,6 @@
       "isNew": false
     },
     {
-      "id": "f69be16271e9",
-      "title": "歴戦王アルシュベルドと抜刀禁止で戯れたい！モンスターハンターワイルズ MHWilds",
-      "url": "https://youtu.be/XlI5DtxVucQ?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-01T09:47:33.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "bc548e8b4345",
       "title": "【モンハンワイルズ】極熱重鎧グラビモスの報酬と周回装備【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/492800",
@@ -2384,27 +2291,6 @@
       "isNew": false
     },
     {
-      "id": "9ae133e92aad",
-      "title": "【MHWild】フリチャレ 歴戦王 アルシュベルド 双剣 / Free Challenge Arch-tempered Arkveld Dual Blades 06’53”06",
-      "url": "https://youtu.be/UfkV25YKfAQ?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-01T03:00:36.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "d13843974e3d",
       "title": "【モンハンワイルズ 配信まとめ その96〜100】四捨五入すると60歳、還暦的なPS5版モンスターハンターワイルズ。令和に生きる狩られ道",
       "url": "https://youtu.be/Ks3VK_2dcWY?si",
@@ -2424,25 +2310,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "6a39c21bbb31",
-      "title": "解鎖のアルシュベルド 銃槍ペア4'28\"66",
-      "url": "https://youtu.be/Edye3SW0Vf0?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-01T00:51:49.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "50fcac5e5963",
@@ -2505,6 +2372,27 @@
       "isNew": false
     },
     {
+      "id": "87883d147d7b",
+      "title": "11時まで【鼓膜破壊型モンハン】モンスターハンターワイルズ第133回 楽しくたくさん狩ろう！【参加型】初見大歓迎🔰",
+      "url": "https://t.co/rgHBA6BIoS",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-31T23:26:09.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "67fcd29fa21a",
       "title": "『バイオハザード』30周年の額装アートと『モンハン』ゴグマジオスXLフィギュアの予約情報が公開！",
       "url": "https://www.appbank.net/2026/11/01/iphone-news/3150477.php",
@@ -2515,25 +2403,6 @@
       "image": "https://www.appbank.net/wp-content/uploads/2026/10/20261030_174401_026_01.webp",
       "categories": [
         "new",
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "9f5ff66b6d9c",
-      "title": "【2026年11月】モンスターハンターの一番くじ最新一覧｜発売予定とコンビニ取扱店舗",
-      "url": "https://charagoo.jp/monsterhunter-lottery/",
-      "host": "charagoo.jp",
-      "source": "キャラグー",
-      "summary": "",
-      "publishedAt": "2026-10-31T19:56:44.000Z",
-      "image": "",
-      "categories": [
         "goods"
       ],
       "series": [],
