@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-03T22:30:25.203Z",
+  "updatedAt": "2026-11-03T23:00:15.250Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 102,
+  "total": 103,
   "todayCount": 5,
   "categories": [
     {
@@ -32,7 +32,7 @@
     {
       "id": "goods",
       "label": "グッズ・フィギュア",
-      "count": 4
+      "count": 3
     },
     {
       "id": "media",
@@ -62,19 +62,19 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 50
+      "count": 52
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 44
+      "count": 45
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 1
+      "count": 2
     },
     {
       "id": "world",
@@ -104,7 +104,7 @@
     },
     {
       "name": "YouTube",
-      "count": 27
+      "count": 28
     },
     {
       "name": "電撃オンライン",
@@ -135,10 +135,6 @@
       "count": 1
     },
     {
-      "name": "Excite エキサイト",
-      "count": 1
-    },
-    {
       "name": "はてなブログ",
       "count": 1
     },
@@ -152,6 +148,10 @@
     },
     {
       "name": "ウォーカープラス",
+      "count": 1
+    },
+    {
+      "name": "Howl.Link",
       "count": 1
     },
     {
@@ -398,12 +398,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-03T21:55:34.358Z",
-    "previousCount": 105,
+    "previousAt": "2026-11-03T22:30:25.203Z",
+    "previousCount": 102,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-03T23:00:25.203Z",
+  "nextUpdateAt": "2026-11-03T23:30:15.250Z",
   "items": [
     {
       "id": "a43b030414e1",
@@ -1012,7 +1012,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fa5e00ea2aea",
@@ -2003,25 +2003,6 @@
       "isNew": false
     },
     {
-      "id": "d0c3a1035c51",
-      "title": "『モンハン』デフォルメでも圧倒的威圧感…！「金獅子ラージャン」通常種と激昂した状態の2種がプライズフィギュア「鎮座獣」で登場",
-      "url": "http://www.excite.co.jp/news/article/Inside_190249/",
-      "host": "excite.co.jp",
-      "source": "Excite エキサイト",
-      "summary": "",
-      "publishedAt": "2026-11-02T08:01:13.000Z",
-      "image": "",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "c88fa62b0665",
       "title": "Mハシとは何者？ランス実況やモンハン寸劇で知られる配信者のプロフィール・活動を紹介",
       "url": "https://suicapenguindiary.hatenablog.com/entry/2026/11/02/165109",
@@ -2249,7 +2230,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "488c58093be3",
@@ -2292,6 +2273,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "e775fda94739",
+      "title": "【トロコン中】「モンスターハンターライズ」#56",
+      "url": "https://youtu.be/s9LDGxuUtb4?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-01T13:28:27.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "9058648b85bc",
@@ -2498,6 +2500,27 @@
       "isNew": false
     },
     {
+      "id": "87883d147d7b",
+      "title": "11時まで【鼓膜破壊型モンハン】モンスターハンターワイルズ第133回 楽しくたくさん狩ろう！【参加型】初見大歓迎🔰",
+      "url": "https://t.co/rgHBA6BIoS",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-31T23:26:09.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "67fcd29fa21a",
       "title": "『バイオハザード』30周年の額装アートと『モンハン』ゴグマジオスXLフィギュアの予約情報が公開！",
       "url": "https://www.appbank.net/2026/11/01/iphone-news/3150477.php",
@@ -2525,7 +2548,7 @@
       "source": "ワイルズ公式（Steam）",
       "summary": "You must install the latest version of Monster Hunter Wilds in order to play online multiplayer and access downloadable content. Release Date Tuesday October 2…",
       "publishedAt": "2026-10-28T10:54:39.000Z",
-      "image": "https://clan.akamai.steamstatic.com/images/44795648/0e20be10642d99093ef2af9c518c27a7ead4eb78.jpg",
+      "image": "https://clan.fastly.steamstatic.com/images/44795648/0e20be10642d99093ef2af9c518c27a7ead4eb78.jpg",
       "categories": [
         "update"
       ],
