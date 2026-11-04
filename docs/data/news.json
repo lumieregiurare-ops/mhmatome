@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-04T17:00:21.614Z",
+  "updatedAt": "2026-11-04T17:30:14.258Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 84,
-  "todayCount": 0,
+  "total": 85,
+  "todayCount": 1,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 4
+      "count": 5
     },
     {
       "id": "update",
@@ -32,7 +32,7 @@
     {
       "id": "goods",
       "label": "グッズ・フィギュア",
-      "count": 2
+      "count": 3
     },
     {
       "id": "media",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 41
+      "count": 42
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 31
+      "count": 30
     }
   ],
   "series": [
@@ -144,6 +144,10 @@
     },
     {
       "name": "gamebiz【ゲームビズ】",
+      "count": 1
+    },
+    {
+      "name": "キャラグー",
       "count": 1
     },
     {
@@ -362,13 +366,35 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-04T16:28:03.645Z",
-    "previousCount": 86,
-    "newCount": 1
+    "previousAt": "2026-11-04T17:00:21.614Z",
+    "previousCount": 84,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-04T17:30:21.614Z",
+  "nextUpdateAt": "2026-11-04T18:00:14.258Z",
   "items": [
+    {
+      "id": "60f3de2f47ec",
+      "title": "【モンハンアウトランダーズ】最強キャラランキング【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531927",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-04T16:28:42.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531927.png?date=1793082334",
+      "categories": [
+        "guide",
+        "sales"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "de51f2f1d013",
       "title": "【モンハンアウトランダーズ】主人公(太刀)の評価とおすすめ装備・編成【アウトランダーズ】",
@@ -525,28 +551,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/584088.png?date=1793226879",
       "categories": [
         "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "60f3de2f47ec",
-      "title": "【モンハンアウトランダーズ】最強キャラランキング【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531927",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-04T11:01:17.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531927.png?date=1793082334",
-      "categories": [
-        "guide",
-        "sales"
       ],
       "series": [
         "outlanders"
@@ -786,7 +790,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a32d512021b1",
@@ -1123,6 +1127,27 @@
       "isNew": false
     },
     {
+      "id": "1245dd040906",
+      "title": "【モンハンアウトランダーズ】シュミルの性能とおすすめキャラ【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577650",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-04T08:49:08.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577650.png?date=1790215658",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "60efd86f7108",
       "title": "【モンハンアウトランダーズ】デルシャンの性能とおすすめキャラ【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577654",
@@ -1331,27 +1356,6 @@
       "isNew": false
     },
     {
-      "id": "8a97121d3426",
-      "title": "【モンハンアウトランダーズ】祈願は引くべき?祈願の報酬と天井【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/585784",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-04T05:36:09.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/585784.png?date=1793242574",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "f7361fb174bf",
       "title": "【モンハンワイルズ】★１０ゾシア太刀ソロ挑む！",
       "url": "https://youtu.be/OsGAAIXmv70?si",
@@ -1451,6 +1455,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "6e5a847e9bc1",
+      "title": "モンスターハンターのグッズ一覧・新作情報（ガチャガチャ・プライズ・キャラクターくじ・コラボ・イベント）",
+      "url": "https://charagoo.jp/ip/monsterhunter/",
+      "host": "charagoo.jp",
+      "source": "キャラグー",
+      "summary": "",
+      "publishedAt": "2026-11-03T23:37:20.000Z",
+      "image": "",
+      "categories": [
+        "goods",
+        "new"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "eb845090d947",
