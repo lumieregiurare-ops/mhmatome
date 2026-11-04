@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-04T14:30:23.044Z",
+  "updatedAt": "2026-11-04T15:00:18.134Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 97,
-  "todayCount": 52,
+  "total": 88,
+  "todayCount": 0,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 3
+      "count": 4
     },
     {
       "id": "update",
@@ -52,7 +52,7 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 2
+      "count": 0
     },
     {
       "id": "sales",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 42
+      "count": 34
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 39
+      "count": 29
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 8
+      "count": 5
     },
     {
       "id": "now",
@@ -94,36 +94,36 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 45
+      "count": 46
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 56
+      "count": 55
     },
     {
       "name": "YouTube",
-      "count": 24
+      "count": 14
     },
     {
       "name": "電撃オンライン",
       "count": 3
     },
     {
-      "name": "Game*Spark",
-      "count": 2
-    },
-    {
       "name": "AppBank",
       "count": 1
     },
     {
-      "name": "ｄメニューニュース",
+      "name": "Howl.Link",
       "count": 1
     },
     {
       "name": "ファミ通",
+      "count": 1
+    },
+    {
+      "name": "Saiga NAK",
       "count": 1
     },
     {
@@ -155,7 +155,19 @@
       "count": 1
     },
     {
+      "name": "オリコンニュース",
+      "count": 1
+    },
+    {
       "name": "Yahoo!ニュース",
+      "count": 1
+    },
+    {
+      "name": "Game*Spark",
+      "count": 1
+    },
+    {
+      "name": "Excite エキサイト",
       "count": 1
     },
     {
@@ -164,6 +176,56 @@
     }
   ],
   "topics": [
+    {
+      "id": "04b5687d7969",
+      "title": "【モンハンアウトランダーズ】第2章 灼熱の追撃の攻略チャートと解放要素【アウトランダーズ】",
+      "summary": "",
+      "url": "https://gamewith.jp/mhoutlanders/578584",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/578584.png?date=1793260973",
+      "leadSource": "GameWith",
+      "publishedAt": "2026-11-04T04:14:08.000Z",
+      "sourceCount": 5,
+      "articleCount": 5,
+      "categories": [
+        "guide",
+        "other"
+      ],
+      "keywords": [
+        "アウトランダーズ",
+        "チャート",
+        "モンスターハンターアウトランダーズ"
+      ],
+      "articles": [
+        {
+          "title": "『モンスターハンターアウトランダーズ』が無料チャート1位に初登場（10/26～11/1）",
+          "url": "https://www.sankei.com/article/20261102-HJ2TBZCLZJNR5LS5UN7O2JHJQI/",
+          "source": "産経ニュース",
+          "publishedAt": "2026-11-02T11:31:11.000Z",
+          "isPR": false
+        },
+        {
+          "title": "コメント | 【App Store iPhoneゲームチャート】『モンスターハンターアウトランダーズ』が無料チャート1位に初登場（10/26～11/1）",
+          "url": "https://www.oricon.co.jp/news/2490441/comment/",
+          "source": "オリコンニュース",
+          "publishedAt": "2026-11-02T10:45:29.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【App Store iPhoneゲームチャート】『モンスターハンターアウトランダーズ』が無料チャート1位に初登場（10/26～11/1） (オリコン)",
+          "url": "https://news.yahoo.co.jp/articles/e50c581a2c9b38a3989d9b4209d20b65c5e2d55e/images/000",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-02T10:42:11.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【サービス開始】 モンスターハンターアウトランダーズのグラフィックやばすぎた",
+          "url": "https://youtu.be/04rHwrY_VAg?si",
+          "source": "YouTube",
+          "publishedAt": "2026-11-02T04:25:33.000Z",
+          "isPR": false
+        }
+      ]
+    },
     {
       "id": "abc0b1f2f534",
       "title": "『モンハン』アイルーを再現したモンブラン風スイーツが超かわいい。バンタン文化祭コラボの詳細が解禁",
@@ -204,49 +266,6 @@
           "source": "PR TIMES",
           "publishedAt": "2026-11-04T06:00:01.000Z",
           "isPR": true
-        }
-      ]
-    },
-    {
-      "id": "04b5687d7969",
-      "title": "【モンハンアウトランダーズ】第2章 灼熱の追撃の攻略チャートと解放要素【アウトランダーズ】",
-      "summary": "",
-      "url": "https://gamewith.jp/mhoutlanders/578584",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/578584.png?date=1793260973",
-      "leadSource": "GameWith",
-      "publishedAt": "2026-11-04T04:14:08.000Z",
-      "sourceCount": 4,
-      "articleCount": 4,
-      "categories": [
-        "guide",
-        "other"
-      ],
-      "keywords": [
-        "アウトランダーズ",
-        "チャート",
-        "モンスターハンターアウトランダーズ"
-      ],
-      "articles": [
-        {
-          "title": "『モンスターハンターアウトランダーズ』が無料チャート1位に初登場（10/26～11/1）",
-          "url": "https://www.sankei.com/article/20261102-HJ2TBZCLZJNR5LS5UN7O2JHJQI/",
-          "source": "産経ニュース",
-          "publishedAt": "2026-11-02T11:31:11.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【App Store iPhoneゲームチャート】『モンスターハンターアウトランダーズ』が無料チャート1位に初登場（10/26～11/1） (オリコン)",
-          "url": "https://news.yahoo.co.jp/articles/e50c581a2c9b38a3989d9b4209d20b65c5e2d55e/images/000",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-02T10:42:11.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【サービス開始】 モンスターハンターアウトランダーズのグラフィックやばすぎた",
-          "url": "https://youtu.be/04rHwrY_VAg?si",
-          "source": "YouTube",
-          "publishedAt": "2026-11-02T04:25:33.000Z",
-          "isPR": false
         }
       ]
     },
@@ -379,6 +398,42 @@
       ]
     },
     {
+      "id": "d0266ed3e0b1",
+      "title": "【MHWs】Switch2が壊れる？体験版を限界までプレイした結果…！！【モンハンワイルズ体験版】",
+      "summary": "",
+      "url": "https://youtu.be/ih_9Gd7KCi0?si",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563066.png?date=1780886791",
+      "leadSource": "YouTube",
+      "publishedAt": "2026-11-03T07:26:44.000Z",
+      "sourceCount": 2,
+      "articleCount": 3,
+      "categories": [
+        "new",
+        "guide"
+      ],
+      "keywords": [
+        "モンハンワイルズ",
+        "モンスターハンターワイルズ",
+        "switch2"
+      ],
+      "articles": [
+        {
+          "title": "【モンハンワイルズ】Switch2版の発売日・最新情報【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563066",
+          "source": "GameWith",
+          "publishedAt": "2026-11-02T18:22:04.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】歴戦狩猟の証3の効率的な集め方と使い道【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/487801",
+          "source": "GameWith",
+          "publishedAt": "2026-11-01T18:05:23.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "079e5a4cd2f9",
       "title": "『モンハンNow』新装備アクセサリの詳細判明!! 発動する効果や磨き直しなど気になるポイントガイド",
       "summary": "",
@@ -405,43 +460,15 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "58f6c229cfe8",
-      "title": "【モンハンワイルズ06】歴戦王アルシュベルド 操虫棍 マルチで参戦",
-      "summary": "",
-      "url": "https://youtu.be/wZde-12TVwk",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/548752.png?date=1773678314",
-      "leadSource": "YouTube",
-      "publishedAt": "2026-11-03T07:28:00.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other"
-      ],
-      "keywords": [
-        "モンハンワイルズ",
-        "アルシュベルド",
-        "歴戦王"
-      ],
-      "articles": [
-        {
-          "title": "【モンハンワイルズ】歴戦王アルシュベルド(フリーチャレンジ)のSランクの取り方とチャーム【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/548752",
-          "source": "GameWith",
-          "publishedAt": "2026-11-01T14:48:20.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-04T14:00:17.619Z",
-    "previousCount": 95,
-    "newCount": 5
+    "previousAt": "2026-11-04T14:30:23.044Z",
+    "previousCount": 97,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-04T15:00:23.044Z",
+  "nextUpdateAt": "2026-11-04T15:30:18.134Z",
   "items": [
     {
       "id": "3d596f6fe3e7",
@@ -472,7 +499,7 @@
       "source": "AppBank",
       "summary": "",
       "publishedAt": "2026-11-04T12:22:30.000Z",
-      "image": "",
+      "image": "https://www.appbank.net/wp-content/uploads/2026/11/20261104_154419_761_01.webp",
       "categories": [
         "other"
       ],
@@ -503,6 +530,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "3d0900113214",
+      "title": "MHWilds おしゃれ重ね着 チルハン集会場 モンハンワイルズ",
+      "url": "https://t.co/neisuxdx4v",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-11-04T12:02:11.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "5f4f7d30e3f0",
@@ -968,27 +1017,6 @@
       "isNew": false
     },
     {
-      "id": "f360a4e329fa",
-      "title": "PS Storeで「BLACK FRIDAY SALE」第一弾開催！「ACE COMBAT 8」や「モンスターハンターワイルズ」などがセール！",
-      "url": "https://topics.smt.docomo.ne.jp/article/funglr_games/trend/funglr_games-202611337165?utm_source",
-      "host": "topics.smt.docomo.ne.jp",
-      "source": "ｄメニューニュース",
-      "summary": "",
-      "publishedAt": "2026-11-04T10:10:56.000Z",
-      "image": "https://img.topics.smt.news.goo.ne.jp/picture/funglr_games/m_funglr_games-202611337165.jpg",
-      "categories": [
-        "sale"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "37e49d941582",
       "title": "『モンハン』の世界が文化祭に！ バンタン文化祭2026が11月14日開催。謎解きクエストやコラボカフェなど特別企画を実施【バンタン文化祭2026】",
       "url": "https://www.famitsu.com/article/202611/91788",
@@ -1067,6 +1095,27 @@
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "f360a4e329fa",
+      "title": "PS Storeで「BLACK FRIDAY SALE」第一弾開催！「ACE COMBAT 8」や「モンスターハンターワイルズ」などがセール！",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWREg2MElKODlEQUZST01hVVo2R3RTeWdHS3U1X3poRldLU2loMDhvcGdodWJKRkp0STFlOU5DY0xQRVJDVldUS1d6TFFTeVBWUWRiR3BGbTFCN3g0RTQ3N1ZFaDdZUkk5LXczNEVGTXN3RGZSb0Z3QUQ4Wmdhd9IBfkFVX3lxTFBWREg2MElKODlEQUZST01hVVo2R3RTeWdHS3U1X3poRldLU2loMDhvcGdodWJKRkp0STFlOU5DY0xQRVJDVldUS1d6TFFTeVBWUWRiR3BGbTFCN3g0RTQ3N1ZFaDdZUkk5LXczNEVGTXN3RGZSb0Z3QUQ4Wmdhdw?oc=5",
+      "host": "saiganak.com",
+      "source": "Saiga NAK",
+      "summary": "",
+      "publishedAt": "2026-11-04T09:03:52.000Z",
+      "image": "",
+      "categories": [
+        "sale"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
@@ -1152,7 +1201,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f93d8568eb32",
@@ -1359,7 +1408,7 @@
       "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d224325faedd",
@@ -1591,71 +1640,6 @@
       "isNew": false
     },
     {
-      "id": "4e3047fd3a41",
-      "title": "【MHWilds】歴戦王アルシュベルド/フリーチャレンジクエスト #3【2pt･ｻﾎﾟ無･ｵﾄﾓ有 6′47″81】ポンコツ笛視点👀✨️",
-      "url": "https://youtu.be/xb7U4SdUaiw?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-03T11:14:04.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f37c0e981669",
-      "title": "討伐したリオレウスが消えてしまうwww【ハンマー縛りのワイルズ実況】＃15",
-      "url": "https://youtu.be/Xraj115aKyA?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-03T10:52:13.000Z",
-      "image": "",
-      "categories": [
-        "community"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "68bac76da822",
-      "title": "第1回HIRO杯 出場者紹介PV【MHWilds:モンスターハンターワイルズ】",
-      "url": "https://youtu.be/fjmaGuslzZM?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-03T08:30:02.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "773d99519a2f",
       "title": "モンハンアウトランダーズのコントローラー対応とおすすめ｜実機で試したX5 LiteとG8+",
       "url": "https://iyusuke.jp/mho-controller/",
@@ -1719,6 +1703,28 @@
       "isNew": false
     },
     {
+      "id": "d0266ed3e0b1",
+      "title": "【MHWs】Switch2が壊れる？体験版を限界までプレイした結果…！！【モンハンワイルズ体験版】",
+      "url": "https://youtu.be/ih_9Gd7KCi0?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-03T07:26:44.000Z",
+      "image": "",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "b39a2467e786",
       "title": "【MH Wilds】フリーチャレンジクエスト / 歴戦王アルシュベルド 双剣 ×狩猟笛ペア 04’51”82 / Arch Tempered Arkveld DB×HH Heroics",
       "url": "https://youtu.be/xW7wjMoM8kA?si",
@@ -1738,49 +1744,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "4b5ee0f9773c",
-      "title": "【MHWilds】フリーチャレンジ 生き誇れ、野生の仔 火事場 狩猟笛×双剣ペア 04'51\"82/Arch Tempered Arkveld HH×DB Heroics",
-      "url": "https://youtu.be/MIJjGG6mfjo?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-03T06:50:53.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "ef3a331fd3e5",
-      "title": "初めての体験？メッチャ飛んでて大爆笑！モンスターに向かってダイブ 🐲Monster Hunter Wilds のんびり狩猟生活🍖エンジョイプレイ動画🦉#モンハンワイルズ:#モンハンワイルズアセンダンス",
-      "url": "https://youtu.be/yjGDRRto2DM?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-03T06:18:45.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "e6d79acfa4bd",
@@ -1844,25 +1807,6 @@
       "isNew": false
     },
     {
-      "id": "3c0542122688",
-      "title": "激しい咆哮！『モンハン』より「轟竜ティガレックス」が“鎮座獣”で立体化、たくましい4本脚や牙までデフォルメながら作り込み",
-      "url": "https://www.gamespark.jp/article/2026/11/03/174426.html",
-      "host": "gamespark.jp",
-      "source": "Game*Spark",
-      "summary": "",
-      "publishedAt": "2026-11-03T00:00:03.000Z",
-      "image": "https://www.gamespark.jp/imgs/ogp_f/1214604.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "005afb4e6277",
       "title": "【モンハンワイルズ】祝日だけど朝からハンマーの練習がしたい【参加型】※参加希望の方は概要欄読んでください",
       "url": "https://youtu.be/AeywhaOf6QQ?si",
@@ -1870,27 +1814,6 @@
       "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-11-02T22:57:34.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f2b281d1c3f1",
-      "title": "生き誇れ、野生の仔（歴戦王アルシュベルド／フリーチャレンジクエスト）狩猟笛ソロ5'09\"16 モンハンワイルズ",
-      "url": "https://youtu.be/36r603z7A1M?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-02T21:31:48.000Z",
       "image": "",
       "categories": [
         "other"
@@ -2052,28 +1975,6 @@
       "isNew": false
     },
     {
-      "id": "aa7f8600bdd3",
-      "title": "【MHWilds】フリチャレ「生き誇れ、野生の仔」歴戦王アルシュベルド 太刀 不屈+食事火事場 討伐 6’15”47",
-      "url": "https://youtu.be/JGQkHVWXt7Y?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-02T12:15:51.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "4b44c9cf5fca",
       "title": "『モンスターハンターアウトランダーズ』が無料チャート1位に初登場（10/26～11/1）",
       "url": "https://www.sankei.com/article/20261102-HJ2TBZCLZJNR5LS5UN7O2JHJQI/",
@@ -2095,25 +1996,25 @@
       "isNew": false
     },
     {
-      "id": "f7bf8bf18ca0",
-      "title": "大剣初心者が硬そうな猿とアチアチのタコと戦いました。【へたっぴ大剣冒険日記#15 】モンスターハンターワイルズ",
-      "url": "https://youtu.be/Lq2KFPxg0AA?si",
-      "host": "youtu.be",
-      "source": "YouTube",
+      "id": "eaa290302d18",
+      "title": "コメント | 【App Store iPhoneゲームチャート】『モンスターハンターアウトランダーズ』が無料チャート1位に初登場（10/26～11/1）",
+      "url": "https://www.oricon.co.jp/news/2490441/comment/",
+      "host": "oricon.co.jp",
+      "source": "オリコンニュース",
       "summary": "",
-      "publishedAt": "2026-11-02T10:53:58.000Z",
-      "image": "",
+      "publishedAt": "2026-11-02T10:45:29.000Z",
+      "image": "https://contents.oricon.co.jp/upimg/news/2491000/2490441/20261102_193246_p_l_11798777.jpg",
       "categories": [
         "other"
       ],
       "series": [
-        "wilds"
+        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "9cfdd5784387",
@@ -2156,42 +2057,18 @@
       "isNew": false
     },
     {
-      "id": "f4cbbb9ab9e0",
-      "title": "【MHWilds】 ゆるーく武器コンプ Part9 VOICEROID実況",
-      "url": "https://youtu.be/WTUEsj1UXYM?si",
-      "host": "youtu.be",
-      "source": "YouTube",
+      "id": "3c0542122688",
+      "title": "激しい咆哮！『モンハン』より「轟竜ティガレックス」が“鎮座獣”で立体化、たくましい4本脚や牙までデフォルメながら作り込み",
+      "url": "http://www.excite.co.jp/news/article/Inside_190253/",
+      "host": "excite.co.jp",
+      "source": "Excite エキサイト",
       "summary": "",
-      "publishedAt": "2026-11-02T09:30:52.000Z",
-      "image": "",
-      "categories": [
-        "community"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "0e069d5d2ec4",
-      "title": "第1回ソラのモンハン対談会【モンハンワイルズ】w/いすず、KEMO、七海わかめ",
-      "url": "https://youtu.be/ZX8v8rywekY?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-02T09:30:32.000Z",
+      "publishedAt": "2026-11-02T08:47:43.000Z",
       "image": "",
       "categories": [
         "other"
       ],
-      "series": [
-        "wilds"
-      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -2207,27 +2084,6 @@
       "summary": "",
       "publishedAt": "2026-11-02T08:42:18.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577790.png?date=1789746410",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "8017a504cd91",
-      "title": "[MH Wilds ]生き誇れ、野生の仔 ランスソロ 不屈火事場 6'58\"74 オトモ笛バフあり",
-      "url": "https://youtu.be/xB3L9rdM_oM?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-02T07:20:04.000Z",
-      "image": "",
       "categories": [
         "other"
       ],
@@ -2441,27 +2297,6 @@
       "image": "",
       "categories": [
         "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "468d57e39da7",
-      "title": "【モンハンワイルズ】歴戦王アルシュベルド(フリーチャレンジ)のSランクの取り方とチャーム【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/548752",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-01T14:48:20.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/548752.png?date=1773678314",
-      "categories": [
-        "other"
       ],
       "series": [
         "wilds"
