@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-04T16:00:26.703Z",
+  "updatedAt": "2026-11-04T16:28:03.645Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 87,
+  "total": 86,
   "todayCount": 0,
   "categories": [
     {
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 33
+      "count": 32
     }
   ],
   "series": [
@@ -94,7 +94,7 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 46
+      "count": 45
     }
   ],
   "sources": [
@@ -112,10 +112,6 @@
     },
     {
       "name": "Game*Spark",
-      "count": 2
-    },
-    {
-      "name": "産経ニュース",
       "count": 2
     },
     {
@@ -159,6 +155,10 @@
       "count": 1
     },
     {
+      "name": "産経ニュース",
+      "count": 1
+    },
+    {
       "name": "Yahoo!ニュース",
       "count": 1
     },
@@ -168,56 +168,6 @@
     }
   ],
   "topics": [
-    {
-      "id": "46439193f5a1",
-      "title": "【App Store(11/4)】新作『モンスターハンターアウトランダーズ』が首位をキープ 上位陣に目立った動きはなし",
-      "summary": "",
-      "url": "https://gamebiz.jp/news/434993",
-      "image": "https://i3.gamebiz.jp/media/9e572bc7-8758-4b59-973b-09f496193c3e.jpg",
-      "leadSource": "gamebiz【ゲームビズ】",
-      "publishedAt": "2026-11-04T00:13:00.000Z",
-      "sourceCount": 4,
-      "articleCount": 5,
-      "categories": [
-        "new",
-        "other"
-      ],
-      "keywords": [
-        "アウトランダーズ",
-        "モンスターハンターアウトランダーズ",
-        "app"
-      ],
-      "articles": [
-        {
-          "title": "『モンスターハンターアウトランダーズ』が無料チャート1位に初登場（10/26～11/1）",
-          "url": "https://www.sankei.com/article/20261102-HJ2TBZCLZJNR5LS5UN7O2JHJQI/",
-          "source": "産経ニュース",
-          "publishedAt": "2026-11-02T11:31:11.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「App Store 無料 iPhone ゲームチャート」1位の『モンスターハンターアウトランダーズ』（2026年10月26日～11月1日）",
-          "url": "https://www.sankei.com/article/20261102-HJ2TBZCLZJNR5LS5UN7O2JHJQI/photo/QDH4CSYU7BLPZETHR6QHM7BW54/",
-          "source": "産経ニュース",
-          "publishedAt": "2026-11-02T11:31:11.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【App Store iPhoneゲームチャート】『モンスターハンターアウトランダーズ』が無料チャート1位に初登場（10/26～11/1） (オリコン)",
-          "url": "https://news.yahoo.co.jp/articles/e50c581a2c9b38a3989d9b4209d20b65c5e2d55e/images/000",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-02T10:42:11.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【サービス開始】 モンスターハンターアウトランダーズのグラフィックやばすぎた",
-          "url": "https://youtu.be/04rHwrY_VAg?si",
-          "source": "YouTube",
-          "publishedAt": "2026-11-02T04:25:33.000Z",
-          "isPR": false
-        }
-      ]
-    },
     {
       "id": "abc0b1f2f534",
       "title": "『モンハン』アイルーを再現したモンブラン風スイーツが超かわいい。バンタン文化祭コラボの詳細が解禁",
@@ -258,6 +208,49 @@
           "source": "PR TIMES",
           "publishedAt": "2026-11-04T06:00:01.000Z",
           "isPR": true
+        }
+      ]
+    },
+    {
+      "id": "46439193f5a1",
+      "title": "【App Store(11/4)】新作『モンスターハンターアウトランダーズ』が首位をキープ 上位陣に目立った動きはなし",
+      "summary": "",
+      "url": "https://gamebiz.jp/news/434993",
+      "image": "https://i3.gamebiz.jp/media/9e572bc7-8758-4b59-973b-09f496193c3e.jpg",
+      "leadSource": "gamebiz【ゲームビズ】",
+      "publishedAt": "2026-11-04T00:13:00.000Z",
+      "sourceCount": 4,
+      "articleCount": 4,
+      "categories": [
+        "new",
+        "other"
+      ],
+      "keywords": [
+        "アウトランダーズ",
+        "モンスターハンターアウトランダーズ",
+        "app"
+      ],
+      "articles": [
+        {
+          "title": "『モンスターハンターアウトランダーズ』が無料チャート1位に初登場（10/26～11/1）",
+          "url": "https://www.sankei.com/article/20261102-HJ2TBZCLZJNR5LS5UN7O2JHJQI/",
+          "source": "産経ニュース",
+          "publishedAt": "2026-11-02T11:31:11.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【App Store iPhoneゲームチャート】『モンスターハンターアウトランダーズ』が無料チャート1位に初登場（10/26～11/1） (オリコン)",
+          "url": "https://news.yahoo.co.jp/articles/e50c581a2c9b38a3989d9b4209d20b65c5e2d55e/images/000",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-02T10:42:11.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【サービス開始】 モンスターハンターアウトランダーズのグラフィックやばすぎた",
+          "url": "https://youtu.be/04rHwrY_VAg?si",
+          "source": "YouTube",
+          "publishedAt": "2026-11-02T04:25:33.000Z",
+          "isPR": false
         }
       ]
     },
@@ -455,12 +448,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-04T15:30:19.315Z",
+    "previousAt": "2026-11-04T16:00:26.703Z",
     "previousCount": 87,
-    "newCount": 2
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-04T16:30:26.703Z",
+  "nextUpdateAt": "2026-11-04T16:58:03.645Z",
   "items": [
     {
       "id": "de51f2f1d013",
@@ -544,7 +537,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a8c62e3a20b7",
@@ -1259,6 +1252,27 @@
       "isNew": false
     },
     {
+      "id": "8b5ba8b0b14e",
+      "title": "【モンハンアウトランダーズ】フューイの性能とおすすめキャラ【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577659",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-04T08:49:03.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577659.png?date=1790216942",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "1aa840bc698f",
       "title": "【モンハンアウトランダーズ】ペイゾンの性能とおすすめキャラ【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577658",
@@ -1349,27 +1363,6 @@
       "summary": "",
       "publishedAt": "2026-11-04T07:26:06.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559642.png?date=1793226347",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "0f45c1692464",
-      "title": "【モンハンアウトランダーズ】ルタコインの効率的な集め方【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/560176",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-04T07:24:10.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560176.png?date=1789017307",
       "categories": [
         "guide"
       ],
@@ -1984,27 +1977,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "adf3bd8bd24e",
-      "title": "「App Store 無料 iPhone ゲームチャート」1位の『モンスターハンターアウトランダーズ』（2026年10月26日～11月1日）",
-      "url": "https://www.sankei.com/article/20261102-HJ2TBZCLZJNR5LS5UN7O2JHJQI/photo/QDH4CSYU7BLPZETHR6QHM7BW54/",
-      "host": "sankei.com",
-      "source": "産経ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-02T11:31:11.000Z",
-      "image": "https://www.sankei.com/resizer/v2/QDH4CSYU7BLPZETHR6QHM7BW54.jpg?auth=4335808a3971c733a0cee9ea5489137edb2d8e8b16391ee12e109fee76f0936d&quality=50&smart=true&width=1200&height=675",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "9cfdd5784387",
