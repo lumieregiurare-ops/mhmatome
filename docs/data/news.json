@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-05T06:30:20.799Z",
+  "updatedAt": "2026-11-05T07:00:24.588Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 75,
-  "todayCount": 28,
+  "total": 74,
+  "todayCount": 30,
   "categories": [
     {
       "id": "new",
@@ -17,7 +17,7 @@
     {
       "id": "update",
       "label": "アップデート",
-      "count": 1
+      "count": 2
     },
     {
       "id": "event",
@@ -27,7 +27,7 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 3
+      "count": 4
     },
     {
       "id": "goods",
@@ -57,12 +57,12 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 2
+      "count": 3
     },
     {
       "id": "other",
       "label": "その他",
-      "count": 28
+      "count": 25
     }
   ],
   "series": [
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 51
+      "count": 49
     },
     {
       "name": "YouTube",
@@ -115,12 +115,12 @@
       "count": 2
     },
     {
-      "name": "Game*Spark",
+      "name": "Unisba Media",
       "count": 2
     },
     {
-      "name": "X",
-      "count": 1
+      "name": "Game*Spark",
+      "count": 2
     },
     {
       "name": "AppBank",
@@ -248,7 +248,7 @@
       "title": "【モンハンワイルズ】歴戦王アルシュベルド(フリーチャレンジ)のSランクの取り方とチャーム【モンスターハンターワイルズ】",
       "summary": "",
       "url": "https://gamewith.jp/mhwilds/548752",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/548752.png?date=1773678314",
       "leadSource": "GameWith",
       "publishedAt": "2026-11-04T17:00:05.000Z",
       "sourceCount": 2,
@@ -284,7 +284,7 @@
       "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
       "summary": "",
       "url": "https://gamewith.jp/mhwilds/563077",
-      "image": "https://cimg.kgl-systems.io/camion/files/92773/ogp_NxcY.jpg?x=1280",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
       "leadSource": "GameWith",
       "publishedAt": "2026-11-04T10:28:18.000Z",
       "sourceCount": 2,
@@ -311,6 +311,34 @@
           "url": "https://gamewith.jp/mhwilds/574841",
           "source": "GameWith",
           "publishedAt": "2026-11-02T15:55:08.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "955a550775a6",
+      "title": "【モンハンワイルズ弓】超回復装備をアップデートしたら下手ハンでも乙らないはず #まおきー",
+      "summary": "",
+      "url": "https://youtu.be/5n2iV6ASlsU?si",
+      "image": "",
+      "leadSource": "YouTube",
+      "publishedAt": "2026-11-04T16:17:09.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "update",
+        "guide"
+      ],
+      "keywords": [
+        "モンハンワイルズ",
+        "アップデート"
+      ],
+      "articles": [
+        {
+          "title": "クリアほぼ不可能だと話題の零式オメガ野良救難に挑戦してみる【モンハンワイルズ×FF14コラボ アップデート】 Michele Bravi (kLk6mWAwUu)",
+          "url": "https://media.unisba.ac.id/63eed9e8/ff3e873dDjIoRAdCIQA6G1o/",
+          "source": "Unisba Media",
+          "publishedAt": "2026-11-04T12:15:18.000Z",
           "isPR": false
         }
       ]
@@ -345,12 +373,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-05T06:00:16.350Z",
-    "previousCount": 74,
-    "newCount": 2
+    "previousAt": "2026-11-05T06:30:20.799Z",
+    "previousCount": 75,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-05T07:00:20.799Z",
+  "nextUpdateAt": "2026-11-05T07:30:24.588Z",
   "items": [
     {
       "id": "c50fb94399e9",
@@ -393,6 +421,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "4ba20a779de1",
+      "title": "【モンハンアウトランダーズ】太刀最強装備【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/584269",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-05T05:02:37.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/584269.png?date=1793226905",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "ea27694f7437",
@@ -448,6 +497,27 @@
       "categories": [
         "guide",
         "sales"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "2d3ed020ccc5",
+      "title": "【モンハンアウトランダーズ】ガチャおすすめと一覧│引くべきガチャ【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531924",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-05T03:49:22.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531924.png?date=1793225649",
+      "categories": [
+        "guide"
       ],
       "series": [
         "outlanders"
@@ -627,6 +697,27 @@
       "isNew": false
     },
     {
+      "id": "c48aa4f29771",
+      "title": "【モンハンアウトランダーズ】大剣最強装備【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/584088",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-05T02:13:55.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/584088.png?date=1793226879",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "3d596f6fe3e7",
       "title": "【モンハンアウトランダーズ】序盤の効率的な進め方【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/531932",
@@ -718,28 +809,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-05T00:56:48.000Z",
-      "image": "",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "c48aa4f29771",
-      "title": "【モンハンアウトランダーズ】大剣最強装備【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/584088",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-05T00:39:06.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/584088.png?date=1793226879",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577461.png?date=1790214525",
       "categories": [
         "guide"
       ],
@@ -802,7 +872,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-05T00:09:07.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560263.png?date=1793362696",
       "categories": [
         "other"
       ],
@@ -813,26 +883,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "0ce28856139e",
-      "title": "亜紗@モンハン写真部 (@p3dq4) on X - X",
-      "url": "https://x.com/intent/like?tweet_id",
-      "host": "x.com",
-      "source": "X",
-      "summary": "",
-      "publishedAt": "2026-11-04T22:34:55.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fd20f3f63e0d",
@@ -854,6 +905,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "91e6612879a4",
+      "title": "【ずんだもん解説】カプコン株急落は本当にワイルズが原因なのか？／好決算でも株価が下がる理由（モンハンワイルズ） 【Monster Hunter Wilds】 Quinte News (Nd96Cjpovd)",
+      "url": "https://media.unisba.ac.id/d433a5ad/3e5ebb80GQsWIzJBJjsgRQU",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-11-04T20:54:47.000Z",
+      "image": "",
+      "categories": [
+        "sales"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "6440692bf3d2",
@@ -884,7 +956,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-04T17:00:05.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/548752.png?date=1773678314",
       "categories": [
         "other"
       ],
@@ -948,7 +1020,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-04T14:40:04.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
       "categories": [
         "guide"
       ],
@@ -967,28 +1039,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-04T14:25:08.000Z",
-      "image": "",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "2d3ed020ccc5",
-      "title": "【モンハンアウトランダーズ】ガチャおすすめと一覧│引くべきガチャ【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531924",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-04T12:34:25.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577470.png?date=1790214930",
       "categories": [
         "guide"
       ],
@@ -1021,6 +1072,28 @@
       "isNew": false
     },
     {
+      "id": "84b4bf461aff",
+      "title": "クリアほぼ不可能だと話題の零式オメガ野良救難に挑戦してみる【モンハンワイルズ×FF14コラボ アップデート】 Michele Bravi (kLk6mWAwUu)",
+      "url": "https://media.unisba.ac.id/63eed9e8/ff3e873dDjIoRAdCIQA6G1o/",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-11-04T12:15:18.000Z",
+      "image": "",
+      "categories": [
+        "update",
+        "collab"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "3a6d0385a177",
       "title": "【モンハンアウトランダーズ】リュウノスケの評価とおすすめ装備・編成【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577455",
@@ -1028,7 +1101,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-04T12:07:26.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577455.png?date=1790214244",
       "categories": [
         "guide"
       ],
@@ -1091,7 +1164,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-04T11:33:13.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577459.png?date=1790214418",
       "categories": [
         "guide"
       ],
@@ -1112,7 +1185,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-04T10:37:16.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577469.png?date=1790214889",
       "categories": [
         "guide"
       ],
@@ -1133,7 +1206,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-04T10:37:16.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577468.png?date=1790214845",
       "categories": [
         "guide"
       ],
@@ -1154,7 +1227,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-04T10:37:11.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577464.png?date=1790214658",
       "categories": [
         "guide"
       ],
@@ -1175,7 +1248,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-04T10:37:11.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577463.png?date=1790214602",
       "categories": [
         "guide"
       ],
@@ -1196,7 +1269,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-04T10:37:09.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577462.png?date=1790214565",
       "categories": [
         "guide"
       ],
@@ -1217,28 +1290,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-04T10:37:09.000Z",
-      "image": "",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "5aebc693cc9e",
-      "title": "【モンハンアウトランダーズ】アケニアの評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577458",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-04T10:37:06.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577460.png?date=1790214483",
       "categories": [
         "guide"
       ],
@@ -1259,7 +1311,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-04T10:37:04.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583506.png?date=1792581205",
       "categories": [
         "guide"
       ],
@@ -1280,7 +1332,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-04T10:37:01.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583505.png?date=1792581250",
       "categories": [
         "guide"
       ],
@@ -1301,7 +1353,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-04T10:28:18.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
       "categories": [
         "other"
       ],
@@ -1669,7 +1721,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-02T20:45:05.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577281.png?date=1789571405",
       "categories": [
         "other"
       ],
@@ -1711,7 +1763,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-02T18:22:04.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563066.png?date=1780886791",
       "categories": [
         "new"
       ],
@@ -1732,7 +1784,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-02T15:55:08.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574841.png?date=1789771579",
       "categories": [
         "other"
       ],
@@ -1753,7 +1805,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-02T14:26:06.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577734.png?date=1789765976",
       "categories": [
         "other"
       ],
@@ -1857,48 +1909,6 @@
       "summary": "",
       "publishedAt": "2026-11-02T08:42:18.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577790.png?date=1789746410",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "411bb4076b94",
-      "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/575038",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-02T06:59:11.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d8b95bbbc335",
-      "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563040",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-02T06:46:05.000Z",
-      "image": "",
       "categories": [
         "other"
       ],
