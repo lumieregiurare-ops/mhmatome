@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-05T11:30:18.232Z",
+  "updatedAt": "2026-11-05T12:00:17.813Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 77,
-  "todayCount": 41,
+  "total": 78,
+  "todayCount": 42,
   "categories": [
     {
       "id": "new",
@@ -17,7 +17,7 @@
     {
       "id": "update",
       "label": "アップデート",
-      "count": 1
+      "count": 2
     },
     {
       "id": "event",
@@ -27,7 +27,7 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 3
+      "count": 4
     },
     {
       "id": "goods",
@@ -69,12 +69,12 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 19
+      "count": 20
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 0
+      "count": 1
     },
     {
       "id": "world",
@@ -89,12 +89,12 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 0
+      "count": 1
     },
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 42
+      "count": 40
     }
   ],
   "sources": [
@@ -105,6 +105,10 @@
     {
       "name": "YouTube",
       "count": 8
+    },
+    {
+      "name": "Unisba Media",
+      "count": 3
     },
     {
       "name": "電撃オンライン",
@@ -119,19 +123,11 @@
       "count": 2
     },
     {
-      "name": "産経ニュース",
-      "count": 2
-    },
-    {
       "name": "コラボカフェ",
       "count": 1
     },
     {
       "name": "X",
-      "count": 1
-    },
-    {
-      "name": "Unisba Media",
       "count": 1
     },
     {
@@ -152,6 +148,10 @@
     },
     {
       "name": "ニコニコニュース",
+      "count": 1
+    },
+    {
+      "name": "AppMedia",
       "count": 1
     },
     {
@@ -285,37 +285,29 @@
       ]
     },
     {
-      "id": "46439193f5a1",
-      "title": "【App Store(11/4)】新作『モンスターハンターアウトランダーズ』が首位をキープ 上位陣に目立った動きはなし",
+      "id": "955a550775a6",
+      "title": "【モンハンワイルズ弓】超回復装備をアップデートしたら下手ハンでも乙らないはず #まおきー",
       "summary": "",
-      "url": "https://gamebiz.jp/news/434993",
-      "image": "https://i3.gamebiz.jp/media/9e572bc7-8758-4b59-973b-09f496193c3e.jpg",
-      "leadSource": "gamebiz【ゲームビズ】",
-      "publishedAt": "2026-11-04T00:13:00.000Z",
+      "url": "https://youtu.be/5n2iV6ASlsU?si",
+      "image": "",
+      "leadSource": "YouTube",
+      "publishedAt": "2026-11-04T16:17:09.000Z",
       "sourceCount": 2,
-      "articleCount": 3,
+      "articleCount": 2,
       "categories": [
-        "new",
-        "other"
+        "update",
+        "guide"
       ],
       "keywords": [
-        "アウトランダーズ",
-        "モンスターハンターアウトランダーズ",
-        "app"
+        "モンハンワイルズ",
+        "アップデート"
       ],
       "articles": [
         {
-          "title": "『モンスターハンターアウトランダーズ』が無料チャート1位に初登場（10/26～11/1）",
-          "url": "https://www.sankei.com/article/20261102-HJ2TBZCLZJNR5LS5UN7O2JHJQI/?outputType",
-          "source": "産経ニュース",
-          "publishedAt": "2026-11-02T11:31:11.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「App Store 無料 iPhone ゲームチャート」1位の『モンスターハンターアウトランダーズ』（2026年10月26日～11月1日）",
-          "url": "https://www.sankei.com/article/20261102-HJ2TBZCLZJNR5LS5UN7O2JHJQI/photo/QDH4CSYU7BLPZETHR6QHM7BW54/",
-          "source": "産経ニュース",
-          "publishedAt": "2026-11-02T11:31:11.000Z",
+          "title": "クリアほぼ不可能だと話題の零式オメガ野良救難に挑戦してみる【モンハンワイルズ×FF14コラボ アップデート】 Michele Bravi (kLk6mWAwUu)",
+          "url": "https://media.unisba.ac.id/63eed9e8/ff3e873dDjIoRAdCIQA6G1o/",
+          "source": "Unisba Media",
+          "publishedAt": "2026-11-04T12:15:18.000Z",
           "isPR": false
         }
       ]
@@ -350,13 +342,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-05T11:00:15.910Z",
+    "previousAt": "2026-11-05T11:30:18.232Z",
     "previousCount": 77,
-    "newCount": 1
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-05T12:00:18.232Z",
+  "nextUpdateAt": "2026-11-05T12:30:17.813Z",
   "items": [
+    {
+      "id": "278fbd5d3ae7",
+      "title": "【モンハンアウトランダーズ】フィーヤはいつ実装？【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/586524",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-05T10:43:11.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586524.png?date=1793708718",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "83c2cd6f4a1b",
       "title": "【モンハンアウトランダーズ】ストーリー攻略チャート【アウトランダーズ】",
@@ -1146,7 +1159,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6440692bf3d2",
@@ -1272,6 +1285,28 @@
       "isNew": false
     },
     {
+      "id": "84b4bf461aff",
+      "title": "クリアほぼ不可能だと話題の零式オメガ野良救難に挑戦してみる【モンハンワイルズ×FF14コラボ アップデート】 Michele Bravi (kLk6mWAwUu)",
+      "url": "https://media.unisba.ac.id/63eed9e8/ff3e873dDjIoRAdCIQA6G1o/",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-11-04T12:15:18.000Z",
+      "image": "",
+      "categories": [
+        "update",
+        "collab"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "3a6d0385a177",
       "title": "【モンハンアウトランダーズ】リュウノスケの評価とおすすめ装備・編成【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577455",
@@ -1307,27 +1342,6 @@
       "series": [
         "wilds",
         "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "2e9feb56cfad",
-      "title": "【モンハンアウトランダーズ】コジローの性能とおすすめキャラ【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577648",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-04T11:47:12.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577648.png?date=1792756159",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1500,6 +1514,27 @@
       "isNew": false
     },
     {
+      "id": "d3cd7084b2c3",
+      "title": "【モンハンストーリーズ3】最強装備まとめ【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79849634",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-04T08:05:16.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/174453_f690s.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "31e83e5617a3",
       "title": "バンタン文化祭2026 ×「モンスターハンター」の詳細解禁！「大狩猟のハンター肉飯」など“モンハン飯”が登場するカフェや生徒デザインの限定Tシャツなど4つのコラボ企画で世界観に没入",
       "url": "https://prtimes.jp/main/html/rd/p/000000287.000054535.html",
@@ -1620,6 +1655,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "c6474c5d392e",
+      "title": "参加型［モンスターハンターライズ Vol.77］イベクエわくわく！ひよっこ隊長！(´ω｀*)з Leveon Moss (FqZi2k7eAt)",
+      "url": "https://media.unisba.ac.id/0ddd92a9/5541bfc5FC4LHTNnAxcRNwk/",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-11-03T18:30:42.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "1b23dc62d569",
@@ -1907,48 +1963,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4b44c9cf5fca",
-      "title": "『モンスターハンターアウトランダーズ』が無料チャート1位に初登場（10/26～11/1）",
-      "url": "https://www.sankei.com/article/20261102-HJ2TBZCLZJNR5LS5UN7O2JHJQI/?outputType",
-      "host": "sankei.com",
-      "source": "産経ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-02T11:31:11.000Z",
-      "image": "https://www.sankei.com/resizer/v2/QDH4CSYU7BLPZETHR6QHM7BW54.jpg?auth=4335808a3971c733a0cee9ea5489137edb2d8e8b16391ee12e109fee76f0936d&quality=50&smart=true&width=1200&height=675",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "adf3bd8bd24e",
-      "title": "「App Store 無料 iPhone ゲームチャート」1位の『モンスターハンターアウトランダーズ』（2026年10月26日～11月1日）",
-      "url": "https://www.sankei.com/article/20261102-HJ2TBZCLZJNR5LS5UN7O2JHJQI/photo/QDH4CSYU7BLPZETHR6QHM7BW54/",
-      "host": "sankei.com",
-      "source": "産経ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-02T11:31:11.000Z",
-      "image": "https://www.sankei.com/resizer/v2/QDH4CSYU7BLPZETHR6QHM7BW54.jpg?auth=4335808a3971c733a0cee9ea5489137edb2d8e8b16391ee12e109fee76f0936d&quality=50&smart=true&width=1200&height=675",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
