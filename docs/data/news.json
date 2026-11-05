@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T13:00:16.626Z",
+  "updatedAt": "2026-11-05T13:30:21.965Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 77,
-  "todayCount": 45,
+  "todayCount": 46,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 34
+      "count": 33
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 29
+      "count": 30
     }
   ],
   "series": [
@@ -89,18 +89,18 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 0
+      "count": 1
     },
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 40
+      "count": 39
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 48
+      "count": 47
     },
     {
       "name": "YouTube",
@@ -151,7 +151,11 @@
       "count": 1
     },
     {
-      "name": "Mantan Web",
+      "name": "AppMedia",
+      "count": 1
+    },
+    {
+      "name": "PR TIMES",
       "count": 1
     },
     {
@@ -338,13 +342,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-05T12:30:17.963Z",
-    "previousCount": 76,
-    "newCount": 1
+    "previousAt": "2026-11-05T13:00:16.626Z",
+    "previousCount": 77,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-05T13:30:16.626Z",
+  "nextUpdateAt": "2026-11-05T14:00:21.965Z",
   "items": [
+    {
+      "id": "83c2cd6f4a1b",
+      "title": "【モンハンアウトランダーズ】ストーリー攻略チャート【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531933",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-05T12:06:08.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531933.png?date=1793227277",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "3a6d0385a177",
       "title": "【モンハンアウトランダーズ】リュウノスケの評価とおすすめ装備・編成【アウトランダーズ】",
@@ -430,16 +455,16 @@
       "isNew": false
     },
     {
-      "id": "3b6025e4ffff",
-      "title": "【モンハンアウトランダーズ】最強装備まとめ【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/559642",
+      "id": "a6c58e355c5a",
+      "title": "【モンハンアウトランダーズ】群竜チャレンジの報酬とコツ【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/576028",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-05T10:24:21.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559642.png?date=1793226347",
+      "publishedAt": "2026-11-05T10:29:20.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/576028.png?date=1790662033",
       "categories": [
-        "guide"
+        "other"
       ],
       "series": [
         "outlanders"
@@ -448,17 +473,17 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
-      "id": "83c2cd6f4a1b",
-      "title": "【モンハンアウトランダーズ】ストーリー攻略チャート【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531933",
+      "id": "3b6025e4ffff",
+      "title": "【モンハンアウトランダーズ】最強装備まとめ【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/559642",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-05T09:56:30.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531933.png?date=1793227277",
+      "publishedAt": "2026-11-05T10:24:21.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559642.png?date=1793226347",
       "categories": [
         "guide"
       ],
@@ -1304,27 +1329,6 @@
       "isNew": false
     },
     {
-      "id": "de51f2f1d013",
-      "title": "【モンハンアウトランダーズ】主人公(太刀)の評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577470",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-04T14:25:08.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577470.png?date=1790214930",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "a8c62e3a20b7",
       "title": "『モンスターハンター』×バンタン文化祭2026！ ハンター肉飯やアイルーのラテアートが登場、11月14日開催",
       "url": "https://www.appbank.net/2026/11/04/iphone-news/3154357.php",
@@ -1380,27 +1384,6 @@
       "series": [
         "wilds",
         "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "b42f88b40196",
-      "title": "【モンハンアウトランダーズ】ロードの評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/583506",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-04T10:37:04.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583506.png?date=1792581205",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1510,21 +1493,42 @@
       "isNew": false
     },
     {
+      "id": "d3cd7084b2c3",
+      "title": "【モンハンストーリーズ3】最強装備まとめ【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79849634",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-04T08:05:16.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "31e83e5617a3",
       "title": "バンタン文化祭2026 ×「モンスターハンター」の詳細解禁！「大狩猟のハンター肉飯」など“モンハン飯”が登場するカフェや生徒デザインの限定Tシャツなど4つのコラボ企画で世界観に没入",
-      "url": "https://mantan-web.jp/prtimes/article/20261104prt00m200001050a/photopage/001.html",
-      "host": "mantan-web.jp",
-      "source": "Mantan Web",
+      "url": "https://prtimes.jp/main/html/rd/p/000000287.000054535.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
       "summary": "",
-      "publishedAt": "2026-11-04T06:00:00.000Z",
-      "image": "https://prtimes.jp/img/54535/287/resize/d54535-287-d42867f4c5b8e2466b04-0.jpg",
+      "publishedAt": "2026-11-04T06:00:01.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/54535/287/54535-287-0b5ba3f786e3454e325fca407c0af554-3449x2086.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "categories": [
         "collab",
         "goods"
       ],
       "series": [],
       "isOfficial": false,
-      "isPR": false,
+      "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -1859,7 +1863,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f4f222ac2e2d",
