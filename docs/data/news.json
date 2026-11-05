@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T05:00:15.744Z",
+  "updatedAt": "2026-11-05T05:30:17.180Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 77,
-  "todayCount": 23,
+  "todayCount": 24,
   "categories": [
     {
       "id": "new",
@@ -47,7 +47,7 @@
     {
       "id": "sale",
       "label": "セール",
-      "count": 2
+      "count": 1
     },
     {
       "id": "community",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 27
+      "count": 28
     }
   ],
   "series": [
@@ -74,7 +74,7 @@
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 1
+      "count": 0
     },
     {
       "id": "world",
@@ -119,6 +119,10 @@
       "count": 2
     },
     {
+      "name": "X",
+      "count": 1
+    },
+    {
       "name": "AppBank",
       "count": 1
     },
@@ -160,10 +164,6 @@
     },
     {
       "name": "Yahoo!ニュース",
-      "count": 1
-    },
-    {
-      "name": "AUTOMATON",
       "count": 1
     }
   ],
@@ -377,12 +377,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-05T04:30:16.736Z",
-    "previousCount": 76,
+    "previousAt": "2026-11-05T05:00:15.744Z",
+    "previousCount": 77,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-05T05:30:15.744Z",
+  "nextUpdateAt": "2026-11-05T06:00:17.180Z",
   "items": [
     {
       "id": "fa5f63e461a4",
@@ -393,6 +393,49 @@
       "summary": "",
       "publishedAt": "2026-11-05T04:37:11.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531937.png?date=1793226114",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "60f3de2f47ec",
+      "title": "【モンハンアウトランダーズ】最強キャラランキング【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531927",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-05T04:05:12.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531927.png?date=1793082334",
+      "categories": [
+        "guide",
+        "sales"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "a42c36a0ba91",
+      "title": "【モンハンアウトランダーズ】課金要素まとめとおすすめパック【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/560244",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-05T03:47:29.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560244.png?date=1793262813",
       "categories": [
         "guide"
       ],
@@ -721,6 +764,25 @@
       "isNew": false
     },
     {
+      "id": "0ce28856139e",
+      "title": "亜紗@モンハン写真部 (@p3dq4) on X - X",
+      "url": "https://x.com/intent/like?tweet_id",
+      "host": "x.com",
+      "source": "X",
+      "summary": "",
+      "publishedAt": "2026-11-04T22:34:55.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "fd20f3f63e0d",
       "title": "【モンハンアウトランダーズ】主人公(弓)の評価とおすすめ装備・編成【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577466",
@@ -729,27 +791,6 @@
       "summary": "",
       "publishedAt": "2026-11-04T22:10:27.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577466.png?date=1790214739",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "a42c36a0ba91",
-      "title": "【モンハンアウトランダーズ】課金要素まとめとおすすめパック【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/560244",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-04T21:47:05.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560244.png?date=1793262813",
       "categories": [
         "guide"
       ],
@@ -773,28 +814,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586566.png?date=1793781037",
       "categories": [
         "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "60f3de2f47ec",
-      "title": "【モンハンアウトランダーズ】最強キャラランキング【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531927",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-04T18:11:36.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531927.png?date=1793082334",
-      "categories": [
-        "guide",
-        "sales"
       ],
       "series": [
         "outlanders"
@@ -969,7 +988,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3a6d0385a177",
@@ -1961,27 +1980,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "9de1705fab5e",
-      "title": "Nintendo Switch 2/Switch向けセールで大粒多めの170本追加。『ライザのアトリエ』決定版が最安値更新、『モンハンライズ：サンブレイク』や『ロマサガ2』リメイクなども最安値級",
-      "url": "https://automaton-media.com/articles/newsjp/20261102-477097/",
-      "host": "automaton-media.com",
-      "source": "AUTOMATON",
-      "summary": "ニンテンドーeショップにて11月2日、Nintendo Switch 2/Nintendo Switch向けタイトルの新たなセールが開始された。対象タイトルは約170本。",
-      "publishedAt": "2026-11-02T05:29:53.000Z",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477097-header.jpg",
-      "categories": [
-        "sale"
-      ],
-      "series": [
-        "rise"
       ],
       "isOfficial": false,
       "isPR": false,
