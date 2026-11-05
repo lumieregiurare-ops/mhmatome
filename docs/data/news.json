@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T11:00:15.910Z",
+  "updatedAt": "2026-11-05T11:30:18.232Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 77,
-  "todayCount": 40,
+  "todayCount": 41,
   "categories": [
     {
       "id": "new",
@@ -57,12 +57,12 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 2
+      "count": 3
     },
     {
       "id": "other",
       "label": "その他",
-      "count": 28
+      "count": 27
     }
   ],
   "series": [
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 48
+      "count": 47
     },
     {
       "name": "YouTube",
@@ -128,6 +128,10 @@
     },
     {
       "name": "X",
+      "count": 1
+    },
+    {
+      "name": "Unisba Media",
       "count": 1
     },
     {
@@ -346,12 +350,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-05T10:30:16.784Z",
-    "previousCount": 78,
-    "newCount": 2
+    "previousAt": "2026-11-05T11:00:15.910Z",
+    "previousCount": 77,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-05T11:30:15.910Z",
+  "nextUpdateAt": "2026-11-05T12:00:18.232Z",
   "items": [
     {
       "id": "83c2cd6f4a1b",
@@ -1124,6 +1128,27 @@
       "isNew": false
     },
     {
+      "id": "91e6612879a4",
+      "title": "【ずんだもん解説】カプコン株急落は本当にワイルズが原因なのか？／好決算でも株価が下がる理由（モンハンワイルズ） 【Monster Hunter Wilds】 Quinte News (Nd96Cjpovd)",
+      "url": "https://media.unisba.ac.id/d433a5ad/3e5ebb80GQsWIzJBJjsgRQU",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-11-04T20:54:47.000Z",
+      "image": "",
+      "categories": [
+        "sales"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "6440692bf3d2",
       "title": "【モンハンアウトランダーズ】ルガ・エアルダの弱点と攻略【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/586566",
@@ -1350,7 +1375,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b42f88b40196",
@@ -1924,27 +1949,6 @@
       ],
       "series": [
         "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "52788ae2dac3",
-      "title": "【アセンダンス】太刀の新要素とブーストアクション【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/452299",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-02T11:06:07.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/452299.png?date=1789747738",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
