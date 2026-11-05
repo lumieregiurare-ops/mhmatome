@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-05T06:00:16.350Z",
+  "updatedAt": "2026-11-05T06:30:20.799Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 74,
-  "todayCount": 26,
+  "total": 75,
+  "todayCount": 28,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 38
+      "count": 37
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 26
+      "count": 28
     }
   ],
   "series": [
@@ -117,6 +117,10 @@
     {
       "name": "Game*Spark",
       "count": 2
+    },
+    {
+      "name": "X",
+      "count": 1
     },
     {
       "name": "AppBank",
@@ -244,7 +248,7 @@
       "title": "【モンハンワイルズ】歴戦王アルシュベルド(フリーチャレンジ)のSランクの取り方とチャーム【モンスターハンターワイルズ】",
       "summary": "",
       "url": "https://gamewith.jp/mhwilds/548752",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/548752.png?date=1773678314",
+      "image": "",
       "leadSource": "GameWith",
       "publishedAt": "2026-11-04T17:00:05.000Z",
       "sourceCount": 2,
@@ -280,7 +284,7 @@
       "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
       "summary": "",
       "url": "https://gamewith.jp/mhwilds/563077",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
+      "image": "https://cimg.kgl-systems.io/camion/files/92773/ogp_NxcY.jpg?x=1280",
       "leadSource": "GameWith",
       "publishedAt": "2026-11-04T10:28:18.000Z",
       "sourceCount": 2,
@@ -341,12 +345,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-05T05:30:17.180Z",
-    "previousCount": 77,
+    "previousAt": "2026-11-05T06:00:16.350Z",
+    "previousCount": 74,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-05T06:30:16.350Z",
+  "nextUpdateAt": "2026-11-05T07:00:20.799Z",
   "items": [
     {
       "id": "c50fb94399e9",
@@ -380,6 +384,27 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577465.png?date=1790214699",
       "categories": [
         "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "ea27694f7437",
+      "title": "【モンハンアウトランダーズ】リセマラのやり方と所要時間｜何連引ける？【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531931",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-05T05:00:06.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531931.png?date=1793082187",
+      "categories": [
+        "other"
       ],
       "series": [
         "outlanders"
@@ -662,7 +687,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "25e8224e1b23",
@@ -693,7 +718,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-05T00:56:48.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577461.png?date=1790214525",
+      "image": "",
       "categories": [
         "guide"
       ],
@@ -767,17 +792,17 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
-      "id": "ea27694f7437",
-      "title": "【モンハンアウトランダーズ】リセマラのやり方と所要時間｜何連引ける？【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531931",
+      "id": "0fa16261f863",
+      "title": "【モンハンアウトランダーズ】エナジー(スタミナ)の回復方法と使い道【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/560263",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-04T23:10:19.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531931.png?date=1793082187",
+      "publishedAt": "2026-11-05T00:09:07.000Z",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -788,7 +813,26 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
+    },
+    {
+      "id": "0ce28856139e",
+      "title": "亜紗@モンハン写真部 (@p3dq4) on X - X",
+      "url": "https://x.com/intent/like?tweet_id",
+      "host": "x.com",
+      "source": "X",
+      "summary": "",
+      "publishedAt": "2026-11-04T22:34:55.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "fd20f3f63e0d",
@@ -840,7 +884,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-04T17:00:05.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/548752.png?date=1773678314",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -904,7 +948,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-04T14:40:04.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
+      "image": "",
       "categories": [
         "guide"
       ],
@@ -923,7 +967,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-04T14:25:08.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577470.png?date=1790214930",
+      "image": "",
       "categories": [
         "guide"
       ],
@@ -944,7 +988,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-04T12:34:25.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531924.png?date=1793225649",
+      "image": "",
       "categories": [
         "guide"
       ],
@@ -984,7 +1028,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-04T12:07:26.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577455.png?date=1790214244",
+      "image": "",
       "categories": [
         "guide"
       ],
@@ -1047,7 +1091,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-04T11:33:13.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577459.png?date=1790214418",
+      "image": "",
       "categories": [
         "guide"
       ],
@@ -1068,7 +1112,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-04T10:37:16.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577469.png?date=1790214889",
+      "image": "",
       "categories": [
         "guide"
       ],
@@ -1089,7 +1133,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-04T10:37:16.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577468.png?date=1790214845",
+      "image": "",
       "categories": [
         "guide"
       ],
@@ -1110,7 +1154,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-04T10:37:11.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577464.png?date=1790214658",
+      "image": "",
       "categories": [
         "guide"
       ],
@@ -1131,7 +1175,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-04T10:37:11.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577463.png?date=1790214602",
+      "image": "",
       "categories": [
         "guide"
       ],
@@ -1152,7 +1196,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-04T10:37:09.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577462.png?date=1790214565",
+      "image": "",
       "categories": [
         "guide"
       ],
@@ -1173,7 +1217,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-04T10:37:09.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577460.png?date=1790214483",
+      "image": "",
       "categories": [
         "guide"
       ],
@@ -1194,7 +1238,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-04T10:37:06.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577458.png?date=1790214381",
+      "image": "",
       "categories": [
         "guide"
       ],
@@ -1215,28 +1259,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-04T10:37:04.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583506.png?date=1792581205",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "0574437f25e8",
-      "title": "【モンハンアウトランダーズ】ブリックスの評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577456",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-04T10:37:04.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577456.png?date=1790214292",
+      "image": "",
       "categories": [
         "guide"
       ],
@@ -1257,7 +1280,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-04T10:37:01.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583505.png?date=1792581250",
+      "image": "",
       "categories": [
         "guide"
       ],
@@ -1278,7 +1301,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-04T10:28:18.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1646,7 +1669,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-02T20:45:05.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577281.png?date=1789571405",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1688,7 +1711,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-02T18:22:04.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563066.png?date=1780886791",
+      "image": "",
       "categories": [
         "new"
       ],
@@ -1709,7 +1732,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-02T15:55:08.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574841.png?date=1789771579",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1730,7 +1753,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-02T14:26:06.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577734.png?date=1789765976",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1854,7 +1877,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-02T06:59:11.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575038.png?date=1789770323",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1875,7 +1898,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-02T06:46:05.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563040.png?date=1789770455",
+      "image": "",
       "categories": [
         "other"
       ],
