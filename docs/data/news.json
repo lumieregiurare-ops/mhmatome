@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-05T15:00:18.984Z",
+  "updatedAt": "2026-11-05T15:30:20.203Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 80,
+  "total": 79,
   "todayCount": 0,
   "categories": [
     {
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 30
+      "count": 29
     }
   ],
   "series": [
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 1
+      "count": 0
     },
     {
       "id": "outlanders",
@@ -151,11 +151,7 @@
       "count": 1
     },
     {
-      "name": "AppMedia",
-      "count": 1
-    },
-    {
-      "name": "Mantan Web",
+      "name": "PR TIMES",
       "count": 1
     },
     {
@@ -356,12 +352,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-05T14:30:56.602Z",
-    "previousCount": 77,
-    "newCount": 5
+    "previousAt": "2026-11-05T15:00:18.984Z",
+    "previousCount": 80,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-05T15:30:18.984Z",
+  "nextUpdateAt": "2026-11-05T16:00:20.203Z",
   "items": [
     {
       "id": "b42f88b40196",
@@ -382,7 +378,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "12d1ac4d89b6",
@@ -404,7 +400,91 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "de51f2f1d013",
+      "title": "【モンハンアウトランダーズ】主人公(太刀)の評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577470",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-05T14:07:20.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577470.png?date=1790214930",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
       "isNew": true
+    },
+    {
+      "id": "8a97121d3426",
+      "title": "【モンハンアウトランダーズ】祈願は引くべき?祈願の報酬と天井【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/585784",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-05T14:06:21.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/585784.png?date=1793242574",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "6cc16e919d3b",
+      "title": "【モンハンアウトランダーズ】マドレの評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577464",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-05T14:03:13.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577464.png?date=1790214658",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "d4123a096654",
+      "title": "【モンハンアウトランダーズ】ペペの評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/561564",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-05T13:45:25.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/561564.png?date=1790214134",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
     },
     {
       "id": "c50fb94399e9",
@@ -459,6 +539,48 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531931.png?date=1793082187",
       "categories": [
         "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "c3ef4d2c6063",
+      "title": "【モンハンアウトランダーズ】主人公(大剣)の評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577471",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-05T13:35:14.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577471.png?date=1790214971",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "755b1c512bf4",
+      "title": "【モンハンアウトランダーズ】おすすめSR(低レア)オトモと無課金育成優先度【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/578991",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-05T13:35:07.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/578991.png?date=1793082492",
+      "categories": [
+        "guide"
       ],
       "series": [
         "outlanders"
@@ -670,27 +792,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/576028.png?date=1790662033",
       "categories": [
         "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3b6025e4ffff",
-      "title": "【モンハンアウトランダーズ】最強装備まとめ【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/559642",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-05T10:24:21.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559642.png?date=1793226347",
-      "categories": [
-        "guide"
       ],
       "series": [
         "outlanders"
@@ -944,48 +1045,6 @@
       "isNew": false
     },
     {
-      "id": "8a97121d3426",
-      "title": "【モンハンアウトランダーズ】祈願は引くべき?祈願の報酬と天井【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/585784",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-05T04:32:34.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/585784.png?date=1793242574",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "755b1c512bf4",
-      "title": "【モンハンアウトランダーズ】おすすめSR(低レア)オトモと無課金育成優先度【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/578991",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-05T03:01:09.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/578991.png?date=1793082492",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "48f27bc980e0",
       "title": "【モンハンアウトランダーズ】取り返しのつかない要素【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/560314",
@@ -1028,27 +1087,6 @@
       "isNew": false
     },
     {
-      "id": "c3ef4d2c6063",
-      "title": "【モンハンアウトランダーズ】主人公(大剣)の評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577471",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-05T02:28:26.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577471.png?date=1790214971",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "4d0165104921",
       "title": "【モンハンアウトランダーズ】スキルシミュレーター【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/584400",
@@ -1057,27 +1095,6 @@
       "summary": "",
       "publishedAt": "2026-11-05T02:15:03.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/584400.png?date=1793197547",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d4123a096654",
-      "title": "【モンハンアウトランダーズ】ペペの評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/561564",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-05T02:14:07.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/561564.png?date=1790214134",
       "categories": [
         "guide"
       ],
@@ -1172,7 +1189,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "04b5687d7969",
@@ -1288,27 +1305,6 @@
       "summary": "",
       "publishedAt": "2026-11-05T00:09:07.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560263.png?date=1793362696",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "5941a833ffd1",
-      "title": "【モンハンアウトランダーズ】巣穴一覧【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/559856",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-04T23:48:16.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559856.png?date=1789010739",
       "categories": [
         "other"
       ],
@@ -1571,42 +1567,21 @@
       "isNew": false
     },
     {
-      "id": "d3cd7084b2c3",
-      "title": "【モンハンストーリーズ3】最強装備まとめ【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79849634",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-04T08:05:16.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/174453_f690s.webp",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "31e83e5617a3",
       "title": "バンタン文化祭2026 ×「モンスターハンター」の詳細解禁！「大狩猟のハンター肉飯」など“モンハン飯”が登場するカフェや生徒デザインの限定Tシャツなど4つのコラボ企画で世界観に没入",
-      "url": "https://mantan-web.jp/prtimes/article/20261104prt00m200001050a/photopage/001.html",
-      "host": "mantan-web.jp",
-      "source": "Mantan Web",
+      "url": "https://prtimes.jp/main/html/rd/p/000000287.000054535.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
       "summary": "",
-      "publishedAt": "2026-11-04T06:00:00.000Z",
-      "image": "https://prtimes.jp/img/54535/287/resize/d54535-287-d42867f4c5b8e2466b04-0.jpg",
+      "publishedAt": "2026-11-04T06:00:01.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/54535/287/54535-287-0b5ba3f786e3454e325fca407c0af554-3449x2086.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "categories": [
         "collab",
         "goods"
       ],
       "series": [],
       "isOfficial": false,
-      "isPR": false,
+      "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -1712,7 +1687,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6e5a847e9bc1",
