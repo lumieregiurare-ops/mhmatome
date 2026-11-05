@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-05T05:30:17.180Z",
+  "updatedAt": "2026-11-05T06:00:16.350Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 77,
-  "todayCount": 24,
+  "total": 74,
+  "todayCount": 26,
   "categories": [
     {
       "id": "new",
@@ -17,7 +17,7 @@
     {
       "id": "update",
       "label": "アップデート",
-      "count": 2
+      "count": 1
     },
     {
       "id": "event",
@@ -27,7 +27,7 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 4
+      "count": 3
     },
     {
       "id": "goods",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 28
+      "count": 26
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 21
+      "count": 19
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 1
+      "count": 0
     },
     {
       "id": "now",
@@ -104,7 +104,7 @@
     },
     {
       "name": "YouTube",
-      "count": 7
+      "count": 6
     },
     {
       "name": "電撃オンライン",
@@ -119,23 +119,15 @@
       "count": 2
     },
     {
-      "name": "X",
-      "count": 1
-    },
-    {
       "name": "AppBank",
       "count": 1
     },
     {
-      "name": "Unisba Media",
-      "count": 1
-    },
-    {
-      "name": "ｄメニューニュース",
-      "count": 1
-    },
-    {
       "name": "ファミ通",
+      "count": 1
+    },
+    {
+      "name": "Saiga NAK",
       "count": 1
     },
     {
@@ -320,34 +312,6 @@
       ]
     },
     {
-      "id": "955a550775a6",
-      "title": "【モンハンワイルズ弓】超回復装備をアップデートしたら下手ハンでも乙らないはず #まおきー",
-      "summary": "",
-      "url": "https://youtu.be/5n2iV6ASlsU?si",
-      "image": "",
-      "leadSource": "YouTube",
-      "publishedAt": "2026-11-04T16:17:09.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "update",
-        "guide"
-      ],
-      "keywords": [
-        "モンハンワイルズ",
-        "アップデート"
-      ],
-      "articles": [
-        {
-          "title": "クリアほぼ不可能だと話題の零式オメガ野良救難に挑戦してみる【モンハンワイルズ×FF14コラボ アップデート】 Michele Bravi (kLk6mWAwUu)",
-          "url": "https://media.unisba.ac.id/63eed9e8/ff3e873dDjIoRAdCIQA6G1o/",
-          "source": "Unisba Media",
-          "publishedAt": "2026-11-04T12:15:18.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "079e5a4cd2f9",
       "title": "『モンハンNow』新装備アクセサリの詳細判明!! 発動する効果や磨き直しなど気になるポイントガイド",
       "summary": "",
@@ -377,13 +341,55 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-05T05:00:15.744Z",
+    "previousAt": "2026-11-05T05:30:17.180Z",
     "previousCount": 77,
-    "newCount": 1
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-05T06:00:17.180Z",
+  "nextUpdateAt": "2026-11-05T06:30:16.350Z",
   "items": [
+    {
+      "id": "c50fb94399e9",
+      "title": "【モンハンアウトランダーズ】リセマラ当たりランキング【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531925",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-05T05:26:16.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531925.png?date=1793082273",
+      "categories": [
+        "sales"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "78d907e0c7ca",
+      "title": "【モンハンアウトランダーズ】ミドリの評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577465",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-05T05:02:57.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577465.png?date=1790214699",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "fa5f63e461a4",
       "title": "【モンハンアウトランダーズ】マップ攻略一覧｜探索ツール【アウトランダーズ】",
@@ -638,16 +644,16 @@
       "isNew": false
     },
     {
-      "id": "c50fb94399e9",
-      "title": "【モンハンアウトランダーズ】リセマラ当たりランキング【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531925",
+      "id": "04b5687d7969",
+      "title": "【モンハンアウトランダーズ】第2章 灼熱の追撃の攻略チャートと解放要素【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/578584",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-05T01:35:27.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531925.png?date=1793082273",
+      "publishedAt": "2026-11-05T01:19:13.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/578584.png?date=1793260973",
       "categories": [
-        "sales"
+        "guide"
       ],
       "series": [
         "outlanders"
@@ -656,7 +662,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "25e8224e1b23",
@@ -743,6 +749,27 @@
       "isNew": false
     },
     {
+      "id": "580a376efe1a",
+      "title": "【モンハンアウトランダーズ】おすすめSR(低レア)キャラと無課金育成優先度【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/559753",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-05T00:12:09.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559753.png?date=1789014409",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "ea27694f7437",
       "title": "【モンハンアウトランダーズ】リセマラのやり方と所要時間｜何連引ける？【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/531931",
@@ -762,25 +789,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "0ce28856139e",
-      "title": "亜紗@モンハン写真部 (@p3dq4) on X - X",
-      "url": "https://x.com/intent/like?tweet_id",
-      "host": "x.com",
-      "source": "X",
-      "summary": "",
-      "publishedAt": "2026-11-04T22:34:55.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "fd20f3f63e0d",
@@ -969,28 +977,6 @@
       "isNew": false
     },
     {
-      "id": "84b4bf461aff",
-      "title": "クリアほぼ不可能だと話題の零式オメガ野良救難に挑戦してみる【モンハンワイルズ×FF14コラボ アップデート】 Michele Bravi (kLk6mWAwUu)",
-      "url": "https://media.unisba.ac.id/63eed9e8/ff3e873dDjIoRAdCIQA6G1o/",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-11-04T12:15:18.000Z",
-      "image": "",
-      "categories": [
-        "update",
-        "collab"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "3a6d0385a177",
       "title": "【モンハンアウトランダーズ】リュウノスケの評価とおすすめ装備・編成【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577455",
@@ -1104,27 +1090,6 @@
       "summary": "",
       "publishedAt": "2026-11-04T10:37:16.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577468.png?date=1790214845",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "78d907e0c7ca",
-      "title": "【モンハンアウトランダーズ】ミドリの評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577465",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-04T10:37:14.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577465.png?date=1790214699",
       "categories": [
         "guide"
       ],
@@ -1306,48 +1271,6 @@
       "isNew": false
     },
     {
-      "id": "06db529e3790",
-      "title": "【モンハンアウトランダーズ】主人公(チャージアックス)の評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/583503",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-04T10:37:01.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583503.png?date=1792581391",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "122ccf573e13",
-      "title": "【モンハンアウトランダーズ】主人公(ハンマー)の評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/583504",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-04T10:37:01.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583504.png?date=1792581337",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "46ab930cbc6c",
       "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/563077",
@@ -1358,27 +1281,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
       "categories": [
         "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f360a4e329fa",
-      "title": "PS Storeで「BLACK FRIDAY SALE」第一弾開催！「ACE COMBAT 8」や「モンスターハンターワイルズ」などがセール！",
-      "url": "https://topics.smt.docomo.ne.jp/article/funglr_games/trend/funglr_games-202611337165?utm_source",
-      "host": "topics.smt.docomo.ne.jp",
-      "source": "ｄメニューニュース",
-      "summary": "",
-      "publishedAt": "2026-11-04T10:10:56.000Z",
-      "image": "https://img.topics.smt.news.goo.ne.jp/picture/funglr_games/m_funglr_games-202611337165.jpg",
-      "categories": [
-        "sale"
       ],
       "series": [
         "wilds"
@@ -1430,6 +1332,27 @@
       "isNew": false
     },
     {
+      "id": "f360a4e329fa",
+      "title": "PS Storeで「BLACK FRIDAY SALE」第一弾開催！「ACE COMBAT 8」や「モンスターハンターワイルズ」などがセール！",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pLUhmQ0xjZm9LdlFYc25PX1c1Ui1LRmtFSHJSckZibk1HUXZ6bFdFWUJIVThVMjZUY2FqNXpvaWNWZm5ILVhlekV2RGJ4c3RtaGdFRGFZWjEtdkdIRS1YdHZtNjRDREMxeDdLamNiS2VZNFc3d1JLN9IBfkFVX3lxTFBWREg2MElKODlEQUZST01hVVo2R3RTeWdHS3U1X3poRldLU2loMDhvcGdodWJKRkp0STFlOU5DY0xQRVJDVldUS1d6TFFTeVBWUWRiR3BGbTFCN3g0RTQ3N1ZFaDdZUkk5LXczNEVGTXN3RGZSb0Z3QUQ4Wmdhdw?oc=5",
+      "host": "saiganak.com",
+      "source": "Saiga NAK",
+      "summary": "",
+      "publishedAt": "2026-11-04T09:03:52.000Z",
+      "image": "",
+      "categories": [
+        "sale"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "abc0b1f2f534",
       "title": "『モンハン』アイルーを再現したモンブラン風スイーツが超かわいい。バンタン文化祭コラボの詳細が解禁",
       "url": "https://news.denfaminicogamer.jp/news/2611042k",
@@ -1464,28 +1387,6 @@
       "series": [],
       "isOfficial": false,
       "isPR": true,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d224325faedd",
-      "title": "［MHWilds］6′57 フリチャレ 歴戦王 アルシュベルド 片手剣 ソロ 不屈 火事場 Arkveld SnS Sword & Shield",
-      "url": "https://youtu.be/vasAm_1BuM8?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-04T05:57:47.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
