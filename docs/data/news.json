@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-05T09:00:36.531Z",
+  "updatedAt": "2026-11-05T09:30:19.492Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 77,
-  "todayCount": 36,
+  "total": 79,
+  "todayCount": 40,
   "categories": [
     {
       "id": "new",
@@ -32,7 +32,7 @@
     {
       "id": "goods",
       "label": "グッズ・フィギュア",
-      "count": 3
+      "count": 4
     },
     {
       "id": "media",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 27
+      "count": 28
     }
   ],
   "series": [
@@ -111,6 +111,10 @@
       "count": 3
     },
     {
+      "name": "玩具人 TOY PEOPLE",
+      "count": 2
+    },
+    {
       "name": "ガジェット通信",
       "count": 2
     },
@@ -119,8 +123,8 @@
       "count": 2
     },
     {
-      "name": "Game*Spark",
-      "count": 2
+      "name": "コラボカフェ",
+      "count": 1
     },
     {
       "name": "X",
@@ -163,6 +167,10 @@
       "count": 1
     },
     {
+      "name": "Game*Spark",
+      "count": 1
+    },
+    {
       "name": "産経ニュース",
       "count": 1
     },
@@ -172,6 +180,42 @@
     }
   ],
   "topics": [
+    {
+      "id": "92bac44921b3",
+      "title": "モンスターハンター × バンタン文化祭 11月14日に全国5校で開催!",
+      "summary": "",
+      "url": "https://collabo-cafe.com/events/collabo/monsterhunter-vantan-bunkasai-2026/",
+      "image": "https://collabo-cafe.com/wp-content/uploads/monsterhunter-vantan-bunkasai-2026-keyvisual.jpg",
+      "leadSource": "コラボカフェ",
+      "publishedAt": "2026-11-05T08:56:17.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "other",
+        "collab"
+      ],
+      "keywords": [
+        "バンタン",
+        "文化祭",
+        "開催"
+      ],
+      "articles": [
+        {
+          "title": "『モンスターハンター』×バンタン文化祭2026！ ハンター肉飯やアイルーのラテアートが登場、11月14日開催",
+          "url": "https://www.appbank.net/2026/11/04/iphone-news/3154357.php",
+          "source": "AppBank",
+          "publishedAt": "2026-11-04T12:22:30.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『モンハン』の世界が文化祭に！ バンタン文化祭2026が11月14日開催。謎解きクエストやコラボカフェなど特別企画を実施【バンタン文化祭2026】",
+          "url": "https://www.famitsu.com/article/202611/91788",
+          "source": "ファミ通",
+          "publishedAt": "2026-11-04T10:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
     {
       "id": "46439193f5a1",
       "title": "【App Store(11/4)】新作『モンスターハンターアウトランダーズ』が首位をキープ 上位陣に目立った動きはなし",
@@ -309,35 +353,6 @@
       ]
     },
     {
-      "id": "a8c62e3a20b7",
-      "title": "『モンスターハンター』×バンタン文化祭2026！ ハンター肉飯やアイルーのラテアートが登場、11月14日開催",
-      "summary": "",
-      "url": "https://www.appbank.net/2026/11/04/iphone-news/3154357.php",
-      "image": "https://www.appbank.net/wp-content/uploads/2026/11/20261104_154419_761_01.webp",
-      "leadSource": "AppBank",
-      "publishedAt": "2026-11-04T12:22:30.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other",
-        "collab"
-      ],
-      "keywords": [
-        "バンタン",
-        "文化祭",
-        "日開催"
-      ],
-      "articles": [
-        {
-          "title": "『モンハン』の世界が文化祭に！ バンタン文化祭2026が11月14日開催。謎解きクエストやコラボカフェなど特別企画を実施【バンタン文化祭2026】",
-          "url": "https://www.famitsu.com/article/202611/91788",
-          "source": "ファミ通",
-          "publishedAt": "2026-11-04T10:00:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "079e5a4cd2f9",
       "title": "『モンハンNow』新装備アクセサリの詳細判明!! 発動する効果や磨き直しなど気になるポイントガイド",
       "summary": "",
@@ -367,13 +382,112 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-05T08:30:15.584Z",
-    "previousCount": 76,
-    "newCount": 3
+    "previousAt": "2026-11-05T09:00:36.531Z",
+    "previousCount": 77,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-05T09:30:36.531Z",
+  "nextUpdateAt": "2026-11-05T10:00:19.492Z",
   "items": [
+    {
+      "id": "ff97dcbe7c1b",
+      "title": "BANPRESTOプライズ「モンスターハンター 鎮座獣 ラージャン／激昂したラージャン～破壊と滅亡の申し子～」ソフビフィギュアが登場！",
+      "url": "https://www.toy-people.com/jp/?p",
+      "host": "toy-people.com",
+      "source": "玩具人 TOY PEOPLE",
+      "summary": "",
+      "publishedAt": "2026-11-05T09:12:25.000Z",
+      "image": "https://www.toy-people.com/img/90_90_logo.gif",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "79a17b7332f8",
+      "title": "【モンハンアウトランダーズ】ラヤの評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577463",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-05T09:04:15.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577463.png?date=1790214602",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "6a32e21155b3",
+      "title": "BANPRESTOプライズ「モンスターハンター 鎮座獣 ティガレックス～絶対強者～」が2026年11月登場！迫力の咆哮を再現",
+      "url": "https://www.toy-people.com/jp/?p",
+      "host": "toy-people.com",
+      "source": "玩具人 TOY PEOPLE",
+      "summary": "",
+      "publishedAt": "2026-11-05T09:03:34.000Z",
+      "image": "https://www.toy-people.com/img/90_90_logo.gif",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "92bac44921b3",
+      "title": "モンスターハンター × バンタン文化祭 11月14日に全国5校で開催!",
+      "url": "https://collabo-cafe.com/events/collabo/monsterhunter-vantan-bunkasai-2026/",
+      "host": "collabo-cafe.com",
+      "source": "コラボカフェ",
+      "summary": "",
+      "publishedAt": "2026-11-05T08:56:17.000Z",
+      "image": "https://collabo-cafe.com/wp-content/uploads/monsterhunter-vantan-bunkasai-2026-keyvisual.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "78d907e0c7ca",
+      "title": "【モンハンアウトランダーズ】ミドリの評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577465",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-05T08:19:36.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577465.png?date=1790214699",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "60f3de2f47ec",
       "title": "【モンハンアウトランダーズ】最強キャラランキング【アウトランダーズ】",
@@ -481,27 +595,6 @@
       "isNew": false
     },
     {
-      "id": "78d907e0c7ca",
-      "title": "【モンハンアウトランダーズ】ミドリの評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577465",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-05T05:02:57.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577465.png?date=1790214699",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "4ba20a779de1",
       "title": "【モンハンアウトランダーズ】太刀最強装備【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/584269",
@@ -562,7 +655,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fa5f63e461a4",
@@ -1001,7 +1094,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fd20f3f63e0d",
@@ -1305,27 +1398,6 @@
       "summary": "",
       "publishedAt": "2026-11-04T10:37:16.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577469.png?date=1790214889",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "2e567b33a6af",
-      "title": "【モンハンアウトランダーズ】フォリオの評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577462",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-04T10:37:09.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577462.png?date=1790214565",
       "categories": [
         "guide"
       ],
@@ -1643,7 +1715,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8faa7a97cf5c",
@@ -1953,25 +2025,6 @@
       "series": [
         "outlanders"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d0c3a1035c51",
-      "title": "『モンハン』デフォルメでも圧倒的威圧感…！「金獅子ラージャン」通常種と激昂した状態の2種がプライズフィギュア「鎮座獣」で登場",
-      "url": "https://www.gamespark.jp/article/2026/11/02/174395.html",
-      "host": "gamespark.jp",
-      "source": "Game*Spark",
-      "summary": "",
-      "publishedAt": "2026-11-02T09:45:02.000Z",
-      "image": "https://www.gamespark.jp/imgs/ogp_f/1214644.jpg",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
