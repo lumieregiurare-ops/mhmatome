@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-05T12:30:17.963Z",
+  "updatedAt": "2026-11-05T13:00:16.626Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 76,
+  "total": 77,
   "todayCount": 45,
   "categories": [
     {
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 28
+      "count": 29
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 20
+      "count": 21
     },
     {
       "id": "rise",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 47
+      "count": 48
     },
     {
       "name": "YouTube",
@@ -338,12 +338,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-05T12:00:17.813Z",
-    "previousCount": 78,
-    "newCount": 2
+    "previousAt": "2026-11-05T12:30:17.963Z",
+    "previousCount": 76,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-05T13:00:17.963Z",
+  "nextUpdateAt": "2026-11-05T13:30:16.626Z",
   "items": [
     {
       "id": "3a6d0385a177",
@@ -398,6 +398,27 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586524.png?date=1793708718",
       "categories": [
         "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "2d3ed020ccc5",
+      "title": "【モンハンアウトランダーズ】ガチャおすすめと一覧│引くべきガチャ【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531924",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-05T10:33:22.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531924.png?date=1793225649",
+      "categories": [
+        "guide"
       ],
       "series": [
         "outlanders"
@@ -779,27 +800,6 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "2d3ed020ccc5",
-      "title": "【モンハンアウトランダーズ】ガチャおすすめと一覧│引くべきガチャ【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531924",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-05T03:49:22.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531924.png?date=1793225649",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
       "isNew": false
     },
     {
@@ -1157,7 +1157,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0ce28856139e",
@@ -1803,7 +1803,7 @@
     {
       "id": "3c0542122688",
       "title": "激しい咆哮！『モンハン』より「轟竜ティガレックス」が“鎮座獣”で立体化、たくましい4本脚や牙までデフォルメながら作り込み",
-      "url": "https://www.gamespark.jp/article/2026/11/03/174426.html?from",
+      "url": "https://www.gamespark.jp/article/2026/11/03/174426.html",
       "host": "gamespark.jp",
       "source": "Game*Spark",
       "summary": "",
@@ -1839,6 +1839,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "488c58093be3",
+      "title": "【アセンダンス】ガンランスの操作と新要素・ブーストアクション【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/577811",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-02T20:32:30.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577811.png?date=1789764143",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "f4f222ac2e2d",
