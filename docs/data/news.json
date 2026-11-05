@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-05T02:00:14.272Z",
+  "updatedAt": "2026-11-05T02:28:41.074Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 79,
-  "todayCount": 13,
+  "total": 81,
+  "todayCount": 14,
   "categories": [
     {
       "id": "new",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 29
+      "count": 31
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 23
+      "count": 24
     },
     {
       "id": "rise",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 54
+      "count": 55
     },
     {
       "name": "YouTube",
@@ -113,6 +113,10 @@
     {
       "name": "Game*Spark",
       "count": 2
+    },
+    {
+      "name": "X",
+      "count": 1
     },
     {
       "name": "AppBank",
@@ -345,12 +349,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-05T01:30:17.943Z",
-    "previousCount": 80,
-    "newCount": 0
+    "previousAt": "2026-11-05T02:00:14.272Z",
+    "previousCount": 79,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-05T02:30:14.272Z",
+  "nextUpdateAt": "2026-11-05T02:58:41.074Z",
   "items": [
     {
       "id": "a43b030414e1",
@@ -435,6 +439,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "0ce28856139e",
+      "title": "亜紗@モンハン写真部 (@p3dq4) on X - X",
+      "url": "https://x.com/intent/like?tweet_id",
+      "host": "x.com",
+      "source": "X",
+      "summary": "",
+      "publishedAt": "2026-11-04T22:34:55.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "fd20f3f63e0d",
@@ -1627,7 +1650,7 @@
     {
       "id": "3c0542122688",
       "title": "激しい咆哮！『モンハン』より「轟竜ティガレックス」が“鎮座獣”で立体化、たくましい4本脚や牙までデフォルメながら作り込み",
-      "url": "https://www.gamespark.jp/article/2026/11/03/174426.html",
+      "url": "https://www.gamespark.jp/article/2026/11/03/174426.html?from",
       "host": "gamespark.jp",
       "source": "Game*Spark",
       "summary": "",
@@ -1789,6 +1812,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "52788ae2dac3",
+      "title": "【アセンダンス】太刀の新要素とブーストアクション【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/452299",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-02T11:06:07.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/452299.png?date=1789747738",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "9cfdd5784387",
