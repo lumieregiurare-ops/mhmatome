@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T23:00:21.962Z",
+  "updatedAt": "2026-11-05T23:30:16.989Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 77,
-  "todayCount": 7,
+  "todayCount": 8,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 37
+      "count": 38
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 27
+      "count": 26
     }
   ],
   "series": [
@@ -317,13 +317,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-05T22:30:15.814Z",
+    "previousAt": "2026-11-05T23:00:21.962Z",
     "previousCount": 77,
-    "newCount": 0
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-05T23:30:21.962Z",
+  "nextUpdateAt": "2026-11-06T00:00:16.989Z",
   "items": [
+    {
+      "id": "a42c36a0ba91",
+      "title": "【モンハンアウトランダーズ】課金要素まとめとおすすめパック【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/560244",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-05T19:32:09.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560244.png?date=1793262813",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "5f4f7d30e3f0",
       "title": "【モンハンアウトランダーズ】クレスの評価とおすすめ装備・編成【アウトランダーズ】",
@@ -747,27 +768,6 @@
       "isNew": false
     },
     {
-      "id": "a42c36a0ba91",
-      "title": "【モンハンアウトランダーズ】課金要素まとめとおすすめパック【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/560244",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-05T13:39:18.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560244.png?date=1793262813",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "e08e6c8ea2a8",
       "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/563104",
@@ -1104,27 +1104,6 @@
       "isNew": false
     },
     {
-      "id": "a6c58e355c5a",
-      "title": "【モンハンアウトランダーズ】群竜チャレンジの報酬とコツ【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/576028",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-05T10:29:20.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/576028.png?date=1790662033",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "0ce28856139e",
       "title": "亜紗@モンハン写真部 (@p3dq4) on X - X",
       "url": "https://x.com/intent/like?tweet_id",
@@ -1323,6 +1302,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "c48aa4f29771",
+      "title": "【モンハンアウトランダーズ】大剣最強装備【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/584088",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-05T02:13:55.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/584088.png?date=1793226879",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "f1e344fb9da2",
