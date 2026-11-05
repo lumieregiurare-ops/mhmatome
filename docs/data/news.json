@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-05T04:00:16.577Z",
+  "updatedAt": "2026-11-05T04:30:16.736Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 78,
-  "todayCount": 23,
+  "total": 76,
+  "todayCount": 22,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 39
+      "count": 38
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 28
+      "count": 27
     }
   ],
   "series": [
@@ -94,13 +94,13 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 43
+      "count": 42
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 52
+      "count": 51
     },
     {
       "name": "YouTube",
@@ -117,10 +117,6 @@
     {
       "name": "Game*Spark",
       "count": 2
-    },
-    {
-      "name": "X",
-      "count": 1
     },
     {
       "name": "AppBank",
@@ -349,12 +345,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-05T03:30:14.882Z",
+    "previousAt": "2026-11-05T04:00:16.577Z",
     "previousCount": 78,
-    "newCount": 2
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-05T04:30:16.577Z",
+  "nextUpdateAt": "2026-11-05T05:00:16.736Z",
   "items": [
     {
       "id": "e4e0f463fac1",
@@ -388,6 +384,27 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560314.png?date=1793276254",
       "categories": [
         "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "28fa7ffdc007",
+      "title": "【モンハンアウトランダーズ】序盤おすすめ装備【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/581392",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-05T02:30:06.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/581392.png?date=1793225716",
+      "categories": [
+        "guide"
       ],
       "series": [
         "outlanders"
@@ -522,7 +539,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c50fb94399e9",
@@ -564,7 +581,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a43b030414e1",
@@ -644,25 +661,6 @@
       "series": [
         "outlanders"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "0ce28856139e",
-      "title": "亜紗@モンハン写真部 (@p3dq4) on X - X",
-      "url": "https://x.com/intent/like?tweet_id",
-      "host": "x.com",
-      "source": "X",
-      "summary": "",
-      "publishedAt": "2026-11-04T22:34:55.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -784,27 +782,6 @@
       "summary": "",
       "publishedAt": "2026-11-04T16:52:20.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577467.png?date=1790214807",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "28fa7ffdc007",
-      "title": "【モンハンアウトランダーズ】序盤おすすめ装備【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/581392",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-04T16:51:05.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/581392.png?date=1793225716",
       "categories": [
         "guide"
       ],
@@ -1372,27 +1349,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "60efd86f7108",
-      "title": "【モンハンアウトランダーズ】デルシャンの性能とおすすめキャラ【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577654",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-04T08:49:07.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577654.png?date=1790215839",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
