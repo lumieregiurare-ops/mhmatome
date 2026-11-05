@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-05T01:30:17.943Z",
+  "updatedAt": "2026-11-05T02:00:14.272Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 80,
-  "todayCount": 12,
+  "total": 79,
+  "todayCount": 13,
   "categories": [
     {
       "id": "new",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 30
+      "count": 29
     }
   ],
   "series": [
@@ -94,7 +94,7 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 44
+      "count": 43
     }
   ],
   "sources": [
@@ -104,7 +104,7 @@
     },
     {
       "name": "YouTube",
-      "count": 9
+      "count": 8
     },
     {
       "name": "電撃オンライン",
@@ -215,8 +215,8 @@
       "image": "https://i3.gamebiz.jp/media/9e572bc7-8758-4b59-973b-09f496193c3e.jpg",
       "leadSource": "gamebiz【ゲームビズ】",
       "publishedAt": "2026-11-04T00:13:00.000Z",
-      "sourceCount": 4,
-      "articleCount": 4,
+      "sourceCount": 3,
+      "articleCount": 3,
       "categories": [
         "new",
         "other"
@@ -239,13 +239,6 @@
           "url": "https://news.yahoo.co.jp/articles/e50c581a2c9b38a3989d9b4209d20b65c5e2d55e/images/000",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-11-02T10:42:11.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【サービス開始】 モンスターハンターアウトランダーズのグラフィックやばすぎた",
-          "url": "https://youtu.be/04rHwrY_VAg?si",
-          "source": "YouTube",
-          "publishedAt": "2026-11-02T04:25:33.000Z",
           "isPR": false
         }
       ]
@@ -352,12 +345,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-05T01:00:16.842Z",
+    "previousAt": "2026-11-05T01:30:17.943Z",
     "previousCount": 80,
-    "newCount": 1
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-05T02:00:17.943Z",
+  "nextUpdateAt": "2026-11-05T02:30:14.272Z",
   "items": [
     {
       "id": "a43b030414e1",
@@ -433,6 +426,27 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531931.png?date=1793082187",
       "categories": [
         "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "fd20f3f63e0d",
+      "title": "【モンハンアウトランダーズ】主人公(弓)の評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577466",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-04T22:10:27.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577466.png?date=1790214739",
+      "categories": [
+        "guide"
       ],
       "series": [
         "outlanders"
@@ -925,27 +939,6 @@
       "isNew": false
     },
     {
-      "id": "fd20f3f63e0d",
-      "title": "【モンハンアウトランダーズ】主人公(弓)の評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577466",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-04T10:37:14.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577466.png?date=1790214739",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "d4123a096654",
       "title": "【モンハンアウトランダーズ】ペペの評価とおすすめ装備・編成【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/561564",
@@ -1361,7 +1354,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "abc0b1f2f534",
@@ -1634,7 +1627,7 @@
     {
       "id": "3c0542122688",
       "title": "激しい咆哮！『モンハン』より「轟竜ティガレックス」が“鎮座獣”で立体化、たくましい4本脚や牙までデフォルメながら作り込み",
-      "url": "https://www.gamespark.jp/article/2026/11/03/174426.html?from",
+      "url": "https://www.gamespark.jp/article/2026/11/03/174426.html",
       "host": "gamespark.jp",
       "source": "Game*Spark",
       "summary": "",
@@ -1914,27 +1907,6 @@
       ],
       "series": [
         "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "faee4bbd3240",
-      "title": "【サービス開始】 モンスターハンターアウトランダーズのグラフィックやばすぎた",
-      "url": "https://youtu.be/04rHwrY_VAg?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-02T04:25:33.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
