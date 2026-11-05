@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-05T21:30:18.958Z",
+  "updatedAt": "2026-11-05T22:00:16.459Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 76,
+  "total": 77,
   "todayCount": 7,
   "categories": [
     {
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 26
+      "count": 27
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 19
+      "count": 20
     },
     {
       "id": "rise",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 46
+      "count": 47
     },
     {
       "name": "YouTube",
@@ -209,28 +209,37 @@
       ]
     },
     {
-      "id": "46ab930cbc6c",
-      "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
+      "id": "e08e6c8ea2a8",
+      "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
       "summary": "",
-      "url": "https://gamewith.jp/mhwilds/563077",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
+      "url": "https://gamewith.jp/mhwilds/563104",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563104.png?date=1789770630",
       "leadSource": "GameWith",
-      "publishedAt": "2026-11-05T13:26:11.000Z",
+      "publishedAt": "2026-11-05T13:38:30.000Z",
       "sourceCount": 2,
-      "articleCount": 3,
+      "articleCount": 4,
       "categories": [
-        "other"
+        "other",
+        "guide"
       ],
       "keywords": [
         "モンハンワイルズ",
-        "アセンダンス"
+        "アセンダンス",
+        "最新情報"
       ],
       "articles": [
         {
-          "title": "【アセンダンス】双剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/577734",
+          "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563077",
           "source": "GameWith",
-          "publishedAt": "2026-11-05T13:03:19.000Z",
+          "publishedAt": "2026-11-05T13:26:11.000Z",
+          "isPR": false
+        },
+        {
+          "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
+          "url": "https://gamewith.jp/mhwilds/563096",
+          "source": "GameWith",
+          "publishedAt": "2026-11-05T06:18:12.000Z",
           "isPR": false
         },
         {
@@ -308,12 +317,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-05T21:00:18.877Z",
+    "previousAt": "2026-11-05T21:30:18.958Z",
     "previousCount": 76,
-    "newCount": 0
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-05T22:00:18.958Z",
+  "nextUpdateAt": "2026-11-05T22:30:16.459Z",
   "items": [
     {
       "id": "5f4f7d30e3f0",
@@ -757,6 +766,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "e08e6c8ea2a8",
+      "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/563104",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-05T13:38:30.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563104.png?date=1789770630",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "ea27694f7437",
