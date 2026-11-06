@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-06T20:00:16.660Z",
+  "updatedAt": "2026-11-06T20:30:15.111Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 83,
+  "total": 82,
   "todayCount": 9,
   "categories": [
     {
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 36
+      "count": 35
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 25
+      "count": 24
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 3
+      "count": 2
     },
     {
       "id": "now",
@@ -123,10 +123,6 @@
       "count": 2
     },
     {
-      "name": "Howl.Link",
-      "count": 2
-    },
-    {
       "name": "オタク総研",
       "count": 1
     },
@@ -152,6 +148,10 @@
     },
     {
       "name": "AppBank",
+      "count": 1
+    },
+    {
+      "name": "Howl.Link",
       "count": 1
     },
     {
@@ -352,12 +352,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-06T19:30:16.615Z",
-    "previousCount": 84,
+    "previousAt": "2026-11-06T20:00:16.660Z",
+    "previousCount": 83,
     "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-06T20:30:16.660Z",
+  "nextUpdateAt": "2026-11-06T21:00:15.111Z",
   "items": [
     {
       "id": "83c2cd6f4a1b",
@@ -1811,28 +1811,6 @@
         "other"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3d0900113214",
-      "title": "MHWilds おしゃれ重ね着 チルハン集会場 モンハンワイルズ",
-      "url": "https://t.co/neisuxdx4v",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-11-04T12:02:11.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
