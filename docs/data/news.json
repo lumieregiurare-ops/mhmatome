@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-06T23:00:19.582Z",
+  "updatedAt": "2026-11-06T23:30:16.224Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 87,
-  "todayCount": 17,
+  "total": 86,
+  "todayCount": 19,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 32
+      "count": 33
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 42
+      "count": 40
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 29
+      "count": 28
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 3
+      "count": 2
     },
     {
       "id": "now",
@@ -119,10 +119,6 @@
       "count": 2
     },
     {
-      "name": "Unisba Media",
-      "count": 2
-    },
-    {
       "name": "ガジェット通信",
       "count": 2
     },
@@ -147,6 +143,10 @@
       "count": 1
     },
     {
+      "name": "Unisba Media",
+      "count": 1
+    },
+    {
       "name": "AppBank",
       "count": 1
     },
@@ -163,7 +163,7 @@
       "count": 1
     },
     {
-      "name": "電ファミニコゲーマー",
+      "name": "ニコニコニュース",
       "count": 1
     },
     {
@@ -351,13 +351,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-06T22:30:19.101Z",
-    "previousCount": 85,
-    "newCount": 5
+    "previousAt": "2026-11-06T23:00:19.582Z",
+    "previousCount": 87,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-06T23:30:19.582Z",
+  "nextUpdateAt": "2026-11-07T00:00:16.224Z",
   "items": [
+    {
+      "id": "139e9f532a51",
+      "title": "【モンハンアウトランダーズ】主人公(ヘビィボウガン)の評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577467",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T22:42:12.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577467.png?date=1790214807",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "00fa67d59cd9",
       "title": "【モンハンアウトランダーズ】リオレイア亜種の弱点と攻略【アウトランダーズ】",
@@ -377,7 +398,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d4123a096654",
@@ -394,6 +415,25 @@
       "series": [
         "outlanders"
       ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "ff97dcbe7c1b",
+      "title": "BANPRESTOプライズ「モンスターハンター 鎮座獣 ラージャン／激昂したラージャン～破壊と滅亡の申し子～」ソフビフィギュアが登場！",
+      "url": "https://www.toy-people.com/jp/?p",
+      "host": "toy-people.com",
+      "source": "玩具人 TOY PEOPLE",
+      "summary": "",
+      "publishedAt": "2026-11-06T19:15:29.000Z",
+      "image": "https://www.toy-people.com/img/90_90_logo.gif",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -818,7 +858,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3d596f6fe3e7",
@@ -1201,25 +1241,6 @@
       "isNew": false
     },
     {
-      "id": "ff97dcbe7c1b",
-      "title": "BANPRESTOプライズ「モンスターハンター 鎮座獣 ラージャン／激昂したラージャン～破壊と滅亡の申し子～」ソフビフィギュアが登場！",
-      "url": "https://www.toy-people.com/jp/?p",
-      "host": "toy-people.com",
-      "source": "玩具人 TOY PEOPLE",
-      "summary": "",
-      "publishedAt": "2026-11-06T11:14:16.000Z",
-      "image": "https://www.toy-people.com/img/90_90_logo.gif",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "1c936f4ea4db",
       "title": "モンハンワイルズ、上期販売は「約80万本」過去作ワールド及ばずも、超大型アプデ発表後に「ペース向上」",
       "url": "https://0115765.com/archives/212888",
@@ -1312,27 +1333,6 @@
       "summary": "",
       "publishedAt": "2026-11-06T08:11:42.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/585784.png?date=1793242574",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "bbcfef6b9287",
-      "title": "【モンハンアウトランダーズ】武器と防具強化のやり方と上限【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/560265",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-06T07:39:20.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560265.png?date=1789017922",
       "categories": [
         "other"
       ],
@@ -1505,28 +1505,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "4453b9bbbd1c",
-      "title": "MHWilds【参加型】 #180 ※ロビー入室自由※🫣弓専と行く🏹【モンスターハンターワイルズ】ゆこいちの絶叫GAME部屋 Gs (zyduLVnQZQ)",
-      "url": "https://media.unisba.ac.id/27c58dd4/8ae61adeA1BRMTFAJyIBCjs//",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-11-05T21:36:24.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "411bb4076b94",
@@ -1965,12 +1943,12 @@
     {
       "id": "abc0b1f2f534",
       "title": "『モンハン』アイルーを再現したモンブラン風スイーツが超かわいい。バンタン文化祭コラボの詳細が解禁",
-      "url": "https://news.denfaminicogamer.jp/?p",
-      "host": "news.denfaminicogamer.jp",
-      "source": "電ファミニコゲーマー",
+      "url": "https://news.nicovideo.jp/watch/nw19954742?news_ref",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
       "summary": "",
-      "publishedAt": "2026-11-04T08:10:00.000Z",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2021/08/header.png",
+      "publishedAt": "2026-11-04T08:12:10.000Z",
+      "image": "",
       "categories": [
         "collab"
       ],
@@ -2102,7 +2080,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "bc548e8b4345",
@@ -2144,7 +2122,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6e5a847e9bc1",
