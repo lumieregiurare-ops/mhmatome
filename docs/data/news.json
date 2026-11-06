@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-06T20:30:15.111Z",
+  "updatedAt": "2026-11-06T21:00:16.063Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 82,
-  "todayCount": 9,
+  "total": 85,
+  "todayCount": 11,
   "categories": [
     {
       "id": "new",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 35
+      "count": 38
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 24
+      "count": 27
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 2
+      "count": 4
     },
     {
       "id": "now",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 52
+      "count": 53
     },
     {
       "name": "YouTube",
@@ -119,7 +119,15 @@
       "count": 2
     },
     {
+      "name": "Unisba Media",
+      "count": 2
+    },
+    {
       "name": "ガジェット通信",
+      "count": 2
+    },
+    {
+      "name": "Howl.Link",
       "count": 2
     },
     {
@@ -143,15 +151,7 @@
       "count": 1
     },
     {
-      "name": "Unisba Media",
-      "count": 1
-    },
-    {
       "name": "AppBank",
-      "count": 1
-    },
-    {
-      "name": "Howl.Link",
       "count": 1
     },
     {
@@ -352,12 +352,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-06T20:00:16.660Z",
-    "previousCount": 83,
-    "newCount": 0
+    "previousAt": "2026-11-06T20:30:15.111Z",
+    "previousCount": 82,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-06T21:00:15.111Z",
+  "nextUpdateAt": "2026-11-06T21:30:16.063Z",
   "items": [
     {
       "id": "83c2cd6f4a1b",
@@ -370,6 +370,27 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531933.png?date=1793227277",
       "categories": [
         "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "c50fb94399e9",
+      "title": "【モンハンアウトランダーズ】リセマラ当たりランキング【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531925",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T18:09:41.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531925.png?date=1793082273",
+      "categories": [
+        "sales"
       ],
       "series": [
         "outlanders"
@@ -400,6 +421,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "778fbb3d5344",
+      "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/577281",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T17:29:07.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577281.png?date=1789571405",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "3a6d0385a177",
@@ -1200,27 +1242,6 @@
       "isNew": false
     },
     {
-      "id": "c50fb94399e9",
-      "title": "【モンハンアウトランダーズ】リセマラ当たりランキング【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531925",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-06T08:08:15.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531925.png?date=1793082273",
-      "categories": [
-        "sales"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "7cc6494b340f",
       "title": "【モンハンアウトランダーズ】絵装の厳選方法とおすすめ効果【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/575851",
@@ -1443,6 +1464,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "4453b9bbbd1c",
+      "title": "MHWilds【参加型】 #180 ※ロビー入室自由※🫣弓専と行く🏹【モンスターハンターワイルズ】ゆこいちの絶叫GAME部屋 Gs (zyduLVnQZQ)",
+      "url": "https://media.unisba.ac.id/27c58dd4/8ae61adeA1BRMTFAJyIBCjs//",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-11-05T21:36:24.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "411bb4076b94",
@@ -1816,6 +1859,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "3d0900113214",
+      "title": "MHWilds おしゃれ重ね着 チルハン集会場 モンハンワイルズ",
+      "url": "https://t.co/neisuxdx4v",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-11-04T12:02:11.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "019e6774fa75",
