@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-06T08:30:16.485Z",
+  "updatedAt": "2026-11-06T09:00:16.877Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 79,
-  "todayCount": 37,
+  "total": 81,
+  "todayCount": 41,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 35
+      "count": 36
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 30
+      "count": 31
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 19
+      "count": 21
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 3
+      "count": 4
     },
     {
       "id": "now",
@@ -100,11 +100,15 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 49
+      "count": 50
     },
     {
       "name": "YouTube",
       "count": 6
+    },
+    {
+      "name": "Unisba Media",
+      "count": 3
     },
     {
       "name": "Howl.Link",
@@ -124,10 +128,6 @@
     },
     {
       "name": "ガジェット通信",
-      "count": 2
-    },
-    {
-      "name": "Unisba Media",
       "count": 2
     },
     {
@@ -221,7 +221,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-11-05T23:42:08.000Z",
       "sourceCount": 2,
-      "articleCount": 5,
+      "articleCount": 6,
       "categories": [
         "guide",
         "other"
@@ -232,6 +232,13 @@
         "最新情報"
       ],
       "articles": [
+        {
+          "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/575038",
+          "source": "GameWith",
+          "publishedAt": "2026-11-05T19:44:15.000Z",
+          "isPR": false
+        },
         {
           "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/563104",
@@ -335,13 +342,55 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-06T08:00:15.613Z",
-    "previousCount": 82,
-    "newCount": 1
+    "previousAt": "2026-11-06T08:30:16.485Z",
+    "previousCount": 79,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-06T09:00:16.485Z",
+  "nextUpdateAt": "2026-11-06T09:30:16.877Z",
   "items": [
+    {
+      "id": "48f27bc980e0",
+      "title": "【モンハンアウトランダーズ】取り返しのつかない要素【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/560314",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T08:14:34.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560314.png?date=1793276254",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "8739ae7f6fcb",
+      "title": "【モンハンアウトランダーズ】弓の最強装備【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/584347",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T06:33:08.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/584347.png?date=1793226828",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "de51f2f1d013",
       "title": "【モンハンアウトランダーズ】主人公(太刀)の評価とおすすめ装備・編成【アウトランダーズ】",
@@ -488,6 +537,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "7cc6494b340f",
+      "title": "【モンハンアウトランダーズ】絵装の厳選方法とおすすめ効果【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/575851",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T03:33:52.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575851.png?date=1789454673",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "ea27694f7437",
@@ -800,27 +870,6 @@
       "isNew": false
     },
     {
-      "id": "48f27bc980e0",
-      "title": "【モンハンアウトランダーズ】取り返しのつかない要素【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/560314",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-06T00:23:05.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560314.png?date=1793276254",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "755b1c512bf4",
       "title": "【モンハンアウトランダーズ】おすすめSR(低レア)オトモと無課金育成優先度【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/578991",
@@ -967,6 +1016,28 @@
       "isNew": false
     },
     {
+      "id": "4453b9bbbd1c",
+      "title": "MHWilds【参加型】 #180 ※ロビー入室自由※🫣弓専と行く🏹【モンスターハンターワイルズ】ゆこいちの絶叫GAME部屋 Gs (zyduLVnQZQ)",
+      "url": "https://media.unisba.ac.id/27c58dd4/8ae61adeA1BRMTFAJyIBCjs//",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-11-05T21:36:24.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "fd20f3f63e0d",
       "title": "【モンハンアウトランダーズ】主人公(弓)の評価とおすすめ装備・編成【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577466",
@@ -986,6 +1057,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "411bb4076b94",
+      "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/575038",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-05T19:44:15.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575038.png?date=1789770323",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "0574437f25e8",
@@ -1145,27 +1237,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/585784.png?date=1793242574",
       "categories": [
         "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "8739ae7f6fcb",
-      "title": "【モンハンアウトランダーズ】弓の最強装備【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/584347",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-05T13:52:55.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/584347.png?date=1793226828",
-      "categories": [
-        "guide"
       ],
       "series": [
         "outlanders"
@@ -1378,27 +1449,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "278fbd5d3ae7",
-      "title": "【モンハンアウトランダーズ】フィーヤはいつ実装？【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/586524",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-05T10:43:11.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586524.png?date=1793708718",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1647,7 +1697,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3d0900113214",
