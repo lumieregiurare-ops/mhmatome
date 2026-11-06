@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T02:00:16.331Z",
+  "updatedAt": "2026-11-06T02:30:15.782Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 78,
-  "todayCount": 16,
+  "todayCount": 19,
   "categories": [
     {
       "id": "new",
@@ -27,12 +27,12 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 4
+      "count": 3
     },
     {
       "id": "goods",
       "label": "グッズ・フィギュア",
-      "count": 4
+      "count": 3
     },
     {
       "id": "media",
@@ -52,7 +52,7 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 1
+      "count": 2
     },
     {
       "id": "sales",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 21
+      "count": 20
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 2
+      "count": 1
     },
     {
       "id": "now",
@@ -94,7 +94,7 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 40
+      "count": 41
     }
   ],
   "sources": [
@@ -104,15 +104,15 @@
     },
     {
       "name": "YouTube",
-      "count": 8
-    },
-    {
-      "name": "Unisba Media",
-      "count": 3
+      "count": 9
     },
     {
       "name": "電撃オンライン",
       "count": 3
+    },
+    {
+      "name": "Monster Hunter Now",
+      "count": 2
     },
     {
       "name": "玩具人 TOY PEOPLE",
@@ -123,12 +123,12 @@
       "count": 2
     },
     {
-      "name": "Howl.Link",
+      "name": "Unisba Media",
       "count": 2
     },
     {
-      "name": "Monster Hunter Now",
-      "count": 1
+      "name": "Howl.Link",
+      "count": 2
     },
     {
       "name": "Yahoo!ファイナンス",
@@ -156,10 +156,6 @@
     },
     {
       "name": "電ファミニコゲーマー",
-      "count": 1
-    },
-    {
-      "name": "Mantan Web",
       "count": 1
     },
     {
@@ -233,6 +229,13 @@
       ],
       "articles": [
         {
+          "title": "【モンハンワイルズ】歴戦狩猟の証3の効率的な集め方と使い道【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/487801",
+          "source": "GameWith",
+          "publishedAt": "2026-11-04T16:03:13.000Z",
+          "isPR": false
+        },
+        {
           "title": "モンハンワイルズ:イベクエ歴戦王アルシュベルド・ソロ太刀オトモ有り9分21秒",
           "url": "https://youtu.be/mYK4SyKiNh8?si",
           "source": "YouTube",
@@ -244,13 +247,6 @@
           "url": "https://youtu.be/OsGAAIXmv70?si",
           "source": "YouTube",
           "publishedAt": "2026-11-04T03:59:29.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ】歴戦狩猟の証3の効率的な集め方と使い道【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/487801",
-          "source": "GameWith",
-          "publishedAt": "2026-11-03T22:44:13.000Z",
           "isPR": false
         },
         {
@@ -314,7 +310,7 @@
       "leadSource": "Monster Hunter Now",
       "publishedAt": "2026-11-06T01:14:11.000Z",
       "sourceCount": 2,
-      "articleCount": 2,
+      "articleCount": 3,
       "categories": [
         "other"
       ],
@@ -324,6 +320,13 @@
         "大阪"
       ],
       "articles": [
+        {
+          "title": "『モンスターハンターNowカーニバル 2026：グローバル』",
+          "url": "https://monsterhunternow.com/ja/news/mhn-carnival-2026-global",
+          "source": "Monster Hunter Now",
+          "publishedAt": "2026-11-06T01:14:11.000Z",
+          "isPR": false
+        },
         {
           "title": "『モンハンNow』大連続＆古龍素材UP!! 大阪カーニバルまで継続するうれしい期間限定イベントガイド",
           "url": "https://getnews.jp/archives/3753077",
@@ -363,12 +366,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-06T01:30:15.932Z",
-    "previousCount": 74,
-    "newCount": 4
+    "previousAt": "2026-11-06T02:00:16.331Z",
+    "previousCount": 78,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-06T02:30:16.331Z",
+  "nextUpdateAt": "2026-11-06T03:00:15.782Z",
   "items": [
     {
       "id": "d1a1878e46fa",
@@ -379,6 +382,25 @@
       "summary": "",
       "publishedAt": "2026-11-06T01:14:11.000Z",
       "image": "https://lh3.googleusercontent.com/7dtnMi_zCgj_Pa1tX0Qn92q6a34fOEUIiERkO0X4kPvWieSiw5ndbdxfE5wINRY99haj3-rxBPW0gOV94g5cd_HblGkO85RUBQIsXlttdkI=e365-pa-nu-w1200-rj",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "691b61ebe20d",
+      "title": "『モンスターハンターNowカーニバル 2026：グローバル』",
+      "url": "https://monsterhunternow.com/ja/news/mhn-carnival-2026-global",
+      "host": "monsterhunternow.com",
+      "source": "Monster Hunter Now",
+      "summary": "",
+      "publishedAt": "2026-11-06T01:14:11.000Z",
+      "image": "https://lh3.googleusercontent.com/fkZKWYoeOpLNODbkpoOcxOlHE-_bZeJqVbq0WKtaC3ytj5Nf-LIGiRj3naQcPjBpetMwFCIrShzwrtLm0gFXGA9Rn0OSRgln41_ajhpAHbQ=e365-pa-nu-w1200-rj",
       "categories": [
         "other"
       ],
@@ -402,6 +424,70 @@
         "other"
       ],
       "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "580a376efe1a",
+      "title": "【モンハンアウトランダーズ】おすすめSR(低レア)キャラと無課金育成優先度【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/559753",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T00:35:10.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559753.png?date=1789014409",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "48f27bc980e0",
+      "title": "【モンハンアウトランダーズ】取り返しのつかない要素【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/560314",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T00:23:05.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560314.png?date=1793276254",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "60f3de2f47ec",
+      "title": "【モンハンアウトランダーズ】最強キャラランキング【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531927",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T00:15:18.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531927.png?date=1793082334",
+      "categories": [
+        "guide",
+        "sales"
+      ],
+      "series": [
+        "outlanders"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -514,28 +600,6 @@
       "isNew": false
     },
     {
-      "id": "4453b9bbbd1c",
-      "title": "MHWilds【参加型】 #180 ※ロビー入室自由※🫣弓専と行く🏹【モンスターハンターワイルズ】ゆこいちの絶叫GAME部屋 Gs (zyduLVnQZQ)",
-      "url": "https://media.unisba.ac.id/27c58dd4/8ae61adeA1BRMTFAJyIBCjs//",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-11-05T21:36:24.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "b03da4431e65",
       "title": "【モンハンアウトランダーズ】コントローラーは使える？【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/574152",
@@ -578,14 +642,14 @@
       "isNew": false
     },
     {
-      "id": "5f4f7d30e3f0",
-      "title": "【モンハンアウトランダーズ】クレスの評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577459",
+      "id": "0574437f25e8",
+      "title": "【モンハンアウトランダーズ】ブリックスの評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577456",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-05T18:58:14.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577459.png?date=1790214418",
+      "publishedAt": "2026-11-05T19:19:04.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577456.png?date=1790214292",
       "categories": [
         "guide"
       ],
@@ -599,17 +663,16 @@
       "isNew": false
     },
     {
-      "id": "60f3de2f47ec",
-      "title": "【モンハンアウトランダーズ】最強キャラランキング【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531927",
+      "id": "5f4f7d30e3f0",
+      "title": "【モンハンアウトランダーズ】クレスの評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577459",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-05T17:53:44.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531927.png?date=1793082334",
+      "publishedAt": "2026-11-05T18:58:14.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577459.png?date=1790214418",
       "categories": [
-        "guide",
-        "sales"
+        "guide"
       ],
       "series": [
         "outlanders"
@@ -800,27 +863,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577464.png?date=1790214658",
       "categories": [
         "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "48f27bc980e0",
-      "title": "【モンハンアウトランダーズ】取り返しのつかない要素【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/560314",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-05T13:54:20.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560314.png?date=1793276254",
-      "categories": [
-        "other"
       ],
       "series": [
         "outlanders"
@@ -1134,48 +1176,6 @@
       "summary": "",
       "publishedAt": "2026-11-05T13:01:11.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560176.png?date=1789017307",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "0574437f25e8",
-      "title": "【モンハンアウトランダーズ】ブリックスの評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577456",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-05T12:56:24.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577456.png?date=1790214292",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "580a376efe1a",
-      "title": "【モンハンアウトランダーズ】おすすめSR(低レア)キャラと無課金育成優先度【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/559753",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-05T12:24:23.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559753.png?date=1789014409",
       "categories": [
         "guide"
       ],
@@ -1515,6 +1515,27 @@
       "isNew": false
     },
     {
+      "id": "0053f990a8f2",
+      "title": "【モンハンワイルズ】歴戦狩猟の証3の効率的な集め方と使い道【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/487801",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-04T16:03:13.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "a8c62e3a20b7",
       "title": "『モンスターハンター』×バンタン文化祭2026！ ハンター肉飯やアイルーのラテアートが登場、11月14日開催",
       "url": "https://www.appbank.net/2026/11/04/iphone-news/3154357.php",
@@ -1596,7 +1617,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "37e49d941582",
@@ -1658,26 +1679,6 @@
       "isNew": false
     },
     {
-      "id": "31e83e5617a3",
-      "title": "バンタン文化祭2026 ×「モンスターハンター」の詳細解禁！「大狩猟のハンター肉飯」など“モンハン飯”が登場するカフェや生徒デザインの限定Tシャツなど4つのコラボ企画で世界観に没入",
-      "url": "https://mantan-web.jp/prtimes/article/20261104prt00m200001050a/photopage/001.html",
-      "host": "mantan-web.jp",
-      "source": "Mantan Web",
-      "summary": "",
-      "publishedAt": "2026-11-04T06:00:00.000Z",
-      "image": "https://prtimes.jp/img/54535/287/resize/d54535-287-d42867f4c5b8e2466b04-0.jpg",
-      "categories": [
-        "collab",
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "b6ff9b211643",
       "title": "モンハンワイルズ:イベクエ歴戦王アルシュベルド・ソロ太刀オトモ有り9分21秒",
       "url": "https://youtu.be/mYK4SyKiNh8?si",
@@ -1737,6 +1738,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "3e4504eeac38",
+      "title": "【MHO】双剣のクレスが気持ちよすぎて闘技大会のリオレイアを1分とちょっとで狩れるまでTAを練習してしまった【モンスターハンターアウトランダーズ】",
+      "url": "https://youtu.be/ZuSgfsHUYsY?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-04T02:00:36.000Z",
+      "image": "",
+      "categories": [
+        "community"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "079e5a4cd2f9",
@@ -1815,27 +1837,6 @@
         "new"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "0053f990a8f2",
-      "title": "【モンハンワイルズ】歴戦狩猟の証3の効率的な集め方と使い道【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/487801",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-03T22:44:13.000Z",
-      "image": "",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
