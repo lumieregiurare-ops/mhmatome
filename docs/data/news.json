@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-06T08:00:15.613Z",
+  "updatedAt": "2026-11-06T08:30:16.485Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 82,
-  "todayCount": 38,
+  "total": 79,
+  "todayCount": 37,
   "categories": [
     {
       "id": "new",
@@ -17,7 +17,7 @@
     {
       "id": "update",
       "label": "アップデート",
-      "count": 0
+      "count": 1
     },
     {
       "id": "event",
@@ -27,7 +27,7 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 4
+      "count": 5
     },
     {
       "id": "goods",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 37
+      "count": 35
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 32
+      "count": 30
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 20
+      "count": 19
     },
     {
       "id": "rise",
@@ -79,12 +79,12 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 4
+      "count": 3
     },
     {
       "id": "now",
       "label": "Now",
-      "count": 4
+      "count": 3
     },
     {
       "id": "stories",
@@ -94,21 +94,17 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 43
+      "count": 42
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 50
+      "count": 49
     },
     {
       "name": "YouTube",
       "count": 6
-    },
-    {
-      "name": "電撃オンライン",
-      "count": 3
     },
     {
       "name": "Howl.Link",
@@ -119,7 +115,7 @@
       "count": 2
     },
     {
-      "name": "Unisba Media",
+      "name": "電撃オンライン",
       "count": 2
     },
     {
@@ -128,6 +124,10 @@
     },
     {
       "name": "ガジェット通信",
+      "count": 2
+    },
+    {
+      "name": "Unisba Media",
       "count": 2
     },
     {
@@ -172,10 +172,6 @@
     },
     {
       "name": "キャラグー",
-      "count": 1
-    },
-    {
-      "name": "https://iyusuke.jp/",
       "count": 1
     }
   ],
@@ -225,7 +221,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-11-05T23:42:08.000Z",
       "sourceCount": 2,
-      "articleCount": 6,
+      "articleCount": 5,
       "categories": [
         "guide",
         "other"
@@ -236,13 +232,6 @@
         "最新情報"
       ],
       "articles": [
-        {
-          "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/575038",
-          "source": "GameWith",
-          "publishedAt": "2026-11-05T19:44:15.000Z",
-          "isPR": false
-        },
         {
           "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/563104",
@@ -343,43 +332,15 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "079e5a4cd2f9",
-      "title": "『モンハンNow』新装備アクセサリの詳細判明!! 発動する効果や磨き直しなど気になるポイントガイド",
-      "summary": "",
-      "url": "https://getnews.jp/archives/3752903",
-      "image": "https://rensai.jp/wp-content/uploads/2026/11/06931a10b34e407bc33d52bcd850ecda.jpg",
-      "leadSource": "ガジェット通信",
-      "publishedAt": "2026-11-04T01:00:56.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "guide"
-      ],
-      "keywords": [
-        "モンハンNow",
-        "now",
-        "アクセサリ"
-      ],
-      "articles": [
-        {
-          "title": "『モンハンNow』新装備“アクセサリ”が11月12日に実装！ サブ効果を厳選する“磨き直し”などの詳細が判明",
-          "url": "https://dengekionline.com/article/202611/92952",
-          "source": "電撃オンライン",
-          "publishedAt": "2026-11-03T08:30:00.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-06T07:30:16.153Z",
+    "previousAt": "2026-11-06T08:00:15.613Z",
     "previousCount": 82,
-    "newCount": 2
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-06T08:30:15.613Z",
+  "nextUpdateAt": "2026-11-06T09:00:16.485Z",
   "items": [
     {
       "id": "de51f2f1d013",
@@ -390,6 +351,27 @@
       "summary": "",
       "publishedAt": "2026-11-06T06:13:12.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577470.png?date=1790214930",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "c3ef4d2c6063",
+      "title": "【モンハンアウトランダーズ】主人公(大剣)の評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577471",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T05:59:27.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577471.png?date=1790214971",
       "categories": [
         "guide"
       ],
@@ -985,28 +967,6 @@
       "isNew": false
     },
     {
-      "id": "4453b9bbbd1c",
-      "title": "MHWilds【参加型】 #180 ※ロビー入室自由※🫣弓専と行く🏹【モンスターハンターワイルズ】ゆこいちの絶叫GAME部屋 Gs (zyduLVnQZQ)",
-      "url": "https://media.unisba.ac.id/27c58dd4/8ae61adeA1BRMTFAJyIBCjs//",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-11-05T21:36:24.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "fd20f3f63e0d",
       "title": "【モンハンアウトランダーズ】主人公(弓)の評価とおすすめ装備・編成【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577466",
@@ -1026,27 +986,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "411bb4076b94",
-      "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/575038",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-05T19:44:15.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575038.png?date=1789770323",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "0574437f25e8",
@@ -1331,27 +1270,6 @@
       "summary": "",
       "publishedAt": "2026-11-05T13:35:26.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/584400.png?date=1793197547",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "c3ef4d2c6063",
-      "title": "【モンハンアウトランダーズ】主人公(大剣)の評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577471",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-05T13:35:14.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577471.png?date=1790214971",
       "categories": [
         "guide"
       ],
@@ -1710,6 +1628,28 @@
       "isNew": false
     },
     {
+      "id": "84b4bf461aff",
+      "title": "クリアほぼ不可能だと話題の零式オメガ野良救難に挑戦してみる【モンハンワイルズ×FF14コラボ アップデート】 Michele Bravi (kLk6mWAwUu)",
+      "url": "https://media.unisba.ac.id/63eed9e8/ff3e873dDjIoRAdCIQA6G1o/",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-11-04T12:15:18.000Z",
+      "image": "",
+      "categories": [
+        "update",
+        "collab"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "3d0900113214",
       "title": "MHWilds おしゃれ重ね着 チルハン集会場 モンハンワイルズ",
       "url": "https://t.co/neisuxdx4v",
@@ -2016,7 +1956,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f37c0e981669",
@@ -2032,48 +1972,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "773d99519a2f",
-      "title": "モンハンアウトランダーズのコントローラー対応とおすすめ｜実機で試したX5 LiteとG8+",
-      "url": "https://iyusuke.jp/mho-controller/",
-      "host": "iyusuke.jp",
-      "source": "https://iyusuke.jp/",
-      "summary": "",
-      "publishedAt": "2026-11-03T08:30:01.000Z",
-      "image": "https://iyusuke.jp/wp-content/uploads/2026/11/gamesir-g8plus-x5lite-mho-1.webp",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "fa5e00ea2aea",
-      "title": "『モンハンNow』新装備“アクセサリ”が11月12日に実装！ サブ効果を厳選する“磨き直し”などの詳細が判明",
-      "url": "https://dengekionline.com/article/202611/92952",
-      "host": "dengekionline.com",
-      "source": "電撃オンライン",
-      "summary": "",
-      "publishedAt": "2026-11-03T08:30:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/92952/ogp_CgHi.jpg?x=1280",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "now"
       ],
       "isOfficial": false,
       "isPR": false,
