@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-06T16:00:18.460Z",
+  "updatedAt": "2026-11-06T16:30:15.575Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 83,
+  "total": 82,
   "todayCount": 1,
   "categories": [
     {
@@ -27,7 +27,7 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 4
+      "count": 3
     },
     {
       "id": "goods",
@@ -140,10 +140,6 @@
     },
     {
       "name": "게임메카",
-      "count": 1
-    },
-    {
-      "name": "電撃オンライン",
       "count": 1
     },
     {
@@ -327,12 +323,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-06T15:30:15.776Z",
-    "previousCount": 84,
-    "newCount": 0
+    "previousAt": "2026-11-06T16:00:18.460Z",
+    "previousCount": 83,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-06T16:30:18.460Z",
+  "nextUpdateAt": "2026-11-06T17:00:15.575Z",
   "items": [
     {
       "id": "2d3ed020ccc5",
@@ -343,6 +339,27 @@
       "summary": "",
       "publishedAt": "2026-11-06T15:48:09.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531924.png?date=1793225649",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "83c2cd6f4a1b",
+      "title": "【モンハンアウトランダーズ】ストーリー攻略チャート【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531933",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T13:41:16.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531933.png?date=1793227277",
       "categories": [
         "guide"
       ],
@@ -482,6 +499,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "0f45c1692464",
+      "title": "【モンハンアウトランダーズ】ルタコインの効率的な集め方【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/560176",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T11:59:18.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560176.png?date=1789017307",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "122ccf573e13",
@@ -965,27 +1003,6 @@
       "isNew": false
     },
     {
-      "id": "83c2cd6f4a1b",
-      "title": "【モンハンアウトランダーズ】ストーリー攻略チャート【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531933",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-06T08:07:41.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531933.png?date=1793227277",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "7cc6494b340f",
       "title": "【モンハンアウトランダーズ】絵装の厳選方法とおすすめ効果【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/575851",
@@ -1442,27 +1459,6 @@
       "isNew": false
     },
     {
-      "id": "0895ceb6f513",
-      "title": "【モンハンアウトランダーズ】ヘイズの評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/583505",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-05T15:29:07.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583505.png?date=1792581250",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "f7f386a8bb53",
       "title": "【モンハンワイルズ】ランス初心者がサークルメンバーと遊ぶ",
       "url": "https://youtu.be/h8oL9HYT194?si",
@@ -1562,25 +1558,6 @@
       "series": [
         "wilds"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4fc13d1702ff",
-      "title": "『ガルクラ』×『楽園追放』歴代JKビジュアルでまさかのコラボ。『雑踏、僕らの街』を使ったコラボPVも",
-      "url": "https://dengekionline.com/article/202611/93206",
-      "host": "dengekionline.com",
-      "source": "電撃オンライン",
-      "summary": "",
-      "publishedAt": "2026-11-05T11:35:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/93206/ogp_zZwV.jpg?x=1280",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
