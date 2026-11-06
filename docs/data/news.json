@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-06T00:30:15.802Z",
+  "updatedAt": "2026-11-06T01:00:17.212Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 75,
-  "todayCount": 9,
+  "total": 76,
+  "todayCount": 13,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 38
+      "count": 37
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 25
+      "count": 27
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 20
+      "count": 21
     },
     {
       "id": "rise",
@@ -94,13 +94,13 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 41
+      "count": 40
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 47
+      "count": 46
     },
     {
       "name": "YouTube",
@@ -123,6 +123,14 @@
       "count": 2
     },
     {
+      "name": "Howl.Link",
+      "count": 2
+    },
+    {
+      "name": "Yahoo!ファイナンス",
+      "count": 1
+    },
+    {
       "name": "X",
       "count": 1
     },
@@ -132,10 +140,6 @@
     },
     {
       "name": "AppBank",
-      "count": 1
-    },
-    {
-      "name": "Howl.Link",
       "count": 1
     },
     {
@@ -196,6 +200,49 @@
           "url": "https://www.famitsu.com/article/202611/91788",
           "source": "ファミ通",
           "publishedAt": "2026-11-04T10:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "e08e6c8ea2a8",
+      "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
+      "summary": "",
+      "url": "https://gamewith.jp/mhwilds/563104",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563104.png?date=1789770630",
+      "leadSource": "GameWith",
+      "publishedAt": "2026-11-05T13:38:30.000Z",
+      "sourceCount": 2,
+      "articleCount": 4,
+      "categories": [
+        "other",
+        "guide"
+      ],
+      "keywords": [
+        "モンハンワイルズ",
+        "アセンダンス",
+        "最新情報"
+      ],
+      "articles": [
+        {
+          "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563077",
+          "source": "GameWith",
+          "publishedAt": "2026-11-05T13:26:11.000Z",
+          "isPR": false
+        },
+        {
+          "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
+          "url": "https://gamewith.jp/mhwilds/563096",
+          "source": "GameWith",
+          "publishedAt": "2026-11-05T06:18:12.000Z",
+          "isPR": false
+        },
+        {
+          "title": "モンハンワイルズ参加型配信！",
+          "url": "https://t.co/Y9DcISE68V",
+          "source": "Howl.Link",
+          "publishedAt": "2026-11-04T11:27:38.000Z",
           "isPR": false
         }
       ]
@@ -309,13 +356,74 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-06T00:00:16.791Z",
-    "previousCount": 76,
-    "newCount": 1
+    "previousAt": "2026-11-06T00:30:15.802Z",
+    "previousCount": 75,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-06T01:00:15.802Z",
+  "nextUpdateAt": "2026-11-06T01:30:17.212Z",
   "items": [
+    {
+      "id": "dd25b5d1fa41",
+      "title": "カプコン－東海東京が目標株価引き上げ 大型DLCによる「モンハン」ブランド再構築を期待〔DZH 個別株情報〕(時事通信)",
+      "url": "https://finance.yahoo.co.jp/news/detail/52197b5471fe2a87302790f090d4a357ce3e0d1a",
+      "host": "finance.yahoo.co.jp",
+      "source": "Yahoo!ファイナンス",
+      "summary": "",
+      "publishedAt": "2026-11-06T00:48:56.000Z",
+      "image": "https://s.yimg.jp/images/finance/common/image/ogp.png",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "2d3ed020ccc5",
+      "title": "【モンハンアウトランダーズ】ガチャおすすめと一覧│引くべきガチャ【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531924",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T00:15:07.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531924.png?date=1793225649",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "4ba20a779de1",
+      "title": "【モンハンアウトランダーズ】太刀最強装備【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/584269",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-05T23:53:11.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/584269.png?date=1793226905",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "78d907e0c7ca",
       "title": "【モンハンアウトランダーズ】ミドリの評価とおすすめ装備・編成【アウトランダーズ】",
@@ -327,6 +435,27 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577465.png?date=1790214699",
       "categories": [
         "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "b03da4431e65",
+      "title": "【モンハンアウトランダーズ】コントローラーは使える？【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/574152",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-05T20:20:19.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574152.png?date=1793227034",
+      "categories": [
+        "other"
       ],
       "series": [
         "outlanders"
@@ -496,27 +625,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531933.png?date=1793227277",
       "categories": [
         "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "b03da4431e65",
-      "title": "【モンハンアウトランダーズ】コントローラーは使える？【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/574152",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-05T14:31:07.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574152.png?date=1793227034",
-      "categories": [
-        "other"
       ],
       "series": [
         "outlanders"
@@ -907,27 +1015,6 @@
       "isNew": false
     },
     {
-      "id": "4ba20a779de1",
-      "title": "【モンハンアウトランダーズ】太刀最強装備【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/584269",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-05T13:27:14.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/584269.png?date=1793226905",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "46ab930cbc6c",
       "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/563077",
@@ -962,27 +1049,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "2d3ed020ccc5",
-      "title": "【モンハンアウトランダーズ】ガチャおすすめと一覧│引くべきガチャ【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531924",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-05T13:02:22.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531924.png?date=1793225649",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1129,6 +1195,27 @@
         "other"
       ],
       "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "a2119f0dcdb7",
+      "title": "【モンスターハンターワイルズ 番外編 】アセンンダンス発売までに武器を全部集めよう！ヘビィボウガン編・前編",
+      "url": "https://youtu.be/XQsg5kaMbf8?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-05T09:45:17.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1296,27 +1383,6 @@
       "isNew": false
     },
     {
-      "id": "c48aa4f29771",
-      "title": "【モンハンアウトランダーズ】大剣最強装備【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/584088",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-05T02:13:55.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/584088.png?date=1793226879",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "f1e344fb9da2",
       "title": "#モンハンワイルズ 心眼、回避距離UPがほしい",
       "url": "https://youtu.be/mkjsMEyfu2g?si",
@@ -1464,6 +1530,27 @@
       "isNew": false
     },
     {
+      "id": "019e6774fa75",
+      "title": "モンハンワイルズ参加型配信！",
+      "url": "https://t.co/Y9DcISE68V",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-11-04T11:27:38.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "37e49d941582",
       "title": "『モンハン』の世界が文化祭に！ バンタン文化祭2026が11月14日開催。謎解きクエストやコラボカフェなど特別企画を実施【バンタン文化祭2026】",
       "url": "https://www.famitsu.com/article/202611/91788",
@@ -1476,27 +1563,6 @@
         "collab"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "a2119f0dcdb7",
-      "title": "【モンスターハンターワイルズ 番外編 】アセンンダンス発売までに武器を全部集めよう！ライトボウガン編・後編",
-      "url": "https://youtu.be/38VvmO4xla4?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-04T09:45:35.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1562,7 +1628,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f7361fb174bf",
