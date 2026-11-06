@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-06T13:00:20.699Z",
+  "updatedAt": "2026-11-06T13:30:18.756Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 83,
-  "todayCount": 51,
+  "total": 85,
+  "todayCount": 50,
   "categories": [
     {
       "id": "new",
@@ -17,7 +17,7 @@
     {
       "id": "update",
       "label": "アップデート",
-      "count": 0
+      "count": 1
     },
     {
       "id": "event",
@@ -27,7 +27,7 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 4
+      "count": 5
     },
     {
       "id": "goods",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 34
+      "count": 35
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 22
+      "count": 24
     },
     {
       "id": "rise",
@@ -104,7 +104,11 @@
     },
     {
       "name": "YouTube",
-      "count": 6
+      "count": 7
+    },
+    {
+      "name": "Unisba Media",
+      "count": 3
     },
     {
       "name": "Howl.Link",
@@ -116,10 +120,6 @@
     },
     {
       "name": "Monster Hunter Now",
-      "count": 2
-    },
-    {
-      "name": "Unisba Media",
       "count": 2
     },
     {
@@ -327,12 +327,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-06T12:30:16.167Z",
-    "previousCount": 84,
-    "newCount": 1
+    "previousAt": "2026-11-06T13:00:20.699Z",
+    "previousCount": 83,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-06T13:30:20.699Z",
+  "nextUpdateAt": "2026-11-06T14:00:18.756Z",
   "items": [
     {
       "id": "d4123a096654",
@@ -387,6 +387,27 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577466.png?date=1790214739",
       "categories": [
         "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "7f0191dee326",
+      "title": "【モンハンアウトランダーズ】毎日やるべき日課とウィークリーまとめ【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531926",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T11:41:10.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531926.png?date=1793679039",
+      "categories": [
+        "other"
       ],
       "series": [
         "outlanders"
@@ -586,27 +607,6 @@
       "isNew": false
     },
     {
-      "id": "4ba20a779de1",
-      "title": "【モンハンアウトランダーズ】太刀最強装備【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/584269",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-06T08:15:36.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/584269.png?date=1793226905",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "f54c9f305148",
       "title": "【モンハンアウトランダーズ】巡回招集は引くべき？【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/584092",
@@ -625,7 +625,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "48f27bc980e0",
@@ -807,27 +807,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531924.png?date=1793225649",
       "categories": [
         "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "7f0191dee326",
-      "title": "【モンハンアウトランダーズ】毎日やるべき日課とウィークリーまとめ【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531926",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-06T08:07:11.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531926.png?date=1793679039",
-      "categories": [
-        "other"
       ],
       "series": [
         "outlanders"
@@ -1399,6 +1378,27 @@
       "isNew": false
     },
     {
+      "id": "f7f386a8bb53",
+      "title": "【モンハンワイルズ】ランス初心者がサークルメンバーと遊ぶ",
+      "url": "https://youtu.be/h8oL9HYT194?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-05T14:33:04.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "b42f88b40196",
       "title": "【モンハンアウトランダーズ】ロードの評価とおすすめ装備・編成【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/583506",
@@ -1461,6 +1461,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "2dd0a4c576af",
+      "title": "【モンハンアウトランダーズ】主人公(双剣)の評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577469",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-05T13:44:22.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577469.png?date=1790214889",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "e08e6c8ea2a8",
@@ -1592,7 +1613,7 @@
       "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-11-05T09:45:17.000Z",
-      "image": "https://i.ytimg.com/vi/XQsg5kaMbf8/maxresdefault.jpg",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1749,6 +1770,28 @@
       "isNew": false
     },
     {
+      "id": "84b4bf461aff",
+      "title": "クリアほぼ不可能だと話題の零式オメガ野良救難に挑戦してみる【モンハンワイルズ×FF14コラボ アップデート】 Michele Bravi (kLk6mWAwUu)",
+      "url": "https://media.unisba.ac.id/63eed9e8/ff3e873dDjIoRAdCIQA6G1o/",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-11-04T12:15:18.000Z",
+      "image": "",
+      "categories": [
+        "update",
+        "collab"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "3d0900113214",
       "title": "MHWilds おしゃれ重ね着 チルハン集会場 モンハンワイルズ",
       "url": "https://t.co/neisuxdx4v",
@@ -1878,7 +1921,7 @@
       "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-11-04T04:03:43.000Z",
-      "image": "https://i.ytimg.com/vi/mYK4SyKiNh8/maxresdefault.jpg",
+      "image": "",
       "categories": [
         "other"
       ],
