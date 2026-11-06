@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-06T22:30:19.101Z",
+  "updatedAt": "2026-11-06T23:00:19.582Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 85,
-  "todayCount": 16,
+  "total": 87,
+  "todayCount": 17,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 33
+      "count": 32
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 39
+      "count": 42
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 27
+      "count": 29
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 2
+      "count": 3
     },
     {
       "id": "now",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 54
+      "count": 55
     },
     {
       "name": "YouTube",
@@ -116,6 +116,10 @@
     },
     {
       "name": "Monster Hunter Now",
+      "count": 2
+    },
+    {
+      "name": "Unisba Media",
       "count": 2
     },
     {
@@ -140,10 +144,6 @@
     },
     {
       "name": "コラボカフェ",
-      "count": 1
-    },
-    {
-      "name": "Unisba Media",
       "count": 1
     },
     {
@@ -351,13 +351,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-06T22:00:15.677Z",
-    "previousCount": 87,
-    "newCount": 1
+    "previousAt": "2026-11-06T22:30:19.101Z",
+    "previousCount": 85,
+    "newCount": 5
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-06T23:00:19.101Z",
+  "nextUpdateAt": "2026-11-06T23:30:19.582Z",
   "items": [
+    {
+      "id": "00fa67d59cd9",
+      "title": "【モンハンアウトランダーズ】リオレイア亜種の弱点と攻略【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/585674",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T22:05:04.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "d4123a096654",
       "title": "【モンハンアウトランダーズ】ペペの評価とおすすめ装備・編成【アウトランダーズ】",
@@ -440,7 +461,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "83c2cd6f4a1b",
@@ -779,6 +800,27 @@
       "isNew": false
     },
     {
+      "id": "c3ef4d2c6063",
+      "title": "【モンハンアウトランダーズ】主人公(大剣)の評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577471",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T14:05:18.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577471.png?date=1790214971",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "3d596f6fe3e7",
       "title": "【モンハンアウトランダーズ】序盤の効率的な進め方【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/531932",
@@ -936,6 +978,27 @@
       "summary": "",
       "publishedAt": "2026-11-06T12:15:42.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/581392.png?date=1793225716",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "04b5687d7969",
+      "title": "【モンハンアウトランダーズ】第2章 灼熱の追撃の攻略チャートと解放要素【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/578584",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T12:03:17.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/578584.png?date=1793260973",
       "categories": [
         "guide"
       ],
@@ -1344,48 +1407,6 @@
       "isNew": false
     },
     {
-      "id": "de51f2f1d013",
-      "title": "【モンハンアウトランダーズ】主人公(太刀)の評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577470",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-06T06:13:12.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577470.png?date=1790214930",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "139e9f532a51",
-      "title": "【モンハンアウトランダーズ】主人公(ヘビィボウガン)の評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577467",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-06T05:21:11.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577467.png?date=1790214807",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "fddcb852ba99",
       "title": "アマツマガツチに挑戦、「モンスターハンターNow カーニバル 2026」開催予告",
       "url": "https://www.gamemeca.com/ja/view.php?gid",
@@ -1398,27 +1419,6 @@
         "other"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "04b5687d7969",
-      "title": "【モンハンアウトランダーズ】第2章 灼熱の追撃の攻略チャートと解放要素【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/578584",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-06T01:40:13.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/578584.png?date=1793260973",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1505,6 +1505,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "4453b9bbbd1c",
+      "title": "MHWilds【参加型】 #180 ※ロビー入室自由※🫣弓専と行く🏹【モンスターハンターワイルズ】ゆこいちの絶叫GAME部屋 Gs (zyduLVnQZQ)",
+      "url": "https://media.unisba.ac.id/27c58dd4/8ae61adeA1BRMTFAJyIBCjs//",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-11-05T21:36:24.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "411bb4076b94",
@@ -1943,12 +1965,12 @@
     {
       "id": "abc0b1f2f534",
       "title": "『モンハン』アイルーを再現したモンブラン風スイーツが超かわいい。バンタン文化祭コラボの詳細が解禁",
-      "url": "https://news.denfaminicogamer.jp/news/2611042k",
+      "url": "https://news.denfaminicogamer.jp/?p",
       "host": "news.denfaminicogamer.jp",
       "source": "電ファミニコゲーマー",
       "summary": "",
       "publishedAt": "2026-11-04T08:10:00.000Z",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/imgi_65_mv-pc-1024x579.png",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2021/08/header.png",
       "categories": [
         "collab"
       ],
@@ -2062,6 +2084,27 @@
       "isNew": false
     },
     {
+      "id": "b25eea097aab",
+      "title": "【モンハンワイルズ】金冠確定クエストの厳選方法【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/488813",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-04T00:06:27.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/488813.png?date=1741314400",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "bc548e8b4345",
       "title": "【モンハンワイルズ】極熱重鎧グラビモスの報酬と周回装備【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/492800",
@@ -2083,6 +2126,27 @@
       "isNew": false
     },
     {
+      "id": "0a31cdb61626",
+      "title": "【モンハンワイルズ】夢灯の儀の開催期間とやるべきこと｜ハロウィンイベント【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/524935",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-03T23:57:07.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/524935.png?date=1760689472",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "6e5a847e9bc1",
       "title": "モンスターハンターのグッズ一覧・新作情報（ガチャガチャ・プライズ・キャラクターくじ・コラボ・イベント）",
       "url": "https://charagoo.jp/ip/monsterhunter/",
@@ -2096,27 +2160,6 @@
         "new"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "0053f990a8f2",
-      "title": "【モンハンワイルズ】歴戦狩猟の証3の効率的な集め方と使い道【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/487801",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-03T22:44:13.000Z",
-      "image": "",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
