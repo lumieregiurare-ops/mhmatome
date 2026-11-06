@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T07:30:16.153Z",
+  "updatedAt": "2026-11-06T08:00:15.613Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 82,
-  "todayCount": 37,
+  "todayCount": 38,
   "categories": [
     {
       "id": "new",
@@ -17,7 +17,7 @@
     {
       "id": "update",
       "label": "アップデート",
-      "count": 1
+      "count": 0
     },
     {
       "id": "event",
@@ -27,7 +27,7 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 5
+      "count": 4
     },
     {
       "id": "goods",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 31
+      "count": 32
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 19
+      "count": 20
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 3
+      "count": 4
     },
     {
       "id": "now",
@@ -100,22 +100,26 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 49
+      "count": 50
     },
     {
       "name": "YouTube",
       "count": 6
     },
     {
-      "name": "Unisba Media",
-      "count": 3
-    },
-    {
       "name": "電撃オンライン",
       "count": 3
     },
     {
+      "name": "Howl.Link",
+      "count": 3
+    },
+    {
       "name": "Monster Hunter Now",
+      "count": 2
+    },
+    {
+      "name": "Unisba Media",
       "count": 2
     },
     {
@@ -127,15 +131,7 @@
       "count": 2
     },
     {
-      "name": "Howl.Link",
-      "count": 2
-    },
-    {
       "name": "게임메카",
-      "count": 1
-    },
-    {
-      "name": "マイナビニュース",
       "count": 1
     },
     {
@@ -241,6 +237,13 @@
       ],
       "articles": [
         {
+          "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/575038",
+          "source": "GameWith",
+          "publishedAt": "2026-11-05T19:44:15.000Z",
+          "isPR": false
+        },
+        {
           "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/563104",
           "source": "GameWith",
@@ -259,13 +262,6 @@
           "url": "https://gamewith.jp/mhwilds/563066",
           "source": "GameWith",
           "publishedAt": "2026-11-05T11:00:09.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ】歴戦狩猟の証3の効率的な集め方と使い道【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/487801",
-          "source": "GameWith",
-          "publishedAt": "2026-11-04T16:03:13.000Z",
           "isPR": false
         },
         {
@@ -321,14 +317,15 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-11-04T17:00:05.000Z",
       "sourceCount": 2,
-      "articleCount": 2,
+      "articleCount": 3,
       "categories": [
-        "other"
+        "other",
+        "guide"
       ],
       "keywords": [
         "モンハンワイルズ",
-        "アルシュベルド",
-        "歴戦王"
+        "モンスターハンターワイルズ",
+        "アルシュベルド"
       ],
       "articles": [
         {
@@ -336,6 +333,13 @@
           "url": "https://youtu.be/mYK4SyKiNh8?si",
           "source": "YouTube",
           "publishedAt": "2026-11-04T04:03:43.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】歴戦狩猟の証3の効率的な集め方と使い道【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/487801",
+          "source": "GameWith",
+          "publishedAt": "2026-11-03T22:44:13.000Z",
           "isPR": false
         }
       ]
@@ -370,12 +374,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-06T07:00:14.175Z",
+    "previousAt": "2026-11-06T07:30:16.153Z",
     "previousCount": 82,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-06T08:00:16.153Z",
+  "nextUpdateAt": "2026-11-06T08:30:15.613Z",
   "items": [
     {
       "id": "de51f2f1d013",
@@ -386,6 +390,27 @@
       "summary": "",
       "publishedAt": "2026-11-06T06:13:12.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577470.png?date=1790214930",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "139e9f532a51",
+      "title": "【モンハンアウトランダーズ】主人公(ヘビィボウガン)の評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577467",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T05:21:11.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577467.png?date=1790214807",
       "categories": [
         "guide"
       ],
@@ -451,6 +476,27 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531925.png?date=1793082273",
       "categories": [
         "sales"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "4ba20a779de1",
+      "title": "【モンハンアウトランダーズ】太刀最強装備【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/584269",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T04:10:17.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/584269.png?date=1793226905",
+      "categories": [
+        "guide"
       ],
       "series": [
         "outlanders"
@@ -878,27 +924,6 @@
       "isNew": false
     },
     {
-      "id": "4ba20a779de1",
-      "title": "【モンハンアウトランダーズ】太刀最強装備【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/584269",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-05T23:53:11.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/584269.png?date=1793226905",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "e6d79acfa4bd",
       "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
       "url": "https://gamewith.jp/mhwilds/563096",
@@ -932,25 +957,6 @@
       "series": [
         "outlanders"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "9d4d7fa64a07",
-      "title": "福岡・マリノアシティ跡地に新アウトレット誕生! 九州最大級の「ロピア」、モンハン等身大立像も",
-      "url": "https://news.mynavi.jp/article/20261106-5249421/",
-      "host": "news.mynavi.jp",
-      "source": "マイナビニュース",
-      "summary": "",
-      "publishedAt": "2026-11-05T23:15:00.000Z",
-      "image": "https://news.mynavi.jp/article/20261106-5249421/ogp_images/ogp.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1020,6 +1026,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "411bb4076b94",
+      "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/575038",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-05T19:44:15.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575038.png?date=1789770323",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "0574437f25e8",
@@ -1254,27 +1281,6 @@
       "isNew": false
     },
     {
-      "id": "139e9f532a51",
-      "title": "【モンハンアウトランダーズ】主人公(ヘビィボウガン)の評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577467",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-05T13:45:25.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577467.png?date=1790214807",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "2dd0a4c576af",
       "title": "【モンハンアウトランダーズ】主人公(双剣)の評価とおすすめ装備・編成【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577469",
@@ -1335,7 +1341,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c3ef4d2c6063",
@@ -1685,27 +1691,6 @@
       "isNew": false
     },
     {
-      "id": "0053f990a8f2",
-      "title": "【モンハンワイルズ】歴戦狩猟の証3の効率的な集め方と使い道【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/487801",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-04T16:03:13.000Z",
-      "image": "",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "a8c62e3a20b7",
       "title": "『モンスターハンター』×バンタン文化祭2026！ ハンター肉飯やアイルーのラテアートが登場、11月14日開催",
       "url": "https://www.appbank.net/2026/11/04/iphone-news/3154357.php",
@@ -1723,28 +1708,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "84b4bf461aff",
-      "title": "クリアほぼ不可能だと話題の零式オメガ野良救難に挑戦してみる【モンハンワイルズ×FF14コラボ アップデート】 Michele Bravi (kLk6mWAwUu)",
-      "url": "https://media.unisba.ac.id/63eed9e8/ff3e873dDjIoRAdCIQA6G1o/",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-11-04T12:15:18.000Z",
-      "image": "",
-      "categories": [
-        "update",
-        "collab"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "3d0900113214",
@@ -1992,6 +1955,27 @@
       "isNew": false
     },
     {
+      "id": "0053f990a8f2",
+      "title": "【モンハンワイルズ】歴戦狩猟の証3の効率的な集め方と使い道【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/487801",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-03T22:44:13.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "1b23dc62d569",
       "title": "『モンハンNow』大連続狩猟ウィークで“グループハント報酬の2枠目”が確定！ “なぞの漂流石”復刻などイベント詳細まとめ",
       "url": "https://dengekionline.com/article/202611/92971",
@@ -2011,6 +1995,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "e3370d2ac3e3",
+      "title": "【MHWilds】今日のラギアクルス 2026.11.03 - 10.27",
+      "url": "https://t.co/d2Kbx5amCW",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-11-03T13:45:00.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "f37c0e981669",
@@ -2041,7 +2047,7 @@
       "source": "https://iyusuke.jp/",
       "summary": "",
       "publishedAt": "2026-11-03T08:30:01.000Z",
-      "image": "",
+      "image": "https://iyusuke.jp/wp-content/uploads/2026/11/gamesir-g8plus-x5lite-mho-1.webp",
       "categories": [
         "guide"
       ],
