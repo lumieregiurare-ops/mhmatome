@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-06T17:30:17.619Z",
+  "updatedAt": "2026-11-06T18:00:17.448Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 83,
-  "todayCount": 4,
+  "total": 82,
+  "todayCount": 5,
   "categories": [
     {
       "id": "new",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 36
+      "count": 35
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 25
+      "count": 24
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 4
+      "count": 3
     },
     {
       "id": "now",
@@ -119,10 +119,6 @@
       "count": 2
     },
     {
-      "name": "Unisba Media",
-      "count": 2
-    },
-    {
       "name": "ガジェット通信",
       "count": 2
     },
@@ -148,6 +144,10 @@
     },
     {
       "name": "コラボカフェ",
+      "count": 1
+    },
+    {
+      "name": "Unisba Media",
       "count": 1
     },
     {
@@ -352,12 +352,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-06T17:00:16.983Z",
+    "previousAt": "2026-11-06T17:30:17.619Z",
     "previousCount": 83,
-    "newCount": 1
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-06T18:00:17.619Z",
+  "nextUpdateAt": "2026-11-06T18:30:17.448Z",
   "items": [
     {
       "id": "580a376efe1a",
@@ -368,6 +368,27 @@
       "summary": "",
       "publishedAt": "2026-11-06T16:35:30.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559753.png?date=1789014409",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "fd20f3f63e0d",
+      "title": "【モンハンアウトランダーズ】主人公(弓)の評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577466",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T16:31:31.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577466.png?date=1790214739",
       "categories": [
         "guide"
       ],
@@ -420,7 +441,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2d3ed020ccc5",
@@ -769,27 +790,6 @@
       "summary": "",
       "publishedAt": "2026-11-06T11:43:13.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577464.png?date=1790214658",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "fd20f3f63e0d",
-      "title": "【モンハンアウトランダーズ】主人公(弓)の評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577466",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-06T11:42:12.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577466.png?date=1790214739",
       "categories": [
         "guide"
       ],
@@ -1417,28 +1417,6 @@
         "guide"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4453b9bbbd1c",
-      "title": "MHWilds【参加型】 #180 ※ロビー入室自由※🫣弓専と行く🏹【モンスターハンターワイルズ】ゆこいちの絶叫GAME部屋 Gs (zyduLVnQZQ)",
-      "url": "https://media.unisba.ac.id/27c58dd4/8ae61adeA1BRMTFAJyIBCjs//",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-11-05T21:36:24.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
