@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-06T15:00:18.547Z",
+  "updatedAt": "2026-11-06T15:30:15.776Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 83,
+  "total": 84,
   "todayCount": 0,
   "categories": [
     {
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 33
+      "count": 34
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 23
+      "count": 24
     },
     {
       "id": "rise",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 51
+      "count": 52
     },
     {
       "name": "YouTube",
@@ -327,12 +327,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-06T14:30:15.885Z",
+    "previousAt": "2026-11-06T15:00:18.547Z",
     "previousCount": 83,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-06T15:30:18.547Z",
+  "nextUpdateAt": "2026-11-06T16:00:15.776Z",
   "items": [
     {
       "id": "3d596f6fe3e7",
@@ -366,6 +366,28 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583506.png?date=1792581205",
       "categories": [
         "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "12d1ac4d89b6",
+      "title": "【モンハンアウトランダーズ】主人公のおすすめ武器種と心得｜最強武器種ランキング【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531944",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T13:11:52.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531944.png?date=1793082656",
+      "categories": [
+        "guide",
+        "sales"
       ],
       "series": [
         "outlanders"
@@ -501,7 +523,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6cc16e919d3b",
@@ -619,28 +641,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531931.png?date=1793082187",
       "categories": [
         "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "12d1ac4d89b6",
-      "title": "【モンハンアウトランダーズ】主人公のおすすめ武器種と心得｜最強武器種ランキング【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531944",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-06T11:35:13.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531944.png?date=1793082656",
-      "categories": [
-        "guide",
-        "sales"
       ],
       "series": [
         "outlanders"
@@ -1440,6 +1440,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "0b68bd1287fd",
+      "title": "【アセンダンス】片手剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/577790",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-05T15:41:33.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577790.png?date=1789746410",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "0895ceb6f513",
