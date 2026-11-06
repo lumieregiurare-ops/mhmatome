@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-06T10:00:16.596Z",
+  "updatedAt": "2026-11-06T10:30:16.223Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 84,
+  "total": 83,
   "todayCount": 44,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 38
+      "count": 37
     },
     {
       "id": "sale",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 23
+      "count": 22
     },
     {
       "id": "rise",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 52
+      "count": 51
     },
     {
       "name": "YouTube",
@@ -267,7 +267,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-11-05T23:42:08.000Z",
       "sourceCount": 2,
-      "articleCount": 8,
+      "articleCount": 6,
       "categories": [
         "guide",
         "other"
@@ -307,24 +307,10 @@
           "isPR": false
         },
         {
-          "title": "【モンハンワイルズ】ゴグマジオスの対策装備と周回装備・攻略【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/520491",
-          "source": "GameWith",
-          "publishedAt": "2026-11-05T04:51:46.000Z",
-          "isPR": false
-        },
-        {
           "title": "モンハンワイルズ参加型配信！",
           "url": "https://t.co/Y9DcISE68V",
           "source": "Howl.Link",
           "publishedAt": "2026-11-04T11:27:38.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ】極熱重鎧グラビモスの報酬と周回装備【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/492800",
-          "source": "GameWith",
-          "publishedAt": "2026-11-04T00:02:34.000Z",
           "isPR": false
         }
       ]
@@ -367,12 +353,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-06T09:30:17.310Z",
-    "previousCount": 83,
-    "newCount": 1
+    "previousAt": "2026-11-06T10:00:16.596Z",
+    "previousCount": 84,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-06T10:30:16.596Z",
+  "nextUpdateAt": "2026-11-06T11:00:16.223Z",
   "items": [
     {
       "id": "1256671ebad4",
@@ -387,6 +373,27 @@
         "other"
       ],
       "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "4ba20a779de1",
+      "title": "【モンハンアウトランダーズ】太刀最強装備【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/584269",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T08:15:36.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/584269.png?date=1793226905",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -436,6 +443,70 @@
       "isNew": false
     },
     {
+      "id": "b03da4431e65",
+      "title": "【モンハンアウトランダーズ】コントローラーは使える？【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/574152",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T08:09:07.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574152.png?date=1793227034",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "3d596f6fe3e7",
+      "title": "【モンハンアウトランダーズ】序盤の効率的な進め方【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531932",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T08:08:56.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531932.png?date=1789010047",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "12d1ac4d89b6",
+      "title": "【モンハンアウトランダーズ】主人公のおすすめ武器種と心得｜最強武器種ランキング【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531944",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T08:08:24.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531944.png?date=1793082656",
+      "categories": [
+        "guide",
+        "sales"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "c50fb94399e9",
       "title": "【モンハンアウトランダーズ】リセマラ当たりランキング【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/531925",
@@ -468,6 +539,27 @@
       "categories": [
         "guide",
         "sales"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "7f0191dee326",
+      "title": "【モンハンアウトランダーズ】毎日やるべき日課とウィークリーまとめ【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531926",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T08:07:11.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531926.png?date=1793679039",
+      "categories": [
+        "other"
       ],
       "series": [
         "outlanders"
@@ -647,27 +739,6 @@
       "isNew": false
     },
     {
-      "id": "4ba20a779de1",
-      "title": "【モンハンアウトランダーズ】太刀最強装備【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/584269",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-06T04:10:17.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/584269.png?date=1793226905",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "ea27694f7437",
       "title": "【モンハンアウトランダーズ】リセマラのやり方と所要時間｜何連引ける？【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/531931",
@@ -678,48 +749,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531931.png?date=1793082187",
       "categories": [
         "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "b03da4431e65",
-      "title": "【モンハンアウトランダーズ】コントローラーは使える？【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/574152",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-06T02:52:05.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574152.png?date=1793227034",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3d596f6fe3e7",
-      "title": "【モンハンアウトランダーズ】序盤の効率的な進め方【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531932",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-06T02:38:16.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531932.png?date=1789010047",
-      "categories": [
-        "guide"
       ],
       "series": [
         "outlanders"
@@ -792,28 +821,6 @@
       "isNew": false
     },
     {
-      "id": "12d1ac4d89b6",
-      "title": "【モンハンアウトランダーズ】主人公のおすすめ武器種と心得｜最強武器種ランキング【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531944",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-06T01:36:20.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531944.png?date=1793082656",
-      "categories": [
-        "guide",
-        "sales"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "5aebc693cc9e",
       "title": "【モンハンアウトランダーズ】アケニアの評価とおすすめ装備・編成【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577458",
@@ -824,27 +831,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577458.png?date=1790214381",
       "categories": [
         "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "7f0191dee326",
-      "title": "【モンハンアウトランダーズ】毎日やるべき日課とウィークリーまとめ【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531926",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-06T01:23:18.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531926.png?date=1793679039",
-      "categories": [
-        "other"
       ],
       "series": [
         "outlanders"
@@ -1205,7 +1191,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a32d512021b1",
@@ -1591,27 +1577,6 @@
         "other"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "92a4ad7e8e97",
-      "title": "【モンハンワイルズ】ゴグマジオスの対策装備と周回装備・攻略【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/520491",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-05T04:51:46.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/520491.png?date=1758724718",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
