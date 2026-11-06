@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T21:00:16.063Z",
+  "updatedAt": "2026-11-06T21:30:16.733Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 85,
-  "todayCount": 11,
+  "todayCount": 13,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 34
+      "count": 33
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 38
+      "count": 39
     }
   ],
   "series": [
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 4
+      "count": 3
     },
     {
       "id": "now",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 53
+      "count": 54
     },
     {
       "name": "YouTube",
@@ -116,10 +116,6 @@
     },
     {
       "name": "Monster Hunter Now",
-      "count": 2
-    },
-    {
-      "name": "Unisba Media",
       "count": 2
     },
     {
@@ -151,6 +147,10 @@
       "count": 1
     },
     {
+      "name": "Unisba Media",
+      "count": 1
+    },
+    {
       "name": "AppBank",
       "count": 1
     },
@@ -163,7 +163,7 @@
       "count": 1
     },
     {
-      "name": "ニコニコニュース",
+      "name": "電ファミニコゲーマー",
       "count": 1
     },
     {
@@ -352,13 +352,55 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-06T20:30:15.111Z",
-    "previousCount": 82,
-    "newCount": 3
+    "previousAt": "2026-11-06T21:00:16.063Z",
+    "previousCount": 85,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-06T21:30:16.063Z",
+  "nextUpdateAt": "2026-11-06T22:00:16.733Z",
   "items": [
+    {
+      "id": "a42c36a0ba91",
+      "title": "【モンハンアウトランダーズ】課金要素まとめとおすすめパック【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/560244",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T18:29:29.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560244.png?date=1793262813",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "6440692bf3d2",
+      "title": "【モンハンアウトランダーズ】ルガ・エアルダの弱点と攻略【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/586566",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T18:24:55.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586566.png?date=1793781037",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "83c2cd6f4a1b",
       "title": "【モンハンアウトランダーズ】ストーリー攻略チャート【アウトランダーズ】",
@@ -441,7 +483,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3a6d0385a177",
@@ -610,6 +652,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "f4f222ac2e2d",
+      "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/575036",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T14:35:16.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575036.png?date=1789770113",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "755b1c512bf4",
@@ -1139,27 +1202,6 @@
       "isNew": false
     },
     {
-      "id": "6440692bf3d2",
-      "title": "【モンハンアウトランダーズ】ルガ・エアルダの弱点と攻略【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/586566",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-06T09:28:15.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586566.png?date=1793781037",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "1256671ebad4",
       "title": "「モンスターハンターNowカーニバル 2026：グローバル」が11月28日より開催！速射砲を活用しながら古龍アマツマガツチに挑め",
       "url": "https://www.gamer.ne.jp/news/202611060034/",
@@ -1221,16 +1263,16 @@
       "isNew": false
     },
     {
-      "id": "a42c36a0ba91",
-      "title": "【モンハンアウトランダーズ】課金要素まとめとおすすめパック【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/560244",
+      "id": "bbcfef6b9287",
+      "title": "【モンハンアウトランダーズ】武器と防具強化のやり方と上限【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/560265",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-06T08:10:35.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560244.png?date=1793262813",
+      "publishedAt": "2026-11-06T07:39:20.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560265.png?date=1789017922",
       "categories": [
-        "guide"
+        "other"
       ],
       "series": [
         "outlanders"
@@ -1239,7 +1281,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "7cc6494b340f",
@@ -1385,27 +1427,6 @@
       "isNew": false
     },
     {
-      "id": "5aebc693cc9e",
-      "title": "【モンハンアウトランダーズ】アケニアの評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577458",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-06T01:31:09.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577458.png?date=1790214381",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "691b61ebe20d",
       "title": "『モンスターハンターNowカーニバル 2026：グローバル』",
       "url": "https://monsterhunternow.com/ja/news/mhn-carnival-2026-global",
@@ -1464,28 +1485,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "4453b9bbbd1c",
-      "title": "MHWilds【参加型】 #180 ※ロビー入室自由※🫣弓専と行く🏹【モンスターハンターワイルズ】ゆこいちの絶叫GAME部屋 Gs (zyduLVnQZQ)",
-      "url": "https://media.unisba.ac.id/27c58dd4/8ae61adeA1BRMTFAJyIBCjs//",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-11-05T21:36:24.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "411bb4076b94",
@@ -1880,7 +1879,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "019e6774fa75",
@@ -1946,12 +1945,12 @@
     {
       "id": "abc0b1f2f534",
       "title": "『モンハン』アイルーを再現したモンブラン風スイーツが超かわいい。バンタン文化祭コラボの詳細が解禁",
-      "url": "https://news.nicovideo.jp/watch/nw19954742?news_ref",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
+      "url": "https://news.denfaminicogamer.jp/news/2611042k",
+      "host": "news.denfaminicogamer.jp",
+      "source": "電ファミニコゲーマー",
       "summary": "",
-      "publishedAt": "2026-11-04T08:12:10.000Z",
-      "image": "",
+      "publishedAt": "2026-11-04T08:10:00.000Z",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/imgi_65_mv-pc-1024x579.png",
       "categories": [
         "collab"
       ],
