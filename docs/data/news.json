@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-07T14:30:14.735Z",
+  "updatedAt": "2026-11-07T15:00:18.183Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 92,
-  "todayCount": 51,
+  "total": 90,
+  "todayCount": 0,
   "categories": [
     {
       "id": "new",
@@ -27,7 +27,7 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 4
+      "count": 3
     },
     {
       "id": "goods",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 45
+      "count": 44
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 32
+      "count": 31
     },
     {
       "id": "rise",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 1
+      "count": 0
     },
     {
       "id": "outlanders",
@@ -107,19 +107,11 @@
       "count": 11
     },
     {
-      "name": "Unisba Media",
-      "count": 2
-    },
-    {
       "name": "玩具人 TOY PEOPLE",
       "count": 2
     },
     {
       "name": "ガジェット通信",
-      "count": 2
-    },
-    {
-      "name": "Otakugame.fr",
       "count": 2
     },
     {
@@ -143,6 +135,10 @@
       "count": 1
     },
     {
+      "name": "Otakugame.fr",
+      "count": 1
+    },
+    {
       "name": "게임메카",
       "count": 1
     },
@@ -160,6 +156,10 @@
     },
     {
       "name": "ファミ通",
+      "count": 1
+    },
+    {
+      "name": "Unisba Media",
       "count": 1
     },
     {
@@ -367,41 +367,6 @@
       ]
     },
     {
-      "id": "99367de5c480",
-      "title": "【モンハンワイルズ】FF14スペシャルコラボ！オメガ・プラネテスに挑戦！？【モンスターハンターワイルズ】 Squirrel White (pOuewDUeSH)",
-      "summary": "",
-      "url": "https://media.unisba.ac.id/7ee40dde/8cedf2b1HKlSPnDgZjs/?share",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563066.png?date=1780886791",
-      "leadSource": "Unisba Media",
-      "publishedAt": "2026-11-07T07:24:31.000Z",
-      "sourceCount": 2,
-      "articleCount": 3,
-      "categories": [
-        "collab",
-        "new"
-      ],
-      "keywords": [
-        "モンスターハンターワイルズ",
-        "モンハンワイルズ"
-      ],
-      "articles": [
-        {
-          "title": "【モンハンワイルズ】Switch2版の発売日・最新情報【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/563066",
-          "source": "GameWith",
-          "publishedAt": "2026-11-05T11:00:09.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ】チャアクの操作方法と使い方・立ち回り【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/461266",
-          "source": "GameWith",
-          "publishedAt": "2026-11-05T08:42:14.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "2d4140589897",
       "title": "『モンスターハンターワイルズ：アセンダンス』テオ・テスカトルが再臨！「カプコンフィギュアビルダー クリエイターズモデル 炎王龍 テオ・テスカトル 【復刻版】」2027年5月発売",
       "summary": "",
@@ -461,13 +426,55 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-07T14:00:15.311Z",
-    "previousCount": 90,
-    "newCount": 3
+    "previousAt": "2026-11-07T14:30:14.735Z",
+    "previousCount": 92,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-07T15:00:14.735Z",
+  "nextUpdateAt": "2026-11-07T15:30:18.183Z",
   "items": [
+    {
+      "id": "48f27bc980e0",
+      "title": "【モンハンアウトランダーズ】取り返しのつかない要素【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/560314",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-07T14:35:16.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560314.png?date=1793276254",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "597d6b691dc3",
+      "title": "【モンハンアウトランダーズ】キャラの育成要素まとめ【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/560256",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-07T13:58:07.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560256.png?date=1793227616",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "c3ef4d2c6063",
       "title": "【モンハンアウトランダーズ】主人公(大剣)の評価とおすすめ装備・編成【アウトランダーズ】",
@@ -719,7 +726,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ea27694f7437",
@@ -880,27 +887,6 @@
       ],
       "series": [
         "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "99367de5c480",
-      "title": "【モンハンワイルズ】FF14スペシャルコラボ！オメガ・プラネテスに挑戦！？【モンスターハンターワイルズ】 Squirrel White (pOuewDUeSH)",
-      "url": "https://media.unisba.ac.id/7ee40dde/8cedf2b1HKlSPnDgZjs/?share",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-11-07T07:24:31.000Z",
-      "image": "",
-      "categories": [
-        "collab"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1098,27 +1084,6 @@
       "isNew": false
     },
     {
-      "id": "48f27bc980e0",
-      "title": "【モンハンアウトランダーズ】取り返しのつかない要素【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/560314",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-07T05:48:22.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560314.png?date=1793276254",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "b42f88b40196",
       "title": "【モンハンアウトランダーズ】ロードの評価とおすすめ装備・編成【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/583506",
@@ -1287,27 +1252,6 @@
       "isNew": false
     },
     {
-      "id": "597d6b691dc3",
-      "title": "【モンハンアウトランダーズ】キャラの育成要素まとめ【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/560256",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-07T04:25:31.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560256.png?date=1793227616",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "c9cd694c1431",
       "title": "【モンハンアウトランダーズ】巨木の原野のマップ一覧【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/560129",
@@ -1451,27 +1395,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "d81286a23563",
-      "title": "モンスターハンターストーリーズ3 物語紹介",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPR3BjcGlVd0hpcHVBVjJyaHF2RldiNFd3cjd4QTc0aHlsaUFDcTBDOUNGNWpjRkZzZ01Ba21ZcTFUTWN3OTdxbUxvekdVRFVkYnFYRlJLSUxwN1lnZjA4RTJfOFgySFo0ekQzWHEwZDRBN2o5WFJhalJOZXUtOF9FaS01N3dUd2lXWlg0b0x0SmN5aGRQeEN0a1FuUWNheXJaeTkwUEp4Q3FlaU5SanF5aWpSdzgyQlozbEdFRl8zbGNVX2Rtb1B1cXBILWJ2VWJYVFBMem9mSUVwVzJ3M3R0cElxeGdOd2dpdTl4UEtTZnNtOEdtVUtkOXYwNkVIbTY1dHUzOHlJRExQa1RIZHFOT2tSQlBuVFgzM1ppZ0hqSkg4eFRK0gGsAkFVX3lxTE9rUmJnTUQ3TDhlSHl6emJMSmZ0MGZxSVVSVjJqRGU4NUdheWRUcFR5STdjN25VTHpzTU9VY2cyRFBZYl9sSm5rV2ZHNklOcmY0QXI5cUtPZVNxeTR4SFRFWktLZkdXazBFYUxYQUt0TzFwZjFoaXcwY3BDZWVKUk5KZTlnaDFFOTN0T3Jwem9tc3A2d3d1cUJtaklkaFZtQXJES05mOWEzTTRBZ09KVkRRblVIZDVTRnFpZEE0eU1MX1lFNjlYNnIyd2VMTWR6NjZDa09lZUh1ZHE0b0F3Qmo4YjZxZld3TkpyWlpxSnQ3VnowSThnSFJ5ajhON3FIV2tBOHdINFdJZXVNX1ptdko2ZEp2cWtkMFJ2clpkY0o3R0pxY3VkdHJhbXJsVw?oc=5",
-      "host": "otakugame.fr",
-      "source": "Otakugame.fr",
-      "summary": "",
-      "publishedAt": "2026-11-06T21:59:09.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "4cd467a24cc4",
@@ -1661,7 +1584,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "81028676ddfa",
