@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-07T22:00:15.855Z",
+  "updatedAt": "2026-11-07T22:30:15.811Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 90,
+  "total": 91,
   "todayCount": 14,
   "categories": [
     {
@@ -27,7 +27,7 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 3
+      "count": 4
     },
     {
       "id": "goods",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 30
+      "count": 31
     },
     {
       "id": "rise",
@@ -125,6 +125,10 @@
     {
       "name": "Monster Hunter Now",
       "count": 2
+    },
+    {
+      "name": "Unisba Media",
+      "count": 1
     },
     {
       "name": "Yahoo!ニュース",
@@ -320,6 +324,34 @@
       ]
     },
     {
+      "id": "99367de5c480",
+      "title": "【モンハンワイルズ】FF14スペシャルコラボ！オメガ・プラネテスに挑戦！？【モンスターハンターワイルズ】 Squirrel White (pOuewDUeSH)",
+      "summary": "",
+      "url": "https://media.unisba.ac.id/7ee40dde/8cedf2b1HKlSPnDgZjs/?share",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/461266.png?date=1727178690",
+      "leadSource": "Unisba Media",
+      "publishedAt": "2026-11-07T07:24:31.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "collab",
+        "guide"
+      ],
+      "keywords": [
+        "モンスターハンターワイルズ",
+        "モンハンワイルズ"
+      ],
+      "articles": [
+        {
+          "title": "【モンハンワイルズ】チャアクの操作方法と使い方・立ち回り【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/461266",
+          "source": "GameWith",
+          "publishedAt": "2026-11-05T08:42:14.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "2d4140589897",
       "title": "『モンスターハンターワイルズ：アセンダンス』テオ・テスカトルが再臨！「カプコンフィギュアビルダー クリエイターズモデル 炎王龍 テオ・テスカトル 【復刻版】」2027年5月発売",
       "summary": "",
@@ -379,12 +411,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-07T21:30:17.835Z",
+    "previousAt": "2026-11-07T22:00:15.855Z",
     "previousCount": 90,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-07T22:30:15.855Z",
+  "nextUpdateAt": "2026-11-07T23:00:15.811Z",
   "items": [
     {
       "id": "5f4f7d30e3f0",
@@ -1161,6 +1193,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "99367de5c480",
+      "title": "【モンハンワイルズ】FF14スペシャルコラボ！オメガ・プラネテスに挑戦！？【モンスターハンターワイルズ】 Squirrel White (pOuewDUeSH)",
+      "url": "https://media.unisba.ac.id/7ee40dde/8cedf2b1HKlSPnDgZjs/?share",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-11-07T07:24:31.000Z",
+      "image": "",
+      "categories": [
+        "collab"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "278fbd5d3ae7",
@@ -2092,7 +2145,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "982bd6d55b68",
