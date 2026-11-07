@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-07T20:30:15.380Z",
+  "updatedAt": "2026-11-07T21:00:15.524Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 93,
-  "todayCount": 13,
+  "total": 91,
+  "todayCount": 14,
   "categories": [
     {
       "id": "new",
@@ -32,7 +32,7 @@
     {
       "id": "goods",
       "label": "グッズ・フィギュア",
-      "count": 5
+      "count": 4
     },
     {
       "id": "media",
@@ -57,7 +57,7 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 5
+      "count": 4
     },
     {
       "id": "other",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 32
+      "count": 31
     },
     {
       "id": "rise",
@@ -111,20 +111,20 @@
       "count": 4
     },
     {
-      "name": "玩具人 TOY PEOPLE",
-      "count": 3
-    },
-    {
-      "name": "Unisba Media",
+      "name": "ガジェット通信",
       "count": 2
     },
     {
-      "name": "ガジェット通信",
+      "name": "玩具人 TOY PEOPLE",
       "count": 2
     },
     {
       "name": "Monster Hunter Now",
       "count": 2
+    },
+    {
+      "name": "Unisba Media",
+      "count": 1
     },
     {
       "name": "Yahoo!ニュース",
@@ -247,13 +247,13 @@
       ]
     },
     {
-      "id": "a32d512021b1",
-      "title": "【モンハンアウトランダーズ】エンショウの評価とおすすめ装備・編成【アウトランダーズ】",
+      "id": "5f4f7d30e3f0",
+      "title": "【モンハンアウトランダーズ】クレスの評価とおすすめ装備・編成【アウトランダーズ】",
       "summary": "",
-      "url": "https://gamewith.jp/mhoutlanders/577460",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577460.png?date=1790214483",
+      "url": "https://gamewith.jp/mhoutlanders/577459",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577459.png?date=1790214418",
       "leadSource": "GameWith",
-      "publishedAt": "2026-11-07T19:52:34.000Z",
+      "publishedAt": "2026-11-07T20:07:11.000Z",
       "sourceCount": 2,
       "articleCount": 41,
       "categories": [
@@ -266,6 +266,13 @@
         "装備"
       ],
       "articles": [
+        {
+          "title": "【モンハンアウトランダーズ】エンショウの評価とおすすめ装備・編成【アウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/577460",
+          "source": "GameWith",
+          "publishedAt": "2026-11-07T19:52:34.000Z",
+          "isPR": false
+        },
         {
           "title": "【モンハンアウトランダーズ】主人公(太刀)の評価とおすすめ装備・編成【アウトランダーズ】",
           "url": "https://gamewith.jp/mhoutlanders/577470",
@@ -313,13 +320,6 @@
           "url": "https://gamewith.jp/mhoutlanders/531932",
           "source": "GameWith",
           "publishedAt": "2026-11-07T16:05:18.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンアウトランダーズ】ガチャおすすめと一覧│引くべきガチャ【アウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/531924",
-          "source": "GameWith",
-          "publishedAt": "2026-11-07T15:48:14.000Z",
           "isPR": false
         }
       ]
@@ -489,13 +489,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-07T20:00:15.200Z",
-    "previousCount": 94,
-    "newCount": 1
+    "previousAt": "2026-11-07T20:30:15.380Z",
+    "previousCount": 93,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-07T21:00:15.380Z",
+  "nextUpdateAt": "2026-11-07T21:30:15.524Z",
   "items": [
+    {
+      "id": "5f4f7d30e3f0",
+      "title": "【モンハンアウトランダーズ】クレスの評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577459",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-07T20:07:11.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577459.png?date=1790214418",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "a32d512021b1",
       "title": "【モンハンアウトランダーズ】エンショウの評価とおすすめ装備・編成【アウトランダーズ】",
@@ -1504,27 +1525,6 @@
       "isNew": false
     },
     {
-      "id": "5f4f7d30e3f0",
-      "title": "【モンハンアウトランダーズ】クレスの評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577459",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-07T04:45:09.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577459.png?date=1790214418",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "c61513029cce",
       "title": "【モンハンアウトランダーズ】PC版やPS5版はある？対応機種まとめ【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/573756",
@@ -2287,25 +2287,6 @@
       "isNew": false
     },
     {
-      "id": "6a32e21155b3",
-      "title": "BANPRESTOプライズ「モンスターハンター 鎮座獣 ティガレックス～絶対強者～」が2026年11月登場！迫力の咆哮を再現",
-      "url": "https://www.toy-people.com/jp/?p",
-      "host": "toy-people.com",
-      "source": "玩具人 TOY PEOPLE",
-      "summary": "",
-      "publishedAt": "2026-11-05T09:03:34.000Z",
-      "image": "https://www.toy-people.com/img/90_90_logo.gif",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "92bac44921b3",
       "title": "モンスターハンター × バンタン文化祭 11月14日に全国5校で開催!",
       "url": "https://collabo-cafe.com/events/collabo/monsterhunter-vantan-bunkasai-2026/",
@@ -2399,27 +2380,6 @@
       ],
       "series": [
         "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "91e6612879a4",
-      "title": "【ずんだもん解説】カプコン株急落は本当にワイルズが原因なのか？／好決算でも株価が下がる理由（モンハンワイルズ） 【Monster Hunter Wilds】 Quinte News (Nd96Cjpovd)",
-      "url": "https://media.unisba.ac.id/d433a5ad/3e5ebb80GQsWIzJBJjsgRQU",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-11-04T20:54:47.000Z",
-      "image": "",
-      "categories": [
-        "sales"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
