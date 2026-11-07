@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-07T04:30:16.095Z",
+  "updatedAt": "2026-11-07T05:00:13.853Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 82,
-  "todayCount": 33,
+  "total": 84,
+  "todayCount": 36,
   "categories": [
     {
       "id": "new",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 41
+      "count": 43
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 26
+      "count": 27
     },
     {
       "id": "rise",
@@ -79,12 +79,12 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 2
+      "count": 3
     },
     {
       "id": "now",
       "label": "Now",
-      "count": 3
+      "count": 4
     },
     {
       "id": "stories",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 54
+      "count": 55
     },
     {
       "name": "YouTube",
@@ -116,6 +116,10 @@
     },
     {
       "name": "Monster Hunter Now",
+      "count": 2
+    },
+    {
+      "name": "Unisba Media",
       "count": 2
     },
     {
@@ -144,10 +148,6 @@
     },
     {
       "name": "コラボカフェ",
-      "count": 1
-    },
-    {
-      "name": "Unisba Media",
       "count": 1
     },
     {
@@ -184,8 +184,8 @@
       "image": "https://rensai.jp/wp-content/uploads/2026/11/3fe53f5e19eec9c3ac311d887cb66d18.jpg",
       "leadSource": "ガジェット通信",
       "publishedAt": "2026-11-07T00:30:33.000Z",
-      "sourceCount": 4,
-      "articleCount": 6,
+      "sourceCount": 5,
+      "articleCount": 7,
       "categories": [
         "other"
       ],
@@ -200,6 +200,13 @@
           "url": "https://www.gamer.ne.jp/news/202611060034/",
           "source": "Gamer",
           "publishedAt": "2026-11-06T08:20:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンナウ】モンハンNow感謝祭【3周年記念】【モンハンNow】",
+          "url": "https://gamewith.jp/monsterhunternow/article/show/577438",
+          "source": "GameWith",
+          "publishedAt": "2026-11-06T06:09:18.000Z",
           "isPR": false
         },
         {
@@ -354,13 +361,76 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-07T04:00:15.658Z",
-    "previousCount": 81,
-    "newCount": 3
+    "previousAt": "2026-11-07T04:30:16.095Z",
+    "previousCount": 82,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-07T05:00:16.095Z",
+  "nextUpdateAt": "2026-11-07T05:30:13.853Z",
   "items": [
+    {
+      "id": "3d596f6fe3e7",
+      "title": "【モンハンアウトランダーズ】序盤の効率的な進め方【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531932",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-07T04:36:28.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531932.png?date=1789010047",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "b03da4431e65",
+      "title": "【モンハンアウトランダーズ】コントローラーは使える？【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/574152",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-07T04:25:41.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574152.png?date=1793227034",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "c3ef4d2c6063",
+      "title": "【モンハンアウトランダーズ】主人公(大剣)の評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577471",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-07T04:12:19.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577471.png?date=1790214971",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "2d3ed020ccc5",
       "title": "【モンハンアウトランダーズ】ガチャおすすめと一覧│引くべきガチャ【アウトランダーズ】",
@@ -425,25 +495,23 @@
       "isNew": false
     },
     {
-      "id": "3d596f6fe3e7",
-      "title": "【モンハンアウトランダーズ】序盤の効率的な進め方【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531932",
-      "host": "gamewith.jp",
-      "source": "GameWith",
+      "id": "ff97dcbe7c1b",
+      "title": "BANPRESTOプライズ「モンスターハンター 鎮座獣 ラージャン／激昂したラージャン～破壊と滅亡の申し子～」ソフビフィギュアが登場！",
+      "url": "https://www.toy-people.com/jp/?p",
+      "host": "toy-people.com",
+      "source": "玩具人 TOY PEOPLE",
       "summary": "",
-      "publishedAt": "2026-11-07T03:25:22.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531932.png?date=1789010047",
+      "publishedAt": "2026-11-07T03:21:25.000Z",
+      "image": "https://www.toy-people.com/img/90_90_logo.gif",
       "categories": [
-        "guide"
+        "goods"
       ],
-      "series": [
-        "outlanders"
-      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "c50fb94399e9",
@@ -460,25 +528,6 @@
       "series": [
         "outlanders"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "6a32e21155b3",
-      "title": "BANPRESTOプライズ「モンスターハンター 鎮座獣 ティガレックス～絶対強者～」が2026年11月登場！迫力の咆哮を再現",
-      "url": "https://www.toy-people.com/jp/?p",
-      "host": "toy-people.com",
-      "source": "玩具人 TOY PEOPLE",
-      "summary": "",
-      "publishedAt": "2026-11-07T03:15:06.000Z",
-      "image": "https://www.toy-people.com/img/90_90_logo.gif",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -864,6 +913,27 @@
       "isNew": false
     },
     {
+      "id": "0574437f25e8",
+      "title": "【モンハンアウトランダーズ】ブリックスの評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577456",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T18:21:17.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577456.png?date=1790214292",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "78d907e0c7ca",
       "title": "【モンハンアウトランダーズ】ミドリの評価とおすすめ装備・編成【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577465",
@@ -1134,48 +1204,6 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "b03da4431e65",
-      "title": "【モンハンアウトランダーズ】コントローラーは使える？【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/574152",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-06T14:23:23.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574152.png?date=1793227034",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "c3ef4d2c6063",
-      "title": "【モンハンアウトランダーズ】主人公(大剣)の評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577471",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-06T14:05:18.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577471.png?date=1790214971",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
       "isNew": false
     },
     {
@@ -1218,7 +1246,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b42f88b40196",
@@ -1271,27 +1299,6 @@
       "summary": "",
       "publishedAt": "2026-11-06T12:15:42.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/581392.png?date=1793225716",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "6cc16e919d3b",
-      "title": "【モンハンアウトランダーズ】マドレの評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577464",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-06T11:43:13.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577464.png?date=1790214658",
       "categories": [
         "guide"
       ],
@@ -1452,6 +1459,27 @@
       "isNew": false
     },
     {
+      "id": "8c086bb7f518",
+      "title": "【モンハンナウ】モンハンNow感謝祭【3周年記念】【モンハンNow】",
+      "url": "https://gamewith.jp/monsterhunternow/article/show/577438",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T06:09:18.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "4c0f9035ba74",
       "title": "モンスターハンター3 トレーラー紹介",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbEZVNE9QbnBsc1RwR3dVQmMxZHlmaVcxcUViVk8yalQ5a1U1aUdHN0tMRUM5WGVfN1lGRGp1SGs2SnllTlR3bmprOXo4dGhFeXFQdFNGaFJjZHl3bmlUbGZEdnpNa0pNSFQyUzBpcWZ0MEplNHRuZDFZSDNpc0tfTll6WmlxYzVQWHNaMjdUWVE5Rm5scmFqM3J2eW5WdlhNZFFUcXFrOTBKSXdGTDR5REdudGpHcmJtTDJDekZNUnFqWE9rV0Z0WEtUU29jb3hVVGRQUkZjVElEbUR5el8tVjNvUTNqRFRaNzhyUlJnVjFfNUJ3c3dpblBhTldGSnpm0gGIAkFVX3lxTFAxNXBPQkRsM2kzOUNZczZfc3pSLU5uU2xRZXpJdWFTSUZJSEt2SnBWejAzbGJHeEZIdWFwYUFFZnExVWlJTW5VdFpsWkVSVUpIS2xfMHh1THVpTzZiX2t3a1FFdG9YaTc5YzVlTXlIVThpNVBQcGpxT1FSekRPb1B3U2xxUWRjV3RKaTVRb0xkR0NEUXNxWTR4TXJUSDZjanVvOTZ0ZkRBU3BXV3RIWnZIVThQZnJSblVXMmVnYmhDR0Y2dUN4LXJtTWpjSEsxU2hjMEtYcC02eHVwLTdtdmRudVNlaXliaXM1aFFPVTN3TUVwdTFkOV9GRkJmY0Q3MEVqeHdwQllfVw?oc=5",
@@ -1468,7 +1496,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fddcb852ba99",
@@ -1590,6 +1618,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "4453b9bbbd1c",
+      "title": "MHWilds【参加型】 #180 ※ロビー入室自由※🫣弓専と行く🏹【モンスターハンターワイルズ】ゆこいちの絶叫GAME部屋 Gs (zyduLVnQZQ)",
+      "url": "https://media.unisba.ac.id/27c58dd4/8ae61adeA1BRMTFAJyIBCjs//",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-11-05T21:36:24.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "411bb4076b94",
