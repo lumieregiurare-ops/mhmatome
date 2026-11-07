@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-07T19:27:24.199Z",
+  "updatedAt": "2026-11-07T20:00:15.200Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 91,
+  "total": 94,
   "todayCount": 12,
   "categories": [
     {
@@ -27,7 +27,7 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 4
+      "count": 5
     },
     {
       "id": "goods",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 41
+      "count": 43
     }
   ],
   "series": [
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 0
+      "count": 1
     },
     {
       "id": "outlanders",
@@ -115,11 +115,15 @@
       "count": 2
     },
     {
-      "name": "玩具人 TOY PEOPLE",
+      "name": "ガジェット通信",
       "count": 2
     },
     {
-      "name": "ガジェット通信",
+      "name": "Otakugame.fr",
+      "count": 2
+    },
+    {
+      "name": "玩具人 TOY PEOPLE",
       "count": 2
     },
     {
@@ -139,15 +143,19 @@
       "count": 1
     },
     {
-      "name": "Otakugame.fr",
-      "count": 1
-    },
-    {
       "name": "게임메카",
       "count": 1
     },
     {
       "name": "キャラグー",
+      "count": 1
+    },
+    {
+      "name": "マイナビニュース",
+      "count": 1
+    },
+    {
+      "name": "電撃オンライン",
       "count": 1
     },
     {
@@ -485,12 +493,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-07T19:00:14.984Z",
-    "previousCount": 92,
-    "newCount": 1
+    "previousAt": "2026-11-07T19:27:24.199Z",
+    "previousCount": 91,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-07T19:57:24.199Z",
+  "nextUpdateAt": "2026-11-07T20:30:15.200Z",
   "items": [
     {
       "id": "de51f2f1d013",
@@ -1392,7 +1400,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b42f88b40196",
@@ -1500,25 +1508,6 @@
       "isNew": false
     },
     {
-      "id": "6a32e21155b3",
-      "title": "BANPRESTOプライズ「モンスターハンター 鎮座獣 ティガレックス～絶対強者～」が2026年11月登場！迫力の咆哮を再現",
-      "url": "https://www.toy-people.com/jp/?p",
-      "host": "toy-people.com",
-      "source": "玩具人 TOY PEOPLE",
-      "summary": "",
-      "publishedAt": "2026-11-07T03:15:06.000Z",
-      "image": "https://www.toy-people.com/img/90_90_logo.gif",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "c61513029cce",
       "title": "【モンハンアウトランダーズ】PC版やPS5版はある？対応機種まとめ【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/573756",
@@ -1601,6 +1590,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "d81286a23563",
+      "title": "モンスターハンターストーリーズ3 物語紹介",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPR3BjcGlVd0hpcHVBVjJyaHF2RldiNFd3cjd4QTc0aHlsaUFDcTBDOUNGNWpjRkZzZ01Ba21ZcTFUTWN3OTdxbUxvekdVRFVkYnFYRlJLSUxwN1lnZjA4RTJfOFgySFo0ekQzWHEwZDRBN2o5WFJhalJOZXUtOF9FaS01N3dUd2lXWlg0b0x0SmN5aGRQeEN0a1FuUWNheXJaeTkwUEp4Q3FlaU5SanF5aWpSdzgyQlozbEdFRl8zbGNVX2Rtb1B1cXBILWJ2VWJYVFBMem9mSUVwVzJ3M3R0cElxeGdOd2dpdTl4UEtTZnNtOEdtVUtkOXYwNkVIbTY1dHUzOHlJRExQa1RIZHFOT2tSQlBuVFgzM1ppZ0hqSkg4eFRK0gGsAkFVX3lxTE9rUmJnTUQ3TDhlSHl6emJMSmZ0MGZxSVVSVjJqRGU4NUdheWRUcFR5STdjN25VTHpzTU9VY2cyRFBZYl9sSm5rV2ZHNklOcmY0QXI5cUtPZVNxeTR4SFRFWktLZkdXazBFYUxYQUt0TzFwZjFoaXcwY3BDZWVKUk5KZTlnaDFFOTN0T3Jwem9tc3A2d3d1cUJtaklkaFZtQXJES05mOWEzTTRBZ09KVkRRblVIZDVTRnFpZEE0eU1MX1lFNjlYNnIyd2VMTWR6NjZDa09lZUh1ZHE0b0F3Qmo4YjZxZld3TkpyWlpxSnQ3VnowSThnSFJ5ajhON3FIV2tBOHdINFdJZXVNX1ptdko2ZEp2cWtkMFJ2clpkY0o3R0pxY3VkdHJhbXJsVw?oc=5",
+      "host": "otakugame.fr",
+      "source": "Otakugame.fr",
+      "summary": "",
+      "publishedAt": "2026-11-06T21:59:09.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "4cd467a24cc4",
@@ -2118,6 +2128,25 @@
       "isNew": false
     },
     {
+      "id": "9d4d7fa64a07",
+      "title": "福岡・マリノアシティ跡地に新アウトレット誕生! 九州最大級の「ロピア」、モンハン等身大立像も",
+      "url": "https://news.mynavi.jp/article/20261106-5249421/",
+      "host": "news.mynavi.jp",
+      "source": "マイナビニュース",
+      "summary": "",
+      "publishedAt": "2026-11-05T23:15:00.000Z",
+      "image": "https://news.mynavi.jp/article/20261106-5249421/ogp_images/ogp.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "55c33e94fb1b",
       "title": "【モンハンナウ】最強武器種ランキング【モンハンNow】",
       "url": "https://gamewith.jp/monsterhunternow/article/show/415866",
@@ -2203,6 +2232,25 @@
       "isNew": false
     },
     {
+      "id": "4fc13d1702ff",
+      "title": "『ガルクラ』×『楽園追放』歴代JKビジュアルでまさかのコラボ。『雑踏、僕らの街』を使ったコラボPVも",
+      "url": "https://dengekionline.com/article/images/202611/93206/923909",
+      "host": "dengekionline.com",
+      "source": "電撃オンライン",
+      "summary": "",
+      "publishedAt": "2026-11-05T11:35:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/dengeki/93206/afc9881b289ee7766a55acc2298c4839e.jpg?x=1280",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "982bd6d55b68",
       "title": "【モンハンNow】ほんとに強い？スカルホイッスル！！麻痺笛を強く使える装備構成とは【ランク394】",
       "url": "https://youtu.be/G8sGlzCFYqA?si",
@@ -2243,6 +2291,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "ff97dcbe7c1b",
+      "title": "BANPRESTOプライズ「モンスターハンター 鎮座獣 ラージャン／激昂したラージャン～破壊と滅亡の申し子～」ソフビフィギュアが登場！",
+      "url": "https://www.toy-people.com/jp/?p",
+      "host": "toy-people.com",
+      "source": "玩具人 TOY PEOPLE",
+      "summary": "",
+      "publishedAt": "2026-11-05T09:12:25.000Z",
+      "image": "https://www.toy-people.com/img/90_90_logo.gif",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "92bac44921b3",
