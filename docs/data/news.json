@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-07T09:00:17.911Z",
+  "updatedAt": "2026-11-07T09:30:14.483Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 85,
+  "total": 87,
   "todayCount": 46,
   "categories": [
     {
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 43
+      "count": 45
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 26
+      "count": 27
     },
     {
       "id": "rise",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 56
+      "count": 57
     },
     {
       "name": "YouTube",
@@ -139,6 +139,10 @@
       "count": 1
     },
     {
+      "name": "マイナビニュース",
+      "count": 1
+    },
+    {
       "name": "電撃オンライン",
       "count": 1
     },
@@ -167,11 +171,11 @@
       "count": 1
     },
     {
-      "name": "ファミ通",
+      "name": "ｄメニューニュース",
       "count": 1
     },
     {
-      "name": "Saiga NAK",
+      "name": "ファミ通",
       "count": 1
     }
   ],
@@ -383,13 +387,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-07T08:30:15.622Z",
+    "previousAt": "2026-11-07T09:00:17.911Z",
     "previousCount": 85,
     "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-07T09:30:17.911Z",
+  "nextUpdateAt": "2026-11-07T10:00:14.483Z",
   "items": [
+    {
+      "id": "fa5f63e461a4",
+      "title": "【モンハンアウトランダーズ】マップ攻略一覧｜探索ツール【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531937",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-07T07:01:27.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531937.png?date=1793226114",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "ea27694f7437",
       "title": "【モンハンアウトランダーズ】リセマラのやり方と所要時間｜何連引ける？【アウトランダーズ】",
@@ -410,6 +435,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "278fbd5d3ae7",
+      "title": "【モンハンアウトランダーズ】フィーヤはいつ実装？【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/586524",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-07T06:29:33.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586524.png?date=1793708718",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "ebb72622d714",
@@ -833,27 +879,6 @@
       "isNew": false
     },
     {
-      "id": "fa5f63e461a4",
-      "title": "【モンハンアウトランダーズ】マップ攻略一覧｜探索ツール【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531937",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-07T03:39:20.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531937.png?date=1793226114",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "83c2cd6f4a1b",
       "title": "【モンハンアウトランダーズ】ストーリー攻略チャート【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/531933",
@@ -933,7 +958,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0fa16261f863",
@@ -1333,27 +1358,6 @@
       "isNew": false
     },
     {
-      "id": "79a17b7332f8",
-      "title": "【モンハンアウトランダーズ】ラヤの評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577463",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-06T15:55:12.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577463.png?date=1790214602",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "f4f222ac2e2d",
       "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/575036",
@@ -1744,6 +1748,25 @@
       "isNew": false
     },
     {
+      "id": "9d4d7fa64a07",
+      "title": "福岡・マリノアシティ跡地に新アウトレット誕生! 九州最大級の「ロピア」、モンハン等身大立像も",
+      "url": "https://news.mynavi.jp/article/20261106-5249421/",
+      "host": "news.mynavi.jp",
+      "source": "マイナビニュース",
+      "summary": "",
+      "publishedAt": "2026-11-05T23:15:00.000Z",
+      "image": "https://news.mynavi.jp/article/20261106-5249421/ogp_images/ogp.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "40bccce677c8",
       "title": "【アセンダンス】大剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/485475",
@@ -1947,7 +1970,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "92bac44921b3",
@@ -1967,6 +1990,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "f5f4b66f2fff",
+      "title": "【モンハンワイルズ】チャアクの操作方法と使い方・立ち回り【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/461266",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-05T08:42:14.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/461266.png?date=1727178690",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "f1e344fb9da2",
@@ -2113,6 +2157,27 @@
       "isNew": false
     },
     {
+      "id": "f360a4e329fa",
+      "title": "PS Storeで「BLACK FRIDAY SALE」第一弾開催！「ACE COMBAT 8」や「モンスターハンターワイルズ」などがセール！",
+      "url": "https://topics.smt.docomo.ne.jp/article/funglr_games/trend/funglr_games-202611337165",
+      "host": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
+      "summary": "",
+      "publishedAt": "2026-11-04T11:12:02.000Z",
+      "image": "https://img.topics.smt.news.goo.ne.jp/picture/funglr_games/m_funglr_games-202611337165.jpg",
+      "categories": [
+        "sale"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "37e49d941582",
       "title": "『モンハン』の世界が文化祭に！ バンタン文化祭2026が11月14日開催。謎解きクエストやコラボカフェなど特別企画を実施【バンタン文化祭2026】",
       "url": "https://www.famitsu.com/article/202611/91788",
@@ -2128,27 +2193,6 @@
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f360a4e329fa",
-      "title": "PS Storeで「BLACK FRIDAY SALE」第一弾開催！「ACE COMBAT 8」や「モンスターハンターワイルズ」などがセール！",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pLUhmQ0xjZm9LdlFYc25PX1c1Ui1LRmtFSHJSckZibk1HUXZ6bFdFWUJIVThVMjZUY2FqNXpvaWNWZm5ILVhlekV2RGJ4c3RtaGdFRGFZWjEtdkdIRS1YdHZtNjRDREMxeDdLamNiS2VZNFc3d1JLN9IBfkFVX3lxTFBWREg2MElKODlEQUZST01hVVo2R3RTeWdHS3U1X3poRldLU2loMDhvcGdodWJKRkp0STFlOU5DY0xQRVJDVldUS1d6TFFTeVBWUWRiR3BGbTFCN3g0RTQ3N1ZFaDdZUkk5LXczNEVGTXN3RGZSb0Z3QUQ4Wmdhdw?oc=5",
-      "host": "saiganak.com",
-      "source": "Saiga NAK",
-      "summary": "",
-      "publishedAt": "2026-11-04T09:03:52.000Z",
-      "image": "",
-      "categories": [
-        "sale"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     }
