@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-07T06:30:14.963Z",
+  "updatedAt": "2026-11-07T07:00:16.775Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 86,
-  "todayCount": 43,
+  "total": 85,
+  "todayCount": 42,
   "categories": [
     {
       "id": "new",
@@ -52,24 +52,24 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 0
+      "count": 1
     },
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 5
+      "count": 4
     },
     {
       "id": "other",
       "label": "その他",
-      "count": 44
+      "count": 42
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 27
+      "count": 25
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 3
+      "count": 1
     },
     {
       "id": "now",
@@ -119,10 +119,6 @@
       "count": 2
     },
     {
-      "name": "Unisba Media",
-      "count": 2
-    },
-    {
       "name": "オタク総研",
       "count": 1
     },
@@ -152,6 +148,10 @@
     },
     {
       "name": "コラボカフェ",
+      "count": 1
+    },
+    {
+      "name": "Unisba Media",
       "count": 1
     },
     {
@@ -302,7 +302,7 @@
       "leadSource": "YouTube",
       "publishedAt": "2026-11-06T09:00:24.000Z",
       "sourceCount": 2,
-      "articleCount": 4,
+      "articleCount": 3,
       "categories": [
         "other"
       ],
@@ -317,13 +317,6 @@
           "url": "https://youtu.be/PE2aM8pDNaY?si",
           "source": "YouTube",
           "publishedAt": "2026-11-06T00:36:37.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【MHWilds/PS5】生き誇れ、野生の仔 4分57秒 狩猟笛 ソロ",
-          "url": "https://youtu.be/cqTn_Zn-Xy4?si",
-          "source": "YouTube",
-          "publishedAt": "2026-11-06T00:26:01.000Z",
           "isPR": false
         },
         {
@@ -393,12 +386,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-07T06:00:14.935Z",
-    "previousCount": 85,
-    "newCount": 3
+    "previousAt": "2026-11-07T06:30:14.963Z",
+    "previousCount": 86,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-07T07:00:14.963Z",
+  "nextUpdateAt": "2026-11-07T07:30:16.775Z",
   "items": [
     {
       "id": "580a376efe1a",
@@ -506,17 +499,16 @@
       "isNew": false
     },
     {
-      "id": "12d1ac4d89b6",
-      "title": "【モンハンアウトランダーズ】主人公のおすすめ武器種と心得｜最強武器種ランキング【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531944",
+      "id": "6440692bf3d2",
+      "title": "【モンハンアウトランダーズ】ルガ・エアルダの弱点と攻略【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/586566",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-07T05:11:20.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531944.png?date=1793082656",
+      "publishedAt": "2026-11-07T04:54:57.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586566.png?date=1793781037",
       "categories": [
-        "guide",
-        "sales"
+        "guide"
       ],
       "series": [
         "outlanders"
@@ -1026,7 +1018,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "139e9f532a51",
@@ -1100,27 +1092,6 @@
       "summary": "",
       "publishedAt": "2026-11-06T21:22:24.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/561564.png?date=1790214134",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "6440692bf3d2",
-      "title": "【モンハンアウトランダーズ】ルガ・エアルダの弱点と攻略【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/586566",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-06T18:24:55.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586566.png?date=1793781037",
       "categories": [
         "guide"
       ],
@@ -1407,6 +1378,27 @@
       "isNew": false
     },
     {
+      "id": "6cc16e919d3b",
+      "title": "【モンハンアウトランダーズ】マドレの評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577464",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T11:43:13.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577464.png?date=1790214658",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "4e3b6d2dd7aa",
       "title": "【モンハンワイルズ】片手剣でもみんなを守れるんです(泣)【骸場ミネオ】#モンハンワイルズ #モンハン #meme",
       "url": "https://youtu.be/3gZYIDQmnMM?si",
@@ -1472,6 +1464,25 @@
       "isNew": false
     },
     {
+      "id": "21ba638db87a",
+      "title": "【ゆっくり実況】帰ってきた脳筋ゴリラ魔法使い【#モンハン】",
+      "url": "https://youtu.be/DUHWczQO95k?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-06T09:31:34.000Z",
+      "image": "",
+      "categories": [
+        "community"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "45563b73052c",
       "title": "【モンハンワイルズ】6分35秒 ★10歴戦王アルシュベルド 復刻フリーチャレンジクエスト(生き誇れ、野生の仔)【PS5/狩猟笛】",
       "url": "https://youtu.be/OwmHoS7Cqbo?si",
@@ -1490,7 +1501,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d605748fb698",
@@ -1693,50 +1704,6 @@
       "isNew": false
     },
     {
-      "id": "00c0cef1cf61",
-      "title": "【MHWilds/PS5】生き誇れ、野生の仔 4分57秒 狩猟笛 ソロ",
-      "url": "https://youtu.be/cqTn_Zn-Xy4?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-06T00:26:01.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4453b9bbbd1c",
-      "title": "MHWilds【参加型】 #180 ※ロビー入室自由※🫣弓専と行く🏹【モンスターハンターワイルズ】ゆこいちの絶叫GAME部屋 Gs (zyduLVnQZQ)",
-      "url": "https://media.unisba.ac.id/27c58dd4/8ae61adeA1BRMTFAJyIBCjs//",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-11-05T21:36:24.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "411bb4076b94",
       "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/575038",
@@ -1901,7 +1868,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "010ece4575cd",
