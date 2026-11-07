@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-07T10:00:15.894Z",
+  "updatedAt": "2026-11-07T10:30:13.582Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 87,
-  "todayCount": 46,
+  "total": 88,
+  "todayCount": 47,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 30
+      "count": 31
     },
     {
       "id": "sale",
@@ -84,7 +84,7 @@
     {
       "id": "now",
       "label": "Now",
-      "count": 4
+      "count": 5
     },
     {
       "id": "stories",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 57
+      "count": 58
     },
     {
       "name": "YouTube",
@@ -189,16 +189,24 @@
       "leadSource": "ガジェット通信",
       "publishedAt": "2026-11-07T00:30:33.000Z",
       "sourceCount": 5,
-      "articleCount": 7,
+      "articleCount": 8,
       "categories": [
-        "other"
+        "other",
+        "guide"
       ],
       "keywords": [
         "now",
         "カーニバル",
-        "アマツマガツチ"
+        "モンハンNow"
       ],
       "articles": [
+        {
+          "title": "【モンハンナウ】最強装備・おすすめ装備まとめ【モンハンNow】",
+          "url": "https://gamewith.jp/monsterhunternow/article/show/414964",
+          "source": "GameWith",
+          "publishedAt": "2026-11-06T10:11:12.000Z",
+          "isPR": false
+        },
         {
           "title": "「モンスターハンターNowカーニバル 2026：グローバル」が11月28日より開催！速射砲を活用しながら古龍アマツマガツチに挑め",
           "url": "https://www.gamer.ne.jp/news/202611060034/",
@@ -380,13 +388,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-07T09:30:14.483Z",
+    "previousAt": "2026-11-07T10:00:15.894Z",
     "previousCount": 87,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-07T10:30:15.894Z",
+  "nextUpdateAt": "2026-11-07T11:00:13.582Z",
   "items": [
+    {
+      "id": "83c2cd6f4a1b",
+      "title": "【モンハンアウトランダーズ】ストーリー攻略チャート【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531933",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-07T09:18:20.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531933.png?date=1793227277",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "fa5f63e461a4",
       "title": "【モンハンアウトランダーズ】マップ攻略一覧｜探索ツール【アウトランダーズ】",
@@ -470,6 +499,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "2e9feb56cfad",
+      "title": "【モンハンアウトランダーズ】コジローの性能とおすすめキャラ【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577648",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-07T06:00:33.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577648.png?date=1792756159",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "5d87412b2370",
@@ -872,27 +922,6 @@
       "isNew": false
     },
     {
-      "id": "83c2cd6f4a1b",
-      "title": "【モンハンアウトランダーズ】ストーリー攻略チャート【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531933",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-07T03:26:12.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531933.png?date=1793227277",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "ff97dcbe7c1b",
       "title": "BANPRESTOプライズ「モンスターハンター 鎮座獣 ラージャン／激昂したラージャン～破壊と滅亡の申し子～」ソフビフィギュアが登場！",
       "url": "https://www.toy-people.com/jp/?p",
@@ -1225,6 +1254,27 @@
       "isNew": false
     },
     {
+      "id": "4cd467a24cc4",
+      "title": "【アセンダンス】双剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/577734",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T19:42:37.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577734.png?date=1789765976",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "0574437f25e8",
       "title": "【モンハンアウトランダーズ】ブリックスの評価とおすすめ装備・編成【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577456",
@@ -1328,27 +1378,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "79a17b7332f8",
-      "title": "【モンハンアウトランダーズ】ラヤの評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577463",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-06T15:55:12.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577463.png?date=1790214602",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "f4f222ac2e2d",
@@ -1455,6 +1484,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "81028676ddfa",
+      "title": "【モンハンナウ】最強装備・おすすめ装備まとめ【モンハンNow】",
+      "url": "https://gamewith.jp/monsterhunternow/article/show/414964",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T10:11:12.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/414964.png?date=1694484685",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "4074ee903332",
@@ -1758,7 +1808,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9d4d7fa64a07",
@@ -1851,27 +1901,6 @@
       "summary": "",
       "publishedAt": "2026-11-05T13:26:11.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4cd467a24cc4",
-      "title": "【アセンダンス】双剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/577734",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-05T13:03:19.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577734.png?date=1789765976",
       "categories": [
         "other"
       ],
