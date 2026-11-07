@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T09:30:14.483Z",
+  "updatedAt": "2026-11-07T10:00:15.894Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -12,7 +12,7 @@
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 3
+      "count": 4
     },
     {
       "id": "update",
@@ -27,12 +27,12 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 4
+      "count": 3
     },
     {
       "id": "goods",
       "label": "グッズ・フィギュア",
-      "count": 4
+      "count": 5
     },
     {
       "id": "media",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 29
+      "count": 30
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 45
+      "count": 44
     }
   ],
   "series": [
@@ -139,6 +139,10 @@
       "count": 1
     },
     {
+      "name": "キャラグー",
+      "count": 1
+    },
+    {
       "name": "マイナビニュース",
       "count": 1
     },
@@ -172,10 +176,6 @@
     },
     {
       "name": "ｄメニューニュース",
-      "count": 1
-    },
-    {
-      "name": "ファミ通",
       "count": 1
     }
   ],
@@ -251,8 +251,8 @@
       "image": "https://collabo-cafe.com/wp-content/uploads/monsterhunter-vantan-bunkasai-2026-keyvisual.jpg",
       "leadSource": "コラボカフェ",
       "publishedAt": "2026-11-05T08:56:17.000Z",
-      "sourceCount": 4,
-      "articleCount": 4,
+      "sourceCount": 3,
+      "articleCount": 3,
       "categories": [
         "other",
         "collab"
@@ -260,7 +260,7 @@
       "keywords": [
         "バンタン",
         "文化祭",
-        "開催"
+        "ハンター"
       ],
       "articles": [
         {
@@ -275,13 +275,6 @@
           "url": "https://www.appbank.net/2026/11/04/iphone-news/3154357.php",
           "source": "AppBank",
           "publishedAt": "2026-11-04T12:22:30.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『モンハン』の世界が文化祭に！ バンタン文化祭2026が11月14日開催。謎解きクエストやコラボカフェなど特別企画を実施【バンタン文化祭2026】",
-          "url": "https://www.famitsu.com/article/202611/91788",
-          "source": "ファミ通",
-          "publishedAt": "2026-11-04T10:00:00.000Z",
           "isPR": false
         }
       ]
@@ -387,12 +380,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-07T09:00:17.911Z",
-    "previousCount": 85,
-    "newCount": 3
+    "previousAt": "2026-11-07T09:30:14.483Z",
+    "previousCount": 87,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-07T10:00:14.483Z",
+  "nextUpdateAt": "2026-11-07T10:30:15.894Z",
   "items": [
     {
       "id": "fa5f63e461a4",
@@ -455,7 +448,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ebb72622d714",
@@ -940,27 +933,6 @@
       "isNew": false
     },
     {
-      "id": "a1e4d9bce04b",
-      "title": "【モンハンアウトランダーズ】突竜チャレンジのコツと報酬【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/576055",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-07T03:16:51.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/576055.png?date=1789435412",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "0fa16261f863",
       "title": "【モンハンアウトランダーズ】エナジー(スタミナ)の回復方法と使い道【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/560263",
@@ -1358,6 +1330,27 @@
       "isNew": false
     },
     {
+      "id": "79a17b7332f8",
+      "title": "【モンハンアウトランダーズ】ラヤの評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577463",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T15:55:12.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577463.png?date=1790214602",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "f4f222ac2e2d",
       "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/575036",
@@ -1748,6 +1741,26 @@
       "isNew": false
     },
     {
+      "id": "6e5a847e9bc1",
+      "title": "モンスターハンターのグッズ一覧・新作情報（ガチャガチャ・プライズ・キャラクターくじ・コラボ・イベント）",
+      "url": "https://charagoo.jp/ip/monsterhunter/",
+      "host": "charagoo.jp",
+      "source": "キャラグー",
+      "summary": "",
+      "publishedAt": "2026-11-05T23:32:16.000Z",
+      "image": "",
+      "categories": [
+        "goods",
+        "new"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "9d4d7fa64a07",
       "title": "福岡・マリノアシティ跡地に新アウトレット誕生! 九州最大級の「ロピア」、モンハン等身大立像も",
       "url": "https://news.mynavi.jp/article/20261106-5249421/",
@@ -1764,7 +1777,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "40bccce677c8",
@@ -2010,7 +2023,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f1e344fb9da2",
@@ -2171,25 +2184,6 @@
       "series": [
         "wilds"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "37e49d941582",
-      "title": "『モンハン』の世界が文化祭に！ バンタン文化祭2026が11月14日開催。謎解きクエストやコラボカフェなど特別企画を実施【バンタン文化祭2026】",
-      "url": "https://www.famitsu.com/article/202611/91788",
-      "host": "famitsu.com",
-      "source": "ファミ通",
-      "summary": "",
-      "publishedAt": "2026-11-04T10:00:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/91788/thumbnail_ruDx.jpg?x=1280",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
