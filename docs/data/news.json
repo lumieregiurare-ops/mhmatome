@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-07T07:30:15.232Z",
+  "updatedAt": "2026-11-07T08:00:16.790Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 84,
+  "total": 85,
   "todayCount": 46,
   "categories": [
     {
@@ -27,7 +27,7 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 4
+      "count": 5
     },
     {
       "id": "goods",
@@ -57,7 +57,7 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 4
+      "count": 5
     },
     {
       "id": "other",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 24
+      "count": 25
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 0
+      "count": 1
     },
     {
       "id": "now",
@@ -104,7 +104,7 @@
     },
     {
       "name": "YouTube",
-      "count": 7
+      "count": 8
     },
     {
       "name": "玩具人 TOY PEOPLE",
@@ -131,11 +131,11 @@
       "count": 1
     },
     {
-      "name": "Otakugame.fr",
+      "name": "게임메카",
       "count": 1
     },
     {
-      "name": "게임메카",
+      "name": "マイナビニュース",
       "count": 1
     },
     {
@@ -221,15 +221,15 @@
           "isPR": false
         },
         {
-          "title": "『モンスターハンターNowカーニバル 2026：グローバル』",
-          "url": "https://monsterhunternow.com/ja/news/mhn-carnival-2026-global",
+          "title": "「モンスターハンターNowカーニバル 2026：大阪」古龍アマツマガツチの出現時間およびマップ公開！",
+          "url": "https://monsterhunternow.com/ja/news/mhn-carnival-202604",
           "source": "Monster Hunter Now",
           "publishedAt": "2026-11-06T01:14:11.000Z",
           "isPR": false
         },
         {
-          "title": "「モンスターハンターNowカーニバル 2026：大阪」古龍アマツマガツチの出現時間およびマップ公開！",
-          "url": "https://monsterhunternow.com/ja/news/mhn-carnival-202604",
+          "title": "『モンスターハンターNowカーニバル 2026：グローバル』",
+          "url": "https://monsterhunternow.com/ja/news/mhn-carnival-2026-global",
           "source": "Monster Hunter Now",
           "publishedAt": "2026-11-06T01:14:11.000Z",
           "isPR": false
@@ -302,16 +302,24 @@
       "leadSource": "YouTube",
       "publishedAt": "2026-11-06T09:00:24.000Z",
       "sourceCount": 2,
-      "articleCount": 3,
+      "articleCount": 4,
       "categories": [
-        "other"
+        "other",
+        "collab"
       ],
       "keywords": [
-        "モンハンワイルズ",
         "アルシュベルド",
-        "歴戦王"
+        "歴戦王",
+        "モンハンワイルズ"
       ],
       "articles": [
+        {
+          "title": "ペアコラボ［MHWilds］広域笛Keiさんとペア討伐 6′19 フリチャレ 歴戦王 アルシュベルド 片手剣 狩猟笛 不屈 火事場 Arkveld SnS Sword & Shield",
+          "url": "https://youtu.be/-96gWOvHO3s?si",
+          "source": "YouTube",
+          "publishedAt": "2026-11-06T07:43:39.000Z",
+          "isPR": false
+        },
         {
           "title": "このタイムを更新したい🏹【生き誇れ、野生の仔】歴戦王アルシュベルド フリーチャレンジクエスト 弓非火事場ソロ #モンハンワイルズ #弓",
           "url": "https://youtu.be/PE2aM8pDNaY?si",
@@ -386,12 +394,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-07T07:00:16.775Z",
-    "previousCount": 85,
+    "previousAt": "2026-11-07T07:30:15.232Z",
+    "previousCount": 84,
     "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-07T08:00:15.232Z",
+  "nextUpdateAt": "2026-11-07T08:30:16.790Z",
   "items": [
     {
       "id": "ea27694f7437",
@@ -433,7 +441,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "580a376efe1a",
@@ -541,16 +549,17 @@
       "isNew": false
     },
     {
-      "id": "04a41375e19d",
-      "title": "【モンハンアウトランダーズ】匿名依頼クエストの報酬と進め方【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/587111",
+      "id": "12d1ac4d89b6",
+      "title": "【モンハンアウトランダーズ】主人公のおすすめ武器種と心得｜最強武器種ランキング【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531944",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-07T05:03:51.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/587111.png?date=1794025592",
+      "publishedAt": "2026-11-07T05:11:20.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531944.png?date=1793082656",
       "categories": [
-        "other"
+        "guide",
+        "sales"
       ],
       "series": [
         "outlanders"
@@ -748,7 +757,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c9cd694c1431",
@@ -930,6 +939,27 @@
       ],
       "series": [
         "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "04a41375e19d",
+      "title": "【モンハンアウトランダーズ】匿名依頼クエストの報酬と進め方【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/587111",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-07T02:10:00.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/587111.png?date=1794025592",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1273,27 +1303,6 @@
       "isNew": false
     },
     {
-      "id": "fd20f3f63e0d",
-      "title": "【モンハンアウトランダーズ】主人公(弓)の評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577466",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-06T16:31:31.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577466.png?date=1790214739",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "8a97121d3426",
       "title": "【モンハンアウトランダーズ】祈願は引くべき?祈願の報酬と天井【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/585784",
@@ -1586,6 +1595,28 @@
       "isNew": false
     },
     {
+      "id": "cae226fdc9df",
+      "title": "ペアコラボ［MHWilds］広域笛Keiさんとペア討伐 6′19 フリチャレ 歴戦王 アルシュベルド 片手剣 狩猟笛 不屈 火事場 Arkveld SnS Sword & Shield",
+      "url": "https://youtu.be/-96gWOvHO3s?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-06T07:43:39.000Z",
+      "image": "",
+      "categories": [
+        "collab"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "8c086bb7f518",
       "title": "【モンハンナウ】モンハンNow感謝祭【3周年記念】【モンハンNow】",
       "url": "https://gamewith.jp/monsterhunternow/article/show/577438",
@@ -1603,25 +1634,6 @@
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4c0f9035ba74",
-      "title": "モンスターハンター3 トレーラー紹介",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbEZVNE9QbnBsc1RwR3dVQmMxZHlmaVcxcUViVk8yalQ5a1U1aUdHN0tMRUM5WGVfN1lGRGp1SGs2SnllTlR3bmprOXo4dGhFeXFQdFNGaFJjZHl3bmlUbGZEdnpNa0pNSFQyUzBpcWZ0MEplNHRuZDFZSDNpc0tfTll6WmlxYzVQWHNaMjdUWVE5Rm5scmFqM3J2eW5WdlhNZFFUcXFrOTBKSXdGTDR5REdudGpHcmJtTDJDekZNUnFqWE9rV0Z0WEtUU29jb3hVVGRQUkZjVElEbUR5el8tVjNvUTNqRFRaNzhyUlJnVjFfNUJ3c3dpblBhTldGSnpm0gGIAkFVX3lxTFAxNXBPQkRsM2kzOUNZczZfc3pSLU5uU2xRZXpJdWFTSUZJSEt2SnBWejAzbGJHeEZIdWFwYUFFZnExVWlJTW5VdFpsWkVSVUpIS2xfMHh1THVpTzZiX2t3a1FFdG9YaTc5YzVlTXlIVThpNVBQcGpxT1FSekRPb1B3U2xxUWRjV3RKaTVRb0xkR0NEUXNxWTR4TXJUSDZjanVvOTZ0ZkRBU3BXV3RIWnZIVThQZnJSblVXMmVnYmhDR0Y2dUN4LXJtTWpjSEsxU2hjMEtYcC02eHVwLTdtdmRudVNlaXliaXM1aFFPVTN3TUVwdTFkOV9GRkJmY0Q3MEVqeHdwQllfVw?oc=5",
-      "host": "otakugame.fr",
-      "source": "Otakugame.fr",
-      "summary": "",
-      "publishedAt": "2026-11-06T02:42:03.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
@@ -1666,14 +1678,14 @@
       "isNew": false
     },
     {
-      "id": "691b61ebe20d",
-      "title": "『モンスターハンターNowカーニバル 2026：グローバル』",
-      "url": "https://monsterhunternow.com/ja/news/mhn-carnival-2026-global",
+      "id": "d1a1878e46fa",
+      "title": "「モンスターハンターNowカーニバル 2026：大阪」古龍アマツマガツチの出現時間およびマップ公開！",
+      "url": "https://monsterhunternow.com/ja/news/mhn-carnival-202604",
       "host": "monsterhunternow.com",
       "source": "Monster Hunter Now",
       "summary": "",
       "publishedAt": "2026-11-06T01:14:11.000Z",
-      "image": "https://lh3.googleusercontent.com/fkZKWYoeOpLNODbkpoOcxOlHE-_bZeJqVbq0WKtaC3ytj5Nf-LIGiRj3naQcPjBpetMwFCIrShzwrtLm0gFXGA9Rn0OSRgln41_ajhpAHbQ=e365-pa-nu-w1200-rj",
+      "image": "https://lh3.googleusercontent.com/7dtnMi_zCgj_Pa1tX0Qn92q6a34fOEUIiERkO0X4kPvWieSiw5ndbdxfE5wINRY99haj3-rxBPW0gOV94g5cd_HblGkO85RUBQIsXlttdkI=e365-pa-nu-w1200-rj",
       "categories": [
         "other"
       ],
@@ -1685,14 +1697,14 @@
       "isNew": false
     },
     {
-      "id": "d1a1878e46fa",
-      "title": "「モンスターハンターNowカーニバル 2026：大阪」古龍アマツマガツチの出現時間およびマップ公開！",
-      "url": "https://monsterhunternow.com/ja/news/mhn-carnival-202604",
+      "id": "691b61ebe20d",
+      "title": "『モンスターハンターNowカーニバル 2026：グローバル』",
+      "url": "https://monsterhunternow.com/ja/news/mhn-carnival-2026-global",
       "host": "monsterhunternow.com",
       "source": "Monster Hunter Now",
       "summary": "",
       "publishedAt": "2026-11-06T01:14:11.000Z",
-      "image": "https://lh3.googleusercontent.com/7dtnMi_zCgj_Pa1tX0Qn92q6a34fOEUIiERkO0X4kPvWieSiw5ndbdxfE5wINRY99haj3-rxBPW0gOV94g5cd_HblGkO85RUBQIsXlttdkI=e365-pa-nu-w1200-rj",
+      "image": "https://lh3.googleusercontent.com/fkZKWYoeOpLNODbkpoOcxOlHE-_bZeJqVbq0WKtaC3ytj5Nf-LIGiRj3naQcPjBpetMwFCIrShzwrtLm0gFXGA9Rn0OSRgln41_ajhpAHbQ=e365-pa-nu-w1200-rj",
       "categories": [
         "other"
       ],
@@ -1723,6 +1735,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "9d4d7fa64a07",
+      "title": "福岡・マリノアシティ跡地に新アウトレット誕生! 九州最大級の「ロピア」、モンハン等身大立像も",
+      "url": "https://news.mynavi.jp/article/20261106-5249421/",
+      "host": "news.mynavi.jp",
+      "source": "マイナビニュース",
+      "summary": "",
+      "publishedAt": "2026-11-05T23:15:00.000Z",
+      "image": "https://news.mynavi.jp/article/20261106-5249421/ogp_images/ogp.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "40bccce677c8",
