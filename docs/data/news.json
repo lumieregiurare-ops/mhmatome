@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-06T23:30:16.224Z",
+  "updatedAt": "2026-11-07T00:00:15.752Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 86,
-  "todayCount": 19,
+  "total": 85,
+  "todayCount": 20,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 5
+      "count": 4
     },
     {
       "id": "update",
@@ -32,7 +32,7 @@
     {
       "id": "goods",
       "label": "グッズ・フィギュア",
-      "count": 5
+      "count": 4
     },
     {
       "id": "media",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 2
+      "count": 3
     },
     {
       "id": "now",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 55
+      "count": 54
     },
     {
       "name": "YouTube",
@@ -116,6 +116,10 @@
     },
     {
       "name": "Monster Hunter Now",
+      "count": 2
+    },
+    {
+      "name": "Unisba Media",
       "count": 2
     },
     {
@@ -143,10 +147,6 @@
       "count": 1
     },
     {
-      "name": "Unisba Media",
-      "count": 1
-    },
-    {
       "name": "AppBank",
       "count": 1
     },
@@ -163,7 +163,7 @@
       "count": 1
     },
     {
-      "name": "ニコニコニュース",
+      "name": "電ファミニコゲーマー",
       "count": 1
     },
     {
@@ -172,10 +172,6 @@
     },
     {
       "name": "gamebiz【ゲームビズ】",
-      "count": 1
-    },
-    {
-      "name": "キャラグー",
       "count": 1
     }
   ],
@@ -351,12 +347,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-06T23:00:19.582Z",
-    "previousCount": 87,
-    "newCount": 1
+    "previousAt": "2026-11-06T23:30:16.224Z",
+    "previousCount": 86,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-07T00:00:16.224Z",
+  "nextUpdateAt": "2026-11-07T00:30:15.752Z",
   "items": [
     {
       "id": "139e9f532a51",
@@ -367,6 +363,27 @@
       "summary": "",
       "publishedAt": "2026-11-06T22:42:12.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577467.png?date=1790214807",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "0895ceb6f513",
+      "title": "【モンハンアウトランダーズ】ヘイズの評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/583505",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T22:17:19.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583505.png?date=1792581250",
       "categories": [
         "guide"
       ],
@@ -1367,27 +1384,6 @@
       "isNew": false
     },
     {
-      "id": "c48aa4f29771",
-      "title": "【モンハンアウトランダーズ】大剣最強装備【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/584088",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-06T07:04:08.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/584088.png?date=1793226879",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "e6d79acfa4bd",
       "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
       "url": "https://gamewith.jp/mhwilds/563096",
@@ -1505,6 +1501,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "4453b9bbbd1c",
+      "title": "MHWilds【参加型】 #180 ※ロビー入室自由※🫣弓専と行く🏹【モンスターハンターワイルズ】ゆこいちの絶叫GAME部屋 Gs (zyduLVnQZQ)",
+      "url": "https://media.unisba.ac.id/27c58dd4/8ae61adeA1BRMTFAJyIBCjs//",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-11-05T21:36:24.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "411bb4076b94",
@@ -1943,12 +1961,12 @@
     {
       "id": "abc0b1f2f534",
       "title": "『モンハン』アイルーを再現したモンブラン風スイーツが超かわいい。バンタン文化祭コラボの詳細が解禁",
-      "url": "https://news.nicovideo.jp/watch/nw19954742?news_ref",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
+      "url": "https://news.denfaminicogamer.jp/?p",
+      "host": "news.denfaminicogamer.jp",
+      "source": "電ファミニコゲーマー",
       "summary": "",
-      "publishedAt": "2026-11-04T08:12:10.000Z",
-      "image": "",
+      "publishedAt": "2026-11-04T08:10:00.000Z",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2021/08/header.png",
       "categories": [
         "collab"
       ],
@@ -2097,47 +2115,6 @@
       "series": [
         "wilds"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "0a31cdb61626",
-      "title": "【モンハンワイルズ】夢灯の儀の開催期間とやるべきこと｜ハロウィンイベント【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/524935",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-03T23:57:07.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/524935.png?date=1760689472",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "6e5a847e9bc1",
-      "title": "モンスターハンターのグッズ一覧・新作情報（ガチャガチャ・プライズ・キャラクターくじ・コラボ・イベント）",
-      "url": "https://charagoo.jp/ip/monsterhunter/",
-      "host": "charagoo.jp",
-      "source": "キャラグー",
-      "summary": "",
-      "publishedAt": "2026-11-03T23:37:20.000Z",
-      "image": "",
-      "categories": [
-        "goods",
-        "new"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
