@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-07T12:00:22.212Z",
+  "updatedAt": "2026-11-07T12:30:16.205Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 88,
+  "total": 89,
   "todayCount": 47,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 32
+      "count": 33
     },
     {
       "id": "sale",
@@ -57,7 +57,7 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 4
+      "count": 5
     },
     {
       "id": "other",
@@ -84,7 +84,7 @@
     {
       "id": "now",
       "label": "Now",
-      "count": 5
+      "count": 6
     },
     {
       "id": "stories",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 58
+      "count": 59
     },
     {
       "name": "YouTube",
@@ -147,6 +147,10 @@
       "count": 1
     },
     {
+      "name": "マイナビニュース",
+      "count": 1
+    },
+    {
       "name": "電撃オンライン",
       "count": 1
     },
@@ -161,10 +165,6 @@
     {
       "name": "ニコニコニュース",
       "count": 1
-    },
-    {
-      "name": "AppBank",
-      "count": 1
     }
   ],
   "topics": [
@@ -177,7 +177,7 @@
       "leadSource": "ガジェット通信",
       "publishedAt": "2026-11-07T00:30:33.000Z",
       "sourceCount": 5,
-      "articleCount": 8,
+      "articleCount": 9,
       "categories": [
         "other",
         "guide"
@@ -231,46 +231,17 @@
           "isPR": false
         },
         {
+          "title": "【モンハンナウ】最強武器種ランキング【モンハンNow】",
+          "url": "https://gamewith.jp/monsterhunternow/article/show/415866",
+          "source": "GameWith",
+          "publishedAt": "2026-11-05T20:28:17.000Z",
+          "isPR": false
+        },
+        {
           "title": "『モンハンNow』大連続＆古龍素材UP!! 大阪カーニバルまで継続するうれしい期間限定イベントガイド",
           "url": "https://getnews.jp/archives/3753077",
           "source": "ガジェット通信",
           "publishedAt": "2026-11-05T01:00:09.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "92bac44921b3",
-      "title": "モンスターハンター × バンタン文化祭 11月14日に全国5校で開催!",
-      "summary": "",
-      "url": "https://collabo-cafe.com/events/collabo/monsterhunter-vantan-bunkasai-2026/",
-      "image": "https://collabo-cafe.com/wp-content/uploads/monsterhunter-vantan-bunkasai-2026-keyvisual.jpg",
-      "leadSource": "コラボカフェ",
-      "publishedAt": "2026-11-05T08:56:17.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "other",
-        "collab"
-      ],
-      "keywords": [
-        "バンタン",
-        "文化祭",
-        "ハンター"
-      ],
-      "articles": [
-        {
-          "title": "バンタン文化祭2026 ×「モンスターハンター」の詳細解禁！「大狩猟のハンター肉飯」など“モンハン飯”が登場するカフェや生徒デザインの限定Tシャツなど4つのコラボ企画で世界観に没入",
-          "url": "https://news.nicovideo.jp/watch/nw19956727?news_ref",
-          "source": "ニコニコニュース",
-          "publishedAt": "2026-11-04T20:15:39.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『モンスターハンター』×バンタン文化祭2026！ ハンター肉飯やアイルーのラテアートが登場、11月14日開催",
-          "url": "https://www.appbank.net/2026/11/04/iphone-news/3154357.php",
-          "source": "AppBank",
-          "publishedAt": "2026-11-04T12:22:30.000Z",
           "isPR": false
         }
       ]
@@ -388,16 +359,109 @@
           "isPR": false
         }
       ]
+    },
+    {
+      "id": "92bac44921b3",
+      "title": "モンスターハンター × バンタン文化祭 11月14日に全国5校で開催!",
+      "summary": "",
+      "url": "https://collabo-cafe.com/events/collabo/monsterhunter-vantan-bunkasai-2026/",
+      "image": "https://collabo-cafe.com/wp-content/uploads/monsterhunter-vantan-bunkasai-2026-keyvisual.jpg",
+      "leadSource": "コラボカフェ",
+      "publishedAt": "2026-11-05T08:56:17.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other",
+        "collab"
+      ],
+      "keywords": [
+        "バンタン",
+        "文化祭",
+        "ハンター"
+      ],
+      "articles": [
+        {
+          "title": "バンタン文化祭2026 ×「モンスターハンター」の詳細解禁！「大狩猟のハンター肉飯」など“モンハン飯”が登場するカフェや生徒デザインの限定Tシャツなど4つのコラボ企画で世界観に没入",
+          "url": "https://news.nicovideo.jp/watch/nw19956727?news_ref",
+          "source": "ニコニコニュース",
+          "publishedAt": "2026-11-04T20:15:39.000Z",
+          "isPR": false
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-07T11:30:13.625Z",
-    "previousCount": 89,
+    "previousAt": "2026-11-07T12:00:22.212Z",
+    "previousCount": 88,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-07T12:30:22.212Z",
+  "nextUpdateAt": "2026-11-07T13:00:16.205Z",
   "items": [
+    {
+      "id": "12d1ac4d89b6",
+      "title": "【モンハンアウトランダーズ】主人公のおすすめ武器種と心得｜最強武器種ランキング【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531944",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-07T12:13:12.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531944.png?date=1793082656",
+      "categories": [
+        "guide",
+        "sales"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "ea27694f7437",
+      "title": "【モンハンアウトランダーズ】リセマラのやり方と所要時間｜何連引ける？【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531931",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-07T12:01:22.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531931.png?date=1793082187",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "7f0191dee326",
+      "title": "【モンハンアウトランダーズ】毎日やるべき日課とウィークリーまとめ【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531926",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-07T11:22:04.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531926.png?date=1793679039",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "2d3ed020ccc5",
       "title": "【モンハンアウトランダーズ】ガチャおすすめと一覧│引くべきガチャ【アウトランダーズ】",
@@ -493,27 +557,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531937.png?date=1793226114",
       "categories": [
         "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ea27694f7437",
-      "title": "【モンハンアウトランダーズ】リセマラのやり方と所要時間｜何連引ける？【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531931",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-07T06:36:03.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531931.png?date=1793082187",
-      "categories": [
-        "other"
       ],
       "series": [
         "outlanders"
@@ -745,28 +788,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/585784.png?date=1793242574",
       "categories": [
         "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "12d1ac4d89b6",
-      "title": "【モンハンアウトランダーズ】主人公のおすすめ武器種と心得｜最強武器種ランキング【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531944",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-07T05:11:20.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531944.png?date=1793082656",
-      "categories": [
-        "guide",
-        "sales"
       ],
       "series": [
         "outlanders"
@@ -1091,27 +1112,6 @@
       "isNew": false
     },
     {
-      "id": "7f0191dee326",
-      "title": "【モンハンアウトランダーズ】毎日やるべき日課とウィークリーまとめ【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531926",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-07T02:06:04.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531926.png?date=1793679039",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "5aebc693cc9e",
       "title": "【モンハンアウトランダーズ】アケニアの評価とおすすめ装備・編成【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577458",
@@ -1338,7 +1338,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "778fbb3d5344",
@@ -1673,7 +1673,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8c086bb7f518",
@@ -1854,6 +1854,47 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "9d4d7fa64a07",
+      "title": "福岡・マリノアシティ跡地に新アウトレット誕生! 九州最大級の「ロピア」、モンハン等身大立像も",
+      "url": "https://news.mynavi.jp/article/20261106-5249421/",
+      "host": "news.mynavi.jp",
+      "source": "マイナビニュース",
+      "summary": "",
+      "publishedAt": "2026-11-05T23:15:00.000Z",
+      "image": "https://news.mynavi.jp/article/20261106-5249421/ogp_images/ogp.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "55c33e94fb1b",
+      "title": "【モンハンナウ】最強武器種ランキング【モンハンNow】",
+      "url": "https://gamewith.jp/monsterhunternow/article/show/415866",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-05T20:28:17.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/415866.png?date=1693792782",
+      "categories": [
+        "guide",
+        "sales"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "40bccce677c8",
@@ -2199,25 +2240,6 @@
       "series": [
         "wilds"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "a8c62e3a20b7",
-      "title": "『モンスターハンター』×バンタン文化祭2026！ ハンター肉飯やアイルーのラテアートが登場、11月14日開催",
-      "url": "https://www.appbank.net/2026/11/04/iphone-news/3154357.php",
-      "host": "appbank.net",
-      "source": "AppBank",
-      "summary": "",
-      "publishedAt": "2026-11-04T12:22:30.000Z",
-      "image": "https://www.appbank.net/wp-content/uploads/2026/11/20261104_154419_761_01.webp",
-      "categories": [
-        "other"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
