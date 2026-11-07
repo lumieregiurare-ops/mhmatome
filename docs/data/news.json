@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-07T01:00:13.699Z",
+  "updatedAt": "2026-11-07T01:30:14.208Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 82,
+  "total": 81,
   "todayCount": 22,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 33
+      "count": 31
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 38
+      "count": 39
     }
   ],
   "series": [
@@ -84,7 +84,7 @@
     {
       "id": "now",
       "label": "Now",
-      "count": 2
+      "count": 1
     },
     {
       "id": "stories",
@@ -94,7 +94,7 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 41
+      "count": 40
     }
   ],
   "sources": [
@@ -104,7 +104,7 @@
     },
     {
       "name": "YouTube",
-      "count": 9
+      "count": 8
     },
     {
       "name": "玩具人 TOY PEOPLE",
@@ -123,15 +123,15 @@
       "count": 2
     },
     {
-      "name": "ガジェット通信",
-      "count": 2
-    },
-    {
       "name": "オタク総研",
       "count": 1
     },
     {
       "name": "Gamer",
+      "count": 1
+    },
+    {
+      "name": "Otakugame.fr",
       "count": 1
     },
     {
@@ -144,6 +144,10 @@
     },
     {
       "name": "コラボカフェ",
+      "count": 1
+    },
+    {
+      "name": "ガジェット通信",
       "count": 1
     },
     {
@@ -343,13 +347,55 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-07T00:30:16.311Z",
-    "previousCount": 83,
-    "newCount": 1
+    "previousAt": "2026-11-07T01:00:13.699Z",
+    "previousCount": 82,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-07T01:30:13.699Z",
+  "nextUpdateAt": "2026-11-07T02:00:14.208Z",
   "items": [
+    {
+      "id": "c50fb94399e9",
+      "title": "【モンハンアウトランダーズ】リセマラ当たりランキング【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531925",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-07T01:13:27.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531925.png?date=1793082273",
+      "categories": [
+        "sales"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "ea27694f7437",
+      "title": "【モンハンアウトランダーズ】リセマラのやり方と所要時間｜何連引ける？【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531931",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-07T00:38:08.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531931.png?date=1793082187",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "12d1ac4d89b6",
       "title": "【モンハンアウトランダーズ】主人公のおすすめ武器種と心得｜最強武器種ランキング【アウトランダーズ】",
@@ -539,27 +585,6 @@
       "isNew": false
     },
     {
-      "id": "0574437f25e8",
-      "title": "【モンハンアウトランダーズ】ブリックスの評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577456",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-06T18:21:17.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577456.png?date=1790214292",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "83c2cd6f4a1b",
       "title": "【モンハンアウトランダーズ】ストーリー攻略チャート【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/531933",
@@ -570,27 +595,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531933.png?date=1793227277",
       "categories": [
         "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "c50fb94399e9",
-      "title": "【モンハンアウトランダーズ】リセマラ当たりランキング【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531925",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-06T18:09:41.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531925.png?date=1793082273",
-      "categories": [
-        "sales"
       ],
       "series": [
         "outlanders"
@@ -873,6 +877,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "b03da4431e65",
+      "title": "【モンハンアウトランダーズ】コントローラーは使える？【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/574152",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T14:23:23.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574152.png?date=1793227034",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "c3ef4d2c6063",
@@ -1191,27 +1216,6 @@
       "isNew": false
     },
     {
-      "id": "ea27694f7437",
-      "title": "【モンハンアウトランダーズ】リセマラのやり方と所要時間｜何連引ける？【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531931",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-06T11:37:21.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531931.png?date=1793082187",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "4e3b6d2dd7aa",
       "title": "【モンハンワイルズ】片手剣でもみんなを守れるんです(泣)【骸場ミネオ】#モンハンワイルズ #モンハン #meme",
       "url": "https://youtu.be/3gZYIDQmnMM?si",
@@ -1397,6 +1401,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "4c0f9035ba74",
+      "title": "モンスターハンター3 トレーラー紹介",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbEZVNE9QbnBsc1RwR3dVQmMxZHlmaVcxcUViVk8yalQ5a1U1aUdHN0tMRUM5WGVfN1lGRGp1SGs2SnllTlR3bmprOXo4dGhFeXFQdFNGaFJjZHl3bmlUbGZEdnpNa0pNSFQyUzBpcWZ0MEplNHRuZDFZSDNpc0tfTll6WmlxYzVQWHNaMjdUWVE5Rm5scmFqM3J2eW5WdlhNZFFUcXFrOTBKSXdGTDR5REdudGpHcmJtTDJDekZNUnFqWE9rV0Z0WEtUU29jb3hVVGRQUkZjVElEbUR5el8tVjNvUTNqRFRaNzhyUlJnVjFfNUJ3c3dpblBhTldGSnpm0gGIAkFVX3lxTFAxNXBPQkRsM2kzOUNZczZfc3pSLU5uU2xRZXpJdWFTSUZJSEt2SnBWejAzbGJHeEZIdWFwYUFFZnExVWlJTW5VdFpsWkVSVUpIS2xfMHh1THVpTzZiX2t3a1FFdG9YaTc5YzVlTXlIVThpNVBQcGpxT1FSekRPb1B3U2xxUWRjV3RKaTVRb0xkR0NEUXNxWTR4TXJUSDZjanVvOTZ0ZkRBU3BXV3RIWnZIVThQZnJSblVXMmVnYmhDR0Y2dUN4LXJtTWpjSEsxU2hjMEtYcC02eHVwLTdtdmRudVNlaXliaXM1aFFPVTN3TUVwdTFkOV9GRkJmY0Q3MEVqeHdwQllfVw?oc=5",
+      "host": "otakugame.fr",
+      "source": "Otakugame.fr",
+      "summary": "",
+      "publishedAt": "2026-11-06T02:42:03.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "fddcb852ba99",
@@ -1770,27 +1793,6 @@
       "isNew": false
     },
     {
-      "id": "cbc9b1bf1d21",
-      "title": "【モンスターハンター／視聴者参加型】夫婦で毎日配信636日目①‼️モンスターハンターアウトランダーズの初見配信やるぜぇ🔥ご新規さん大歓迎🙌フォロワー２００人間近‼️フォロー・シェアおねしゃす",
-      "url": "https://youtu.be/wSa1j3YwZXY?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-05T03:00:12.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "f1e344fb9da2",
       "title": "#モンハンワイルズ 心眼、回避距離UPがほしい",
       "url": "https://youtu.be/mkjsMEyfu2g?si",
@@ -2027,27 +2029,6 @@
         "other"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "079e5a4cd2f9",
-      "title": "『モンハンNow』新装備アクセサリの詳細判明!! 発動する効果や磨き直しなど気になるポイントガイド",
-      "url": "https://getnews.jp/archives/3752903",
-      "host": "getnews.jp",
-      "source": "ガジェット通信",
-      "summary": "",
-      "publishedAt": "2026-11-04T01:00:56.000Z",
-      "image": "https://rensai.jp/wp-content/uploads/2026/11/06931a10b34e407bc33d52bcd850ecda.jpg",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "now"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
