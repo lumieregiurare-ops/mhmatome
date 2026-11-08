@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-08T19:00:13.961Z",
+  "updatedAt": "2026-11-08T19:30:13.816Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 96,
-  "todayCount": 3,
+  "total": 94,
+  "todayCount": 4,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 46
+      "count": 45
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 41
+      "count": 40
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 29
+      "count": 27
     },
     {
       "id": "rise",
@@ -100,15 +100,11 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 69
+      "count": 70
     },
     {
       "name": "YouTube",
       "count": 8
-    },
-    {
-      "name": "Howl.Link",
-      "count": 3
     },
     {
       "name": "Otakugame.fr",
@@ -123,15 +119,15 @@
       "count": 1
     },
     {
+      "name": "Howl.Link",
+      "count": 1
+    },
+    {
       "name": "川口マガジン",
       "count": 1
     },
     {
       "name": "女子旅プレス",
-      "count": 1
-    },
-    {
-      "name": "電撃オンライン",
       "count": 1
     },
     {
@@ -176,8 +172,8 @@
       "image": "https://kawaguchi-magazine.com/wp-content/uploads/2024/08/IMG_20230810_113948-1.jpg",
       "leadSource": "川口マガジン",
       "publishedAt": "2026-11-08T11:23:40.000Z",
-      "sourceCount": 4,
-      "articleCount": 16,
+      "sourceCount": 3,
+      "articleCount": 15,
       "categories": [
         "other",
         "new"
@@ -297,7 +293,7 @@
       "leadSource": "https://iyusuke.jp/",
       "publishedAt": "2026-11-08T18:16:16.000Z",
       "sourceCount": 2,
-      "articleCount": 36,
+      "articleCount": 37,
       "categories": [
         "guide",
         "sales"
@@ -313,6 +309,13 @@
           "url": "https://gamewith.jp/mhoutlanders/531925",
           "source": "GameWith",
           "publishedAt": "2026-11-08T16:55:08.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンアウトランダーズ】ルガ・エアルダの弱点と攻略【アウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/586566",
+          "source": "GameWith",
+          "publishedAt": "2026-11-08T15:33:12.000Z",
           "isPR": false
         },
         {
@@ -334,13 +337,6 @@
           "url": "https://gamewith.jp/mhoutlanders/578584",
           "source": "GameWith",
           "publishedAt": "2026-11-08T14:23:14.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンアウトランダーズ】ルガ・エアルダの弱点と攻略【アウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/586566",
-          "source": "GameWith",
-          "publishedAt": "2026-11-08T14:21:26.000Z",
           "isPR": false
         },
         {
@@ -503,12 +499,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-08T18:30:14.080Z",
-    "previousCount": 94,
-    "newCount": 3
+    "previousAt": "2026-11-08T19:00:13.961Z",
+    "previousCount": 96,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-08T19:30:13.961Z",
+  "nextUpdateAt": "2026-11-08T20:00:13.816Z",
   "items": [
     {
       "id": "fa9c24261234",
@@ -542,6 +538,27 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531925.png?date=1793082273",
       "categories": [
         "sales"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "6440692bf3d2",
+      "title": "【モンハンアウトランダーズ】ルガ・エアルダの弱点と攻略【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/586566",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-08T15:33:12.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586566.png?date=1793781037",
+      "categories": [
+        "guide"
       ],
       "series": [
         "outlanders"
@@ -603,27 +620,6 @@
       "summary": "",
       "publishedAt": "2026-11-08T14:23:14.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/578584.png?date=1793260973",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "6440692bf3d2",
-      "title": "【モンハンアウトランダーズ】ルガ・エアルダの弱点と攻略【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/586566",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-08T14:21:26.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586566.png?date=1793781037",
       "categories": [
         "guide"
       ],
@@ -1181,27 +1177,6 @@
       "isNew": false
     },
     {
-      "id": "23a52e5a1984",
-      "title": "【モンハンアウトランダーズ育成攻略】強化の優先度やレベル上げ、銘刻・オトモの育成方法",
-      "url": "https://dengekionline.com/article/202611/93408",
-      "host": "dengekionline.com",
-      "source": "電撃オンライン",
-      "summary": "",
-      "publishedAt": "2026-11-08T05:40:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/93408/ogp_AQdn.jpg?x=1280",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "e08e6c8ea2a8",
       "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/563104",
@@ -1580,25 +1555,25 @@
       "isNew": false
     },
     {
-      "id": "0b68bd1287fd",
-      "title": "【アセンダンス】片手剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/577790",
+      "id": "7cc6494b340f",
+      "title": "【モンハンアウトランダーズ】絵装の厳選方法とおすすめ効果【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/575851",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-07T17:58:11.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577790.png?date=1789746410",
+      "publishedAt": "2026-11-07T16:41:10.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575851.png?date=1789454673",
       "categories": [
-        "other"
+        "guide"
       ],
       "series": [
-        "wilds"
+        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "556105c3230d",
@@ -1620,48 +1595,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "b2dcaaf7cd8f",
-      "title": "参加型モンスターハンターワイルズ！【いろいろお試し装備…はたして】初参加さん、ベテランハンターさん、初心者ハンターさん大歓迎！",
-      "url": "https://t.co/3hORtkbYTC",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-11-07T12:04:01.000Z",
-      "image": "",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "019e6774fa75",
-      "title": "モンハンワイルズ参加型配信！",
-      "url": "https://t.co/qWPxqbnkXE",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-11-07T11:30:45.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "d605748fb698",
@@ -1693,6 +1626,27 @@
       "summary": "",
       "publishedAt": "2026-11-07T11:10:13.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485475.png?date=1789753003",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "0b68bd1287fd",
+      "title": "【アセンダンス】片手剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/577790",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-07T09:59:37.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577790.png?date=1789746410",
       "categories": [
         "other"
       ],
