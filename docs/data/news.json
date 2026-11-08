@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T16:00:08.808Z",
+  "updatedAt": "2026-11-08T16:30:13.976Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 44
+      "count": 45
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 42
+      "count": 41
     }
   ],
   "series": [
@@ -74,7 +74,7 @@
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 13
+      "count": 12
     },
     {
       "id": "world",
@@ -84,7 +84,7 @@
     {
       "id": "now",
       "label": "Now",
-      "count": 8
+      "count": 9
     },
     {
       "id": "stories",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 70
+      "count": 69
     },
     {
       "name": "YouTube",
@@ -124,6 +124,10 @@
     },
     {
       "name": "女子旅プレス",
+      "count": 1
+    },
+    {
+      "name": "電撃オンライン",
       "count": 1
     },
     {
@@ -300,7 +304,7 @@
       "leadSource": "https://iyusuke.jp/",
       "publishedAt": "2026-11-08T15:14:36.000Z",
       "sourceCount": 2,
-      "articleCount": 37,
+      "articleCount": 36,
       "categories": [
         "guide",
         "other"
@@ -374,11 +378,11 @@
       "title": "簡単で超火力！黒ディア武器のダントツおすすめが判明！【モンハンNOW】",
       "summary": "",
       "url": "https://youtu.be/uC_rBT5n7bI?si",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/414964.png?date=1694484685",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/429430.png?date=1702034197",
       "leadSource": "YouTube",
       "publishedAt": "2026-11-07T09:24:01.000Z",
       "sourceCount": 2,
-      "articleCount": 11,
+      "articleCount": 12,
       "categories": [
         "guide",
         "other"
@@ -401,6 +405,13 @@
           "url": "https://gamewith.jp/monsterhunternow/article/show/483866",
           "source": "GameWith",
           "publishedAt": "2026-11-06T13:15:32.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンナウ】ランスのおすすめ武器と最終強化【モンハンNow】",
+          "url": "https://gamewith.jp/monsterhunternow/article/show/429430",
+          "source": "GameWith",
+          "publishedAt": "2026-11-06T12:36:20.000Z",
           "isPR": false
         },
         {
@@ -436,13 +447,6 @@
           "url": "https://gamewith.jp/monsterhunternow/article/show/418926",
           "source": "GameWith",
           "publishedAt": "2026-11-06T03:46:14.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【サンブレイク】モンスター一覧と弱点早見表",
-          "url": "https://gamewith.jp/mhrize/article/show/312232",
-          "source": "GameWith",
-          "publishedAt": "2026-11-06T03:15:15.000Z",
           "isPR": false
         }
       ]
@@ -506,12 +510,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-08T15:30:14.322Z",
-    "previousCount": 94,
-    "newCount": 3
+    "previousAt": "2026-11-08T16:00:08.808Z",
+    "previousCount": 95,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-08T16:30:08.808Z",
+  "nextUpdateAt": "2026-11-08T17:00:13.976Z",
   "items": [
     {
       "id": "fa9c24261234",
@@ -595,7 +599,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d4123a096654",
@@ -1162,6 +1166,27 @@
       "isNew": false
     },
     {
+      "id": "23a52e5a1984",
+      "title": "【モンハンアウトランダーズ育成攻略】強化の優先度やレベル上げ、銘刻・オトモの育成方法",
+      "url": "https://dengekionline.com/article/202611/93408",
+      "host": "dengekionline.com",
+      "source": "電撃オンライン",
+      "summary": "",
+      "publishedAt": "2026-11-08T05:40:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/93408/ogp_AQdn.jpg?x=1280",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "e08e6c8ea2a8",
       "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/563104",
@@ -1506,27 +1531,6 @@
       "summary": "",
       "publishedAt": "2026-11-07T19:52:34.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577460.png?date=1790214483",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "de51f2f1d013",
-      "title": "【モンハンアウトランダーズ】主人公(太刀)の評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577470",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-07T18:46:11.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577470.png?date=1790214930",
       "categories": [
         "guide"
       ],
@@ -1886,6 +1890,27 @@
       "summary": "",
       "publishedAt": "2026-11-06T13:15:32.000Z",
       "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "e00e97b1f5cc",
+      "title": "【モンハンナウ】ランスのおすすめ武器と最終強化【モンハンNow】",
+      "url": "https://gamewith.jp/monsterhunternow/article/show/429430",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T12:36:20.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/429430.png?date=1702034197",
       "categories": [
         "guide"
       ],
@@ -2337,27 +2362,6 @@
       "isNew": false
     },
     {
-      "id": "3c016c8e39db",
-      "title": "【サンブレイク】装飾品一覧と解放条件｜アプデ追加【モンハンライズ】",
-      "url": "https://gamewith.jp/mhrize/article/show/266756",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-06T01:52:08.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/266756.png?date=1617256411",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "b5d6fe40ab2e",
       "title": "【アセンダンス】護竜リオレイアの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/575037",
@@ -2397,7 +2401,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d1a1878e46fa",
