@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T20:30:14.125Z",
+  "updatedAt": "2026-11-08T21:00:15.681Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,12 +7,12 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 96,
-  "todayCount": 6,
+  "todayCount": 8,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 5
+      "count": 6
     },
     {
       "id": "update",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 45
+      "count": 44
     },
     {
       "id": "sale",
@@ -107,10 +107,6 @@
       "count": 8
     },
     {
-      "name": "Howl.Link",
-      "count": 2
-    },
-    {
       "name": "Otakugame.fr",
       "count": 2
     },
@@ -119,7 +115,15 @@
       "count": 2
     },
     {
+      "name": "朝日新聞",
+      "count": 1
+    },
+    {
       "name": "https://iyusuke.jp/",
+      "count": 1
+    },
+    {
+      "name": "Howl.Link",
       "count": 1
     },
     {
@@ -172,8 +176,8 @@
       "image": "https://kawaguchi-magazine.com/wp-content/uploads/2024/08/IMG_20230810_113948-1.jpg",
       "leadSource": "川口マガジン",
       "publishedAt": "2026-11-08T11:23:40.000Z",
-      "sourceCount": 4,
-      "articleCount": 16,
+      "sourceCount": 3,
+      "articleCount": 15,
       "categories": [
         "other",
         "new"
@@ -363,6 +367,35 @@
       ]
     },
     {
+      "id": "fa9c24261234",
+      "title": "モンハンアウトランダーズのコントローラー対応とおすすめ｜iPhone・Android実機検証",
+      "summary": "",
+      "url": "https://iyusuke.jp/mho-controller/",
+      "image": "https://iyusuke.jp/wp-content/uploads/2026/11/gamesir-g8plus-x5lite-mho-1.webp",
+      "leadSource": "https://iyusuke.jp/",
+      "publishedAt": "2026-11-08T18:16:16.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "guide",
+        "other"
+      ],
+      "keywords": [
+        "アウトランダーズ",
+        "モンハンアウトランダーズ",
+        "コントローラー"
+      ],
+      "articles": [
+        {
+          "title": "【モンハンアウトランダーズ】コントローラーは使える？【アウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/574152",
+          "source": "GameWith",
+          "publishedAt": "2026-11-08T12:26:38.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "99367de5c480",
       "title": "【モンハンワイルズ】FF14スペシャルコラボ！オメガ・プラネテスに挑戦！？【モンスターハンターワイルズ】 Squirrel White (pOuewDUeSH)",
       "summary": "",
@@ -421,13 +454,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-08T20:00:16.135Z",
-    "previousCount": 95,
-    "newCount": 3
+    "previousAt": "2026-11-08T20:30:14.125Z",
+    "previousCount": 96,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-08T21:00:14.125Z",
+  "nextUpdateAt": "2026-11-08T21:30:15.681Z",
   "items": [
+    {
+      "id": "a42c36a0ba91",
+      "title": "【モンハンアウトランダーズ】課金要素まとめとおすすめパック【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/560244",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-08T19:51:14.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560244.png?date=1793262813",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "de51f2f1d013",
       "title": "【モンハンアウトランダーズ】主人公(太刀)の評価とおすすめ装備・編成【アウトランダーズ】",
@@ -447,7 +501,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d4123a096654",
@@ -469,6 +523,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "99769a0f7f22",
+      "title": "いつでも、どこでも、一狩りいこうぜ！ 『モンスターハンターワイルズ』が、Nintendo Switch 2 で12月4日（金）に発売決定！ ニンテンドーeショップで予約開始！",
+      "url": "https://www.asahi.com/and/pressrelease/16877361",
+      "host": "asahi.com",
+      "source": "朝日新聞",
+      "summary": "",
+      "publishedAt": "2026-11-08T18:20:09.000Z",
+      "image": "",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "fa9c24261234",
@@ -745,6 +820,27 @@
       "isNew": false
     },
     {
+      "id": "b03da4431e65",
+      "title": "【モンハンアウトランダーズ】コントローラーは使える？【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/574152",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-08T12:26:38.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574152.png?date=1793227034",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "2dd0a4c576af",
       "title": "【モンハンアウトランダーズ】主人公(双剣)の評価とおすすめ装備・編成【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577469",
@@ -795,27 +891,6 @@
       "summary": "",
       "publishedAt": "2026-11-08T11:45:21.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577471.png?date=1790214971",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "a42c36a0ba91",
-      "title": "【モンハンアウトランダーズ】課金要素まとめとおすすめパック【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/560244",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-08T11:43:08.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560244.png?date=1793262813",
       "categories": [
         "guide"
       ],
@@ -1435,27 +1510,6 @@
       "isNew": false
     },
     {
-      "id": "a32d512021b1",
-      "title": "【モンハンアウトランダーズ】エンショウの評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577460",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-07T19:52:34.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577460.png?date=1790214483",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "46ab930cbc6c",
       "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/563077",
@@ -1538,27 +1592,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "019e6774fa75",
-      "title": "モンハンワイルズ参加型配信！",
-      "url": "https://t.co/qWPxqbnkXE",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-11-07T11:30:45.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "d605748fb698",
@@ -2314,7 +2347,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b5d6fe40ab2e",
