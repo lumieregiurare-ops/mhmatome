@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-08T18:30:14.080Z",
+  "updatedAt": "2026-11-08T19:00:13.961Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 94,
+  "total": 96,
   "todayCount": 3,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 44
+      "count": 46
     },
     {
       "id": "sale",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 27
+      "count": 29
     },
     {
       "id": "rise",
@@ -100,11 +100,15 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 70
+      "count": 69
     },
     {
       "name": "YouTube",
       "count": 8
+    },
+    {
+      "name": "Howl.Link",
+      "count": 3
     },
     {
       "name": "Otakugame.fr",
@@ -119,15 +123,15 @@
       "count": 1
     },
     {
-      "name": "Howl.Link",
-      "count": 1
-    },
-    {
       "name": "川口マガジン",
       "count": 1
     },
     {
       "name": "女子旅プレス",
+      "count": 1
+    },
+    {
+      "name": "電撃オンライン",
       "count": 1
     },
     {
@@ -172,8 +176,8 @@
       "image": "https://kawaguchi-magazine.com/wp-content/uploads/2024/08/IMG_20230810_113948-1.jpg",
       "leadSource": "川口マガジン",
       "publishedAt": "2026-11-08T11:23:40.000Z",
-      "sourceCount": 3,
-      "articleCount": 15,
+      "sourceCount": 4,
+      "articleCount": 16,
       "categories": [
         "other",
         "new"
@@ -293,7 +297,7 @@
       "leadSource": "https://iyusuke.jp/",
       "publishedAt": "2026-11-08T18:16:16.000Z",
       "sourceCount": 2,
-      "articleCount": 37,
+      "articleCount": 36,
       "categories": [
         "guide",
         "sales"
@@ -499,12 +503,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-08T18:00:15.740Z",
-    "previousCount": 97,
-    "newCount": 0
+    "previousAt": "2026-11-08T18:30:14.080Z",
+    "previousCount": 94,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-08T19:00:14.080Z",
+  "nextUpdateAt": "2026-11-08T19:30:13.961Z",
   "items": [
     {
       "id": "fa9c24261234",
@@ -791,27 +795,6 @@
       "categories": [
         "guide",
         "sales"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "b03da4431e65",
-      "title": "【モンハンアウトランダーズ】コントローラーは使える？【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/574152",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-08T12:26:38.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574152.png?date=1793227034",
-      "categories": [
-        "other"
       ],
       "series": [
         "outlanders"
@@ -1196,6 +1179,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "23a52e5a1984",
+      "title": "【モンハンアウトランダーズ育成攻略】強化の優先度やレベル上げ、銘刻・オトモの育成方法",
+      "url": "https://dengekionline.com/article/202611/93408",
+      "host": "dengekionline.com",
+      "source": "電撃オンライン",
+      "summary": "",
+      "publishedAt": "2026-11-08T05:40:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/93408/ogp_AQdn.jpg?x=1280",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "e08e6c8ea2a8",
@@ -1616,6 +1620,48 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "b2dcaaf7cd8f",
+      "title": "参加型モンスターハンターワイルズ！【いろいろお試し装備…はたして】初参加さん、ベテランハンターさん、初心者ハンターさん大歓迎！",
+      "url": "https://t.co/3hORtkbYTC",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-11-07T12:04:01.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "019e6774fa75",
+      "title": "モンハンワイルズ参加型配信！",
+      "url": "https://t.co/qWPxqbnkXE",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-11-07T11:30:45.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "d605748fb698",
