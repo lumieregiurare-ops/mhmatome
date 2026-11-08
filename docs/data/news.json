@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T12:30:14.191Z",
+  "updatedAt": "2026-11-08T13:00:14.241Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 94,
-  "todayCount": 48,
+  "todayCount": 49,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 41
+      "count": 43
     },
     {
       "id": "sale",
@@ -57,24 +57,24 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 6
+      "count": 5
     },
     {
       "id": "other",
       "label": "その他",
-      "count": 44
+      "count": 42
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 30
+      "count": 28
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 10
+      "count": 12
     },
     {
       "id": "world",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 66
+      "count": 67
     },
     {
       "name": "YouTube",
@@ -108,7 +108,7 @@
     },
     {
       "name": "Howl.Link",
-      "count": 3
+      "count": 2
     },
     {
       "name": "Otakugame.fr",
@@ -200,6 +200,13 @@
           "isPR": false
         },
         {
+          "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/575038",
+          "source": "GameWith",
+          "publishedAt": "2026-11-08T05:46:27.000Z",
+          "isPR": false
+        },
+        {
           "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/563104",
           "source": "GameWith",
@@ -239,13 +246,6 @@
           "url": "https://t.co/qWPxqbnkXE",
           "source": "Howl.Link",
           "publishedAt": "2026-11-07T11:30:45.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/574841",
-          "source": "GameWith",
-          "publishedAt": "2026-11-07T11:13:11.000Z",
           "isPR": false
         }
       ]
@@ -308,7 +308,7 @@
       "leadSource": "https://iyusuke.jp/",
       "publishedAt": "2026-11-08T12:13:41.000Z",
       "sourceCount": 2,
-      "articleCount": 23,
+      "articleCount": 21,
       "categories": [
         "guide",
         "other"
@@ -464,7 +464,7 @@
       "leadSource": "Unisba Media",
       "publishedAt": "2026-11-07T07:24:31.000Z",
       "sourceCount": 2,
-      "articleCount": 3,
+      "articleCount": 2,
       "categories": [
         "collab",
         "other"
@@ -479,13 +479,6 @@
           "url": "https://gamewith.jp/mhwilds/471250",
           "source": "GameWith",
           "publishedAt": "2026-11-06T07:04:17.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ】サイドミッション一覧と解放条件【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/485962",
-          "source": "GameWith",
-          "publishedAt": "2026-11-05T12:30:38.000Z",
           "isPR": false
         }
       ]
@@ -521,12 +514,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-08T12:00:13.787Z",
-    "previousCount": 92,
-    "newCount": 6
+    "previousAt": "2026-11-08T12:30:14.191Z",
+    "previousCount": 94,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-08T13:00:14.191Z",
+  "nextUpdateAt": "2026-11-08T13:30:14.241Z",
   "items": [
     {
       "id": "fa9c24261234",
@@ -548,6 +541,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "2dd0a4c576af",
+      "title": "【モンハンアウトランダーズ】主人公(双剣)の評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577469",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-08T11:58:17.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577469.png?date=1790214889",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "c3ef4d2c6063",
@@ -631,7 +645,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9bd4df6234c1",
@@ -760,27 +774,6 @@
       "isNew": false
     },
     {
-      "id": "b03da4431e65",
-      "title": "【モンハンアウトランダーズ】コントローラーは使える？【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/574152",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-08T07:02:10.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574152.png?date=1793227034",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "4cd467a24cc4",
       "title": "【アセンダンス】双剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/577734",
@@ -819,28 +812,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "60f3de2f47ec",
-      "title": "【モンハンアウトランダーズ】最強キャラランキング【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531927",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-08T06:35:12.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531927.png?date=1793082334",
-      "categories": [
-        "guide",
-        "sales"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "eb7f0442e76a",
@@ -883,6 +854,48 @@
       "isNew": false
     },
     {
+      "id": "fa5f63e461a4",
+      "title": "【モンハンアウトランダーズ】マップ攻略一覧｜探索ツール【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531937",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-08T05:53:47.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531937.png?date=1793226114",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "411bb4076b94",
+      "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/575038",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-08T05:46:27.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575038.png?date=1789770323",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "23a52e5a1984",
       "title": "【モンハンアウトランダーズ育成攻略】強化の優先度やレベル上げ、銘刻・オトモの育成方法",
       "url": "https://dengekionline.com/article/202611/93408",
@@ -901,7 +914,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "83c2cd6f4a1b",
@@ -1535,27 +1548,6 @@
       "isNew": false
     },
     {
-      "id": "aa1320a057a2",
-      "title": "【モンハンワイルズ】バウンティとお守りガチャやるの巻。",
-      "url": "https://t.co/mwJFn7tkxi",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-11-07T13:10:39.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "b2dcaaf7cd8f",
       "title": "参加型モンスターハンターワイルズ！【いろいろお試し装備…はたして】初参加さん、ベテランハンターさん、初心者ハンターさん大歓迎！",
       "url": "https://t.co/3hORtkbYTC",
@@ -1894,27 +1886,6 @@
       "isNew": false
     },
     {
-      "id": "411bb4076b94",
-      "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/575038",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-06T14:34:05.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575038.png?date=1789770323",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "d8b95bbbc335",
       "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/563040",
@@ -2164,7 +2135,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b7aaa965e804",
@@ -2248,6 +2219,27 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "a1d5eaa7197a",
+      "title": "【サンブレイク】おすすめ盟友と組み合わせ | 増やし方【モンハンライズ】",
+      "url": "https://gamewith.jp/mhrize/article/show/379765",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T03:46:10.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/379765.png?date=1671012169",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
       "isNew": true
     },
     {
@@ -2291,7 +2283,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4c0f9035ba74",
@@ -2330,6 +2322,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "3c016c8e39db",
+      "title": "【サンブレイク】装飾品一覧と解放条件｜アプデ追加【モンハンライズ】",
+      "url": "https://gamewith.jp/mhrize/article/show/266756",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T01:52:08.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/266756.png?date=1617256411",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "b5d6fe40ab2e",
@@ -2467,27 +2480,6 @@
       ],
       "series": [
         "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "9f9deddd8b65",
-      "title": "【モンハンワイルズ】サイドミッション一覧と解放条件【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/485962",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-05T12:30:38.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485962.png?date=1740733817",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
