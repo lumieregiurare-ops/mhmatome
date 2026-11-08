@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-08T02:00:15.350Z",
+  "updatedAt": "2026-11-08T02:30:15.174Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 89,
-  "todayCount": 18,
+  "total": 88,
+  "todayCount": 19,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 38
+      "count": 39
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 41
+      "count": 39
     }
   ],
   "series": [
@@ -111,10 +111,6 @@
       "count": 4
     },
     {
-      "name": "Otakugame.fr",
-      "count": 2
-    },
-    {
       "name": "玩具人 TOY PEOPLE",
       "count": 2
     },
@@ -131,6 +127,10 @@
       "count": 1
     },
     {
+      "name": "AppMedia",
+      "count": 1
+    },
+    {
       "name": "Yahoo!ニュース",
       "count": 1
     },
@@ -143,15 +143,15 @@
       "count": 1
     },
     {
+      "name": "Otakugame.fr",
+      "count": 1
+    },
+    {
       "name": "게임메카",
       "count": 1
     },
     {
       "name": "キャラグー",
-      "count": 1
-    },
-    {
-      "name": "マイナビニュース",
       "count": 1
     },
     {
@@ -411,12 +411,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-08T01:30:15.877Z",
-    "previousCount": 87,
-    "newCount": 2
+    "previousAt": "2026-11-08T02:00:15.350Z",
+    "previousCount": 89,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-08T02:30:15.350Z",
+  "nextUpdateAt": "2026-11-08T03:00:15.174Z",
   "items": [
     {
       "id": "b42f88b40196",
@@ -427,6 +427,48 @@
       "summary": "",
       "publishedAt": "2026-11-08T01:43:07.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583506.png?date=1792581205",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "8a97121d3426",
+      "title": "【モンハンアウトランダーズ】祈願は引くべき?祈願の報酬と天井【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/585784",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-08T01:41:09.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/585784.png?date=1793242574",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "a43b030414e1",
+      "title": "【モンハンアウトランダーズ】ルカの評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577461",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-08T01:04:24.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577461.png?date=1790214525",
       "categories": [
         "guide"
       ],
@@ -577,27 +619,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577471.png?date=1790214971",
       "categories": [
         "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "8a97121d3426",
-      "title": "【モンハンアウトランダーズ】祈願は引くべき?祈願の報酬と天井【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/585784",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-07T18:04:10.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/585784.png?date=1793242574",
-      "categories": [
-        "other"
       ],
       "series": [
         "outlanders"
@@ -1216,27 +1237,6 @@
       "isNew": false
     },
     {
-      "id": "a43b030414e1",
-      "title": "【モンハンアウトランダーズ】ルカの評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577461",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-07T08:10:06.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577461.png?date=1790214525",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "99367de5c480",
       "title": "【モンハンワイルズ】FF14スペシャルコラボ！オメガ・プラネテスに挑戦！？【モンスターハンターワイルズ】 Squirrel White (pOuewDUeSH)",
       "url": "https://media.unisba.ac.id/7ee40dde/8cedf2b1HKlSPnDgZjs/?share",
@@ -1574,23 +1574,23 @@
       "isNew": false
     },
     {
-      "id": "d81286a23563",
-      "title": "モンスターハンターストーリーズ3 物語紹介",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPR3BjcGlVd0hpcHVBVjJyaHF2RldiNFd3cjd4QTc0aHlsaUFDcTBDOUNGNWpjRkZzZ01Ba21ZcTFUTWN3OTdxbUxvekdVRFVkYnFYRlJLSUxwN1lnZjA4RTJfOFgySFo0ekQzWHEwZDRBN2o5WFJhalJOZXUtOF9FaS01N3dUd2lXWlg0b0x0SmN5aGRQeEN0a1FuUWNheXJaeTkwUEp4Q3FlaU5SanF5aWpSdzgyQlozbEdFRl8zbGNVX2Rtb1B1cXBILWJ2VWJYVFBMem9mSUVwVzJ3M3R0cElxeGdOd2dpdTl4UEtTZnNtOEdtVUtkOXYwNkVIbTY1dHUzOHlJRExQa1RIZHFOT2tSQlBuVFgzM1ppZ0hqSkg4eFRK0gGsAkFVX3lxTE9rUmJnTUQ3TDhlSHl6emJMSmZ0MGZxSVVSVjJqRGU4NUdheWRUcFR5STdjN25VTHpzTU9VY2cyRFBZYl9sSm5rV2ZHNklOcmY0QXI5cUtPZVNxeTR4SFRFWktLZkdXazBFYUxYQUt0TzFwZjFoaXcwY3BDZWVKUk5KZTlnaDFFOTN0T3Jwem9tc3A2d3d1cUJtaklkaFZtQXJES05mOWEzTTRBZ09KVkRRblVIZDVTRnFpZEE0eU1MX1lFNjlYNnIyd2VMTWR6NjZDa09lZUh1ZHE0b0F3Qmo4YjZxZld3TkpyWlpxSnQ3VnowSThnSFJ5ajhON3FIV2tBOHdINFdJZXVNX1ptdko2ZEp2cWtkMFJ2clpkY0o3R0pxY3VkdHJhbXJsVw?oc=5",
-      "host": "otakugame.fr",
-      "source": "Otakugame.fr",
+      "id": "d3cd7084b2c3",
+      "title": "【モンハンストーリーズ3】最強装備まとめ【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79849634",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
       "summary": "",
-      "publishedAt": "2026-11-06T21:59:09.000Z",
-      "image": "",
+      "publishedAt": "2026-11-06T22:13:22.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/174453_f690s.webp",
       "categories": [
-        "other"
+        "guide"
       ],
       "series": [
         "stories"
       ],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": true
     },
@@ -2048,25 +2048,6 @@
       "isNew": false
     },
     {
-      "id": "9d4d7fa64a07",
-      "title": "福岡・マリノアシティ跡地に新アウトレット誕生! 九州最大級の「ロピア」、モンハン等身大立像も",
-      "url": "https://news.mynavi.jp/article/20261106-5249421/",
-      "host": "news.mynavi.jp",
-      "source": "マイナビニュース",
-      "summary": "",
-      "publishedAt": "2026-11-05T23:15:00.000Z",
-      "image": "https://news.mynavi.jp/article/20261106-5249421/ogp_images/ogp.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "55c33e94fb1b",
       "title": "【モンハンナウ】最強武器種ランキング【モンハンNow】",
       "url": "https://gamewith.jp/monsterhunternow/article/show/415866",
@@ -2147,7 +2128,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "982bd6d55b68",
