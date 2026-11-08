@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-08T10:01:20.823Z",
+  "updatedAt": "2026-11-08T10:30:25.610Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 92,
+  "total": 90,
   "todayCount": 46,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 41
+      "count": 40
     },
     {
       "id": "sale",
@@ -57,24 +57,24 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 4
+      "count": 5
     },
     {
       "id": "other",
       "label": "その他",
-      "count": 42
+      "count": 41
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 31
+      "count": 30
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 4
+      "count": 6
     },
     {
       "id": "world",
@@ -84,7 +84,7 @@
     {
       "id": "now",
       "label": "Now",
-      "count": 7
+      "count": 6
     },
     {
       "id": "stories",
@@ -94,7 +94,7 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 39
+      "count": 38
     }
   ],
   "sources": [
@@ -104,7 +104,7 @@
     },
     {
       "name": "YouTube",
-      "count": 8
+      "count": 7
     },
     {
       "name": "Howl.Link",
@@ -164,10 +164,6 @@
     },
     {
       "name": "キャラグー",
-      "count": 1
-    },
-    {
-      "name": "マイナビニュース",
       "count": 1
     }
   ],
@@ -230,7 +226,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-11-08T07:31:10.000Z",
       "sourceCount": 2,
-      "articleCount": 23,
+      "articleCount": 21,
       "categories": [
         "other",
         "guide"
@@ -300,18 +296,18 @@
       ]
     },
     {
-      "id": "e08e6c8ea2a8",
-      "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
+      "id": "e6d79acfa4bd",
+      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
       "summary": "",
-      "url": "https://gamewith.jp/mhwilds/563104",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563104.png?date=1789770630",
+      "url": "https://gamewith.jp/mhwilds/563096",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
       "leadSource": "GameWith",
-      "publishedAt": "2026-11-08T05:19:18.000Z",
+      "publishedAt": "2026-11-08T06:37:08.000Z",
       "sourceCount": 2,
       "articleCount": 10,
       "categories": [
-        "other",
-        "new"
+        "guide",
+        "other"
       ],
       "keywords": [
         "モンハンワイルズ",
@@ -319,6 +315,13 @@
         "最新情報"
       ],
       "articles": [
+        {
+          "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563104",
+          "source": "GameWith",
+          "publishedAt": "2026-11-08T05:19:18.000Z",
+          "isPR": false
+        },
         {
           "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/575036",
@@ -345,13 +348,6 @@
           "url": "https://gamewith.jp/mhwilds/563077",
           "source": "GameWith",
           "publishedAt": "2026-11-07T18:17:27.000Z",
-          "isPR": false
-        },
-        {
-          "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
-          "url": "https://gamewith.jp/mhwilds/563096",
-          "source": "GameWith",
-          "publishedAt": "2026-11-07T15:35:08.000Z",
           "isPR": false
         },
         {
@@ -564,12 +560,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-08T09:30:53.945Z",
-    "previousCount": 90,
+    "previousAt": "2026-11-08T10:01:20.823Z",
+    "previousCount": 92,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-08T10:31:20.823Z",
+  "nextUpdateAt": "2026-11-08T11:00:25.610Z",
   "items": [
     {
       "id": "278fbd5d3ae7",
@@ -628,6 +624,25 @@
       "series": [
         "outlanders"
       ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "e6d79acfa4bd",
+      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
+      "url": "https://gamewith.jp/mhwilds/563096",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-08T06:37:08.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
+      "categories": [
+        "guide"
+      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1516,25 +1531,6 @@
       "isNew": false
     },
     {
-      "id": "e6d79acfa4bd",
-      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
-      "url": "https://gamewith.jp/mhwilds/563096",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-07T15:35:08.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
-      "categories": [
-        "guide"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "aa1320a057a2",
       "title": "【モンハンワイルズ】バウンティとお守りガチャやるの巻。",
       "url": "https://t.co/mwJFn7tkxi",
@@ -1809,27 +1805,6 @@
       "isNew": false
     },
     {
-      "id": "8b5ba8b0b14e",
-      "title": "【モンハンアウトランダーズ】フューイの性能とおすすめキャラ【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577659",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-07T06:00:26.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577659.png?date=1790216942",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "f1e344fb9da2",
       "title": "#モンハンナウ #モンハンnow フレリン 11/6",
       "url": "https://youtu.be/XBVtWuGzqlQ?si",
@@ -2084,27 +2059,6 @@
       "isNew": false
     },
     {
-      "id": "36bf38ad62e4",
-      "title": "【モンハンワイルズ】序盤おすすめ装備まとめ｜下位装備おすすめ【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/485430",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-06T10:16:09.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485430.png?date=1787565141",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "81028676ddfa",
       "title": "【モンハンナウ】最強装備・おすすめ装備まとめ【モンハンNow】",
       "url": "https://gamewith.jp/monsterhunternow/article/show/414964",
@@ -2187,7 +2141,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1256671ebad4",
@@ -2227,7 +2181,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b7aaa965e804",
@@ -2270,6 +2224,49 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "a1d5eaa7197a",
+      "title": "【サンブレイク】おすすめ盟友と組み合わせ | 増やし方【モンハンライズ】",
+      "url": "https://gamewith.jp/mhrize/article/show/379765",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T03:46:10.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/379765.png?date=1671012169",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "405e4984797d",
+      "title": "【サンブレイク】最強武器種ランキング｜全武器評価",
+      "url": "https://gamewith.jp/mhrize/article/show/250447",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T03:33:43.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/250447.png?date=1655179066",
+      "categories": [
+        "guide",
+        "sales"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "4c0f9035ba74",
@@ -2389,25 +2386,6 @@
       "isNew": false
     },
     {
-      "id": "9d4d7fa64a07",
-      "title": "福岡・マリノアシティ跡地に新アウトレット誕生! 九州最大級の「ロピア」、モンハン等身大立像も",
-      "url": "https://news.mynavi.jp/article/20261106-5249421/",
-      "host": "news.mynavi.jp",
-      "source": "マイナビニュース",
-      "summary": "",
-      "publishedAt": "2026-11-05T23:15:00.000Z",
-      "image": "https://news.mynavi.jp/article/20261106-5249421/ogp_images/ogp.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "55c33e94fb1b",
       "title": "【モンハンナウ】最強武器種ランキング【モンハンNow】",
       "url": "https://gamewith.jp/monsterhunternow/article/show/415866",
@@ -2464,27 +2442,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "982bd6d55b68",
-      "title": "【モンハンNow】ほんとに強い？スカルホイッスル！！麻痺笛を強く使える装備構成とは【ランク394】",
-      "url": "https://youtu.be/G8sGlzCFYqA?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-05T10:02:34.000Z",
-      "image": "",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "now"
       ],
       "isOfficial": false,
       "isPR": false,
