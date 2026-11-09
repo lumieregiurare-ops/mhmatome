@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-09T03:30:14.904Z",
+  "updatedAt": "2026-11-09T04:00:14.550Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 94,
-  "todayCount": 37,
+  "total": 96,
+  "todayCount": 38,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 5
+      "count": 6
     },
     {
       "id": "update",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 52
+      "count": 51
     },
     {
       "id": "sale",
@@ -57,19 +57,19 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 4
+      "count": 3
     },
     {
       "id": "other",
       "label": "その他",
-      "count": 34
+      "count": 36
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 28
+      "count": 31
     },
     {
       "id": "rise",
@@ -79,17 +79,17 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 2
+      "count": 3
     },
     {
       "id": "now",
       "label": "Now",
-      "count": 9
+      "count": 7
     },
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 1
+      "count": 2
     },
     {
       "id": "outlanders",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 69
+      "count": 68
     },
     {
       "name": "YouTube",
@@ -108,7 +108,7 @@
     },
     {
       "name": "Howl.Link",
-      "count": 3
+      "count": 4
     },
     {
       "name": "ガジェット通信",
@@ -123,7 +123,15 @@
       "count": 1
     },
     {
+      "name": "朝日新聞",
+      "count": 1
+    },
+    {
       "name": "川口マガジン",
+      "count": 1
+    },
+    {
+      "name": "AppMedia",
       "count": 1
     },
     {
@@ -151,7 +159,7 @@
       "count": 1
     },
     {
-      "name": "Yahoo!ニュース",
+      "name": "オタク総研",
       "count": 1
     },
     {
@@ -329,7 +337,7 @@
       "leadSource": "YouTube",
       "publishedAt": "2026-11-07T09:24:01.000Z",
       "sourceCount": 2,
-      "articleCount": 6,
+      "articleCount": 5,
       "categories": [
         "guide",
         "other"
@@ -366,40 +374,6 @@
           "url": "https://gamewith.jp/monsterhunternow/article/show/577438",
           "source": "GameWith",
           "publishedAt": "2026-11-06T06:09:18.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンナウ】プロモーションコード一覧と入力方法【モンハンNow】",
-          "url": "https://gamewith.jp/monsterhunternow/article/show/418926",
-          "source": "GameWith",
-          "publishedAt": "2026-11-06T03:46:14.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "562ce3f05940",
-      "title": "『モンハンNow』アクセサリの磨き直しが超捗る!! 環境がかなり美味しい大連続狩猟ウィークガイド",
-      "summary": "",
-      "url": "https://getnews.jp/archives/3753837",
-      "image": "https://rensai.jp/wp-content/uploads/2026/11/e8ffeaf4c730144dc093e738fba8b90f.jpg",
-      "leadSource": "ガジェット通信",
-      "publishedAt": "2026-11-09T00:30:38.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other"
-      ],
-      "keywords": [
-        "モンハンNow",
-        "now"
-      ],
-      "articles": [
-        {
-          "title": "#モンハンナウ #モンハンnow フレリン 11/6",
-          "url": "https://youtu.be/XBVtWuGzqlQ?si",
-          "source": "YouTube",
-          "publishedAt": "2026-11-07T00:47:48.000Z",
           "isPR": false
         }
       ]
@@ -491,12 +465,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-09T03:00:15.282Z",
+    "previousAt": "2026-11-09T03:30:14.904Z",
     "previousCount": 94,
-    "newCount": 3
+    "newCount": 5
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-09T04:00:14.904Z",
+  "nextUpdateAt": "2026-11-09T04:30:14.550Z",
   "items": [
     {
       "id": "fa9c24261234",
@@ -1167,7 +1141,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "597d6b691dc3",
@@ -1210,6 +1184,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "99769a0f7f22",
+      "title": "いつでも、どこでも、一狩りいこうぜ！ 『モンスターハンターワイルズ』が、Nintendo Switch 2 で12月4日（金）に発売決定！ ニンテンドーeショップで予約開始！",
+      "url": "https://www.asahi.com/and/pressrelease/16877361",
+      "host": "asahi.com",
+      "source": "朝日新聞",
+      "summary": "",
+      "publishedAt": "2026-11-08T18:20:09.000Z",
+      "image": "",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "e6d79acfa4bd",
@@ -1286,6 +1281,28 @@
       ],
       "series": [
         "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "f1e344fb9da2",
+      "title": "#モンハンワイルズ参加型 】深夜の参加型ワイルズ #121 激チケ消費！英雄の証で護石周回！ 速射の護石が欲しい・・・・キーマウ #mhwilds #モンスターハンターワイルズ",
+      "url": "https://t.co/u3lnCLU9K9",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-11-08T14:13:22.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1464,6 +1481,27 @@
       "isNew": false
     },
     {
+      "id": "d3cd7084b2c3",
+      "title": "【モンハンストーリーズ3】最強装備まとめ【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79849634",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-08T10:32:56.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/174453_f690s.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "957808473d17",
       "title": "Monster Hunter Rise 五十路の狩猟術 【ついに禁を破る】日曜の狩りをやってしまいます",
       "url": "https://youtu.be/BhBVkbseJwE?si",
@@ -1480,7 +1518,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4cd467a24cc4",
@@ -1584,6 +1622,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "359ec1ee3992",
+      "title": "操虫棍ソロ 9'58\"19 フリーチャレンジクエスト「生き誇れ、野生の仔」 モンスターハンターワイルズ（レウス、おまえはなんなんだ！！発動）",
+      "url": "https://youtu.be/gbN2rQjVAEs?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-08T05:18:48.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "b624f1e69140",
@@ -1944,27 +2003,6 @@
       "isNew": false
     },
     {
-      "id": "f1e344fb9da2",
-      "title": "#モンハンナウ #モンハンnow フレリン 11/6",
-      "url": "https://youtu.be/XBVtWuGzqlQ?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-07T00:47:48.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "26019fd1e8f3",
       "title": "『モンハンNow』アマツマガツチ出現時間解禁!! イベントエリア情報も出揃った大阪カーニバル最新ガイド",
       "url": "https://getnews.jp/archives/3753697",
@@ -2067,7 +2105,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6425635926d1",
@@ -2112,6 +2150,27 @@
       "isNew": false
     },
     {
+      "id": "46a705156eaa",
+      "title": "【サンブレイク】サブキャンプの解放条件と場所一覧【モンハンライズ】",
+      "url": "https://gamewith.jp/mhrize/article/show/264945",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T11:47:14.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/264945.png?date=1616756590",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "4e3b6d2dd7aa",
       "title": "【モンハンワイルズ】片手剣でもみんなを守れるんです(泣)【骸場ミネオ】#モンハンワイルズ #モンハン #meme",
       "url": "https://youtu.be/3gZYIDQmnMM?si",
@@ -2134,13 +2193,13 @@
     },
     {
       "id": "1c936f4ea4db",
-      "title": "モンハンワイルズ、上期販売は「約80万本」過去作ワールド及ばずも、超大型アプデ発表後に「ペース向上」（オタク総研）",
-      "url": "https://news.yahoo.co.jp/articles/00b18c76162d9777994eba8065db1bb1533a80b0",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "title": "モンハンワイルズ、上期販売は「約80万本」過去作ワールド及ばずも、超大型アプデ発表後に「ペース向上」",
+      "url": "https://0115765.com/archives/212888",
+      "host": "0115765.com",
+      "source": "オタク総研",
       "summary": "",
-      "publishedAt": "2026-11-06T11:28:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261106-00202800-otakulab-000-1399-view.jpg?exp=10800",
+      "publishedAt": "2026-11-06T11:08:31.000Z",
+      "image": "https://0115765.com/wp-content/uploads/2025/08/0813-62pepdwd.jpg",
       "categories": [
         "new",
         "sales"
@@ -2406,68 +2465,25 @@
       "isNew": false
     },
     {
-      "id": "2a0aeb37dc6c",
-      "title": "【モンハンナウ】プロモーションコード一覧と入力方法【モンハンNow】",
-      "url": "https://gamewith.jp/monsterhunternow/article/show/418926",
+      "id": "4eeb09dc0d5c",
+      "title": "【サンブレイク】傀異(怪異)クエストの解放と素材一覧",
+      "url": "https://gamewith.jp/mhrize/article/show/349492",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-06T03:46:14.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/418926.png?date=1695261135",
+      "publishedAt": "2026-11-06T05:29:11.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/349492.png?date=1656670328",
       "categories": [
         "other"
       ],
       "series": [
-        "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "a1d5eaa7197a",
-      "title": "【サンブレイク】おすすめ盟友と組み合わせ | 増やし方【モンハンライズ】",
-      "url": "https://gamewith.jp/mhrize/article/show/379765",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-06T03:46:10.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/379765.png?date=1671012169",
-      "categories": [
-        "guide"
-      ],
-      "series": [
         "rise"
       ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "405e4984797d",
-      "title": "【サンブレイク】最強武器種ランキング｜全武器評価",
-      "url": "https://gamewith.jp/mhrize/article/show/250447",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-06T03:33:43.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/250447.png?date=1655179066",
-      "categories": [
-        "guide",
-        "sales"
-      ],
-      "series": [
-        "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     }
   ]
 }
