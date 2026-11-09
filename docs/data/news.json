@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-09T08:30:16.226Z",
+  "updatedAt": "2026-11-09T09:00:17.747Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 96,
+  "total": 97,
   "todayCount": 49,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 44
+      "count": 46
     },
     {
       "id": "sale",
@@ -62,19 +62,19 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 42
+      "count": 41
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 35
+      "count": 36
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 5
+      "count": 4
     },
     {
       "id": "world",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 2
+      "count": 3
     },
     {
       "id": "outlanders",
@@ -100,11 +100,11 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 62
+      "count": 61
     },
     {
       "name": "Howl.Link",
-      "count": 9
+      "count": 10
     },
     {
       "name": "YouTube",
@@ -119,6 +119,10 @@
       "count": 2
     },
     {
+      "name": "AppMedia",
+      "count": 2
+    },
+    {
       "name": "https://iyusuke.jp/",
       "count": 1
     },
@@ -128,10 +132,6 @@
     },
     {
       "name": "川口マガジン",
-      "count": 1
-    },
-    {
-      "name": "AppMedia",
       "count": 1
     },
     {
@@ -289,35 +289,6 @@
       ]
     },
     {
-      "id": "fa9c24261234",
-      "title": "モンハンアウトランダーズのコントローラー対応とおすすめ｜iPhone・Android実機検証",
-      "summary": "",
-      "url": "https://iyusuke.jp/mho-controller/",
-      "image": "https://iyusuke.jp/wp-content/uploads/2026/11/gamesir-g8plus-x5lite-mho-1.webp",
-      "leadSource": "https://iyusuke.jp/",
-      "publishedAt": "2026-11-09T06:21:41.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "guide",
-        "other"
-      ],
-      "keywords": [
-        "アウトランダーズ",
-        "モンハンアウトランダーズ",
-        "コントローラー"
-      ],
-      "articles": [
-        {
-          "title": "【モンハンアウトランダーズ】コントローラーは使える？【アウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/574152",
-          "source": "GameWith",
-          "publishedAt": "2026-11-09T05:47:12.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "2d4140589897",
       "title": "『モンスターハンターワイルズ：アセンダンス』テオ・テスカトルが再臨！「カプコンフィギュアビルダー クリエイターズモデル 炎王龍 テオ・テスカトル 【復刻版】」2027年5月発売",
       "summary": "",
@@ -348,12 +319,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-09T08:00:25.046Z",
-    "previousCount": 95,
-    "newCount": 2
+    "previousAt": "2026-11-09T08:30:16.226Z",
+    "previousCount": 96,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-09T09:00:16.226Z",
+  "nextUpdateAt": "2026-11-09T09:30:17.747Z",
   "items": [
     {
       "id": "7f0191dee326",
@@ -364,6 +335,27 @@
       "summary": "",
       "publishedAt": "2026-11-09T07:56:32.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531926.png?date=1793679039",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "ea27694f7437",
+      "title": "【モンハンアウトランダーズ】リセマラのやり方と所要時間｜何連引ける？【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531931",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-09T07:55:27.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531931.png?date=1793082187",
       "categories": [
         "other"
       ],
@@ -630,27 +622,6 @@
       "isNew": false
     },
     {
-      "id": "b03da4431e65",
-      "title": "【モンハンアウトランダーズ】コントローラーは使える？【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/574152",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-09T05:47:12.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574152.png?date=1793227034",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "0fa16261f863",
       "title": "【モンハンアウトランダーズ】エナジー(スタミナ)の回復方法と使い道【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/560263",
@@ -703,27 +674,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559753.png?date=1789014409",
       "categories": [
         "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ea27694f7437",
-      "title": "【モンハンアウトランダーズ】リセマラのやり方と所要時間｜何連引ける？【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531931",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-09T05:45:28.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531931.png?date=1793082187",
-      "categories": [
-        "other"
       ],
       "series": [
         "outlanders"
@@ -816,7 +766,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c9cd694c1431",
@@ -900,6 +850,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "4408848015da",
+      "title": "【モンハンアウトランダーズ】リックスの性能とおすすめキャラ【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577647",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-09T01:12:49.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577647.png?date=1792756627",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "2e9feb56cfad",
@@ -1756,6 +1727,27 @@
       "isNew": false
     },
     {
+      "id": "0cfc9c6f998e",
+      "title": "ラストチャレンジフリチャレで6分台目指す #モンハンワイルズ",
+      "url": "https://t.co/j1l90qKVVU",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-11-08T00:14:38.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "b5d6fe40ab2e",
       "title": "【アセンダンス】護竜リオレイアの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/575037",
@@ -1795,7 +1787,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "488c58093be3",
@@ -1838,6 +1830,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "fbd709240fd8",
+      "title": "【モンハンストーリーズ2】レベル上げにおすすめの方法・手順まとめ【MHST2】",
+      "url": "https://appmedia.jp/mhst2/6648013",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-07T19:27:35.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2021/07/cfd34185d634df738c4a56e4eec83502.jpg",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "aa1320a057a2",
@@ -2219,6 +2232,27 @@
       "isNew": false
     },
     {
+      "id": "7e7d0290f591",
+      "title": "【サンブレイク】バルファルクの弱点と攻略 | 解放条件【モンハンライズ】",
+      "url": "https://gamewith.jp/mhrize/article/show/279607",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T12:09:04.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/279607.png?date=1657262416",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "46a705156eaa",
       "title": "【サンブレイク】サブキャンプの解放条件と場所一覧【モンハンライズ】",
       "url": "https://gamewith.jp/mhrize/article/show/264945",
@@ -2318,48 +2352,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "2a8c03aaea56",
-      "title": "【モンハンライズ】太刀の最強おすすめ装備",
-      "url": "https://gamewith.jp/mhrize/article/show/263907",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-06T08:40:09.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/263907.png?date=1616675060",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "07e705a2eb21",
-      "title": "【サンブレイク】マスターランク(MR)の解放条件と上限解放クエスト",
-      "url": "https://gamewith.jp/mhrize/article/show/324046",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-06T08:37:15.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/324046.png?date=1648791075",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "rise"
       ],
       "isOfficial": false,
       "isPR": false,
