@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-09T07:30:45.795Z",
+  "updatedAt": "2026-11-09T08:00:25.046Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 93,
-  "todayCount": 48,
+  "total": 95,
+  "todayCount": 47,
   "categories": [
     {
       "id": "new",
@@ -22,12 +22,12 @@
     {
       "id": "event",
       "label": "イベント・クエスト",
-      "count": 0
+      "count": 1
     },
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 1
+      "count": 2
     },
     {
       "id": "goods",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 45
+      "count": 43
     },
     {
       "id": "sale",
@@ -62,19 +62,19 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 39
+      "count": 42
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 31
+      "count": 34
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 6
+      "count": 5
     },
     {
       "id": "world",
@@ -94,24 +94,28 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 42
+      "count": 41
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 62
-    },
-    {
-      "name": "YouTube",
-      "count": 8
+      "count": 60
     },
     {
       "name": "Howl.Link",
-      "count": 7
+      "count": 9
+    },
+    {
+      "name": "YouTube",
+      "count": 9
     },
     {
       "name": "ガジェット通信",
+      "count": 2
+    },
+    {
+      "name": "朝日新聞",
       "count": 2
     },
     {
@@ -120,10 +124,6 @@
     },
     {
       "name": "電ファミニコゲーマー",
-      "count": 1
-    },
-    {
-      "name": "朝日新聞",
       "count": 1
     },
     {
@@ -259,7 +259,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-11-09T07:05:28.000Z",
       "sourceCount": 2,
-      "articleCount": 17,
+      "articleCount": 18,
       "categories": [
         "guide",
         "other"
@@ -429,12 +429,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-09T07:00:16.912Z",
+    "previousAt": "2026-11-09T07:30:45.795Z",
     "previousCount": 93,
-    "newCount": 1
+    "newCount": 6
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-09T08:00:45.795Z",
+  "nextUpdateAt": "2026-11-09T08:30:25.046Z",
   "items": [
     {
       "id": "0f45c1692464",
@@ -497,7 +497,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8a97121d3426",
@@ -941,6 +941,27 @@
       "isNew": false
     },
     {
+      "id": "2e9feb56cfad",
+      "title": "【モンハンアウトランダーズ】コジローの性能とおすすめキャラ【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577648",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-09T01:12:49.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577648.png?date=1792756159",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "2dd0a4c576af",
       "title": "【モンハンアウトランダーズ】主人公(双剣)の評価とおすすめ装備・編成【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577469",
@@ -1012,27 +1033,6 @@
       "summary": "",
       "publishedAt": "2026-11-09T01:10:37.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577466.png?date=1790214739",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "139e9f532a51",
-      "title": "【モンハンアウトランダーズ】主人公(ヘビィボウガン)の評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577467",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-09T01:10:37.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577467.png?date=1790214807",
       "categories": [
         "guide"
       ],
@@ -1298,27 +1298,6 @@
       "isNew": false
     },
     {
-      "id": "122ccf573e13",
-      "title": "【モンハンアウトランダーズ】主人公(ハンマー)の評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/583504",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-09T01:10:26.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583504.png?date=1792581337",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "d605748fb698",
       "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/574841",
@@ -1567,6 +1546,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "96e58a91437a",
+      "title": "【ワイルズ弓】毎日チャレンジ / また遅くなった アルシュベルド / 20261108 #まおきー",
+      "url": "https://youtu.be/ixTRbtwX6cQ?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-08T09:29:10.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "957808473d17",
@@ -1880,6 +1880,27 @@
       "isNew": false
     },
     {
+      "id": "58f03204a23a",
+      "title": "【FPS表示中】初見さん〇参加型モンハンワイルズ！Ryzen9 9900X＋RTX5080 #モンハンワイルズ #vtuber",
+      "url": "https://t.co/XESXyBanuP",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-11-07T13:07:56.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "556105c3230d",
       "title": "【モンハンワイルズ】歴戦王アルシュベルド フリーチャレンジクエスト(2026年10月再配信版) 滅龍弾ライトボウガン 3分29 火事場 装備紹介あり",
       "url": "https://youtu.be/hsVGcmdKpS8?si",
@@ -1962,6 +1983,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "183c360e21ce",
+      "title": "【モンハンワイルズ/参加型】とこしくんと一緒に色々狩りたい！！",
+      "url": "https://t.co/mnZrNbDQob",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-11-07T10:26:06.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "62483abae9b3",
@@ -2089,6 +2131,26 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "85f1f0d10ba1",
+      "title": "UHA味覚糖「忍者めし」×「モンスターハンター」コラボキャンペーン！2026年9月14日(月)よりスタート！",
+      "url": "https://www.asahi.com/and/pressrelease/16877666",
+      "host": "asahi.com",
+      "source": "朝日新聞",
+      "summary": "",
+      "publishedAt": "2026-11-06T15:59:31.000Z",
+      "image": "",
+      "categories": [
+        "event",
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "2d4140589897",
@@ -2260,27 +2322,6 @@
       "isNew": false
     },
     {
-      "id": "3da54bf752f7",
-      "title": "【サンブレイク】エスピナス亜種の弱点と攻略【モンハンライズ】",
-      "url": "https://gamewith.jp/mhrize/article/show/359456",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-06T10:11:23.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/359456.png?date=1661390817",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "81028676ddfa",
       "title": "【モンハンナウ】最強装備・おすすめ装備まとめ【モンハンNow】",
       "url": "https://gamewith.jp/monsterhunternow/article/show/414964",
@@ -2324,6 +2365,27 @@
       "isNew": false
     },
     {
+      "id": "2a8c03aaea56",
+      "title": "【モンハンライズ】太刀の最強おすすめ装備",
+      "url": "https://gamewith.jp/mhrize/article/show/263907",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T08:40:09.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/263907.png?date=1616675060",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "07e705a2eb21",
       "title": "【サンブレイク】マスターランク(MR)の解放条件と上限解放クエスト",
       "url": "https://gamewith.jp/mhrize/article/show/324046",
@@ -2357,27 +2419,6 @@
         "other"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "c60cda9bca05",
-      "title": "【サンブレイク】双剣の最強装備・おすすめ装備 | アプデ対応",
-      "url": "https://gamewith.jp/mhrize/article/show/349741",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-06T07:47:11.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/349741.png?date=1656726276",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "rise"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
