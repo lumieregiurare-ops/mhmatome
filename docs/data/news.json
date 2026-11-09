@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-09T06:30:22.900Z",
+  "updatedAt": "2026-11-09T07:00:16.912Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 92,
+  "total": 93,
   "todayCount": 47,
   "categories": [
     {
@@ -62,19 +62,19 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 38
+      "count": 39
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 31
+      "count": 32
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 7
+      "count": 6
     },
     {
       "id": "world",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 1
+      "count": 2
     },
     {
       "id": "outlanders",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 63
+      "count": 62
     },
     {
       "name": "YouTube",
@@ -108,7 +108,7 @@
     },
     {
       "name": "Howl.Link",
-      "count": 6
+      "count": 7
     },
     {
       "name": "ガジェット通信",
@@ -128,6 +128,10 @@
     },
     {
       "name": "川口マガジン",
+      "count": 1
+    },
+    {
+      "name": "AppMedia",
       "count": 1
     },
     {
@@ -155,7 +159,7 @@
       "count": 1
     },
     {
-      "name": "オタク総研",
+      "name": "Yahoo!ニュース",
       "count": 1
     },
     {
@@ -267,6 +271,13 @@
       ],
       "articles": [
         {
+          "title": "【モンハンアウトランダーズ】祈願は引くべき?祈願の報酬と天井【アウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/585784",
+          "source": "GameWith",
+          "publishedAt": "2026-11-09T05:50:12.000Z",
+          "isPR": false
+        },
+        {
           "title": "【モンハンアウトランダーズ】おすすめSR(低レア)オトモと無課金育成優先度【アウトランダーズ】",
           "url": "https://gamewith.jp/mhoutlanders/578991",
           "source": "GameWith",
@@ -313,13 +324,6 @@
           "url": "https://gamewith.jp/mhoutlanders/531931",
           "source": "GameWith",
           "publishedAt": "2026-11-09T05:45:28.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンアウトランダーズ】リセマラ当たりランキング【アウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/531925",
-          "source": "GameWith",
-          "publishedAt": "2026-11-09T05:45:01.000Z",
           "isPR": false
         }
       ]
@@ -453,12 +457,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-09T06:00:23.748Z",
-    "previousCount": 93,
-    "newCount": 3
+    "previousAt": "2026-11-09T06:30:22.900Z",
+    "previousCount": 92,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-09T07:00:22.900Z",
+  "nextUpdateAt": "2026-11-09T07:30:16.912Z",
   "items": [
     {
       "id": "fa9c24261234",
@@ -471,6 +475,27 @@
       "image": "https://iyusuke.jp/wp-content/uploads/2026/11/gamesir-g8plus-x5lite-mho-1.webp",
       "categories": [
         "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "8a97121d3426",
+      "title": "【モンハンアウトランダーズ】祈願は引くべき?祈願の報酬と天井【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/585784",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-09T05:50:12.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/585784.png?date=1793242574",
+      "categories": [
+        "other"
       ],
       "series": [
         "outlanders"
@@ -605,7 +630,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0fa16261f863",
@@ -648,7 +673,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "597d6b691dc3",
@@ -827,27 +852,6 @@
       "summary": "",
       "publishedAt": "2026-11-09T05:27:07.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560129.png?date=1793225833",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "8a97121d3426",
-      "title": "【モンハンアウトランダーズ】祈願は引くべき?祈願の報酬と天井【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/585784",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-09T05:19:06.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/585784.png?date=1793242574",
       "categories": [
         "other"
       ],
@@ -1527,7 +1531,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5e6eb9e71188",
@@ -1549,6 +1553,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "d3cd7084b2c3",
+      "title": "【モンハンストーリーズ3】最強装備まとめ【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79849634",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-08T10:32:56.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/174453_f690s.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "957808473d17",
@@ -1692,6 +1717,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "e141956e25a8",
+      "title": "【モンハンワイルズ】#30 フリチャレいくぞ！今日こそ討伐！！【 #vtuber 】",
+      "url": "https://t.co/8EAEUWh8aE",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-11-08T05:09:21.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "b624f1e69140",
@@ -2200,13 +2246,13 @@
     },
     {
       "id": "1c936f4ea4db",
-      "title": "モンハンワイルズ、上期販売は「約80万本」過去作ワールド及ばずも、超大型アプデ発表後に「ペース向上」",
-      "url": "https://0115765.com/archives/212888",
-      "host": "0115765.com",
-      "source": "オタク総研",
+      "title": "モンハンワイルズ、上期販売は「約80万本」過去作ワールド及ばずも、超大型アプデ発表後に「ペース向上」（オタク総研）",
+      "url": "https://news.yahoo.co.jp/articles/00b18c76162d9777994eba8065db1bb1533a80b0",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-11-06T11:08:31.000Z",
-      "image": "https://0115765.com/wp-content/uploads/2025/08/0813-62pepdwd.jpg",
+      "publishedAt": "2026-11-06T11:28:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261106-00202800-otakulab-000-1399-view.jpg?exp=10800",
       "categories": [
         "new",
         "sales"
@@ -2359,27 +2405,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "45337545cd02",
-      "title": "【サンブレイク】重ね着装備一覧と解放条件｜マスターランク",
-      "url": "https://gamewith.jp/mhrize/article/show/347297",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-06T06:31:15.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/347297.png?date=1655703651",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "rise"
       ],
       "isOfficial": false,
       "isPR": false,
