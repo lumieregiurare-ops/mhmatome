@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-08T23:30:15.262Z",
+  "updatedAt": "2026-11-09T00:00:14.964Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 95,
-  "todayCount": 13,
+  "total": 96,
+  "todayCount": 14,
   "categories": [
     {
       "id": "new",
@@ -32,7 +32,7 @@
     {
       "id": "goods",
       "label": "グッズ・フィギュア",
-      "count": 3
+      "count": 2
     },
     {
       "id": "media",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 46
+      "count": 47
     },
     {
       "id": "sale",
@@ -94,21 +94,17 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 38
+      "count": 40
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 70
+      "count": 71
     },
     {
       "name": "YouTube",
       "count": 8
-    },
-    {
-      "name": "Howl.Link",
-      "count": 2
     },
     {
       "name": "Otakugame.fr",
@@ -123,11 +119,23 @@
       "count": 1
     },
     {
+      "name": "朝日新聞",
+      "count": 1
+    },
+    {
+      "name": "Howl.Link",
+      "count": 1
+    },
+    {
       "name": "川口マガジン",
       "count": 1
     },
     {
       "name": "女子旅プレス",
+      "count": 1
+    },
+    {
+      "name": "電撃オンライン",
       "count": 1
     },
     {
@@ -156,10 +164,6 @@
     },
     {
       "name": "Gamer",
-      "count": 1
-    },
-    {
-      "name": "キャラグー",
       "count": 1
     }
   ],
@@ -421,12 +425,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-08T23:00:18.316Z",
-    "previousCount": 96,
-    "newCount": 1
+    "previousAt": "2026-11-08T23:30:15.262Z",
+    "previousCount": 95,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-09T00:00:15.262Z",
+  "nextUpdateAt": "2026-11-09T00:30:14.964Z",
   "items": [
     {
       "id": "0895ceb6f513",
@@ -616,6 +620,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "99769a0f7f22",
+      "title": "いつでも、どこでも、一狩りいこうぜ！ 『モンスターハンターワイルズ』が、Nintendo Switch 2 で12月4日（金）に発売決定！ ニンテンドーeショップで予約開始！",
+      "url": "https://www.asahi.com/and/pressrelease/16877361",
+      "host": "asahi.com",
+      "source": "朝日新聞",
+      "summary": "",
+      "publishedAt": "2026-11-08T18:20:09.000Z",
+      "image": "",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "c50fb94399e9",
@@ -1204,6 +1229,27 @@
       "isNew": false
     },
     {
+      "id": "23a52e5a1984",
+      "title": "【モンハンアウトランダーズ育成攻略】強化の優先度やレベル上げ、銘刻・オトモの育成方法",
+      "url": "https://dengekionline.com/article/202611/93408",
+      "host": "dengekionline.com",
+      "source": "電撃オンライン",
+      "summary": "",
+      "publishedAt": "2026-11-08T05:40:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/93408/ogp_AQdn.jpg?x=1280",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "e08e6c8ea2a8",
       "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/563104",
@@ -1540,6 +1586,27 @@
       "isNew": false
     },
     {
+      "id": "5aebc693cc9e",
+      "title": "【モンハンアウトランダーズ】アケニアの評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577458",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-07T15:36:21.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577458.png?date=1790214381",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "556105c3230d",
       "title": "【モンハンワイルズ】歴戦王アルシュベルド フリーチャレンジクエスト(2026年10月再配信版) 滅龍弾ライトボウガン 3分29 火事場 装備紹介あり",
       "url": "https://youtu.be/hsVGcmdKpS8?si",
@@ -1547,27 +1614,6 @@
       "source": "YouTube",
       "summary": "",
       "publishedAt": "2026-11-07T12:26:44.000Z",
-      "image": "",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "b2dcaaf7cd8f",
-      "title": "参加型モンスターハンターワイルズ！【いろいろお試し装備…はたして】初参加さん、ベテランハンターさん、初心者ハンターさん大歓迎！",
-      "url": "https://t.co/3hORtkbYTC",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-11-07T12:04:01.000Z",
       "image": "",
       "categories": [
         "guide"
@@ -2335,7 +2381,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "bedfdcfcec77",
@@ -2388,26 +2434,6 @@
       "image": "https://lh3.googleusercontent.com/fkZKWYoeOpLNODbkpoOcxOlHE-_bZeJqVbq0WKtaC3ytj5Nf-LIGiRj3naQcPjBpetMwFCIrShzwrtLm0gFXGA9Rn0OSRgln41_ajhpAHbQ=e365-pa-nu-w1200-rj",
       "categories": [
         "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "6e5a847e9bc1",
-      "title": "モンスターハンターのグッズ一覧・新作情報（ガチャガチャ・プライズ・キャラクターくじ・コラボ・イベント）",
-      "url": "https://charagoo.jp/ip/monsterhunter/",
-      "host": "charagoo.jp",
-      "source": "キャラグー",
-      "summary": "",
-      "publishedAt": "2026-11-05T23:32:16.000Z",
-      "image": "",
-      "categories": [
-        "goods",
-        "new"
       ],
       "series": [],
       "isOfficial": false,
