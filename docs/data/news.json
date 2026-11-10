@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-10T15:00:17.174Z",
+  "updatedAt": "2026-11-10T15:30:17.173Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 88,
+  "total": 87,
   "todayCount": 0,
   "categories": [
     {
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 36
+      "count": 35
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 34
+      "count": 33
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 4
+      "count": 3
     },
     {
       "id": "now",
@@ -104,7 +104,7 @@
     },
     {
       "name": "YouTube",
-      "count": 10
+      "count": 9
     },
     {
       "name": "AppMedia",
@@ -419,13 +419,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-10T14:30:17.457Z",
+    "previousAt": "2026-11-10T15:00:17.174Z",
     "previousCount": 88,
-    "newCount": 4
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-10T15:30:17.174Z",
+  "nextUpdateAt": "2026-11-10T16:00:17.173Z",
   "items": [
+    {
+      "id": "fbd709240fd8",
+      "title": "【モンハンストーリーズ2】レベル上げにおすすめの方法・手順まとめ【MHST2】",
+      "url": "https://appmedia.jp/mhst2/6648013",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-10T14:48:37.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2021/07/cfd34185d634df738c4a56e4eec83502.jpg",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "162844623a7f",
       "title": "【アークナイツ】モンハンコラボ第二弾の最新情報まとめ",
@@ -439,6 +460,27 @@
         "collab"
       ],
       "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "139e9f532a51",
+      "title": "【モンハンアウトランダーズ】主人公(ヘビィボウガン)の評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577467",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-10T14:19:32.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577467.png?date=1790214807",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -553,12 +595,12 @@
     {
       "id": "a32d512021b1",
       "title": "【モンハンアウトランダーズ】エンショウの評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577460",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9oZS1uV3pPZi16QnBkQlhOLXA1WDF6aWV1V3Zrd1BoX1pYOExwVk55MHIyRnlDNmV0dkZjMkx2MGlRY0F4SDhpMExnaHNKMFhw?oc=5",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-10T13:07:17.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577460.png?date=1790214483",
+      "image": "",
       "categories": [
         "guide"
       ],
@@ -567,7 +609,7 @@
       ],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
@@ -633,7 +675,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "48f27bc980e0",
@@ -738,7 +780,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ced5755e5db0",
@@ -972,27 +1014,6 @@
       "isNew": false
     },
     {
-      "id": "139e9f532a51",
-      "title": "【モンハンアウトランダーズ】主人公(ヘビィボウガン)の評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577467",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-10T10:25:19.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577467.png?date=1790214807",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "3d596f6fe3e7",
       "title": "【モンハンアウトランダーズ】序盤の効率的な進め方【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/531932",
@@ -1027,27 +1048,6 @@
         "collab"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "fbd709240fd8",
-      "title": "【モンハンストーリーズ2】レベル上げにおすすめの方法・手順まとめ【MHST2】",
-      "url": "https://appmedia.jp/mhst2/6648013",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-10T09:53:24.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2021/07/cfd34185d634df738c4a56e4eec83502.jpg",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1297,7 +1297,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "468d57e39da7",
@@ -1949,7 +1949,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3f3aba2552ff",
@@ -1980,28 +1980,6 @@
       "source": "Howl.Link",
       "summary": "",
       "publishedAt": "2026-11-08T14:13:22.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "424f1e1b843f",
-      "title": "【MHWilds】 英雄の証 ヘビィボウガンソロ 14'03\"03 猫火事場/Proof of a Hero Heavy Bowgun Solo Heroics",
-      "url": "https://youtu.be/n3Xsn75UXVI?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-08T13:47:43.000Z",
       "image": "",
       "categories": [
         "other"
