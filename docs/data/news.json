@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-10T03:00:18.848Z",
+  "updatedAt": "2026-11-10T03:30:16.215Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 98,
-  "todayCount": 40,
+  "total": 94,
+  "todayCount": 41,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 6
+      "count": 5
     },
     {
       "id": "update",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 45
+      "count": 43
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 41
+      "count": 39
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 37
+      "count": 36
     },
     {
       "id": "rise",
@@ -100,11 +100,11 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 57
+      "count": 55
     },
     {
       "name": "YouTube",
-      "count": 13
+      "count": 12
     },
     {
       "name": "AppMedia",
@@ -116,14 +116,14 @@
     },
     {
       "name": "朝日新聞",
-      "count": 3
+      "count": 2
     },
     {
-      "name": "インサイド",
+      "name": "電脳ライフ",
       "count": 1
     },
     {
-      "name": "電ファミニコゲーマー",
+      "name": "インサイド",
       "count": 1
     },
     {
@@ -164,7 +164,7 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583506.png?date=1792581205",
       "leadSource": "GameWith",
       "publishedAt": "2026-11-10T02:40:12.000Z",
-      "sourceCount": 2,
+      "sourceCount": 3,
       "articleCount": 40,
       "categories": [
         "guide",
@@ -191,8 +191,22 @@
           "isPR": false
         },
         {
+          "title": "【モンハンアウトランダーズ】主人公(大剣)の評価とおすすめ装備・編成【アウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/577471",
+          "source": "GameWith",
+          "publishedAt": "2026-11-10T02:19:50.000Z",
+          "isPR": false
+        },
+        {
           "title": "【モンハンアウトランダーズ】主人公(双剣)の評価とおすすめ装備・編成【アウトランダーズ】",
           "url": "https://gamewith.jp/mhoutlanders/577469",
+          "source": "GameWith",
+          "publishedAt": "2026-11-10T02:19:47.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンアウトランダーズ】主人公(ランス)の評価とおすすめ装備・編成【アウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/577468",
           "source": "GameWith",
           "publishedAt": "2026-11-10T02:19:47.000Z",
           "isPR": false
@@ -216,20 +230,6 @@
           "url": "https://gamewith.jp/mhoutlanders/577467",
           "source": "GameWith",
           "publishedAt": "2026-11-10T02:19:44.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンアウトランダーズ】ラヤの評価とおすすめ装備・編成【アウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/577463",
-          "source": "GameWith",
-          "publishedAt": "2026-11-10T02:19:42.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンアウトランダーズ】ルカの評価とおすすめ装備・編成【アウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/577461",
-          "source": "GameWith",
-          "publishedAt": "2026-11-10T02:19:39.000Z",
           "isPR": false
         }
       ]
@@ -321,7 +321,7 @@
       "leadSource": "Howl.Link",
       "publishedAt": "2026-11-08T14:13:22.000Z",
       "sourceCount": 2,
-      "articleCount": 7,
+      "articleCount": 6,
       "categories": [
         "other",
         "guide"
@@ -365,13 +365,6 @@
           "url": "https://t.co/mnZrNbDQob",
           "source": "Howl.Link",
           "publishedAt": "2026-11-07T10:26:06.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ】操虫棍の操作方法と使い方・立ち回り【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/461267",
-          "source": "GameWith",
-          "publishedAt": "2026-11-07T03:22:32.000Z",
           "isPR": false
         }
       ]
@@ -463,12 +456,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-10T02:30:16.925Z",
-    "previousCount": 95,
-    "newCount": 10
+    "previousAt": "2026-11-10T03:00:18.848Z",
+    "previousCount": 98,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-10T03:30:18.848Z",
+  "nextUpdateAt": "2026-11-10T04:00:16.215Z",
   "items": [
     {
       "id": "b42f88b40196",
@@ -510,7 +503,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b03da4431e65",
@@ -523,6 +516,27 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574152.png?date=1793227034",
       "categories": [
         "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "c3ef4d2c6063",
+      "title": "【モンハンアウトランダーズ】主人公(大剣)の評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577471",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-10T02:19:50.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577471.png?date=1790214971",
+      "categories": [
+        "guide"
       ],
       "series": [
         "outlanders"
@@ -552,7 +566,28 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "5094988b1589",
+      "title": "【モンハンアウトランダーズ】主人公(ランス)の評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577468",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-10T02:19:47.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577468.png?date=1790214845",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
     },
     {
       "id": "de51f2f1d013",
@@ -618,6 +653,48 @@
       "isNew": false
     },
     {
+      "id": "d4123a096654",
+      "title": "【モンハンアウトランダーズ】ペペの評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/561564",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-10T02:19:42.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/561564.png?date=1790214134",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "6cc16e919d3b",
+      "title": "【モンハンアウトランダーズ】マドレの評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577464",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-10T02:19:42.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577464.png?date=1790214658",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "79a17b7332f8",
       "title": "【モンハンアウトランダーズ】ラヤの評価とおすすめ装備・編成【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577463",
@@ -626,6 +703,27 @@
       "summary": "",
       "publishedAt": "2026-11-10T02:19:42.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577463.png?date=1790214602",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "a32d512021b1",
+      "title": "【モンハンアウトランダーズ】エンショウの評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577460",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-10T02:19:39.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577460.png?date=1790214483",
       "categories": [
         "guide"
       ],
@@ -723,6 +821,27 @@
       "isNew": false
     },
     {
+      "id": "3a6d0385a177",
+      "title": "【モンハンアウトランダーズ】リュウノスケの評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577455",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-10T02:19:34.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577455.png?date=1790214244",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "0895ceb6f513",
       "title": "【モンハンアウトランダーズ】ヘイズの評価とおすすめ装備・編成【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/583505",
@@ -762,7 +881,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "122ccf573e13",
@@ -783,7 +902,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "83c2cd6f4a1b",
@@ -849,27 +968,6 @@
       "isNew": false
     },
     {
-      "id": "5094988b1589",
-      "title": "【モンハンアウトランダーズ】主人公(ランス)の評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577468",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-10T01:45:57.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577468.png?date=1790214845",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "7f0191dee326",
       "title": "【モンハンアウトランダーズ】毎日やるべき日課とウィークリーまとめ【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/531926",
@@ -912,48 +1010,6 @@
       "isNew": false
     },
     {
-      "id": "7cc6494b340f",
-      "title": "【モンハンアウトランダーズ】絵装の厳選方法とおすすめ効果【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/575851",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-10T00:34:12.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575851.png?date=1789454673",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "d4123a096654",
-      "title": "【モンハンアウトランダーズ】ペペの評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/561564",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-10T00:28:10.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/561564.png?date=1790214134",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "ea27694f7437",
       "title": "【モンハンアウトランダーズ】リセマラのやり方と所要時間｜何連引ける？【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/531931",
@@ -964,27 +1020,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531931.png?date=1793082187",
       "categories": [
         "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "6cc16e919d3b",
-      "title": "【モンハンアウトランダーズ】マドレの評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577464",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-10T00:20:21.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577464.png?date=1790214658",
-      "categories": [
-        "guide"
       ],
       "series": [
         "outlanders"
@@ -1015,17 +1050,17 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
-      "id": "a32d512021b1",
-      "title": "【モンハンアウトランダーズ】エンショウの評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577460",
-      "host": "gamewith.jp",
-      "source": "GameWith",
+      "id": "a1c4736e3846",
+      "title": "【モンハンアウトランダーズ】コントローラーで遊ぶ方法とおすすめ3機種を比較",
+      "url": "https://dennou-life.jp/22593/",
+      "host": "dennou-life.jp",
+      "source": "電脳ライフ",
       "summary": "",
-      "publishedAt": "2026-11-09T23:55:17.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577460.png?date=1790214483",
+      "publishedAt": "2026-11-09T23:28:59.000Z",
+      "image": "https://dennou-life.jp/wp-content/uploads/2026/11/file_000000009b54820685a78d53640d674a.png",
       "categories": [
         "guide"
       ],
@@ -1036,7 +1071,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "75783d358b12",
@@ -1115,27 +1150,6 @@
         "goods"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3a6d0385a177",
-      "title": "【モンハンアウトランダーズ】リュウノスケの評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577455",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-09T20:25:25.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577455.png?date=1790214244",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1461,27 +1475,6 @@
       "isNew": false
     },
     {
-      "id": "580a376efe1a",
-      "title": "【モンハンアウトランダーズ】おすすめSR(低レア)キャラと無課金育成優先度【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/559753",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-09T05:45:59.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559753.png?date=1789014409",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "c1ce900bfe63",
       "title": "【モンハンストーリーズ3】侵獣攻略一覧｜解放できる危惧種まとめ【MHST3】",
       "url": "https://appmedia.jp/mhst3/79844810",
@@ -1582,7 +1575,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d8b95bbbc335",
@@ -1620,26 +1613,6 @@
       "series": [
         "wilds"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "faff27fc99aa",
-      "title": "女優・杏さんが“ガチすぎるゲーム遍歴”を公開。『アークザラッドII』は「私の中での最高のRPGの1つ」と熱弁",
-      "url": "https://news.denfaminicogamer.jp/news/261109g",
-      "host": "news.denfaminicogamer.jp",
-      "source": "電ファミニコゲーマー",
-      "summary": "『FF11』にはベータから参加し、『モンハン2ndG』は大剣にフルフル装備で「大変ハマった」とゲーム愛を語る。約25分にわたり最新ハードまで振り返る動画を公開",
-      "publishedAt": "2026-11-09T01:39:25.000Z",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/maxresdefault-13-1024x576.jpg",
-      "categories": [
-        "new",
-        "guide"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1729,25 +1702,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "abb2b29be9dc",
-      "title": "『モンスターハンターパズル アイルーアイランド』 協力イベント「【復刻】みんなで秘境探索！＜プケぐるみ＞」を開催！",
-      "url": "https://www.asahi.com/and/pressrelease/16897791",
-      "host": "asahi.com",
-      "source": "朝日新聞",
-      "summary": "",
-      "publishedAt": "2026-11-08T22:46:27.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "0b68bd1287fd",
@@ -1938,25 +1892,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "07fb1704ec67",
-      "title": "【モンハンXX】2つ名クエが長すぎる件について その15【野良猫クロナ】",
-      "url": "https://youtu.be/01h0DBT0cps",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-08T11:04:38.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "5e6eb9e71188",
@@ -2495,27 +2430,6 @@
       "series": [
         "wilds",
         "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "db53119c5339",
-      "title": "【モンハンワイルズ】操虫棍の操作方法と使い方・立ち回り【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/461267",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-07T03:22:32.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/461267.png?date=1727182707",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
