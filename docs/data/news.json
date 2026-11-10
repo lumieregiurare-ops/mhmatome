@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-10T16:30:19.770Z",
+  "updatedAt": "2026-11-10T17:00:14.666Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 88,
+  "total": 87,
   "todayCount": 2,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 35
+      "count": 34
     },
     {
       "id": "sale",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 34
+      "count": 33
     },
     {
       "id": "rise",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 54
+      "count": 53
     },
     {
       "name": "YouTube",
@@ -326,15 +326,15 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-11-10T01:54:06.000Z",
       "sourceCount": 2,
-      "articleCount": 6,
+      "articleCount": 8,
       "categories": [
         "other",
         "new"
       ],
       "keywords": [
+        "モンスターハンターワイルズ",
         "モンハンワイルズ",
-        "アルシュベルド",
-        "歴戦王"
+        "アルシュベルド"
       ],
       "articles": [
         {
@@ -370,6 +370,20 @@
           "url": "https://youtu.be/xp4uwRstj-4?si",
           "source": "YouTube",
           "publishedAt": "2026-11-09T08:44:54.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】操虫棍の最強装備・おすすめ装備【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/484940",
+          "source": "GameWith",
+          "publishedAt": "2026-11-08T16:02:18.000Z",
+          "isPR": false
+        },
+        {
+          "title": "操虫棍ソロ 9'58\"19 フリーチャレンジクエスト「生き誇れ、野生の仔」 モンスターハンターワイルズ（レウス、おまえはなんなんだ！！発動）",
+          "url": "https://youtu.be/gbN2rQjVAEs?si",
+          "source": "YouTube",
+          "publishedAt": "2026-11-08T05:18:48.000Z",
           "isPR": false
         }
       ]
@@ -445,12 +459,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-10T16:00:19.861Z",
-    "previousCount": 87,
-    "newCount": 2
+    "previousAt": "2026-11-10T16:30:19.770Z",
+    "previousCount": 88,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-10T17:00:19.770Z",
+  "nextUpdateAt": "2026-11-10T17:30:14.666Z",
   "items": [
     {
       "id": "c50fb94399e9",
@@ -482,6 +496,27 @@
       "summary": "",
       "publishedAt": "2026-11-10T15:07:46.000Z",
       "image": "https://appmedia.jp/wp-content/uploads/2021/07/8e879b5f3a4979f8a9f6cd734b23fa0f.jpg",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "fbd709240fd8",
+      "title": "【モンハンストーリーズ2】レベル上げにおすすめの方法・手順まとめ【MHST2】",
+      "url": "https://appmedia.jp/mhst2/6648013",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-10T14:48:37.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2021/07/cfd34185d634df738c4a56e4eec83502.jpg",
       "categories": [
         "guide"
       ],
@@ -847,7 +882,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d4a573f32f4b",
@@ -1058,27 +1093,6 @@
       "isNew": false
     },
     {
-      "id": "fbd709240fd8",
-      "title": "【モンハンストーリーズ2】レベル上げにおすすめの方法・手順まとめ【MHST2】",
-      "url": "https://appmedia.jp/mhst2/6648013",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-10T09:53:24.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2021/07/cfd34185d634df738c4a56e4eec83502.jpg",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "6440692bf3d2",
       "title": "【モンハンアウトランダーズ】ルガ・エアルダの弱点と攻略【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/586566",
@@ -1222,6 +1236,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "5d87412b2370",
+      "title": "【モンハンアウトランダーズ】ネーガルの性能とおすすめキャラ【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577653",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-10T08:44:20.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577653.png?date=1790215794",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "f4b6d387e157",
@@ -1554,27 +1589,6 @@
       "isNew": false
     },
     {
-      "id": "87e4b8514801",
-      "title": "【モンハンワイルズ】双剣の最強装備・おすすめ装備【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/484913",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-09T11:45:08.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/484913.png?date=1740686517",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "788e34d296d4",
       "title": "Nintendo Switch 2 版『モンスターハンターワイルズ』予約開始記念キャンペーン開催！",
       "url": "https://www.asahi.com/and/pressrelease/16878969",
@@ -1764,27 +1778,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "580a376efe1a",
-      "title": "【モンハンアウトランダーズ】おすすめSR(低レア)キャラと無課金育成優先度【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/559753",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-09T05:45:59.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559753.png?date=1789014409",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "b5d6fe40ab2e",
