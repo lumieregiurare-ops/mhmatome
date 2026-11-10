@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T20:30:18.869Z",
+  "updatedAt": "2026-11-10T21:00:15.366Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 87,
-  "todayCount": 9,
+  "todayCount": 8,
   "categories": [
     {
       "id": "new",
@@ -89,18 +89,18 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 5
+      "count": 4
     },
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 38
+      "count": 39
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 54
+      "count": 55
     },
     {
       "name": "YouTube",
@@ -108,7 +108,7 @@
     },
     {
       "name": "AppMedia",
-      "count": 5
+      "count": 4
     },
     {
       "name": "Howl.Link",
@@ -267,17 +267,17 @@
           "isPR": false
         },
         {
+          "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563040",
+          "source": "GameWith",
+          "publishedAt": "2026-11-09T21:30:36.000Z",
+          "isPR": false
+        },
+        {
           "title": "【アセンダンス】護竜リオレイアの最新情報まとめ【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/575037",
           "source": "GameWith",
           "publishedAt": "2026-11-09T04:01:09.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/563040",
-          "source": "GameWith",
-          "publishedAt": "2026-11-09T02:50:44.000Z",
           "isPR": false
         }
       ]
@@ -446,13 +446,32 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-10T20:00:29.253Z",
+    "previousAt": "2026-11-10T20:30:18.869Z",
     "previousCount": 87,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-10T21:00:18.869Z",
+  "nextUpdateAt": "2026-11-10T21:30:15.366Z",
   "items": [
+    {
+      "id": "162844623a7f",
+      "title": "【アークナイツ】モンハンコラボ第二弾の最新情報まとめ",
+      "url": "https://appmedia.jp/ark_nights/80024167",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-10T20:55:32.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/05/161222_cmbvw.webp",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "3a6d0385a177",
       "title": "【モンハンアウトランダーズ】リュウノスケの評価とおすすめ装備・編成【アウトランダーズ】",
@@ -468,25 +487,6 @@
       "series": [
         "outlanders"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "162844623a7f",
-      "title": "【アークナイツ】モンハンコラボ第二弾の最新情報まとめ",
-      "url": "https://appmedia.jp/ark_nights/80024167",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-10T17:48:47.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/05/161222_cmbvw.webp",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -620,27 +620,6 @@
       "isNew": false
     },
     {
-      "id": "f64870368a23",
-      "title": "【モンハンストーリーズ2】最強オトモンまとめ｜属性別に掲載【MHST2】",
-      "url": "https://appmedia.jp/mhst2/26677399",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-10T15:07:46.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2021/07/8e879b5f3a4979f8a9f6cd734b23fa0f.jpg",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "fbd709240fd8",
       "title": "【モンハンストーリーズ2】レベル上げにおすすめの方法・手順まとめ【MHST2】",
       "url": "https://appmedia.jp/mhst2/6648013",
@@ -743,7 +722,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a42c36a0ba91",
@@ -1493,6 +1472,27 @@
       "isNew": false
     },
     {
+      "id": "d8b95bbbc335",
+      "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/563040",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-09T21:30:36.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563040.png?date=1789770455",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "f529da9f5ece",
       "title": "【モンハンワイルズ】Switch2版の発売日はいつ？【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/563066",
@@ -1853,27 +1853,6 @@
       "isNew": false
     },
     {
-      "id": "d8b95bbbc335",
-      "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563040",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-09T02:50:44.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563040.png?date=1789770455",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "f4f222ac2e2d",
       "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/575036",
@@ -1914,6 +1893,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "d3ed0955111e",
+      "title": "【モンハンアウトランダーズ】エイビィの性能とおすすめキャラ【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577655",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-09T01:12:46.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577655.png?date=1790215886",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "562ce3f05940",
