@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-10T18:30:18.250Z",
+  "updatedAt": "2026-11-10T19:00:18.312Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 88,
-  "todayCount": 7,
+  "total": 89,
+  "todayCount": 9,
   "categories": [
     {
       "id": "new",
@@ -57,12 +57,12 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 2
+      "count": 3
     },
     {
       "id": "other",
       "label": "その他",
-      "count": 37
+      "count": 38
     }
   ],
   "series": [
@@ -94,13 +94,13 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 37
+      "count": 38
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 54
+      "count": 55
     },
     {
       "name": "YouTube",
@@ -241,29 +241,51 @@
       ]
     },
     {
-      "id": "019e6774fa75",
-      "title": "モンハンワイルズ参加型配信！",
+      "id": "778fbb3d5344",
+      "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
       "summary": "",
-      "url": "https://t.co/njLzTjMjA7",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
-      "leadSource": "Howl.Link",
-      "publishedAt": "2026-11-10T11:28:57.000Z",
+      "url": "https://gamewith.jp/mhwilds/577281",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577281.png?date=1789571405",
+      "leadSource": "GameWith",
+      "publishedAt": "2026-11-10T15:52:32.000Z",
       "sourceCount": 2,
-      "articleCount": 12,
+      "articleCount": 13,
       "categories": [
-        "other"
+        "other",
+        "guide"
       ],
       "keywords": [
         "モンハンワイルズ",
         "アセンダンス",
-        "アクション"
+        "最新情報"
       ],
       "articles": [
+        {
+          "title": "【アセンダンス】大剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/485475",
+          "source": "GameWith",
+          "publishedAt": "2026-11-10T13:42:03.000Z",
+          "isPR": false
+        },
+        {
+          "title": "モンハンワイルズ参加型配信！",
+          "url": "https://t.co/njLzTjMjA7",
+          "source": "Howl.Link",
+          "publishedAt": "2026-11-10T11:28:57.000Z",
+          "isPR": false
+        },
         {
           "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/563077",
           "source": "GameWith",
           "publishedAt": "2026-11-10T10:40:38.000Z",
+          "isPR": false
+        },
+        {
+          "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
+          "url": "https://gamewith.jp/mhwilds/563096",
+          "source": "GameWith",
+          "publishedAt": "2026-11-10T07:24:09.000Z",
           "isPR": false
         },
         {
@@ -281,13 +303,6 @@
           "isPR": false
         },
         {
-          "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/577281",
-          "source": "GameWith",
-          "publishedAt": "2026-11-09T08:56:14.000Z",
-          "isPR": false
-        },
-        {
           "title": "【アセンダンス】護竜リオレイアの最新情報まとめ【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/575037",
           "source": "GameWith",
@@ -299,20 +314,6 @@
           "url": "https://gamewith.jp/mhwilds/563040",
           "source": "GameWith",
           "publishedAt": "2026-11-09T02:50:44.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/575036",
-          "source": "GameWith",
-          "publishedAt": "2026-11-09T02:13:04.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】ガンランスの操作と新要素・ブーストアクション【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/577811",
-          "source": "GameWith",
-          "publishedAt": "2026-11-09T01:24:24.000Z",
           "isPR": false
         }
       ]
@@ -459,13 +460,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-10T18:00:15.432Z",
-    "previousCount": 87,
+    "previousAt": "2026-11-10T18:30:18.250Z",
+    "previousCount": 88,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-10T19:00:18.250Z",
+  "nextUpdateAt": "2026-11-10T19:30:18.312Z",
   "items": [
+    {
+      "id": "3a6d0385a177",
+      "title": "【モンハンアウトランダーズ】リュウノスケの評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577455",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-10T18:44:56.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577455.png?date=1790214244",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "162844623a7f",
       "title": "【アークナイツ】モンハンコラボ第二弾の最新情報まとめ",
@@ -562,6 +584,27 @@
       ],
       "series": [
         "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "778fbb3d5344",
+      "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/577281",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-10T15:52:32.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577281.png?date=1789571405",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -675,6 +718,27 @@
       "isNew": false
     },
     {
+      "id": "40bccce677c8",
+      "title": "【アセンダンス】大剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/485475",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-10T13:42:03.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485475.png?date=1789753003",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "a42c36a0ba91",
       "title": "【モンハンアウトランダーズ】課金要素まとめとおすすめパック【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/560244",
@@ -759,16 +823,17 @@
       "isNew": false
     },
     {
-      "id": "3a6d0385a177",
-      "title": "【モンハンアウトランダーズ】リュウノスケの評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577455",
+      "id": "dfc9a93b7fb2",
+      "title": "【モンハンアウトランダーズ】最強オトモランキング【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/559653",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-10T13:05:06.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577455.png?date=1790214244",
+      "publishedAt": "2026-11-10T12:29:07.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559653.png?date=1791852831",
       "categories": [
-        "guide"
+        "guide",
+        "sales"
       ],
       "series": [
         "outlanders"
@@ -777,7 +842,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "48f27bc980e0",
@@ -820,6 +885,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "ecbad9c652d0",
+      "title": "【モンハンアウトランダーズ】麻酔発射装置の入手方法【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/576697",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-10T12:00:04.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/576697.png?date=1790569683",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "78d907e0c7ca",
@@ -1132,7 +1218,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6440692bf3d2",
@@ -1295,7 +1381,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e6d79acfa4bd",
@@ -1632,27 +1718,6 @@
       "isNew": false
     },
     {
-      "id": "778fbb3d5344",
-      "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/577281",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-09T08:56:14.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577281.png?date=1789571405",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "76a68ddaa1c7",
       "title": "【MHWilds】フリチャレ「生き誇れ、野生の仔」歴戦王アルシュベルド 4PT(火事場) /チャージアックス視点｜Arch Tempered Arkveld Charge Blade",
       "url": "https://youtu.be/xp4uwRstj-4?si",
@@ -1769,27 +1834,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560256.png?date=1793227616",
       "categories": [
         "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "580a376efe1a",
-      "title": "【モンハンアウトランダーズ】おすすめSR(低レア)キャラと無課金育成優先度【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/559753",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-09T05:45:59.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559753.png?date=1789014409",
-      "categories": [
-        "guide"
       ],
       "series": [
         "outlanders"
@@ -1935,27 +1979,6 @@
       "summary": "",
       "publishedAt": "2026-11-08T22:35:18.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577790.png?date=1789746410",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "40bccce677c8",
-      "title": "【アセンダンス】大剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/485475",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-08T22:24:55.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485475.png?date=1789753003",
       "categories": [
         "other"
       ],
