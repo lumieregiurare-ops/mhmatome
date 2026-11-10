@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-10T09:00:16.577Z",
+  "updatedAt": "2026-11-10T09:30:15.014Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 91,
+  "total": 90,
   "todayCount": 43,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 6
+      "count": 8
     },
     {
       "id": "update",
@@ -62,19 +62,19 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 41
+      "count": 39
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 33
+      "count": 35
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 1
+      "count": 0
     },
     {
       "id": "world",
@@ -84,7 +84,7 @@
     {
       "id": "now",
       "label": "Now",
-      "count": 2
+      "count": 1
     },
     {
       "id": "stories",
@@ -100,14 +100,14 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 53
-    },
-    {
-      "name": "YouTube",
-      "count": 11
+      "count": 55
     },
     {
       "name": "AppMedia",
+      "count": 9
+    },
+    {
+      "name": "YouTube",
       "count": 9
     },
     {
@@ -115,8 +115,8 @@
       "count": 6
     },
     {
-      "name": "朝日新聞",
-      "count": 2
+      "name": "ゴゴ通信",
+      "count": 1
     },
     {
       "name": "AUTOMATON",
@@ -127,11 +127,11 @@
       "count": 1
     },
     {
-      "name": "電脳ライフ",
+      "name": "ｄメニューニュース",
       "count": 1
     },
     {
-      "name": "インサイド",
+      "name": "朝日新聞",
       "count": 1
     },
     {
@@ -160,6 +160,42 @@
     }
   ],
   "topics": [
+    {
+      "id": "3cc79f55a279",
+      "title": "『アークナイツ』にて『モンスターハンター』と新コラボ開催決定。カムラ装備っぽいアイルーやガルクらしき影も",
+      "summary": "Yostarは11月10日、Hypergryphが開発する『アークナイツ』にて、『モンスターハンター』シリーズとのコラボを開催すると発表した。",
+      "url": "https://automaton-media.com/articles/newsjp/20261110-478451/",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478451-header.jpg",
+      "leadSource": "AUTOMATON",
+      "publishedAt": "2026-11-10T09:03:00.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "new",
+        "collab"
+      ],
+      "keywords": [
+        "アークナイツ",
+        "コラボ",
+        "カムラ"
+      ],
+      "articles": [
+        {
+          "title": "『アークナイツ』×『モンハン』新コラボ電撃発表！カムラ装備アイルーやガルクらしき姿にファン歓喜",
+          "url": "https://gogotsu.com/archives/75093",
+          "source": "ゴゴ通信",
+          "publishedAt": "2026-11-10T09:03:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『アークナイツ』が『モンスターハンター』とのコラボを発表。2023年の「紅炎遣らう落葉」以来、約3年ぶり",
+          "url": "https://news.denfaminicogamer.jp/news/2611102p",
+          "source": "電ファミニコゲーマー",
+          "publishedAt": "2026-11-10T08:25:37.000Z",
+          "isPR": false
+        }
+      ]
+    },
     {
       "id": "f1e344fb9da2",
       "title": "#モンハンワイルズ参加型 】深夜の参加型ワイルズ #121 激チケ消費！英雄の証で護石周回！ 速射の護石が欲しい・・・・キーマウ #mhwilds #モンスターハンターワイルズ",
@@ -226,7 +262,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-11-10T01:54:06.000Z",
       "sourceCount": 2,
-      "articleCount": 4,
+      "articleCount": 5,
       "categories": [
         "other",
         "new"
@@ -241,6 +277,13 @@
           "url": "https://gamewith.jp/mhwilds/563066",
           "source": "GameWith",
           "publishedAt": "2026-11-09T19:07:34.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】最強装備・おすすめ装備まとめ【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/485337",
+          "source": "GameWith",
+          "publishedAt": "2026-11-09T02:49:24.000Z",
           "isPR": false
         },
         {
@@ -301,44 +344,57 @@
           "isPR": false
         }
       ]
+    }
+  ],
+  "churn": {
+    "previousAt": "2026-11-10T09:00:16.577Z",
+    "previousCount": 91,
+    "newCount": 4
+  },
+  "updateGapMin": 30,
+  "nextUpdateAt": "2026-11-10T10:00:15.014Z",
+  "items": [
+    {
+      "id": "a32d512021b1",
+      "title": "【モンハンアウトランダーズ】エンショウの評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577460",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-10T09:15:06.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577460.png?date=1790214483",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
     },
     {
-      "id": "3cc79f55a279",
-      "title": "『アークナイツ』にて『モンスターハンター』と新コラボ開催決定。カムラ装備っぽいアイルーやガルクらしき影も",
-      "summary": "Yostarは11月10日、Hypergryphが開発する『アークナイツ』にて、『モンスターハンター』シリーズとのコラボを開催すると発表した。",
-      "url": "https://automaton-media.com/articles/newsjp/20261110-478451/",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478451-header.jpg",
-      "leadSource": "AUTOMATON",
-      "publishedAt": "2026-11-10T08:53:55.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
+      "id": "4b315476c827",
+      "title": "『アークナイツ』×『モンハン』新コラボ電撃発表！カムラ装備アイルーやガルクらしき姿にファン歓喜",
+      "url": "https://gogotsu.com/archives/75093",
+      "host": "gogotsu.com",
+      "source": "ゴゴ通信",
+      "summary": "",
+      "publishedAt": "2026-11-10T09:03:00.000Z",
+      "image": "https://gogotsu.com/wp-content/uploads/2026/11/kt-ai-news-75093-20261110090350.jpg",
       "categories": [
         "new",
         "collab"
       ],
-      "keywords": [
-        "アークナイツ",
-        "コラボ"
-      ],
-      "articles": [
-        {
-          "title": "『アークナイツ』が『モンスターハンター』とのコラボを発表。2023年の「紅炎遣らう落葉」以来、約3年ぶり",
-          "url": "https://news.denfaminicogamer.jp/news/2611102p",
-          "source": "電ファミニコゲーマー",
-          "publishedAt": "2026-11-10T08:25:37.000Z",
-          "isPR": false
-        }
-      ]
-    }
-  ],
-  "churn": {
-    "previousAt": "2026-11-10T08:30:14.245Z",
-    "previousCount": 89,
-    "newCount": 2
-  },
-  "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-10T09:30:16.577Z",
-  "items": [
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "3cc79f55a279",
       "title": "『アークナイツ』にて『モンスターハンター』と新コラボ開催決定。カムラ装備っぽいアイルーやガルクらしき影も",
@@ -357,7 +413,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b42f88b40196",
@@ -885,27 +941,6 @@
       "isNew": false
     },
     {
-      "id": "a32d512021b1",
-      "title": "【モンハンアウトランダーズ】エンショウの評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577460",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-10T04:44:11.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577460.png?date=1790214483",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "5aebc693cc9e",
       "title": "【モンハンアウトランダーズ】アケニアの評価とおすすめ装備・編成【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577458",
@@ -1094,27 +1129,6 @@
       "isNew": false
     },
     {
-      "id": "a1c4736e3846",
-      "title": "【モンハンアウトランダーズ】コントローラーで遊ぶ方法とおすすめ3機種を比較",
-      "url": "https://dennou-life.jp/22593/",
-      "host": "dennou-life.jp",
-      "source": "電脳ライフ",
-      "summary": "",
-      "publishedAt": "2026-11-09T23:28:59.000Z",
-      "image": "https://dennou-life.jp/wp-content/uploads/2026/11/file_000000009b54820685a78d53640d674a.png",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "75783d358b12",
       "title": "【モンハンストーリーズ3】レベル上限はある？｜レベルが上がらないときの対処法【MHST3】",
       "url": "https://appmedia.jp/mhst3/79844852",
@@ -1138,19 +1152,19 @@
     {
       "id": "d0c3a1035c51",
       "title": "『モンハン』デフォルメでも圧倒的威圧感…！「金獅子ラージャン」通常種と激昂した状態の2種がプライズ展開",
-      "url": "https://www.inside-games.jp/article/2026/11/10/190632.html",
-      "host": "inside-games.jp",
-      "source": "インサイド",
-      "summary": "「モンスターハンター 鎮座獣 ラージャン～破壊と滅亡の申し子～」プライズフィギュアが11月10日より順次展開！",
-      "publishedAt": "2026-11-09T21:10:03.000Z",
-      "image": "https://www.inside-games.jp/imgs/rss/1802218.jpg",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOamhFUlJDME1ybi1EbXo1VmMxWERkZHZySGJXUnhkcjdIcDY1QUNLQnd2NFlWVjdiejd5UFE1VFl5ZmZvaENTbHVjbTdfUERCUXg5MU5fNWl1cnZGR2VQTVU0Szh0MzBYeHRuN3dYalNkTTVxb0NWUGtLSlRRZGZNbktaa0QxbFNCbnpOLV9sakl2NmFvcFItaktIeFJYWnJUTnJXWmZ4RGRDYTBXRlpremdTc280RnRTbWVObkd4QTY3SGJUWTJFcUhzSlhxSWlLTWlmYURtRdIBhwFBVV95cUxONkJ0UDhYczhONzBkekNITWNnTll3aHFYblhmNkVXUkRvNWc0RlVqcXduS2JmOVVWRHhYQ01BWUxVR1dCOG1xZzIwcnYtWVgtRUY1TUJMWVJlYk81UDRNSjkxTnktdk8ydXBTa2tRbm5tY2Y5NzBSSWI1UU1lR1NuSGZ6Y3pNUEE?oc=5",
+      "host": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
+      "summary": "",
+      "publishedAt": "2026-11-09T22:20:56.000Z",
+      "image": "",
       "categories": [
         "goods"
       ],
       "series": [],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
@@ -1258,6 +1272,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "788e34d296d4",
+      "title": "Nintendo Switch 2 版『モンスターハンターワイルズ』予約開始記念キャンペーン開催！",
+      "url": "https://www.asahi.com/and/pressrelease/16878969",
+      "host": "asahi.com",
+      "source": "朝日新聞",
+      "summary": "",
+      "publishedAt": "2026-11-09T11:34:02.000Z",
+      "image": "",
+      "categories": [
+        "new",
+        "event"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "95c08da4914d",
@@ -1513,6 +1549,27 @@
       "isNew": false
     },
     {
+      "id": "5705da647fc7",
+      "title": "【モンハンワイルズ】最強装備・おすすめ装備まとめ【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/485337",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-09T02:49:24.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485337.png?date=1740668237",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "f4f222ac2e2d",
       "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/575036",
@@ -1553,6 +1610,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "d3ed0955111e",
+      "title": "【モンハンアウトランダーズ】エイビィの性能とおすすめキャラ【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577655",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-09T01:12:46.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577655.png?date=1790215886",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "d605748fb698",
@@ -1618,25 +1696,6 @@
       "isNew": false
     },
     {
-      "id": "abb2b29be9dc",
-      "title": "『モンスターハンターパズル アイルーアイランド』 協力イベント「【復刻】みんなで秘境探索！＜プケぐるみ＞」を開催！",
-      "url": "https://www.asahi.com/and/pressrelease/16897791",
-      "host": "asahi.com",
-      "source": "朝日新聞",
-      "summary": "",
-      "publishedAt": "2026-11-08T22:46:27.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "0b68bd1287fd",
       "title": "【アセンダンス】片手剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/577790",
@@ -1677,26 +1736,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "85f1f0d10ba1",
-      "title": "UHA味覚糖「忍者めし」×「モンスターハンター」コラボキャンペーン！2026年9月14日(月)よりスタート！",
-      "url": "https://www.asahi.com/and/pressrelease/16877666",
-      "host": "asahi.com",
-      "source": "朝日新聞",
-      "summary": "",
-      "publishedAt": "2026-11-08T21:45:48.000Z",
-      "image": "",
-      "categories": [
-        "event",
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "e08e6c8ea2a8",
@@ -2194,48 +2233,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "62483abae9b3",
-      "title": "簡単で超火力！黒ディア武器のダントツおすすめが判明！【モンハンNOW】",
-      "url": "https://youtu.be/uC_rBT5n7bI?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-07T09:24:01.000Z",
-      "image": "",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "b3f79e422a6a",
-      "title": "【Monster Hunter Rise Sunbreak】 今更ながら行く、モンスターハンターライズサンブレイク part36",
-      "url": "https://youtu.be/pLh8XuGy4ls?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-07T09:00:30.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "rise"
       ],
       "isOfficial": false,
       "isPR": false,
