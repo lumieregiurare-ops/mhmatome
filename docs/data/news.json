@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-11T11:30:16.238Z",
+  "updatedAt": "2026-11-11T12:00:16.327Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 77,
-  "todayCount": 32,
+  "total": 78,
+  "todayCount": 33,
   "categories": [
     {
       "id": "new",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 33
+      "count": 34
     }
   ],
   "series": [
@@ -84,23 +84,23 @@
     {
       "id": "now",
       "label": "Now",
-      "count": 2
+      "count": 3
     },
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 5
+      "count": 6
     },
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 28
+      "count": 27
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 49
+      "count": 48
     },
     {
       "name": "YouTube",
@@ -108,7 +108,11 @@
     },
     {
       "name": "AppMedia",
-      "count": 4
+      "count": 5
+    },
+    {
+      "name": "ガジェット通信",
+      "count": 2
     },
     {
       "name": "電撃ホビーウェブ",
@@ -156,10 +160,6 @@
     },
     {
       "name": "Otakugame.fr",
-      "count": 1
-    },
-    {
-      "name": "ガジェット通信",
       "count": 1
     }
   ],
@@ -371,6 +371,34 @@
       ]
     },
     {
+      "id": "2144b819e046",
+      "title": "『モンハンNow』開催地にリスペクトを!! ハンターとしての心構えも重要なカーニバル2026大阪事前インタビュー第1弾【エリア＆体験編】",
+      "summary": "",
+      "url": "https://getnews.jp/archives/3754553",
+      "image": "https://rensai.jp/wp-content/uploads/2026/11/ff98cd565c992c8195430bff1bf91b05.jpg",
+      "leadSource": "ガジェット通信",
+      "publishedAt": "2026-11-11T11:00:53.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other",
+        "guide"
+      ],
+      "keywords": [
+        "モンハンNow",
+        "now"
+      ],
+      "articles": [
+        {
+          "title": "【モンハンナウ】装備強化促進クエスト【モンハンNow】",
+          "url": "https://gamewith.jp/monsterhunternow/article/show/587365",
+          "source": "GameWith",
+          "publishedAt": "2026-11-11T04:06:43.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "162844623a7f",
       "title": "【アークナイツ】モンハンコラボ第二弾の最新情報まとめ",
       "summary": "",
@@ -427,12 +455,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-11T11:00:19.202Z",
+    "previousAt": "2026-11-11T11:30:16.238Z",
     "previousCount": 77,
-    "newCount": 3
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-11T12:00:16.238Z",
+  "nextUpdateAt": "2026-11-11T12:30:16.327Z",
   "items": [
     {
       "id": "78d907e0c7ca",
@@ -441,7 +469,7 @@
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-11T10:50:06.000Z",
+      "publishedAt": "2026-11-11T11:12:04.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577465.png?date=1790214699",
       "categories": [
         "guide"
@@ -454,6 +482,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "2144b819e046",
+      "title": "『モンハンNow』開催地にリスペクトを!! ハンターとしての心構えも重要なカーニバル2026大阪事前インタビュー第1弾【エリア＆体験編】",
+      "url": "https://getnews.jp/archives/3754553",
+      "host": "getnews.jp",
+      "source": "ガジェット通信",
+      "summary": "",
+      "publishedAt": "2026-11-11T11:00:53.000Z",
+      "image": "https://rensai.jp/wp-content/uploads/2026/11/ff98cd565c992c8195430bff1bf91b05.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "60f3de2f47ec",
@@ -509,6 +558,27 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531925.png?date=1793082273",
       "categories": [
         "sales"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "6440692bf3d2",
+      "title": "【モンハンアウトランダーズ】ルガ・エアルダの弱点と攻略【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/586566",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-11T10:19:03.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586566.png?date=1793781037",
+      "categories": [
+        "guide"
       ],
       "series": [
         "outlanders"
@@ -584,27 +654,6 @@
       "isNew": false
     },
     {
-      "id": "48f27bc980e0",
-      "title": "【モンハンアウトランダーズ】取り返しのつかない要素【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/560314",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-11T09:48:16.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560314.png?date=1793276254",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "278fbd5d3ae7",
       "title": "【モンハンアウトランダーズ】フィーヤはいつ実装？【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/586524",
@@ -615,27 +664,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586524.png?date=1793708718",
       "categories": [
         "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "6440692bf3d2",
-      "title": "【モンハンアウトランダーズ】ルガ・エアルダの弱点と攻略【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/586566",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-11T09:19:15.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586566.png?date=1793781037",
-      "categories": [
-        "guide"
       ],
       "series": [
         "outlanders"
@@ -748,6 +776,27 @@
       "isNew": false
     },
     {
+      "id": "48f27bc980e0",
+      "title": "【モンハンアウトランダーズ】取り返しのつかない要素【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/560314",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-11T06:18:40.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560314.png?date=1793276254",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "f60bd4113653",
       "title": "【モンハンアウトランダーズ】アップデート最新情報まとめ【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/587366",
@@ -788,7 +837,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d1bd95683c62",
@@ -810,27 +859,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "ebb72622d714",
-      "title": "【モンハンアウトランダーズ】タイショウの性能とおすすめキャラ【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577649",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-11T03:55:05.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577649.png?date=1790215598",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "1aa840bc698f",
@@ -1099,6 +1127,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "f64870368a23",
+      "title": "【モンハンストーリーズ2】最強オトモンまとめ｜属性別に掲載【MHST2】",
+      "url": "https://appmedia.jp/mhst2/26677399",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-10T15:07:46.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2021/07/8e879b5f3a4979f8a9f6cd734b23fa0f.jpg",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "fbd709240fd8",
@@ -2017,7 +2066,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ce5953ef1ee6",
