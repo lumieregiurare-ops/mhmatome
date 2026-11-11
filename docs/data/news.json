@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-11T15:30:24.864Z",
+  "updatedAt": "2026-11-11T16:00:16.620Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 82,
+  "total": 81,
   "todayCount": 1,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 26
+      "count": 25
     },
     {
       "id": "sale",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 7
+      "count": 8
     },
     {
       "id": "now",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 52
+      "count": 51
     },
     {
       "name": "YouTube",
@@ -381,12 +381,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-11T15:00:19.499Z",
-    "previousCount": 85,
+    "previousAt": "2026-11-11T15:30:24.864Z",
+    "previousCount": 82,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-11T16:00:24.864Z",
+  "nextUpdateAt": "2026-11-11T16:30:16.620Z",
   "items": [
     {
       "id": "162844623a7f",
@@ -532,7 +532,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3d596f6fe3e7",
@@ -1016,27 +1016,6 @@
       "isNew": false
     },
     {
-      "id": "35280c407c34",
-      "title": "【モンハンアウトランダーズ】フィールド探索(ミニゲーム)一覧と報酬【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/560157",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-11T01:33:58.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560157.png?date=1790313316",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "c9327b2915e6",
       "title": "人気アクティビティ『昇龍拳ジャンプ』が大盛り上がり！『モンスターハンターワイルズ』の試遊などもカプコンブースレポ【アミューズメント エキスポ 2026】",
       "url": "https://leveluplogy.jp/archives/43660",
@@ -1056,6 +1035,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "70bd24692a89",
+      "title": "【MHWilds】フリーチャレンジクエスト 歴戦王アルシュベルド ライトボウガン ソロ 02'17\"46 生き誇れ、野生の仔",
+      "url": "https://youtu.be/vH9aPedkFeA?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-11T00:48:46.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "092280ed8022",
@@ -1114,25 +1115,6 @@
         "wilds",
         "world"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "0a78fc40d360",
-      "title": "【モンハン】オドガロン【完全初見】",
-      "url": "https://youtu.be/MoibbVJz4Bg?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-10T22:18:17.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1657,6 +1639,27 @@
       "isNew": false
     },
     {
+      "id": "35280c407c34",
+      "title": "【モンハンアウトランダーズ】フィールド探索(ミニゲーム)一覧と報酬【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/560157",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-09T15:36:32.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560157.png?date=1790313316",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "411bb4076b94",
       "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/575038",
@@ -2065,27 +2068,6 @@
       "summary": "",
       "publishedAt": "2026-11-08T16:02:18.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/484940.png?date=1740711372",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "467dafff0c9e",
-      "title": "【モンハンワイルズ】アーティア武器のおすすめ装備まとめ【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/488006",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-08T15:59:13.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/488006.png?date=1741210174",
       "categories": [
         "guide"
       ],
