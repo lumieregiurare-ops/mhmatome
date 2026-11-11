@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-11T16:30:22.999Z",
+  "updatedAt": "2026-11-11T17:00:17.564Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 81,
+  "total": 83,
   "todayCount": 1,
   "categories": [
     {
@@ -32,7 +32,7 @@
     {
       "id": "goods",
       "label": "グッズ・フィギュア",
-      "count": 1
+      "count": 2
     },
     {
       "id": "media",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 25
+      "count": 27
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 39
+      "count": 38
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 37
+      "count": 36
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 9
+      "count": 8
     },
     {
       "id": "now",
@@ -89,30 +89,30 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 2
+      "count": 6
     },
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 28
+      "count": 26
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 51
+      "count": 49
     },
     {
       "name": "YouTube",
-      "count": 15
+      "count": 14
+    },
+    {
+      "name": "AppMedia",
+      "count": 5
     },
     {
       "name": "ガジェット通信",
       "count": 2
-    },
-    {
-      "name": "AppMedia",
-      "count": 1
     },
     {
       "name": "電撃ホビーウェブ",
@@ -147,11 +147,15 @@
       "count": 1
     },
     {
-      "name": "電ファミニコゲーマー",
+      "name": "ニコニコニュース",
       "count": 1
     },
     {
       "name": "電脳ライフ",
+      "count": 1
+    },
+    {
+      "name": "Yahoo!ニュース",
       "count": 1
     },
     {
@@ -193,9 +197,9 @@
         },
         {
           "title": "『アークナイツ』が『モンスターハンター』とのコラボを発表。2023年の「紅炎遣らう落葉」以来、約3年ぶり",
-          "url": "https://news.denfaminicogamer.jp/news/2611102p",
-          "source": "電ファミニコゲーマー",
-          "publishedAt": "2026-11-10T08:25:00.000Z",
+          "url": "https://news.nicovideo.jp/watch/nw19975578",
+          "source": "ニコニコニュース",
+          "publishedAt": "2026-11-10T08:27:11.000Z",
           "isPR": false
         },
         {
@@ -227,6 +231,13 @@
       ],
       "articles": [
         {
+          "title": "【モンハンアウトランダーズ】エイビィの性能とおすすめキャラ【アウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/577655",
+          "source": "GameWith",
+          "publishedAt": "2026-11-09T01:12:46.000Z",
+          "isPR": false
+        },
+        {
           "title": "【モンハンアウトランダーズ】フューイの性能とおすすめキャラ【アウトランダーズ】",
           "url": "https://gamewith.jp/mhoutlanders/577659",
           "source": "GameWith",
@@ -238,13 +249,6 @@
           "url": "https://gamewith.jp/mhoutlanders/577665",
           "source": "GameWith",
           "publishedAt": "2026-11-09T01:12:40.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンアウトランダーズ】ハン・サムの性能とおすすめキャラ【アウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/577674",
-          "source": "GameWith",
-          "publishedAt": "2026-11-09T01:12:35.000Z",
           "isPR": false
         },
         {
@@ -384,12 +388,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-11T16:00:16.620Z",
+    "previousAt": "2026-11-11T16:30:22.999Z",
     "previousCount": 81,
-    "newCount": 2
+    "newCount": 6
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-11T17:00:22.999Z",
+  "nextUpdateAt": "2026-11-11T17:30:17.564Z",
   "items": [
     {
       "id": "162844623a7f",
@@ -454,25 +458,25 @@
       "isNew": false
     },
     {
-      "id": "83c2cd6f4a1b",
-      "title": "【モンハンアウトランダーズ】ストーリー攻略チャート【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531933",
-      "host": "gamewith.jp",
-      "source": "GameWith",
+      "id": "d3cd7084b2c3",
+      "title": "【モンハンストーリーズ3】最強装備まとめ【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79849634",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
       "summary": "",
-      "publishedAt": "2026-11-11T12:26:05.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531933.png?date=1793227277",
+      "publishedAt": "2026-11-11T11:37:12.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/174453_f690s.webp",
       "categories": [
         "guide"
       ],
       "series": [
-        "outlanders"
+        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "78d907e0c7ca",
@@ -509,27 +513,6 @@
       ],
       "series": [
         "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "a43b030414e1",
-      "title": "【モンハンアウトランダーズ】ルカの評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577461",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-11T10:46:06.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577461.png?date=1790214525",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -956,7 +939,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0faf7b642063",
@@ -1273,6 +1256,48 @@
       "isNew": false
     },
     {
+      "id": "f64870368a23",
+      "title": "【モンハンストーリーズ2】最強オトモンまとめ｜属性別に掲載【MHST2】",
+      "url": "https://appmedia.jp/mhst2/26677399",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-10T15:07:46.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2021/07/8e879b5f3a4979f8a9f6cd734b23fa0f.jpg",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "fbd709240fd8",
+      "title": "【モンハンストーリーズ2】レベル上げにおすすめの方法・手順まとめ【MHST2】",
+      "url": "https://appmedia.jp/mhst2/6648013",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-10T14:48:37.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2021/07/cfd34185d634df738c4a56e4eec83502.jpg",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "40bccce677c8",
       "title": "【アセンダンス】大剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/485475",
@@ -1438,12 +1463,12 @@
     {
       "id": "f4b6d387e157",
       "title": "『アークナイツ』が『モンスターハンター』とのコラボを発表。2023年の「紅炎遣らう落葉」以来、約3年ぶり",
-      "url": "https://news.denfaminicogamer.jp/news/2611102p",
-      "host": "news.denfaminicogamer.jp",
-      "source": "電ファミニコゲーマー",
+      "url": "https://news.nicovideo.jp/watch/nw19975578",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
       "summary": "",
-      "publishedAt": "2026-11-10T08:25:00.000Z",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/maxresdefault-9.jpg",
+      "publishedAt": "2026-11-10T08:27:11.000Z",
+      "image": "",
       "categories": [
         "new",
         "collab"
@@ -1495,6 +1520,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "c1ce900bfe63",
+      "title": "【モンハンストーリーズ3】侵獣攻略一覧｜解放できる危惧種まとめ【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79844810",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-10T06:25:48.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/105921_5y7po.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "f4f222ac2e2d",
@@ -1644,26 +1690,23 @@
       "isNew": false
     },
     {
-      "id": "058675fb7140",
-      "title": "【MHWilds】フリチャレ☆10歴戦王アルシュベルド 弓ソロ 猫火事場 7'32'76",
-      "url": "https://youtu.be/MGYKSe56Njo?si",
-      "host": "youtu.be",
-      "source": "YouTube",
+      "id": "d0c3a1035c51",
+      "title": "『モンハン』デフォルメでも圧倒的威圧感…！「金獅子ラージャン」通常種と激昂した状態の2種がプライズ展開（インサイド）",
+      "url": "https://news.yahoo.co.jp/articles/76c1ddb824068c86a6b6143cc36cab6ad19b99d1",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-11-09T16:39:48.000Z",
-      "image": "",
+      "publishedAt": "2026-11-09T21:10:03.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261110-00000003-isd-000-1-view.jpg?exp=10800",
       "categories": [
-        "other"
+        "goods"
       ],
-      "series": [
-        "wilds",
-        "world"
-      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "411bb4076b94",
@@ -1940,6 +1983,27 @@
       "isNew": false
     },
     {
+      "id": "d3ed0955111e",
+      "title": "【モンハンアウトランダーズ】エイビィの性能とおすすめキャラ【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577655",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-09T01:12:46.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577655.png?date=1790215886",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "8b5ba8b0b14e",
       "title": "【モンハンアウトランダーズ】フューイの性能とおすすめキャラ【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577659",
@@ -1980,27 +2044,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "5ec937010f40",
-      "title": "【モンハンアウトランダーズ】ハン・サムの性能とおすすめキャラ【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577674",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-09T01:12:35.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577674.png?date=1790217833",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "eab2a1ea67f7",
