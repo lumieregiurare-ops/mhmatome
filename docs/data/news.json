@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-11T05:30:16.103Z",
+  "updatedAt": "2026-11-11T05:57:52.080Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 83,
-  "todayCount": 31,
+  "total": 82,
+  "todayCount": 28,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 30
+      "count": 29
     },
     {
       "id": "sale",
@@ -94,7 +94,7 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 34
+      "count": 33
     }
   ],
   "sources": [
@@ -115,15 +115,15 @@
       "count": 3
     },
     {
-      "name": "電撃オンライン",
-      "count": 2
-    },
-    {
       "name": "LevelUp Logy",
       "count": 1
     },
     {
       "name": "4Gamer",
+      "count": 1
+    },
+    {
+      "name": "電撃オンライン",
       "count": 1
     },
     {
@@ -253,7 +253,7 @@
       "leadSource": "電脳ライフ",
       "publishedAt": "2026-11-09T23:28:59.000Z",
       "sourceCount": 2,
-      "articleCount": 5,
+      "articleCount": 8,
       "categories": [
         "guide"
       ],
@@ -285,10 +285,31 @@
           "isPR": false
         },
         {
+          "title": "【モンハンアウトランダーズ】デルシャンの性能とおすすめキャラ【アウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/577654",
+          "source": "GameWith",
+          "publishedAt": "2026-11-09T01:12:46.000Z",
+          "isPR": false
+        },
+        {
           "title": "【モンハンアウトランダーズ】フューイの性能とおすすめキャラ【アウトランダーズ】",
           "url": "https://gamewith.jp/mhoutlanders/577659",
           "source": "GameWith",
           "publishedAt": "2026-11-09T01:12:43.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンアウトランダーズ】ペイゾンの性能とおすすめキャラ【アウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/577658",
+          "source": "GameWith",
+          "publishedAt": "2026-11-09T01:12:43.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンアウトランダーズ】トラノスケの性能とおすすめキャラ【アウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/583844",
+          "source": "GameWith",
+          "publishedAt": "2026-11-09T01:12:30.000Z",
           "isPR": false
         }
       ]
@@ -415,22 +436,41 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-11T05:00:16.516Z",
+    "previousAt": "2026-11-11T05:30:16.103Z",
     "previousCount": 83,
-    "newCount": 5
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-11T06:00:16.103Z",
+  "nextUpdateAt": "2026-11-11T06:27:52.080Z",
   "items": [
     {
-      "id": "5aebc693cc9e",
-      "title": "【モンハンアウトランダーズ】アケニアの評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577458",
+      "id": "162844623a7f",
+      "title": "【アークナイツ】モンハンコラボ第二弾の最新情報まとめ",
+      "url": "https://appmedia.jp/ark_nights/80024167",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-11T05:49:57.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/05/161222_cmbvw.webp",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "83c2cd6f4a1b",
+      "title": "【モンハンアウトランダーズ】ストーリー攻略チャート【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531933",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-11T05:00:11.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577458.png?date=1790214381",
+      "publishedAt": "2026-11-11T05:30:19.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531933.png?date=1793227277",
       "categories": [
         "guide"
       ],
@@ -444,14 +484,14 @@
       "isNew": false
     },
     {
-      "id": "5f4f7d30e3f0",
-      "title": "【モンハンアウトランダーズ】クレスの評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577459",
+      "id": "5aebc693cc9e",
+      "title": "【モンハンアウトランダーズ】アケニアの評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577458",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-11T04:52:21.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577459.png?date=1790214418",
+      "publishedAt": "2026-11-11T05:00:11.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577458.png?date=1790214381",
       "categories": [
         "guide"
       ],
@@ -549,25 +589,6 @@
       "isNew": false
     },
     {
-      "id": "162844623a7f",
-      "title": "【アークナイツ】モンハンコラボ第二弾の最新情報まとめ",
-      "url": "https://appmedia.jp/ark_nights/80024167",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-11T02:57:52.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/05/161222_cmbvw.webp",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "48f27bc980e0",
       "title": "【モンハンアウトランダーズ】取り返しのつかない要素【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/560314",
@@ -578,27 +599,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560314.png?date=1793276254",
       "categories": [
         "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3a6d0385a177",
-      "title": "【モンハンアウトランダーズ】リュウノスケの評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577455",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-11T02:57:21.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577455.png?date=1790214244",
-      "categories": [
-        "guide"
       ],
       "series": [
         "outlanders"
@@ -852,48 +852,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531925.png?date=1793082273",
       "categories": [
         "sales"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "de51f2f1d013",
-      "title": "【モンハンアウトランダーズ】主人公(太刀)の評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577470",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-11T02:05:14.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577470.png?date=1790214930",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "83c2cd6f4a1b",
-      "title": "【モンハンアウトランダーズ】ストーリー攻略チャート【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531933",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-11T02:04:10.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531933.png?date=1793227277",
-      "categories": [
-        "guide"
       ],
       "series": [
         "outlanders"
@@ -1338,7 +1296,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f5de95b72a28",
@@ -1775,7 +1733,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "04b5687d7969",
@@ -1880,7 +1838,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ebb72622d714",
@@ -1901,7 +1859,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d3ed0955111e",
@@ -1925,6 +1883,27 @@
       "isNew": false
     },
     {
+      "id": "60efd86f7108",
+      "title": "【モンハンアウトランダーズ】デルシャンの性能とおすすめキャラ【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577654",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-09T01:12:46.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577654.png?date=1790215839",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "8b5ba8b0b14e",
       "title": "【モンハンアウトランダーズ】フューイの性能とおすすめキャラ【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577659",
@@ -1933,6 +1912,48 @@
       "summary": "",
       "publishedAt": "2026-11-09T01:12:43.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577659.png?date=1790216942",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "1aa840bc698f",
+      "title": "【モンハンアウトランダーズ】ペイゾンの性能とおすすめキャラ【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577658",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-09T01:12:43.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577658.png?date=1790216003",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "f93d8568eb32",
+      "title": "【モンハンアウトランダーズ】トラノスケの性能とおすすめキャラ【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/583844",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-09T01:12:30.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583844.png?date=1792755898",
       "categories": [
         "guide"
       ],
@@ -2126,27 +2147,6 @@
         "other"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "23a52e5a1984",
-      "title": "【モンハンアウトランダーズ育成攻略】強化の優先度やレベル上げ、銘刻・オトモの育成方法",
-      "url": "https://dengekionline.com/article/202611/93408",
-      "host": "dengekionline.com",
-      "source": "電撃オンライン",
-      "summary": "",
-      "publishedAt": "2026-11-08T05:40:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/93408/ogp_AQdn.jpg?x=1280",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
