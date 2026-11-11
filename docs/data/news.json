@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T21:30:17.059Z",
+  "updatedAt": "2026-11-11T22:00:16.164Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 21
+      "count": 22
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 39
+      "count": 38
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 38
+      "count": 37
     },
     {
       "id": "rise",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 4
+      "count": 5
     },
     {
       "id": "outlanders",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 44
+      "count": 43
     },
     {
       "name": "YouTube",
@@ -108,7 +108,7 @@
     },
     {
       "name": "AppMedia",
-      "count": 3
+      "count": 4
     },
     {
       "name": "ガジェット通信",
@@ -151,7 +151,7 @@
       "count": 1
     },
     {
-      "name": "電ファミニコゲーマー",
+      "name": "ニコニコニュース",
       "count": 1
     },
     {
@@ -201,9 +201,9 @@
         },
         {
           "title": "『アークナイツ』が『モンスターハンター』とのコラボを発表。2023年の「紅炎遣らう落葉」以来、約3年ぶり",
-          "url": "https://news.denfaminicogamer.jp/news/2611102p",
-          "source": "電ファミニコゲーマー",
-          "publishedAt": "2026-11-10T08:25:00.000Z",
+          "url": "https://news.nicovideo.jp/watch/nw19975578",
+          "source": "ニコニコニュース",
+          "publishedAt": "2026-11-10T08:27:11.000Z",
           "isPR": false
         },
         {
@@ -428,12 +428,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-11T21:00:20.521Z",
+    "previousAt": "2026-11-11T21:30:17.059Z",
     "previousCount": 79,
-    "newCount": 0
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-11T22:00:17.059Z",
+  "nextUpdateAt": "2026-11-11T22:30:16.164Z",
   "items": [
     {
       "id": "78a50058f6c0",
@@ -1356,6 +1356,27 @@
       "isNew": false
     },
     {
+      "id": "fbd709240fd8",
+      "title": "【モンハンストーリーズ2】レベル上げにおすすめの方法・手順まとめ【MHST2】",
+      "url": "https://appmedia.jp/mhst2/6648013",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-10T14:48:37.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2021/07/cfd34185d634df738c4a56e4eec83502.jpg",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "40bccce677c8",
       "title": "【アセンダンス】大剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/485475",
@@ -1542,12 +1563,12 @@
     {
       "id": "f4b6d387e157",
       "title": "『アークナイツ』が『モンスターハンター』とのコラボを発表。2023年の「紅炎遣らう落葉」以来、約3年ぶり",
-      "url": "https://news.denfaminicogamer.jp/news/2611102p",
-      "host": "news.denfaminicogamer.jp",
-      "source": "電ファミニコゲーマー",
+      "url": "https://news.nicovideo.jp/watch/nw19975578",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
       "summary": "",
-      "publishedAt": "2026-11-10T08:25:00.000Z",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/maxresdefault-9.jpg",
+      "publishedAt": "2026-11-10T08:27:11.000Z",
+      "image": "",
       "categories": [
         "new",
         "collab"
@@ -2053,27 +2074,6 @@
       ],
       "series": [
         "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "51d91a3175dc",
-      "title": "【モンハンワイルズ】アーティア武器の厳選方法と作り方【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/485786",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-08T21:43:20.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485786.png?date=1787278250",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
