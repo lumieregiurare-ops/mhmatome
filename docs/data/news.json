@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-11T20:00:15.978Z",
+  "updatedAt": "2026-11-11T21:00:20.521Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 77,
-  "todayCount": 1,
+  "total": 79,
+  "todayCount": 3,
   "categories": [
     {
       "id": "new",
@@ -32,7 +32,7 @@
     {
       "id": "goods",
       "label": "グッズ・フィギュア",
-      "count": 2
+      "count": 3
     },
     {
       "id": "media",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 38
+      "count": 39
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 37
+      "count": 38
     },
     {
       "id": "rise",
@@ -104,7 +104,7 @@
     },
     {
       "name": "YouTube",
-      "count": 15
+      "count": 16
     },
     {
       "name": "AppMedia",
@@ -113,6 +113,10 @@
     {
       "name": "ガジェット通信",
       "count": 2
+    },
+    {
+      "name": "インサイド",
+      "count": 1
     },
     {
       "name": "電撃ホビーウェブ",
@@ -424,13 +428,53 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-11T19:30:15.484Z",
+    "previousAt": "2026-11-11T20:00:15.978Z",
     "previousCount": 77,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-11T20:30:15.978Z",
+  "nextUpdateAt": "2026-11-11T21:30:20.521Z",
   "items": [
+    {
+      "id": "78a50058f6c0",
+      "title": "『モンハン』より「轟竜ティガレックス」が“鎮座獣”で立体化！たくましい4本脚や牙までデフォルメながら作り込み",
+      "url": "https://www.inside-games.jp/article/2026/11/12/190782.html",
+      "host": "inside-games.jp",
+      "source": "インサイド",
+      "summary": "「モンスターハンター 鎮座獣 ティガレックス～絶対強者～」プライズフィギュアが11月12日より順次展開！",
+      "publishedAt": "2026-11-11T21:00:03.000Z",
+      "image": "https://www.inside-games.jp/imgs/rss/1802209.jpg",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "c50fb94399e9",
+      "title": "【モンハンアウトランダーズ】リセマラ当たりランキング【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531925",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-11T17:24:14.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531925.png?date=1793082273",
+      "categories": [
+        "sales"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "162844623a7f",
       "title": "【アークナイツ】モンハンコラボ第二弾の最新情報まとめ",
@@ -588,27 +632,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531932.png?date=1789010047",
       "categories": [
         "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "c50fb94399e9",
-      "title": "【モンハンアウトランダーズ】リセマラ当たりランキング【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531925",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-11T10:19:10.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531925.png?date=1793082273",
-      "categories": [
-        "sales"
       ],
       "series": [
         "outlanders"
@@ -1435,7 +1458,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d4a573f32f4b",
@@ -1574,7 +1597,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f4f222ac2e2d",
@@ -1699,6 +1722,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "1e8aeecd01e6",
+      "title": "テイルズ警察 #モンスターハンターワイルズ",
+      "url": "https://youtu.be/pOWYVI3qqwY?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-09T13:35:43.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "411bb4076b94",
