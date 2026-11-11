@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-11T14:30:18.902Z",
+  "updatedAt": "2026-11-11T15:00:19.499Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 83,
-  "todayCount": 41,
+  "total": 85,
+  "todayCount": 0,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 26
+      "count": 29
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 39
+      "count": 38
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 36
+      "count": 37
     },
     {
       "id": "rise",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 4
+      "count": 5
     },
     {
       "id": "outlanders",
@@ -100,15 +100,15 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 50
+      "count": 52
     },
     {
       "name": "YouTube",
-      "count": 15
+      "count": 14
     },
     {
       "name": "AppMedia",
-      "count": 3
+      "count": 4
     },
     {
       "name": "ガジェット通信",
@@ -147,7 +147,7 @@
       "count": 1
     },
     {
-      "name": "電ファミニコゲーマー",
+      "name": "ニコニコニュース",
       "count": 1
     },
     {
@@ -197,9 +197,9 @@
         },
         {
           "title": "『アークナイツ』が『モンスターハンター』とのコラボを発表。2023年の「紅炎遣らう落葉」以来、約3年ぶり",
-          "url": "https://news.denfaminicogamer.jp/news/2611102p",
-          "source": "電ファミニコゲーマー",
-          "publishedAt": "2026-11-10T08:25:00.000Z",
+          "url": "https://news.nicovideo.jp/watch/nw19975578",
+          "source": "ニコニコニュース",
+          "publishedAt": "2026-11-10T08:27:11.000Z",
           "isPR": false
         },
         {
@@ -381,13 +381,35 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-11T14:00:18.090Z",
-    "previousCount": 82,
-    "newCount": 4
+    "previousAt": "2026-11-11T14:30:18.902Z",
+    "previousCount": 83,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-11T15:00:18.902Z",
+  "nextUpdateAt": "2026-11-11T15:30:19.499Z",
   "items": [
+    {
+      "id": "60f3de2f47ec",
+      "title": "【モンハンアウトランダーズ】最強キャラランキング【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531927",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-11T13:25:26.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531927.png?date=1793082334",
+      "categories": [
+        "guide",
+        "sales"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "83c2cd6f4a1b",
       "title": "【モンハンアウトランダーズ】ストーリー攻略チャート【アウトランダーズ】",
@@ -407,7 +429,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d3cd7084b2c3",
@@ -465,28 +487,6 @@
       ],
       "series": [
         "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "60f3de2f47ec",
-      "title": "【モンハンアウトランダーズ】最強キャラランキング【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531927",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-11T10:44:12.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531927.png?date=1793082334",
-      "categories": [
-        "guide",
-        "sales"
-      ],
-      "series": [
-        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -992,7 +992,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c9cd694c1431",
@@ -1137,7 +1137,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0b68bd1287fd",
@@ -1431,12 +1431,12 @@
     {
       "id": "f4b6d387e157",
       "title": "『アークナイツ』が『モンスターハンター』とのコラボを発表。2023年の「紅炎遣らう落葉」以来、約3年ぶり",
-      "url": "https://news.denfaminicogamer.jp/news/2611102p",
-      "host": "news.denfaminicogamer.jp",
-      "source": "電ファミニコゲーマー",
+      "url": "https://news.nicovideo.jp/watch/nw19975578",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
       "summary": "",
-      "publishedAt": "2026-11-10T08:25:00.000Z",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/maxresdefault-9.jpg",
+      "publishedAt": "2026-11-10T08:27:11.000Z",
+      "image": "",
       "categories": [
         "new",
         "collab"
@@ -1488,6 +1488,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "c1ce900bfe63",
+      "title": "【モンハンストーリーズ3】侵獣攻略一覧｜解放できる危惧種まとめ【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79844810",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-10T06:25:48.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/105921_5y7po.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "f4f222ac2e2d",
@@ -1653,7 +1674,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "058675fb7140",
@@ -1670,27 +1691,6 @@
       "series": [
         "wilds",
         "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "1e8aeecd01e6",
-      "title": "テイルズ警察 #モンスターハンターワイルズ",
-      "url": "https://youtu.be/pOWYVI3qqwY?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-09T13:35:43.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -2099,6 +2099,27 @@
       "isNew": false
     },
     {
+      "id": "777be74db592",
+      "title": "【モンハンワイルズ】レダウの弱点・攻略と出現場所【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/460834",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-08T17:22:08.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/460834.png?date=1724182603",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "ce5953ef1ee6",
       "title": "【モンハンワイルズ】操虫棍の最強装備・おすすめ装備【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/484940",
@@ -2118,6 +2139,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "467dafff0c9e",
+      "title": "【モンハンワイルズ】アーティア武器のおすすめ装備まとめ【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/488006",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-08T15:59:13.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/488006.png?date=1741210174",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     }
   ]
 }
