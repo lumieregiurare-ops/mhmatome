@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T01:30:15.037Z",
+  "updatedAt": "2026-11-11T02:00:16.439Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 86,
-  "todayCount": 12,
+  "todayCount": 13,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 33
+      "count": 34
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 37
+      "count": 36
     }
   ],
   "series": [
@@ -89,30 +89,30 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 2
+      "count": 3
     },
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 40
+      "count": 39
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 55
+      "count": 54
     },
     {
       "name": "YouTube",
       "count": 10
     },
     {
-      "name": "Howl.Link",
+      "name": "AppMedia",
       "count": 3
     },
     {
-      "name": "AppMedia",
-      "count": 2
+      "name": "Howl.Link",
+      "count": 3
     },
     {
       "name": "電撃オンライン",
@@ -143,7 +143,7 @@
       "count": 1
     },
     {
-      "name": "ｄメニューニュース",
+      "name": "Excite エキサイト",
       "count": 1
     },
     {
@@ -269,6 +269,13 @@
       ],
       "articles": [
         {
+          "title": "【アセンダンス】ガンランスの操作と新要素・ブーストアクション【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/577811",
+          "source": "GameWith",
+          "publishedAt": "2026-11-10T17:37:06.000Z",
+          "isPR": false
+        },
+        {
           "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/577281",
           "source": "GameWith",
@@ -311,17 +318,10 @@
           "isPR": false
         },
         {
-          "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/574841",
+          "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/575036",
           "source": "GameWith",
-          "publishedAt": "2026-11-10T01:17:14.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/563104",
-          "source": "GameWith",
-          "publishedAt": "2026-11-09T21:40:17.000Z",
+          "publishedAt": "2026-11-10T06:15:09.000Z",
           "isPR": false
         }
       ]
@@ -377,12 +377,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-11T01:00:16.593Z",
-    "previousCount": 88,
+    "previousAt": "2026-11-11T01:30:15.037Z",
+    "previousCount": 86,
     "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-11T02:00:15.037Z",
+  "nextUpdateAt": "2026-11-11T02:30:16.439Z",
   "items": [
     {
       "id": "c9327b2915e6",
@@ -496,6 +496,27 @@
       "summary": "",
       "publishedAt": "2026-11-10T18:14:16.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577734.png?date=1789765976",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "488c58093be3",
+      "title": "【アセンダンス】ガンランスの操作と新要素・ブーストアクション【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/577811",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-10T17:37:06.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577811.png?date=1789764143",
       "categories": [
         "other"
       ],
@@ -633,6 +654,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "fbd709240fd8",
+      "title": "【モンハンストーリーズ2】レベル上げにおすすめの方法・手順まとめ【MHST2】",
+      "url": "https://appmedia.jp/mhst2/6648013",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-10T14:48:37.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2021/07/cfd34185d634df738c4a56e4eec83502.jpg",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "139e9f532a51",
@@ -1234,7 +1276,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e6d79acfa4bd",
@@ -1249,6 +1291,27 @@
         "guide"
       ],
       "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "f4f222ac2e2d",
+      "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/575036",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-10T06:15:09.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575036.png?date=1789770113",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1382,25 +1445,6 @@
       "isNew": false
     },
     {
-      "id": "d0c3a1035c51",
-      "title": "『モンハン』デフォルメでも圧倒的威圧感…！「金獅子ラージャン」通常種と激昂した状態の2種がプライズ展開",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOamhFUlJDME1ybi1EbXo1VmMxWERkZHZySGJXUnhkcjdIcDY1QUNLQnd2NFlWVjdiejd5UFE1VFl5ZmZvaENTbHVjbTdfUERCUXg5MU5fNWl1cnZGR2VQTVU0Szh0MzBYeHRuN3dYalNkTTVxb0NWUGtLSlRRZGZNbktaa0QxbFNCbnpOLV9sakl2NmFvcFItaktIeFJYWnJUTnJXWmZ4RGRDYTBXRlpremdTc280RnRTbWVObkd4QTY3SGJUWTJFcUhzSlhxSWlLTWlmYURtRdIBhwFBVV95cUxONkJ0UDhYczhONzBkekNITWNnTll3aHFYblhmNkVXUkRvNWc0RlVqcXduS2JmOVVWRHhYQ01BWUxVR1dCOG1xZzIwcnYtWVgtRUY1TUJMWVJlYk81UDRNSjkxTnktdk8ydXBTa2tRbm5tY2Y5NzBSSWI1UU1lR1NuSGZ6Y3pNUEE?oc=5",
-      "host": "topics.smt.docomo.ne.jp",
-      "source": "ｄメニューニュース",
-      "summary": "",
-      "publishedAt": "2026-11-09T22:20:56.000Z",
-      "image": "",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "e08e6c8ea2a8",
       "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/563104",
@@ -1436,6 +1480,25 @@
       "series": [
         "wilds"
       ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "d0c3a1035c51",
+      "title": "『モンハン』デフォルメでも圧倒的威圧感…！「金獅子ラージャン」通常種と激昂した状態の2種がプライズ展開",
+      "url": "http://www.excite.co.jp/news/article/Inside_190632/",
+      "host": "excite.co.jp",
+      "source": "Excite エキサイト",
+      "summary": "",
+      "publishedAt": "2026-11-09T21:10:00.000Z",
+      "image": "",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1677,27 +1740,6 @@
       "isNew": false
     },
     {
-      "id": "8383aea88287",
-      "title": "【モンハンアウトランダーズ】シーズンショップの解放条件と交換アイテム【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/584336",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-09T05:52:37.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/584336.png?date=1792921458",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "04b5687d7969",
       "title": "【モンハンアウトランダーズ】第2章 灼熱の追撃の攻略チャートと解放要素【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/578584",
@@ -1782,90 +1824,6 @@
       "isNew": false
     },
     {
-      "id": "f4f222ac2e2d",
-      "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/575036",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-09T02:13:04.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575036.png?date=1789770113",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "488c58093be3",
-      "title": "【アセンダンス】ガンランスの操作と新要素・ブーストアクション【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/577811",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-09T01:24:24.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577811.png?date=1789764143",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4408848015da",
-      "title": "【モンハンアウトランダーズ】リックスの性能とおすすめキャラ【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577647",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-09T01:12:49.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577647.png?date=1792756627",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d3ed0955111e",
-      "title": "【モンハンアウトランダーズ】エイビィの性能とおすすめキャラ【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577655",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-09T01:12:46.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577655.png?date=1790215886",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "8b5ba8b0b14e",
       "title": "【モンハンアウトランダーズ】フューイの性能とおすすめキャラ【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577659",
@@ -1895,6 +1853,48 @@
       "summary": "",
       "publishedAt": "2026-11-09T01:12:43.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577658.png?date=1790216003",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "4a732f265c76",
+      "title": "【モンハンアウトランダーズ】サニャンの性能とおすすめキャラ【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577665",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-09T01:12:40.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577665.png?date=1792755775",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "f93d8568eb32",
+      "title": "【モンハンアウトランダーズ】トラノスケの性能とおすすめキャラ【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/583844",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-09T01:12:30.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583844.png?date=1792755898",
       "categories": [
         "guide"
       ],
