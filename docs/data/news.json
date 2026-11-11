@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-10T23:30:15.395Z",
+  "updatedAt": "2026-11-11T00:00:18.300Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 85,
+  "total": 86,
   "todayCount": 9,
   "categories": [
     {
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 36
+      "count": 37
     }
   ],
   "series": [
@@ -94,13 +94,13 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 38
+      "count": 39
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 54
+      "count": 55
     },
     {
       "name": "YouTube",
@@ -232,6 +232,13 @@
           "isPR": false
         },
         {
+          "title": "【アセンダンス】護竜リオレイアの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/575037",
+          "source": "GameWith",
+          "publishedAt": "2026-11-10T12:49:32.000Z",
+          "isPR": false
+        },
+        {
           "title": "モンハンワイルズ参加型配信！",
           "url": "https://t.co/njLzTjMjA7",
           "source": "Howl.Link",
@@ -267,17 +274,10 @@
           "isPR": false
         },
         {
-          "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/563040",
+          "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563104",
           "source": "GameWith",
-          "publishedAt": "2026-11-09T21:30:36.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/575038",
-          "source": "GameWith",
-          "publishedAt": "2026-11-09T13:29:17.000Z",
+          "publishedAt": "2026-11-09T21:40:17.000Z",
           "isPR": false
         }
       ]
@@ -446,13 +446,32 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-10T23:00:17.257Z",
-    "previousCount": 84,
-    "newCount": 5
+    "previousAt": "2026-11-10T23:30:15.395Z",
+    "previousCount": 85,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-11T00:00:15.395Z",
+  "nextUpdateAt": "2026-11-11T00:30:18.300Z",
   "items": [
+    {
+      "id": "162844623a7f",
+      "title": "【アークナイツ】モンハンコラボ第二弾の最新情報まとめ",
+      "url": "https://appmedia.jp/ark_nights/80024167",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-10T23:43:32.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/05/161222_cmbvw.webp",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "de51f2f1d013",
       "title": "【モンハンアウトランダーズ】主人公(太刀)の評価とおすすめ装備・編成【アウトランダーズ】",
@@ -468,25 +487,6 @@
       "series": [
         "outlanders"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "162844623a7f",
-      "title": "【アークナイツ】モンハンコラボ第二弾の最新情報まとめ",
-      "url": "https://appmedia.jp/ark_nights/80024167",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-10T20:55:32.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/05/161222_cmbvw.webp",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -659,7 +659,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "139e9f532a51",
@@ -822,6 +822,27 @@
       ],
       "series": [
         "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "b5d6fe40ab2e",
+      "title": "【アセンダンス】護竜リオレイアの最新情報まとめ【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/575037",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-10T12:49:32.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575037.png?date=1789770931",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1282,7 +1303,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b1a345efe43e",
@@ -1405,6 +1426,27 @@
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "e08e6c8ea2a8",
+      "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/563104",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-09T21:40:17.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563104.png?date=1789770630",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
@@ -1685,6 +1727,27 @@
       "isNew": false
     },
     {
+      "id": "8383aea88287",
+      "title": "【モンハンアウトランダーズ】シーズンショップの解放条件と交換アイテム【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/584336",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-09T05:52:37.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/584336.png?date=1792921458",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "04b5687d7969",
       "title": "【モンハンアウトランダーズ】第2章 灼熱の追撃の攻略チャートと解放要素【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/578584",
@@ -1769,27 +1832,6 @@
       "isNew": false
     },
     {
-      "id": "b5d6fe40ab2e",
-      "title": "【アセンダンス】護竜リオレイアの最新情報まとめ【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/575037",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-09T04:01:09.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575037.png?date=1789770931",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "02b52394ea2f",
       "title": "【難易度 百戦】ミドリソロでルガ・エアルダに挑んでみた#モンスターハンターアウトランダーズ #MHO#モンハンアウトランダーズ #モンハン #モンスターハンター#monsterhunter",
       "url": "https://youtu.be/w_V-eipwHeU?si",
@@ -1853,6 +1895,48 @@
       "isNew": false
     },
     {
+      "id": "4408848015da",
+      "title": "【モンハンアウトランダーズ】リックスの性能とおすすめキャラ【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577647",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-09T01:12:49.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577647.png?date=1792756627",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "d3ed0955111e",
+      "title": "【モンハンアウトランダーズ】エイビィの性能とおすすめキャラ【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577655",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-09T01:12:46.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577655.png?date=1790215886",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "8b5ba8b0b14e",
       "title": "【モンハンアウトランダーズ】フューイの性能とおすすめキャラ【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577659",
@@ -1871,49 +1955,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "1aa840bc698f",
-      "title": "【モンハンアウトランダーズ】ペイゾンの性能とおすすめキャラ【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577658",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-09T01:12:43.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577658.png?date=1790216003",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "4a732f265c76",
-      "title": "【モンハンアウトランダーズ】サニャンの性能とおすすめキャラ【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577665",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-09T01:12:40.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577665.png?date=1792755775",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "562ce3f05940",
@@ -1945,27 +1987,6 @@
       "summary": "",
       "publishedAt": "2026-11-08T22:35:18.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577790.png?date=1789746410",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e08e6c8ea2a8",
-      "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563104",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-08T21:32:41.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563104.png?date=1789770630",
       "categories": [
         "other"
       ],
