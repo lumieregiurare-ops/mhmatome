@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-11T17:00:17.564Z",
+  "updatedAt": "2026-11-11T17:30:16.835Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 83,
+  "total": 78,
   "todayCount": 1,
   "categories": [
     {
@@ -32,7 +32,7 @@
     {
       "id": "goods",
       "label": "グッズ・フィギュア",
-      "count": 2
+      "count": 1
     },
     {
       "id": "media",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 27
+      "count": 22
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 38
+      "count": 39
     }
   ],
   "series": [
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 8
+      "count": 9
     },
     {
       "id": "now",
@@ -89,26 +89,26 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 6
+      "count": 3
     },
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 26
+      "count": 25
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 49
+      "count": 47
     },
     {
       "name": "YouTube",
-      "count": 14
+      "count": 15
     },
     {
       "name": "AppMedia",
-      "count": 5
+      "count": 2
     },
     {
       "name": "ガジェット通信",
@@ -147,15 +147,11 @@
       "count": 1
     },
     {
-      "name": "ニコニコニュース",
+      "name": "電ファミニコゲーマー",
       "count": 1
     },
     {
       "name": "電脳ライフ",
-      "count": 1
-    },
-    {
-      "name": "Yahoo!ニュース",
       "count": 1
     },
     {
@@ -197,9 +193,9 @@
         },
         {
           "title": "『アークナイツ』が『モンスターハンター』とのコラボを発表。2023年の「紅炎遣らう落葉」以来、約3年ぶり",
-          "url": "https://news.nicovideo.jp/watch/nw19975578",
-          "source": "ニコニコニュース",
-          "publishedAt": "2026-11-10T08:27:11.000Z",
+          "url": "https://news.denfaminicogamer.jp/news/2611102p",
+          "source": "電ファミニコゲーマー",
+          "publishedAt": "2026-11-10T08:25:00.000Z",
           "isPR": false
         },
         {
@@ -388,12 +384,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-11T16:30:22.999Z",
-    "previousCount": 81,
-    "newCount": 6
+    "previousAt": "2026-11-11T17:00:17.564Z",
+    "previousCount": 83,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-11T17:30:17.564Z",
+  "nextUpdateAt": "2026-11-11T18:00:16.835Z",
   "items": [
     {
       "id": "162844623a7f",
@@ -471,27 +467,6 @@
       ],
       "series": [
         "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "78d907e0c7ca",
-      "title": "【モンハンアウトランダーズ】ミドリの評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577465",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-11T11:12:04.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577465.png?date=1790214699",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1003,27 +978,6 @@
       "isNew": false
     },
     {
-      "id": "c9cd694c1431",
-      "title": "【モンハンアウトランダーズ】巨木の原野のマップ一覧【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/560129",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-11T01:55:08.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560129.png?date=1793225833",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "35280c407c34",
       "title": "【モンハンアウトランダーズ】フィールド探索(ミニゲーム)一覧と報酬【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/560157",
@@ -1256,48 +1210,6 @@
       "isNew": false
     },
     {
-      "id": "f64870368a23",
-      "title": "【モンハンストーリーズ2】最強オトモンまとめ｜属性別に掲載【MHST2】",
-      "url": "https://appmedia.jp/mhst2/26677399",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-10T15:07:46.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2021/07/8e879b5f3a4979f8a9f6cd734b23fa0f.jpg",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "fbd709240fd8",
-      "title": "【モンハンストーリーズ2】レベル上げにおすすめの方法・手順まとめ【MHST2】",
-      "url": "https://appmedia.jp/mhst2/6648013",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-10T14:48:37.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2021/07/cfd34185d634df738c4a56e4eec83502.jpg",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "40bccce677c8",
       "title": "【アセンダンス】大剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/485475",
@@ -1463,12 +1375,12 @@
     {
       "id": "f4b6d387e157",
       "title": "『アークナイツ』が『モンスターハンター』とのコラボを発表。2023年の「紅炎遣らう落葉」以来、約3年ぶり",
-      "url": "https://news.nicovideo.jp/watch/nw19975578",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
+      "url": "https://news.denfaminicogamer.jp/news/2611102p",
+      "host": "news.denfaminicogamer.jp",
+      "source": "電ファミニコゲーマー",
       "summary": "",
-      "publishedAt": "2026-11-10T08:27:11.000Z",
-      "image": "",
+      "publishedAt": "2026-11-10T08:25:00.000Z",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/maxresdefault-9.jpg",
       "categories": [
         "new",
         "collab"
@@ -1520,27 +1432,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "c1ce900bfe63",
-      "title": "【モンハンストーリーズ3】侵獣攻略一覧｜解放できる危惧種まとめ【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79844810",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-10T06:25:48.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/105921_5y7po.webp",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "f4f222ac2e2d",
@@ -1690,18 +1581,21 @@
       "isNew": false
     },
     {
-      "id": "d0c3a1035c51",
-      "title": "『モンハン』デフォルメでも圧倒的威圧感…！「金獅子ラージャン」通常種と激昂した状態の2種がプライズ展開（インサイド）",
-      "url": "https://news.yahoo.co.jp/articles/76c1ddb824068c86a6b6143cc36cab6ad19b99d1",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "id": "058675fb7140",
+      "title": "【MHWilds】フリチャレ☆10歴戦王アルシュベルド 弓ソロ 猫火事場 7'32'76",
+      "url": "https://youtu.be/MGYKSe56Njo?si",
+      "host": "youtu.be",
+      "source": "YouTube",
       "summary": "",
-      "publishedAt": "2026-11-09T21:10:03.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261110-00000003-isd-000-1-view.jpg?exp=10800",
+      "publishedAt": "2026-11-09T16:39:48.000Z",
+      "image": "",
       "categories": [
-        "goods"
+        "other"
       ],
-      "series": [],
+      "series": [
+        "wilds",
+        "world"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1857,6 +1751,27 @@
       "isNew": false
     },
     {
+      "id": "8383aea88287",
+      "title": "【モンハンアウトランダーズ】シーズンショップの解放条件と交換アイテム【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/584336",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-09T05:52:37.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/584336.png?date=1792921458",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "5fc879b1cca5",
       "title": "【モンハンワイルズ】英傑に愛を込めての攻略と報酬【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/545381",
@@ -2001,7 +1916,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8b5ba8b0b14e",
@@ -2098,27 +2013,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485786.png?date=1787278250",
       "categories": [
         "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "777be74db592",
-      "title": "【モンハンワイルズ】レダウの弱点・攻略と出現場所【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/460834",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-08T17:22:08.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/460834.png?date=1724182603",
-      "categories": [
-        "guide"
       ],
       "series": [
         "wilds"
