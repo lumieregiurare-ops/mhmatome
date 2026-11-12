@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-12T22:00:19.822Z",
+  "updatedAt": "2026-11-12T22:30:15.547Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 73,
-  "todayCount": 4,
+  "total": 74,
+  "todayCount": 5,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 13
+      "count": 14
     },
     {
       "id": "sale",
@@ -57,7 +57,7 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 2
+      "count": 3
     },
     {
       "id": "other",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 31
+      "count": 30
     },
     {
       "id": "rise",
@@ -94,13 +94,13 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 19
+      "count": 21
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 33
+      "count": 34
     },
     {
       "name": "YouTube",
@@ -405,7 +405,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-11-12T18:11:28.000Z",
       "sourceCount": 2,
-      "articleCount": 12,
+      "articleCount": 14,
       "categories": [
         "other",
         "guide"
@@ -416,6 +416,13 @@
         "キャラ"
       ],
       "articles": [
+        {
+          "title": "【モンハンアウトランダーズ】最強キャラランキング【アウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/531927",
+          "source": "GameWith",
+          "publishedAt": "2026-11-12T16:40:24.000Z",
+          "isPR": false
+        },
         {
           "title": "本編モンハンアウトランダーズ 精鋭 ルガエアルダ戦 ソロ",
           "url": "https://youtu.be/NzCvM1ImE_M?si",
@@ -438,6 +445,13 @@
           "isPR": false
         },
         {
+          "title": "【モンハンアウトランダーズ】取り返しのつかない要素【アウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/560314",
+          "source": "GameWith",
+          "publishedAt": "2026-11-12T12:48:17.000Z",
+          "isPR": false
+        },
+        {
           "title": "【モンハンアウトランダーズ】料理のおすすめと食事場の使い方【アウトランダーズ】",
           "url": "https://gamewith.jp/mhoutlanders/576657",
           "source": "GameWith",
@@ -456,20 +470,6 @@
           "url": "https://youtu.be/7aeOnTYFbcs?si",
           "source": "YouTube",
           "publishedAt": "2026-11-12T03:45:07.000Z",
-          "isPR": false
-        },
-        {
-          "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
-          "url": "https://gamewith.jp/mhwilds/563096",
-          "source": "GameWith",
-          "publishedAt": "2026-11-12T01:05:32.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンアウトランダーズ】フューイの性能とおすすめキャラ【アウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/577659",
-          "source": "GameWith",
-          "publishedAt": "2026-11-11T03:54:58.000Z",
           "isPR": false
         }
       ]
@@ -505,12 +505,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-12T21:30:17.284Z",
-    "previousCount": 72,
-    "newCount": 4
+    "previousAt": "2026-11-12T22:00:19.822Z",
+    "previousCount": 73,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-12T22:30:19.822Z",
+  "nextUpdateAt": "2026-11-12T23:00:15.547Z",
   "items": [
     {
       "id": "278fbd5d3ae7",
@@ -532,6 +532,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "60f3de2f47ec",
+      "title": "【モンハンアウトランダーズ】最強キャラランキング【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531927",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-12T16:40:24.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531927.png?date=1793082334",
+      "categories": [
+        "guide",
+        "sales"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "b5d6fe40ab2e",
@@ -743,6 +765,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "48f27bc980e0",
+      "title": "【モンハンアウトランダーズ】取り返しのつかない要素【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/560314",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-12T12:48:17.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560314.png?date=1793276254",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "70725b0ae126",
@@ -1578,7 +1621,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1aa840bc698f",
@@ -1599,7 +1642,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "eab2a1ea67f7",
@@ -1620,7 +1663,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f93d8568eb32",
@@ -1641,7 +1684,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f529da9f5ece",
@@ -1841,27 +1884,6 @@
       "summary": "",
       "publishedAt": "2026-11-10T13:30:54.000Z",
       "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "52788ae2dac3",
-      "title": "【アセンダンス】太刀の新要素とブーストアクション【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/452299",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-10T11:30:13.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/452299.png?date=1789747738",
       "categories": [
         "other"
       ],
