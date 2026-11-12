@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-12T21:00:17.535Z",
+  "updatedAt": "2026-11-12T21:30:17.284Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 74,
-  "todayCount": 5,
+  "total": 72,
+  "todayCount": 4,
   "categories": [
     {
       "id": "new",
@@ -32,7 +32,7 @@
     {
       "id": "goods",
       "label": "グッズ・フィギュア",
-      "count": 5
+      "count": 4
     },
     {
       "id": "media",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 10
+      "count": 9
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 42
+      "count": 41
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 33
+      "count": 31
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 4
+      "count": 3
     },
     {
       "id": "now",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 0
+      "count": 1
     },
     {
       "id": "outlanders",
@@ -100,11 +100,11 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 30
+      "count": 31
     },
     {
       "name": "YouTube",
-      "count": 18
+      "count": 17
     },
     {
       "name": "ガジェット通信",
@@ -115,15 +115,7 @@
       "count": 2
     },
     {
-      "name": "Howl.Link",
-      "count": 2
-    },
-    {
       "name": "電ファミニコゲーマー",
-      "count": 2
-    },
-    {
-      "name": "Yahoo!ニュース",
       "count": 2
     },
     {
@@ -136,6 +128,10 @@
     },
     {
       "name": "PR EDGE",
+      "count": 1
+    },
+    {
+      "name": "Howl.Link",
       "count": 1
     },
     {
@@ -156,6 +152,10 @@
     },
     {
       "name": "ライブドアニュース",
+      "count": 1
+    },
+    {
+      "name": "Yahoo!ニュース",
       "count": 1
     },
     {
@@ -405,7 +405,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-11-12T18:11:28.000Z",
       "sourceCount": 2,
-      "articleCount": 9,
+      "articleCount": 8,
       "categories": [
         "other",
         "guide"
@@ -416,13 +416,6 @@
         "エアルダ"
       ],
       "articles": [
-        {
-          "title": "【モンハンアウトランダーズ】最強キャラランキング【アウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/531927",
-          "source": "GameWith",
-          "publishedAt": "2026-11-12T16:40:24.000Z",
-          "isPR": false
-        },
         {
           "title": "本編モンハンアウトランダーズ 精鋭 ルガエアルダ戦 ソロ",
           "url": "https://youtu.be/NzCvM1ImE_M?si",
@@ -505,12 +498,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-12T20:30:26.147Z",
-    "previousCount": 73,
-    "newCount": 3
+    "previousAt": "2026-11-12T21:00:17.535Z",
+    "previousCount": 74,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-12T21:30:17.535Z",
+  "nextUpdateAt": "2026-11-12T22:00:17.284Z",
   "items": [
     {
       "id": "278fbd5d3ae7",
@@ -523,28 +516,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586524.png?date=1793708718",
       "categories": [
         "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "60f3de2f47ec",
-      "title": "【モンハンアウトランダーズ】最強キャラランキング【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531927",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-12T16:40:24.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531927.png?date=1793082334",
-      "categories": [
-        "guide",
-        "sales"
       ],
       "series": [
         "outlanders"
@@ -595,7 +566,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "12d1ac4d89b6",
@@ -977,7 +948,7 @@
       "source": "OTOTOY",
       "summary": "",
       "publishedAt": "2026-11-12T09:00:00.000Z",
-      "image": "https://imgs.ototoy.jp/feature/image.php/OW20261112/collage.jpg",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1354,27 +1325,6 @@
       "isNew": false
     },
     {
-      "id": "cfa20881c7e4",
-      "title": "【モンハンワイルズ】紙おまやったらパンパンやな【参加型】",
-      "url": "https://t.co/D7clj9mxuO",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-11-11T19:59:23.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "468d57e39da7",
       "title": "【モンハンワイルズ】歴戦王アルシュベルド(フリーチャレンジ)のSランクの取り方とチャーム【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/548752",
@@ -1582,20 +1532,19 @@
       "isNew": false
     },
     {
-      "id": "f052f0efe1cc",
-      "title": "【MHWilds】歴戦王アルシュベルド3pt非火事場チャージアックス07‘10“88【フリチャレ5-2】",
-      "url": "https://youtu.be/yjLaJe0aNzI?si",
-      "host": "youtu.be",
-      "source": "YouTube",
+      "id": "a08c6c03701c",
+      "title": "『モンスターハンターストーリーズ3 ～運命の双竜～』の販売本数が全世界で100万本を突破！",
+      "url": "https://gamewith.jp/gamedb/14083/articles/65640",
+      "host": "gamewith.jp",
+      "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-11T07:40:26.000Z",
-      "image": "",
+      "publishedAt": "2026-11-11T07:59:40.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/14083/rectangle/65640.png?t=1794383987",
       "categories": [
-        "other"
+        "sales"
       ],
       "series": [
-        "wilds",
-        "world"
+        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1686,6 +1635,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "0bae2c965596",
+      "title": "【モンハンアウトランダーズ】巡林隊物資の入手方法と場所チェッカー【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/581419",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-11T01:34:32.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/581419.png?date=1792069443",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "c9327b2915e6",
@@ -2009,25 +1979,6 @@
       "series": [
         "outlanders"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d0c3a1035c51",
-      "title": "『モンハン』デフォルメでも圧倒的威圧感…！「金獅子ラージャン」通常種と激昂した状態の2種がプライズ展開 (インサイド)",
-      "url": "https://news.yahoo.co.jp/articles/76c1ddb824068c86a6b6143cc36cab6ad19b99d1/images/000",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-09T22:16:36.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26gRILmvxmlV85Rnt8f7teL2yju7XCZvowZVhFVBICZCm1SM-NFmG-RNvBw0fzohPw_wCl_iiGcFuYEqL39QurIDiIjjQ-QxXwt8FRiORBwo2",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
