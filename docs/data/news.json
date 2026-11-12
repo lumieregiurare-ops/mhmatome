@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-12T11:00:19.338Z",
+  "updatedAt": "2026-11-12T11:30:15.833Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 76,
+  "total": 74,
   "todayCount": 30,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 11
+      "count": 9
     },
     {
       "id": "sale",
@@ -57,12 +57,12 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 4
+      "count": 3
     },
     {
       "id": "other",
       "label": "その他",
-      "count": 42
+      "count": 43
     }
   ],
   "series": [
@@ -84,27 +84,27 @@
     {
       "id": "now",
       "label": "Now",
-      "count": 3
+      "count": 2
     },
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 1
+      "count": 0
     },
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 13
+      "count": 12
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 32
+      "count": 29
     },
     {
       "name": "YouTube",
-      "count": 21
+      "count": 22
     },
     {
       "name": "PR TIMES",
@@ -131,11 +131,11 @@
       "count": 1
     },
     {
-      "name": "https://mediadogs.jp/",
+      "name": "Howl.Link",
       "count": 1
     },
     {
-      "name": "Howl.Link",
+      "name": "https://mediadogs.jp/",
       "count": 1
     },
     {
@@ -303,22 +303,22 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-11-12T10:00:13.000Z",
       "sourceCount": 2,
-      "articleCount": 10,
+      "articleCount": 11,
       "categories": [
         "guide",
-        "other"
+        "sales"
       ],
       "keywords": [
         "アウトランダーズ",
         "モンハンアウトランダーズ",
-        "攻略"
+        "ランキング"
       ],
       "articles": [
         {
-          "title": "【モンハンアウトランダーズ】ストーリー攻略チャート【アウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/531933",
+          "title": "【モンハンアウトランダーズ】主人公(ヘビィボウガン)の評価とおすすめ装備・編成【アウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/577467",
           "source": "GameWith",
-          "publishedAt": "2026-11-12T09:46:20.000Z",
+          "publishedAt": "2026-11-12T09:46:08.000Z",
           "isPR": false
         },
         {
@@ -326,6 +326,13 @@
           "url": "https://gamewith.jp/mhoutlanders/586566",
           "source": "GameWith",
           "publishedAt": "2026-11-12T08:44:04.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンアウトランダーズ】主人公のおすすめ武器種と心得｜最強武器種ランキング【アウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/531944",
+          "source": "GameWith",
+          "publishedAt": "2026-11-12T08:30:41.000Z",
           "isPR": false
         },
         {
@@ -361,13 +368,6 @@
           "url": "https://youtu.be/7aeOnTYFbcs?si",
           "source": "YouTube",
           "publishedAt": "2026-11-12T03:45:07.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンアウトランダーズ】リセマラ当たりランキング【アウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/531925",
-          "source": "GameWith",
-          "publishedAt": "2026-11-12T03:32:13.000Z",
           "isPR": false
         }
       ]
@@ -444,13 +444,39 @@
       ]
     },
     {
-      "id": "e882dcbde3e1",
-      "title": "【モンハンNow】Season 11 対応版 アクセサリ完全ガイド｜入手方法・サブ効果・磨き直し・ロックピンを徹底解説",
+      "id": "4cc57244e695",
+      "title": "【モンハンワイルズ】視聴者参加型",
       "summary": "",
-      "url": "https://t.co/AEjSundDEB",
+      "url": "https://t.co/wwdo1MdHAW",
       "image": "",
       "leadSource": "Howl.Link",
-      "publishedAt": "2026-11-12T04:58:57.000Z",
+      "publishedAt": "2026-11-12T09:09:38.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "モンハンワイルズ"
+      ],
+      "articles": [
+        {
+          "title": "【モンハンワイルズ】いくよ、もう一人の僕（アルベド討伐）",
+          "url": "https://youtu.be/LdH2jDQqNRk?si",
+          "source": "YouTube",
+          "publishedAt": "2026-11-12T09:00:35.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "2144b819e046",
+      "title": "『モンハンNow』開催地にリスペクトを!! ハンターとしての心構えも重要なカーニバル2026大阪事前インタビュー第1弾【エリア＆体験編】",
+      "summary": "",
+      "url": "https://getnews.jp/archives/3754553",
+      "image": "https://rensai.jp/wp-content/uploads/2026/11/ff98cd565c992c8195430bff1bf91b05.jpg",
+      "leadSource": "ガジェット通信",
+      "publishedAt": "2026-11-11T11:00:53.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
@@ -502,12 +528,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-12T10:30:18.109Z",
-    "previousCount": 75,
-    "newCount": 1
+    "previousAt": "2026-11-12T11:00:19.338Z",
+    "previousCount": 76,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-12T11:30:19.338Z",
+  "nextUpdateAt": "2026-11-12T12:00:15.833Z",
   "items": [
     {
       "id": "3d596f6fe3e7",
@@ -531,14 +557,14 @@
       "isNew": false
     },
     {
-      "id": "83c2cd6f4a1b",
-      "title": "【モンハンアウトランダーズ】ストーリー攻略チャート【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531933",
+      "id": "139e9f532a51",
+      "title": "【モンハンアウトランダーズ】主人公(ヘビィボウガン)の評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577467",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-12T09:46:20.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531933.png?date=1793227277",
+      "publishedAt": "2026-11-12T09:46:08.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577467.png?date=1790214807",
       "categories": [
         "guide"
       ],
@@ -607,6 +633,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "4cc57244e695",
+      "title": "【モンハンワイルズ】視聴者参加型",
+      "url": "https://t.co/wwdo1MdHAW",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-11-12T09:09:38.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "7b11b9870af4",
@@ -779,27 +826,6 @@
       "isNew": false
     },
     {
-      "id": "139e9f532a51",
-      "title": "【モンハンアウトランダーズ】主人公(ヘビィボウガン)の評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577467",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-12T07:16:37.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577467.png?date=1790214807",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "60f3de2f47ec",
       "title": "【モンハンアウトランダーズ】最強キャラランキング【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/531927",
@@ -820,6 +846,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "7691bd1ec145",
+      "title": "『モンスターハンターパズル アイルーアイランド いつまでも版』 プロモーション映像（iOS/Android）",
+      "url": "https://youtu.be/Ul5eszl9kCc?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-12T06:54:18.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "484dd21a587e",
@@ -879,27 +924,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "e882dcbde3e1",
-      "title": "【モンハンNow】Season 11 対応版 アクセサリ完全ガイド｜入手方法・サブ効果・磨き直し・ロックピンを徹底解説",
-      "url": "https://t.co/AEjSundDEB",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-11-12T04:58:57.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "f60bd4113653",
@@ -1261,27 +1285,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "a08c6c03701c",
-      "title": "『モンスターハンターストーリーズ3 ～運命の双竜～』の販売本数が全世界で100万本を突破！",
-      "url": "https://gamewith.jp/gamedb/14083/articles/65640",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-11T07:59:40.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/14083/rectangle/65640.png?t=1794383987",
-      "categories": [
-        "sales"
-      ],
-      "series": [
-        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -2048,27 +2051,6 @@
       "categories": [
         "new",
         "event"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "c7f9d0b321c3",
-      "title": "【モンハンワイルズ】装飾品集めの効率的なやり方【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/487794",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-09T11:19:21.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/487794.png?date=1740863355",
-      "categories": [
-        "guide"
       ],
       "series": [
         "wilds"
