@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-12T11:30:15.833Z",
+  "updatedAt": "2026-11-12T12:00:16.540Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 74,
-  "todayCount": 30,
+  "total": 76,
+  "todayCount": 32,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 10
+      "count": 9
     },
     {
       "id": "update",
@@ -22,7 +22,7 @@
     {
       "id": "event",
       "label": "イベント・クエスト",
-      "count": 1
+      "count": 0
     },
     {
       "id": "collab",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 9
+      "count": 10
     },
     {
       "id": "sale",
@@ -57,19 +57,19 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 3
+      "count": 5
     },
     {
       "id": "other",
       "label": "その他",
-      "count": 43
+      "count": 44
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 36
+      "count": 35
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 8
+      "count": 9
     },
     {
       "id": "now",
@@ -89,22 +89,22 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 0
+      "count": 1
     },
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 12
+      "count": 15
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 29
+      "count": 33
     },
     {
       "name": "YouTube",
-      "count": 22
+      "count": 21
     },
     {
       "name": "PR TIMES",
@@ -119,23 +119,23 @@
       "count": 2
     },
     {
-      "name": "4Gamer",
+      "name": "Yahoo!ニュース",
       "count": 2
     },
     {
-      "name": "Yahoo!ニュース",
-      "count": 2
+      "name": "千葉テレビ放送株式会社",
+      "count": 1
     },
     {
       "name": "AppBank",
       "count": 1
     },
     {
-      "name": "Howl.Link",
+      "name": "https://mediadogs.jp/",
       "count": 1
     },
     {
-      "name": "https://mediadogs.jp/",
+      "name": "4Gamer",
       "count": 1
     },
     {
@@ -163,6 +163,10 @@
       "count": 1
     },
     {
+      "name": "4Gamer.net",
+      "count": 1
+    },
+    {
       "name": "電撃オンライン",
       "count": 1
     },
@@ -172,10 +176,6 @@
     },
     {
       "name": "電脳ライフ",
-      "count": 1
-    },
-    {
-      "name": "朝日新聞",
       "count": 1
     }
   ],
@@ -188,8 +188,8 @@
       "image": "https://www.4gamer.net/games/442/G044288/20261112017/SS/001.jpg",
       "leadSource": "4Gamer",
       "publishedAt": "2026-11-12T06:49:21.000Z",
-      "sourceCount": 4,
-      "articleCount": 4,
+      "sourceCount": 7,
+      "articleCount": 7,
       "categories": [
         "collab",
         "new"
@@ -215,11 +215,67 @@
           "isPR": false
         },
         {
+          "title": "「アークナイツ」と「モンスターハンター」がコラボ。詳細は後日案内",
+          "url": "https://www.4gamer.net/games/442/G044288/20261110043/screenshot.html?num",
+          "source": "4Gamer.net",
+          "publishedAt": "2026-11-10T11:28:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『アークナイツ』×『モンハン』約3年ぶりのコラボ決定！ 予告PVが公開、詳細は後日発表",
+          "url": "https://dengekionline.com/article/202611/93646",
+          "source": "電撃オンライン",
+          "publishedAt": "2026-11-10T10:08:00.000Z",
+          "isPR": false
+        },
+        {
           "title": "『アークナイツ』が『モンスターハンター』とのコラボを発表。2023年の「紅炎遣らう落葉」以来、約3年ぶり",
           "url": "https://news.denfaminicogamer.jp/news/2611102p",
           "source": "電ファミニコゲーマー",
           "publishedAt": "2026-11-10T08:25:00.000Z",
           "isPR": false
+        },
+        {
+          "title": "アークナイツ × モンスターハンター コラボ予告PV",
+          "url": "https://youtu.be/op1CdvFEoQE?si",
+          "source": "YouTube",
+          "publishedAt": "2026-11-10T08:00:30.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "53026238df06",
+      "title": "サービス終了予定の『モンスターハンターパズル アイルーアイランド』買い切り版発売、その名も『いつまでも版』。アイルーたちと、どこでもずっと一緒",
+      "summary": "カプコンは11月12日、パズルゲーム『モンスターハンターパズル アイルーアイランド いつまでも版』を配信した。",
+      "url": "https://automaton-media.com/articles/newsjp/20261112-478924/",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261112-478924-header.jpg",
+      "leadSource": "AUTOMATON",
+      "publishedAt": "2026-11-12T10:57:00.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "モンスターハンターパズル",
+        "アイルーアイランド",
+        "アイルー"
+      ],
+      "articles": [
+        {
+          "title": "「モンスターハンターパズル アイルーアイランド いつまでも版」が登場！「モンスターハンター」のパズルゲームが“いつでも、どこでも、いつまでも”プレイできる",
+          "url": "https://www.chiba-tv.com/plus/detail/2026112217586",
+          "source": "千葉テレビ放送株式会社",
+          "publishedAt": "2026-11-12T10:57:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "モンスターハンターのパズルゲームが“いつでも、どこでも、いつまでも”プレイできる『モンスターハンターパズル アイルーアイランド いつまでも版』登場！！ | 株式会社カプコンのプレスリリース",
+          "url": "https://prtimes.jp/main/html/rd/p/000006146.000013450.html",
+          "source": "PR TIMES",
+          "publishedAt": "2026-11-12T09:30:02.000Z",
+          "isPR": true
         }
       ]
     },
@@ -259,51 +315,15 @@
       ]
     },
     {
-      "id": "d4a573f32f4b",
-      "title": "「アークナイツ」と「モンスターハンター」がコラボ。詳細は後日案内",
-      "summary": "2026年11月10日，Yostarが運営する「アークナイツ」の公式Xで，カプコンが手掛ける「モンスターハンター」とのコラボレーション決定が告知された。現在はプロモーションムービーが公開されており，後日，詳細が案内されるとのこと。",
-      "url": "https://www.4gamer.net/games/442/G044288/20261110043/",
-      "image": "https://www.4gamer.net/games/442/G044288/20261110043/SS/001.jpg",
-      "leadSource": "4Gamer",
-      "publishedAt": "2026-11-10T11:28:45.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "collab",
-        "new"
-      ],
-      "keywords": [
-        "アークナイツ",
-        "コラボ",
-        "詳細"
-      ],
-      "articles": [
-        {
-          "title": "『アークナイツ』×『モンハン』約3年ぶりのコラボ決定！ 予告PVが公開、詳細は後日発表",
-          "url": "https://dengekionline.com/article/202611/93646",
-          "source": "電撃オンライン",
-          "publishedAt": "2026-11-10T10:08:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "アークナイツ × モンスターハンター コラボ予告PV",
-          "url": "https://youtu.be/op1CdvFEoQE?si",
-          "source": "YouTube",
-          "publishedAt": "2026-11-10T08:00:30.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "3d596f6fe3e7",
-      "title": "【モンハンアウトランダーズ】序盤の効率的な進め方【アウトランダーズ】",
+      "id": "dfc9a93b7fb2",
+      "title": "【モンハンアウトランダーズ】最強オトモランキング【アウトランダーズ】",
       "summary": "",
-      "url": "https://gamewith.jp/mhoutlanders/531932",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531932.png?date=1789010047",
+      "url": "https://gamewith.jp/mhoutlanders/559653",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559653.png?date=1791852831",
       "leadSource": "GameWith",
-      "publishedAt": "2026-11-12T10:00:13.000Z",
+      "publishedAt": "2026-11-12T10:44:25.000Z",
       "sourceCount": 2,
-      "articleCount": 11,
+      "articleCount": 10,
       "categories": [
         "guide",
         "sales"
@@ -315,10 +335,10 @@
       ],
       "articles": [
         {
-          "title": "【モンハンアウトランダーズ】主人公(ヘビィボウガン)の評価とおすすめ装備・編成【アウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/577467",
+          "title": "【モンハンアウトランダーズ】序盤の効率的な進め方【アウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/531932",
           "source": "GameWith",
-          "publishedAt": "2026-11-12T09:46:08.000Z",
+          "publishedAt": "2026-11-12T10:00:13.000Z",
           "isPR": false
         },
         {
@@ -326,13 +346,6 @@
           "url": "https://gamewith.jp/mhoutlanders/586566",
           "source": "GameWith",
           "publishedAt": "2026-11-12T08:44:04.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンアウトランダーズ】主人公のおすすめ武器種と心得｜最強武器種ランキング【アウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/531944",
-          "source": "GameWith",
-          "publishedAt": "2026-11-12T08:30:41.000Z",
           "isPR": false
         },
         {
@@ -368,6 +381,13 @@
           "url": "https://youtu.be/7aeOnTYFbcs?si",
           "source": "YouTube",
           "publishedAt": "2026-11-12T03:45:07.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンアウトランダーズ】リセマラ当たりランキング【アウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/531925",
+          "source": "GameWith",
+          "publishedAt": "2026-11-12T03:32:13.000Z",
           "isPR": false
         }
       ]
@@ -411,60 +431,6 @@
           "url": "https://gamewith.jp/mhwilds/571203",
           "source": "GameWith",
           "publishedAt": "2026-11-10T01:02:22.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "53026238df06",
-      "title": "サービス終了予定の『モンスターハンターパズル アイルーアイランド』買い切り版発売、その名も『いつまでも版』。アイルーたちと、どこでもずっと一緒",
-      "summary": "カプコンは11月12日、パズルゲーム『モンスターハンターパズル アイルーアイランド いつまでも版』を配信した。",
-      "url": "https://automaton-media.com/articles/newsjp/20261112-478924/",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261112-478924-header.jpg",
-      "leadSource": "AUTOMATON",
-      "publishedAt": "2026-11-12T09:30:02.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other"
-      ],
-      "keywords": [
-        "モンスターハンターパズル",
-        "アイルーアイランド",
-        "アイルー"
-      ],
-      "articles": [
-        {
-          "title": "モンスターハンターのパズルゲームが“いつでも、どこでも、いつまでも”プレイできる『モンスターハンターパズル アイルーアイランド いつまでも版』登場！！",
-          "url": "https://prtimes.jp/main/html/rd/p/000006146.000013450.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-11-12T09:30:02.000Z",
-          "isPR": true
-        }
-      ]
-    },
-    {
-      "id": "4cc57244e695",
-      "title": "【モンハンワイルズ】視聴者参加型",
-      "summary": "",
-      "url": "https://t.co/wwdo1MdHAW",
-      "image": "",
-      "leadSource": "Howl.Link",
-      "publishedAt": "2026-11-12T09:09:38.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other"
-      ],
-      "keywords": [
-        "モンハンワイルズ"
-      ],
-      "articles": [
-        {
-          "title": "【モンハンワイルズ】いくよ、もう一人の僕（アルベド討伐）",
-          "url": "https://youtu.be/LdH2jDQqNRk?si",
-          "source": "YouTube",
-          "publishedAt": "2026-11-12T09:00:35.000Z",
           "isPR": false
         }
       ]
@@ -528,13 +494,54 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-12T11:00:19.338Z",
-    "previousCount": 76,
-    "newCount": 2
+    "previousAt": "2026-11-12T11:30:15.833Z",
+    "previousCount": 74,
+    "newCount": 6
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-12T12:00:15.833Z",
+  "nextUpdateAt": "2026-11-12T12:30:16.540Z",
   "items": [
+    {
+      "id": "342c17076c45",
+      "title": "「モンスターハンターパズル アイルーアイランド いつまでも版」が登場！「モンスターハンター」のパズルゲームが“いつでも、どこでも、いつまでも”プレイできる",
+      "url": "https://www.chiba-tv.com/plus/detail/2026112217586",
+      "host": "chiba-tv.com",
+      "source": "千葉テレビ放送株式会社",
+      "summary": "",
+      "publishedAt": "2026-11-12T10:57:00.000Z",
+      "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1493565647342306757/origin_1.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "dfc9a93b7fb2",
+      "title": "【モンハンアウトランダーズ】最強オトモランキング【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/559653",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-12T10:44:25.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559653.png?date=1791852831",
+      "categories": [
+        "guide",
+        "sales"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "3d596f6fe3e7",
       "title": "【モンハンアウトランダーズ】序盤の効率的な進め方【アウトランダーズ】",
@@ -598,7 +605,7 @@
     },
     {
       "id": "cbd83b62f8e1",
-      "title": "モンスターハンターのパズルゲームが“いつでも、どこでも、いつまでも”プレイできる『モンスターハンターパズル アイルーアイランド いつまでも版』登場！！",
+      "title": "モンスターハンターのパズルゲームが“いつでも、どこでも、いつまでも”プレイできる『モンスターハンターパズル アイルーアイランド いつまでも版』登場！！ | 株式会社カプコンのプレスリリース",
       "url": "https://prtimes.jp/main/html/rd/p/000006146.000013450.html",
       "host": "prtimes.jp",
       "source": "PR TIMES",
@@ -633,27 +640,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "4cc57244e695",
-      "title": "【モンハンワイルズ】視聴者参加型",
-      "url": "https://t.co/wwdo1MdHAW",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-11-12T09:09:38.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "7b11b9870af4",
@@ -762,6 +748,27 @@
       "isNew": false
     },
     {
+      "id": "c9cd694c1431",
+      "title": "【モンハンアウトランダーズ】巨木の原野のマップ一覧【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/560129",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-12T08:05:11.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560129.png?date=1793225833",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "2f0089ca1b55",
       "title": "【MHWilds】★9 道を蝕み戻らぬ者よ 歴戦ゴアマガラ ヘビィボウガン 13’56”82【モンハンワイルズ】",
       "url": "https://youtu.be/yg_SyAvtN2I?si",
@@ -864,7 +871,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "484dd21a587e",
@@ -989,6 +996,25 @@
       "isNew": false
     },
     {
+      "id": "e6d79acfa4bd",
+      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
+      "url": "https://gamewith.jp/mhwilds/563096",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-12T01:05:32.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
+      "categories": [
+        "guide"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "1bac6f2c41ec",
       "title": "『モンスターハンターNowカーニバル 2026：大阪』で限定グッズ販売を実施",
       "url": "https://prtimes.jp/main/html/rd/p/000000164.000117325.html",
@@ -1100,25 +1126,6 @@
       "series": [
         "world"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "c2478d73720d",
-      "title": "MHXX 超特殊許可 荒鉤爪ティガレックス モンハン初心者ガンナー超特殊許可制覇したい モラクディアーカ",
-      "url": "https://youtu.be/15nhTckKFDc?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-11T15:44:02.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1293,6 +1300,49 @@
       "isNew": false
     },
     {
+      "id": "a08c6c03701c",
+      "title": "『モンスターハンターストーリーズ3 ～運命の双竜～』の販売本数が全世界で100万本を突破！",
+      "url": "https://gamewith.jp/gamedb/14083/articles/65640",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-11T07:59:40.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/14083/rectangle/65640.png?t=1794383987",
+      "categories": [
+        "sales"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "f052f0efe1cc",
+      "title": "【MHWilds】歴戦王アルシュベルド3pt非火事場チャージアックス07‘10“88【フリチャレ5-2】",
+      "url": "https://youtu.be/yjLaJe0aNzI?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-11T07:40:26.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "37a39cd4ae92",
       "title": "【MHWilds】歴戦王アルシュベルド4pt非火事場チャージアックス06‘38“01【フリチャレ5-2】",
       "url": "https://youtu.be/QfFETBnx1gM?si",
@@ -1421,25 +1471,6 @@
       "isNew": false
     },
     {
-      "id": "4a616f8a31f5",
-      "title": "【サブチャンネル】Twitter向けショート動画 ピッケルで鉱脈掘るだけでも楽しいｗｗｗ #shorts #モンスターハンター",
-      "url": "https://youtu.be/8Vvv1VRIBA0",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-11T03:15:14.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "fdbd2477ccdb",
       "title": "【MHWilds/PS5】生き誇れ、野生の仔 フリーチャレンジクエスト 歴戦王アルシュベルド 弓火事場(60FPS) 討伐5:56:14",
       "url": "https://youtu.be/CiJP0CYHR0k?si",
@@ -1502,6 +1533,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "0bae2c965596",
+      "title": "【モンハンアウトランダーズ】巡林隊物資の入手方法と場所チェッカー【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/581419",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-11T01:34:32.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/581419.png?date=1792069443",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "35280c407c34",
@@ -1583,25 +1635,6 @@
         "wilds",
         "world"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e6d79acfa4bd",
-      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
-      "url": "https://gamewith.jp/mhwilds/563096",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-11T00:11:10.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
-      "categories": [
-        "guide"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1821,11 +1854,11 @@
     {
       "id": "d4a573f32f4b",
       "title": "「アークナイツ」と「モンスターハンター」がコラボ。詳細は後日案内",
-      "url": "https://www.4gamer.net/games/442/G044288/20261110043/",
+      "url": "https://www.4gamer.net/games/442/G044288/20261110043/screenshot.html?num",
       "host": "4gamer.net",
-      "source": "4Gamer",
-      "summary": "2026年11月10日，Yostarが運営する「アークナイツ」の公式Xで，カプコンが手掛ける「モンスターハンター」とのコラボレーション決定が告知された。現在はプロモーションムービーが公開されており，後日，詳細が案内されるとのこと。",
-      "publishedAt": "2026-11-10T11:28:45.000Z",
+      "source": "4Gamer.net",
+      "summary": "",
+      "publishedAt": "2026-11-10T11:28:00.000Z",
       "image": "https://www.4gamer.net/games/442/G044288/20261110043/SS/001.jpg",
       "categories": [
         "collab"
@@ -2029,28 +2062,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/492800.png?date=1744168629",
       "categories": [
         "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "788e34d296d4",
-      "title": "Nintendo Switch 2 版『モンスターハンターワイルズ』予約開始記念キャンペーン開催！",
-      "url": "https://www.asahi.com/and/pressrelease/16878969",
-      "host": "asahi.com",
-      "source": "朝日新聞",
-      "summary": "",
-      "publishedAt": "2026-11-09T11:34:02.000Z",
-      "image": "",
-      "categories": [
-        "new",
-        "event"
       ],
       "series": [
         "wilds"
