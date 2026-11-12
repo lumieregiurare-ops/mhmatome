@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-11T23:30:16.169Z",
+  "updatedAt": "2026-11-12T00:00:18.003Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 83,
+  "total": 84,
   "todayCount": 5,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 23
+      "count": 24
     },
     {
       "id": "sale",
@@ -94,13 +94,13 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 21
+      "count": 22
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 43
+      "count": 44
     },
     {
       "name": "YouTube",
@@ -435,12 +435,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-11T23:00:17.142Z",
-    "previousCount": 82,
+    "previousAt": "2026-11-11T23:30:16.169Z",
+    "previousCount": 83,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-12T00:00:16.169Z",
+  "nextUpdateAt": "2026-11-12T00:30:18.003Z",
   "items": [
     {
       "id": "78a50058f6c0",
@@ -520,7 +520,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "162844623a7f",
@@ -983,6 +983,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "76d489f903de",
+      "title": "【モンハンアウトランダーズ】キートンの性能とおすすめキャラ【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577652",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-11T03:55:03.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577652.png?date=1790215752",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "60efd86f7108",
