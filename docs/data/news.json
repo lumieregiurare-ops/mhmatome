@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-12T00:30:17.411Z",
+  "updatedAt": "2026-11-12T01:00:17.134Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 83,
-  "todayCount": 6,
+  "total": 82,
+  "todayCount": 7,
   "categories": [
     {
       "id": "new",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 41
+      "count": 40
     }
   ],
   "series": [
@@ -84,7 +84,7 @@
     {
       "id": "now",
       "label": "Now",
-      "count": 3
+      "count": 2
     },
     {
       "id": "stories",
@@ -111,11 +111,11 @@
       "count": 4
     },
     {
-      "name": "ガジェット通信",
-      "count": 2
+      "name": "インサイド",
+      "count": 1
     },
     {
-      "name": "インサイド",
+      "name": "ガジェット通信",
       "count": 1
     },
     {
@@ -449,12 +449,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-12T00:00:18.003Z",
-    "previousCount": 84,
+    "previousAt": "2026-11-12T00:30:17.411Z",
+    "previousCount": 83,
     "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-12T01:00:17.411Z",
+  "nextUpdateAt": "2026-11-12T01:30:17.134Z",
   "items": [
     {
       "id": "162844623a7f",
@@ -486,6 +486,28 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531932.png?date=1789010047",
       "categories": [
         "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "60f3de2f47ec",
+      "title": "【モンハンアウトランダーズ】最強キャラランキング【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531927",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-11T23:07:07.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531927.png?date=1793082334",
+      "categories": [
+        "guide",
+        "sales"
       ],
       "series": [
         "outlanders"
@@ -608,28 +630,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577467.png?date=1790214807",
       "categories": [
         "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "60f3de2f47ec",
-      "title": "【モンハンアウトランダーズ】最強キャラランキング【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531927",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-11T13:25:26.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531927.png?date=1793082334",
-      "categories": [
-        "guide",
-        "sales"
       ],
       "series": [
         "outlanders"
@@ -2157,27 +2157,6 @@
       ],
       "series": [
         "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "562ce3f05940",
-      "title": "『モンハンNow』アクセサリの磨き直しが超捗る!! 環境がかなり美味しい大連続狩猟ウィークガイド",
-      "url": "https://getnews.jp/archives/3753837",
-      "host": "getnews.jp",
-      "source": "ガジェット通信",
-      "summary": "",
-      "publishedAt": "2026-11-09T00:30:38.000Z",
-      "image": "https://rensai.jp/wp-content/uploads/2026/11/e8ffeaf4c730144dc093e738fba8b90f.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "now"
       ],
       "isOfficial": false,
       "isPR": false,
