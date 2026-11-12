@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-12T12:00:16.540Z",
+  "updatedAt": "2026-11-12T12:30:16.357Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 76,
-  "todayCount": 32,
+  "total": 77,
+  "todayCount": 35,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 10
+      "count": 11
     },
     {
       "id": "sale",
@@ -52,7 +52,7 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 1
+      "count": 2
     },
     {
       "id": "sales",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 44
+      "count": 43
     }
   ],
   "series": [
@@ -84,7 +84,7 @@
     {
       "id": "now",
       "label": "Now",
-      "count": 2
+      "count": 3
     },
     {
       "id": "stories",
@@ -100,11 +100,15 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 33
+      "count": 32
     },
     {
       "name": "YouTube",
-      "count": 21
+      "count": 22
+    },
+    {
+      "name": "ガジェット通信",
+      "count": 2
     },
     {
       "name": "PR TIMES",
@@ -144,10 +148,6 @@
     },
     {
       "name": "AppMedia",
-      "count": 1
-    },
-    {
-      "name": "ガジェット通信",
       "count": 1
     },
     {
@@ -323,7 +323,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-11-12T10:44:25.000Z",
       "sourceCount": 2,
-      "articleCount": 10,
+      "articleCount": 11,
       "categories": [
         "guide",
         "sales"
@@ -334,6 +334,13 @@
         "ランキング"
       ],
       "articles": [
+        {
+          "title": "【モンハンアウトランダーズ】冒険の始まり！キャラクリから初戦闘まで #01【実況なし】",
+          "url": "https://youtu.be/0I16Z8Wd23w?si",
+          "source": "YouTube",
+          "publishedAt": "2026-11-12T10:00:27.000Z",
+          "isPR": false
+        },
         {
           "title": "【モンハンアウトランダーズ】序盤の効率的な進め方【アウトランダーズ】",
           "url": "https://gamewith.jp/mhoutlanders/531932",
@@ -382,13 +389,6 @@
           "source": "YouTube",
           "publishedAt": "2026-11-12T03:45:07.000Z",
           "isPR": false
-        },
-        {
-          "title": "【モンハンアウトランダーズ】リセマラ当たりランキング【アウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/531925",
-          "source": "GameWith",
-          "publishedAt": "2026-11-12T03:32:13.000Z",
-          "isPR": false
         }
       ]
     },
@@ -436,17 +436,16 @@
       ]
     },
     {
-      "id": "2144b819e046",
-      "title": "『モンハンNow』開催地にリスペクトを!! ハンターとしての心構えも重要なカーニバル2026大阪事前インタビュー第1弾【エリア＆体験編】",
+      "id": "70725b0ae126",
+      "title": "『モンハンNow』次元ナルガ＆アマツ攻略法は!? 新たな武器調整や新コンテンツなど未来を覗くインタビュー第2弾【新環境＆未来編】",
       "summary": "",
-      "url": "https://getnews.jp/archives/3754553",
-      "image": "https://rensai.jp/wp-content/uploads/2026/11/ff98cd565c992c8195430bff1bf91b05.jpg",
+      "url": "https://getnews.jp/archives/3754771",
+      "image": "https://rensai.jp/wp-content/uploads/2026/11/05ff8ab245100b9306920baba8812413.jpg",
       "leadSource": "ガジェット通信",
-      "publishedAt": "2026-11-11T11:00:53.000Z",
+      "publishedAt": "2026-11-12T12:00:08.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
-        "other",
         "guide"
       ],
       "keywords": [
@@ -494,13 +493,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-12T11:30:15.833Z",
-    "previousCount": 74,
-    "newCount": 6
+    "previousAt": "2026-11-12T12:00:16.540Z",
+    "previousCount": 76,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-12T12:30:16.540Z",
+  "nextUpdateAt": "2026-11-12T13:00:16.357Z",
   "items": [
+    {
+      "id": "70725b0ae126",
+      "title": "『モンハンNow』次元ナルガ＆アマツ攻略法は!? 新たな武器調整や新コンテンツなど未来を覗くインタビュー第2弾【新環境＆未来編】",
+      "url": "https://getnews.jp/archives/3754771",
+      "host": "getnews.jp",
+      "source": "ガジェット通信",
+      "summary": "",
+      "publishedAt": "2026-11-12T12:00:08.000Z",
+      "image": "https://rensai.jp/wp-content/uploads/2026/11/05ff8ab245100b9306920baba8812413.jpg",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "342c17076c45",
       "title": "「モンスターハンターパズル アイルーアイランド いつまでも版」が登場！「モンスターハンター」のパズルゲームが“いつでも、どこでも、いつまでも”プレイできる",
@@ -518,7 +538,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "dfc9a93b7fb2",
@@ -532,6 +552,27 @@
       "categories": [
         "guide",
         "sales"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "ed2cbd323b69",
+      "title": "【モンハンアウトランダーズ】冒険の始まり！キャラクリから初戦闘まで #01【実況なし】",
+      "url": "https://youtu.be/0I16Z8Wd23w?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-12T10:00:27.000Z",
+      "image": "",
+      "categories": [
+        "community"
       ],
       "series": [
         "outlanders"
@@ -766,7 +807,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2f0089ca1b55",
@@ -820,6 +861,27 @@
       "summary": "",
       "publishedAt": "2026-11-12T07:39:06.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531931.png?date=1793082187",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "35280c407c34",
+      "title": "【モンハンアウトランダーズ】フィールド探索(ミニゲーム)一覧と報酬【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/560157",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-12T07:17:05.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560157.png?date=1790313316",
       "categories": [
         "other"
       ],
@@ -1318,7 +1380,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f052f0efe1cc",
@@ -1340,7 +1402,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "37a39cd4ae92",
@@ -1527,48 +1589,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "0bae2c965596",
-      "title": "【モンハンアウトランダーズ】巡林隊物資の入手方法と場所チェッカー【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/581419",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-11T01:34:32.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/581419.png?date=1792069443",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "35280c407c34",
-      "title": "【モンハンアウトランダーズ】フィールド探索(ミニゲーム)一覧と報酬【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/560157",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-11T01:33:58.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560157.png?date=1790313316",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
