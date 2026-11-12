@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T20:00:18.162Z",
+  "updatedAt": "2026-11-12T20:30:26.147Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 73,
-  "todayCount": 3,
+  "todayCount": 4,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 10
+      "count": 11
     },
     {
       "id": "sale",
@@ -57,19 +57,19 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 2
+      "count": 3
     },
     {
       "id": "other",
       "label": "その他",
-      "count": 41
+      "count": 40
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 34
+      "count": 32
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 5
+      "count": 4
     },
     {
       "id": "now",
@@ -94,17 +94,17 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 14
+      "count": 16
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 29
+      "count": 31
     },
     {
       "name": "YouTube",
-      "count": 18
+      "count": 17
     },
     {
       "name": "ガジェット通信",
@@ -112,10 +112,6 @@
     },
     {
       "name": "AUTOMATON",
-      "count": 2
-    },
-    {
-      "name": "Howl.Link",
       "count": 2
     },
     {
@@ -136,6 +132,10 @@
     },
     {
       "name": "PR EDGE",
+      "count": 1
+    },
+    {
+      "name": "Howl.Link",
       "count": 1
     },
     {
@@ -405,7 +405,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-11-12T18:11:28.000Z",
       "sourceCount": 2,
-      "articleCount": 11,
+      "articleCount": 9,
       "categories": [
         "other",
         "guide"
@@ -413,21 +413,14 @@
       "keywords": [
         "アウトランダーズ",
         "モンハンアウトランダーズ",
-        "ランキング"
+        "キャラ"
       ],
       "articles": [
         {
-          "title": "【モンハンアウトランダーズ】主人公のおすすめ武器種と心得｜最強武器種ランキング【アウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/531944",
+          "title": "【モンハンアウトランダーズ】最強キャラランキング【アウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/531927",
           "source": "GameWith",
-          "publishedAt": "2026-11-12T15:56:17.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンアウトランダーズ】主人公(ヘビィボウガン)の評価とおすすめ装備・編成【アウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/577467",
-          "source": "GameWith",
-          "publishedAt": "2026-11-12T13:44:13.000Z",
+          "publishedAt": "2026-11-12T16:40:24.000Z",
           "isPR": false
         },
         {
@@ -435,13 +428,6 @@
           "url": "https://gamewith.jp/mhoutlanders/531932",
           "source": "GameWith",
           "publishedAt": "2026-11-12T13:39:31.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンアウトランダーズ】リセマラ当たりランキング【アウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/531925",
-          "source": "GameWith",
-          "publishedAt": "2026-11-12T13:15:16.000Z",
           "isPR": false
         },
         {
@@ -470,6 +456,20 @@
           "url": "https://youtu.be/7aeOnTYFbcs?si",
           "source": "YouTube",
           "publishedAt": "2026-11-12T03:45:07.000Z",
+          "isPR": false
+        },
+        {
+          "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
+          "url": "https://gamewith.jp/mhwilds/563096",
+          "source": "GameWith",
+          "publishedAt": "2026-11-12T01:05:32.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンアウトランダーズ】ペイゾンの性能とおすすめキャラ【アウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/577658",
+          "source": "GameWith",
+          "publishedAt": "2026-11-11T03:54:58.000Z",
           "isPR": false
         }
       ]
@@ -505,12 +505,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-12T19:30:16.699Z",
-    "previousCount": 74,
+    "previousAt": "2026-11-12T20:00:18.162Z",
+    "previousCount": 73,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-12T20:30:18.162Z",
+  "nextUpdateAt": "2026-11-12T21:00:26.147Z",
   "items": [
     {
       "id": "278fbd5d3ae7",
@@ -532,6 +532,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "60f3de2f47ec",
+      "title": "【モンハンアウトランダーズ】最強キャラランキング【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531927",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-12T16:40:24.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531927.png?date=1793082334",
+      "categories": [
+        "guide",
+        "sales"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "b5d6fe40ab2e",
@@ -743,6 +765,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "ea27694f7437",
+      "title": "【モンハンアウトランダーズ】リセマラのやり方と所要時間｜何連引ける？【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531931",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-12T11:58:22.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531931.png?date=1793082187",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "342c17076c45",
@@ -1172,6 +1215,27 @@
       "isNew": false
     },
     {
+      "id": "ba708ad1ce88",
+      "title": "【モンハンワイルズ】序盤体験版のはどこまで遊べる？引き継ぎ方法【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/571203",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-12T01:37:25.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/571203.png?date=1794182530",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "e6d79acfa4bd",
       "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
       "url": "https://gamewith.jp/mhwilds/563096",
@@ -1267,27 +1331,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "cfa20881c7e4",
-      "title": "【モンハンワイルズ】紙おまやったらパンパンやな【参加型】",
-      "url": "https://t.co/D7clj9mxuO",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-11-11T19:59:23.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "468d57e39da7",
@@ -1497,28 +1540,6 @@
       "isNew": false
     },
     {
-      "id": "f052f0efe1cc",
-      "title": "【MHWilds】歴戦王アルシュベルド3pt非火事場チャージアックス07‘10“88【フリチャレ5-2】",
-      "url": "https://youtu.be/yjLaJe0aNzI?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-11T07:40:26.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "37a39cd4ae92",
       "title": "【MHWilds】歴戦王アルシュベルド4pt非火事場チャージアックス06‘38“01【フリチャレ5-2】",
       "url": "https://youtu.be/QfFETBnx1gM?si",
@@ -1601,7 +1622,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f529da9f5ece",
@@ -1946,27 +1967,6 @@
         "collab"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ba708ad1ce88",
-      "title": "【モンハンワイルズ】序盤体験版のはどこまで遊べる？引き継ぎ方法【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/571203",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-10T01:02:22.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/571203.png?date=1794182530",
-      "categories": [
-        "new"
-      ],
-      "series": [
-        "wilds"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
