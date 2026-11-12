@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-12T20:30:26.147Z",
+  "updatedAt": "2026-11-12T21:00:17.535Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 73,
-  "todayCount": 4,
+  "total": 74,
+  "todayCount": 5,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 11
+      "count": 10
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 40
+      "count": 42
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 32
+      "count": 33
     },
     {
       "id": "rise",
@@ -100,11 +100,11 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 31
+      "count": 30
     },
     {
       "name": "YouTube",
-      "count": 17
+      "count": 18
     },
     {
       "name": "ガジェット通信",
@@ -112,6 +112,10 @@
     },
     {
       "name": "AUTOMATON",
+      "count": 2
+    },
+    {
+      "name": "Howl.Link",
       "count": 2
     },
     {
@@ -132,10 +136,6 @@
     },
     {
       "name": "PR EDGE",
-      "count": 1
-    },
-    {
-      "name": "Howl.Link",
       "count": 1
     },
     {
@@ -413,7 +413,7 @@
       "keywords": [
         "アウトランダーズ",
         "モンハンアウトランダーズ",
-        "キャラ"
+        "エアルダ"
       ],
       "articles": [
         {
@@ -421,6 +421,13 @@
           "url": "https://gamewith.jp/mhoutlanders/531927",
           "source": "GameWith",
           "publishedAt": "2026-11-12T16:40:24.000Z",
+          "isPR": false
+        },
+        {
+          "title": "本編モンハンアウトランダーズ 精鋭 ルガエアルダ戦 ソロ",
+          "url": "https://youtu.be/NzCvM1ImE_M?si",
+          "source": "YouTube",
+          "publishedAt": "2026-11-12T16:22:49.000Z",
           "isPR": false
         },
         {
@@ -464,13 +471,6 @@
           "source": "GameWith",
           "publishedAt": "2026-11-12T01:05:32.000Z",
           "isPR": false
-        },
-        {
-          "title": "【モンハンアウトランダーズ】ペイゾンの性能とおすすめキャラ【アウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/577658",
-          "source": "GameWith",
-          "publishedAt": "2026-11-11T03:54:58.000Z",
-          "isPR": false
         }
       ]
     },
@@ -505,12 +505,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-12T20:00:18.162Z",
+    "previousAt": "2026-11-12T20:30:26.147Z",
     "previousCount": 73,
-    "newCount": 2
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-12T21:00:26.147Z",
+  "nextUpdateAt": "2026-11-12T21:30:17.535Z",
   "items": [
     {
       "id": "278fbd5d3ae7",
@@ -553,7 +553,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b5d6fe40ab2e",
@@ -575,6 +575,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "dc03cfaf2fd7",
+      "title": "本編モンハンアウトランダーズ 精鋭 ルガエアルダ戦 ソロ",
+      "url": "https://youtu.be/NzCvM1ImE_M?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-12T16:22:49.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "12d1ac4d89b6",
@@ -785,7 +806,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "342c17076c45",
@@ -1333,6 +1354,27 @@
       "isNew": false
     },
     {
+      "id": "cfa20881c7e4",
+      "title": "【モンハンワイルズ】紙おまやったらパンパンやな【参加型】",
+      "url": "https://t.co/D7clj9mxuO",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-11-11T19:59:23.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "468d57e39da7",
       "title": "【モンハンワイルズ】歴戦王アルシュベルド(フリーチャレンジ)のSランクの取り方とチャーム【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/548752",
@@ -1540,13 +1582,13 @@
       "isNew": false
     },
     {
-      "id": "37a39cd4ae92",
-      "title": "【MHWilds】歴戦王アルシュベルド4pt非火事場チャージアックス06‘38“01【フリチャレ5-2】",
-      "url": "https://youtu.be/QfFETBnx1gM?si",
+      "id": "f052f0efe1cc",
+      "title": "【MHWilds】歴戦王アルシュベルド3pt非火事場チャージアックス07‘10“88【フリチャレ5-2】",
+      "url": "https://youtu.be/yjLaJe0aNzI?si",
       "host": "youtu.be",
       "source": "YouTube",
       "summary": "",
-      "publishedAt": "2026-11-11T07:40:09.000Z",
+      "publishedAt": "2026-11-11T07:40:26.000Z",
       "image": "",
       "categories": [
         "other"
@@ -1559,7 +1601,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "db5383af28fd",
@@ -1596,27 +1638,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "1aa840bc698f",
-      "title": "【モンハンアウトランダーズ】ペイゾンの性能とおすすめキャラ【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577658",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-11T03:54:58.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577658.png?date=1790216003",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1996,13 +2017,13 @@
     },
     {
       "id": "d0c3a1035c51",
-      "title": "『モンハン』デフォルメでも圧倒的威圧感…！「金獅子ラージャン」通常種と激昂した状態の2種がプライズ展開（インサイド）",
-      "url": "https://news.yahoo.co.jp/articles/76c1ddb824068c86a6b6143cc36cab6ad19b99d1",
+      "title": "『モンハン』デフォルメでも圧倒的威圧感…！「金獅子ラージャン」通常種と激昂した状態の2種がプライズ展開 (インサイド)",
+      "url": "https://news.yahoo.co.jp/articles/76c1ddb824068c86a6b6143cc36cab6ad19b99d1/images/000",
       "host": "news.yahoo.co.jp",
       "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-11-09T21:10:03.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261110-00000003-isd-000-1-view.jpg?exp=10800",
+      "publishedAt": "2026-11-09T22:16:36.000Z",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26gRILmvxmlV85Rnt8f7teL2yju7XCZvowZVhFVBICZCm1SM-NFmG-RNvBw0fzohPw_wCl_iiGcFuYEqL39QurIDiIjjQ-QxXwt8FRiORBwo2",
       "categories": [
         "goods"
       ],
