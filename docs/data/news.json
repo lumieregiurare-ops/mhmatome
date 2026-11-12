@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-12T09:00:18.246Z",
+  "updatedAt": "2026-11-12T09:30:15.939Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 71,
-  "todayCount": 20,
+  "total": 72,
+  "todayCount": 22,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 9
+      "count": 8
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 40
+      "count": 42
     }
   ],
   "series": [
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 9
+      "count": 10
     },
     {
       "id": "now",
@@ -100,11 +100,15 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 30
+      "count": 29
     },
     {
       "name": "YouTube",
-      "count": 22
+      "count": 23
+    },
+    {
+      "name": "AUTOMATON",
+      "count": 2
     },
     {
       "name": "電ファミニコゲーマー",
@@ -156,10 +160,6 @@
     },
     {
       "name": "ゴゴ通信",
-      "count": 1
-    },
-    {
-      "name": "AUTOMATON",
       "count": 1
     },
     {
@@ -252,18 +252,96 @@
       ]
     },
     {
-      "id": "db5383af28fd",
-      "title": "『モンハンワイルズ：アセンダンス』ベータテスト実施の日が近い？Steam本編オープンベータ用アプリの名称と画像が更新",
-      "summary": "SteamDBにて確認。RedditではThe Game Awardsで発表されるのではとの予測も。",
-      "url": "http://www.gamespark.jp/article/2026/11/11/174746.html",
-      "image": "http://www.gamespark.jp/imgs/rss/1218091.jpg",
-      "leadSource": "Game*Spark",
-      "publishedAt": "2026-11-11T07:15:03.000Z",
+      "id": "278fbd5d3ae7",
+      "title": "【モンハンアウトランダーズ】フィーヤはいつ実装？【アウトランダーズ】",
+      "summary": "",
+      "url": "https://gamewith.jp/mhoutlanders/586524",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586524.png?date=1793708718",
+      "leadSource": "GameWith",
+      "publishedAt": "2026-11-12T08:22:22.000Z",
       "sourceCount": 2,
       "articleCount": 9,
       "categories": [
-        "new",
-        "other"
+        "other",
+        "guide"
+      ],
+      "keywords": [
+        "アウトランダーズ",
+        "モンハンアウトランダーズ",
+        "攻略"
+      ],
+      "articles": [
+        {
+          "title": "【モンハンアウトランダーズ】主人公(ヘビィボウガン)の評価とおすすめ装備・編成【アウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/577467",
+          "source": "GameWith",
+          "publishedAt": "2026-11-12T07:16:37.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンアウトランダーズ】ルガ・エアルダの弱点と攻略【アウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/586566",
+          "source": "GameWith",
+          "publishedAt": "2026-11-12T06:35:04.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンアウトランダーズ】序盤の効率的な進め方【アウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/531932",
+          "source": "GameWith",
+          "publishedAt": "2026-11-12T06:03:05.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンアウトランダーズ】リセマラのやり方と所要時間｜何連引ける？【アウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/531931",
+          "source": "GameWith",
+          "publishedAt": "2026-11-12T05:25:09.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンアウトランダーズ】アップデート最新情報まとめ【アウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/587366",
+          "source": "GameWith",
+          "publishedAt": "2026-11-12T04:05:59.000Z",
+          "isPR": false
+        },
+        {
+          "title": "第５章 きれいね【モンスターハンターアウトランダーズ】#１０",
+          "url": "https://youtu.be/7aeOnTYFbcs?si",
+          "source": "YouTube",
+          "publishedAt": "2026-11-12T03:45:07.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンアウトランダーズ】リセマラ当たりランキング【アウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/531925",
+          "source": "GameWith",
+          "publishedAt": "2026-11-12T03:32:13.000Z",
+          "isPR": false
+        },
+        {
+          "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
+          "url": "https://gamewith.jp/mhwilds/563096",
+          "source": "GameWith",
+          "publishedAt": "2026-11-11T00:11:10.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "f4f222ac2e2d",
+      "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
+      "summary": "",
+      "url": "https://gamewith.jp/mhwilds/575036",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575036.png?date=1789770113",
+      "leadSource": "GameWith",
+      "publishedAt": "2026-11-12T07:51:08.000Z",
+      "sourceCount": 2,
+      "articleCount": 8,
+      "categories": [
+        "other",
+        "new"
       ],
       "keywords": [
         "モンハンワイルズ",
@@ -271,6 +349,13 @@
         "最新情報"
       ],
       "articles": [
+        {
+          "title": "『モンハンワイルズ：アセンダンス』ベータテスト実施の日が近い？Steam本編オープンベータ用アプリの名称と画像が更新",
+          "url": "https://www.gamespark.jp/article/2026/11/11/174746.html",
+          "source": "Game*Spark",
+          "publishedAt": "2026-11-11T07:15:03.000Z",
+          "isPR": false
+        },
         {
           "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/563104",
@@ -311,91 +396,6 @@
           "url": "https://gamewith.jp/mhwilds/575037",
           "source": "GameWith",
           "publishedAt": "2026-11-10T12:49:32.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/575036",
-          "source": "GameWith",
-          "publishedAt": "2026-11-10T06:15:09.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/563040",
-          "source": "GameWith",
-          "publishedAt": "2026-11-09T21:30:36.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "ea27694f7437",
-      "title": "【モンハンアウトランダーズ】リセマラのやり方と所要時間｜何連引ける？【アウトランダーズ】",
-      "summary": "",
-      "url": "https://gamewith.jp/mhoutlanders/531931",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531931.png?date=1793082187",
-      "leadSource": "GameWith",
-      "publishedAt": "2026-11-12T07:39:06.000Z",
-      "sourceCount": 2,
-      "articleCount": 8,
-      "categories": [
-        "other",
-        "guide"
-      ],
-      "keywords": [
-        "アウトランダーズ",
-        "モンハンアウトランダーズ",
-        "リセマラ"
-      ],
-      "articles": [
-        {
-          "title": "【モンハンアウトランダーズ】ルガ・エアルダの弱点と攻略【アウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/586566",
-          "source": "GameWith",
-          "publishedAt": "2026-11-12T06:35:04.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンアウトランダーズ】序盤の効率的な進め方【アウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/531932",
-          "source": "GameWith",
-          "publishedAt": "2026-11-12T06:03:05.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンアウトランダーズ】フィーヤはいつ実装？【アウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/586524",
-          "source": "GameWith",
-          "publishedAt": "2026-11-12T05:54:11.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンアウトランダーズ】アップデート最新情報まとめ【アウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/587366",
-          "source": "GameWith",
-          "publishedAt": "2026-11-12T04:05:59.000Z",
-          "isPR": false
-        },
-        {
-          "title": "第５章 きれいね【モンスターハンターアウトランダーズ】#１０",
-          "url": "https://youtu.be/7aeOnTYFbcs?si",
-          "source": "YouTube",
-          "publishedAt": "2026-11-12T03:45:07.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンアウトランダーズ】リセマラ当たりランキング【アウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/531925",
-          "source": "GameWith",
-          "publishedAt": "2026-11-12T03:32:13.000Z",
-          "isPR": false
-        },
-        {
-          "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
-          "url": "https://gamewith.jp/mhwilds/563096",
-          "source": "GameWith",
-          "publishedAt": "2026-11-11T00:11:10.000Z",
           "isPR": false
         }
       ]
@@ -530,13 +530,53 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-12T08:30:15.570Z",
+    "previousAt": "2026-11-12T09:00:18.246Z",
     "previousCount": 71,
-    "newCount": 3
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-12T09:30:18.246Z",
+  "nextUpdateAt": "2026-11-12T10:00:15.939Z",
   "items": [
+    {
+      "id": "53026238df06",
+      "title": "サービス終了予定の『モンスターハンターパズル アイルーアイランド』買い切り版発売、その名も『いつまでも版』。アイルーたちと、どこでもずっと一緒",
+      "url": "https://automaton-media.com/articles/newsjp/20261112-478924/",
+      "host": "automaton-media.com",
+      "source": "AUTOMATON",
+      "summary": "カプコンは11月12日、パズルゲーム『モンスターハンターパズル アイルーアイランド いつまでも版』を配信した。",
+      "publishedAt": "2026-11-12T09:10:32.000Z",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261112-478924-header.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "278fbd5d3ae7",
+      "title": "【モンハンアウトランダーズ】フィーヤはいつ実装？【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/586524",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-12T08:22:22.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586524.png?date=1793708718",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "2f0089ca1b55",
       "title": "【MHWilds】★9 道を蝕み戻らぬ者よ 歴戦ゴアマガラ ヘビィボウガン 13’56”82【モンハンワイルズ】",
@@ -557,19 +597,40 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
-      "id": "ea27694f7437",
-      "title": "【モンハンアウトランダーズ】リセマラのやり方と所要時間｜何連引ける？【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531931",
+      "id": "f4f222ac2e2d",
+      "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/575036",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-12T07:39:06.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531931.png?date=1793082187",
+      "publishedAt": "2026-11-12T07:51:08.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575036.png?date=1789770113",
       "categories": [
         "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "139e9f532a51",
+      "title": "【モンハンアウトランダーズ】主人公(ヘビィボウガン)の評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577467",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-12T07:16:37.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577467.png?date=1790214807",
+      "categories": [
+        "guide"
       ],
       "series": [
         "outlanders"
@@ -597,7 +658,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6440692bf3d2",
@@ -662,37 +723,16 @@
       "isNew": false
     },
     {
-      "id": "278fbd5d3ae7",
-      "title": "【モンハンアウトランダーズ】フィーヤはいつ実装？【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/586524",
+      "id": "ea27694f7437",
+      "title": "【モンハンアウトランダーズ】リセマラのやり方と所要時間｜何連引ける？【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531931",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-12T05:54:11.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586524.png?date=1793708718",
+      "publishedAt": "2026-11-12T05:25:09.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531931.png?date=1793082187",
       "categories": [
         "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "139e9f532a51",
-      "title": "【モンハンアウトランダーズ】主人公(ヘビィボウガン)の評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577467",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-12T05:46:30.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577467.png?date=1790214807",
-      "categories": [
-        "guide"
       ],
       "series": [
         "outlanders"
@@ -1091,6 +1131,28 @@
       "isNew": false
     },
     {
+      "id": "f052f0efe1cc",
+      "title": "【MHWilds】歴戦王アルシュベルド3pt非火事場チャージアックス07‘10“88【フリチャレ5-2】",
+      "url": "https://youtu.be/yjLaJe0aNzI?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-11T07:40:26.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "37a39cd4ae92",
       "title": "【MHWilds】歴戦王アルシュベルド4pt非火事場チャージアックス06‘38“01【フリチャレ5-2】",
       "url": "https://youtu.be/QfFETBnx1gM?si",
@@ -1136,12 +1198,12 @@
     {
       "id": "db5383af28fd",
       "title": "『モンハンワイルズ：アセンダンス』ベータテスト実施の日が近い？Steam本編オープンベータ用アプリの名称と画像が更新",
-      "url": "http://www.gamespark.jp/article/2026/11/11/174746.html",
+      "url": "https://www.gamespark.jp/article/2026/11/11/174746.html",
       "host": "gamespark.jp",
       "source": "Game*Spark",
-      "summary": "SteamDBにて確認。RedditではThe Game Awardsで発表されるのではとの予測も。",
+      "summary": "",
       "publishedAt": "2026-11-11T07:15:03.000Z",
-      "image": "http://www.gamespark.jp/imgs/rss/1218091.jpg",
+      "image": "https://www.gamespark.jp/imgs/ogp_f/1218091.jpg",
       "categories": [
         "new"
       ],
@@ -1634,7 +1696,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b5d6fe40ab2e",
@@ -1797,27 +1859,6 @@
       "isNew": false
     },
     {
-      "id": "f4f222ac2e2d",
-      "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/575036",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-10T06:15:09.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575036.png?date=1789770113",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "ba708ad1ce88",
       "title": "【モンハンワイルズ】序盤体験版のはどこまで遊べる？引き継ぎ方法【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/571203",
@@ -1972,27 +2013,6 @@
       "summary": "",
       "publishedAt": "2026-11-09T11:19:21.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/487794.png?date=1740863355",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "6d6d653ac847",
-      "title": "【モンハンワイルズ】歴戦王ジンダハドの対策装備と弱点・攻略【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/534323",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-09T09:05:12.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/534323.png?date=1765440790",
       "categories": [
         "guide"
       ],
