@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T08:00:20.436Z",
+  "updatedAt": "2026-11-12T08:30:15.570Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 71,
-  "todayCount": 16,
+  "todayCount": 18,
   "categories": [
     {
       "id": "new",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 37
+      "count": 36
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 8
+      "count": 9
     },
     {
       "id": "now",
@@ -303,10 +303,24 @@
       ],
       "articles": [
         {
+          "title": "【モンハンアウトランダーズ】序盤の効率的な進め方【アウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/531932",
+          "source": "GameWith",
+          "publishedAt": "2026-11-12T06:03:05.000Z",
+          "isPR": false
+        },
+        {
           "title": "【モンハンアウトランダーズ】フィーヤはいつ実装？【アウトランダーズ】",
           "url": "https://gamewith.jp/mhoutlanders/586524",
           "source": "GameWith",
           "publishedAt": "2026-11-12T05:54:11.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンアウトランダーズ】リセマラのやり方と所要時間｜何連引ける？【アウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/531931",
+          "source": "GameWith",
+          "publishedAt": "2026-11-12T05:25:09.000Z",
           "isPR": false
         },
         {
@@ -328,20 +342,6 @@
           "url": "https://gamewith.jp/mhoutlanders/531925",
           "source": "GameWith",
           "publishedAt": "2026-11-12T03:32:13.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンアウトランダーズ】序盤の効率的な進め方【アウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/531932",
-          "source": "GameWith",
-          "publishedAt": "2026-11-12T00:22:14.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンアウトランダーズ】リセマラのやり方と所要時間｜何連引ける？【アウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/531931",
-          "source": "GameWith",
-          "publishedAt": "2026-11-11T10:11:35.000Z",
           "isPR": false
         },
         {
@@ -519,12 +519,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-12T07:30:15.451Z",
+    "previousAt": "2026-11-12T08:00:20.436Z",
     "previousCount": 71,
-    "newCount": 0
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-12T08:30:20.436Z",
+  "nextUpdateAt": "2026-11-12T09:00:15.570Z",
   "items": [
     {
       "id": "6440692bf3d2",
@@ -568,6 +568,27 @@
       "isNew": false
     },
     {
+      "id": "3d596f6fe3e7",
+      "title": "【モンハンアウトランダーズ】序盤の効率的な進め方【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531932",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-12T06:03:05.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531932.png?date=1789010047",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "278fbd5d3ae7",
       "title": "【モンハンアウトランダーズ】フィーヤはいつ実装？【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/586524",
@@ -599,6 +620,27 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577467.png?date=1790214807",
       "categories": [
         "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "ea27694f7437",
+      "title": "【モンハンアウトランダーズ】リセマラのやり方と所要時間｜何連引ける？【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531931",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-12T05:25:09.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531931.png?date=1793082187",
+      "categories": [
+        "other"
       ],
       "series": [
         "outlanders"
@@ -750,27 +792,6 @@
       "isNew": false
     },
     {
-      "id": "3d596f6fe3e7",
-      "title": "【モンハンアウトランダーズ】序盤の効率的な進め方【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531932",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-12T00:22:14.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531932.png?date=1789010047",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "eba4e586dcfd",
       "title": "激昂ラージャンを空中スタンさせてみたww #モンハンライズ#魅せプレイ #モンハン #ゲーム#サンブレイク#激昂ラージャン#MR闘技大会6#チャアク#チャージアックス",
       "url": "https://youtu.be/_HiiSlfxaSA?si",
@@ -809,6 +830,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "e4fe2f56c86b",
+      "title": "イャンガルルガ プチTA 01’53″73 スラアク 非火事場 フリースタイル #モンハンアイスボーン #モンハン #スラアク",
+      "url": "https://youtu.be/aXqGTMOtWe8?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-11T20:05:58.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "c2478d73720d",
@@ -928,27 +970,6 @@
       ],
       "series": [
         "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ea27694f7437",
-      "title": "【モンハンアウトランダーズ】リセマラのやり方と所要時間｜何連引ける？【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531931",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-11T10:11:35.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531931.png?date=1793082187",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1552,27 +1573,6 @@
       "summary": "",
       "publishedAt": "2026-11-10T13:42:03.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485475.png?date=1789753003",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "1e9ccc1366cc",
-      "title": "【モンハンワイルズ】フリーチャレンジクエスト「生き誇れ、野生の仔」ソロ討伐に挑戦！#モンハンワイルズ",
-      "url": "https://youtu.be/T5Qfxh3v78s?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-10T13:30:54.000Z",
-      "image": "",
       "categories": [
         "other"
       ],
