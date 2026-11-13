@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T19:00:14.204Z",
+  "updatedAt": "2026-11-13T19:30:17.422Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 87,
-  "todayCount": 4,
+  "todayCount": 3,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 14
+      "count": 13
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 51
+      "count": 52
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 36
+      "count": 37
     },
     {
       "id": "rise",
@@ -341,24 +341,17 @@
       "leadSource": "YouTube",
       "publishedAt": "2026-11-13T09:00:34.000Z",
       "sourceCount": 2,
-      "articleCount": 4,
+      "articleCount": 3,
       "categories": [
         "event",
-        "guide"
+        "other"
       ],
       "keywords": [
         "モンハンワイルズ",
         "アルシュベルド",
-        "歴戦王"
+        "モンスターハンターワイルズ"
       ],
       "articles": [
-        {
-          "title": "12分台！！星10歴戦王アルシュベルド 装備実戦動画",
-          "url": "https://youtu.be/b-q7lkiYP30?si",
-          "source": "YouTube",
-          "publishedAt": "2026-11-12T14:57:29.000Z",
-          "isPR": false
-        },
         {
           "title": "【モンハンワイルズ】歴戦王アルシュベルド(フリーチャレンジ)のSランクの取り方とチャーム【モンスターハンターワイルズ】",
           "url": "https://gamewith.jp/mhwilds/548752",
@@ -460,12 +453,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-13T18:30:19.840Z",
-    "previousCount": 84,
-    "newCount": 6
+    "previousAt": "2026-11-13T19:00:14.204Z",
+    "previousCount": 87,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-13T19:30:14.204Z",
+  "nextUpdateAt": "2026-11-13T20:00:17.422Z",
   "items": [
     {
       "id": "6440692bf3d2",
@@ -521,27 +514,6 @@
         "collab"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f529da9f5ece",
-      "title": "【モンハンワイルズ】Switch2版の発売日はいつ？【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563066",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-13T15:02:05.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563066.png?date=1780886791",
-      "categories": [
-        "new"
-      ],
-      "series": [
-        "wilds"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -837,7 +809,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6bbb8534501c",
@@ -896,7 +868,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3061b3b0dd3c",
@@ -1198,7 +1170,7 @@
       "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d57b7e1633db",
@@ -1384,25 +1356,6 @@
       "isNew": false
     },
     {
-      "id": "d86b7981ba71",
-      "title": "12分台！！星10歴戦王アルシュベルド 装備実戦動画",
-      "url": "https://youtu.be/b-q7lkiYP30?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-12T14:57:29.000Z",
-      "image": "",
-      "categories": [
-        "guide"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "ebed98813a53",
       "title": "セクレトに騎乗しながらゾシアの尻尾切断してみた！#shorts #モンハンワイルズ#ゆっくり実況#ゾシア",
       "url": "https://youtu.be/4bZn3HQu-tM?si",
@@ -1434,6 +1387,27 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575038.png?date=1789770323",
       "categories": [
         "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "f529da9f5ece",
+      "title": "【モンハンワイルズ】Switch2版の発売日はいつ？【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/563066",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-12T12:25:12.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563066.png?date=1780886791",
+      "categories": [
+        "new"
       ],
       "series": [
         "wilds"
@@ -2034,6 +2008,27 @@
       "isNew": false
     },
     {
+      "id": "e708f4e49108",
+      "title": "今週の配信バウンティガイド[2026.11.11 ～ 2026.11.18]【モンスターハンターワイルズ/MonsterHunterWilds】",
+      "url": "https://youtu.be/HA0m_1-4mWE?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-11T02:14:25.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "c9327b2915e6",
       "title": "人気アクティビティ『昇龍拳ジャンプ』が大盛り上がり！『モンスターハンターワイルズ』の試遊などもカプコンブースレポ【アミューズメント エキスポ 2026】",
       "url": "https://leveluplogy.jp/archives/43660",
@@ -2073,7 +2068,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d06830416124",
@@ -2199,7 +2194,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8deb86cc07d1",
@@ -2220,7 +2215,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4b315476c827",
