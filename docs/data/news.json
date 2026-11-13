@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-13T00:00:16.964Z",
+  "updatedAt": "2026-11-13T00:30:14.928Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 72,
-  "todayCount": 6,
+  "total": 74,
+  "todayCount": 7,
   "categories": [
     {
       "id": "new",
@@ -32,7 +32,7 @@
     {
       "id": "goods",
       "label": "グッズ・フィギュア",
-      "count": 4
+      "count": 3
     },
     {
       "id": "media",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 13
+      "count": 14
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 38
+      "count": 40
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 30
+      "count": 31
     },
     {
       "id": "rise",
@@ -94,17 +94,17 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 19
+      "count": 20
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 33
+      "count": 34
     },
     {
       "name": "YouTube",
-      "count": 16
+      "count": 18
     },
     {
       "name": "ガジェット通信",
@@ -156,10 +156,6 @@
     },
     {
       "name": "Yahoo!ニュース",
-      "count": 1
-    },
-    {
-      "name": "電撃ホビーウェブ",
       "count": 1
     },
     {
@@ -401,7 +397,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-11-12T22:26:15.000Z",
       "sourceCount": 2,
-      "articleCount": 13,
+      "articleCount": 14,
       "categories": [
         "guide",
         "other"
@@ -441,6 +437,13 @@
           "isPR": false
         },
         {
+          "title": "【モンハンアウトランダーズ】取り返しのつかない要素【アウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/560314",
+          "source": "GameWith",
+          "publishedAt": "2026-11-12T12:48:17.000Z",
+          "isPR": false
+        },
+        {
           "title": "【モンハンアウトランダーズ】料理のおすすめと食事場の使い方【アウトランダーズ】",
           "url": "https://gamewith.jp/mhoutlanders/576657",
           "source": "GameWith",
@@ -460,12 +463,33 @@
           "source": "YouTube",
           "publishedAt": "2026-11-12T03:45:07.000Z",
           "isPR": false
-        },
+        }
+      ]
+    },
+    {
+      "id": "d86b7981ba71",
+      "title": "12分台！！星10歴戦王アルシュベルド 装備実戦動画",
+      "summary": "",
+      "url": "https://youtu.be/b-q7lkiYP30?si",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/548752.png?date=1773678314",
+      "leadSource": "YouTube",
+      "publishedAt": "2026-11-12T14:57:29.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "guide",
+        "other"
+      ],
+      "keywords": [
+        "アルシュベルド",
+        "歴戦王"
+      ],
+      "articles": [
         {
-          "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
-          "url": "https://gamewith.jp/mhwilds/563096",
+          "title": "【モンハンワイルズ】歴戦王アルシュベルド(フリーチャレンジ)のSランクの取り方とチャーム【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/548752",
           "source": "GameWith",
-          "publishedAt": "2026-11-12T01:05:32.000Z",
+          "publishedAt": "2026-11-11T14:39:09.000Z",
           "isPR": false
         }
       ]
@@ -501,12 +525,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-12T23:30:15.621Z",
-    "previousCount": 73,
-    "newCount": 1
+    "previousAt": "2026-11-13T00:00:16.964Z",
+    "previousCount": 72,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-13T00:30:16.964Z",
+  "nextUpdateAt": "2026-11-13T01:00:14.928Z",
   "items": [
     {
       "id": "3d596f6fe3e7",
@@ -551,6 +575,27 @@
       "isNew": false
     },
     {
+      "id": "383fae955fac",
+      "title": "Monster Hunter Wilds フリークエスト 英雄の証 ランスソロ オトモ装衣有り",
+      "url": "https://youtu.be/UMMeQEAs2Cg?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-12T17:11:44.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "60f3de2f47ec",
       "title": "【モンハンアウトランダーズ】最強キャラランキング【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/531927",
@@ -570,7 +615,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b5d6fe40ab2e",
@@ -635,6 +680,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "d86b7981ba71",
+      "title": "12分台！！星10歴戦王アルシュベルド 装備実戦動画",
+      "url": "https://youtu.be/b-q7lkiYP30?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-12T14:57:29.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "3c04a4e0140f",
@@ -776,6 +840,48 @@
       ],
       "series": [
         "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "48f27bc980e0",
+      "title": "【モンハンアウトランダーズ】取り返しのつかない要素【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/560314",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-12T12:48:17.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560314.png?date=1793276254",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "f529da9f5ece",
+      "title": "【モンハンワイルズ】Switch2版の発売日はいつ？【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/563066",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-12T12:25:12.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563066.png?date=1780886791",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1477,25 +1583,6 @@
       "isNew": false
     },
     {
-      "id": "ec3f5807c561",
-      "title": "『クレバテス』アリシア、『モンハン』ゴグマジオス、『塊魂』王子、王様などのフィギュアが展示！【2026秋 宮沢模型展示会 速報レポート】フィギュア③",
-      "url": "https://hobby.dengeki.com/event/3225059/",
-      "host": "hobby.dengeki.com",
-      "source": "電撃ホビーウェブ",
-      "summary": "",
-      "publishedAt": "2026-11-11T08:31:53.000Z",
-      "image": "https://hobby.dengeki.com/ss/hobby/2026/11/hgq94tyh-1_WF9zcP3v1pBl149HOFrz7s1fO8GFX5K5_6Z_EA3ZdPdCdgIrpRSPFrz0T1HgL1hIx.jpg",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "d8b95bbbc335",
       "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/563040",
@@ -1654,27 +1741,6 @@
       ],
       "series": [
         "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f529da9f5ece",
-      "title": "【モンハンワイルズ】Switch2版の発売日はいつ？【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563066",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-11T02:50:42.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563066.png?date=1780886791",
-      "categories": [
-        "new"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
