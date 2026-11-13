@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T20:00:26.593Z",
+  "updatedAt": "2026-11-13T20:30:15.959Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 13
+      "count": 14
     },
     {
       "id": "sale",
@@ -52,7 +52,7 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 1
+      "count": 2
     },
     {
       "id": "sales",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 52
+      "count": 51
     }
   ],
   "series": [
@@ -100,11 +100,11 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 41
+      "count": 40
     },
     {
       "name": "YouTube",
-      "count": 12
+      "count": 13
     },
     {
       "name": "AppBank",
@@ -333,25 +333,32 @@
       ]
     },
     {
-      "id": "9d35ad901c01",
-      "title": "【モンハンワイルズ】9分31秒 操虫棍ソロ ★10歴戦王アルシュベルド イベントクエスト(孤独から出でし君という自由)【PS5/操虫棍】",
+      "id": "bb8fd1fbf7a3",
+      "title": "【モンハンワイルズ】ヘビィボウガン擲弾の実戦テクニックと立ち回りチャート実況解説完全まとめ！フリチャレ歴戦王アルシュベルドにて解説！【MHWilds】",
       "summary": "",
-      "url": "https://youtu.be/lDNEPSTYTRw?si",
+      "url": "https://youtu.be/zc6aK97WCDI?si",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/548752.png?date=1773678314",
       "leadSource": "YouTube",
-      "publishedAt": "2026-11-13T09:00:34.000Z",
+      "publishedAt": "2026-11-13T11:21:58.000Z",
       "sourceCount": 2,
-      "articleCount": 3,
+      "articleCount": 4,
       "categories": [
-        "event",
-        "other"
+        "guide",
+        "community"
       ],
       "keywords": [
         "モンハンワイルズ",
         "アルシュベルド",
-        "モンスターハンターワイルズ"
+        "歴戦王"
       ],
       "articles": [
+        {
+          "title": "【モンハンワイルズ】9分31秒 操虫棍ソロ ★10歴戦王アルシュベルド イベントクエスト(孤独から出でし君という自由)【PS5/操虫棍】",
+          "url": "https://youtu.be/lDNEPSTYTRw?si",
+          "source": "YouTube",
+          "publishedAt": "2026-11-13T09:00:34.000Z",
+          "isPR": false
+        },
         {
           "title": "【モンハンワイルズ】歴戦王アルシュベルド(フリーチャレンジ)のSランクの取り方とチャーム【モンスターハンターワイルズ】",
           "url": "https://gamewith.jp/mhwilds/548752",
@@ -401,7 +408,7 @@
       "title": "アークナイツ×モンハンコラボは11月16日開始 ★6焔狐竜オーキッドの天井と、ログイン報酬の10回スカウト券2枚",
       "summary": "",
       "url": "https://mediadogs.jp/2026/11/12/arknights-monster-hunter-collab-2026/",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/05/161222_cmbvw.webp",
+      "image": "https://mediadogs.jp/wp-content/uploads/2026/11/arknights-monster-hunter-collab-2026.webp",
       "leadSource": "https://mediadogs.jp/",
       "publishedAt": "2026-11-12T06:49:21.000Z",
       "sourceCount": 2,
@@ -453,12 +460,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-13T19:30:17.422Z",
+    "previousAt": "2026-11-13T20:00:26.593Z",
     "previousCount": 87,
-    "newCount": 1
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-13T20:30:26.593Z",
+  "nextUpdateAt": "2026-11-13T21:00:15.959Z",
   "items": [
     {
       "id": "6440692bf3d2",
@@ -645,6 +652,29 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "bb8fd1fbf7a3",
+      "title": "【モンハンワイルズ】ヘビィボウガン擲弾の実戦テクニックと立ち回りチャート実況解説完全まとめ！フリチャレ歴戦王アルシュベルドにて解説！【MHWilds】",
+      "url": "https://youtu.be/zc6aK97WCDI?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-13T11:21:58.000Z",
+      "image": "",
+      "categories": [
+        "guide",
+        "community"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "463ff0d23d63",
@@ -1558,28 +1588,6 @@
       "isNew": false
     },
     {
-      "id": "2f0089ca1b55",
-      "title": "【MHWilds】★9 道を蝕み戻らぬ者よ 歴戦ゴアマガラ ヘビィボウガン 13’56”82【モンハンワイルズ】",
-      "url": "https://youtu.be/yg_SyAvtN2I?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-12T07:55:44.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "484dd21a587e",
       "title": "アークナイツ×モンハンコラボは11月16日開始 ★6焔狐竜オーキッドの天井と、ログイン報酬の10回スカウト券2枚",
       "url": "https://mediadogs.jp/2026/11/12/arknights-monster-hunter-collab-2026/",
@@ -1587,7 +1595,7 @@
       "source": "https://mediadogs.jp/",
       "summary": "",
       "publishedAt": "2026-11-12T06:49:21.000Z",
-      "image": "",
+      "image": "https://mediadogs.jp/wp-content/uploads/2026/11/arknights-monster-hunter-collab-2026.webp",
       "categories": [
         "collab"
       ],
@@ -1889,7 +1897,7 @@
       "source": "ガジェット通信",
       "summary": "",
       "publishedAt": "2026-11-11T11:00:53.000Z",
-      "image": "",
+      "image": "https://rensai.jp/wp-content/uploads/2026/11/ff98cd565c992c8195430bff1bf91b05.jpg",
       "categories": [
         "other"
       ],
@@ -2006,6 +2014,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "e708f4e49108",
+      "title": "今週の配信バウンティガイド[2026.11.11 ～ 2026.11.18]【モンスターハンターワイルズ/MonsterHunterWilds】",
+      "url": "https://youtu.be/HA0m_1-4mWE?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-11T02:14:25.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "c9327b2915e6",
@@ -2174,27 +2203,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "5cf063a01864",
-      "title": "【モンハンワイルズ】首飾りチケットの入手方法と使い道【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/506855",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-11T00:09:31.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "8deb86cc07d1",
