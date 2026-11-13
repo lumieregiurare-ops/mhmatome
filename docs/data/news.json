@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-13T13:30:18.008Z",
+  "updatedAt": "2026-11-13T14:00:17.387Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 82,
-  "todayCount": 34,
+  "total": 83,
+  "todayCount": 36,
   "categories": [
     {
       "id": "new",
@@ -27,7 +27,7 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 8
+      "count": 9
     },
     {
       "id": "goods",
@@ -57,7 +57,7 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 3
+      "count": 2
     },
     {
       "id": "other",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 37
+      "count": 36
     },
     {
       "id": "rise",
@@ -100,11 +100,11 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 41
+      "count": 40
     },
     {
       "name": "YouTube",
-      "count": 10
+      "count": 11
     },
     {
       "name": "AppBank",
@@ -127,6 +127,10 @@
       "count": 2
     },
     {
+      "name": "ウォーカープラス",
+      "count": 2
+    },
+    {
       "name": "ファミ通",
       "count": 1
     },
@@ -144,10 +148,6 @@
     },
     {
       "name": "ニュープリネット",
-      "count": 1
-    },
-    {
-      "name": "ウォーカープラス",
       "count": 1
     },
     {
@@ -325,7 +325,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-11-13T12:58:42.000Z",
       "sourceCount": 2,
-      "articleCount": 15,
+      "articleCount": 21,
       "categories": [
         "sales",
         "guide"
@@ -333,7 +333,7 @@
       "keywords": [
         "アウトランダーズ",
         "モンハンアウトランダーズ",
-        "ランキング"
+        "モンスターハンターワイルズ"
       ],
       "articles": [
         {
@@ -341,6 +341,20 @@
           "url": "https://gamewith.jp/mhoutlanders/531944",
           "source": "GameWith",
           "publishedAt": "2026-11-13T12:44:07.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンアウトランダーズ】最強装備まとめ│おすすめ装備【アウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/559642",
+          "source": "GameWith",
+          "publishedAt": "2026-11-13T12:42:16.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンアウトランダーズ】フィーヤはいつ実装？【アウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/586524",
+          "source": "GameWith",
+          "publishedAt": "2026-11-13T12:37:22.000Z",
           "isPR": false
         },
         {
@@ -358,17 +372,10 @@
           "isPR": false
         },
         {
-          "title": "【モンハンアウトランダーズ】絵装の厳選方法とおすすめ効果【アウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/575851",
+          "title": "【モンハンアウトランダーズ】ミドリの評価とおすすめ装備・編成【アウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/577465",
           "source": "GameWith",
-          "publishedAt": "2026-11-13T11:38:48.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンアウトランダーズ】最強キャラランキング【アウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/531927",
-          "source": "GameWith",
-          "publishedAt": "2026-11-13T11:38:28.000Z",
+          "publishedAt": "2026-11-13T11:23:05.000Z",
           "isPR": false
         },
         {
@@ -384,13 +391,6 @@
           "source": "GameWith",
           "publishedAt": "2026-11-13T11:04:14.000Z",
           "isPR": false
-        },
-        {
-          "title": "【モンハンアウトランダーズ】シャインシューターの場所と攻略のコツ【アウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/576025",
-          "source": "GameWith",
-          "publishedAt": "2026-11-13T10:45:31.000Z",
-          "isPR": false
         }
       ]
     },
@@ -403,7 +403,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-11-13T05:15:16.000Z",
       "sourceCount": 2,
-      "articleCount": 12,
+      "articleCount": 10,
       "categories": [
         "other",
         "guide"
@@ -481,7 +481,7 @@
       "leadSource": "YouTube",
       "publishedAt": "2026-11-12T14:57:29.000Z",
       "sourceCount": 2,
-      "articleCount": 6,
+      "articleCount": 5,
       "categories": [
         "guide",
         "other"
@@ -511,13 +511,6 @@
           "url": "https://gamewith.jp/mhwilds/487251",
           "source": "GameWith",
           "publishedAt": "2026-11-11T00:13:54.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ】護竜の上毛皮の入手方法と使い道【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/487275",
-          "source": "GameWith",
-          "publishedAt": "2026-11-11T00:13:32.000Z",
           "isPR": false
         },
         {
@@ -586,12 +579,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-13T13:00:15.277Z",
-    "previousCount": 80,
-    "newCount": 6
+    "previousAt": "2026-11-13T13:30:18.008Z",
+    "previousCount": 82,
+    "newCount": 5
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-13T14:00:18.008Z",
+  "nextUpdateAt": "2026-11-13T14:30:17.387Z",
   "items": [
     {
       "id": "c50fb94399e9",
@@ -634,7 +627,49 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "7f8c91699fc3",
+      "title": "【モンハンアウトランダーズ】最強装備まとめ│おすすめ装備【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/559642",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-13T12:42:16.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559642.png?date=1793226347",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
       "isNew": true
+    },
+    {
+      "id": "278fbd5d3ae7",
+      "title": "【モンハンアウトランダーズ】フィーヤはいつ実装？【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/586524",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-13T12:37:22.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586524.png?date=1793708718",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
     },
     {
       "id": "6440692bf3d2",
@@ -679,14 +714,14 @@
       "isNew": false
     },
     {
-      "id": "7cc6494b340f",
-      "title": "【モンハンアウトランダーズ】絵装の厳選方法とおすすめ効果【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/575851",
+      "id": "78d907e0c7ca",
+      "title": "【モンハンアウトランダーズ】ミドリの評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577465",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-13T11:38:48.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575851.png?date=1789454673",
+      "publishedAt": "2026-11-13T11:23:05.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577465.png?date=1790214699",
       "categories": [
         "guide"
       ],
@@ -698,28 +733,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": true
-    },
-    {
-      "id": "60f3de2f47ec",
-      "title": "【モンハンアウトランダーズ】最強キャラランキング【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531927",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-13T11:38:28.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531927.png?date=1793082334",
-      "categories": [
-        "guide",
-        "sales"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
     },
     {
       "id": "463ff0d23d63",
@@ -782,7 +795,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0a0ef382b851",
@@ -857,27 +870,6 @@
         "other"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "278fbd5d3ae7",
-      "title": "【モンハンアウトランダーズ】フィーヤはいつ実装？【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/586524",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-13T08:45:15.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586524.png?date=1793708718",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1022,6 +1014,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "00565dab7799",
+      "title": "【モンハン】ケマトリス3頭狩り【ドパ狩り】NO.2 【しるべがバトる】",
+      "url": "https://youtu.be/Mhh3zQiR4lA?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-13T04:06:01.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "e69b2dc96aa1",
@@ -1181,6 +1192,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "bb1a9186e9b0",
+      "title": "インパクト満点のゲーム飯が登場！『モンハン』の世界観をコラボメニューで体感",
+      "url": "https://www.walkerplus.com/article/213409/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-11-12T21:27:30.000Z",
+      "image": "https://news.walkerplus.com/article/213409/1315717_615.jpg",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "d605748fb698",
@@ -1796,7 +1826,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ba708ad1ce88",
@@ -2083,7 +2113,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "37a39cd4ae92",
@@ -2127,6 +2157,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "e708f4e49108",
+      "title": "今週の配信バウンティガイド[2026.11.11 ～ 2026.11.18]【モンスターハンターワイルズ/MonsterHunterWilds】",
+      "url": "https://youtu.be/HA0m_1-4mWE?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-11T02:14:25.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "c9327b2915e6",
@@ -2192,27 +2243,6 @@
       "isNew": false
     },
     {
-      "id": "7886d0441bdf",
-      "title": "【モンハンワイルズ】護竜の上毛皮の入手方法と使い道【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/487275",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-11T00:13:32.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "5d7833d508c2",
       "title": "【モンハンワイルズ】源流のリュウヌ玉の入手方法と使い道【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/488692",
@@ -2247,27 +2277,6 @@
         "collab"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "1e9ccc1366cc",
-      "title": "【モンハンワイルズ】フリーチャレンジクエスト「生き誇れ、野生の仔」ソロ討伐に挑戦！#モンハンワイルズ",
-      "url": "https://youtu.be/T5Qfxh3v78s?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-10T13:30:54.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
