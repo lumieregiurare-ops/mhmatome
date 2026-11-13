@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-13T16:00:16.321Z",
+  "updatedAt": "2026-11-13T16:30:15.496Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 87,
-  "todayCount": 2,
+  "total": 85,
+  "todayCount": 3,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 18
+      "count": 16
     },
     {
       "id": "sale",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 37
+      "count": 35
     },
     {
       "id": "rise",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 42
+      "count": 40
     },
     {
       "name": "YouTube",
@@ -345,17 +345,17 @@
       ],
       "articles": [
         {
+          "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/575036",
+          "source": "GameWith",
+          "publishedAt": "2026-11-13T06:40:04.000Z",
+          "isPR": false
+        },
+        {
           "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/563104",
           "source": "GameWith",
           "publishedAt": "2026-11-13T00:59:04.000Z",
-          "isPR": false
-        },
-        {
-          "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
-          "url": "https://gamewith.jp/mhwilds/563096",
-          "source": "GameWith",
-          "publishedAt": "2026-11-12T21:59:08.000Z",
           "isPR": false
         },
         {
@@ -387,17 +387,17 @@
           "isPR": false
         },
         {
-          "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/575036",
-          "source": "GameWith",
-          "publishedAt": "2026-11-12T07:51:08.000Z",
-          "isPR": false
-        },
-        {
           "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/577281",
           "source": "GameWith",
           "publishedAt": "2026-11-12T02:45:22.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】モンスター一覧と弱点早見表（全34体）【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/452222",
+          "source": "GameWith",
+          "publishedAt": "2026-11-11T23:11:11.000Z",
           "isPR": false
         }
       ]
@@ -544,13 +544,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-13T15:30:19.885Z",
-    "previousCount": 83,
-    "newCount": 4
+    "previousAt": "2026-11-13T16:00:16.321Z",
+    "previousCount": 87,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-13T16:30:16.321Z",
+  "nextUpdateAt": "2026-11-13T17:00:15.496Z",
   "items": [
+    {
+      "id": "6440692bf3d2",
+      "title": "【モンハンアウトランダーズ】ルガ・エアルダの弱点と攻略【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/586566",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-13T15:58:27.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586566.png?date=1793781037",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "a67bfe4cb63d",
       "title": "「モンスターハンター」のボウリングが登場。カプコン作品をテーマにした遊具が盛りだくさんの「MIRAINO イオンモール伊達店」が11月27日にオープン",
@@ -568,7 +589,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0c4ef111b45d",
@@ -643,27 +664,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586524.png?date=1793708718",
       "categories": [
         "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "6440692bf3d2",
-      "title": "【モンハンアウトランダーズ】ルガ・エアルダの弱点と攻略【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/586566",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-13T12:33:12.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586566.png?date=1793781037",
-      "categories": [
-        "guide"
       ],
       "series": [
         "outlanders"
@@ -820,7 +820,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "35280c407c34",
@@ -961,6 +961,25 @@
       "isNew": false
     },
     {
+      "id": "e6d79acfa4bd",
+      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
+      "url": "https://gamewith.jp/mhwilds/563096",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-13T07:22:15.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
+      "categories": [
+        "guide"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "162ed3bce1fd",
       "title": "「モンスターハンター」ボウリングが全国初登場！ 『MIRAINO イオンモール伊達店』が福島県に11月27日オープン",
       "url": "https://www.appbank.net/2026/11/13/iphone-news/3164793.php",
@@ -973,6 +992,27 @@
         "other"
       ],
       "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "f4f222ac2e2d",
+      "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/575036",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-13T06:40:04.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575036.png?date=1789770113",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1061,7 +1101,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "00565dab7799",
@@ -1242,25 +1282,6 @@
       "isNew": false
     },
     {
-      "id": "e6d79acfa4bd",
-      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
-      "url": "https://gamewith.jp/mhwilds/563096",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-12T21:59:08.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
-      "categories": [
-        "guide"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "bb1a9186e9b0",
       "title": "インパクト満点のゲーム飯が登場！『モンハン』の世界観をコラボメニューで体感",
       "url": "https://www.walkerplus.com/article/213409/",
@@ -1277,7 +1298,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d605748fb698",
@@ -1670,27 +1691,6 @@
       "isNew": false
     },
     {
-      "id": "f4f222ac2e2d",
-      "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/575036",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-12T07:51:08.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575036.png?date=1789770113",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "484dd21a587e",
       "title": "アークナイツ×モンハンコラボは11月16日開始 ★6焔狐竜オーキッドの天井と、ログイン報酬の10回スカウト券2枚",
       "url": "https://mediadogs.jp/2026/11/12/arknights-monster-hunter-collab-2026/",
@@ -1703,27 +1703,6 @@
         "collab"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d94972b8ccc2",
-      "title": "【モンハンワイルズ】ライトボウガンの最強装備・おすすめ装備【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/484946",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-12T06:26:18.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/484946.png?date=1740714622",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1923,27 +1902,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/452222.png?date=1717659746",
       "categories": [
         "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "5705da647fc7",
-      "title": "【モンハンワイルズ】最強装備・おすすめ装備まとめ【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/485337",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-11T21:10:15.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485337.png?date=1740668237",
-      "categories": [
-        "guide"
       ],
       "series": [
         "wilds"
