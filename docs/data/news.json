@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-13T20:30:15.959Z",
+  "updatedAt": "2026-11-13T21:00:25.651Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 87,
-  "todayCount": 4,
+  "total": 92,
+  "todayCount": 5,
   "categories": [
     {
       "id": "new",
@@ -27,7 +27,7 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 9
+      "count": 10
     },
     {
       "id": "goods",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 14
+      "count": 15
     },
     {
       "id": "sale",
@@ -52,24 +52,24 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 2
+      "count": 1
     },
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 1
+      "count": 2
     },
     {
       "id": "other",
       "label": "その他",
-      "count": 51
+      "count": 55
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 37
+      "count": 39
     },
     {
       "id": "rise",
@@ -89,18 +89,18 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 0
+      "count": 1
     },
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 16
+      "count": 17
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 40
+      "count": 44
     },
     {
       "name": "YouTube",
@@ -135,6 +135,10 @@
       "count": 2
     },
     {
+      "name": "ウォーカープラス",
+      "count": 2
+    },
+    {
       "name": "Yahoo!ニュース",
       "count": 2
     },
@@ -152,10 +156,6 @@
     },
     {
       "name": "ニュープリネット",
-      "count": 1
-    },
-    {
-      "name": "ウォーカープラス",
       "count": 1
     },
     {
@@ -460,13 +460,35 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-13T20:00:26.593Z",
+    "previousAt": "2026-11-13T20:30:15.959Z",
     "previousCount": 87,
-    "newCount": 2
+    "newCount": 6
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-13T21:00:15.959Z",
+  "nextUpdateAt": "2026-11-13T21:30:25.651Z",
   "items": [
+    {
+      "id": "60f3de2f47ec",
+      "title": "【モンハンアウトランダーズ】最強キャラランキング【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531927",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-13T17:16:47.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531927.png?date=1793082334",
+      "categories": [
+        "guide",
+        "sales"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "6440692bf3d2",
       "title": "【モンハンアウトランダーズ】ルガ・エアルダの弱点と攻略【アウトランダーズ】",
@@ -515,7 +537,7 @@
       "source": "GAME Watch",
       "summary": "Amazonにてゲーミングチェア「Secretlab TITAN Evo」のモンスターハンターコラボ商品が特別価格で販売されている。期間は11月22日23時59分まで。",
       "publishedAt": "2026-11-13T15:05:00.000Z",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2156/310/000.jpg",
+      "image": "",
       "categories": [
         "sale",
         "collab"
@@ -674,7 +696,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "463ff0d23d63",
@@ -780,6 +802,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "1bfb3d8070af",
+      "title": "「凶異モンスター」に挑む！-PART118-【モンスターハンターストーリーズ3 ～運命の双竜～】",
+      "url": "https://youtu.be/b9VRXYtI8dI?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-13T10:30:07.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "0a0ef382b851",
@@ -1082,6 +1125,27 @@
       "isNew": false
     },
     {
+      "id": "f60bd4113653",
+      "title": "【モンハンアウトランダーズ】アップデート最新情報まとめ【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/587366",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-13T04:51:17.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/587366.png?date=1794371151",
+      "categories": [
+        "update"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "00565dab7799",
       "title": "【モンハン】ケマトリス3頭狩り【ドパ狩り】NO.2 【しるべがバトる】",
       "url": "https://youtu.be/Mhh3zQiR4lA?si",
@@ -1323,6 +1387,25 @@
       "isNew": false
     },
     {
+      "id": "bb1a9186e9b0",
+      "title": "インパクト満点のゲーム飯が登場！『モンハン』の世界観をコラボメニューで体感",
+      "url": "https://www.walkerplus.com/article/213409/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-11-12T21:27:30.000Z",
+      "image": "https://news.walkerplus.com/article/213409/1315717_615.jpg",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "d605748fb698",
       "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/574841",
@@ -1396,27 +1479,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485475.png?date=1789753003",
       "categories": [
         "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ebed98813a53",
-      "title": "セクレトに騎乗しながらゾシアの尻尾切断してみた！#shorts #モンハンワイルズ#ゆっくり実況#ゾシア",
-      "url": "https://youtu.be/4bZn3HQu-tM?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-12T13:37:55.000Z",
-      "image": "",
-      "categories": [
-        "community"
       ],
       "series": [
         "wilds"
@@ -1658,27 +1720,6 @@
         "event"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f60bd4113653",
-      "title": "【モンハンアウトランダーズ】アップデート最新情報まとめ【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/587366",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-12T04:05:59.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/587366.png?date=1794371151",
-      "categories": [
-        "update"
-      ],
-      "series": [
-        "outlanders"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -2034,7 +2075,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c9327b2915e6",
@@ -2077,6 +2118,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "2c30563b7f85",
+      "title": "【モンハンワイルズ】砥石の使い方と入手方法【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/484410",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-11T00:17:50.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "d06830416124",
@@ -2203,6 +2265,48 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "e27b44df8593",
+      "title": "【モンハンワイルズ】モリバーのトッテオキの入手方法と使い道【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/503240",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-11T00:09:48.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "5cf063a01864",
+      "title": "【モンハンワイルズ】首飾りチケットの入手方法と使い道【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/506855",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-11T00:09:31.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "8deb86cc07d1",
