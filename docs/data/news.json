@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T15:00:17.016Z",
+  "updatedAt": "2026-11-13T15:30:19.885Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 83,
-  "todayCount": 0,
+  "todayCount": 1,
   "categories": [
     {
       "id": "new",
@@ -27,7 +27,7 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 8
+      "count": 9
     },
     {
       "id": "goods",
@@ -42,12 +42,12 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 18
+      "count": 17
     },
     {
       "id": "sale",
       "label": "セール",
-      "count": 0
+      "count": 1
     },
     {
       "id": "community",
@@ -94,13 +94,13 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 17
+      "count": 16
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 41
+      "count": 40
     },
     {
       "name": "YouTube",
@@ -113,6 +113,10 @@
     {
       "name": "ガジェット通信",
       "count": 3
+    },
+    {
+      "name": "GAME Watch",
+      "count": 2
     },
     {
       "name": "電撃オンライン",
@@ -128,10 +132,6 @@
     },
     {
       "name": "ファミ通",
-      "count": 1
-    },
-    {
-      "name": "GAME Watch",
       "count": 1
     },
     {
@@ -323,9 +323,9 @@
       "url": "https://gamewith.jp/mhwilds/563077",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
       "leadSource": "GameWith",
-      "publishedAt": "2026-11-13T05:15:16.000Z",
+      "publishedAt": "2026-11-13T10:49:04.000Z",
       "sourceCount": 2,
-      "articleCount": 10,
+      "articleCount": 9,
       "categories": [
         "other",
         "guide"
@@ -336,6 +336,13 @@
         "最新情報"
       ],
       "articles": [
+        {
+          "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/575036",
+          "source": "GameWith",
+          "publishedAt": "2026-11-13T06:40:04.000Z",
+          "isPR": false
+        },
         {
           "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/563104",
@@ -376,13 +383,6 @@
           "url": "https://gamewith.jp/mhwilds/575038",
           "source": "GameWith",
           "publishedAt": "2026-11-12T13:14:23.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/575036",
-          "source": "GameWith",
-          "publishedAt": "2026-11-12T07:51:08.000Z",
           "isPR": false
         },
         {
@@ -536,13 +536,33 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-13T14:30:21.087Z",
-    "previousCount": 84,
-    "newCount": 3
+    "previousAt": "2026-11-13T15:00:17.016Z",
+    "previousCount": 83,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-13T15:30:17.016Z",
+  "nextUpdateAt": "2026-11-13T16:00:19.885Z",
   "items": [
+    {
+      "id": "0c4ef111b45d",
+      "title": "【Amazonセール】Secretlabの「モンハン」コラボデザインゲーミングチェアがお買い得！ 「ミラボレアス エディション」が登場",
+      "url": "https://game.watch.impress.co.jp/docs/news/2156310.html",
+      "host": "game.watch.impress.co.jp",
+      "source": "GAME Watch",
+      "summary": "Amazonにてゲーミングチェア「Secretlab TITAN Evo」のモンスターハンターコラボ商品が特別価格で販売されている。期間は11月22日23時59分まで。",
+      "publishedAt": "2026-11-13T15:05:00.000Z",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2156/310/000.jpg",
+      "categories": [
+        "sale",
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "c50fb94399e9",
       "title": "【モンハンアウトランダーズ】リセマラ当たりランキング【アウトランダーズ】",
@@ -689,7 +709,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "463ff0d23d63",
@@ -734,25 +754,25 @@
       "isNew": false
     },
     {
-      "id": "2a6a06195a33",
-      "title": "【モンハンアウトランダーズ】シャインシューターの場所と攻略のコツ【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/576025",
+      "id": "46ab930cbc6c",
+      "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/563077",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-13T10:45:31.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/576025.png?date=1790048258",
+      "publishedAt": "2026-11-13T10:49:04.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
       "categories": [
-        "guide"
+        "other"
       ],
       "series": [
-        "outlanders"
+        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0a0ef382b851",
@@ -891,6 +911,27 @@
       "isNew": false
     },
     {
+      "id": "f4f222ac2e2d",
+      "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/575036",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-13T06:40:04.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575036.png?date=1789770113",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "96932c941c44",
       "title": "『モンスターハンターアウトランダーズ』スクリーンショット",
       "url": "https://jp.ign.com/monster-hunter-outlanders/84599/",
@@ -933,27 +974,6 @@
       "isNew": false
     },
     {
-      "id": "46ab930cbc6c",
-      "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563077",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-13T05:15:16.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "fb6b151eba69",
       "title": "【モンハンアウトランダーズ】クシャルダオラ襲来！鋼翼の古龍を討伐せよ！【セメコの狩猟日記】",
       "url": "https://youtu.be/T_VLDbFv4Q8?si",
@@ -972,7 +992,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "00565dab7799",
@@ -1554,27 +1574,6 @@
       "series": [
         "wilds",
         "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f4f222ac2e2d",
-      "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/575036",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-12T07:51:08.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575036.png?date=1789770113",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
