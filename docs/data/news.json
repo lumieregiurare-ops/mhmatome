@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-13T18:30:19.840Z",
+  "updatedAt": "2026-11-13T19:00:14.204Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 84,
+  "total": 87,
   "todayCount": 4,
   "categories": [
     {
@@ -22,7 +22,7 @@
     {
       "id": "event",
       "label": "イベント・クエスト",
-      "count": 2
+      "count": 3
     },
     {
       "id": "collab",
@@ -57,19 +57,19 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 2
+      "count": 1
     },
     {
       "id": "other",
       "label": "その他",
-      "count": 49
+      "count": 51
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 34
+      "count": 36
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 3
+      "count": 4
     },
     {
       "id": "now",
@@ -94,13 +94,13 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 17
+      "count": 16
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 38
+      "count": 40
     },
     {
       "name": "YouTube",
@@ -128,6 +128,10 @@
     },
     {
       "name": "IGN Japan",
+      "count": 2
+    },
+    {
+      "name": "PR TIMES",
       "count": 2
     },
     {
@@ -180,10 +184,6 @@
     },
     {
       "name": "CAPCOM",
-      "count": 1
-    },
-    {
-      "name": "PR TIMES",
       "count": 1
     },
     {
@@ -262,8 +262,8 @@
       "image": "https://www.4gamer.net/games/991/G999111/20261114001/SS/001.jpg",
       "leadSource": "4Gamer",
       "publishedAt": "2026-11-13T15:38:41.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
+      "sourceCount": 4,
+      "articleCount": 4,
       "categories": [
         "event",
         "other"
@@ -287,6 +287,13 @@
           "source": "AppBank",
           "publishedAt": "2026-11-13T07:01:20.000Z",
           "isPR": false
+        },
+        {
+          "title": "全国初！？ 「モンスターハンター」のボウリングも展開！ 「MIRAINO イオンモール伊達店」が福島県に11月27日(金)オープン！",
+          "url": "https://prtimes.jp/main/html/rd/p/000006161.000013450.html",
+          "source": "PR TIMES",
+          "publishedAt": "2026-11-13T02:00:02.000Z",
+          "isPR": true
         }
       ]
     },
@@ -326,25 +333,32 @@
       ]
     },
     {
-      "id": "d86b7981ba71",
-      "title": "12分台！！星10歴戦王アルシュベルド 装備実戦動画",
+      "id": "9d35ad901c01",
+      "title": "【モンハンワイルズ】9分31秒 操虫棍ソロ ★10歴戦王アルシュベルド イベントクエスト(孤独から出でし君という自由)【PS5/操虫棍】",
       "summary": "",
-      "url": "https://youtu.be/b-q7lkiYP30?si",
+      "url": "https://youtu.be/lDNEPSTYTRw?si",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/548752.png?date=1773678314",
       "leadSource": "YouTube",
-      "publishedAt": "2026-11-12T14:57:29.000Z",
+      "publishedAt": "2026-11-13T09:00:34.000Z",
       "sourceCount": 2,
-      "articleCount": 8,
+      "articleCount": 4,
       "categories": [
-        "guide",
-        "other"
+        "event",
+        "guide"
       ],
       "keywords": [
-        "モンスターハンターワイルズ",
         "モンハンワイルズ",
-        "入手方法"
+        "アルシュベルド",
+        "歴戦王"
       ],
       "articles": [
+        {
+          "title": "12分台！！星10歴戦王アルシュベルド 装備実戦動画",
+          "url": "https://youtu.be/b-q7lkiYP30?si",
+          "source": "YouTube",
+          "publishedAt": "2026-11-12T14:57:29.000Z",
+          "isPR": false
+        },
         {
           "title": "【モンハンワイルズ】歴戦王アルシュベルド(フリーチャレンジ)のSランクの取り方とチャーム【モンスターハンターワイルズ】",
           "url": "https://gamewith.jp/mhwilds/548752",
@@ -357,41 +371,6 @@
           "url": "https://gamewith.jp/mhwilds/487801",
           "source": "GameWith",
           "publishedAt": "2026-11-11T13:21:20.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ】冬竜夏草の入手方法と使い道【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/484317",
-          "source": "GameWith",
-          "publishedAt": "2026-11-11T00:17:03.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ】無慈悲な鎖刃甲の入手方法と使い道【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/487251",
-          "source": "GameWith",
-          "publishedAt": "2026-11-11T00:13:54.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ】護竜の上毛皮の入手方法と使い道【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/487275",
-          "source": "GameWith",
-          "publishedAt": "2026-11-11T00:13:32.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ】古びた竜彫貨の入手方法と使い道【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/487713",
-          "source": "GameWith",
-          "publishedAt": "2026-11-11T00:11:51.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンワイルズ】源流のリュウヌ玉の入手方法と使い道【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/488692",
-          "source": "GameWith",
-          "publishedAt": "2026-11-11T00:10:46.000Z",
           "isPR": false
         }
       ]
@@ -481,35 +460,13 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-13T18:00:15.143Z",
-    "previousCount": 86,
-    "newCount": 1
+    "previousAt": "2026-11-13T18:30:19.840Z",
+    "previousCount": 84,
+    "newCount": 6
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-13T19:00:19.840Z",
+  "nextUpdateAt": "2026-11-13T19:30:14.204Z",
   "items": [
-    {
-      "id": "60f3de2f47ec",
-      "title": "【モンハンアウトランダーズ】最強キャラランキング【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531927",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-13T17:16:47.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531927.png?date=1793082334",
-      "categories": [
-        "guide",
-        "sales"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
     {
       "id": "6440692bf3d2",
       "title": "【モンハンアウトランダーズ】ルガ・エアルダの弱点と攻略【アウトランダーズ】",
@@ -564,6 +521,27 @@
         "collab"
       ],
       "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "f529da9f5ece",
+      "title": "【モンハンワイルズ】Switch2版の発売日はいつ？【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/563066",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-13T15:02:05.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563066.png?date=1780886791",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "wilds"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -841,6 +819,27 @@
       "isNew": false
     },
     {
+      "id": "9d35ad901c01",
+      "title": "【モンハンワイルズ】9分31秒 操虫棍ソロ ★10歴戦王アルシュベルド イベントクエスト(孤独から出でし君という自由)【PS5/操虫棍】",
+      "url": "https://youtu.be/lDNEPSTYTRw?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-13T09:00:34.000Z",
+      "image": "",
+      "categories": [
+        "event"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "6bbb8534501c",
       "title": "『モンハン』あの古龍の二つ名にも使われる“赫耀“の読み方は？【ゲーム漢字検定】",
       "url": "https://dengekionline.com/article/202611/93903",
@@ -877,6 +876,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "c3d52f011518",
+      "title": "導きの地、火山地帯レベル上げ【モンハンワールド】",
+      "url": "https://youtu.be/3OvKNoA3p8I?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-13T08:15:07.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "3061b3b0dd3c",
@@ -1159,6 +1179,25 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "b01abaf301d6",
+      "title": "全国初！？ 「モンスターハンター」のボウリングも展開！ 「MIRAINO イオンモール伊達店」が福島県に11月27日(金)オープン！",
+      "url": "https://prtimes.jp/main/html/rd/p/000006161.000013450.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-11-13T02:00:02.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/13450/6161/13450-6161-16ee641ccf5b223a3d7a496c7b7a8536-1200x1200.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
       "isNew": true
     },
     {
@@ -1364,27 +1403,6 @@
       "isNew": false
     },
     {
-      "id": "3c04a4e0140f",
-      "title": "【ワイルズ弓】毎日チャレンジ / どうにも安定感がないベテランのアルシュベルド / 2026112 #まおきー",
-      "url": "https://youtu.be/ZoXedtGKEbw?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-12T13:53:21.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "ebed98813a53",
       "title": "セクレトに騎乗しながらゾシアの尻尾切断してみた！#shorts #モンハンワイルズ#ゆっくり実況#ゾシア",
       "url": "https://youtu.be/4bZn3HQu-tM?si",
@@ -1416,27 +1434,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575038.png?date=1789770323",
       "categories": [
         "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f529da9f5ece",
-      "title": "【モンハンワイルズ】Switch2版の発売日はいつ？【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563066",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-12T12:25:12.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563066.png?date=1780886791",
-      "categories": [
-        "new"
       ],
       "series": [
         "wilds"
@@ -2037,27 +2034,6 @@
       "isNew": false
     },
     {
-      "id": "e708f4e49108",
-      "title": "今週の配信バウンティガイド[2026.11.11 ～ 2026.11.18]【モンスターハンターワイルズ/MonsterHunterWilds】",
-      "url": "https://youtu.be/HA0m_1-4mWE?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-11T02:14:25.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "c9327b2915e6",
       "title": "人気アクティビティ『昇龍拳ジャンプ』が大盛り上がり！『モンスターハンターワイルズ』の試遊などもカプコンブースレポ【アミューズメント エキスポ 2026】",
       "url": "https://leveluplogy.jp/archives/43660",
@@ -2077,6 +2053,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "e4b3bc1c919f",
+      "title": "【モンハンワイルズ】大タル爆弾の効果と使い方｜投げ方・回収方法【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/471249",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-11T00:18:45.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/471249.png?date=1730532666",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "d06830416124",
@@ -2182,6 +2179,48 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "b2d77891fb45",
+      "title": "【モンハンワイルズ】タルコロチャレンジ券の入手方法と使い道【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/492660",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-11T00:10:00.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "8deb86cc07d1",
+      "title": "【モンハンワイルズ】ププロポルの弱点・攻略と出現場所【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/469831",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-11T00:08:28.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/469831.png?date=1729699841",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "4b315476c827",
