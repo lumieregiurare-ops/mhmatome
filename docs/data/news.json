@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T04:30:14.334Z",
+  "updatedAt": "2026-11-14T04:57:42.167Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 106,
-  "todayCount": 34,
+  "todayCount": 36,
   "categories": [
     {
       "id": "new",
@@ -17,7 +17,7 @@
     {
       "id": "update",
       "label": "アップデート",
-      "count": 2
+      "count": 1
     },
     {
       "id": "event",
@@ -52,7 +52,7 @@
     {
       "id": "community",
       "label": "大会・コミュニティ",
-      "count": 1
+      "count": 2
     },
     {
       "id": "sales",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 33
+      "count": 32
     },
     {
       "id": "rise",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 1
+      "count": 2
     },
     {
       "id": "outlanders",
@@ -100,11 +100,11 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 60
+      "count": 59
     },
     {
       "name": "YouTube",
-      "count": 12
+      "count": 13
     },
     {
       "name": "電撃オンライン",
@@ -472,13 +472,55 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-14T04:00:14.632Z",
-    "previousCount": 107,
+    "previousAt": "2026-11-14T04:30:14.334Z",
+    "previousCount": 106,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-14T05:00:14.334Z",
+  "nextUpdateAt": "2026-11-14T05:27:42.167Z",
   "items": [
+    {
+      "id": "b71c0b7acbdd",
+      "title": "【モンハンアウトランダーズ】最強編成｜組み方とコツ【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/559703",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-14T04:03:12.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559703.png?date=1793082381",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "0574437f25e8",
+      "title": "【モンハンアウトランダーズ】ブリックスの評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577456",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-14T03:57:13.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577456.png?date=1790214292",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "78d907e0c7ca",
       "title": "【モンハンアウトランダーズ】ミドリの評価とおすすめ装備・編成【アウトランダーズ】",
@@ -498,7 +540,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "278fbd5d3ae7",
@@ -627,48 +669,6 @@
       "isNew": false
     },
     {
-      "id": "2d3ed020ccc5",
-      "title": "【モンハンアウトランダーズ】ガチャおすすめと一覧│引くべきガチャ【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531924",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-14T02:58:14.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531924.png?date=1793225649",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "0574437f25e8",
-      "title": "【モンハンアウトランダーズ】ブリックスの評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577456",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-14T02:44:58.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577456.png?date=1790214292",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "463ff0d23d63",
       "title": "【モンハンアウトランダーズ】クシャルダオラの弱点と攻略【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/583139",
@@ -711,6 +711,27 @@
       "isNew": false
     },
     {
+      "id": "5f4f7d30e3f0",
+      "title": "【モンハンアウトランダーズ】クレスの評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577459",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-14T02:20:09.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577459.png?date=1790214418",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "7cc6494b340f",
       "title": "【モンハンアウトランダーズ】絵装の厳選方法とおすすめ効果【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/575851",
@@ -732,6 +753,27 @@
       "isNew": false
     },
     {
+      "id": "a42c36a0ba91",
+      "title": "【モンハンアウトランダーズ】課金要素まとめとおすすめパック【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/560244",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-14T02:14:12.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560244.png?date=1793262813",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "3a6d0385a177",
       "title": "【モンハンアウトランダーズ】リュウノスケの評価とおすすめ装備・編成【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577455",
@@ -740,6 +782,27 @@
       "summary": "",
       "publishedAt": "2026-11-14T01:45:04.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577455.png?date=1790214244",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "7f8c91699fc3",
+      "title": "【モンハンアウトランダーズ】最強装備まとめ│おすすめ装備【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/559642",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-14T01:44:18.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559642.png?date=1793226347",
       "categories": [
         "guide"
       ],
@@ -846,27 +909,6 @@
       "summary": "",
       "publishedAt": "2026-11-14T01:01:11.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/584400.png?date=1793197547",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "7f8c91699fc3",
-      "title": "【モンハンアウトランダーズ】最強装備まとめ│おすすめ装備【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/559642",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-14T00:55:14.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559642.png?date=1793226347",
       "categories": [
         "guide"
       ],
@@ -1274,25 +1316,25 @@
       "isNew": false
     },
     {
-      "id": "a42c36a0ba91",
-      "title": "【モンハンアウトランダーズ】課金要素まとめとおすすめパック【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/560244",
-      "host": "gamewith.jp",
-      "source": "GameWith",
+      "id": "e12e3fa831da",
+      "title": "【ずんだもん実況】モンスターハンターストーリーズ【初見プレイ】part 49",
+      "url": "https://youtu.be/E1bBkFpOReY?si",
+      "host": "youtu.be",
+      "source": "YouTube",
       "summary": "",
-      "publishedAt": "2026-11-13T12:34:11.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560244.png?date=1793262813",
+      "publishedAt": "2026-11-13T13:00:37.000Z",
+      "image": "",
       "categories": [
-        "guide"
+        "community"
       ],
       "series": [
-        "outlanders"
+        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "5aebc693cc9e",
@@ -1335,17 +1377,17 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
-      "id": "5f4f7d30e3f0",
-      "title": "【モンハンアウトランダーズ】クレスの評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577459",
+      "id": "2d3ed020ccc5",
+      "title": "【モンハンアウトランダーズ】ガチャおすすめと一覧│引くべきガチャ【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531924",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-13T12:24:18.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577459.png?date=1790214418",
+      "publishedAt": "2026-11-13T12:26:21.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531924.png?date=1793225649",
       "categories": [
         "guide"
       ],
@@ -1378,6 +1420,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "bd81d62cb8d7",
+      "title": "【モンハンアウトランダーズ】キャラメイク(キャラクリ)のやり直し方とレシピの共有方法【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/575552",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-13T11:51:28.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575552.png?date=1793251639",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "c3ef4d2c6063",
@@ -1479,27 +1542,6 @@
       "series": [
         "wilds",
         "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "b71c0b7acbdd",
-      "title": "【モンハンアウトランダーズ】最強編成｜組み方とコツ【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/559703",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-13T11:16:24.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559703.png?date=1793082381",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1841,27 +1883,6 @@
       "image": "https://sm.ign.com/ign_jp/review/m/monster-hu/monster-hunter-outlanders-review_frd2.jpg",
       "categories": [
         "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f60bd4113653",
-      "title": "【モンハンアウトランダーズ】アップデート最新情報まとめ【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/587366",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-13T04:51:17.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/587366.png?date=1794371151",
-      "categories": [
-        "update"
       ],
       "series": [
         "outlanders"
@@ -2628,27 +2649,6 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261111-00000020-gamespav-000-1-view.jpg?exp=10800",
       "categories": [
         "new"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "2938a546a8fa",
-      "title": "【モンハンワイルズ】歴戦王の一覧と出し方【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/490792",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-11T04:34:09.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/490792.png?date=1742925638",
-      "categories": [
-        "other"
       ],
       "series": [
         "wilds"
