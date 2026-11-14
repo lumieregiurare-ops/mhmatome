@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T06:00:15.089Z",
+  "updatedAt": "2026-11-14T06:30:16.189Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 108,
-  "todayCount": 40,
+  "todayCount": 41,
   "categories": [
     {
       "id": "new",
@@ -17,7 +17,7 @@
     {
       "id": "update",
       "label": "アップデート",
-      "count": 1
+      "count": 2
     },
     {
       "id": "event",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 47
+      "count": 46
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 34
+      "count": 33
     },
     {
       "id": "rise",
@@ -94,13 +94,13 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 41
+      "count": 42
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 59
+      "count": 60
     },
     {
       "name": "YouTube",
@@ -131,12 +131,12 @@
       "count": 2
     },
     {
-      "name": "CAPCOM",
+      "name": "ウォーカープラス",
       "count": 2
     },
     {
-      "name": "ウォーカープラス",
-      "count": 2
+      "name": "Gamer",
+      "count": 1
     },
     {
       "name": "osaka style",
@@ -175,10 +175,6 @@
       "count": 1
     },
     {
-      "name": "Howl.Link",
-      "count": 1
-    },
-    {
       "name": "4Gamer.net",
       "count": 1
     },
@@ -188,6 +184,10 @@
     },
     {
       "name": "電ファミニコゲーマー",
+      "count": 1
+    },
+    {
+      "name": "CAPCOM",
       "count": 1
     },
     {
@@ -261,19 +261,26 @@
       "url": "https://www.4gamer.net/games/991/G999111/20261114001/",
       "image": "https://www.4gamer.net/games/991/G999111/20261114001/SS/001.jpg",
       "leadSource": "4Gamer",
-      "publishedAt": "2026-11-13T15:38:41.000Z",
+      "publishedAt": "2026-11-14T06:15:00.000Z",
       "sourceCount": 4,
       "articleCount": 4,
       "categories": [
-        "event",
-        "other"
+        "other",
+        "event"
       ],
       "keywords": [
         "miraino",
-        "ボウリング",
-        "イオンモール"
+        "イオンモール",
+        "オープン"
       ],
       "articles": [
+        {
+          "title": "全国初の「モンスターハンターボウリング」が登場！「MIRAINO イオンモール伊達店」が福島県で11月27日にオープン",
+          "url": "https://www.gamer.ne.jp/news/202611140018/",
+          "source": "Gamer",
+          "publishedAt": "2026-11-14T06:15:00.000Z",
+          "isPR": false
+        },
         {
           "title": "福島県伊達市に「MIRAINO イオンモール伊達店」が11月27日オープン全国初「モンスターハンターボウリング」が遊べる、カプコンの体験型アミューズメント施設",
           "url": "https://game.watch.impress.co.jp/docs/news/2156408.html",
@@ -286,13 +293,6 @@
           "url": "https://www.appbank.net/2026/11/13/iphone-news/3164793.php",
           "source": "AppBank",
           "publishedAt": "2026-11-13T07:01:20.000Z",
-          "isPR": false
-        },
-        {
-          "title": "全国初！？「モンスターハンター」のボウリングも展開！「MIRAINO イオンモール伊達店」が福島県に11月27日(金)オープン！",
-          "url": "https://www.capcom.co.jp/amusement/game/other/11740/",
-          "source": "CAPCOM",
-          "publishedAt": "2026-11-13T05:23:56.000Z",
           "isPR": false
         }
       ]
@@ -418,33 +418,6 @@
       ]
     },
     {
-      "id": "66341fb231ad",
-      "title": "友達とボイチャで盛り上がるPS5/PS4の協力・マルチプレイゲームおすすめ10選！ 『ヘルダイバー2』『モンハンワイルズ』など",
-      "summary": "",
-      "url": "https://dengekionline.com/article/202611/91271",
-      "image": "https://cimg.kgl-systems.io/camion/files/91271/thumbnail_aKvE.jpg?x=1280",
-      "leadSource": "電撃オンライン",
-      "publishedAt": "2026-11-14T02:30:00.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "guide",
-        "other"
-      ],
-      "keywords": [
-        "モンハンワイルズ"
-      ],
-      "articles": [
-        {
-          "title": "【モンハンワイルズ】視聴者参加型",
-          "url": "https://t.co/wwdo1MdHAW",
-          "source": "Howl.Link",
-          "publishedAt": "2026-11-12T09:09:38.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "a58b89c91732",
       "title": "大阪・なんばで「モンスターハンターNowカーニバル」開幕",
       "summary": "",
@@ -503,13 +476,53 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-14T05:30:19.961Z",
-    "previousCount": 107,
-    "newCount": 1
+    "previousAt": "2026-11-14T06:00:15.089Z",
+    "previousCount": 108,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-14T06:30:15.089Z",
+  "nextUpdateAt": "2026-11-14T07:00:16.189Z",
   "items": [
+    {
+      "id": "9ca758b79a88",
+      "title": "全国初の「モンスターハンターボウリング」が登場！「MIRAINO イオンモール伊達店」が福島県で11月27日にオープン",
+      "url": "https://www.gamer.ne.jp/news/202611140018/",
+      "host": "gamer.ne.jp",
+      "source": "Gamer",
+      "summary": "",
+      "publishedAt": "2026-11-14T06:15:00.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "5aebc693cc9e",
+      "title": "【モンハンアウトランダーズ】アケニアの評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577458",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-14T05:52:21.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577458.png?date=1790214381",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "b71c0b7acbdd",
       "title": "【モンハンアウトランダーズ】最強編成｜組み方とコツ【アウトランダーズ】",
@@ -553,6 +566,27 @@
       "isNew": false
     },
     {
+      "id": "6cc16e919d3b",
+      "title": "【モンハンアウトランダーズ】マドレの評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577464",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-14T05:01:12.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577464.png?date=1790214658",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "278fbd5d3ae7",
       "title": "【モンハンアウトランダーズ】フィーヤはいつ実装？【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/586524",
@@ -574,27 +608,6 @@
       "isNew": false
     },
     {
-      "id": "5aebc693cc9e",
-      "title": "【モンハンアウトランダーズ】アケニアの評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577458",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-14T04:49:44.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577458.png?date=1790214381",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "a43b030414e1",
       "title": "【モンハンアウトランダーズ】ルカの評価とおすすめ装備・編成【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577461",
@@ -603,27 +616,6 @@
       "summary": "",
       "publishedAt": "2026-11-14T04:49:32.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577461.png?date=1790214525",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "6cc16e919d3b",
-      "title": "【モンハンアウトランダーズ】マドレの評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577464",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-14T04:44:36.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577464.png?date=1790214658",
       "categories": [
         "guide"
       ],
@@ -792,6 +784,27 @@
       "summary": "",
       "publishedAt": "2026-11-14T03:21:09.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/561564.png?date=1790214134",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "28fa7ffdc007",
+      "title": "【モンハンアウトランダーズ】序盤おすすめ装備【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/581392",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-14T03:18:13.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/581392.png?date=1793225716",
       "categories": [
         "guide"
       ],
@@ -1204,27 +1217,6 @@
       "isNew": false
     },
     {
-      "id": "28fa7ffdc007",
-      "title": "【モンハンアウトランダーズ】序盤おすすめ装備【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/581392",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-13T19:21:43.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/581392.png?date=1793225716",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "b42f88b40196",
       "title": "【モンハンアウトランダーズ】ロードの評価とおすすめ装備・編成【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/583506",
@@ -1473,7 +1465,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a32d512021b1",
@@ -1948,23 +1940,25 @@
       "isNew": false
     },
     {
-      "id": "b01abaf301d6",
-      "title": "全国初！？「モンスターハンター」のボウリングも展開！「MIRAINO イオンモール伊達店」が福島県に11月27日(金)オープン！",
-      "url": "https://www.capcom.co.jp/amusement/game/other/11740/",
-      "host": "capcom.co.jp",
-      "source": "CAPCOM",
+      "id": "f60bd4113653",
+      "title": "【モンハンアウトランダーズ】アップデート最新情報まとめ【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/587366",
+      "host": "gamewith.jp",
+      "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-13T05:23:56.000Z",
-      "image": "",
+      "publishedAt": "2026-11-13T04:51:17.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/587366.png?date=1794371151",
       "categories": [
-        "other"
+        "update"
       ],
-      "series": [],
+      "series": [
+        "outlanders"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "00565dab7799",
@@ -2363,27 +2357,6 @@
         "other"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4cc57244e695",
-      "title": "【モンハンワイルズ】視聴者参加型",
-      "url": "https://t.co/wwdo1MdHAW",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-11-12T09:09:38.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
