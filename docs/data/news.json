@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T17:00:16.385Z",
+  "updatedAt": "2026-11-14T17:30:16.122Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 38
+      "count": 37
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 47
+      "count": 48
     }
   ],
   "series": [
@@ -94,13 +94,13 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 41
+      "count": 42
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 57
+      "count": 58
     },
     {
       "name": "YouTube",
@@ -117,10 +117,6 @@
     {
       "name": "Howl.Link",
       "count": 3
-    },
-    {
-      "name": "電撃オンライン",
-      "count": 2
     },
     {
       "name": "GAME Watch",
@@ -152,6 +148,10 @@
     },
     {
       "name": "Gamer",
+      "count": 1
+    },
+    {
+      "name": "電撃オンライン",
       "count": 1
     },
     {
@@ -622,12 +622,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-14T16:30:15.688Z",
+    "previousAt": "2026-11-14T17:00:16.385Z",
     "previousCount": 108,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-14T17:30:16.385Z",
+  "nextUpdateAt": "2026-11-14T18:00:16.122Z",
   "items": [
     {
       "id": "6cc16e919d3b",
@@ -861,14 +861,14 @@
       "isNew": false
     },
     {
-      "id": "2b76839ac2d7",
-      "title": "モンハンアウトランダーズ攻略",
-      "url": "https://gamewith.jp/mhoutlanders/",
+      "id": "28fa7ffdc007",
+      "title": "【モンハンアウトランダーズ】序盤おすすめ装備【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/581392",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-14T13:50:08.000Z",
-      "image": "https://img.gamewith.jp/assets/images/games/covers/0be2552647c41b7196a0ce7aaeb73feb.png",
+      "publishedAt": "2026-11-14T13:52:20.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/581392.png?date=1793225716",
       "categories": [
         "guide"
       ],
@@ -879,7 +879,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d4123a096654",
@@ -1091,7 +1091,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "278fbd5d3ae7",
@@ -1353,27 +1353,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "28fa7ffdc007",
-      "title": "【モンハンアウトランダーズ】序盤おすすめ装備【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/581392",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-14T05:14:04.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/581392.png?date=1793225716",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1860,6 +1839,27 @@
       "isNew": false
     },
     {
+      "id": "bd81d62cb8d7",
+      "title": "【モンハンアウトランダーズ】キャラメイク(キャラクリ)のやり直し方とレシピの共有方法【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/575552",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-13T11:51:28.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575552.png?date=1793251639",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "4cd467a24cc4",
       "title": "【アセンダンス】双剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/577734",
@@ -2067,23 +2067,25 @@
       "isNew": false
     },
     {
-      "id": "6bbb8534501c",
-      "title": "『モンハン』あの古龍の二つ名にも使われる“赫耀“の読み方は？【ゲーム漢字検定】",
-      "url": "https://dengekionline.com/article/images/202611/93903/930351",
-      "host": "dengekionline.com",
-      "source": "電撃オンライン",
+      "id": "0a0ef382b851",
+      "title": "【モンハンアウトランダーズ】融光種討伐の進め方と報酬【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/587701",
+      "host": "gamewith.jp",
+      "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-13T07:08:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/dengeki/93903/e22ceb34b6783a9e5c8ad148b1980617.jpg?x=1280",
+      "publishedAt": "2026-11-13T07:13:24.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/587701.png?date=1794564209",
       "categories": [
         "other"
       ],
-      "series": [],
+      "series": [
+        "outlanders"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "162ed3bce1fd",
