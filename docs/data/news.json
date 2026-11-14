@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T17:30:16.122Z",
+  "updatedAt": "2026-11-14T17:56:03.292Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -94,13 +94,13 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 42
+      "count": 41
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 58
+      "count": 57
     },
     {
       "name": "YouTube",
@@ -117,6 +117,10 @@
     {
       "name": "Howl.Link",
       "count": 3
+    },
+    {
+      "name": "電撃オンライン",
+      "count": 2
     },
     {
       "name": "GAME Watch",
@@ -148,10 +152,6 @@
     },
     {
       "name": "Gamer",
-      "count": 1
-    },
-    {
-      "name": "電撃オンライン",
       "count": 1
     },
     {
@@ -622,12 +622,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-14T17:00:16.385Z",
+    "previousAt": "2026-11-14T17:30:16.122Z",
     "previousCount": 108,
-    "newCount": 2
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-14T18:00:16.122Z",
+  "nextUpdateAt": "2026-11-14T18:26:03.292Z",
   "items": [
     {
       "id": "6cc16e919d3b",
@@ -686,6 +686,25 @@
       "series": [
         "outlanders"
       ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "e6d79acfa4bd",
+      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
+      "url": "https://gamewith.jp/mhwilds/563096",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-14T14:42:10.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
+      "categories": [
+        "guide"
+      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1302,25 +1321,6 @@
       "isNew": false
     },
     {
-      "id": "e6d79acfa4bd",
-      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
-      "url": "https://gamewith.jp/mhwilds/563096",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-14T08:13:20.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
-      "categories": [
-        "guide"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "9ca758b79a88",
       "title": "全国初の「モンスターハンターボウリング」が登場！「MIRAINO イオンモール伊達店」が福島県で11月27日にオープン",
       "url": "https://www.gamer.ne.jp/news/202611140018/",
@@ -1839,27 +1839,6 @@
       "isNew": false
     },
     {
-      "id": "bd81d62cb8d7",
-      "title": "【モンハンアウトランダーズ】キャラメイク(キャラクリ)のやり直し方とレシピの共有方法【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/575552",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-13T11:51:28.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575552.png?date=1793251639",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "4cd467a24cc4",
       "title": "【アセンダンス】双剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/577734",
@@ -2081,6 +2060,25 @@
       "series": [
         "outlanders"
       ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "6bbb8534501c",
+      "title": "『モンハン』あの古龍の二つ名にも使われる“赫耀“の読み方は？【ゲーム漢字検定】",
+      "url": "https://dengekionline.com/article/images/202611/93903/930351",
+      "host": "dengekionline.com",
+      "source": "電撃オンライン",
+      "summary": "",
+      "publishedAt": "2026-11-13T07:08:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/dengeki/93903/e22ceb34b6783a9e5c8ad148b1980617.jpg?x=1280",
+      "categories": [
+        "other"
+      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
