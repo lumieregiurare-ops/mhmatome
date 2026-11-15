@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-15T18:00:20.684Z",
+  "updatedAt": "2026-11-15T18:30:14.017Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 105,
-  "todayCount": 3,
+  "total": 104,
+  "todayCount": 4,
   "categories": [
     {
       "id": "new",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 46
+      "count": 45
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 37
+      "count": 36
     },
     {
       "id": "rise",
@@ -94,13 +94,13 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 42
+      "count": 41
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 63
+      "count": 62
     },
     {
       "name": "YouTube",
@@ -143,10 +143,6 @@
       "count": 1
     },
     {
-      "name": "Dellows News",
-      "count": 1
-    },
-    {
       "name": "号外NET 大阪市",
       "count": 1
     },
@@ -184,6 +180,10 @@
     },
     {
       "name": "玩具人 TOY PEOPLE",
+      "count": 1
+    },
+    {
+      "name": "CAPCOM",
       "count": 1
     },
     {
@@ -272,8 +272,8 @@
       "image": "https://www.4gamer.net/games/991/G999111/20261114001/SS/001.jpg",
       "leadSource": "4Gamer",
       "publishedAt": "2026-11-14T06:15:00.000Z",
-      "sourceCount": 4,
-      "articleCount": 4,
+      "sourceCount": 5,
+      "articleCount": 5,
       "categories": [
         "other",
         "event"
@@ -303,6 +303,13 @@
           "url": "https://www.appbank.net/2026/11/13/iphone-news/3164793.php",
           "source": "AppBank",
           "publishedAt": "2026-11-13T07:01:20.000Z",
+          "isPR": false
+        },
+        {
+          "title": "全国初！？「モンスターハンター」のボウリングも展開！「MIRAINO イオンモール伊達店」が福島県に11月27日(金)オープン！",
+          "url": "https://www.capcom.co.jp/amusement/game/other/11740/",
+          "source": "CAPCOM",
+          "publishedAt": "2026-11-13T05:23:56.000Z",
           "isPR": false
         }
       ]
@@ -442,13 +449,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-15T17:30:16.566Z",
-    "previousCount": 103,
-    "newCount": 2
+    "previousAt": "2026-11-15T18:00:20.684Z",
+    "previousCount": 105,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-15T18:30:20.684Z",
+  "nextUpdateAt": "2026-11-15T19:00:14.017Z",
   "items": [
+    {
+      "id": "83c2cd6f4a1b",
+      "title": "【モンハンアウトランダーズ】ストーリー攻略チャート【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531933",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-15T17:34:05.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531933.png?date=1793227277",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "278fbd5d3ae7",
       "title": "【モンハンアウトランダーズ】フィーヤはいつ実装？【アウトランダーズ】",
@@ -893,27 +921,6 @@
       "isNew": false
     },
     {
-      "id": "83c2cd6f4a1b",
-      "title": "【モンハンアウトランダーズ】ストーリー攻略チャート【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531933",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-15T12:17:07.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531933.png?date=1793227277",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "5f4f7d30e3f0",
       "title": "【モンハンアウトランダーズ】クレスの評価とおすすめ装備・編成【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577459",
@@ -1080,27 +1087,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "19dbc9b56c7e",
-      "title": "カプコン、モンスターハンターワイルズ拡張コンテンツにテオ・テスカトル登場へ",
-      "url": "https://news.dellows.jp/359650/?from",
-      "host": "news.dellows.jp",
-      "source": "Dellows News",
-      "summary": "",
-      "publishedAt": "2026-11-15T11:08:09.000Z",
-      "image": "https://news.dellows.jp/wp-content/uploads/2026/09/359650_1.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "778fbb3d5344",
@@ -2118,27 +2104,6 @@
       "isNew": false
     },
     {
-      "id": "48f27bc980e0",
-      "title": "【モンハンアウトランダーズ】取り返しのつかない要素【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/560314",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-13T11:25:17.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560314.png?date=1793276254",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "bb8fd1fbf7a3",
       "title": "【モンハンワイルズ】ヘビィボウガン擲弾の実戦テクニックと立ち回りチャート実況解説完全まとめ！フリチャレ歴戦王アルシュベルドにて解説！【MHWilds】",
       "url": "https://youtu.be/zc6aK97WCDI?si",
@@ -2189,7 +2154,7 @@
       "source": "GAME Watch",
       "summary": "カプコンは、福島県伊達市に開業する商業施設「イオンモール伊達」に新業態の体験型アミューズメント施設「MIRAINO イオンモール伊達店」を11月27日にオープンする。",
       "publishedAt": "2026-11-13T09:30:50.000Z",
-      "image": "",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2156/408/1.jpg",
       "categories": [
         "other"
       ],
@@ -2361,6 +2326,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "b01abaf301d6",
+      "title": "全国初！？「モンスターハンター」のボウリングも展開！「MIRAINO イオンモール伊達店」が福島県に11月27日(金)オープン！",
+      "url": "https://www.capcom.co.jp/amusement/game/other/11740/",
+      "host": "capcom.co.jp",
+      "source": "CAPCOM",
+      "summary": "",
+      "publishedAt": "2026-11-13T05:23:56.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "f5f4b66f2fff",
