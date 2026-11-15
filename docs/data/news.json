@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-15T14:30:16.081Z",
+  "updatedAt": "2026-11-15T15:00:15.268Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 103,
-  "todayCount": 47,
+  "total": 102,
+  "todayCount": 0,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 44
+      "count": 43
     },
     {
       "id": "sale",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 36
+      "count": 35
     },
     {
       "id": "rise",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 59
+      "count": 58
     },
     {
       "name": "YouTube",
@@ -167,7 +167,7 @@
       "count": 1
     },
     {
-      "name": "千葉テレビ放送",
+      "name": "Gamer",
       "count": 1
     },
     {
@@ -267,7 +267,7 @@
       "url": "https://www.4gamer.net/games/991/G999111/20261114001/",
       "image": "https://www.4gamer.net/games/991/G999111/20261114001/SS/001.jpg",
       "leadSource": "4Gamer",
-      "publishedAt": "2026-11-14T06:26:49.000Z",
+      "publishedAt": "2026-11-14T06:15:00.000Z",
       "sourceCount": 5,
       "articleCount": 5,
       "categories": [
@@ -282,9 +282,9 @@
       "articles": [
         {
           "title": "全国初の「モンスターハンターボウリング」が登場！「MIRAINO イオンモール伊達店」が福島県で11月27日にオープン",
-          "url": "https://www.chiba-tv.com/plus/detail/2026112223314",
-          "source": "千葉テレビ放送",
-          "publishedAt": "2026-11-14T06:26:49.000Z",
+          "url": "https://www.gamer.ne.jp/news/202611140018/",
+          "source": "Gamer",
+          "publishedAt": "2026-11-14T06:15:00.000Z",
           "isPR": false
         },
         {
@@ -319,7 +319,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-11-15T14:06:13.000Z",
       "sourceCount": 2,
-      "articleCount": 39,
+      "articleCount": 35,
       "categories": [
         "guide",
         "sales"
@@ -335,6 +335,13 @@
           "url": "https://gamewith.jp/mhoutlanders/577464",
           "source": "GameWith",
           "publishedAt": "2026-11-15T14:05:12.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンアウトランダーズ】最強キャラランキング【アウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/531927",
+          "source": "GameWith",
+          "publishedAt": "2026-11-15T14:04:15.000Z",
           "isPR": false
         },
         {
@@ -377,13 +384,6 @@
           "url": "https://gamewith.jp/mhoutlanders/577456",
           "source": "GameWith",
           "publishedAt": "2026-11-15T13:26:30.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンハンアウトランダーズ】ルカの評価とおすすめ装備・編成【アウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/577461",
-          "source": "GameWith",
-          "publishedAt": "2026-11-15T13:25:05.000Z",
           "isPR": false
         }
       ]
@@ -559,12 +559,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-15T14:00:15.086Z",
-    "previousCount": 102,
-    "newCount": 2
+    "previousAt": "2026-11-15T14:30:16.081Z",
+    "previousCount": 103,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-15T15:00:16.081Z",
+  "nextUpdateAt": "2026-11-15T15:30:15.268Z",
   "items": [
     {
       "id": "b71c0b7acbdd",
@@ -598,6 +598,28 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577464.png?date=1790214658",
       "categories": [
         "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "60f3de2f47ec",
+      "title": "【モンハンアウトランダーズ】最強キャラランキング【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531927",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-15T14:04:15.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531927.png?date=1793082334",
+      "categories": [
+        "guide",
+        "sales"
       ],
       "series": [
         "outlanders"
@@ -1154,28 +1176,6 @@
       "isNew": false
     },
     {
-      "id": "60f3de2f47ec",
-      "title": "【モンハンアウトランダーズ】最強キャラランキング【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531927",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-15T06:25:07.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531927.png?date=1793082334",
-      "categories": [
-        "guide",
-        "sales"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "778fbb3d5344",
       "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/577281",
@@ -1560,7 +1560,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f120aee52244",
@@ -1775,35 +1775,14 @@
       "isNew": false
     },
     {
-      "id": "87e4b8514801",
-      "title": "【モンハンワイルズ】双剣の最強装備・おすすめ装備【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/484913",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-14T07:00:12.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/484913.png?date=1740686517",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "9ca758b79a88",
       "title": "全国初の「モンスターハンターボウリング」が登場！「MIRAINO イオンモール伊達店」が福島県で11月27日にオープン",
-      "url": "https://www.chiba-tv.com/plus/detail/2026112223314",
-      "host": "chiba-tv.com",
-      "source": "千葉テレビ放送",
+      "url": "https://www.gamer.ne.jp/news/202611140018/",
+      "host": "gamer.ne.jp",
+      "source": "Gamer",
       "summary": "",
-      "publishedAt": "2026-11-14T06:26:49.000Z",
-      "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1494222434307949572/origin_1.jpg",
+      "publishedAt": "2026-11-14T06:15:00.000Z",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -2430,7 +2409,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f5f4b66f2fff",
