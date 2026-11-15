@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T11:00:14.829Z",
+  "updatedAt": "2026-11-15T11:30:20.696Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 41
+      "count": 42
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 46
+      "count": 45
     }
   ],
   "series": [
@@ -94,13 +94,13 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 39
+      "count": 40
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 55
+      "count": 57
     },
     {
       "name": "YouTube",
@@ -116,10 +116,6 @@
     },
     {
       "name": "電撃オンライン",
-      "count": 2
-    },
-    {
-      "name": "Howl.Link",
       "count": 2
     },
     {
@@ -183,11 +179,11 @@
       "count": 1
     },
     {
-      "name": "CAPCOM",
+      "name": "ニュープリネット",
       "count": 1
     },
     {
-      "name": "ニュープリネット",
+      "name": "Howl.Link",
       "count": 1
     },
     {
@@ -268,8 +264,8 @@
       "image": "https://www.4gamer.net/games/991/G999111/20261114001/SS/001.jpg",
       "leadSource": "4Gamer",
       "publishedAt": "2026-11-14T06:15:00.000Z",
-      "sourceCount": 5,
-      "articleCount": 5,
+      "sourceCount": 4,
+      "articleCount": 4,
       "categories": [
         "other",
         "event"
@@ -299,13 +295,6 @@
           "url": "https://www.appbank.net/2026/11/13/iphone-news/3164793.php",
           "source": "AppBank",
           "publishedAt": "2026-11-13T07:01:20.000Z",
-          "isPR": false
-        },
-        {
-          "title": "全国初！？「モンスターハンター」のボウリングも展開！「MIRAINO イオンモール伊達店」が福島県に11月27日(金)オープン！",
-          "url": "https://www.capcom.co.jp/amusement/game/other/11740/",
-          "source": "CAPCOM",
-          "publishedAt": "2026-11-13T05:23:56.000Z",
           "isPR": false
         }
       ]
@@ -518,12 +507,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-15T10:30:15.463Z",
-    "previousCount": 100,
-    "newCount": 4
+    "previousAt": "2026-11-15T11:00:14.829Z",
+    "previousCount": 102,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-15T11:30:14.829Z",
+  "nextUpdateAt": "2026-11-15T12:00:20.696Z",
   "items": [
     {
       "id": "278fbd5d3ae7",
@@ -1435,7 +1424,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "17a411cdac1d",
@@ -1731,6 +1720,27 @@
       "isNew": false
     },
     {
+      "id": "ce5953ef1ee6",
+      "title": "【モンハンワイルズ】操虫棍の最強装備・おすすめ装備【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/484940",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-14T05:29:24.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/484940.png?date=1740711372",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "e3b0c280e7c7",
       "title": "【モンスターハンターワイルズ】歴戦王アルシュベルドフリチャレで10分切りの為に足掻いた男の結末",
       "url": "https://youtu.be/NQP1jOuscJI?si",
@@ -1899,27 +1909,6 @@
       "isNew": false
     },
     {
-      "id": "509f68640cdc",
-      "title": "【モンハンワイルズ】参加型！！人生初のモンハンだぁ🦖皆んなで狩猟解禁だぁぁ～！！！【 #vtuber #朝活 #monsterhunter",
-      "url": "https://t.co/JsVOp7WWio",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-11-13T21:55:47.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "c7d2d80d3e7e",
       "title": "【モンスターハンターダブルクロス】今日はどんな装備を作ろうかな～",
       "url": "https://youtu.be/dVODepGQmgo?si",
@@ -2058,7 +2047,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "35280c407c34",
@@ -2122,6 +2111,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "95455a3925b4",
+      "title": "【モンハンアウトランダーズ】力尽きるとどうなる？｜ダウン時のデメリット・デスペナルティ【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/574668",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-13T12:36:08.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574668.png?date=1789017678",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "7f24dcaf2173",
@@ -2328,25 +2338,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "b01abaf301d6",
-      "title": "全国初！？「モンスターハンター」のボウリングも展開！「MIRAINO イオンモール伊達店」が福島県に11月27日(金)オープン！",
-      "url": "https://www.capcom.co.jp/amusement/game/other/11740/",
-      "host": "capcom.co.jp",
-      "source": "CAPCOM",
-      "summary": "",
-      "publishedAt": "2026-11-13T05:23:56.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "e69b2dc96aa1",
