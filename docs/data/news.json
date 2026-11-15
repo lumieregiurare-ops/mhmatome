@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-15T17:30:16.566Z",
+  "updatedAt": "2026-11-15T18:00:20.684Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 103,
+  "total": 105,
   "todayCount": 3,
   "categories": [
     {
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 44
+      "count": 46
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 36
+      "count": 37
     },
     {
       "id": "rise",
@@ -94,13 +94,13 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 41
+      "count": 42
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 62
+      "count": 63
     },
     {
       "name": "YouTube",
@@ -140,6 +140,10 @@
     },
     {
       "name": "Prepaid mania",
+      "count": 1
+    },
+    {
+      "name": "Dellows News",
       "count": 1
     },
     {
@@ -438,12 +442,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-15T17:00:16.302Z",
-    "previousCount": 102,
+    "previousAt": "2026-11-15T17:30:16.566Z",
+    "previousCount": 103,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-15T18:00:16.566Z",
+  "nextUpdateAt": "2026-11-15T18:30:20.684Z",
   "items": [
     {
       "id": "278fbd5d3ae7",
@@ -1076,6 +1080,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "19dbc9b56c7e",
+      "title": "カプコン、モンスターハンターワイルズ拡張コンテンツにテオ・テスカトル登場へ",
+      "url": "https://news.dellows.jp/359650/?from",
+      "host": "news.dellows.jp",
+      "source": "Dellows News",
+      "summary": "",
+      "publishedAt": "2026-11-15T11:08:09.000Z",
+      "image": "https://news.dellows.jp/wp-content/uploads/2026/09/359650_1.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "778fbb3d5344",
@@ -2069,7 +2094,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "bd81d62cb8d7",
@@ -2080,6 +2105,27 @@
       "summary": "",
       "publishedAt": "2026-11-13T11:51:28.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575552.png?date=1793251639",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "48f27bc980e0",
+      "title": "【モンハンアウトランダーズ】取り返しのつかない要素【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/560314",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-13T11:25:17.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560314.png?date=1793276254",
       "categories": [
         "other"
       ],
@@ -2143,7 +2189,7 @@
       "source": "GAME Watch",
       "summary": "カプコンは、福島県伊達市に開業する商業施設「イオンモール伊達」に新業態の体験型アミューズメント施設「MIRAINO イオンモール伊達店」を11月27日にオープンする。",
       "publishedAt": "2026-11-13T09:30:50.000Z",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2156/408/1.jpg",
+      "image": "",
       "categories": [
         "other"
       ],
