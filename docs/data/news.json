@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-15T22:30:17.509Z",
+  "updatedAt": "2026-11-15T23:00:15.670Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 101,
+  "total": 100,
   "todayCount": 8,
   "categories": [
     {
@@ -27,7 +27,7 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 6
+      "count": 4
     },
     {
       "id": "goods",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 43
+      "count": 44
     }
   ],
   "series": [
@@ -104,7 +104,7 @@
     },
     {
       "name": "YouTube",
-      "count": 10
+      "count": 11
     },
     {
       "name": "osaka style",
@@ -120,10 +120,6 @@
     },
     {
       "name": "GAME Watch",
-      "count": 2
-    },
-    {
-      "name": "ファミ通",
       "count": 2
     },
     {
@@ -175,6 +171,10 @@
       "count": 1
     },
     {
+      "name": "ファミ通",
+      "count": 1
+    },
+    {
       "name": "www.tv-tokyo.co.jp",
       "count": 1
     },
@@ -188,10 +188,6 @@
     },
     {
       "name": "ニュープリネット",
-      "count": 1
-    },
-    {
-      "name": "ウォーカープラス",
       "count": 1
     },
     {
@@ -471,12 +467,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-15T22:00:16.142Z",
-    "previousCount": 100,
+    "previousAt": "2026-11-15T22:30:17.509Z",
+    "previousCount": 101,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-15T23:00:17.509Z",
+  "nextUpdateAt": "2026-11-15T23:30:15.670Z",
   "items": [
     {
       "id": "3d596f6fe3e7",
@@ -1129,7 +1125,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "778fbb3d5344",
@@ -1351,6 +1347,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "967342773f18",
+      "title": "懐かしのモンハン2G一からプレイ イャンクック先生に会いに行く編【MH2G】",
+      "url": "https://youtu.be/sSudsarkp98?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-14T23:13:37.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "2dd0a4c576af",
@@ -2432,25 +2447,6 @@
       "isNew": false
     },
     {
-      "id": "37e49d941582",
-      "title": "『モンハン』の世界が文化祭に！ バンタン文化祭2026が11月14日開催。謎解きクエストやコラボカフェなど特別企画を実施【バンタン文化祭2026】",
-      "url": "https://www.famitsu.com/article/images/202611/91788/908891",
-      "host": "famitsu.com",
-      "source": "ファミ通",
-      "summary": "",
-      "publishedAt": "2026-11-13T02:10:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/91788/aa7eeaf1d3e51d8e0e74dd388b92d74b9.jpg?x=1280",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "c4910477ac4f",
       "title": "【カプコン技術講演】『ストリートファイター6』から『モンスターハンターワイルズ』へと続く、再現可能なサーバー設計思想と基盤化のプロセス [RE:2026 2026年10月2日登壇]",
       "url": "https://youtu.be/Yp2ZgnvcN0w?si",
@@ -2527,25 +2523,6 @@
         "wilds",
         "world"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "22f58a63d794",
-      "title": "カプコン×JR東海のコラボが開催！モンスターハンターやストリートファイターのキャラと旅に出よう",
-      "url": "https://www.walkerplus.com/article/1176995/",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-11-12T22:58:16.000Z",
-      "image": "https://news.walkerplus.com/article/1176995/12576575_615.jpg",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
