@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-15T18:30:14.017Z",
+  "updatedAt": "2026-11-15T19:00:17.244Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 104,
-  "todayCount": 4,
+  "total": 103,
+  "todayCount": 5,
   "categories": [
     {
       "id": "new",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 45
+      "count": 44
     }
   ],
   "series": [
@@ -183,10 +183,6 @@
       "count": 1
     },
     {
-      "name": "CAPCOM",
-      "count": 1
-    },
-    {
       "name": "ガジェット通信",
       "count": 1
     },
@@ -272,8 +268,8 @@
       "image": "https://www.4gamer.net/games/991/G999111/20261114001/SS/001.jpg",
       "leadSource": "4Gamer",
       "publishedAt": "2026-11-14T06:15:00.000Z",
-      "sourceCount": 5,
-      "articleCount": 5,
+      "sourceCount": 4,
+      "articleCount": 4,
       "categories": [
         "other",
         "event"
@@ -303,13 +299,6 @@
           "url": "https://www.appbank.net/2026/11/13/iphone-news/3164793.php",
           "source": "AppBank",
           "publishedAt": "2026-11-13T07:01:20.000Z",
-          "isPR": false
-        },
-        {
-          "title": "全国初！？「モンスターハンター」のボウリングも展開！「MIRAINO イオンモール伊達店」が福島県に11月27日(金)オープン！",
-          "url": "https://www.capcom.co.jp/amusement/game/other/11740/",
-          "source": "CAPCOM",
-          "publishedAt": "2026-11-13T05:23:56.000Z",
           "isPR": false
         }
       ]
@@ -449,13 +438,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-15T18:00:20.684Z",
-    "previousCount": 105,
-    "newCount": 1
+    "previousAt": "2026-11-15T18:30:14.017Z",
+    "previousCount": 104,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-15T19:00:14.017Z",
+  "nextUpdateAt": "2026-11-15T19:30:17.244Z",
   "items": [
+    {
+      "id": "0895ceb6f513",
+      "title": "【モンハンアウトランダーズ】ヘイズの評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/583505",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-15T18:13:27.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583505.png?date=1792581250",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "83c2cd6f4a1b",
       "title": "【モンハンアウトランダーズ】ストーリー攻略チャート【アウトランダーズ】",
@@ -824,27 +834,6 @@
       "summary": "",
       "publishedAt": "2026-11-15T12:56:13.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559642.png?date=1793226347",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "0895ceb6f513",
-      "title": "【モンハンアウトランダーズ】ヘイズの評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/583505",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-15T12:55:19.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583505.png?date=1792581250",
       "categories": [
         "guide"
       ],
@@ -2326,25 +2315,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "b01abaf301d6",
-      "title": "全国初！？「モンスターハンター」のボウリングも展開！「MIRAINO イオンモール伊達店」が福島県に11月27日(金)オープン！",
-      "url": "https://www.capcom.co.jp/amusement/game/other/11740/",
-      "host": "capcom.co.jp",
-      "source": "CAPCOM",
-      "summary": "",
-      "publishedAt": "2026-11-13T05:23:56.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "f5f4b66f2fff",
