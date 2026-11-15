@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T11:30:20.696Z",
+  "updatedAt": "2026-11-15T12:00:15.950Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 33
+      "count": 35
     },
     {
       "id": "rise",
@@ -84,7 +84,7 @@
     {
       "id": "now",
       "label": "Now",
-      "count": 6
+      "count": 5
     },
     {
       "id": "stories",
@@ -94,7 +94,7 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 40
+      "count": 39
     }
   ],
   "sources": [
@@ -119,6 +119,10 @@
       "count": 2
     },
     {
+      "name": "Howl.Link",
+      "count": 2
+    },
+    {
       "name": "GAME Watch",
       "count": 2
     },
@@ -132,10 +136,6 @@
     },
     {
       "name": "IGN Japan",
-      "count": 2
-    },
-    {
-      "name": "ガジェット通信",
       "count": 2
     },
     {
@@ -179,11 +179,11 @@
       "count": 1
     },
     {
-      "name": "ニュープリネット",
+      "name": "ガジェット通信",
       "count": 1
     },
     {
-      "name": "Howl.Link",
+      "name": "ニュープリネット",
       "count": 1
     },
     {
@@ -507,12 +507,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-15T11:00:14.829Z",
+    "previousAt": "2026-11-15T11:30:20.696Z",
     "previousCount": 102,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-15T12:00:20.696Z",
+  "nextUpdateAt": "2026-11-15T12:30:15.950Z",
   "items": [
     {
       "id": "278fbd5d3ae7",
@@ -1738,7 +1738,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e3b0c280e7c7",
@@ -1907,6 +1907,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "509f68640cdc",
+      "title": "【モンハンワイルズ】参加型！！人生初のモンハンだぁ🦖皆んなで狩猟解禁だぁぁ～！！！【 #vtuber #朝活 #monsterhunter",
+      "url": "https://t.co/JsVOp7WWio",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-11-13T21:55:47.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "c7d2d80d3e7e",
@@ -2111,27 +2132,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "95455a3925b4",
-      "title": "【モンハンアウトランダーズ】力尽きるとどうなる？｜ダウン時のデメリット・デスペナルティ【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/574668",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-13T12:36:08.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574668.png?date=1789017678",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "7f24dcaf2173",
@@ -2540,6 +2540,27 @@
       "isNew": false
     },
     {
+      "id": "467dafff0c9e",
+      "title": "【モンハンワイルズ】アーティア武器のおすすめ装備まとめ【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/488006",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-12T20:04:28.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/488006.png?date=1741210174",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "cd48f271940c",
       "title": "ゾシアをセクレトに乗ったまま倒してみた！【モンハンワイルズ】",
       "url": "https://youtu.be/N-ynEnhmVUE?si",
@@ -2574,27 +2595,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "70725b0ae126",
-      "title": "『モンハンNow』次元ナルガ＆アマツ攻略法は!? 新たな武器調整や新コンテンツなど未来を覗くインタビュー第2弾【新環境＆未来編】",
-      "url": "https://getnews.jp/archives/3754771",
-      "host": "getnews.jp",
-      "source": "ガジェット通信",
-      "summary": "",
-      "publishedAt": "2026-11-12T12:00:08.000Z",
-      "image": "https://rensai.jp/wp-content/uploads/2026/11/05ff8ab245100b9306920baba8812413.jpg",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "now"
       ],
       "isOfficial": false,
       "isPR": false,
