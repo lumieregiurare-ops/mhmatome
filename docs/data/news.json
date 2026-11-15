@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-15T16:00:16.233Z",
+  "updatedAt": "2026-11-15T16:30:18.854Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 101,
+  "total": 102,
   "todayCount": 2,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 44
+      "count": 45
     },
     {
       "id": "sale",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 35
+      "count": 36
     },
     {
       "id": "rise",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 59
+      "count": 60
     },
     {
       "name": "YouTube",
@@ -516,12 +516,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-15T15:30:21.909Z",
-    "previousCount": 103,
+    "previousAt": "2026-11-15T16:00:16.233Z",
+    "previousCount": 101,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-15T16:30:16.233Z",
+  "nextUpdateAt": "2026-11-15T17:00:18.854Z",
   "items": [
     {
       "id": "a32d512021b1",
@@ -733,7 +733,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0574437f25e8",
@@ -2048,7 +2048,7 @@
       "source": "GAME Watch",
       "summary": "Amazonにてゲーミングチェア「Secretlab TITAN Evo」のモンスターハンターコラボ商品が特別価格で販売されている。期間は11月22日23時59分まで。",
       "publishedAt": "2026-11-13T15:05:00.000Z",
-      "image": "",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2156/310/000.jpg",
       "categories": [
         "sale",
         "collab"
@@ -2307,6 +2307,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "14a3ee9d033c",
+      "title": "【モンハンワイルズ】ユニオン鉱石の入手方法と効率的な集め方【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/487485",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-13T06:29:08.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "96932c941c44",
