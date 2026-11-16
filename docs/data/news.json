@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-16T00:30:20.572Z",
+  "updatedAt": "2026-11-16T01:00:16.702Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 97,
-  "todayCount": 9,
+  "total": 96,
+  "todayCount": 12,
   "categories": [
     {
       "id": "new",
@@ -32,7 +32,7 @@
     {
       "id": "goods",
       "label": "グッズ・フィギュア",
-      "count": 3
+      "count": 2
     },
     {
       "id": "media",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 42
+      "count": 43
     },
     {
       "id": "sale",
@@ -57,12 +57,12 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 3
+      "count": 4
     },
     {
       "id": "other",
       "label": "その他",
-      "count": 42
+      "count": 41
     }
   ],
   "series": [
@@ -151,7 +151,7 @@
       "count": 1
     },
     {
-      "name": "インサイド",
+      "name": "Yahoo!ニュース",
       "count": 1
     },
     {
@@ -184,10 +184,6 @@
     },
     {
       "name": "ガジェット通信",
-      "count": 1
-    },
-    {
-      "name": "ニュープリネット",
       "count": 1
     },
     {
@@ -337,7 +333,7 @@
       "title": "【Amazonセール】Secretlabの「モンハン」コラボデザインゲーミングチェアがお買い得！ 「ミラボレアス エディション」が登場",
       "summary": "Amazonにてゲーミングチェア「Secretlab TITAN Evo」のモンスターハンターコラボ商品が特別価格で販売されている。期間は11月22日23時59分まで。",
       "url": "https://game.watch.impress.co.jp/docs/news/2156310.html",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2156/310/000.jpg",
+      "image": "https://image.news.livedoor.com/newsimage/stf/7/e/7e354_1838_fb92c7df8d147d7be2550afe38e8f676.jpg",
       "leadSource": "GAME Watch",
       "publishedAt": "2026-11-13T15:05:00.000Z",
       "sourceCount": 2,
@@ -390,13 +386,76 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-16T00:00:17.431Z",
+    "previousAt": "2026-11-16T00:30:20.572Z",
     "previousCount": 97,
-    "newCount": 0
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-16T01:00:20.572Z",
+  "nextUpdateAt": "2026-11-16T01:30:16.702Z",
   "items": [
+    {
+      "id": "5aebc693cc9e",
+      "title": "【モンハンアウトランダーズ】アケニアの評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577458",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-16T00:28:09.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577458.png?date=1790214381",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "de51f2f1d013",
+      "title": "【モンハンアウトランダーズ】主人公(太刀)の評価とおすすめ装備・編成【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577470",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-16T00:14:24.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577470.png?date=1790214930",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "2d3ed020ccc5",
+      "title": "【モンハンアウトランダーズ】ガチャおすすめと一覧│引くべきガチャ【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531924",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-16T00:00:10.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531924.png?date=1793225649",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "278fbd5d3ae7",
       "title": "【モンハンアウトランダーズ】フィーヤはいつ実装？【アウトランダーズ】",
@@ -482,16 +541,17 @@
       "isNew": false
     },
     {
-      "id": "5aebc693cc9e",
-      "title": "【モンハンアウトランダーズ】アケニアの評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577458",
+      "id": "60f3de2f47ec",
+      "title": "【モンハンアウトランダーズ】最強キャラランキング【アウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531927",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-15T19:48:10.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577458.png?date=1790214381",
+      "publishedAt": "2026-11-15T19:22:04.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531927.png?date=1793082334",
       "categories": [
-        "guide"
+        "guide",
+        "sales"
       ],
       "series": [
         "outlanders"
@@ -500,7 +560,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "0895ceb6f513",
@@ -693,27 +753,6 @@
       "isNew": false
     },
     {
-      "id": "2d3ed020ccc5",
-      "title": "【モンハンアウトランダーズ】ガチャおすすめと一覧│引くべきガチャ【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531924",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-15T13:30:36.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531924.png?date=1793225649",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "4d0165104921",
       "title": "【モンハンアウトランダーズ】スキルシミュレーター【アウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/584400",
@@ -848,27 +887,6 @@
       "summary": "",
       "publishedAt": "2026-11-15T12:31:10.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575851.png?date=1789454673",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "de51f2f1d013",
-      "title": "【モンハンアウトランダーズ】主人公(太刀)の評価とおすすめ装備・編成【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577470",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-15T12:19:08.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577470.png?date=1790214930",
       "categories": [
         "guide"
       ],
@@ -1522,13 +1540,13 @@
     },
     {
       "id": "00d9e48a9bb2",
-      "title": "今年の冬は豪華すぎる！13年ぶり『GTA6』、スイッチ2版『モンハンワイルズ』に『レイトン教授』など2026年年末商戦の大型ゲーム5選【特集】",
-      "url": "https://www.inside-games.jp/article/2026/11/14/190955.html",
-      "host": "inside-games.jp",
-      "source": "インサイド",
-      "summary": "『GTA6』や『モンハンワイルズ』スイッチ2版など、2026年年末を彩る注目大型タイトル5選をご紹介します。",
+      "title": "今年の冬は豪華すぎる！13年ぶり『GTA6』、スイッチ2版『モンハンワイルズ』に『レイトン教授』など2026年年末商戦の大型ゲーム5選【特集】（インサイド）",
+      "url": "https://news.yahoo.co.jp/articles/a57c2605cf7e355eb04fd82f887c5c46d1937c32",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
       "publishedAt": "2026-11-14T09:00:03.000Z",
-      "image": "https://www.inside-games.jp/imgs/rss/1801927.png",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261114-00000031-isd-000-1-view.jpg?exp=10800",
       "categories": [
         "other"
       ],
@@ -1881,7 +1899,7 @@
       "source": "GAME Watch",
       "summary": "Amazonにてゲーミングチェア「Secretlab TITAN Evo」のモンスターハンターコラボ商品が特別価格で販売されている。期間は11月22日23時59分まで。",
       "publishedAt": "2026-11-13T15:05:00.000Z",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2156/310/000.jpg",
+      "image": "",
       "categories": [
         "sale",
         "collab"
@@ -1948,27 +1966,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "95455a3925b4",
-      "title": "【モンハンアウトランダーズ】力尽きるとどうなる？｜ダウン時のデメリット・デスペナルティ【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/574668",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-13T12:36:08.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574668.png?date=1789017678",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -2365,25 +2362,6 @@
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f89e1395250d",
-      "title": "キンコーズ 「モンスターハンターNowカーニバル 2026：大阪」に参画 限定グッズ販売や無料フォトプリント、歴代キービジュアルを展示【11月14〜15日】",
-      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNSnh5YzhzLVFQang2ZFozZTJUSGlGWUhaN0hkRHpJak96eF84dU9kTDdaWE9xMG5PZTVlZFdLamZBRENGZENlMXZONWt0Smd6V25tX2gzNmNPcklYRUlsa005aXpoWGRkLUNzWnltQ0wzbmJVOThwMlFNUVRsT1BiRUlOZzNZblJnVDJwUzUySWhUb2ZMTGdCMktwaXVWSFNFcDdWUWZPQ21ZeHdOSjRlbmxBS2xuRWlHX2h4UUhaLVNub3paYWJEc0M0eDNpWk9NWW53OURCNUNLM0FjSmhEZWc1VU5Hb3JQandwV1RyOWxmT2JVbXB4bDA3UlpKczRKMXZuWHBfVlgyRmNubVp4NGVWellDSHJxZjdvRWNwOE1RbUkzU0xqaF9iRVdTRGFYVnFxVEg0R2ZtWGxGbDZpRHFoYUR4T1Bf?oc=5",
-      "host": "newprinet.co.jp",
-      "source": "ニュープリネット",
-      "summary": "",
-      "publishedAt": "2026-11-13T01:00:06.000Z",
-      "image": "",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
