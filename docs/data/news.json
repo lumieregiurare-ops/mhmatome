@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-16T16:00:17.954Z",
+  "updatedAt": "2026-11-16T16:30:16.635Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 84,
+  "total": 86,
   "todayCount": 0,
   "categories": [
     {
@@ -27,7 +27,7 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 3
+      "count": 2
     },
     {
       "id": "goods",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 37
+      "count": 38
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 37
+      "count": 38
     }
   ],
   "series": [
@@ -74,7 +74,7 @@
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 2
+      "count": 4
     },
     {
       "id": "world",
@@ -94,13 +94,13 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 35
+      "count": 36
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 51
+      "count": 54
     },
     {
       "name": "YouTube",
@@ -112,10 +112,6 @@
     },
     {
       "name": "ｄメニューニュース",
-      "count": 2
-    },
-    {
-      "name": "AppMedia",
       "count": 2
     },
     {
@@ -135,11 +131,15 @@
       "count": 1
     },
     {
+      "name": "ニコニコニュース",
+      "count": 1
+    },
+    {
       "name": "AppBank",
       "count": 1
     },
     {
-      "name": "Infoseek",
+      "name": "AppMedia",
       "count": 1
     },
     {
@@ -189,36 +189,36 @@
   ],
   "topics": [
     {
-      "id": "9ae6b4dfcd29",
-      "title": "『モンスターハンターNow』大阪イベントに延べ約12,000人が集結！ グローバルイベントは11月28日から",
+      "id": "448af02905fc",
+      "title": "大阪の街に国内外から延べ約12,000人のハンターが集結！「モンスターハンターNowカーニバル 2026：大阪」を開催",
       "summary": "",
-      "url": "https://www.appbank.net/2026/11/16/game/3167311.php",
+      "url": "https://news.nicovideo.jp/watch/nw19997076?from",
       "image": "https://www.appbank.net/wp-content/uploads/2026/11/20261116_121415_012_01.webp",
-      "leadSource": "AppBank",
-      "publishedAt": "2026-11-16T05:30:29.000Z",
-      "sourceCount": 7,
-      "articleCount": 8,
+      "leadSource": "ニコニコニュース",
+      "publishedAt": "2026-11-16T09:30:14.000Z",
+      "sourceCount": 6,
+      "articleCount": 7,
       "categories": [
         "other"
       ],
       "keywords": [
         "now",
-        "大阪",
-        "ハンター"
+        "ハンター",
+        "大阪"
       ],
       "articles": [
+        {
+          "title": "『モンスターハンターNow』大阪イベントに延べ約12,000人が集結！ グローバルイベントは11月28日から",
+          "url": "https://www.appbank.net/2026/11/16/game/3167311.php",
+          "source": "AppBank",
+          "publishedAt": "2026-11-16T05:30:29.000Z",
+          "isPR": false
+        },
         {
           "title": "「モンスターハンターNowカーニバル 2026：大阪」のイベントレポートが到着！国内外の12,000人のハンターが古龍アマツマガツチの狩猟に挑戦",
           "url": "https://www.gamer.ne.jp/news/202611160021/",
           "source": "Gamer",
           "publishedAt": "2026-11-16T04:40:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "大阪の街に国内外から延べ約12,000人のハンターが集結！「モンスターハンターNowカーニバル 2026：大阪」を開催",
-          "url": "https://news.infoseek.co.jp/article/prtimes_000000011_000177618/",
-          "source": "Infoseek",
-          "publishedAt": "2026-11-16T02:30:31.000Z",
           "isPR": false
         },
         {
@@ -248,43 +248,64 @@
           "source": "ｄメニューニュース",
           "publishedAt": "2026-11-15T01:00:00.000Z",
           "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "094fc5fd459a",
+      "title": "渋谷から2年ぶり！心斎橋・なんばで「モンハンNowカーニバル2026：大阪」が開幕",
+      "summary": "",
+      "url": "https://news.livedoor.com/article/detail/32818386/",
+      "image": "https://image.news.livedoor.com/newsimage/stf/d/c/dcf02_1845_b18f0181_ff3ce64f.jpg",
+      "leadSource": "ライブドアニュース",
+      "publishedAt": "2026-11-14T08:40:02.000Z",
+      "sourceCount": 2,
+      "articleCount": 3,
+      "categories": [
+        "other",
+        "guide"
+      ],
+      "keywords": [
+        "モンハンNow",
+        "now",
+        "モンハンナウ"
+      ],
+      "articles": [
+        {
+          "title": "【モンハンナウ】モンハンNow感謝祭【3周年記念】【モンハンNow】",
+          "url": "https://gamewith.jp/monsterhunternow/article/show/577438",
+          "source": "GameWith",
+          "publishedAt": "2026-11-13T19:27:18.000Z",
+          "isPR": false
         },
         {
-          "title": "渋谷から2年ぶり！心斎橋・なんばで「モンハンNowカーニバル2026：大阪」が開幕",
-          "url": "https://news.livedoor.com/article/detail/32818386/",
-          "source": "ライブドアニュース",
-          "publishedAt": "2026-11-14T08:40:02.000Z",
+          "title": "【モンハンナウ】最強装備・おすすめ装備まとめ【モンハンNow】",
+          "url": "https://gamewith.jp/monsterhunternow/article/show/414964",
+          "source": "GameWith",
+          "publishedAt": "2026-11-13T18:40:29.000Z",
           "isPR": false
         }
       ]
     },
     {
-      "id": "d50045174628",
-      "title": "【アークナイツ】モンハンコラボ2の攻略と周回おすすめステージ",
+      "id": "cab87a95fafa",
+      "title": "【アークナイツ】モンハンコラボガチャは引くべき？",
       "summary": "",
-      "url": "https://appmedia.jp/ark_nights/80024167",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/05/161222_cmbvw.webp",
+      "url": "https://appmedia.jp/ark_nights/80565130",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/131146_d1epx.webp",
       "leadSource": "AppMedia",
-      "publishedAt": "2026-11-16T11:01:40.000Z",
+      "publishedAt": "2026-11-16T03:41:02.000Z",
       "sourceCount": 2,
-      "articleCount": 3,
+      "articleCount": 2,
       "categories": [
-        "guide",
-        "collab"
+        "collab",
+        "guide"
       ],
       "keywords": [
         "アークナイツ",
-        "モンハンコラボ",
-        "攻略"
+        "モンハンコラボ"
       ],
       "articles": [
-        {
-          "title": "【アークナイツ】モンハンコラボガチャは引くべき？",
-          "url": "https://appmedia.jp/ark_nights/80565130",
-          "source": "AppMedia",
-          "publishedAt": "2026-11-16T03:41:02.000Z",
-          "isPR": false
-        },
         {
           "title": "#アークナイツ 初見攻略】モンハンコラボ来た「焔狐竜オーキッド」引くぞー！｜チル配信【 #りゅうらいぶ",
           "url": "https://t.co/0hqMg4ukTd",
@@ -381,12 +402,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-16T15:30:16.730Z",
-    "previousCount": 80,
-    "newCount": 4
+    "previousAt": "2026-11-16T16:00:17.954Z",
+    "previousCount": 84,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-16T16:30:17.954Z",
+  "nextUpdateAt": "2026-11-16T17:00:16.635Z",
   "items": [
     {
       "id": "43ba0d31b055",
@@ -618,6 +639,27 @@
       "isNew": false
     },
     {
+      "id": "6018b78f215a",
+      "title": "【アウトランダーズ】ミドリの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577465",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-16T11:04:26.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577465.png?date=1790214699",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "9183c4bcb387",
       "title": "【アウトランダーズ】クレスの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577459",
@@ -637,26 +679,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "d50045174628",
-      "title": "【アークナイツ】モンハンコラボ2の攻略と周回おすすめステージ",
-      "url": "https://appmedia.jp/ark_nights/80024167",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-16T11:01:40.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/05/161222_cmbvw.webp",
-      "categories": [
-        "guide",
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "1a7d5001720c",
@@ -910,6 +932,25 @@
       "isNew": false
     },
     {
+      "id": "448af02905fc",
+      "title": "大阪の街に国内外から延べ約12,000人のハンターが集結！「モンスターハンターNowカーニバル 2026：大阪」を開催",
+      "url": "https://news.nicovideo.jp/watch/nw19997076?from",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-11-16T09:30:14.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "2e13886299dc",
       "title": "【アウトランダーズ】主人公のおすすめ武器種と心得｜最強武器種ランキング【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/531944",
@@ -1045,27 +1086,6 @@
       "summary": "",
       "publishedAt": "2026-11-16T08:17:55.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577468.png?date=1790214845",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "6018b78f215a",
-      "title": "【アウトランダーズ】ミドリの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577465",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-16T08:02:07.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577465.png?date=1790214699",
       "categories": [
         "guide"
       ],
@@ -1218,25 +1238,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "448af02905fc",
-      "title": "大阪の街に国内外から延べ約12,000人のハンターが集結！「モンスターハンターNowカーニバル 2026：大阪」を開催",
-      "url": "https://news.infoseek.co.jp/article/prtimes_000000011_000177618/",
-      "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
-      "summary": "",
-      "publishedAt": "2026-11-16T02:30:31.000Z",
-      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "f1e344fb9da2",
@@ -1404,6 +1405,27 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "6067c3f9ff9d",
+      "title": "【アウトランダーズ】主人公(チャージアックス)の評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/583503",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-15T11:11:03.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583503.png?date=1792581391",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "19dbc9b56c7e",
@@ -1646,6 +1668,27 @@
       "isNew": false
     },
     {
+      "id": "bedfdcfcec77",
+      "title": "【モンハンライズ】モンスター一覧｜弱点早見表",
+      "url": "https://gamewith.jp/mhrize/article/show/250249",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-14T14:25:09.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/250249.png?date=1610017057",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "f120aee52244",
       "title": "【生き誇れ、野生の仔】へっぽこハンター成長記録！歴戦王アルシュベルド 狩猟笛でS！【MHWilds/モンハンワイルズ】",
       "url": "https://youtu.be/FHj7Z72ddsE?si",
@@ -1727,7 +1770,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2b2774fd9ffd",
@@ -1855,6 +1898,27 @@
       "isNew": false
     },
     {
+      "id": "45337545cd02",
+      "title": "【サンブレイク】重ね着装備一覧と解放条件｜マスターランク",
+      "url": "https://gamewith.jp/mhrize/article/show/347297",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-14T06:37:17.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/347297.png?date=1655703651",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "9ca758b79a88",
       "title": "全国初の「モンスターハンターボウリング」が登場！「MIRAINO イオンモール伊達店」が福島県で11月27日にオープン",
       "url": "https://www.gamer.ne.jp/news/202611140018/",
@@ -1923,7 +1987,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-14T01:58:27.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563104.png?date=1789770630",
       "categories": [
         "other"
       ],
@@ -1955,7 +2019,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "70688df1f73f",
