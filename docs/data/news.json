@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-16T15:00:15.229Z",
+  "updatedAt": "2026-11-16T15:30:16.730Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 83,
+  "total": 80,
   "todayCount": 0,
   "categories": [
     {
@@ -17,7 +17,7 @@
     {
       "id": "update",
       "label": "アップデート",
-      "count": 1
+      "count": 0
     },
     {
       "id": "event",
@@ -27,7 +27,7 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 5
+      "count": 2
     },
     {
       "id": "goods",
@@ -42,12 +42,12 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 36
+      "count": 35
     },
     {
       "id": "sale",
       "label": "セール",
-      "count": 2
+      "count": 0
     },
     {
       "id": "community",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 34
+      "count": 35
     }
   ],
   "series": [
@@ -115,19 +115,11 @@
       "count": 2
     },
     {
-      "name": "AppMedia",
-      "count": 2
-    },
-    {
       "name": "Gamer",
       "count": 2
     },
     {
       "name": "osaka style",
-      "count": 2
-    },
-    {
-      "name": "ライブドアニュース",
       "count": 2
     },
     {
@@ -143,7 +135,7 @@
       "count": 1
     },
     {
-      "name": "Infoseek",
+      "name": "AppMedia",
       "count": 1
     },
     {
@@ -175,15 +167,19 @@
       "count": 1
     },
     {
+      "name": "ライブドアニュース",
+      "count": 1
+    },
+    {
+      "name": "ウォーカープラス",
+      "count": 1
+    },
+    {
       "name": "電撃オンライン",
       "count": 1
     },
     {
       "name": "4Gamer",
-      "count": 1
-    },
-    {
-      "name": "GAME Watch",
       "count": 1
     }
   ],
@@ -196,8 +192,8 @@
       "image": "https://www.appbank.net/wp-content/uploads/2026/11/20261116_121415_012_01.webp",
       "leadSource": "AppBank",
       "publishedAt": "2026-11-16T05:30:29.000Z",
-      "sourceCount": 7,
-      "articleCount": 8,
+      "sourceCount": 6,
+      "articleCount": 7,
       "categories": [
         "other"
       ],
@@ -212,13 +208,6 @@
           "url": "https://www.gamer.ne.jp/news/202611160021/",
           "source": "Gamer",
           "publishedAt": "2026-11-16T04:40:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "大阪の街に国内外から延べ約12,000人のハンターが集結！「モンスターハンターNowカーニバル 2026：大阪」を開催",
-          "url": "https://news.infoseek.co.jp/article/prtimes_000000011_000177618/",
-          "source": "Infoseek",
-          "publishedAt": "2026-11-16T02:30:31.000Z",
           "isPR": false
         },
         {
@@ -259,32 +248,24 @@
       ]
     },
     {
-      "id": "d50045174628",
-      "title": "【アークナイツ】モンハンコラボ2の攻略と周回おすすめステージ",
+      "id": "cab87a95fafa",
+      "title": "【アークナイツ】モンハンコラボガチャは引くべき？",
       "summary": "",
-      "url": "https://appmedia.jp/ark_nights/80024167",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/05/161222_cmbvw.webp",
+      "url": "https://appmedia.jp/ark_nights/80565130",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/131146_d1epx.webp",
       "leadSource": "AppMedia",
-      "publishedAt": "2026-11-16T11:01:40.000Z",
+      "publishedAt": "2026-11-16T03:41:02.000Z",
       "sourceCount": 2,
-      "articleCount": 3,
+      "articleCount": 2,
       "categories": [
-        "guide",
-        "collab"
+        "collab",
+        "guide"
       ],
       "keywords": [
         "アークナイツ",
-        "モンハンコラボ",
-        "攻略"
+        "モンハンコラボ"
       ],
       "articles": [
-        {
-          "title": "【アークナイツ】モンハンコラボガチャは引くべき？",
-          "url": "https://appmedia.jp/ark_nights/80565130",
-          "source": "AppMedia",
-          "publishedAt": "2026-11-16T03:41:02.000Z",
-          "isPR": false
-        },
         {
           "title": "#アークナイツ 初見攻略】モンハンコラボ来た「焔狐竜オーキッド」引くぞー！｜チル配信【 #りゅうらいぶ",
           "url": "https://t.co/0hqMg4ukTd",
@@ -351,45 +332,37 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "0c4ef111b45d",
-      "title": "【Amazonセール】Secretlabの「モンハン」コラボデザインゲーミングチェアがお買い得！ 「ミラボレアス エディション」が登場",
-      "summary": "",
-      "url": "https://game.watch.impress.co.jp/docs/news/2156310.html",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2156/310/000.jpg",
-      "leadSource": "GAME Watch",
-      "publishedAt": "2026-11-13T15:05:00.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "sale",
-        "collab"
-      ],
-      "keywords": [
-        "ミラボレアス",
-        "amazon",
-        "secretlab"
-      ],
-      "articles": [
-        {
-          "title": "【画像】【Amazonセール】Secretlabの「モンハン」コラボデザインゲーミングチェアがお買い得！ 「ミラボレアス エディション」が登場 1/4 - ライブドアニュース",
-          "url": "https://news.livedoor.com/article/image_detail/32814079/?img_id",
-          "source": "ライブドアニュース",
-          "publishedAt": "2026-11-13T15:05:00.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-16T14:30:17.882Z",
-    "previousCount": 82,
-    "newCount": 2
+    "previousAt": "2026-11-16T15:00:15.229Z",
+    "previousCount": 83,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-16T15:30:15.229Z",
+  "nextUpdateAt": "2026-11-16T16:00:16.730Z",
   "items": [
+    {
+      "id": "43ba0d31b055",
+      "title": "【アウトランダーズ】ブリックスの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577456",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-16T14:35:06.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577456.png?date=1790214292",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "56567e3141fb",
       "title": "『モンハンNow』次元臨界ジンオウガ襲来!! 身支度を整えるのにも最適な装備強化促進クエストに参加しよう",
@@ -409,6 +382,27 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "c79b0d1709be",
+      "title": "【アウトランダーズ】序盤おすすめ装備【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/581392",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-16T13:56:03.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/581392.png?date=1793225716",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
       "isNew": true
     },
     {
@@ -420,6 +414,48 @@
       "summary": "",
       "publishedAt": "2026-11-16T13:30:00.000Z",
       "image": "https://news.dellows.jp/wp-content/uploads/2026/10/942585_1.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "825afb22021c",
+      "title": "【アウトランダーズ】PC版やPS5版はある？対応機種まとめ【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/573756",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-16T12:21:58.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/573756.png?date=1789018939",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "9f6d8bb79247",
+      "title": "【アウトランダーズ】鋼翼が落とす影の進め方と報酬│クシャルダオラ討伐イベント【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/587689",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-16T11:49:36.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/587689.png?date=1794549915",
       "categories": [
         "other"
       ],
@@ -550,26 +586,6 @@
       "series": [
         "outlanders"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d50045174628",
-      "title": "【アークナイツ】モンハンコラボ2の攻略と周回おすすめステージ",
-      "url": "https://appmedia.jp/ark_nights/80024167",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-16T11:01:40.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/05/161222_cmbvw.webp",
-      "categories": [
-        "guide",
-        "collab"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -835,7 +851,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-16T09:24:14.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531944.png?date=1793082656",
+      "image": "",
       "categories": [
         "guide",
         "sales"
@@ -934,27 +950,6 @@
       "isNew": false
     },
     {
-      "id": "43ba0d31b055",
-      "title": "【アウトランダーズ】ブリックスの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577456",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-16T08:34:22.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577456.png?date=1790214292",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "820def1a7209",
       "title": "【アウトランダーズ】序盤の効率的な進め方【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/531932",
@@ -1004,7 +999,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-16T08:02:07.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577465.png?date=1790214699",
+      "image": "",
       "categories": [
         "guide"
       ],
@@ -1016,6 +1011,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "8d2a9579523b",
+      "title": "【アウトランダーズ】融光種ドスギルオスの弱点と攻略【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/583230",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-16T06:55:28.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "fe0cd14da5d3",
@@ -1138,25 +1154,6 @@
       "isNew": false
     },
     {
-      "id": "448af02905fc",
-      "title": "大阪の街に国内外から延べ約12,000人のハンターが集結！「モンスターハンターNowカーニバル 2026：大阪」を開催",
-      "url": "https://news.infoseek.co.jp/article/prtimes_000000011_000177618/",
-      "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
-      "summary": "",
-      "publishedAt": "2026-11-16T02:30:31.000Z",
-      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "f1e344fb9da2",
       "title": "#アークナイツ 初見攻略】モンハンコラボ来た「焔狐竜オーキッド」引くぞー！｜チル配信【 #りゅうらいぶ",
       "url": "https://t.co/0hqMg4ukTd",
@@ -1226,7 +1223,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-16T00:02:19.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574841.png?date=1789771579",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1282,27 +1279,6 @@
       "isNew": false
     },
     {
-      "id": "9f6d8bb79247",
-      "title": "【アウトランダーズ】鋼翼が落とす影の進め方と報酬│クシャルダオラ討伐イベント【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/587689",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-15T18:35:22.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/587689.png?date=1794549915",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "411bb4076b94",
       "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/575038",
@@ -1341,48 +1317,6 @@
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "28fa7ffdc007",
-      "title": "【モンハンアウトランダーズ】序盤おすすめ装備【アウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/581392",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-15T12:06:10.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/581392.png?date=1793225716",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "6067c3f9ff9d",
-      "title": "【アウトランダーズ】主人公(チャージアックス)の評価とおすすめ装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/583503",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-15T11:11:03.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583503.png?date=1792581391",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
@@ -1455,7 +1389,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-15T05:47:16.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577281.png?date=1789571405",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1476,7 +1410,7 @@
       "source": "号外NET 大阪市",
       "summary": "",
       "publishedAt": "2026-11-15T03:13:21.000Z",
-      "image": "",
+      "image": "https://osaka.goguynet.jp/wp-content/uploads/sites/265/2026/11/ab71fd72e1365b12858e031a700f0864.jpg",
       "categories": [
         "other"
       ],
@@ -1774,6 +1708,25 @@
       "isNew": false
     },
     {
+      "id": "6b865c85959a",
+      "title": "【USJ】あのチーズナンや焚き火料理に舌鼓。モンハン飯に大感動の「モリバーの宴」体験レポ(1/2)",
+      "url": "https://www.walkerplus.com/article/1308159/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-11-14T08:00:00.000Z",
+      "image": "https://news.walkerplus.com/article/1308159/15690326_615.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "0053f990a8f2",
       "title": "【モンハンワイルズ】歴戦狩猟の証3の効率的な集め方と使い道【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/487801",
@@ -1827,27 +1780,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "589a08725415",
-      "title": "【アウトランダーズ】アップデート最新情報まとめ【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/587366",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-14T03:26:03.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/587366.png?date=1794371151",
-      "categories": [
-        "update"
-      ],
-      "series": [
-        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1958,7 +1890,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8c086bb7f518",
@@ -1989,7 +1921,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-13T18:40:29.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/414964.png?date=1694484685",
+      "image": "",
       "categories": [
         "guide"
       ],
@@ -2013,46 +1945,6 @@
       "image": "https://www.4gamer.net/games/991/G999111/20261114001/SS/001.jpg",
       "categories": [
         "event"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "0c4ef111b45d",
-      "title": "【Amazonセール】Secretlabの「モンハン」コラボデザインゲーミングチェアがお買い得！ 「ミラボレアス エディション」が登場",
-      "url": "https://game.watch.impress.co.jp/docs/news/2156310.html",
-      "host": "game.watch.impress.co.jp",
-      "source": "GAME Watch",
-      "summary": "",
-      "publishedAt": "2026-11-13T15:05:00.000Z",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2156/310/000.jpg",
-      "categories": [
-        "sale",
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "5acd0cface7e",
-      "title": "【画像】【Amazonセール】Secretlabの「モンハン」コラボデザインゲーミングチェアがお買い得！ 「ミラボレアス エディション」が登場 1/4 - ライブドアニュース",
-      "url": "https://news.livedoor.com/article/image_detail/32814079/?img_id",
-      "host": "news.livedoor.com",
-      "source": "ライブドアニュース",
-      "summary": "",
-      "publishedAt": "2026-11-13T15:05:00.000Z",
-      "image": "https://image.news.livedoor.com/newsimage/stf/7/e/7e354_1838_fb92c7df8d147d7be2550afe38e8f676.jpg",
-      "categories": [
-        "sale",
-        "collab"
       ],
       "series": [],
       "isOfficial": false,
