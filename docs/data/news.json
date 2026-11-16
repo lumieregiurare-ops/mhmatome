@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-16T04:00:15.331Z",
+  "updatedAt": "2026-11-16T04:30:14.633Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 96,
-  "todayCount": 26,
+  "total": 94,
+  "todayCount": 28,
   "categories": [
     {
       "id": "new",
@@ -27,12 +27,12 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 4
+      "count": 3
     },
     {
       "id": "goods",
       "label": "グッズ・フィギュア",
-      "count": 2
+      "count": 1
     },
     {
       "id": "media",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 39
+      "count": 38
     },
     {
       "id": "sale",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 32
+      "count": 31
     },
     {
       "id": "rise",
@@ -84,7 +84,7 @@
     {
       "id": "now",
       "label": "Now",
-      "count": 5
+      "count": 4
     },
     {
       "id": "stories",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 59
+      "count": 58
     },
     {
       "name": "YouTube",
@@ -192,10 +192,6 @@
     },
     {
       "name": "AppBank",
-      "count": 1
-    },
-    {
-      "name": "ガジェット通信",
       "count": 1
     },
     {
@@ -427,13 +423,55 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-16T03:30:14.114Z",
-    "previousCount": 94,
-    "newCount": 2
+    "previousAt": "2026-11-16T04:00:15.331Z",
+    "previousCount": 96,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-16T04:30:15.331Z",
+  "nextUpdateAt": "2026-11-16T05:00:14.633Z",
   "items": [
+    {
+      "id": "5f417c989053",
+      "title": "【アウトランダーズ】ヘイズの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/583505",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-16T03:38:19.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583505.png?date=1792581250",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "4d8236f8bea1",
+      "title": "【アウトランダーズ】リセマラ当たりランキング【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531925",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-16T03:26:18.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531925.png?date=1793082273",
+      "categories": [
+        "sales"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "ff04e8abcae0",
       "title": "【アウトランダーズ】ラヤの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
@@ -533,6 +571,27 @@
       "series": [],
       "isOfficial": false,
       "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "61f9107c6efe",
+      "title": "【アウトランダーズ】ルカの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577461",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-16T02:12:05.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577461.png?date=1790214525",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -656,27 +715,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "61f9107c6efe",
-      "title": "【アウトランダーズ】ルカの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577461",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-16T00:38:27.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577461.png?date=1790214525",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -875,6 +913,27 @@
       "isNew": false
     },
     {
+      "id": "f529da9f5ece",
+      "title": "【モンハンワイルズ】Switch2版の発売日はいつ？【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/563066",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-15T20:58:21.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563066.png?date=1780886791",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "b42595742598",
       "title": "プレステ新作発表で和ゲーラッシュが止まらん..モンハンワイルズアセンダンスで革命起きる？/コナミ大量に新作発表/紅の砂漠に大型DLC/ガンダム新作がAC6過ぎて好き..state Of Play Eileen Wang (bCXr9qqN…",
       "url": "https://media.unisba.ac.id/c7c75474/869297ednWbXbJROuy4//?share",
@@ -893,7 +952,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d3b37c5f644e",
@@ -938,27 +997,6 @@
       "isNew": false
     },
     {
-      "id": "5f417c989053",
-      "title": "【アウトランダーズ】ヘイズの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/583505",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-15T18:13:27.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583505.png?date=1792581250",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "34fe66c7aa4d",
       "title": "[モンスターハンターワイルズ デラックスエディション ダウンロード版] セブン‐イレブン限定！対象商品をご購入・ご応募で、ニンテンドーeショップで引き換えることのできる【狩猟解禁特典】『ハンター活躍パック』のダウンロード番号がもれなく当た…",
       "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOY1BicFlBRkJtdjNtZW5teHQxRE1ET0hRLUEtbTRnVnlMQjNNSnNrS1lUOTVXOE4xNHFneTBJSUhLSzI5dlpVaW1EQmcyXzZnYWxETWRrSEZUeHlIcEo1NHYzZmcwak5JZjQ2OG5RNGxxc1NtdWdPU05RY0hETU8wMGRKZ0ZNeVBHckNmMUZDQWFEZkJhY0F2UUxZZWRQQm1LVlhtVzJvQ0o1ZnFzX2ZxSzlZeHk4NzVYSG5YbGdleVhDZXJ3enp6Q0tPVGRzSTZoQ09COG1FQXgxU1VCU3Fqd1plNVl4V2ZxejFnSHk0cXJqcTJlMmRiTTBDU2laMjZxZE1VSzRPek1iYTZReU1OejI3VFZQZDBhQjFCUFY2b1pfRlFoaDhOT241WnRDQ0xTbzlERDNnQjloVGJ4Z3E2bEM4ZmdqdU12d3ZQT2hpOFZfUQ?oc=5",
@@ -990,27 +1028,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559703.png?date=1793082381",
       "categories": [
         "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4d8236f8bea1",
-      "title": "【アウトランダーズ】リセマラ当たりランキング【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531925",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-15T14:00:04.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531925.png?date=1793082273",
-      "categories": [
-        "sales"
       ],
       "series": [
         "outlanders"
@@ -1306,27 +1323,6 @@
       "isNew": false
     },
     {
-      "id": "f529da9f5ece",
-      "title": "【モンハンワイルズ】Switch2版の発売日はいつ？【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563066",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-14T23:48:03.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563066.png?date=1780886791",
-      "categories": [
-        "new"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "0b68bd1287fd",
       "title": "【アセンダンス】片手剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/577790",
@@ -1529,7 +1525,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2b2774fd9ffd",
@@ -1762,8 +1758,8 @@
       "isNew": false
     },
     {
-      "id": "f60bd4113653",
-      "title": "【モンハンアウトランダーズ】アップデート最新情報まとめ【アウトランダーズ】",
+      "id": "589a08725415",
+      "title": "【アウトランダーズ】アップデート最新情報まとめ【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/587366",
       "host": "gamewith.jp",
       "source": "GameWith",
@@ -1780,7 +1776,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "66341fb231ad",
@@ -2351,49 +2347,6 @@
       ],
       "series": [
         "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f5f4b66f2fff",
-      "title": "【モンハンワイルズ】チャアクの操作方法と使い方・立ち回り【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/461266",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-13T04:14:11.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/461266.png?date=1727178690",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e69b2dc96aa1",
-      "title": "『モンハンNow』グッズリスト解禁!! 大阪イベント会場限定ものも多数あるオリジナルコラボをチェックしよう",
-      "url": "https://getnews.jp/archives/3754912",
-      "host": "getnews.jp",
-      "source": "ガジェット通信",
-      "summary": "",
-      "publishedAt": "2026-11-13T04:00:28.000Z",
-      "image": "https://rensai.jp/wp-content/uploads/2026/11/a89cbaef3f1dc64d4fababe6c49c7595.jpg",
-      "categories": [
-        "collab",
-        "goods"
-      ],
-      "series": [
-        "now"
       ],
       "isOfficial": false,
       "isPR": false,
