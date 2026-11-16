@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-16T11:30:15.292Z",
+  "updatedAt": "2026-11-16T12:00:15.073Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 80,
-  "todayCount": 39,
+  "total": 83,
+  "todayCount": 42,
   "categories": [
     {
       "id": "new",
@@ -32,7 +32,7 @@
     {
       "id": "goods",
       "label": "グッズ・フィギュア",
-      "count": 1
+      "count": 2
     },
     {
       "id": "media",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 34
+      "count": 35
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 33
+      "count": 34
     }
   ],
   "series": [
@@ -94,17 +94,21 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 32
+      "count": 34
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 49
+      "count": 50
     },
     {
       "name": "YouTube",
       "count": 8
+    },
+    {
+      "name": "ｄメニューニュース",
+      "count": 2
     },
     {
       "name": "AppMedia",
@@ -125,6 +129,10 @@
     {
       "name": "IGN Japan",
       "count": 2
+    },
+    {
+      "name": "Howl.Link",
+      "count": 1
     },
     {
       "name": "AppBank",
@@ -148,10 +156,6 @@
     },
     {
       "name": "号外NET 大阪市",
-      "count": 1
-    },
-    {
-      "name": "ｄメニューニュース",
       "count": 1
     },
     {
@@ -306,7 +310,7 @@
       "title": "【Amazonセール】Secretlabの「モンハン」コラボデザインゲーミングチェアがお買い得！ 「ミラボレアス エディション」が登場",
       "summary": "",
       "url": "https://game.watch.impress.co.jp/docs/news/2156310.html",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2156/310/000.jpg",
+      "image": "https://image.news.livedoor.com/newsimage/stf/7/e/7e354_1838_fb92c7df8d147d7be2550afe38e8f676.jpg",
       "leadSource": "GAME Watch",
       "publishedAt": "2026-11-13T15:05:00.000Z",
       "sourceCount": 2,
@@ -332,13 +336,74 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-16T11:00:19.133Z",
-    "previousCount": 81,
-    "newCount": 2
+    "previousAt": "2026-11-16T11:30:15.292Z",
+    "previousCount": 80,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-16T12:00:15.292Z",
+  "nextUpdateAt": "2026-11-16T12:30:15.073Z",
   "items": [
+    {
+      "id": "bf01f8835eca",
+      "title": "【アウトランダーズ】マドレの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577464",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-16T11:46:16.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577464.png?date=1790214658",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "620baae43e82",
+      "title": "【アウトランダーズ】課金要素まとめとおすすめパック【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/560244",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-16T11:25:15.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560244.png?date=1793262813",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "e7396a7a7d0e",
+      "title": "人気IPを高校生・学生たちが実務クオリティで体現！ 謎解きに“モンハン飯”、限定グッズまで揃った「バンタン文化祭2026」",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMlBGdW4tMTVYazZHZDhWc0FXVVNraF9PSm1VQ3ZYdnZlWXRQei10bWNPRXp0MjMwcHVwYWdpNWhSa2RMVXlMTzA0aXNwb3pLTnIwdGpKOGtWb2tybzJyOVJrQThLYjBVSU5PNENvSFFPMnpyYVBLenhpUDd2RFVSMExPbWdJYU9QSERDczRsakJyZmxBQ1J3VUVQU0VjLWFoLWJ0X0NVVTY4dFk3S1RpYzN2UnozY2dNLWM5LU1QUmhaQmx2RVhMblI1bWJNdzjSAX9BVV95cUxPellQMkNrTGxSaXFVSEtVWEE1NGpJZGIzN3kwUEFqUmtnQXRvNjFpSS02Q3pZa1dYRnl2VGhLZXFXYjRTUzFLaXZacVYtcmQ5MHc2aENra0FUOE1hMEFiZlVEOE5jT1F4MlpBMmY2SXpwMEhpQ2ZiWDF3d3VfbUV3?oc=5",
+      "host": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
+      "summary": "",
+      "publishedAt": "2026-11-16T11:25:00.000Z",
+      "image": "",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "188cd518008b",
       "title": "【アウトランダーズ】ガチャおすすめと一覧│引くべきガチャ【モンハンアウトランダーズ】",
@@ -399,7 +464,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1a7d5001720c",
@@ -441,7 +506,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9a009fdc25bd",
@@ -716,6 +781,27 @@
       "isNew": false
     },
     {
+      "id": "bdd6dc72abed",
+      "title": "【アウトランダーズ】主人公(ランス)の評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577468",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-16T08:17:55.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577468.png?date=1790214845",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "6018b78f215a",
       "title": "【アウトランダーズ】ミドリの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577465",
@@ -735,6 +821,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "f64540d5f9e3",
+      "title": "【モンスターハンターアウトランダーズ】#3 第5章！新たな冒険へ！【VTuber／星桜七しろぼし】",
+      "url": "https://t.co/wdCtuT2hb1",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-11-16T07:45:23.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "232e77676ac6",
@@ -787,27 +894,6 @@
       "summary": "",
       "publishedAt": "2026-11-16T06:28:09.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577461.png?date=1790214525",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "bf01f8835eca",
-      "title": "【アウトランダーズ】マドレの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577464",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-16T05:45:10.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577464.png?date=1790214658",
       "categories": [
         "guide"
       ],
@@ -957,27 +1043,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "620baae43e82",
-      "title": "【アウトランダーズ】課金要素まとめとおすすめパック【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/560244",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-16T04:20:36.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560244.png?date=1793262813",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1855,7 +1920,7 @@
       "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-11-13T15:05:00.000Z",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2156/310/000.jpg",
+      "image": "",
       "categories": [
         "sale",
         "collab"
