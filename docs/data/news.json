@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-16T06:30:16.255Z",
+  "updatedAt": "2026-11-16T06:57:07.653Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 90,
-  "todayCount": 37,
+  "total": 88,
+  "todayCount": 36,
   "categories": [
     {
       "id": "new",
@@ -27,7 +27,7 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 4
+      "count": 3
     },
     {
       "id": "goods",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 36
+      "count": 37
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 40
+      "count": 38
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 30
+      "count": 28
     },
     {
       "id": "rise",
@@ -94,13 +94,13 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 33
+      "count": 34
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 51
+      "count": 52
     },
     {
       "name": "YouTube",
@@ -135,10 +135,6 @@
       "count": 2
     },
     {
-      "name": "AppMedia",
-      "count": 1
-    },
-    {
       "name": "LAWSON",
       "count": 1
     },
@@ -148,10 +144,6 @@
     },
     {
       "name": "Prepaid mania",
-      "count": 1
-    },
-    {
-      "name": "Dellows News",
       "count": 1
     },
     {
@@ -172,10 +164,6 @@
     },
     {
       "name": "Yahoo!ニュース",
-      "count": 1
-    },
-    {
-      "name": "Howl.Link",
       "count": 1
     },
     {
@@ -430,12 +418,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-16T06:00:17.635Z",
+    "previousAt": "2026-11-16T06:30:16.255Z",
     "previousCount": 90,
-    "newCount": 3
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-16T07:00:16.255Z",
+  "nextUpdateAt": "2026-11-16T07:27:07.653Z",
   "items": [
     {
       "id": "4749e6e7e0c8",
@@ -707,25 +695,6 @@
       "isNew": false
     },
     {
-      "id": "cab87a95fafa",
-      "title": "【アークナイツ】モンハンコラボガチャは引くべき？",
-      "url": "https://appmedia.jp/ark_nights/80565130",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-16T03:41:02.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/131146_d1epx.webp",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "5f417c989053",
       "title": "【アウトランダーズ】ヘイズの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/583505",
@@ -979,6 +948,27 @@
       "isNew": false
     },
     {
+      "id": "10daeefea9bd",
+      "title": "【アウトランダーズ】最強装備まとめ│おすすめ装備【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/559642",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-16T00:37:27.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559642.png?date=1793226347",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "232e77676ac6",
       "title": "【アウトランダーズ】主人公(ヘビィボウガン)の評価とおすすめ装備・編成【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577467",
@@ -1168,27 +1158,6 @@
       "isNew": false
     },
     {
-      "id": "411bb4076b94",
-      "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/575038",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-15T15:43:29.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575038.png?date=1789770323",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "34fe66c7aa4d",
       "title": "[モンスターハンターワイルズ デラックスエディション ダウンロード版] セブン‐イレブン限定！対象商品をご購入・ご応募で、ニンテンドーeショップで引き換えることのできる【狩猟解禁特典】『ハンター活躍パック』のダウンロード番号がもれなく当た…",
       "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOY1BicFlBRkJtdjNtZW5teHQxRE1ET0hRLUEtbTRnVnlMQjNNSnNrS1lUOTVXOE4xNHFneTBJSUhLSzI5dlpVaW1EQmcyXzZnYWxETWRrSEZUeHlIcEo1NHYzZmcwak5JZjQ2OG5RNGxxc1NtdWdPU05RY0hETU8wMGRKZ0ZNeVBHckNmMUZDQWFEZkJhY0F2UUxZZWRQQm1LVlhtVzJvQ0o1ZnFzX2ZxSzlZeHk4NzVYSG5YbGdleVhDZXJ3enp6Q0tPVGRzSTZoQ09COG1FQXgxU1VCU3Fqd1plNVl4V2ZxejFnSHk0cXJqcTJlMmRiTTBDU2laMjZxZE1VSzRPek1iYTZReU1OejI3VFZQZDBhQjFCUFY2b1pfRlFoaDhOT241WnRDQ0xTbzlERDNnQjloVGJ4Z3E2bEM4ZmdqdU12d3ZQT2hpOFZfUQ?oc=5",
@@ -1252,27 +1221,6 @@
       "isNew": false
     },
     {
-      "id": "19dbc9b56c7e",
-      "title": "カプコン、モンスターハンターワイルズ拡張コンテンツにテオ・テスカトル登場へ",
-      "url": "https://news.dellows.jp/359650/?from",
-      "host": "news.dellows.jp",
-      "source": "Dellows News",
-      "summary": "",
-      "publishedAt": "2026-11-15T11:08:09.000Z",
-      "image": "https://news.dellows.jp/wp-content/uploads/2026/09/359650_1.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "f3d32b987d70",
       "title": "【モンスターハンター】アーサー氏のブチギレ討伐【ルガ・エアルダ】",
       "url": "https://youtu.be/nCwi1dIf7fU?si",
@@ -1289,7 +1237,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "778fbb3d5344",
@@ -1719,6 +1667,27 @@
       "isNew": false
     },
     {
+      "id": "411bb4076b94",
+      "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/575038",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-14T08:23:07.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575038.png?date=1789770323",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "0053f990a8f2",
       "title": "【モンハンワイルズ】歴戦狩猟の証3の効率的な集め方と使い道【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/487801",
@@ -1883,27 +1852,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "509f68640cdc",
-      "title": "【モンハンワイルズ】参加型！！人生初のモンハンだぁ🦖皆んなで狩猟解禁だぁぁ～！！！【 #vtuber #朝活 #monsterhunter",
-      "url": "https://t.co/JsVOp7WWio",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-11-13T21:55:47.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "8c086bb7f518",
