@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-17T12:30:17.802Z",
+  "updatedAt": "2026-11-17T13:00:28.399Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 85,
-  "todayCount": 44,
+  "total": 87,
+  "todayCount": 47,
   "categories": [
     {
       "id": "new",
@@ -57,19 +57,19 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 4
+      "count": 5
     },
     {
       "id": "other",
       "label": "その他",
-      "count": 38
+      "count": 40
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 23
+      "count": 24
     },
     {
       "id": "rise",
@@ -84,17 +84,17 @@
     {
       "id": "now",
       "label": "Now",
-      "count": 2
+      "count": 1
     },
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 2
+      "count": 3
     },
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 38
+      "count": 39
     }
   ],
   "sources": [
@@ -104,11 +104,11 @@
     },
     {
       "name": "YouTube",
-      "count": 6
+      "count": 7
     },
     {
       "name": "AppMedia",
-      "count": 4
+      "count": 5
     },
     {
       "name": "Dellows News",
@@ -249,18 +249,18 @@
       ]
     },
     {
-      "id": "5f417c989053",
-      "title": "【アウトランダーズ】ヘイズの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "id": "c145e9bb055e",
+      "title": "【アウトランダーズ】フィーヤはいつ実装？【モンハンアウトランダーズ】",
       "summary": "",
-      "url": "https://gamewith.jp/mhoutlanders/583505",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583505.png?date=1792581250",
+      "url": "https://gamewith.jp/mhoutlanders/586524",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586524.png?date=1793708718",
       "leadSource": "GameWith",
-      "publishedAt": "2026-11-17T11:36:27.000Z",
+      "publishedAt": "2026-11-17T11:46:07.000Z",
       "sourceCount": 2,
-      "articleCount": 30,
+      "articleCount": 31,
       "categories": [
-        "guide",
-        "sales"
+        "other",
+        "guide"
       ],
       "keywords": [
         "アウトランダーズ",
@@ -268,6 +268,13 @@
         "評価"
       ],
       "articles": [
+        {
+          "title": "【アウトランダーズ】ヘイズの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/583505",
+          "source": "GameWith",
+          "publishedAt": "2026-11-17T11:36:27.000Z",
+          "isPR": false
+        },
         {
           "title": "【アウトランダーズ】マドレの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
           "url": "https://gamewith.jp/mhoutlanders/577464",
@@ -280,6 +287,13 @@
           "url": "https://gamewith.jp/mhoutlanders/577463",
           "source": "GameWith",
           "publishedAt": "2026-11-17T11:06:11.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アウトランダーズ】最強オトモランキング【モンハンアウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/559653",
+          "source": "GameWith",
+          "publishedAt": "2026-11-17T10:45:05.000Z",
           "isPR": false
         },
         {
@@ -308,20 +322,6 @@
           "url": "https://gamewith.jp/mhoutlanders/577471",
           "source": "GameWith",
           "publishedAt": "2026-11-17T10:04:20.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アウトランダーズ】主人公(双剣)の評価とおすすめ装備・編成【モンハンアウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/577469",
-          "source": "GameWith",
-          "publishedAt": "2026-11-17T10:04:17.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アウトランダーズ】主人公(ランス)の評価とおすすめ装備・編成【モンハンアウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/577468",
-          "source": "GameWith",
-          "publishedAt": "2026-11-17T10:04:17.000Z",
           "isPR": false
         }
       ]
@@ -413,13 +413,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-17T12:00:19.122Z",
-    "previousCount": 83,
-    "newCount": 2
+    "previousAt": "2026-11-17T12:30:17.802Z",
+    "previousCount": 85,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-17T13:00:17.802Z",
+  "nextUpdateAt": "2026-11-17T13:30:28.399Z",
   "items": [
+    {
+      "id": "c145e9bb055e",
+      "title": "【アウトランダーズ】フィーヤはいつ実装？【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/586524",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-17T11:46:07.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586524.png?date=1793708718",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "5f417c989053",
       "title": "【アウトランダーズ】ヘイズの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
@@ -494,6 +515,49 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/587689.png?date=1794549915",
       "categories": [
         "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "34f807e8f73d",
+      "title": "【アウトランダーズ】巨木の原野のマップ一覧【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/560129",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-17T10:54:32.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560129.png?date=1793225833",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "a32a83c70edf",
+      "title": "【アウトランダーズ】最強オトモランキング【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/559653",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-17T10:45:05.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559653.png?date=1791852831",
+      "categories": [
+        "guide",
+        "sales"
       ],
       "series": [
         "outlanders"
@@ -944,27 +1008,6 @@
       "isNew": false
     },
     {
-      "id": "34f807e8f73d",
-      "title": "【アウトランダーズ】巨木の原野のマップ一覧【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/560129",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-17T08:17:58.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560129.png?date=1793225833",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "648aa62e18c5",
       "title": "【アウトランダーズ】ルガ・エアルダの弱点と攻略【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/586566",
@@ -1067,6 +1110,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "d3cd7084b2c3",
+      "title": "【モンハンストーリーズ3】最強装備まとめ【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79849634",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-17T07:26:59.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/174453_f690s.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "f5b273aee9ef",
@@ -1526,27 +1590,6 @@
       "isNew": false
     },
     {
-      "id": "259a74d63608",
-      "title": "【アウトランダーズ】フォリオの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577462",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-16T08:17:55.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577462.png?date=1790214565",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "a3e503b52310",
       "title": "『バイオハザード レクイエム』デラックスエディションが30%オフ、『アイスボーン』マスターエディションは997円に。カプコンのブラックフライデーセールがPS Storeで開催中",
       "url": "https://www.famitsu.com/article/202611/94151",
@@ -1954,7 +1997,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f3216be15079",
@@ -2052,6 +2095,27 @@
       "isNew": false
     },
     {
+      "id": "547c1490bf36",
+      "title": "【MONSTER HUNTER WILDS】見ていてね、しらうさが何をやるのかを！（ラギアだけしか水中戦ないのもったいなくね？※水中戦がおもろいとは言ってない）【steam版】【34狩目】",
+      "url": "https://youtu.be/Kx8crNEJK50?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-14T19:10:58.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "bedfdcfcec77",
       "title": "【モンハンライズ】モンスター一覧｜弱点早見表",
       "url": "https://gamewith.jp/mhrize/article/show/250249",
@@ -2108,27 +2172,6 @@
       "series": [
         "wilds",
         "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "5aa8a6bdba12",
-      "title": "【モンハンナウ】課金要素(ショップ)とおすすめアイテム【モンハンNow】",
-      "url": "https://gamewith.jp/monsterhunternow/413978",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-14T12:35:19.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/413978.png?date=1694661453",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "now"
       ],
       "isOfficial": false,
       "isPR": false,
