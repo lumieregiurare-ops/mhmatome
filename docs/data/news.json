@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-17T13:00:28.399Z",
+  "updatedAt": "2026-11-17T13:30:22.301Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 87,
-  "todayCount": 47,
+  "total": 85,
+  "todayCount": 46,
   "categories": [
     {
       "id": "new",
@@ -57,29 +57,29 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 5
+      "count": 4
     },
     {
       "id": "other",
       "label": "その他",
-      "count": 40
+      "count": 39
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 24
+      "count": 23
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 3
+      "count": 2
     },
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 3
+      "count": 2
     },
     {
       "id": "now",
@@ -89,26 +89,26 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 3
+      "count": 2
     },
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 39
+      "count": 40
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 50
+      "count": 51
     },
     {
       "name": "YouTube",
-      "count": 7
+      "count": 5
     },
     {
       "name": "AppMedia",
-      "count": 5
+      "count": 4
     },
     {
       "name": "Dellows News",
@@ -159,6 +159,10 @@
       "count": 1
     },
     {
+      "name": "ニコニコニュース",
+      "count": 1
+    },
+    {
       "name": "ファミ通",
       "count": 1
     },
@@ -168,10 +172,6 @@
     },
     {
       "name": "Gamer",
-      "count": 1
-    },
-    {
-      "name": "Infoseek",
       "count": 1
     },
     {
@@ -193,38 +193,66 @@
   ],
   "topics": [
     {
-      "id": "551e11fbe74e",
-      "title": "「モンスターハンターNowカーニバル 2026：大阪」のイベントレポートが到着！国内外の12,000人のハンターが古龍アマツマガツチの狩猟に挑戦",
+      "id": "6bbd7a9af565",
+      "title": "1万2,000人集結、「モンスターハンターNow カーニバル 2026：大阪」盛況裏に終了",
       "summary": "",
-      "url": "https://www.gamer.ne.jp/news/202611160021/",
-      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
-      "leadSource": "Gamer",
-      "publishedAt": "2026-11-16T04:40:00.000Z",
-      "sourceCount": 5,
-      "articleCount": 6,
+      "url": "https://www.gamemeca.com/ja/mv.php?gid",
+      "image": "https://cdn.gamemeca.com/g17/images/common/meca_logo_sns.gif",
+      "leadSource": "게임메카",
+      "publishedAt": "2026-11-17T07:57:49.000Z",
+      "sourceCount": 4,
+      "articleCount": 4,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "now",
+        "大阪",
+        "ハンター"
+      ],
+      "articles": [
+        {
+          "title": "大阪の街に国内外から延べ約12,000人のハンターが集結！「モンスターハンターNowカーニバル 2026：大阪」を開催",
+          "url": "https://news.nicovideo.jp/watch/nw19997076?from",
+          "source": "ニコニコニュース",
+          "publishedAt": "2026-11-16T09:30:14.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『モンスターハンターNow』大阪イベントに延べ約12,000人が集結！ グローバルイベントは11月28日から",
+          "url": "https://www.appbank.net/2026/11/16/game/3167311.php",
+          "source": "AppBank",
+          "publishedAt": "2026-11-16T05:30:29.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「モンスターハンターNowカーニバル 2026：大阪」のイベントレポートが到着！国内外の12,000人のハンターが古龍アマツマガツチの狩猟に挑戦",
+          "url": "https://www.gamer.ne.jp/news/202611160021/",
+          "source": "Gamer",
+          "publishedAt": "2026-11-16T04:40:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "f3216be15079",
+      "title": "【大阪市】一狩りいこうぜ！11月14日・11月15日、なんばエリアを舞台に「モンスターハンターNowカーニバル 2026：大阪」を開催！",
+      "summary": "",
+      "url": "https://osaka.goguynet.jp/2026/11/15/monsterhunternowcarnival2026osaka--2ndproof4--/",
+      "image": "https://osaka.goguynet.jp/wp-content/uploads/sites/265/2026/11/ab71fd72e1365b12858e031a700f0864.jpg",
+      "leadSource": "号外NET 大阪市",
+      "publishedAt": "2026-11-15T03:13:21.000Z",
+      "sourceCount": 3,
+      "articleCount": 4,
       "categories": [
         "other"
       ],
       "keywords": [
         "now",
         "カーニバル",
-        "ハンター"
+        "大阪"
       ],
       "articles": [
-        {
-          "title": "大阪の街に国内外から延べ約12,000人のハンターが集結！「モンスターハンターNowカーニバル 2026：大阪」を開催",
-          "url": "https://news.infoseek.co.jp/article/prtimes_000000011_000177618/",
-          "source": "Infoseek",
-          "publishedAt": "2026-11-16T02:30:31.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【大阪市】一狩りいこうぜ！11月14日・11月15日、なんばエリアを舞台に「モンスターハンターNowカーニバル 2026：大阪」を開催！",
-          "url": "https://osaka.goguynet.jp/2026/11/15/monsterhunternowcarnival2026osaka--2ndproof4--/",
-          "source": "号外NET 大阪市",
-          "publishedAt": "2026-11-15T03:13:21.000Z",
-          "isPR": false
-        },
         {
           "title": "モンスターハンターNowカーニバル 2026：大阪",
           "url": "https://osaka.style/news/79319/2-3388/",
@@ -249,18 +277,18 @@
       ]
     },
     {
-      "id": "c145e9bb055e",
-      "title": "【アウトランダーズ】フィーヤはいつ実装？【モンハンアウトランダーズ】",
+      "id": "91f587978fbf",
+      "title": "【アウトランダーズ】リュウノスケの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
       "summary": "",
-      "url": "https://gamewith.jp/mhoutlanders/586524",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586524.png?date=1793708718",
+      "url": "https://gamewith.jp/mhoutlanders/577455",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577455.png?date=1790214244",
       "leadSource": "GameWith",
-      "publishedAt": "2026-11-17T11:46:07.000Z",
+      "publishedAt": "2026-11-17T12:50:29.000Z",
       "sourceCount": 2,
-      "articleCount": 31,
+      "articleCount": 32,
       "categories": [
-        "other",
-        "guide"
+        "guide",
+        "other"
       ],
       "keywords": [
         "アウトランダーズ",
@@ -268,6 +296,13 @@
         "評価"
       ],
       "articles": [
+        {
+          "title": "【アウトランダーズ】フィーヤはいつ実装？【モンハンアウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/586524",
+          "source": "GameWith",
+          "publishedAt": "2026-11-17T11:46:07.000Z",
+          "isPR": false
+        },
         {
           "title": "【アウトランダーズ】ヘイズの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
           "url": "https://gamewith.jp/mhoutlanders/583505",
@@ -316,41 +351,6 @@
           "source": "GameWith",
           "publishedAt": "2026-11-17T10:16:21.000Z",
           "isPR": false
-        },
-        {
-          "title": "【アウトランダーズ】主人公(大剣)の評価とおすすめ装備・編成【モンハンアウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/577471",
-          "source": "GameWith",
-          "publishedAt": "2026-11-17T10:04:20.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "6bbd7a9af565",
-      "title": "1万2,000人集結、「モンスターハンターNow カーニバル 2026：大阪」盛況裏に終了",
-      "summary": "",
-      "url": "https://www.gamemeca.com/ja/mv.php?gid",
-      "image": "https://cdn.gamemeca.com/g17/images/common/meca_logo_sns.gif",
-      "leadSource": "게임메카",
-      "publishedAt": "2026-11-17T07:57:49.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other"
-      ],
-      "keywords": [
-        "now",
-        "大阪",
-        "集結"
-      ],
-      "articles": [
-        {
-          "title": "『モンスターハンターNow』大阪イベントに延べ約12,000人が集結！ グローバルイベントは11月28日から",
-          "url": "https://www.appbank.net/2026/11/16/game/3167311.php",
-          "source": "AppBank",
-          "publishedAt": "2026-11-16T05:30:29.000Z",
-          "isPR": false
         }
       ]
     },
@@ -363,7 +363,7 @@
       "leadSource": "AppMedia",
       "publishedAt": "2026-11-17T04:55:24.000Z",
       "sourceCount": 2,
-      "articleCount": 2,
+      "articleCount": 3,
       "categories": [
         "guide",
         "new"
@@ -378,6 +378,13 @@
           "url": "https://gamewith.jp/mhwilds/563066",
           "source": "GameWith",
           "publishedAt": "2026-11-16T14:33:26.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】狩猟笛のおすすめスキル・装飾品【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/489340",
+          "source": "GameWith",
+          "publishedAt": "2026-11-15T14:04:12.000Z",
           "isPR": false
         }
       ]
@@ -413,13 +420,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-17T12:30:17.802Z",
-    "previousCount": 85,
-    "newCount": 4
+    "previousAt": "2026-11-17T13:00:28.399Z",
+    "previousCount": 87,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-17T13:30:28.399Z",
+  "nextUpdateAt": "2026-11-17T14:00:22.301Z",
   "items": [
+    {
+      "id": "91f587978fbf",
+      "title": "【アウトランダーズ】リュウノスケの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577455",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-17T12:50:29.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577455.png?date=1790214244",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "c145e9bb055e",
       "title": "【アウトランダーズ】フィーヤはいつ実装？【モンハンアウトランダーズ】",
@@ -428,7 +456,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-17T11:46:07.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586524.png?date=1793708718",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -439,7 +467,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5f417c989053",
@@ -554,7 +582,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-17T10:45:05.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559653.png?date=1791852831",
+      "image": "",
       "categories": [
         "guide",
         "sales"
@@ -566,7 +594,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "61f9107c6efe",
@@ -639,7 +667,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-17T10:04:20.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577471.png?date=1790214971",
+      "image": "",
       "categories": [
         "guide"
       ],
@@ -660,7 +688,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-17T10:04:17.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577469.png?date=1790214889",
+      "image": "",
       "categories": [
         "guide"
       ],
@@ -744,7 +772,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-17T10:04:14.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577465.png?date=1790214699",
+      "image": "",
       "categories": [
         "guide"
       ],
@@ -766,6 +794,27 @@
       "summary": "",
       "publishedAt": "2026-11-17T10:04:11.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/561564.png?date=1790214134",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "f5b273aee9ef",
+      "title": "【アウトランダーズ】エンショウの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577460",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-17T10:04:09.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577460.png?date=1790214483",
       "categories": [
         "guide"
       ],
@@ -821,27 +870,6 @@
       "isNew": false
     },
     {
-      "id": "91f587978fbf",
-      "title": "【アウトランダーズ】リュウノスケの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577455",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-17T10:04:03.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577455.png?date=1790214244",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "19b8b625f26f",
       "title": "【アウトランダーズ】主人公(ハンマー)の評価とおすすめ装備・編成【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/583504",
@@ -849,7 +877,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-17T10:04:00.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583504.png?date=1792581337",
+      "image": "",
       "categories": [
         "guide"
       ],
@@ -934,7 +962,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-17T09:42:13.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531932.png?date=1789010047",
+      "image": "",
       "categories": [
         "guide"
       ],
@@ -1055,7 +1083,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-17T07:54:06.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531924.png?date=1793225649",
+      "image": "",
       "categories": [
         "guide"
       ],
@@ -1097,52 +1125,10 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-17T07:46:21.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531927.png?date=1793082334",
+      "image": "",
       "categories": [
         "guide",
         "sales"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d3cd7084b2c3",
-      "title": "【モンハンストーリーズ3】最強装備まとめ【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79849634",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-17T07:26:59.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/174453_f690s.webp",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "f5b273aee9ef",
-      "title": "【アウトランダーズ】エンショウの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577460",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-17T06:39:04.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577460.png?date=1790214483",
-      "categories": [
-        "guide"
       ],
       "series": [
         "outlanders"
@@ -1304,7 +1290,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-16T23:03:08.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577790.png?date=1789746410",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1325,7 +1311,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-16T22:54:13.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577281.png?date=1789571405",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1569,6 +1555,25 @@
       "isNew": false
     },
     {
+      "id": "448af02905fc",
+      "title": "大阪の街に国内外から延べ約12,000人のハンターが集結！「モンスターハンターNowカーニバル 2026：大阪」を開催",
+      "url": "https://news.nicovideo.jp/watch/nw19997076?from",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-11-16T09:30:14.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "f64870368a23",
       "title": "【モンハンストーリーズ2】最強オトモンまとめ｜属性別に掲載【MHST2】",
       "url": "https://appmedia.jp/mhst2/26677399",
@@ -1588,6 +1593,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "259a74d63608",
+      "title": "【アウトランダーズ】フォリオの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577462",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-16T08:17:55.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577462.png?date=1790214565",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "a3e503b52310",
@@ -1724,25 +1750,6 @@
       "series": [
         "wilds"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "448af02905fc",
-      "title": "大阪の街に国内外から延べ約12,000人のハンターが集結！「モンスターハンターNowカーニバル 2026：大阪」を開催",
-      "url": "https://news.infoseek.co.jp/article/prtimes_000000011_000177618/",
-      "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
-      "summary": "",
-      "publishedAt": "2026-11-16T02:30:31.000Z",
-      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
-      "categories": [
-        "other"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1895,6 +1902,27 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "355e5028c16d",
+      "title": "【モンハンワイルズ】狩猟笛のおすすめスキル・装飾品【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/489340",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-15T14:04:12.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/489340.png?date=1741517703",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "a6ae9eec932b",
@@ -2095,27 +2123,6 @@
       "isNew": false
     },
     {
-      "id": "547c1490bf36",
-      "title": "【MONSTER HUNTER WILDS】見ていてね、しらうさが何をやるのかを！（ラギアだけしか水中戦ないのもったいなくね？※水中戦がおもろいとは言ってない）【steam版】【34狩目】",
-      "url": "https://youtu.be/Kx8crNEJK50?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-14T19:10:58.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "bedfdcfcec77",
       "title": "【モンハンライズ】モンスター一覧｜弱点早見表",
       "url": "https://gamewith.jp/mhrize/article/show/250249",
@@ -2129,49 +2136,6 @@
       ],
       "series": [
         "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "a40bf3f18e3b",
-      "title": "【サンブレイク】血氣覚醒のスキル検証と効果倍率",
-      "url": "https://gamewith.jp/mhrize/article/show/402807",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-14T13:15:18.000Z",
-      "image": "",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f120aee52244",
-      "title": "【生き誇れ、野生の仔】へっぽこハンター成長記録！歴戦王アルシュベルド 狩猟笛でS！【MHWilds/モンハンワイルズ】",
-      "url": "https://youtu.be/FHj7Z72ddsE?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-14T13:09:02.000Z",
-      "image": "",
-      "categories": [
-        "sales"
-      ],
-      "series": [
-        "wilds",
-        "world"
       ],
       "isOfficial": false,
       "isPR": false,
