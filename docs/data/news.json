@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-17T22:00:17.196Z",
+  "updatedAt": "2026-11-17T22:30:16.235Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 84,
+  "total": 85,
   "todayCount": 5,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 37
+      "count": 38
     },
     {
       "id": "sale",
@@ -57,7 +57,7 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 2
+      "count": 3
     },
     {
       "id": "other",
@@ -94,13 +94,13 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 40
+      "count": 41
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 51
+      "count": 52
     },
     {
       "name": "YouTube",
@@ -323,18 +323,18 @@
       ]
     },
     {
-      "id": "31f015cc8539",
-      "title": "【モンハンワイルズ】アーティアガンランスのおすすめ装備【モンスターハンターワイルズ】",
+      "id": "f529da9f5ece",
+      "title": "【モンハンワイルズ】Switch2版の発売日はいつ？【モンスターハンターワイルズ】",
       "summary": "",
-      "url": "https://appmedia.jp/mhwilds/80569153",
+      "url": "https://gamewith.jp/mhwilds/563066",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563066.png?date=1780886791",
-      "leadSource": "AppMedia",
-      "publishedAt": "2026-11-17T04:55:24.000Z",
+      "leadSource": "GameWith",
+      "publishedAt": "2026-11-17T07:31:28.000Z",
       "sourceCount": 2,
       "articleCount": 4,
       "categories": [
-        "guide",
-        "new"
+        "new",
+        "guide"
       ],
       "keywords": [
         "モンスターハンターワイルズ",
@@ -342,10 +342,10 @@
       ],
       "articles": [
         {
-          "title": "【モンハンワイルズ】Switch2版の発売日はいつ？【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/563066",
-          "source": "GameWith",
-          "publishedAt": "2026-11-16T14:33:26.000Z",
+          "title": "【モンハンワイルズ】アーティアガンランスのおすすめ装備【モンスターハンターワイルズ】",
+          "url": "https://appmedia.jp/mhwilds/80569153",
+          "source": "AppMedia",
+          "publishedAt": "2026-11-17T04:55:24.000Z",
           "isPR": false
         },
         {
@@ -423,12 +423,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-17T21:30:19.237Z",
-    "previousCount": 82,
-    "newCount": 2
+    "previousAt": "2026-11-17T22:00:17.196Z",
+    "previousCount": 84,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-17T22:30:17.196Z",
+  "nextUpdateAt": "2026-11-17T23:00:16.235Z",
   "items": [
     {
       "id": "c145e9bb055e",
@@ -682,6 +682,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "d848c47c8e0c",
+      "title": "【アウトランダーズ】最強キャラランキング【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531927",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-17T12:15:15.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531927.png?date=1793082334",
+      "categories": [
+        "guide",
+        "sales"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "705870b0ff79",
@@ -1267,6 +1289,27 @@
       "isNew": false
     },
     {
+      "id": "f529da9f5ece",
+      "title": "【モンハンワイルズ】Switch2版の発売日はいつ？【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/563066",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-17T07:31:28.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563066.png?date=1780886791",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "31f015cc8539",
       "title": "【モンハンワイルズ】アーティアガンランスのおすすめ装備【モンスターハンターワイルズ】",
       "url": "https://appmedia.jp/mhwilds/80569153",
@@ -1452,27 +1495,6 @@
       "isNew": false
     },
     {
-      "id": "f529da9f5ece",
-      "title": "【モンハンワイルズ】Switch2版の発売日はいつ？【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563066",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-16T14:33:26.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563066.png?date=1780886791",
-      "categories": [
-        "new"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "56567e3141fb",
       "title": "『モンハンNow』次元臨界ジンオウガ襲来!! 身支度を整えるのにも最適な装備強化促進クエストに参加しよう",
       "url": "https://getnews.jp/archives/3755597",
@@ -1544,7 +1566,7 @@
       "source": "Dellows News",
       "summary": "",
       "publishedAt": "2026-11-16T13:30:00.000Z",
-      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/942585_1.jpg",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1637,7 +1659,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a3e503b52310",
@@ -2045,7 +2067,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f3216be15079",
