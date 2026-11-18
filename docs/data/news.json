@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-18T03:30:15.441Z",
+  "updatedAt": "2026-11-18T04:00:16.372Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 85,
-  "todayCount": 19,
+  "total": 87,
+  "todayCount": 20,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 38
+      "count": 39
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 37
+      "count": 38
     }
   ],
   "series": [
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 2
+      "count": 3
     },
     {
       "id": "outlanders",
@@ -103,12 +103,12 @@
       "count": 53
     },
     {
-      "name": "YouTube",
+      "name": "AppMedia",
       "count": 5
     },
     {
-      "name": "AppMedia",
-      "count": 4
+      "name": "YouTube",
+      "count": 5
     },
     {
       "name": "Dellows News",
@@ -124,6 +124,10 @@
     },
     {
       "name": "AUTOMATON",
+      "count": 1
+    },
+    {
+      "name": "PR TIMES",
       "count": 1
     },
     {
@@ -193,13 +197,13 @@
   ],
   "topics": [
     {
-      "id": "f5b273aee9ef",
-      "title": "【アウトランダーズ】エンショウの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "id": "648aa62e18c5",
+      "title": "【アウトランダーズ】ルガ・エアルダの弱点と攻略【モンハンアウトランダーズ】",
       "summary": "",
-      "url": "https://gamewith.jp/mhoutlanders/577460",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577460.png?date=1790214483",
+      "url": "https://gamewith.jp/mhoutlanders/586566",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586566.png?date=1793781037",
       "leadSource": "GameWith",
-      "publishedAt": "2026-11-18T03:09:12.000Z",
+      "publishedAt": "2026-11-18T03:18:38.000Z",
       "sourceCount": 2,
       "articleCount": 37,
       "categories": [
@@ -212,6 +216,13 @@
         "評価"
       ],
       "articles": [
+        {
+          "title": "【アウトランダーズ】エンショウの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/577460",
+          "source": "GameWith",
+          "publishedAt": "2026-11-18T03:09:12.000Z",
+          "isPR": false
+        },
         {
           "title": "【アウトランダーズ】アケニアの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
           "url": "https://gamewith.jp/mhoutlanders/577458",
@@ -259,13 +270,6 @@
           "url": "https://gamewith.jp/mhoutlanders/577459",
           "source": "GameWith",
           "publishedAt": "2026-11-17T23:57:11.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アウトランダーズ】ヘイズの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/583505",
-          "source": "GameWith",
-          "publishedAt": "2026-11-17T23:43:07.000Z",
           "isPR": false
         }
       ]
@@ -462,13 +466,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-18T03:00:26.682Z",
+    "previousAt": "2026-11-18T03:30:15.441Z",
     "previousCount": 85,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-18T04:00:15.441Z",
+  "nextUpdateAt": "2026-11-18T04:30:16.372Z",
   "items": [
+    {
+      "id": "648aa62e18c5",
+      "title": "【アウトランダーズ】ルガ・エアルダの弱点と攻略【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/586566",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-18T03:18:38.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586566.png?date=1793781037",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "815528d045bb",
       "title": "『アークナイツ』の『モンスターハンター』コラボ、原作再現が細かすぎると話題に。『ライズ』ミノトの“ゆるい絵”から、古参ハンターに刺さる「かつかつボックス」いじりまで",
@@ -486,7 +511,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f5b273aee9ef",
@@ -508,6 +533,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "f16821792b8d",
+      "title": "【モンスターハンター】ハンターたちの記憶に刻まれた、あの双剣「ゲキリュウノツガイ」が”銀色＆金色”のオブジェで登場！一対だからこそ、極まる迫力――。 | 株式会社ユートレジャーのプレスリリース",
+      "url": "https://prtimes.jp/main/html/rd/p/000001037.000037605.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-11-18T03:00:02.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/37605/1037/37605-1037-2d0f6011056bb79b62b521f4cdc49ece-1200x628.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "4749e6e7e0c8",
@@ -797,27 +841,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "648aa62e18c5",
-      "title": "【アウトランダーズ】ルガ・エアルダの弱点と攻略【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/586566",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-17T16:44:28.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586566.png?date=1793781037",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1386,6 +1409,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "d3cd7084b2c3",
+      "title": "【モンハンストーリーズ3】最強装備まとめ【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79849634",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-17T07:26:59.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/174453_f690s.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "c05eb950438a",
@@ -2107,7 +2151,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "19dbc9b56c7e",
