@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-18T10:00:28.013Z",
+  "updatedAt": "2026-11-18T10:30:17.538Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 83,
+  "total": 82,
   "todayCount": 32,
   "categories": [
     {
@@ -47,7 +47,7 @@
     {
       "id": "sale",
       "label": "セール",
-      "count": 1
+      "count": 0
     },
     {
       "id": "community",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 24
+      "count": 25
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 1
+      "count": 0
     },
     {
       "id": "now",
@@ -94,13 +94,17 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 38
+      "count": 37
     }
   ],
   "sources": [
     {
       "name": "GameWith",
       "count": 52
+    },
+    {
+      "name": "ニコニコニュース",
+      "count": 2
     },
     {
       "name": "Monster Hunter Now",
@@ -133,10 +137,6 @@
     {
       "name": "IGN Japan",
       "count": 2
-    },
-    {
-      "name": "リアルサウンド",
-      "count": 1
     },
     {
       "name": "インサイド",
@@ -179,14 +179,6 @@
       "count": 1
     },
     {
-      "name": "ニコニコニュース",
-      "count": 1
-    },
-    {
-      "name": "ファミ通",
-      "count": 1
-    },
-    {
       "name": "LAWSON",
       "count": 1
     },
@@ -203,7 +195,7 @@
       "url": "https://www.inside-games.jp/article/2026/11/18/191173.html",
       "image": "https://www.inside-games.jp/imgs/rss/1809100.jpg",
       "leadSource": "インサイド",
-      "publishedAt": "2026-11-18T09:05:19.000Z",
+      "publishedAt": "2026-11-18T10:12:14.000Z",
       "sourceCount": 3,
       "articleCount": 3,
       "categories": [
@@ -218,9 +210,9 @@
       "articles": [
         {
           "title": "『モンスターハンター』の双剣「ゲキリュウノツガイ」が公式監修でシルバー製オブジェ化",
-          "url": "https://realsound.jp/tech/2026/11/post-2588156.html",
-          "source": "リアルサウンド",
-          "publishedAt": "2026-11-18T09:05:19.000Z",
+          "url": "https://news.nicovideo.jp/watch/nw20006316?news_ref",
+          "source": "ニコニコニュース",
+          "publishedAt": "2026-11-18T10:12:14.000Z",
           "isPR": false
         },
         {
@@ -276,7 +268,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-11-17T07:31:28.000Z",
       "sourceCount": 2,
-      "articleCount": 7,
+      "articleCount": 8,
       "categories": [
         "new",
         "guide"
@@ -313,6 +305,13 @@
           "url": "https://gamewith.jp/mhwilds/485457",
           "source": "GameWith",
           "publishedAt": "2026-11-15T13:44:17.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】ニュウドウイカの釣り方と場所【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/488426",
+          "source": "GameWith",
+          "publishedAt": "2026-11-15T12:47:07.000Z",
           "isPR": false
         },
         {
@@ -445,13 +444,32 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-18T09:30:17.463Z",
-    "previousCount": 81,
-    "newCount": 3
+    "previousAt": "2026-11-18T10:00:28.013Z",
+    "previousCount": 83,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-18T10:30:28.013Z",
+  "nextUpdateAt": "2026-11-18T11:00:17.538Z",
   "items": [
+    {
+      "id": "ca0441e4c452",
+      "title": "『モンスターハンター』の双剣「ゲキリュウノツガイ」が公式監修でシルバー製オブジェ化",
+      "url": "https://news.nicovideo.jp/watch/nw20006316?news_ref",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-11-18T10:12:14.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "66d7e006cc0d",
       "title": "『モンスターハンターNowカーニバル 2026：大阪』にご参加いただいたハンターの皆さん、ありがとうございました！",
@@ -469,7 +487,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8d4a8173f6c1",
@@ -493,18 +511,20 @@
       "isNew": false
     },
     {
-      "id": "ca0441e4c452",
-      "title": "『モンスターハンター』の双剣「ゲキリュウノツガイ」が公式監修でシルバー製オブジェ化",
-      "url": "https://realsound.jp/tech/2026/11/post-2588156.html",
-      "host": "realsound.jp",
-      "source": "リアルサウンド",
+      "id": "ff04e8abcae0",
+      "title": "【アウトランダーズ】ラヤの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577463",
+      "host": "gamewith.jp",
+      "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-18T09:05:19.000Z",
-      "image": "https://realsound.jp/wp-content/uploads/2026/11/20261118-treasure-99.jpeg",
+      "publishedAt": "2026-11-18T09:06:10.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577463.png?date=1790214602",
       "categories": [
-        "other"
+        "guide"
       ],
-      "series": [],
+      "series": [
+        "outlanders"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -530,7 +550,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2e13886299dc",
@@ -948,27 +968,6 @@
       "isNew": false
     },
     {
-      "id": "ff04e8abcae0",
-      "title": "【アウトランダーズ】ラヤの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577463",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-18T03:55:03.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577463.png?date=1790214602",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "815528d045bb",
       "title": "『アークナイツ』の『モンスターハンター』コラボ、原作再現が細かすぎると話題に。『ライズ』ミノトの“ゆるい絵”から、古参ハンターに刺さる「かつかつボックス」いじりまで",
       "url": "https://automaton-media.com/articles/newsjp/20261118-479786/",
@@ -1182,27 +1181,6 @@
       "summary": "",
       "publishedAt": "2026-11-17T11:02:04.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/587689.png?date=1794549915",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "34f807e8f73d",
-      "title": "【アウトランダーズ】巨木の原野のマップ一覧【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/560129",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-17T10:54:32.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560129.png?date=1793225833",
       "categories": [
         "other"
       ],
@@ -1730,27 +1708,6 @@
       "isNew": false
     },
     {
-      "id": "a3e503b52310",
-      "title": "『バイオハザード レクイエム』デラックスエディションが30%オフ、『アイスボーン』マスターエディションは997円に。カプコンのブラックフライデーセールがPS Storeで開催中",
-      "url": "https://www.famitsu.com/article/202611/94151",
-      "host": "famitsu.com",
-      "source": "ファミ通",
-      "summary": "",
-      "publishedAt": "2026-11-16T07:40:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/94151/thumbnail_aJhk.jpg?x=1280",
-      "categories": [
-        "sale"
-      ],
-      "series": [
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "d605748fb698",
       "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/574841",
@@ -1849,7 +1806,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "cab87a95fafa",
@@ -2058,6 +2015,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "1c6d5c32244e",
+      "title": "【モンハンワイルズ】ニュウドウイカの釣り方と場所【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/488426",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-15T12:47:07.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/488426.png?date=1741282531",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "15df437f504b",
