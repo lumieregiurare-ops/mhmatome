@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T05:30:22.283Z",
+  "updatedAt": "2026-11-18T06:00:16.129Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 85,
-  "todayCount": 25,
+  "todayCount": 26,
   "categories": [
     {
       "id": "new",
@@ -89,26 +89,26 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 1
+      "count": 2
     },
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 41
+      "count": 40
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 52
+      "count": 51
+    },
+    {
+      "name": "AppMedia",
+      "count": 4
     },
     {
       "name": "YouTube",
       "count": 4
-    },
-    {
-      "name": "AppMedia",
-      "count": 3
     },
     {
       "name": "Gamer",
@@ -209,7 +209,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-11-18T04:52:22.000Z",
       "sourceCount": 2,
-      "articleCount": 36,
+      "articleCount": 35,
       "categories": [
         "guide",
         "sales"
@@ -232,6 +232,13 @@
           "url": "https://gamewith.jp/mhoutlanders/577459",
           "source": "GameWith",
           "publishedAt": "2026-11-18T04:26:09.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アウトランダーズ】最強編成｜組み方とコツ【モンハンアウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/559703",
+          "source": "GameWith",
+          "publishedAt": "2026-11-18T04:24:20.000Z",
           "isPR": false
         },
         {
@@ -267,13 +274,6 @@
           "url": "https://gamewith.jp/mhoutlanders/586566",
           "source": "GameWith",
           "publishedAt": "2026-11-18T03:18:38.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アウトランダーズ】エンショウの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/577460",
-          "source": "GameWith",
-          "publishedAt": "2026-11-18T03:09:12.000Z",
           "isPR": false
         }
       ]
@@ -331,8 +331,8 @@
       "id": "bf7f91db9e78",
       "title": "ケイ・ウノ[259A]：【モンスターハンター】ハンターたちの記憶に刻まれた、あの双剣「ゲキリュウノツガイ」が”銀色＆金色”のオブジェで登場！一対だからこそ、極まる迫力――。 2026年11月18日(適時開示) ：日経会社情報DIGITAL",
       "summary": "",
-      "url": "https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano",
-      "image": "https://prcdn.freetls.fastly.net/release_image/37605/1037/37605-1037-2d0f6011056bb79b62b521f4cdc49ece-1200x628.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20261118582643/",
+      "image": "https://www.nikkei.com/nkd/disclosure/tdnr/20261118582643/thumbnail/?ttype=ogp",
       "leadSource": "日本経済新聞",
       "publishedAt": "2026-11-18T04:00:00.000Z",
       "sourceCount": 2,
@@ -498,12 +498,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-18T05:00:14.398Z",
-    "previousCount": 86,
+    "previousAt": "2026-11-18T05:30:22.283Z",
+    "previousCount": 85,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-18T06:00:22.283Z",
+  "nextUpdateAt": "2026-11-18T06:30:16.129Z",
   "items": [
     {
       "id": "56920fe102f3",
@@ -522,7 +522,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6018b78f215a",
@@ -588,14 +588,35 @@
       "isNew": false
     },
     {
+      "id": "9a009fdc25bd",
+      "title": "【アウトランダーズ】最強編成｜組み方とコツ【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/559703",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-18T04:24:20.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559703.png?date=1793082381",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "bf7f91db9e78",
       "title": "ケイ・ウノ[259A]：【モンスターハンター】ハンターたちの記憶に刻まれた、あの双剣「ゲキリュウノツガイ」が”銀色＆金色”のオブジェで登場！一対だからこそ、極まる迫力――。 2026年11月18日(適時開示) ：日経会社情報DIGITAL",
-      "url": "https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano",
+      "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20261118582643/",
       "host": "nikkei.com",
       "source": "日本経済新聞",
       "summary": "",
       "publishedAt": "2026-11-18T04:00:00.000Z",
-      "image": "",
+      "image": "https://www.nikkei.com/nkd/disclosure/tdnr/20261118582643/thumbnail/?ttype=ogp",
       "categories": [
         "other"
       ],
@@ -1065,27 +1086,6 @@
       "isNew": false
     },
     {
-      "id": "ba9ad96d102b",
-      "title": "【アウトランダーズ】ネーガルの性能とおすすめキャラ【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577653",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-17T11:44:18.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577653.png?date=1790215794",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "620baae43e82",
       "title": "【アウトランダーズ】課金要素まとめとおすすめパック【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/560244",
@@ -1159,27 +1159,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560129.png?date=1793225833",
       "categories": [
         "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "9a009fdc25bd",
-      "title": "【アウトランダーズ】最強編成｜組み方とコツ【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/559703",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-17T10:24:14.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559703.png?date=1793082381",
-      "categories": [
-        "guide"
       ],
       "series": [
         "outlanders"
@@ -1811,6 +1790,27 @@
       "isNew": false
     },
     {
+      "id": "f64870368a23",
+      "title": "【モンハンストーリーズ2】最強オトモンまとめ｜属性別に掲載【MHST2】",
+      "url": "https://appmedia.jp/mhst2/26677399",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-16T08:58:48.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2021/07/8e879b5f3a4979f8a9f6cd734b23fa0f.jpg",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "a3e503b52310",
       "title": "『バイオハザード レクイエム』デラックスエディションが30%オフ、『アイスボーン』マスターエディションは997円に。カプコンのブラックフライデーセールがPS Storeで開催中",
       "url": "https://www.famitsu.com/article/202611/94151",
@@ -2221,14 +2221,14 @@
       "isNew": false
     },
     {
-      "id": "781891ab5d93",
-      "title": "『モンスターハンターアウトランダーズ』レビュー モバイル向け「モンハン」の新たな狩猟体験は、シリーズの真髄を受け継いでいるものの、ガチャの影からは逃れられない",
-      "url": "https://jp.ign.com/monster-hunter-outlanders/84598/",
+      "id": "96932c941c44",
+      "title": "『モンスターハンターアウトランダーズ』スクリーンショット",
+      "url": "https://jp.ign.com/monster-hunter-outlanders/84599/",
       "host": "jp.ign.com",
       "source": "IGN Japan",
-      "summary": "スマホ向け「モンハン」の新たな狩猟体験は、シリーズの真髄を受け継いでいるものの、ガチャの影からは逃れられない 「モンスターハンター」を定義づける要素がひとつあるとすれば、それはグラインド、周回作業だ。この大ヒットシリーズは誕生以来、周回という概念そのものを受け入れ、それを病みつきになるほど楽しいゲームプレイのサイクル…",
+      "summary": "",
       "publishedAt": "2026-11-13T05:49:54.000Z",
-      "image": "https://sm.ign.com/ign_jp/review/m/monster-hu/monster-hunter-outlanders-review_frd2.jpg",
+      "image": "https://sm.ign.com/ign_jp/gallery/m/monster-hu/monster-hunter-outlanders-screenshots_g777.jpg",
       "categories": [
         "other"
       ],
@@ -2242,14 +2242,14 @@
       "isNew": false
     },
     {
-      "id": "96932c941c44",
-      "title": "『モンスターハンターアウトランダーズ』スクリーンショット",
-      "url": "https://jp.ign.com/monster-hunter-outlanders/84599/",
+      "id": "781891ab5d93",
+      "title": "『モンスターハンターアウトランダーズ』レビュー モバイル向け「モンハン」の新たな狩猟体験は、シリーズの真髄を受け継いでいるものの、ガチャの影からは逃れられない",
+      "url": "https://jp.ign.com/monster-hunter-outlanders/84598/",
       "host": "jp.ign.com",
       "source": "IGN Japan",
-      "summary": "",
+      "summary": "スマホ向け「モンハン」の新たな狩猟体験は、シリーズの真髄を受け継いでいるものの、ガチャの影からは逃れられない 「モンスターハンター」を定義づける要素がひとつあるとすれば、それはグラインド、周回作業だ。この大ヒットシリーズは誕生以来、周回という概念そのものを受け入れ、それを病みつきになるほど楽しいゲームプレイのサイクル…",
       "publishedAt": "2026-11-13T05:49:54.000Z",
-      "image": "https://sm.ign.com/ign_jp/gallery/m/monster-hu/monster-hunter-outlanders-screenshots_g777.jpg",
+      "image": "https://sm.ign.com/ign_jp/review/m/monster-hu/monster-hunter-outlanders-review_frd2.jpg",
       "categories": [
         "other"
       ],
