@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-18T15:00:19.157Z",
+  "updatedAt": "2026-11-18T15:30:18.284Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 79,
+  "total": 80,
   "todayCount": 0,
   "categories": [
     {
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 30
+      "count": 31
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 21
+      "count": 22
     },
     {
       "id": "rise",
@@ -103,6 +103,10 @@
       "count": 50
     },
     {
+      "name": "YouTube",
+      "count": 3
+    },
+    {
       "name": "Monster Hunter Now",
       "count": 2
     },
@@ -116,10 +120,6 @@
     },
     {
       "name": "AppMedia",
-      "count": 2
-    },
-    {
-      "name": "YouTube",
       "count": 2
     },
     {
@@ -377,12 +377,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-18T14:30:18.747Z",
-    "previousCount": 81,
-    "newCount": 2
+    "previousAt": "2026-11-18T15:00:19.157Z",
+    "previousCount": 79,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-18T15:30:19.157Z",
+  "nextUpdateAt": "2026-11-18T16:00:18.284Z",
   "items": [
     {
       "id": "302b3e50c51f",
@@ -435,6 +435,27 @@
       "summary": "",
       "publishedAt": "2026-11-18T14:00:19.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586566.png?date=1793781037",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "c2e889543125",
+      "title": "【アウトランダーズ】絵装の厳選方法とおすすめ効果【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/575851",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-18T13:52:28.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575851.png?date=1789454673",
       "categories": [
         "guide"
       ],
@@ -529,7 +550,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1a7d5001720c",
@@ -645,6 +666,27 @@
       "summary": "",
       "publishedAt": "2026-11-18T13:40:27.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577461.png?date=1790214525",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "f5b273aee9ef",
+      "title": "【アウトランダーズ】エンショウの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577460",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-18T13:40:27.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577460.png?date=1790214483",
       "categories": [
         "guide"
       ],
@@ -781,7 +823,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c79b0d1709be",
@@ -838,6 +880,25 @@
       "series": [
         "outlanders"
       ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "e6d79acfa4bd",
+      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
+      "url": "https://gamewith.jp/mhwilds/563096",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-18T11:57:17.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
+      "categories": [
+        "guide"
+      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1031,27 +1092,6 @@
       "isNew": false
     },
     {
-      "id": "c2e889543125",
-      "title": "【アウトランダーズ】絵装の厳選方法とおすすめ効果【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/575851",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-18T07:42:11.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575851.png?date=1789454673",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "033c4f4fbf88",
       "title": "『モンハン』双剣「ゲキリュウノツガイ」がシルバー製のオブジェに！公式監修の元職人が手作業で作製、専用ディスプレイケース付き",
       "url": "https://www.inside-games.jp/article/2026/11/18/191173.html",
@@ -1092,27 +1132,6 @@
       "isNew": false
     },
     {
-      "id": "f5b273aee9ef",
-      "title": "【アウトランダーズ】エンショウの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577460",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-18T06:19:07.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577460.png?date=1790214483",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "620baae43e82",
       "title": "【アウトランダーズ】課金要素まとめとおすすめパック【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/560244",
@@ -1132,6 +1151,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "0b2d7040670c",
+      "title": "【モンハンワイルズ】サポハンの力を借りて戦う闘技場アルシュベルド！！！！【モンハン】#アイテム尽きる ＃アルシュ #無乙",
+      "url": "https://youtu.be/D9iP19HQaaM?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-18T05:42:12.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "ba708ad1ce88",
@@ -1372,25 +1412,6 @@
       "series": [
         "wilds"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e6d79acfa4bd",
-      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
-      "url": "https://gamewith.jp/mhwilds/563096",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-17T08:58:10.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
-      "categories": [
-        "guide"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
