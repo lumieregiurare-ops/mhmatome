@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-18T11:30:16.636Z",
+  "updatedAt": "2026-11-18T12:00:19.537Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 82,
-  "todayCount": 37,
+  "total": 83,
+  "todayCount": 38,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 37
+      "count": 38
     },
     {
       "id": "sale",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 25
+      "count": 26
     },
     {
       "id": "rise",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 54
+      "count": 55
     },
     {
       "name": "Monster Hunter Now",
@@ -268,7 +268,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-11-18T05:38:19.000Z",
       "sourceCount": 2,
-      "articleCount": 4,
+      "articleCount": 5,
       "categories": [
         "new",
         "guide"
@@ -276,7 +276,7 @@
       "keywords": [
         "モンスターハンターワイルズ",
         "モンハンワイルズ",
-        "序盤"
+        "装備"
       ],
       "articles": [
         {
@@ -298,6 +298,13 @@
           "url": "https://gamewith.jp/mhwilds/485430",
           "source": "GameWith",
           "publishedAt": "2026-11-17T04:31:17.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】双剣の最強装備・おすすめ装備【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/484913",
+          "source": "GameWith",
+          "publishedAt": "2026-11-16T19:05:13.000Z",
           "isPR": false
         }
       ]
@@ -323,7 +330,7 @@
       "articles": [
         {
           "title": "1万2,000人集結、「モンスターハンターNow カーニバル 2026：大阪」盛況裏に終了",
-          "url": "https://www.gamemeca.com/ja/view.php?gid",
+          "url": "https://www.gamemeca.com/ja/mv.php?gid",
           "source": "게임메카",
           "publishedAt": "2026-11-17T07:57:49.000Z",
           "isPR": false
@@ -416,13 +423,55 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-18T11:00:17.916Z",
-    "previousCount": 85,
+    "previousAt": "2026-11-18T11:30:16.636Z",
+    "previousCount": 82,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-18T12:00:16.636Z",
+  "nextUpdateAt": "2026-11-18T12:30:19.537Z",
   "items": [
+    {
+      "id": "bf01f8835eca",
+      "title": "【アウトランダーズ】マドレの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577464",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-18T11:47:11.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577464.png?date=1790214658",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "91f587978fbf",
+      "title": "【アウトランダーズ】リュウノスケの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577455",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-18T11:15:45.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577455.png?date=1790214244",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "66d7e006cc0d",
       "title": "『モンスターハンターNowカーニバル 2026：大阪』にご参加いただいたハンターの皆さん、ありがとうございました！",
@@ -516,6 +565,27 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577461.png?date=1790214525",
       "categories": [
         "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "4d8236f8bea1",
+      "title": "【アウトランダーズ】リセマラ当たりランキング【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531925",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-18T09:09:21.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531925.png?date=1793082273",
+      "categories": [
+        "sales"
       ],
       "series": [
         "outlanders"
@@ -702,6 +772,27 @@
       "summary": "",
       "publishedAt": "2026-11-18T07:19:06.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577467.png?date=1790214807",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "188cd518008b",
+      "title": "【アウトランダーズ】ガチャおすすめと一覧│引くべきガチャ【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531924",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-18T07:16:06.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531924.png?date=1793225649",
       "categories": [
         "guide"
       ],
@@ -923,69 +1014,6 @@
       "isNew": false
     },
     {
-      "id": "91f587978fbf",
-      "title": "【アウトランダーズ】リュウノスケの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577455",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-18T05:53:04.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577455.png?date=1790214244",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4d8236f8bea1",
-      "title": "【アウトランダーズ】リセマラ当たりランキング【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531925",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-18T05:46:05.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531925.png?date=1793082273",
-      "categories": [
-        "sales"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "bf01f8835eca",
-      "title": "【アウトランダーズ】マドレの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577464",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-18T05:42:35.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577464.png?date=1790214658",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "ba708ad1ce88",
       "title": "【モンハンワイルズ】序盤体験版のはどこまで遊べる？引き継ぎ方法【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/571203",
@@ -1004,7 +1032,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c145e9bb055e",
@@ -1208,19 +1236,19 @@
       "isNew": false
     },
     {
-      "id": "188cd518008b",
-      "title": "【アウトランダーズ】ガチャおすすめと一覧│引くべきガチャ【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531924",
+      "id": "d605748fb698",
+      "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/574841",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-17T12:28:13.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531924.png?date=1793225649",
+      "publishedAt": "2026-11-17T13:17:11.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574841.png?date=1789771579",
       "categories": [
-        "guide"
+        "other"
       ],
       "series": [
-        "outlanders"
+        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1418,7 +1446,7 @@
     {
       "id": "6bbd7a9af565",
       "title": "1万2,000人集結、「モンスターハンターNow カーニバル 2026：大阪」盛況裏に終了",
-      "url": "https://www.gamemeca.com/ja/view.php?gid",
+      "url": "https://www.gamemeca.com/ja/mv.php?gid",
       "host": "gamemeca.com",
       "source": "게임메카",
       "summary": "",
@@ -1641,6 +1669,27 @@
       "isNew": false
     },
     {
+      "id": "87e4b8514801",
+      "title": "【モンハンワイルズ】双剣の最強装備・おすすめ装備【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/484913",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-16T19:05:13.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/484913.png?date=1740686517",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "56567e3141fb",
       "title": "『モンハンNow』次元臨界ジンオウガ襲来!! 身支度を整えるのにも最適な装備強化促進クエストに参加しよう",
       "url": "https://getnews.jp/archives/3755597",
@@ -1737,27 +1786,6 @@
         "other"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d605748fb698",
-      "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/574841",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-16T05:49:09.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574841.png?date=1789771579",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -2074,14 +2102,14 @@
       "isNew": false
     },
     {
-      "id": "781891ab5d93",
-      "title": "『モンスターハンターアウトランダーズ』レビュー モバイル向け「モンハン」の新たな狩猟体験は、シリーズの真髄を受け継いでいるものの、ガチャの影からは逃れられない",
-      "url": "https://jp.ign.com/monster-hunter-outlanders/84598/",
+      "id": "96932c941c44",
+      "title": "『モンスターハンターアウトランダーズ』スクリーンショット",
+      "url": "https://jp.ign.com/monster-hunter-outlanders/84599/",
       "host": "jp.ign.com",
       "source": "IGN Japan",
-      "summary": "スマホ向け「モンハン」の新たな狩猟体験は、シリーズの真髄を受け継いでいるものの、ガチャの影からは逃れられない 「モンスターハンター」を定義づける要素がひとつあるとすれば、それはグラインド、周回作業だ。この大ヒットシリーズは誕生以来、周回という概念そのものを受け入れ、それを病みつきになるほど楽しいゲームプレイのサイクル…",
+      "summary": "",
       "publishedAt": "2026-11-13T05:49:54.000Z",
-      "image": "https://sm.ign.com/ign_jp/review/m/monster-hu/monster-hunter-outlanders-review_frd2.jpg",
+      "image": "https://sm.ign.com/ign_jp/gallery/m/monster-hu/monster-hunter-outlanders-screenshots_g777.jpg",
       "categories": [
         "other"
       ],
@@ -2095,14 +2123,14 @@
       "isNew": false
     },
     {
-      "id": "96932c941c44",
-      "title": "『モンスターハンターアウトランダーズ』スクリーンショット",
-      "url": "https://jp.ign.com/monster-hunter-outlanders/84599/",
+      "id": "781891ab5d93",
+      "title": "『モンスターハンターアウトランダーズ』レビュー モバイル向け「モンハン」の新たな狩猟体験は、シリーズの真髄を受け継いでいるものの、ガチャの影からは逃れられない",
+      "url": "https://jp.ign.com/monster-hunter-outlanders/84598/",
       "host": "jp.ign.com",
       "source": "IGN Japan",
-      "summary": "",
+      "summary": "スマホ向け「モンハン」の新たな狩猟体験は、シリーズの真髄を受け継いでいるものの、ガチャの影からは逃れられない 「モンスターハンター」を定義づける要素がひとつあるとすれば、それはグラインド、周回作業だ。この大ヒットシリーズは誕生以来、周回という概念そのものを受け入れ、それを病みつきになるほど楽しいゲームプレイのサイクル…",
       "publishedAt": "2026-11-13T05:49:54.000Z",
-      "image": "https://sm.ign.com/ign_jp/gallery/m/monster-hu/monster-hunter-outlanders-screenshots_g777.jpg",
+      "image": "https://sm.ign.com/ign_jp/review/m/monster-hu/monster-hunter-outlanders-review_frd2.jpg",
       "categories": [
         "other"
       ],
