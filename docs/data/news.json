@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-18T07:00:15.756Z",
+  "updatedAt": "2026-11-18T07:30:15.840Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 88,
-  "todayCount": 28,
+  "total": 87,
+  "todayCount": 29,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 37
+      "count": 36
     },
     {
       "id": "sale",
@@ -57,7 +57,7 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 2
+      "count": 3
     },
     {
       "id": "other",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 1
+      "count": 0
     },
     {
       "id": "outlanders",
@@ -107,15 +107,15 @@
       "count": 4
     },
     {
-      "name": "AppMedia",
-      "count": 3
-    },
-    {
       "name": "AppBank",
       "count": 2
     },
     {
       "name": "Gamer",
+      "count": 2
+    },
+    {
+      "name": "AppMedia",
       "count": 2
     },
     {
@@ -316,10 +316,10 @@
           "isPR": false
         },
         {
-          "title": "【アウトランダーズ】主人公(ヘビィボウガン)の評価とおすすめ装備・編成【モンハンアウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/577467",
+          "title": "【アウトランダーズ】最強オトモランキング【モンハンアウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/559653",
           "source": "GameWith",
-          "publishedAt": "2026-11-18T03:55:25.000Z",
+          "publishedAt": "2026-11-18T04:17:17.000Z",
           "isPR": false
         }
       ]
@@ -525,12 +525,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-18T06:30:13.937Z",
+    "previousAt": "2026-11-18T07:00:15.756Z",
     "previousCount": 88,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-18T07:30:15.756Z",
+  "nextUpdateAt": "2026-11-18T08:00:15.840Z",
   "items": [
     {
       "id": "033c4f4fbf88",
@@ -550,7 +550,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1a7d5001720c",
@@ -758,6 +758,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "a32a83c70edf",
+      "title": "【アウトランダーズ】最強オトモランキング【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/559653",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-18T04:17:17.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559653.png?date=1791852831",
+      "categories": [
+        "guide",
+        "sales"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "bf7f91db9e78",
@@ -1140,27 +1162,6 @@
       "summary": "",
       "publishedAt": "2026-11-17T12:28:13.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531924.png?date=1793225649",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ba9ad96d102b",
-      "title": "【アウトランダーズ】ネーガルの性能とおすすめキャラ【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577653",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-17T11:44:18.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577653.png?date=1790215794",
       "categories": [
         "guide"
       ],
@@ -1745,27 +1746,6 @@
       ],
       "series": [
         "now"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "fbd709240fd8",
-      "title": "【モンハンストーリーズ2】レベル上げにおすすめの方法・手順まとめ【MHST2】",
-      "url": "https://appmedia.jp/mhst2/6648013",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-16T13:50:19.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2021/07/cfd34185d634df738c4a56e4eec83502.jpg",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
