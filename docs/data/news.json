@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T14:00:21.236Z",
+  "updatedAt": "2026-11-18T14:30:18.747Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -12,7 +12,7 @@
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 6
+      "count": 7
     },
     {
       "id": "update",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 37
+      "count": 35
     },
     {
       "id": "sale",
@@ -62,19 +62,19 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 31
+      "count": 32
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 23
+      "count": 22
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 1
+      "count": 2
     },
     {
       "id": "world",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 52
+      "count": 51
     },
     {
       "name": "Monster Hunter Now",
@@ -129,6 +129,10 @@
     {
       "name": "IGN Japan",
       "count": 2
+    },
+    {
+      "name": "Game*Spark",
+      "count": 1
     },
     {
       "name": "ニコニコニュース",
@@ -406,13 +410,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-18T13:30:17.951Z",
-    "previousCount": 82,
-    "newCount": 3
+    "previousAt": "2026-11-18T14:00:21.236Z",
+    "previousCount": 81,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-18T14:30:21.236Z",
+  "nextUpdateAt": "2026-11-18T15:00:18.747Z",
   "items": [
+    {
+      "id": "302b3e50c51f",
+      "title": "『モンハン ライズ』モバイル版11月24日リリースが正式発表！Netflix経由でプレイ可能",
+      "url": "http://www.gamespark.jp/article/2026/11/18/175050.html",
+      "host": "gamespark.jp",
+      "source": "Game*Spark",
+      "summary": "モバイル＆タブレットで遊べる『モンハンライズ』！推奨スペックなども公開中",
+      "publishedAt": "2026-11-18T14:30:03.000Z",
+      "image": "http://www.gamespark.jp/imgs/rss/1221092.jpg",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "648aa62e18c5",
       "title": "【アウトランダーズ】ルガ・エアルダの弱点と攻略【モンハンアウトランダーズ】",
@@ -420,8 +445,29 @@
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-18T13:41:57.000Z",
+      "publishedAt": "2026-11-18T14:00:19.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586566.png?date=1793781037",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "6018b78f215a",
+      "title": "【アウトランダーズ】ミドリの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577465",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-18T13:46:23.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577465.png?date=1790214699",
       "categories": [
         "guide"
       ],
@@ -453,7 +499,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1f6ecbc0b45f",
@@ -624,27 +670,6 @@
       "isNew": false
     },
     {
-      "id": "6018b78f215a",
-      "title": "【アウトランダーズ】ミドリの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577465",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-18T12:17:29.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577465.png?date=1790214699",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "f16821792b8d",
       "title": "【モンスターハンター】ハンターたちの記憶に刻まれた、あの双剣「ゲキリュウノツガイ」が”銀色＆金色”のオブジェで登場！一",
       "url": "https://news.nicovideo.jp/watch/nw20006798?news_ref",
@@ -727,6 +752,27 @@
       "isNew": false
     },
     {
+      "id": "4d8236f8bea1",
+      "title": "【アウトランダーズ】リセマラ当たりランキング【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531925",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-18T11:28:19.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531925.png?date=1793082273",
+      "categories": [
+        "sales"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "91f587978fbf",
       "title": "【アウトランダーズ】リュウノスケの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577455",
@@ -766,7 +812,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "705870b0ff79",
@@ -827,27 +873,6 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "8d4a8173f6c1",
-      "title": "【アウトランダーズ】ネルギガンテの弱点と攻略｜実装日予想と事前準備【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/588204",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-18T09:24:50.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/588204.png?date=1794992723",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
       "isNew": false
     },
     {
@@ -861,27 +886,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531944.png?date=1793082656",
       "categories": [
         "guide",
-        "sales"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4d8236f8bea1",
-      "title": "【アウトランダーズ】リセマラ当たりランキング【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531925",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-18T09:09:21.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531925.png?date=1793082273",
-      "categories": [
         "sales"
       ],
       "series": [
@@ -1322,6 +1326,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "9f6d8bb79247",
+      "title": "【アウトランダーズ】鋼翼が落とす影の進め方と報酬│クシャルダオラ討伐イベント【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/587689",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-17T11:02:04.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/587689.png?date=1794549915",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "259a74d63608",
@@ -2019,27 +2044,6 @@
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "355e5028c16d",
-      "title": "【モンハンワイルズ】狩猟笛のおすすめスキル・装飾品【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/489340",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-15T14:04:12.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/489340.png?date=1741517703",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
