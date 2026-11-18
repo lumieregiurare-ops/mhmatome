@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-18T00:00:15.348Z",
+  "updatedAt": "2026-11-18T00:30:16.456Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 86,
-  "todayCount": 9,
+  "total": 83,
+  "todayCount": 8,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 38
+      "count": 37
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 39
+      "count": 37
     }
   ],
   "series": [
@@ -94,25 +94,21 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 41
+      "count": 39
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 52
-    },
-    {
-      "name": "YouTube",
-      "count": 5
+      "count": 51
     },
     {
       "name": "AppMedia",
       "count": 4
     },
     {
-      "name": "Dellows News",
-      "count": 2
+      "name": "YouTube",
+      "count": 4
     },
     {
       "name": "ｄメニューニュース",
@@ -180,6 +176,10 @@
     },
     {
       "name": "Prepaid mania",
+      "count": 1
+    },
+    {
+      "name": "Dellows News",
       "count": 1
     },
     {
@@ -257,7 +257,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-11-17T23:26:24.000Z",
       "sourceCount": 2,
-      "articleCount": 35,
+      "articleCount": 32,
       "categories": [
         "guide",
         "other"
@@ -280,13 +280,6 @@
           "url": "https://gamewith.jp/mhoutlanders/586524",
           "source": "GameWith",
           "publishedAt": "2026-11-17T19:01:18.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アウトランダーズ】ルガ・エアルダの弱点と攻略【モンハンアウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/586566",
-          "source": "GameWith",
-          "publishedAt": "2026-11-17T16:44:28.000Z",
           "isPR": false
         },
         {
@@ -322,6 +315,13 @@
           "url": "https://gamewith.jp/mhoutlanders/577465",
           "source": "GameWith",
           "publishedAt": "2026-11-17T12:36:22.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アウトランダーズ】ガチャおすすめと一覧│引くべきガチャ【モンハンアウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/531924",
+          "source": "GameWith",
+          "publishedAt": "2026-11-17T12:28:13.000Z",
           "isPR": false
         }
       ]
@@ -456,12 +456,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-17T23:30:15.209Z",
+    "previousAt": "2026-11-18T00:00:15.348Z",
     "previousCount": 86,
     "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-18T00:30:15.348Z",
+  "nextUpdateAt": "2026-11-18T01:00:16.456Z",
   "items": [
     {
       "id": "91f587978fbf",
@@ -582,27 +582,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "648aa62e18c5",
-      "title": "【アウトランダーズ】ルガ・エアルダの弱点と攻略【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/586566",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-17T16:44:28.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586566.png?date=1793781037",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1612,27 +1591,6 @@
       "isNew": false
     },
     {
-      "id": "09ad87b18c30",
-      "title": "スマホ向けモンスターハンターアウトランダーズが正式サービス開始 新武器種も解禁",
-      "url": "https://news.dellows.jp/942585/",
-      "host": "news.dellows.jp",
-      "source": "Dellows News",
-      "summary": "",
-      "publishedAt": "2026-11-16T13:30:00.000Z",
-      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/942585_1.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "e7396a7a7d0e",
       "title": "人気IPを高校生・学生たちが実務クオリティで体現！ 謎解きに“モンハン飯”、限定グッズまで揃った「バンタン文化祭2026」",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMlBGdW4tMTVYazZHZDhWc0FXVVNraF9PSm1VQ3ZYdnZlWXRQei10bWNPRXp0MjMwcHVwYWdpNWhSa2RMVXlMTzA0aXNwb3pLTnIwdGpKOGtWb2tybzJyOVJrQThLYjBVSU5PNENvSFFPMnpyYVBLenhpUDd2RFVSMExPbWdJYU9QSERDczRsakJyZmxBQ1J3VUVQU0VjLWFoLWJ0X0NVVTY4dFk3S1RpYzN2UnozY2dNLWM5LU1QUmhaQmx2RVhMblI1bWJNdzjSAX9BVV95cUxPellQMkNrTGxSaXFVSEtVWEE1NGpJZGIzN3kwUEFqUmtnQXRvNjFpSS02Q3pZa1dYRnl2VGhLZXFXYjRTUzFLaXZacVYtcmQ5MHc2aENra0FUOE1hMEFiZlVEOE5jT1F4MlpBMmY2SXpwMEhpQ2ZiWDF3d3VfbUV3?oc=5",
@@ -2093,25 +2051,6 @@
       "summary": "",
       "publishedAt": "2026-11-15T08:00:00.000Z",
       "image": "https://news.walkerplus.com/article/54873/303917_615.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f3d32b987d70",
-      "title": "【モンスターハンター】アーサー氏のブチギレ討伐【ルガ・エアルダ】",
-      "url": "https://youtu.be/nCwi1dIf7fU?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-15T07:51:40.000Z",
-      "image": "",
       "categories": [
         "other"
       ],
