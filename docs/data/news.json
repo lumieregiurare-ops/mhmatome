@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-19T10:00:37.472Z",
+  "updatedAt": "2026-11-19T10:30:17.444Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 78,
-  "todayCount": 43,
+  "total": 80,
+  "todayCount": 45,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 33
+      "count": 34
     },
     {
       "id": "sale",
@@ -57,12 +57,12 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 2
+      "count": 3
     },
     {
       "id": "other",
       "label": "その他",
-      "count": 33
+      "count": 34
     }
   ],
   "series": [
@@ -94,17 +94,17 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 36
+      "count": 38
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 48
+      "count": 49
     },
     {
       "name": "YouTube",
-      "count": 5
+      "count": 6
     },
     {
       "name": "AppMedia",
@@ -234,6 +234,84 @@
           "url": "https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano",
           "source": "日本経済新聞",
           "publishedAt": "2026-11-18T04:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "d848c47c8e0c",
+      "title": "【アウトランダーズ】最強キャラランキング【モンハンアウトランダーズ】",
+      "summary": "",
+      "url": "https://gamewith.jp/mhoutlanders/531927",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531927.png?date=1793082334",
+      "leadSource": "GameWith",
+      "publishedAt": "2026-11-19T09:53:45.000Z",
+      "sourceCount": 2,
+      "articleCount": 11,
+      "categories": [
+        "guide",
+        "sales"
+      ],
+      "keywords": [
+        "アウトランダーズ",
+        "モンハンアウトランダーズ",
+        "ランキング"
+      ],
+      "articles": [
+        {
+          "title": "【アウトランダーズ】ルガ・エアルダの弱点と攻略【モンハンアウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/586566",
+          "source": "GameWith",
+          "publishedAt": "2026-11-19T09:42:49.000Z",
+          "isPR": false
+        },
+        {
+          "title": "モンハン アウトランダーズ 鋭精ルガ・エアルダ ランスで攻略の民(奇跡)",
+          "url": "https://youtu.be/pvybD_td7hs",
+          "source": "YouTube",
+          "publishedAt": "2026-11-19T08:15:11.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アウトランダーズ】リセマラ当たりランキング【モンハンアウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/531925",
+          "source": "GameWith",
+          "publishedAt": "2026-11-19T08:14:46.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アウトランダーズ】ストーリー攻略チャート【モンハンアウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/531933",
+          "source": "GameWith",
+          "publishedAt": "2026-11-19T07:33:25.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アウトランダーズ】絵装の厳選方法とおすすめ効果【モンハンアウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/575851",
+          "source": "GameWith",
+          "publishedAt": "2026-11-19T05:35:10.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アウトランダーズ】課金要素まとめとおすすめパック【モンハンアウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/560244",
+          "source": "GameWith",
+          "publishedAt": "2026-11-19T05:33:09.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アウトランダーズ】リセマラのやり方と所要時間｜何連引ける？【モンハンアウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/531931",
+          "source": "GameWith",
+          "publishedAt": "2026-11-19T04:59:08.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アウトランダーズ】主人公のおすすめ武器種と心得｜最強武器種ランキング【モンハンアウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/531944",
+          "source": "GameWith",
+          "publishedAt": "2026-11-19T04:58:27.000Z",
           "isPR": false
         }
       ]
@@ -438,22 +516,65 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-19T09:30:14.455Z",
+    "previousAt": "2026-11-19T10:00:37.472Z",
     "previousCount": 78,
-    "newCount": 1
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-19T10:30:37.472Z",
+  "nextUpdateAt": "2026-11-19T11:00:17.444Z",
   "items": [
     {
-      "id": "fce79821309b",
-      "title": "【アウトランダーズ】主人公(大剣)の評価とおすすめ装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577471",
+      "id": "d848c47c8e0c",
+      "title": "【アウトランダーズ】最強キャラランキング【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531927",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-19T09:22:08.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577471.png?date=1790214971",
+      "publishedAt": "2026-11-19T09:53:45.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531927.png?date=1793082334",
+      "categories": [
+        "guide",
+        "sales"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "648aa62e18c5",
+      "title": "【アウトランダーズ】ルガ・エアルダの弱点と攻略【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/586566",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-19T09:42:49.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586566.png?date=1793781037",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "1f6ecbc0b45f",
+      "title": "【アウトランダーズ】主人公(双剣)の評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577469",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-19T09:22:06.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577469.png?date=1790214889",
       "categories": [
         "guide"
       ],
@@ -677,6 +798,27 @@
       "isNew": false
     },
     {
+      "id": "74a22df8776d",
+      "title": "モンハン アウトランダーズ 鋭精ルガ・エアルダ ランスで攻略の民(奇跡)",
+      "url": "https://youtu.be/pvybD_td7hs",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-19T08:15:11.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "4d8236f8bea1",
       "title": "【アウトランダーズ】リセマラ当たりランキング【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/531925",
@@ -727,27 +869,6 @@
       "summary": "",
       "publishedAt": "2026-11-19T07:33:25.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531933.png?date=1793227277",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "648aa62e18c5",
-      "title": "【アウトランダーズ】ルガ・エアルダの弱点と攻略【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/586566",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-19T07:07:14.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586566.png?date=1793781037",
       "categories": [
         "guide"
       ],
@@ -1071,27 +1192,6 @@
       "isNew": false
     },
     {
-      "id": "1f6ecbc0b45f",
-      "title": "【アウトランダーズ】主人公(双剣)の評価とおすすめ装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577469",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-19T04:05:22.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577469.png?date=1790214889",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "47a9b5d28960",
       "title": "【モンハンワイルズ】Switch2版の発売日と最新情報まとめ【モンスターハンターワイルズ】",
       "url": "https://appmedia.jp/mhwilds/80576272",
@@ -1111,6 +1211,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "581e25069b17",
+      "title": "【アウトランダーズ】キャラの育成要素まとめ│スーベニア強化方法【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/560256",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-19T03:29:34.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560256.png?date=1793227616",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "c79b0d1709be",
@@ -1151,7 +1272,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "40bccce677c8",
@@ -1425,14 +1546,14 @@
       "isNew": false
     },
     {
-      "id": "bdd6dc72abed",
-      "title": "【アウトランダーズ】主人公(ランス)の評価とおすすめ装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577468",
+      "id": "fce79821309b",
+      "title": "【アウトランダーズ】主人公(大剣)の評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577471",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-18T13:40:35.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577468.png?date=1790214845",
+      "publishedAt": "2026-11-18T13:40:38.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577471.png?date=1790214971",
       "categories": [
         "guide"
       ],
