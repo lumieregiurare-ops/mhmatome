@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T16:30:18.508Z",
+  "updatedAt": "2026-11-19T17:00:20.360Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 83,
-  "todayCount": 1,
+  "todayCount": 2,
   "categories": [
     {
       "id": "new",
@@ -74,7 +74,7 @@
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 6
+      "count": 5
     },
     {
       "id": "world",
@@ -246,15 +246,16 @@
       "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/unnamed-1024x576.webp",
       "leadSource": "電ファミニコゲーマー",
       "publishedAt": "2026-11-19T14:25:30.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
+      "sourceCount": 4,
+      "articleCount": 4,
       "categories": [
-        "other"
+        "other",
+        "new"
       ],
       "keywords": [
-        "モンスターハンターライズ",
         "モバイル",
-        "決定"
+        "ライズ",
+        "モンスターハンターライズ"
       ],
       "articles": [
         {
@@ -270,6 +271,13 @@
           "source": "게임메카",
           "publishedAt": "2026-11-19T02:18:13.000Z",
           "isPR": false
+        },
+        {
+          "title": "『モンハン ライズ』モバイル版11月24日リリースが正式発表！Netflix経由でプレイ可能",
+          "url": "https://www.gamespark.jp/article/2026/11/18/175050.html",
+          "source": "Game*Spark",
+          "publishedAt": "2026-11-18T14:30:03.000Z",
+          "isPR": false
         }
       ]
     },
@@ -282,14 +290,14 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-11-19T04:42:09.000Z",
       "sourceCount": 2,
-      "articleCount": 5,
+      "articleCount": 4,
       "categories": [
         "new",
-        "other"
+        "guide"
       ],
       "keywords": [
-        "モンハンワイルズ",
         "モンスターハンターワイルズ",
+        "モンハンワイルズ",
         "switch2"
       ],
       "articles": [
@@ -305,13 +313,6 @@
           "url": "https://gamewith.jp/mhwilds/571203",
           "source": "GameWith",
           "publishedAt": "2026-11-18T05:38:19.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】護竜リオレイアの最新情報まとめ【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/575037",
-          "source": "GameWith",
-          "publishedAt": "2026-11-17T09:22:08.000Z",
           "isPR": false
         },
         {
@@ -403,44 +404,37 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "302b3e50c51f",
-      "title": "『モンハン ライズ』モバイル版11月24日リリースが正式発表！Netflix経由でプレイ可能",
-      "summary": "モバイル＆タブレットで遊べる『モンハンライズ』！推奨スペックなども公開中",
-      "url": "http://www.gamespark.jp/article/2026/11/18/175050.html",
-      "image": "http://www.gamespark.jp/imgs/rss/1221092.jpg",
-      "leadSource": "Game*Spark",
-      "publishedAt": "2026-11-19T06:16:54.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other",
-        "new"
-      ],
-      "keywords": [
-        "netflix",
-        "ライズ"
-      ],
-      "articles": [
-        {
-          "title": "モンハンライズがNetflixでスマホ版に｜配信日は11月24日。日本語対応も",
-          "url": "https://iyusuke.jp/monster-hunter-rise-netflix/",
-          "source": "https://iyusuke.jp/",
-          "publishedAt": "2026-11-19T06:16:54.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-19T16:00:21.094Z",
+    "previousAt": "2026-11-19T16:30:18.508Z",
     "previousCount": 83,
     "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-19T17:00:18.508Z",
+  "nextUpdateAt": "2026-11-19T17:30:20.360Z",
   "items": [
+    {
+      "id": "6018b78f215a",
+      "title": "【アウトランダーズ】ミドリの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577465",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-19T16:34:35.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577465.png?date=1790214699",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "4749e6e7e0c8",
       "title": "【アウトランダーズ】アケニアの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
@@ -476,6 +470,27 @@
       ],
       "series": [
         "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "f5b273aee9ef",
+      "title": "【アウトランダーズ】エンショウの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577460",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-19T14:22:15.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577460.png?date=1790214483",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -520,25 +535,6 @@
       "series": [
         "now"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e6d79acfa4bd",
-      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
-      "url": "https://gamewith.jp/mhwilds/563096",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-19T12:04:16.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
-      "categories": [
-        "guide"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -801,27 +797,6 @@
       "isNew": false
     },
     {
-      "id": "6018b78f215a",
-      "title": "【アウトランダーズ】ミドリの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577465",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-19T09:22:03.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577465.png?date=1790214699",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "705870b0ff79",
       "title": "【アウトランダーズ】主人公(弓)の評価とおすすめ装備・編成【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577466",
@@ -893,27 +868,6 @@
       "summary": "",
       "publishedAt": "2026-11-19T09:22:00.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577464.png?date=1790214658",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f5b273aee9ef",
-      "title": "【アウトランダーズ】エンショウの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577460",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-19T09:21:58.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577460.png?date=1790214483",
       "categories": [
         "guide"
       ],
@@ -1344,6 +1298,25 @@
       "isNew": false
     },
     {
+      "id": "e6d79acfa4bd",
+      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
+      "url": "https://gamewith.jp/mhwilds/563096",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-19T04:44:06.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
+      "categories": [
+        "guide"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "f529da9f5ece",
       "title": "【モンハンワイルズ】Switch2版の発売日はいつ？【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/563066",
@@ -1598,18 +1571,16 @@
     {
       "id": "302b3e50c51f",
       "title": "『モンハン ライズ』モバイル版11月24日リリースが正式発表！Netflix経由でプレイ可能",
-      "url": "http://www.gamespark.jp/article/2026/11/18/175050.html",
+      "url": "https://www.gamespark.jp/article/2026/11/18/175050.html",
       "host": "gamespark.jp",
       "source": "Game*Spark",
-      "summary": "モバイル＆タブレットで遊べる『モンハンライズ』！推奨スペックなども公開中",
+      "summary": "",
       "publishedAt": "2026-11-18T14:30:03.000Z",
-      "image": "http://www.gamespark.jp/imgs/rss/1221092.jpg",
+      "image": "https://www.gamespark.jp/imgs/ogp_f/1221092.webp",
       "categories": [
         "new"
       ],
-      "series": [
-        "rise"
-      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
