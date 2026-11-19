@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-19T12:30:18.054Z",
+  "updatedAt": "2026-11-19T12:55:46.340Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 82,
-  "todayCount": 52,
+  "total": 84,
+  "todayCount": 54,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 5
+      "count": 6
     },
     {
       "id": "update",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 33
+      "count": 35
     },
     {
       "id": "sale",
@@ -94,17 +94,21 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 38
+      "count": 39
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 49
+      "count": 50
     },
     {
       "name": "YouTube",
       "count": 7
+    },
+    {
+      "name": "AppMedia",
+      "count": 3
     },
     {
       "name": "ガジェット通信",
@@ -112,10 +116,6 @@
     },
     {
       "name": "インサイド",
-      "count": 2
-    },
-    {
-      "name": "AppMedia",
       "count": 2
     },
     {
@@ -247,7 +247,7 @@
       "leadSource": "インサイド",
       "publishedAt": "2026-11-19T10:35:02.000Z",
       "sourceCount": 3,
-      "articleCount": 35,
+      "articleCount": 36,
       "categories": [
         "media",
         "community"
@@ -312,6 +312,84 @@
           "url": "https://gamewith.jp/mhoutlanders/577470",
           "source": "GameWith",
           "publishedAt": "2026-11-19T09:22:06.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "e6d79acfa4bd",
+      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
+      "summary": "",
+      "url": "https://gamewith.jp/mhwilds/563096",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
+      "leadSource": "GameWith",
+      "publishedAt": "2026-11-19T04:44:06.000Z",
+      "sourceCount": 2,
+      "articleCount": 9,
+      "categories": [
+        "guide",
+        "new"
+      ],
+      "keywords": [
+        "アセンダンス",
+        "モンハンワイルズ",
+        "最新情報"
+      ],
+      "articles": [
+        {
+          "title": "アセンダンス攻略｜モンハンアセンダンス発売日・最新情報",
+          "url": "https://appmedia.jp/mhwilds/80539066",
+          "source": "AppMedia",
+          "publishedAt": "2026-11-19T03:11:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5VdDhGeENzNVVEVTlST3RCNmZOYkFTMEFZWE1QSEwxbE10THdtc3U3aDZCYWFNTlNrdUJGbDd3UXU2RWxBMXcwVFNB?oc=5",
+          "source": "GameWith",
+          "publishedAt": "2026-11-19T02:01:39.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/574841",
+          "source": "GameWith",
+          "publishedAt": "2026-11-19T01:02:10.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563077",
+          "source": "GameWith",
+          "publishedAt": "2026-11-19T00:34:34.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563040",
+          "source": "GameWith",
+          "publishedAt": "2026-11-18T14:55:19.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/577281",
+          "source": "GameWith",
+          "publishedAt": "2026-11-18T11:54:09.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563104",
+          "source": "GameWith",
+          "publishedAt": "2026-11-18T07:49:27.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】護竜リオレイアの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/575037",
+          "source": "GameWith",
+          "publishedAt": "2026-11-17T09:22:08.000Z",
           "isPR": false
         }
       ]
@@ -455,7 +533,7 @@
       "articles": [
         {
           "title": "モンスターハンターライズ、ネットフリックスモバイルで24日リリース決定",
-          "url": "https://www.gamemeca.com/ja/mv.php?gid",
+          "url": "https://www.gamemeca.com/ja/view.php?gid",
           "source": "게임메카",
           "publishedAt": "2026-11-19T02:18:13.000Z",
           "isPR": false
@@ -464,12 +542,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-19T12:00:18.012Z",
-    "previousCount": 83,
+    "previousAt": "2026-11-19T12:30:18.054Z",
+    "previousCount": 82,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-19T13:00:18.054Z",
+  "nextUpdateAt": "2026-11-19T13:25:46.340Z",
   "items": [
     {
       "id": "15942ac8b227",
@@ -490,7 +568,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "619a8dc70669",
@@ -703,7 +781,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1a7d5001720c",
@@ -1187,6 +1265,27 @@
       "isNew": false
     },
     {
+      "id": "8d4a8173f6c1",
+      "title": "【アウトランダーズ】ネルギガンテの弱点と攻略｜実装日予想と事前準備【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/588204",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-19T05:25:45.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/588204.png?date=1794992723",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "ca0441e4c452",
       "title": "『モンスターハンター』の双剣「ゲキリュウノツガイ」が公式監修でシルバー製オブジェ化（リアルサウンド）",
       "url": "https://news.yahoo.co.jp/articles/e981444645f5ccfc2d76a17d96c38364cb0529fc",
@@ -1373,6 +1472,26 @@
       "isNew": false
     },
     {
+      "id": "96b4d1361268",
+      "title": "アセンダンス攻略｜モンハンアセンダンス発売日・最新情報",
+      "url": "https://appmedia.jp/mhwilds/80539066",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-19T03:11:00.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/095900_rwfub.webp",
+      "categories": [
+        "new",
+        "guide"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "40bccce677c8",
       "title": "【アセンダンス】大剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/485475",
@@ -1396,7 +1515,7 @@
     {
       "id": "f235e0da1595",
       "title": "モンスターハンターライズ、ネットフリックスモバイルで24日リリース決定",
-      "url": "https://www.gamemeca.com/ja/mv.php?gid",
+      "url": "https://www.gamemeca.com/ja/view.php?gid",
       "host": "gamemeca.com",
       "source": "게임메카",
       "summary": "",
@@ -1417,12 +1536,12 @@
     {
       "id": "f4f222ac2e2d",
       "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/575036",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5VdDhGeENzNVVEVTlST3RCNmZOYkFTMEFZWE1QSEwxbE10THdtc3U3aDZCYWFNTlNrdUJGbDd3UXU2RWxBMXcwVFNB?oc=5",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-19T02:01:39.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575036.png?date=1789770113",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1431,7 +1550,7 @@
       ],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
@@ -1786,7 +1905,7 @@
     {
       "id": "0b2d7040670c",
       "title": "【モンハンワイルズ】サポハンの力を借りて戦う闘技場アルシュベルド！！！！【モンハン】#アイテム尽きる ＃アルシュ #無乙",
-      "url": "https://youtu.be/D9iP19HQaaM?si",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zbXFyU1ZhMjdiMTg2YVI0dWwzSDNZNWhEQnNPLS1sY1RqWHdkZXpUSUtOYlRxOWtvcFp5RDJ1ZXBUekNxYkpOS2k3QzhhVFV5dUI5ZWdub1pRNE9U?oc=5",
       "host": "youtu.be",
       "source": "YouTube",
       "summary": "",
@@ -1800,7 +1919,7 @@
       ],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
