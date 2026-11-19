@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-19T14:30:19.323Z",
+  "updatedAt": "2026-11-19T15:00:18.183Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 85,
-  "todayCount": 54,
+  "total": 86,
+  "todayCount": 0,
   "categories": [
     {
       "id": "new",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 37
+      "count": 38
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 21
+      "count": 22
     },
     {
       "id": "rise",
@@ -79,12 +79,12 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 1
+      "count": 2
     },
     {
       "id": "now",
       "label": "Now",
-      "count": 2
+      "count": 1
     },
     {
       "id": "stories",
@@ -94,25 +94,21 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 39
+      "count": 40
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 49
+      "count": 50
     },
     {
       "name": "YouTube",
-      "count": 7
+      "count": 8
     },
     {
       "name": "AppMedia",
       "count": 3
-    },
-    {
-      "name": "ガジェット通信",
-      "count": 2
     },
     {
       "name": "インサイド",
@@ -136,6 +132,10 @@
     },
     {
       "name": "電ファミニコゲーマー",
+      "count": 1
+    },
+    {
+      "name": "ガジェット通信",
       "count": 1
     },
     {
@@ -214,7 +214,7 @@
       "articles": [
         {
           "title": "【モンスターハンター】ハンターたちの記憶に刻まれた、あの双剣「ゲキリュウノツガイ」が”銀色＆金色”のオブジェで登場！一",
-          "url": "https://news.nicovideo.jp/watch/nw20006798?news_ref",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1tNEp0WldWQ2pGVWZyTDE4bmlERGNncC0zTnRwNjFXM1dPUkpGQm9hZE54NzJrUWlfbFIxZTlEMGF4UGFLU25UWGlPRkY4UlVhVE1jbFJSVWNaRjNWbDd0dWtsR3JsVm9BQWFGVXpJaTVvakE?oc=5",
           "source": "ニコニコニュース",
           "publishedAt": "2026-11-18T12:15:31.000Z",
           "isPR": false
@@ -251,7 +251,7 @@
       "leadSource": "インサイド",
       "publishedAt": "2026-11-19T10:49:17.000Z",
       "sourceCount": 3,
-      "articleCount": 34,
+      "articleCount": 35,
       "categories": [
         "other",
         "media"
@@ -560,12 +560,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-19T14:00:18.584Z",
-    "previousCount": 84,
+    "previousAt": "2026-11-19T14:30:19.323Z",
+    "previousCount": 85,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-19T15:00:19.323Z",
+  "nextUpdateAt": "2026-11-19T15:30:18.183Z",
   "items": [
     {
       "id": "0ab1270211f6",
@@ -581,6 +581,28 @@
       ],
       "series": [
         "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "57d0adb884aa",
+      "title": "Ｘで見たオメガvs魔法のほうきが楽しそうだったので真似した（魔法のほうきはジェスチャー）#mhwilds #モンハンワイルズ",
+      "url": "https://youtu.be/WMM-tq2nCg8?si",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-19T13:04:37.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1075,6 +1097,27 @@
       "isNew": false
     },
     {
+      "id": "593c6d2e0d0a",
+      "title": "【アウトランダーズ】ロードの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/583506",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-19T09:21:52.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583506.png?date=1792581205",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "5f417c989053",
       "title": "【アウトランダーズ】ヘイズの評価とおすすめ装備・編成【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/583505",
@@ -1528,7 +1571,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "40bccce677c8",
@@ -1764,7 +1807,7 @@
     {
       "id": "f16821792b8d",
       "title": "【モンスターハンター】ハンターたちの記憶に刻まれた、あの双剣「ゲキリュウノツガイ」が”銀色＆金色”のオブジェで登場！一",
-      "url": "https://news.nicovideo.jp/watch/nw20006798?news_ref",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1tNEp0WldWQ2pGVWZyTDE4bmlERGNncC0zTnRwNjFXM1dPUkpGQm9hZE54NzJrUWlfbFIxZTlEMGF4UGFLU25UWGlPRkY4UlVhVE1jbFJSVWNaRjNWbDd0dWtsR3JsVm9BQWFGVXpJaTVvakE?oc=5",
       "host": "news.nicovideo.jp",
       "source": "ニコニコニュース",
       "summary": "",
@@ -1776,7 +1819,7 @@
       "series": [],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
@@ -2104,7 +2147,7 @@
     {
       "id": "6bbd7a9af565",
       "title": "1万2,000人集結、「モンスターハンターNow カーニバル 2026：大阪」盛況裏に終了",
-      "url": "https://www.gamemeca.com/ja/view.php?gid",
+      "url": "https://www.gamemeca.com/ja/mv.php?gid",
       "host": "gamemeca.com",
       "source": "게임메카",
       "summary": "",
@@ -2256,27 +2299,6 @@
       ],
       "series": [
         "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "56567e3141fb",
-      "title": "『モンハンNow』次元臨界ジンオウガ襲来!! 身支度を整えるのにも最適な装備強化促進クエストに参加しよう",
-      "url": "https://getnews.jp/archives/3755597",
-      "host": "getnews.jp",
-      "source": "ガジェット通信",
-      "summary": "",
-      "publishedAt": "2026-11-16T14:30:35.000Z",
-      "image": "https://rensai.jp/wp-content/uploads/2026/11/9ac138c97519d3bcae3e3a90e8556e17.jpg",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "now"
       ],
       "isOfficial": false,
       "isPR": false,
