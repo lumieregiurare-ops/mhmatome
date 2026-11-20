@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T23:00:14.591Z",
+  "updatedAt": "2026-11-20T23:30:24.842Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -12,7 +12,7 @@
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 7
+      "count": 6
     },
     {
       "id": "update",
@@ -32,7 +32,7 @@
     {
       "id": "goods",
       "label": "グッズ・フィギュア",
-      "count": 5
+      "count": 4
     },
     {
       "id": "media",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 39
+      "count": 40
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 40
+      "count": 41
     },
     {
       "id": "rise",
@@ -100,11 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 66
-    },
-    {
-      "name": "AppBank",
-      "count": 2
+      "count": 67
     },
     {
       "name": "Game*Spark",
@@ -121,6 +117,10 @@
     {
       "name": "PR TIMES",
       "count": 2
+    },
+    {
+      "name": "AppBank",
+      "count": 1
     },
     {
       "name": "電撃オンライン",
@@ -292,11 +292,10 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261119-00010033-realsound-000-1-view.jpg?exp=10800",
       "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-11-19T05:00:48.000Z",
-      "sourceCount": 4,
-      "articleCount": 4,
+      "sourceCount": 3,
+      "articleCount": 3,
       "categories": [
-        "other",
-        "new"
+        "other"
       ],
       "keywords": [
         "ゲキリュウノツガイ",
@@ -304,13 +303,6 @@
         "双剣"
       ],
       "articles": [
-        {
-          "title": "『モンスターハンター』双剣「ゲキリュウノツガイ」が銀と金のオブジェに！ 11月18日から予約受付",
-          "url": "https://www.appbank.net/2026/11/18/game/3169475.php",
-          "source": "AppBank",
-          "publishedAt": "2026-11-18T06:20:29.000Z",
-          "isPR": false
-        },
         {
           "title": "ケイ・ウノ[259A]：【モンスターハンター】ハンターたちの記憶に刻まれた、あの双剣「ゲキリュウノツガイ」が”銀色＆金色”のオブジェで登場！一対だからこそ、極まる迫力――。 2026年11月18日(適時開示) ：日経会社情報DIGITAL",
           "url": "https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano",
@@ -357,12 +349,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-20T22:30:18.495Z",
-    "previousCount": 92,
-    "newCount": 2
+    "previousAt": "2026-11-20T23:00:14.591Z",
+    "previousCount": 91,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-20T23:30:14.591Z",
+  "nextUpdateAt": "2026-11-21T00:00:24.842Z",
   "items": [
     {
       "id": "cad13e5dcc70",
@@ -407,14 +399,14 @@
       "isNew": false
     },
     {
-      "id": "411bb4076b94",
-      "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/575038",
+      "id": "e08e6c8ea2a8",
+      "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/563104",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-20T20:22:15.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575038.png?date=1789770323",
+      "publishedAt": "2026-11-20T18:03:42.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563104.png?date=1789770630",
       "categories": [
         "other"
       ],
@@ -1413,27 +1405,6 @@
       "isNew": false
     },
     {
-      "id": "e08e6c8ea2a8",
-      "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563104",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-19T20:21:46.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563104.png?date=1789770630",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "d8b95bbbc335",
       "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/563040",
@@ -1510,6 +1481,27 @@
       ],
       "series": [
         "now"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "411bb4076b94",
+      "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/575038",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-19T09:01:05.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575038.png?date=1789770323",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1803,26 +1795,6 @@
       "isNew": false
     },
     {
-      "id": "41bf088fd33b",
-      "title": "『モンスターハンター』双剣「ゲキリュウノツガイ」が銀と金のオブジェに！ 11月18日から予約受付",
-      "url": "https://www.appbank.net/2026/11/18/game/3169475.php",
-      "host": "appbank.net",
-      "source": "AppBank",
-      "summary": "",
-      "publishedAt": "2026-11-18T06:20:29.000Z",
-      "image": "https://www.appbank.net/wp-content/uploads/2026/11/20261118_123740_789_01.webp",
-      "categories": [
-        "new",
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "0b2d7040670c",
       "title": "【モンハンワイルズ】サポハンの力を借りて戦う闘技場アルシュベルド！！！！【モンハン】#アイテム尽きる ＃アルシュ #無乙",
       "url": "https://youtu.be/D9iP19HQaaM?si",
@@ -2096,6 +2068,27 @@
       "isNew": false
     },
     {
+      "id": "9ae9e0fe5f0e",
+      "title": "【モンハンワイルズ】泡狐竜の水玉の入手方法と使い道【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/492546",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-18T05:31:44.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "fb0a79545135",
       "title": "【モンハンワイルズ】狂おしくもププロポルの攻略と報酬【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/496583",
@@ -2175,7 +2168,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "bf7f91db9e78",
