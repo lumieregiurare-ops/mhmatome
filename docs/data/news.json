@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-20T09:30:16.412Z",
+  "updatedAt": "2026-11-20T10:00:15.830Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 76,
+  "total": 77,
   "todayCount": 40,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 30
+      "count": 31
     },
     {
       "id": "sale",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 24
+      "count": 25
     },
     {
       "id": "rise",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 50
+      "count": 51
     },
     {
       "name": "YouTube",
@@ -328,44 +328,37 @@
       ]
     },
     {
-      "id": "648aa62e18c5",
-      "title": "【アウトランダーズ】ルガ・エアルダの弱点と攻略【モンハンアウトランダーズ】",
+      "id": "21de9b7fb3e2",
+      "title": "【アウトランダーズ】リュウノスケの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
       "summary": "",
-      "url": "https://gamewith.jp/mhoutlanders/586566",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586566.png?date=1793781037",
+      "url": "https://gamewith.jp/mhoutlanders/577455",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577455.png?date=1790214244",
       "leadSource": "GameWith",
-      "publishedAt": "2026-11-20T08:45:11.000Z",
+      "publishedAt": "2026-11-20T09:28:26.000Z",
       "sourceCount": 2,
-      "articleCount": 33,
+      "articleCount": 22,
       "categories": [
         "guide",
-        "other"
+        "sales"
       ],
       "keywords": [
         "アウトランダーズ",
         "モンハンアウトランダーズ",
-        "最強"
+        "評価"
       ],
       "articles": [
+        {
+          "title": "【アウトランダーズ】主人公(ヘビィボウガン)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/577467",
+          "source": "GameWith",
+          "publishedAt": "2026-11-20T09:14:11.000Z",
+          "isPR": false
+        },
         {
           "title": "【アウトランダーズ】クレスの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
           "url": "https://gamewith.jp/mhoutlanders/577459",
           "source": "GameWith",
           "publishedAt": "2026-11-20T08:30:10.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アウトランダーズ】ストーリー攻略チャート【モンハンアウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/531933",
-          "source": "GameWith",
-          "publishedAt": "2026-11-20T07:46:43.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アウトランダーズ】フィーヤはいつ実装？【モンハンアウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/586524",
-          "source": "GameWith",
-          "publishedAt": "2026-11-20T07:24:25.000Z",
           "isPR": false
         },
         {
@@ -390,17 +383,24 @@
           "isPR": false
         },
         {
-          "title": "【アウトランダーズ】絵装の厳選方法とおすすめ効果【モンハンアウトランダーズ】",
-          "url": "https://gamewith.jp/mhoutlanders/575851",
-          "source": "GameWith",
-          "publishedAt": "2026-11-20T05:59:09.000Z",
-          "isPR": false
-        },
-        {
           "title": "【アウトランダーズ】ミドリの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
           "url": "https://gamewith.jp/mhoutlanders/577465",
           "source": "GameWith",
           "publishedAt": "2026-11-20T05:57:30.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アウトランダーズ】主人公のおすすめ武器種と心得｜最強武器種ランキング【モンハンアウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/531944",
+          "source": "GameWith",
+          "publishedAt": "2026-11-20T05:53:21.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アウトランダーズ】ブリックスの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+          "url": "https://gamewith.jp/mhoutlanders/577456",
+          "source": "GameWith",
+          "publishedAt": "2026-11-20T05:51:06.000Z",
           "isPR": false
         }
       ]
@@ -506,13 +506,76 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-20T09:00:18.057Z",
-    "previousCount": 77,
-    "newCount": 1
+    "previousAt": "2026-11-20T09:30:16.412Z",
+    "previousCount": 76,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-20T10:00:16.412Z",
+  "nextUpdateAt": "2026-11-20T10:30:15.830Z",
   "items": [
+    {
+      "id": "2f5205fae854",
+      "title": "【アウトランダーズ】沼地の騒動の発生条件と攻略【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/589426",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-20T09:45:40.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "21de9b7fb3e2",
+      "title": "【アウトランダーズ】リュウノスケの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577455",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-20T09:28:26.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577455.png?date=1790214244",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "b0b9c4fb9f93",
+      "title": "【アウトランダーズ】主人公(ヘビィボウガン)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577467",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-20T09:14:11.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577467.png?date=1790214807",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "0e963a0524e8",
       "title": "「モンスターハンターワイルズ」のオトモアイルーマスコットがプライズで登場❣｜アミューズメント＆ショップ｜株式会社カプコン",
@@ -532,7 +595,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "648aa62e18c5",
@@ -889,27 +952,6 @@
       "isNew": false
     },
     {
-      "id": "b0b9c4fb9f93",
-      "title": "【アウトランダーズ】主人公(ヘビィボウガン)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577467",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-20T04:14:07.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577467.png?date=1790214807",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "4d8236f8bea1",
       "title": "【アウトランダーズ】リセマラ当たりランキング【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/531925",
@@ -920,27 +962,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531925.png?date=1793082273",
       "categories": [
         "sales"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "21de9b7fb3e2",
-      "title": "【アウトランダーズ】リュウノスケの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577455",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-20T03:48:11.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577455.png?date=1790214244",
-      "categories": [
-        "guide"
       ],
       "series": [
         "outlanders"
@@ -1024,27 +1045,6 @@
       "summary": "",
       "publishedAt": "2026-11-20T03:36:53.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577468.png?date=1790214845",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "effd54217c7e",
-      "title": "【アウトランダーズ】主人公(双剣)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577469",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-20T03:36:53.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577469.png?date=1790214889",
       "categories": [
         "guide"
       ],
@@ -1767,6 +1767,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "92a4ad7e8e97",
+      "title": "【モンハンワイルズ】ゴグマジオスの対策装備と周回装備・攻略【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/520491",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-18T19:51:09.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/520491.png?date=1758724718",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "4cd467a24cc4",
