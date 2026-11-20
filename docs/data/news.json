@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-20T19:30:28.145Z",
+  "updatedAt": "2026-11-20T20:00:15.725Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 91,
+  "total": 92,
   "todayCount": 5,
   "categories": [
     {
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 39
+      "count": 40
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 38
+      "count": 39
     },
     {
       "id": "rise",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 65
+      "count": 66
     },
     {
       "name": "Game*Spark",
@@ -400,12 +400,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-20T19:00:20.220Z",
-    "previousCount": 92,
-    "newCount": 0
+    "previousAt": "2026-11-20T19:30:28.145Z",
+    "previousCount": 91,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-20T20:00:28.145Z",
+  "nextUpdateAt": "2026-11-20T20:30:15.725Z",
   "items": [
     {
       "id": "b0b9c4fb9f93",
@@ -2052,6 +2052,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "7c2744d36694",
+      "title": "【モンハンワイルズ】古びた竜彫貨の入手方法と使い道【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/487713",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-18T05:33:26.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/487713.png?date=1740846703",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "cdb37730a837",
