@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-20T19:00:20.220Z",
+  "updatedAt": "2026-11-20T19:30:28.145Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 92,
-  "todayCount": 4,
+  "total": 91,
+  "todayCount": 5,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 38
+      "count": 37
     },
     {
       "id": "sale",
@@ -57,7 +57,7 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 3
+      "count": 2
     },
     {
       "id": "other",
@@ -94,13 +94,13 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 35
+      "count": 34
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 66
+      "count": 65
     },
     {
       "name": "Game*Spark",
@@ -400,12 +400,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-20T18:30:28.348Z",
+    "previousAt": "2026-11-20T19:00:20.220Z",
     "previousCount": 92,
-    "newCount": 2
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-20T19:30:20.220Z",
+  "nextUpdateAt": "2026-11-20T20:00:28.145Z",
   "items": [
     {
       "id": "b0b9c4fb9f93",
@@ -416,6 +416,27 @@
       "summary": "",
       "publishedAt": "2026-11-20T16:59:35.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577467.png?date=1790214807",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "9ad974a0f0ba",
+      "title": "【アウトランダーズ】主人公(弓)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577466",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-20T16:51:10.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577466.png?date=1790214739",
       "categories": [
         "guide"
       ],
@@ -500,27 +521,6 @@
       "summary": "",
       "publishedAt": "2026-11-20T14:18:25.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577465.png?date=1790214699",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "9ad974a0f0ba",
-      "title": "【アウトランダーズ】主人公(弓)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577466",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-20T14:18:25.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577466.png?date=1790214739",
       "categories": [
         "guide"
       ],
@@ -775,28 +775,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586566.png?date=1793781037",
       "categories": [
         "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "2e13886299dc",
-      "title": "【アウトランダーズ】主人公のおすすめ武器種と心得｜最強武器種ランキング【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531944",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-20T13:26:33.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531944.png?date=1793082656",
-      "categories": [
-        "guide",
-        "sales"
       ],
       "series": [
         "outlanders"
@@ -1700,7 +1678,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d605748fb698",
@@ -2197,7 +2175,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "bf7f91db9e78",
