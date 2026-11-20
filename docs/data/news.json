@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-20T21:30:17.348Z",
+  "updatedAt": "2026-11-20T22:00:17.043Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 93,
-  "todayCount": 6,
+  "total": 92,
+  "todayCount": 7,
   "categories": [
     {
       "id": "new",
@@ -27,7 +27,7 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 4
+      "count": 3
     },
     {
       "id": "goods",
@@ -111,10 +111,6 @@
       "count": 2
     },
     {
-      "name": "Gamer",
-      "count": 2
-    },
-    {
       "name": "PR TIMES",
       "count": 2
     },
@@ -140,6 +136,10 @@
     },
     {
       "name": "shiritomo",
+      "count": 1
+    },
+    {
+      "name": "Gamer",
       "count": 1
     },
     {
@@ -201,15 +201,15 @@
       "leadSource": "AppBank",
       "publishedAt": "2026-11-20T21:02:49.000Z",
       "sourceCount": 5,
-      "articleCount": 5,
+      "articleCount": 6,
       "categories": [
         "other",
         "new"
       ],
       "keywords": [
         "モンスターハンターワイルズ",
-        "tvcm",
-        "エバース"
+        "モンハンワイルズ",
+        "tvcm"
       ],
       "articles": [
         {
@@ -238,6 +238,13 @@
           "url": "https://appmedia.jp/mhwilds/80576272",
           "source": "AppMedia",
           "publishedAt": "2026-11-19T03:31:54.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】序盤おすすめ装備まとめ｜下位装備おすすめ【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/485430",
+          "source": "GameWith",
+          "publishedAt": "2026-11-18T21:16:04.000Z",
           "isPR": false
         }
       ]
@@ -379,12 +386,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-20T21:00:19.525Z",
-    "previousCount": 91,
-    "newCount": 3
+    "previousAt": "2026-11-20T21:30:17.348Z",
+    "previousCount": 93,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-20T22:00:17.348Z",
+  "nextUpdateAt": "2026-11-20T22:30:17.043Z",
   "items": [
     {
       "id": "cad13e5dcc70",
@@ -405,7 +412,28 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "d605748fb698",
+      "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/574841",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-20T20:47:09.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574841.png?date=1789771579",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
     },
     {
       "id": "b0b9c4fb9f93",
@@ -1142,7 +1170,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0e963a0524e8",
@@ -1255,7 +1283,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-20T04:32:04.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
+      "image": "",
       "categories": [
         "guide"
       ],
@@ -1647,27 +1675,6 @@
       "summary": "",
       "publishedAt": "2026-11-19T02:27:09.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485475.png?date=1789753003",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d605748fb698",
-      "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/574841",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-19T01:02:10.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574841.png?date=1789771579",
       "categories": [
         "other"
       ],
@@ -2093,7 +2100,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "cf94431f61b2",
@@ -2173,25 +2180,6 @@
       "series": [
         "wilds"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "56920fe102f3",
-      "title": "「アークナイツ」で「モンスターハンター」コラボが開催！焔狐竜オーキッド（CV：大津愛理）、ジンオウSカタパルト（CV：皆川純子）がイベントスカウトに登場",
-      "url": "https://www.gamer.ne.jp/news/202611180024/",
-      "host": "gamer.ne.jp",
-      "source": "Gamer",
-      "summary": "",
-      "publishedAt": "2026-11-18T05:02:10.000Z",
-      "image": "",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
