@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T20:30:23.595Z",
+  "updatedAt": "2026-11-20T21:00:19.525Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 37
+      "count": 38
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 39
+      "count": 38
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 38
+      "count": 39
     },
     {
       "id": "rise",
@@ -94,7 +94,7 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 35
+      "count": 34
     }
   ],
   "sources": [
@@ -389,12 +389,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-20T20:00:15.725Z",
-    "previousCount": 92,
+    "previousAt": "2026-11-20T20:30:23.595Z",
+    "previousCount": 91,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-20T21:00:23.595Z",
+  "nextUpdateAt": "2026-11-20T21:30:19.525Z",
   "items": [
     {
       "id": "b0b9c4fb9f93",
@@ -1111,27 +1111,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "dd74f72e5ea2",
-      "title": "【アウトランダーズ】巣穴一覧【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/559856",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-20T09:59:15.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559856.png?date=1789010739",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "2f5205fae854",
@@ -2062,6 +2041,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "4d80735ab308",
+      "title": "【モンハンワイルズ】歴戦狩猟の証1の効率的な入手方法と使い道【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/487837",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-18T05:33:04.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "cf94431f61b2",
