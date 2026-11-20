@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-20T22:30:18.495Z",
+  "updatedAt": "2026-11-20T23:00:14.591Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 92,
-  "todayCount": 7,
+  "total": 91,
+  "todayCount": 8,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 6
+      "count": 7
     },
     {
       "id": "update",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 41
+      "count": 39
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 41
+      "count": 40
     },
     {
       "id": "rise",
@@ -100,7 +100,11 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 67
+      "count": 66
+    },
+    {
+      "name": "AppBank",
+      "count": 2
     },
     {
       "name": "Game*Spark",
@@ -111,12 +115,12 @@
       "count": 2
     },
     {
-      "name": "PR TIMES",
+      "name": "Gamer",
       "count": 2
     },
     {
-      "name": "AppBank",
-      "count": 1
+      "name": "PR TIMES",
+      "count": 2
     },
     {
       "name": "電撃オンライン",
@@ -139,19 +143,11 @@
       "count": 1
     },
     {
-      "name": "Gamer",
-      "count": 1
-    },
-    {
       "name": "財経新聞",
       "count": 1
     },
     {
       "name": "電ファミニコゲーマー",
-      "count": 1
-    },
-    {
-      "name": "Howl.Link",
       "count": 1
     },
     {
@@ -184,10 +180,6 @@
     },
     {
       "name": "AUTOMATON",
-      "count": 1
-    },
-    {
-      "name": "ライブドアニュース",
       "count": 1
     }
   ],
@@ -300,10 +292,11 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261119-00010033-realsound-000-1-view.jpg?exp=10800",
       "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-11-19T05:00:48.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
+      "sourceCount": 4,
+      "articleCount": 4,
       "categories": [
-        "other"
+        "other",
+        "new"
       ],
       "keywords": [
         "ゲキリュウノツガイ",
@@ -311,6 +304,13 @@
         "双剣"
       ],
       "articles": [
+        {
+          "title": "『モンスターハンター』双剣「ゲキリュウノツガイ」が銀と金のオブジェに！ 11月18日から予約受付",
+          "url": "https://www.appbank.net/2026/11/18/game/3169475.php",
+          "source": "AppBank",
+          "publishedAt": "2026-11-18T06:20:29.000Z",
+          "isPR": false
+        },
         {
           "title": "ケイ・ウノ[259A]：【モンスターハンター】ハンターたちの記憶に刻まれた、あの双剣「ゲキリュウノツガイ」が”銀色＆金色”のオブジェで登場！一対だからこそ、極まる迫力――。 2026年11月18日(適時開示) ：日経会社情報DIGITAL",
           "url": "https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano",
@@ -354,44 +354,15 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "a50879aaaa4e",
-      "title": "『モンハン』バンタン文化祭2026のコラボ企画が公開。カプコン協力のもと学生たちが考案した謎解きやコラボメニュー、Tシャツなどが登場",
-      "summary": "",
-      "url": "https://www.famitsu.com/article/images/202611/93045/922342",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/93045/a08eda328709362bbddee22f11759f368.jpg?x=1280",
-      "leadSource": "ファミ通",
-      "publishedAt": "2026-11-18T08:00:00.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "collab",
-        "goods"
-      ],
-      "keywords": [
-        "バンタン",
-        "コラボ",
-        "シャツ"
-      ],
-      "articles": [
-        {
-          "title": "今年のバンタン文化祭は「モンスターハンター」とコラボ！ モンハン飯や限定Tシャツ、オリジナル謎解きに大盛り上がり",
-          "url": "https://news.livedoor.com/topics/detail/32842831/",
-          "source": "ライブドアニュース",
-          "publishedAt": "2026-11-17T23:00:02.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-20T22:00:17.043Z",
+    "previousAt": "2026-11-20T22:30:18.495Z",
     "previousCount": 92,
-    "newCount": 0
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-20T23:00:18.495Z",
+  "nextUpdateAt": "2026-11-20T23:30:14.591Z",
   "items": [
     {
       "id": "cad13e5dcc70",
@@ -423,6 +394,27 @@
       "summary": "",
       "publishedAt": "2026-11-20T20:47:09.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574841.png?date=1789771579",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "411bb4076b94",
+      "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/575038",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-20T20:22:15.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575038.png?date=1789770323",
       "categories": [
         "other"
       ],
@@ -1526,46 +1518,6 @@
       "isNew": false
     },
     {
-      "id": "28859e3789de",
-      "title": "【VTuber初配信】田舎のモンスターハンター 狩りに出る!!",
-      "url": "https://t.co/I42tBtnLaB",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-11-19T11:27:03.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "411bb4076b94",
-      "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/575038",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-19T09:01:05.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575038.png?date=1789770323",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "b5d6fe40ab2e",
       "title": "【アセンダンス】護竜リオレイアの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/575037",
@@ -1849,6 +1801,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "41bf088fd33b",
+      "title": "『モンスターハンター』双剣「ゲキリュウノツガイ」が銀と金のオブジェに！ 11月18日から予約受付",
+      "url": "https://www.appbank.net/2026/11/18/game/3169475.php",
+      "host": "appbank.net",
+      "source": "AppBank",
+      "summary": "",
+      "publishedAt": "2026-11-18T06:20:29.000Z",
+      "image": "https://www.appbank.net/wp-content/uploads/2026/11/20261118_123740_789_01.webp",
+      "categories": [
+        "new",
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "0b2d7040670c",
@@ -2187,6 +2159,25 @@
       "isNew": false
     },
     {
+      "id": "56920fe102f3",
+      "title": "「アークナイツ」で「モンスターハンター」コラボが開催！焔狐竜オーキッド（CV：大津愛理）、ジンオウSカタパルト（CV：皆川純子）がイベントスカウトに登場",
+      "url": "https://www.gamer.ne.jp/news/202611180024/",
+      "host": "gamer.ne.jp",
+      "source": "Gamer",
+      "summary": "",
+      "publishedAt": "2026-11-18T05:02:10.000Z",
+      "image": "",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "bf7f91db9e78",
       "title": "ケイ・ウノ[259A]：【モンスターハンター】ハンターたちの記憶に刻まれた、あの双剣「ゲキリュウノツガイ」が”銀色＆金色”のオブジェで登場！一対だからこそ、極まる迫力――。 2026年11月18日(適時開示) ：日経会社情報DIGITAL",
       "url": "https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano",
@@ -2260,47 +2251,6 @@
       "series": [],
       "isOfficial": false,
       "isPR": true,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "0e34c7578493",
-      "title": "今年のバンタン文化祭は「モンスターハンター」とコラボ！ モンハン飯や限定Tシャツ、オリジナル謎解きに大盛り上がり",
-      "url": "https://news.livedoor.com/topics/detail/32842831/",
-      "host": "news.livedoor.com",
-      "source": "ライブドアニュース",
-      "summary": "",
-      "publishedAt": "2026-11-17T23:00:02.000Z",
-      "image": "https://image.news.livedoor.com/newsimage/stf/a/9/a921c_867_9e5ac2cfeeab74ce68d95562bd3f2727.jpg",
-      "categories": [
-        "collab",
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "50fcac5e5963",
-      "title": "【モンハンワイルズ】ナナイロカネの集め方と精錬方法【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/487799",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-17T22:57:11.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/487799.png?date=1755060453",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
