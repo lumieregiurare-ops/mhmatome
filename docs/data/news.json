@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-21T18:30:16.353Z",
+  "updatedAt": "2026-11-21T19:00:14.002Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 78,
+  "total": 73,
   "todayCount": 0,
   "categories": [
     {
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 36
+      "count": 31
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 27
+      "count": 23
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 3
+      "count": 1
     },
     {
       "id": "now",
@@ -94,28 +94,24 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 34
+      "count": 33
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 47
-    },
-    {
-      "name": "YouTube",
-      "count": 5
+      "count": 46
     },
     {
       "name": "ガジェット通信",
       "count": 3
     },
     {
-      "name": "게임메카",
-      "count": 2
+      "name": "YouTube",
+      "count": 3
     },
     {
-      "name": "Yahoo!ニュース",
+      "name": "게임메카",
       "count": 2
     },
     {
@@ -183,7 +179,7 @@
       "count": 1
     },
     {
-      "name": "Howl.Link",
+      "name": "Yahoo!ニュース",
       "count": 1
     },
     {
@@ -400,12 +396,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-21T18:00:21.067Z",
-    "previousCount": 74,
-    "newCount": 4
+    "previousAt": "2026-11-21T18:30:16.353Z",
+    "previousCount": 78,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-21T19:00:16.353Z",
+  "nextUpdateAt": "2026-11-21T19:30:14.002Z",
   "items": [
     {
       "id": "188cd518008b",
@@ -849,27 +845,6 @@
       "isNew": false
     },
     {
-      "id": "620baae43e82",
-      "title": "【アウトランダーズ】課金要素まとめとおすすめパック【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/560244",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-21T12:26:22.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560244.png?date=1793262813",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "d848c47c8e0c",
       "title": "【アウトランダーズ】最強キャラランキング【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/531927",
@@ -1011,6 +986,27 @@
       ],
       "series": [
         "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "620baae43e82",
+      "title": "【アウトランダーズ】課金要素まとめとおすすめパック【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/560244",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-21T09:20:09.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560244.png?date=1793262813",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1684,28 +1680,6 @@
       "isNew": false
     },
     {
-      "id": "57d0adb884aa",
-      "title": "Ｘで見たオメガvs魔法のほうきが楽しそうだったので真似した（魔法のほうきはジェスチャー）#mhwilds #モンハンワイルズ",
-      "url": "https://youtu.be/WMM-tq2nCg8?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-19T13:04:37.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "15942ac8b227",
       "title": "『モンハンNow』狩って食べて街歩き!! 大阪の空気を全身で感じた特盛カーニバルイベント現場リポート",
       "url": "https://getnews.jp/archives/3756550",
@@ -1746,49 +1720,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "619a8dc70669",
-      "title": "太ももがムチムチ！大川ぶくぶ先生による『モンハンアウトランダーズ』の冒険者ミドリが色っぽい (インサイド)",
-      "url": "https://news.yahoo.co.jp/articles/ffe0a895a602272e832412068434ceebb249840c/images/000",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-19T10:35:02.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26qVJlsiGqpa-Yvy2XTRYShaClj9xUS9wNeTp1RzHtBbJlYTt5tl0wbJPau1_km4sSf-a50z2PPyf8wNRymh6faFP5-XMSjD1ZcihrrEDgQPs",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "3b7f038bb535",
-      "title": "【MHWilds】★10歴戦王レ・ダウ スラッシュアックス ソロ 03'53 火事場／Arch tempered ReyDau SwitchAxe Solo",
-      "url": "https://youtu.be/bxmIml2_lKM?si",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-19T10:00:32.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "104daed88d5d",
@@ -1933,27 +1864,6 @@
       "isNew": false
     },
     {
-      "id": "9782ef4b7d42",
-      "title": "【操虫棍】太刀専が操虫棍を触る?...Day2【モンハンワイルズ】",
-      "url": "https://t.co/zm8Jm9HLFy",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-11-19T03:19:30.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "f235e0da1595",
       "title": "モンスターハンターライズ、ネットフリックスモバイルで24日リリース決定",
       "url": "https://www.gamemeca.com/ja/view.php?gid",
@@ -1985,27 +1895,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/484821.png?date=1739404695",
       "categories": [
         "guide"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4cd467a24cc4",
-      "title": "【アセンダンス】双剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/577734",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-18T18:54:10.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577734.png?date=1789765976",
-      "categories": [
-        "other"
       ],
       "series": [
         "wilds"
