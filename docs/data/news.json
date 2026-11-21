@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-21T00:30:21.258Z",
+  "updatedAt": "2026-11-21T01:00:20.644Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 91,
-  "todayCount": 13,
+  "total": 93,
+  "todayCount": 15,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 5
+      "count": 6
     },
     {
       "id": "update",
@@ -27,7 +27,7 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 3
+      "count": 2
     },
     {
       "id": "goods",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 38
+      "count": 39
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 40
+      "count": 41
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 41
+      "count": 44
     },
     {
       "id": "rise",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 68
+      "count": 70
     },
     {
       "name": "Game*Spark",
@@ -111,15 +111,11 @@
       "count": 2
     },
     {
-      "name": "Gamer",
-      "count": 2
-    },
-    {
       "name": "PR TIMES",
       "count": 2
     },
     {
-      "name": "Infoseek",
+      "name": "マイナビニュース",
       "count": 1
     },
     {
@@ -147,6 +143,10 @@
       "count": 1
     },
     {
+      "name": "Gamer",
+      "count": 1
+    },
+    {
       "name": "財経新聞",
       "count": 1
     },
@@ -160,6 +160,10 @@
     },
     {
       "name": "Yahoo!ニュース",
+      "count": 1
+    },
+    {
+      "name": "AppMedia",
       "count": 1
     },
     {
@@ -188,16 +192,16 @@
       "image": "https://www.appbank.net/wp-content/uploads/2026/11/20261120_113356_612_01.webp",
       "leadSource": "AppBank",
       "publishedAt": "2026-11-20T21:02:49.000Z",
-      "sourceCount": 4,
-      "articleCount": 5,
+      "sourceCount": 5,
+      "articleCount": 6,
       "categories": [
         "other",
         "new"
       ],
       "keywords": [
         "モンスターハンターワイルズ",
-        "tvcm",
-        "エバース"
+        "モンハンワイルズ",
+        "tvcm"
       ],
       "articles": [
         {
@@ -219,6 +223,13 @@
           "url": "https://gamewith.jp/mhwilds/563066",
           "source": "GameWith",
           "publishedAt": "2026-11-19T21:54:07.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】Switch2版の発売日と最新情報まとめ【モンスターハンターワイルズ】",
+          "url": "https://appmedia.jp/mhwilds/80576272",
+          "source": "AppMedia",
+          "publishedAt": "2026-11-19T03:31:54.000Z",
           "isPR": false
         },
         {
@@ -338,22 +349,22 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-21T00:00:13.090Z",
-    "previousCount": 92,
-    "newCount": 4
+    "previousAt": "2026-11-21T00:30:21.258Z",
+    "previousCount": 91,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-21T01:00:21.258Z",
+  "nextUpdateAt": "2026-11-21T01:30:20.644Z",
   "items": [
     {
       "id": "8379aeb9df23",
       "title": "大阪の街が巨大な狩猟フィールドに！「モンハンNowカーニバル2026」体験レポート",
-      "url": "https://news.infoseek.co.jp/article/mynavi_3248052/",
-      "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
+      "url": "https://news.mynavi.jp/article/20261121-5353409/",
+      "host": "news.mynavi.jp",
+      "source": "マイナビニュース",
       "summary": "",
       "publishedAt": "2026-11-21T00:11:00.000Z",
-      "image": "https://media.image.infoseek.co.jp/isnews/photos/mynavi/mynavi_3248052_0-enlarge.jpg",
+      "image": "https://news.mynavi.jp/article/20261121-5353409/ogp_images/ogp.jpg",
       "categories": [
         "other"
       ],
@@ -364,7 +375,28 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "778fbb3d5344",
+      "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/577281",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-20T23:10:15.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577281.png?date=1789571405",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
     },
     {
       "id": "e97a50c5c638",
@@ -577,6 +609,27 @@
       "isNew": false
     },
     {
+      "id": "b7e7b3e1b618",
+      "title": "【アウトランダーズ】ヘイズの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/583505",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-20T16:16:12.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583505.png?date=1792581250",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "589a08725415",
       "title": "【アウトランダーズ】アップデート最新情報まとめ【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/587366",
@@ -731,7 +784,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-20T14:18:18.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577459.png?date=1790214418",
+      "image": "",
       "categories": [
         "guide"
       ],
@@ -752,7 +805,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-20T14:18:18.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577458.png?date=1790214381",
+      "image": "",
       "categories": [
         "guide"
       ],
@@ -808,27 +861,6 @@
       "isNew": false
     },
     {
-      "id": "b7e7b3e1b618",
-      "title": "【アウトランダーズ】ヘイズの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/583505",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-20T14:18:12.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583505.png?date=1792581250",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "0205fd7e36ce",
       "title": "【アウトランダーズ】主人公(ハンマー)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/583504",
@@ -836,7 +868,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-20T14:18:12.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583504.png?date=1792581337",
+      "image": "",
       "categories": [
         "guide"
       ],
@@ -1436,27 +1468,6 @@
       "isNew": false
     },
     {
-      "id": "778fbb3d5344",
-      "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/577281",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-19T16:16:09.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577281.png?date=1789571405",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "0ab1270211f6",
       "title": "『モンスターハンターライズ』のモバイル版がNetflixから配信決定。会員向けの「Netflixゲーム」として、タッチ操作に最適化されて登場",
       "url": "https://news.denfaminicogamer.jp/news/2611192v",
@@ -1577,6 +1588,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "47a9b5d28960",
+      "title": "【モンハンワイルズ】Switch2版の発売日と最新情報まとめ【モンスターハンターワイルズ】",
+      "url": "https://appmedia.jp/mhwilds/80576272",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-19T03:31:54.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/154001_zkbra.webp",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "40bccce677c8",
@@ -1865,7 +1897,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2c8fedb2cb3d",
@@ -2075,6 +2107,27 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "5cf063a01864",
+      "title": "【モンハンワイルズ】首飾りチケットの入手方法と使い道【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/506855",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-18T05:31:03.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
       "isNew": true
     },
     {
@@ -2141,25 +2194,6 @@
       "isNew": false
     },
     {
-      "id": "56920fe102f3",
-      "title": "「アークナイツ」で「モンスターハンター」コラボが開催！焔狐竜オーキッド（CV：大津愛理）、ジンオウSカタパルト（CV：皆川純子）がイベントスカウトに登場",
-      "url": "https://www.gamer.ne.jp/news/202611180024/",
-      "host": "gamer.ne.jp",
-      "source": "Gamer",
-      "summary": "",
-      "publishedAt": "2026-11-18T05:02:10.000Z",
-      "image": "",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "bf7f91db9e78",
       "title": "ケイ・ウノ[259A]：【モンスターハンター】ハンターたちの記憶に刻まれた、あの双剣「ゲキリュウノツガイ」が”銀色＆金色”のオブジェで登場！一対だからこそ、極まる迫力――。 2026年11月18日(適時開示) ：日経会社情報DIGITAL",
       "url": "https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano",
@@ -2217,6 +2251,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "497ce84a00d9",
+      "title": "【モンハンワイルズ】セルレギオスの攻略・弱点と出現条件【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/505025",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-18T03:06:08.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/505025.png?date=1750977396",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "f16821792b8d",
