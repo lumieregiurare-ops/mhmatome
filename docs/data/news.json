@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-22T21:00:15.472Z",
+  "updatedAt": "2026-11-22T21:30:17.819Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 74,
+  "total": 75,
   "todayCount": 6,
   "categories": [
     {
@@ -57,12 +57,12 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 5
+      "count": 4
     },
     {
       "id": "other",
       "label": "その他",
-      "count": 26
+      "count": 27
     }
   ],
   "series": [
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 1
+      "count": 2
     },
     {
       "id": "outlanders",
@@ -107,6 +107,10 @@
       "count": 3
     },
     {
+      "name": "AppMedia",
+      "count": 2
+    },
+    {
       "name": "Game*Spark",
       "count": 2
     },
@@ -117,10 +121,6 @@
     {
       "name": "ガジェット通信",
       "count": 2
-    },
-    {
-      "name": "AppMedia",
-      "count": 1
     },
     {
       "name": "게임메카",
@@ -212,7 +212,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-11-22T17:59:17.000Z",
       "sourceCount": 2,
-      "articleCount": 28,
+      "articleCount": 27,
       "categories": [
         "guide",
         "sales"
@@ -220,7 +220,7 @@
       "keywords": [
         "アウトランダーズ",
         "モンハンアウトランダーズ",
-        "最強"
+        "装備"
       ],
       "articles": [
         {
@@ -389,12 +389,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-22T20:30:16.108Z",
-    "previousCount": 73,
+    "previousAt": "2026-11-22T21:00:15.472Z",
+    "previousCount": 74,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-22T21:30:15.472Z",
+  "nextUpdateAt": "2026-11-22T22:00:17.819Z",
   "items": [
     {
       "id": "27a4249eeeed",
@@ -734,28 +734,6 @@
       "isNew": false
     },
     {
-      "id": "d848c47c8e0c",
-      "title": "【アウトランダーズ】最強キャラランキング【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531927",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-22T12:15:15.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531927.png?date=1793082334",
-      "categories": [
-        "guide",
-        "sales"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "9ad974a0f0ba",
       "title": "【アウトランダーズ】主人公(弓)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577466",
@@ -983,6 +961,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "f64870368a23",
+      "title": "【モンハンストーリーズ2】最強オトモンまとめ｜属性別に掲載【MHST2】",
+      "url": "https://appmedia.jp/mhst2/26677399",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-22T06:47:36.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2021/07/8e879b5f3a4979f8a9f6cd734b23fa0f.jpg",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "fbd709240fd8",
@@ -1568,7 +1567,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "df9f2774efe3",
@@ -1885,6 +1884,27 @@
       "isNew": false
     },
     {
+      "id": "5f543fe6ecdf",
+      "title": "【アウトランダーズ】狩猟風物誌の進め方と報酬【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/589327",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-20T02:30:57.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/589327.png?date=1795146017",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "f3a3a0dfd5c6",
       "title": "Nintendo Switch 2 『モンスターハンターワイルズ』TVCM、エバースさん出演の「好きに狩ろうぜ！エバース」篇とゲーム画面TVCMを公開！",
       "url": "https://prtimes.jp/main/html/rd/p/000006175.000013450.html",
@@ -1924,7 +1944,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "55c33e94fb1b",
