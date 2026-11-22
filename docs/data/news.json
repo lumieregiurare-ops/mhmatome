@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-22T20:30:16.108Z",
+  "updatedAt": "2026-11-22T21:00:15.472Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 73,
+  "total": 74,
   "todayCount": 6,
   "categories": [
     {
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 25
+      "count": 26
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 24
+      "count": 25
     },
     {
       "id": "rise",
@@ -89,26 +89,22 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 2
+      "count": 1
     },
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 32
+      "count": 33
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 51
+      "count": 53
     },
     {
       "name": "YouTube",
       "count": 3
-    },
-    {
-      "name": "AppMedia",
-      "count": 2
     },
     {
       "name": "Game*Spark",
@@ -121,6 +117,10 @@
     {
       "name": "ガジェット通信",
       "count": 2
+    },
+    {
+      "name": "AppMedia",
+      "count": 1
     },
     {
       "name": "게임메카",
@@ -389,12 +389,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-22T20:00:17.213Z",
-    "previousCount": 72,
+    "previousAt": "2026-11-22T20:30:16.108Z",
+    "previousCount": 73,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-22T21:00:16.108Z",
+  "nextUpdateAt": "2026-11-22T21:30:15.472Z",
   "items": [
     {
       "id": "27a4249eeeed",
@@ -985,27 +985,6 @@
       "isNew": false
     },
     {
-      "id": "f64870368a23",
-      "title": "【モンハンストーリーズ2】最強オトモンまとめ｜属性別に掲載【MHST2】",
-      "url": "https://appmedia.jp/mhst2/26677399",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-22T06:47:36.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2021/07/8e879b5f3a4979f8a9f6cd734b23fa0f.jpg",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "fbd709240fd8",
       "title": "【モンハンストーリーズ2】レベル上げにおすすめの方法・手順まとめ【MHST2】",
       "url": "https://appmedia.jp/mhst2/6648013",
@@ -1024,7 +1003,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0f4d643ac16a",
@@ -1571,6 +1550,27 @@
       "isNew": false
     },
     {
+      "id": "24484d2a1bbd",
+      "title": "【アウトランダーズ】ロードの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/583506",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-20T14:18:15.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583506.png?date=1792581205",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "df9f2774efe3",
       "title": "【モンハンナウ】スキル一覧と発動効果【モンハンNow】",
       "url": "https://gamewith.jp/monsterhunternow/article/show/413315",
@@ -1904,6 +1904,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "5e34dd62ddd5",
+      "title": "【モンハンワイルズ】守りの護符の入手方法と効果【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/487450",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-20T01:51:20.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "55c33e94fb1b",
