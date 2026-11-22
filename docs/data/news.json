@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-22T19:00:15.607Z",
+  "updatedAt": "2026-11-22T19:30:18.790Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 72,
-  "todayCount": 5,
+  "total": 73,
+  "todayCount": 6,
   "categories": [
     {
       "id": "new",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 25
+      "count": 26
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 24
+      "count": 25
     },
     {
       "id": "rise",
@@ -89,26 +89,22 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 2
+      "count": 1
     },
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 31
+      "count": 32
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 50
+      "count": 52
     },
     {
       "name": "YouTube",
       "count": 3
-    },
-    {
-      "name": "AppMedia",
-      "count": 2
     },
     {
       "name": "Game*Spark",
@@ -121,6 +117,10 @@
     {
       "name": "ガジェット通信",
       "count": 2
+    },
+    {
+      "name": "AppMedia",
+      "count": 1
     },
     {
       "name": "게임메카",
@@ -389,12 +389,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-22T18:30:23.500Z",
+    "previousAt": "2026-11-22T19:00:15.607Z",
     "previousCount": 72,
-    "newCount": 0
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-22T19:30:15.607Z",
+  "nextUpdateAt": "2026-11-22T20:00:18.790Z",
   "items": [
     {
       "id": "27a4249eeeed",
@@ -473,6 +473,27 @@
       ],
       "series": [
         "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "b5d6fe40ab2e",
+      "title": "【アセンダンス】護竜リオレイアの最新情報まとめ【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/575037",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-22T16:18:12.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575037.png?date=1789770931",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -985,27 +1006,6 @@
       "isNew": false
     },
     {
-      "id": "f64870368a23",
-      "title": "【モンハンストーリーズ2】最強オトモンまとめ｜属性別に掲載【MHST2】",
-      "url": "https://appmedia.jp/mhst2/26677399",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-22T06:40:56.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2021/07/8e879b5f3a4979f8a9f6cd734b23fa0f.jpg",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "0f4d643ac16a",
       "title": "『まどマギ』『シュタゲ』に着想を得たラヴクラフト系美少女経営シム『夜明けの笛吹き者』開発インタビュー/モバイル版『モンハン ライズ』が正式発表/初代『ダクソ』のプレイ感を呼び起こすソウルライクACT『False Hero』の開発者に聞く【…",
       "url": "http://www.gamespark.jp/article/2026/11/22/175174.html",
@@ -1445,27 +1445,6 @@
       "isNew": false
     },
     {
-      "id": "b5d6fe40ab2e",
-      "title": "【アセンダンス】護竜リオレイアの最新情報まとめ【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/575037",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-20T21:25:16.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575037.png?date=1789770931",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "f4f222ac2e2d",
       "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/575036",
@@ -1654,6 +1633,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "2f5205fae854",
+      "title": "【アウトランダーズ】沼地の騒動の発生条件と攻略【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/589426",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-20T09:45:40.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "0e963a0524e8",
@@ -1883,6 +1883,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "5e34dd62ddd5",
+      "title": "【モンハンワイルズ】守りの護符の入手方法と効果【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/487450",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-20T01:51:20.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "55c33e94fb1b",
