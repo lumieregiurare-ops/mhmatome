@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-23T17:00:18.729Z",
+  "updatedAt": "2026-11-23T17:30:20.003Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 68,
+  "total": 69,
   "todayCount": 0,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 36
+      "count": 37
     },
     {
       "id": "sale",
@@ -94,13 +94,13 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 35
+      "count": 36
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 47
+      "count": 48
     },
     {
       "name": "AppMedia",
@@ -241,12 +241,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-23T16:30:16.367Z",
-    "previousCount": 69,
-    "newCount": 1
+    "previousAt": "2026-11-23T17:00:18.729Z",
+    "previousCount": 68,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-23T17:30:18.729Z",
+  "nextUpdateAt": "2026-11-23T18:00:20.003Z",
   "items": [
     {
       "id": "c2e889543125",
@@ -299,27 +299,6 @@
       "summary": "",
       "publishedAt": "2026-11-23T13:22:10.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577458.png?date=1790214381",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "9ad974a0f0ba",
-      "title": "【アウトランダーズ】主人公(弓)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577466",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-23T13:07:12.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577466.png?date=1790214739",
       "categories": [
         "guide"
       ],
@@ -478,6 +457,48 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "9ad974a0f0ba",
+      "title": "【アウトランダーズ】主人公(弓)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577466",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-23T10:28:22.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577466.png?date=1790214739",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "648aa62e18c5",
+      "title": "【アウトランダーズ】ルガ・エアルダの弱点と攻略【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/586566",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-23T10:28:07.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586566.png?date=1793781037",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "ced5755e5db0",
@@ -983,7 +1004,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "24484d2a1bbd",
@@ -1007,13 +1028,13 @@
       "isNew": false
     },
     {
-      "id": "56c414ead831",
-      "title": "【アウトランダーズ】レイギエナの弱点と攻略【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/585669",
+      "id": "aae59a4ec7dd",
+      "title": "【アウトランダーズ】ディアブロスの弱点と攻略【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/585672",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-23T06:11:23.000Z",
+      "publishedAt": "2026-11-23T06:11:26.000Z",
       "image": "",
       "categories": [
         "guide"
@@ -1025,7 +1046,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "c79b0d1709be",
