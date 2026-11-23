@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-22T23:30:17.365Z",
+  "updatedAt": "2026-11-23T00:00:16.628Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 76,
+  "total": 77,
   "todayCount": 6,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 36
+      "count": 37
     },
     {
       "id": "sale",
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 2
+      "count": 3
     },
     {
       "id": "outlanders",
@@ -104,7 +104,7 @@
     },
     {
       "name": "AppMedia",
-      "count": 3
+      "count": 4
     },
     {
       "name": "YouTube",
@@ -460,12 +460,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-22T23:00:23.195Z",
-    "previousCount": 72,
-    "newCount": 4
+    "previousAt": "2026-11-22T23:30:17.365Z",
+    "previousCount": 76,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-23T00:00:17.365Z",
+  "nextUpdateAt": "2026-11-23T00:30:16.628Z",
   "items": [
     {
       "id": "27a4249eeeed",
@@ -749,7 +749,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-22T12:34:15.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577461.png?date=1790214525",
       "categories": [
         "guide"
       ],
@@ -824,7 +824,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9ad974a0f0ba",
@@ -1074,7 +1074,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fbd709240fd8",
@@ -1095,7 +1095,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0f4d643ac16a",
@@ -1221,6 +1221,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "d3cd7084b2c3",
+      "title": "【モンハンストーリーズ3】最強装備まとめ【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79849634",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-21T14:45:05.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/174453_f690s.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "4696ca6d9644",
@@ -1367,7 +1388,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0937591c853a",
