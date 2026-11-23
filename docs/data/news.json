@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-23T17:30:20.003Z",
+  "updatedAt": "2026-11-23T18:00:21.078Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 69,
+  "total": 67,
   "todayCount": 0,
   "categories": [
     {
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 23
+      "count": 21
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 21
+      "count": 20
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 2
+      "count": 1
     },
     {
       "id": "now",
@@ -94,13 +94,13 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 36
+      "count": 35
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 48
+      "count": 47
     },
     {
       "name": "AppMedia",
@@ -116,10 +116,6 @@
     },
     {
       "name": "shiritomo",
-      "count": 1
-    },
-    {
-      "name": "Howl.Link",
       "count": 1
     },
     {
@@ -241,12 +237,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-23T17:00:18.729Z",
-    "previousCount": 68,
+    "previousAt": "2026-11-23T17:30:20.003Z",
+    "previousCount": 69,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-23T18:00:20.003Z",
+  "nextUpdateAt": "2026-11-23T18:30:21.078Z",
   "items": [
     {
       "id": "c2e889543125",
@@ -299,6 +295,27 @@
       "summary": "",
       "publishedAt": "2026-11-23T13:22:10.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577458.png?date=1790214381",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "9ad974a0f0ba",
+      "title": "【アウトランダーズ】主人公(弓)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577466",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-23T13:07:12.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577466.png?date=1790214739",
       "categories": [
         "guide"
       ],
@@ -438,6 +455,27 @@
       "isNew": false
     },
     {
+      "id": "df305938f24a",
+      "title": "【アウトランダーズ】主人公(チャージアックス)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/583503",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-23T10:54:12.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583503.png?date=1792581391",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "da6774683cf4",
       "title": "【アウトランダーズ】リセマラのやり方と所要時間｜何連引ける？【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/531931",
@@ -448,27 +486,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531931.png?date=1793082187",
       "categories": [
         "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "9ad974a0f0ba",
-      "title": "【アウトランダーズ】主人公(弓)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577466",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-23T10:28:22.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577466.png?date=1790214739",
-      "categories": [
-        "guide"
       ],
       "series": [
         "outlanders"
@@ -498,7 +515,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ced5755e5db0",
@@ -593,27 +610,6 @@
       "summary": "",
       "publishedAt": "2026-11-23T10:17:45.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577654.png?date=1790215839",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "24ca3d4e1da5",
-      "title": "【アウトランダーズ】タイショウの性能とおすすめキャラ【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577649",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-23T10:17:44.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577649.png?date=1790215598",
       "categories": [
         "guide"
       ],
@@ -986,27 +982,6 @@
       "isNew": false
     },
     {
-      "id": "521fd963ac23",
-      "title": "【アウトランダーズ】フォリオの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577462",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-23T06:13:22.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577462.png?date=1790214565",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "24484d2a1bbd",
       "title": "【アウトランダーズ】ロードの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/583506",
@@ -1035,6 +1010,27 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-23T06:11:26.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "56c414ead831",
+      "title": "【アウトランダーズ】レイギエナの弱点と攻略【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/585669",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-23T06:11:23.000Z",
       "image": "",
       "categories": [
         "guide"
@@ -1194,27 +1190,6 @@
       "isNew": false
     },
     {
-      "id": "8538da1deffa",
-      "title": "【アウトランダーズ】匿名依頼クエストの報酬と進め方【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/587111",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-22T15:06:08.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/587111.png?date=1794025592",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "411bb4076b94",
       "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/575038",
@@ -1228,28 +1203,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "649b704173f6",
-      "title": "【#MHWilds】『Shall we WILDS?』なつえ★華月★慶紀★シント",
-      "url": "https://t.co/77uQVMPOiJ",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-11-22T10:23:56.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
       ],
       "isOfficial": false,
       "isPR": false,
