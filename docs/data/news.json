@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-23T16:30:16.367Z",
+  "updatedAt": "2026-11-23T17:00:18.729Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 69,
+  "total": 68,
   "todayCount": 0,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 37
+      "count": 36
     },
     {
       "id": "sale",
@@ -94,13 +94,13 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 36
+      "count": 35
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 48
+      "count": 47
     },
     {
       "name": "AppMedia",
@@ -109,10 +109,6 @@
     {
       "name": "YouTube",
       "count": 3
-    },
-    {
-      "name": "Game*Spark",
-      "count": 2
     },
     {
       "name": "AppBank",
@@ -124,6 +120,14 @@
     },
     {
       "name": "Howl.Link",
+      "count": 1
+    },
+    {
+      "name": "Game*Spark",
+      "count": 1
+    },
+    {
+      "name": "GameBusiness.jp",
       "count": 1
     },
     {
@@ -181,16 +185,17 @@
       ]
     },
     {
-      "id": "09ad87b18c30",
-      "title": "スマホ向けモンスターハンターアウトランダーズが正式サービス開始 新武器種も解禁",
+      "id": "b5d8eb91bc5b",
+      "title": "『モンハン アウトランダーズ』PC版が中国プラットフォーム向けに発表！",
       "summary": "",
-      "url": "https://news.dellows.jp/942585/",
-      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/942585_1.jpg",
-      "leadSource": "Dellows News",
-      "publishedAt": "2026-11-21T19:14:01.000Z",
+      "url": "https://www.gamebusiness.jp/article/2026/11/22/28818.html",
+      "image": "https://www.gamebusiness.jp/base/images/img_ogp.png",
+      "leadSource": "GameBusiness.jp",
+      "publishedAt": "2026-11-21T21:30:02.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
+        "new",
         "other"
       ],
       "keywords": [
@@ -236,12 +241,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-23T16:00:19.533Z",
+    "previousAt": "2026-11-23T16:30:16.367Z",
     "previousCount": 69,
-    "newCount": 0
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-23T17:00:16.367Z",
+  "nextUpdateAt": "2026-11-23T17:30:18.729Z",
   "items": [
     {
       "id": "c2e889543125",
@@ -252,6 +257,27 @@
       "summary": "",
       "publishedAt": "2026-11-23T14:15:26.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575851.png?date=1789454673",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "32957bedf320",
+      "title": "【アウトランダーズ】エンショウの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577460",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-23T14:13:43.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577460.png?date=1790214483",
       "categories": [
         "guide"
       ],
@@ -433,27 +459,6 @@
       "isNew": false
     },
     {
-      "id": "32957bedf320",
-      "title": "【アウトランダーズ】エンショウの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577460",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-23T10:54:12.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577460.png?date=1790214483",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "da6774683cf4",
       "title": "【アウトランダーズ】リセマラのやり方と所要時間｜何連引ける？【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/531931",
@@ -464,27 +469,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531931.png?date=1793082187",
       "categories": [
         "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "648aa62e18c5",
-      "title": "【アウトランダーズ】ルガ・エアルダの弱点と攻略【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/586566",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-23T10:28:07.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586566.png?date=1793781037",
-      "categories": [
-        "guide"
       ],
       "series": [
         "outlanders"
@@ -981,6 +965,27 @@
       "isNew": false
     },
     {
+      "id": "521fd963ac23",
+      "title": "【アウトランダーズ】フォリオの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577462",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-23T06:13:22.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577462.png?date=1790214565",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "24484d2a1bbd",
       "title": "【アウトランダーズ】ロードの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/583506",
@@ -1078,27 +1083,6 @@
       ],
       "series": [
         "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "df305938f24a",
-      "title": "【アウトランダーズ】主人公(チャージアックス)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/583503",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-23T01:22:00.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583503.png?date=1792581391",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1348,6 +1332,27 @@
       ],
       "series": [
         "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "b5d8eb91bc5b",
+      "title": "『モンハン アウトランダーズ』PC版が中国プラットフォーム向けに発表！",
+      "url": "https://www.gamebusiness.jp/article/2026/11/22/28818.html",
+      "host": "gamebusiness.jp",
+      "source": "GameBusiness.jp",
+      "summary": "",
+      "publishedAt": "2026-11-21T21:30:02.000Z",
+      "image": "https://www.gamebusiness.jp/base/images/img_ogp.png",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1662,27 +1667,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "b5d8eb91bc5b",
-      "title": "『モンハン アウトランダーズ』PC版が中国プラットフォーム向けに発表！",
-      "url": "https://www.gamespark.jp/article/2026/11/21/175147.html",
-      "host": "gamespark.jp",
-      "source": "Game*Spark",
-      "summary": "",
-      "publishedAt": "2026-11-20T16:33:37.000Z",
-      "image": "https://www.gamespark.jp/imgs/ogp_f/1221985.jpg",
-      "categories": [
-        "new"
-      ],
-      "series": [
-        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
