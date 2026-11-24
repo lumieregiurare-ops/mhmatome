@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T02:30:14.838Z",
+  "updatedAt": "2026-11-24T03:00:19.344Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,12 +7,12 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 64,
-  "todayCount": 16,
+  "todayCount": 17,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 5
+      "count": 4
     },
     {
       "id": "update",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 35
+      "count": 36
     },
     {
       "id": "sale",
@@ -111,11 +111,11 @@
       "count": 2
     },
     {
-      "name": "shiritomo",
+      "name": "finders.me",
       "count": 1
     },
     {
-      "name": "Infoseek",
+      "name": "shiritomo",
       "count": 1
     },
     {
@@ -233,12 +233,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-24T02:00:26.100Z",
+    "previousAt": "2026-11-24T02:30:14.838Z",
     "previousCount": 64,
-    "newCount": 1
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-24T03:00:14.838Z",
+  "nextUpdateAt": "2026-11-24T03:30:19.344Z",
   "items": [
     {
       "id": "c2e889543125",
@@ -323,6 +323,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "9216b9f2d8c0",
+      "title": "マリノアシティ福岡跡地が三井アウトレットパークに。海辺にモンハン立像、食の41店舗も",
+      "url": "https://finders.me/kqFQxAhZWwD814yLPQ",
+      "host": "finders.me",
+      "source": "finders.me",
+      "summary": "",
+      "publishedAt": "2026-11-23T23:48:38.000Z",
+      "image": "https://assets.finders.me/post/thumbnail/bq2c2bGvSr4u-i96_JIqE.jpg?v=20260829",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "188cd518008b",
@@ -985,7 +1004,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-23T08:55:10.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577464.png?date=1790214658",
+      "image": "",
       "categories": [
         "guide"
       ],
@@ -1027,7 +1046,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-23T07:03:35.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563040.png?date=1789770455",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1048,7 +1067,7 @@
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-23T06:16:47.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577468.png?date=1790214845",
+      "image": "",
       "categories": [
         "guide"
       ],
@@ -1144,6 +1163,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "aae59a4ec7dd",
+      "title": "【アウトランダーズ】ディアブロスの弱点と攻略【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/585672",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-23T06:11:26.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "56c414ead831",
@@ -1270,27 +1310,6 @@
       "isNew": false
     },
     {
-      "id": "8538da1deffa",
-      "title": "【アウトランダーズ】匿名依頼クエストの報酬と進め方【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/587111",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-22T15:06:08.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/587111.png?date=1794025592",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "411bb4076b94",
       "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/575038",
@@ -1310,25 +1329,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "0f4d643ac16a",
-      "title": "『まどマギ』『シュタゲ』に着想を得たラヴクラフト系美少女経営シム『夜明けの笛吹き者』開発インタビュー/モバイル版『モンハン ライズ』が正式発表/初代『ダクソ』のプレイ感を呼び起こすソウルライクACT『False Hero』の開発者に聞く【…",
-      "url": "https://news.infoseek.co.jp/article/gamespark_175174/",
-      "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
-      "summary": "",
-      "publishedAt": "2026-11-22T01:00:03.000Z",
-      "image": "https://media.image.infoseek.co.jp/isnews/photos/gamespark/gamespark_175174_0-enlarge.jpg",
-      "categories": [
-        "new"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "ce5953ef1ee6",
