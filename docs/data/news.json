@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-24T20:30:17.677Z",
+  "updatedAt": "2026-11-24T21:30:17.516Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 68,
+  "total": 64,
   "todayCount": 2,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 5
+      "count": 2
     },
     {
       "id": "update",
@@ -32,7 +32,7 @@
     {
       "id": "goods",
       "label": "グッズ・フィギュア",
-      "count": 1
+      "count": 0
     },
     {
       "id": "media",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 45
+      "count": 44
     },
     {
       "id": "sale",
@@ -69,12 +69,12 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 12
+      "count": 11
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 13
+      "count": 12
     },
     {
       "id": "world",
@@ -94,13 +94,13 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 33
+      "count": 32
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 57
+      "count": 56
     },
     {
       "name": "AppMedia",
@@ -109,28 +109,16 @@
     {
       "name": "finders.me",
       "count": 2
-    },
-    {
-      "name": "Infoseek",
-      "count": 1
-    },
-    {
-      "name": "GameBusiness.jp",
-      "count": 1
-    },
-    {
-      "name": "AppBank",
-      "count": 1
     }
   ],
   "topics": [],
   "churn": {
-    "previousAt": "2026-11-24T20:00:15.176Z",
-    "previousCount": 65,
-    "newCount": 6
+    "previousAt": "2026-11-24T20:30:17.677Z",
+    "previousCount": 68,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-24T21:00:17.677Z",
+  "nextUpdateAt": "2026-11-24T22:00:17.516Z",
   "items": [
     {
       "id": "c2e889543125",
@@ -324,6 +312,27 @@
       "isNew": false
     },
     {
+      "id": "f4f222ac2e2d",
+      "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/575036",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-24T12:58:03.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575036.png?date=1789770113",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "d848c47c8e0c",
       "title": "【アウトランダーズ】最強キャラランキング【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/531927",
@@ -364,7 +373,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e6d79acfa4bd",
@@ -698,7 +707,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "188cd518008b",
@@ -761,7 +770,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d8b95bbbc335",
@@ -845,7 +854,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e08e6c8ea2a8",
@@ -950,7 +959,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ba708ad1ce88",
@@ -1088,27 +1097,6 @@
       ],
       "series": [
         "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f4f222ac2e2d",
-      "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/575036",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-23T11:41:07.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575036.png?date=1789770113",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1327,27 +1315,6 @@
       "isNew": false
     },
     {
-      "id": "4eeb09dc0d5c",
-      "title": "【サンブレイク】傀異(怪異)クエストの解放と素材一覧",
-      "url": "https://gamewith.jp/mhrize/article/show/349492",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-22T09:16:14.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/349492.png?date=1656670328",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "aedfa70656d4",
       "title": "【サンブレイク】弓の最強装備・おすすめ装備 | アプデ対応",
       "url": "https://gamewith.jp/mhrize/article/show/349742",
@@ -1408,27 +1375,6 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "12d63f7f9732",
-      "title": "【サンブレイク】傀異(怪異)討究クエストのおすすめ周回とレベル上限【モンハンライズ】",
-      "url": "https://gamewith.jp/mhrize/article/show/358172",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-22T05:07:17.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/358172.png?date=1660058535",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
       "isNew": false
     },
     {
@@ -1453,6 +1399,27 @@
       "isNew": false
     },
     {
+      "id": "bedfdcfcec77",
+      "title": "【モンハンライズ】モンスター一覧｜弱点早見表",
+      "url": "https://gamewith.jp/mhrize/article/show/250249",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-22T02:43:19.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/250249.png?date=1610017057",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "405e4984797d",
       "title": "【サンブレイク】最強武器種ランキング｜全武器評価",
       "url": "https://gamewith.jp/mhrize/article/show/250447",
@@ -1475,25 +1442,6 @@
       "isNew": false
     },
     {
-      "id": "0f4d643ac16a",
-      "title": "『まどマギ』『シュタゲ』に着想を得たラヴクラフト系美少女経営シム『夜明けの笛吹き者』開発インタビュー/モバイル版『モンハン ライズ』が正式発表/初代『ダクソ』のプレイ感を呼び起こすソウルライクACT『False Hero』の開発者に聞く【…",
-      "url": "https://news.infoseek.co.jp/article/gamespark_175174/",
-      "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
-      "summary": "",
-      "publishedAt": "2026-11-22T01:00:03.000Z",
-      "image": "https://media.image.infoseek.co.jp/isnews/photos/gamespark/gamespark_175174_0-enlarge.jpg",
-      "categories": [
-        "new"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "c1b19ea83418",
       "title": "【サンブレイク】アマツマガツチの弱点と攻略 | 解放条件【モンハンライズ】",
       "url": "https://gamewith.jp/mhrize/article/show/379472",
@@ -1507,49 +1455,6 @@
       ],
       "series": [
         "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "b5d8eb91bc5b",
-      "title": "『モンハン アウトランダーズ』PC版が中国プラットフォーム向けに発表！",
-      "url": "https://www.gamebusiness.jp/article/2026/11/22/28818.html",
-      "host": "gamebusiness.jp",
-      "source": "GameBusiness.jp",
-      "summary": "",
-      "publishedAt": "2026-11-21T21:30:02.000Z",
-      "image": "https://www.gamebusiness.jp/base/images/img_ogp.png",
-      "categories": [
-        "new"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "b4db84374f47",
-      "title": "カプコン、『モンハンワイルズ』『鬼武者 Way of the Sword』など新グッズの予約を開始！ CFBやメダル、ぬいぐるみが登場",
-      "url": "https://www.appbank.net/2026/11/22/game/3173177.php",
-      "host": "appbank.net",
-      "source": "AppBank",
-      "summary": "",
-      "publishedAt": "2026-11-21T21:14:19.000Z",
-      "image": "https://www.appbank.net/wp-content/uploads/2026/11/20261120_173912_503_01.webp",
-      "categories": [
-        "goods",
-        "new"
-      ],
-      "series": [
-        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
