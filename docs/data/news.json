@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T06:00:19.064Z",
+  "updatedAt": "2026-11-24T06:30:17.074Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -12,7 +12,7 @@
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 3
+      "count": 4
     },
     {
       "id": "update",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 37
+      "count": 36
     },
     {
       "id": "sale",
@@ -94,13 +94,13 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 34
+      "count": 33
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 49
+      "count": 48
     },
     {
       "name": "AppMedia",
@@ -116,6 +116,10 @@
     },
     {
       "name": "shiritomo",
+      "count": 1
+    },
+    {
+      "name": "Infoseek",
       "count": 1
     },
     {
@@ -209,13 +213,55 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-24T05:30:18.640Z",
-    "previousCount": 63,
-    "newCount": 6
+    "previousAt": "2026-11-24T06:00:19.064Z",
+    "previousCount": 64,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-24T06:30:19.064Z",
+  "nextUpdateAt": "2026-11-24T07:00:17.074Z",
   "items": [
+    {
+      "id": "3c93af39972d",
+      "title": "【アウトランダーズ】ミドリの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577465",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-24T06:15:08.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577465.png?date=1790214699",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "140b6b8decfd",
+      "title": "【アウトランダーズ】クレスの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577459",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-24T05:56:31.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577459.png?date=1790214418",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "2a17573b9861",
       "title": "【アウトランダーズ】ペペの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
@@ -427,27 +473,6 @@
       "isNew": false
     },
     {
-      "id": "3c93af39972d",
-      "title": "【アウトランダーズ】ミドリの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577465",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-24T01:41:28.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577465.png?date=1790214699",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "573c89f6733d",
       "title": "【モンハンストーリーズ3】最強オトモンランキング【MHST3】",
       "url": "https://appmedia.jp/mhst3/79852682",
@@ -462,27 +487,6 @@
       ],
       "series": [
         "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "140b6b8decfd",
-      "title": "【アウトランダーズ】クレスの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577459",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-24T00:51:19.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577459.png?date=1790214418",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -801,7 +805,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "24797f96cd63",
@@ -864,7 +868,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d605748fb698",
@@ -985,27 +989,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d1380a6141da",
-      "title": "【アウトランダーズ】主人公(ランス)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577468",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-23T06:16:47.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577468.png?date=1790214845",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1137,7 +1120,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e6d79acfa4bd",
@@ -1240,7 +1223,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "411bb4076b94",
@@ -1282,7 +1265,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fbd709240fd8",
@@ -1299,6 +1282,25 @@
       "series": [
         "stories"
       ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "0f4d643ac16a",
+      "title": "『まどマギ』『シュタゲ』に着想を得たラヴクラフト系美少女経営シム『夜明けの笛吹き者』開発インタビュー/モバイル版『モンハン ライズ』が正式発表/初代『ダクソ』のプレイ感を呼び起こすソウルライクACT『False Hero』の開発者に聞く【…",
+      "url": "https://news.infoseek.co.jp/article/gamespark_175174/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
+      "summary": "",
+      "publishedAt": "2026-11-22T01:00:03.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/gamespark/gamespark_175174_0-enlarge.jpg",
+      "categories": [
+        "new"
+      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
