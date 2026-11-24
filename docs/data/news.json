@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-24T01:00:19.538Z",
+  "updatedAt": "2026-11-24T01:30:22.374Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 62,
-  "todayCount": 10,
+  "total": 64,
+  "todayCount": 12,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 5
+      "count": 4
     },
     {
       "id": "update",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 34
+      "count": 36
     },
     {
       "id": "sale",
@@ -57,12 +57,12 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 5
+      "count": 4
     },
     {
       "id": "other",
       "label": "その他",
-      "count": 19
+      "count": 20
     }
   ],
   "series": [
@@ -89,22 +89,22 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 5
+      "count": 7
     },
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 35
+      "count": 36
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 48
+      "count": 49
     },
     {
       "name": "AppMedia",
-      "count": 5
+      "count": 7
     },
     {
       "name": "YouTube",
@@ -112,10 +112,6 @@
     },
     {
       "name": "shiritomo",
-      "count": 1
-    },
-    {
-      "name": "Infoseek",
       "count": 1
     },
     {
@@ -127,15 +123,15 @@
       "count": 1
     },
     {
+      "name": "AdverTimes.（アドタイ） by 宣伝会議",
+      "count": 1
+    },
+    {
       "name": "ガジェット通信",
       "count": 1
     },
     {
       "name": "게임메카",
-      "count": 1
-    },
-    {
-      "name": "AdverTimes.（アドタイ） by 宣伝会議",
       "count": 1
     }
   ],
@@ -233,13 +229,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-24T00:30:20.064Z",
-    "previousCount": 64,
-    "newCount": 5
+    "previousAt": "2026-11-24T01:00:19.538Z",
+    "previousCount": 62,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-24T01:30:19.538Z",
+  "nextUpdateAt": "2026-11-24T02:00:22.374Z",
   "items": [
+    {
+      "id": "648aa62e18c5",
+      "title": "【アウトランダーズ】ルガ・エアルダの弱点と攻略【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/586566",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-24T00:38:11.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586566.png?date=1793781037",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "ebe0f30bc1c3",
       "title": "【アウトランダーズ】ルカの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
@@ -304,6 +321,48 @@
       "isNew": false
     },
     {
+      "id": "c33f7237cb4a",
+      "title": "【モンハンストーリーズ3】取り返しのつかないこと【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79833269",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-23T20:04:24.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/162356_gpczd.webp",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "335359f79d55",
+      "title": "【モンハンストーリーズ3】生態ランクの効率的な上げ方とメリット【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79835498",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-23T19:46:54.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/132829_c93zd.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "3c93af39972d",
       "title": "【アウトランダーズ】ミドリの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577465",
@@ -343,7 +402,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c5a9ba790304",
@@ -385,7 +444,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "573c89f6733d",
@@ -428,17 +487,17 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
-      "id": "32957bedf320",
-      "title": "【アウトランダーズ】エンショウの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577460",
+      "id": "c2e889543125",
+      "title": "【アウトランダーズ】絵装の厳選方法とおすすめ効果【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/575851",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-23T15:14:18.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577460.png?date=1790214483",
+      "publishedAt": "2026-11-23T14:15:26.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575851.png?date=1789454673",
       "categories": [
         "guide"
       ],
@@ -452,14 +511,14 @@
       "isNew": false
     },
     {
-      "id": "c2e889543125",
-      "title": "【アウトランダーズ】絵装の厳選方法とおすすめ効果【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/575851",
+      "id": "32957bedf320",
+      "title": "【アウトランダーズ】エンショウの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577460",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-23T14:15:26.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575851.png?date=1789454673",
+      "publishedAt": "2026-11-23T14:13:43.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577460.png?date=1790214483",
       "categories": [
         "guide"
       ],
@@ -597,7 +656,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f4f222ac2e2d",
@@ -747,27 +806,6 @@
       "isNew": false
     },
     {
-      "id": "648aa62e18c5",
-      "title": "【アウトランダーズ】ルガ・エアルダの弱点と攻略【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/586566",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-23T10:28:07.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586566.png?date=1793781037",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "b7e7b3e1b618",
       "title": "【アウトランダーズ】ヘイズの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/583505",
@@ -831,6 +869,27 @@
       "isNew": false
     },
     {
+      "id": "24ca3d4e1da5",
+      "title": "【アウトランダーズ】タイショウの性能とおすすめキャラ【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577649",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-23T10:17:44.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577649.png?date=1790215598",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "d605748fb698",
       "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/574841",
@@ -862,28 +921,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577455.png?date=1790214244",
       "categories": [
         "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d848c47c8e0c",
-      "title": "【アウトランダーズ】最強キャラランキング【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531927",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-23T09:12:06.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531927.png?date=1793082334",
-      "categories": [
-        "guide",
-        "sales"
       ],
       "series": [
         "outlanders"
@@ -1084,6 +1121,27 @@
       "isNew": false
     },
     {
+      "id": "aae59a4ec7dd",
+      "title": "【アウトランダーズ】ディアブロスの弱点と攻略【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/585672",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-23T06:11:26.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "56c414ead831",
       "title": "【アウトランダーズ】レイギエナの弱点と攻略【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/585669",
@@ -1102,7 +1160,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "589a08725415",
@@ -1271,25 +1329,6 @@
       "isNew": false
     },
     {
-      "id": "0f4d643ac16a",
-      "title": "『まどマギ』『シュタゲ』に着想を得たラヴクラフト系美少女経営シム『夜明けの笛吹き者』開発インタビュー/モバイル版『モンハン ライズ』が正式発表/初代『ダクソ』のプレイ感を呼び起こすソウルライクACT『False Hero』の開発者に聞く【…",
-      "url": "https://news.infoseek.co.jp/article/gamespark_175174/",
-      "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
-      "summary": "",
-      "publishedAt": "2026-11-22T01:00:03.000Z",
-      "image": "https://media.image.infoseek.co.jp/isnews/photos/gamespark/gamespark_175174_0-enlarge.jpg",
-      "categories": [
-        "new"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "ce5953ef1ee6",
       "title": "【モンハンワイルズ】操虫棍の最強装備・おすすめ装備【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/484940",
@@ -1389,6 +1428,25 @@
       "series": [
         "wilds"
       ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "1ac2ff5e1f8f",
+      "title": "「モンハン」の世界に入り込める！ 万博で10万人超を魅了した体験はどう生まれた？",
+      "url": "https://www.advertimes.com/20261121/article564525/?page",
+      "host": "advertimes.com",
+      "source": "AdverTimes.（アドタイ） by 宣伝会議",
+      "summary": "",
+      "publishedAt": "2026-11-21T14:36:25.000Z",
+      "image": "https://cdn.advertimes.com/wp-content/uploads/2026/11/expomonhan-ogp.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1516,25 +1574,6 @@
       "series": [
         "outlanders"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "1ac2ff5e1f8f",
-      "title": "「モンハン」の世界に入り込める！ 万博で10万人超を魅了した体験はどう生まれた？",
-      "url": "https://www.advertimes.com/20261121/article564525/",
-      "host": "advertimes.com",
-      "source": "AdverTimes.（アドタイ） by 宣伝会議",
-      "summary": "",
-      "publishedAt": "2026-11-21T01:04:48.000Z",
-      "image": "https://cdn.advertimes.com/wp-content/uploads/2026/11/expomonhan-ogp.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
