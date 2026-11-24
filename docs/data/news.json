@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T19:00:18.096Z",
+  "updatedAt": "2026-11-24T19:30:18.351Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -12,7 +12,7 @@
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 4
+      "count": 5
     },
     {
       "id": "update",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 44
+      "count": 41
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 16
+      "count": 18
     }
   ],
   "series": [
@@ -74,7 +74,7 @@
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 10
+      "count": 12
     },
     {
       "id": "world",
@@ -89,25 +89,29 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 6
+      "count": 2
     },
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 34
+      "count": 35
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 57
+      "count": 60
     },
     {
       "name": "AppMedia",
-      "count": 6
+      "count": 2
     },
     {
       "name": "finders.me",
+      "count": 1
+    },
+    {
+      "name": "Infoseek",
       "count": 1
     },
     {
@@ -121,12 +125,12 @@
   ],
   "topics": [],
   "churn": {
-    "previousAt": "2026-11-24T18:00:18.961Z",
-    "previousCount": 73,
-    "newCount": 2
+    "previousAt": "2026-11-24T19:00:18.096Z",
+    "previousCount": 66,
+    "newCount": 5
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-24T19:30:18.096Z",
+  "nextUpdateAt": "2026-11-24T20:00:18.351Z",
   "items": [
     {
       "id": "c2e889543125",
@@ -342,27 +346,6 @@
       "isNew": false
     },
     {
-      "id": "ced5755e5db0",
-      "title": "【モンハンストーリーズ3】おすすめオトモン｜進行度別に掲載【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79833716",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-24T12:49:01.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/173337_x0wn3.webp",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "e6d79acfa4bd",
       "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
       "url": "https://gamewith.jp/mhwilds/563096",
@@ -463,7 +446,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9ad974a0f0ba",
@@ -571,6 +554,27 @@
       "isNew": false
     },
     {
+      "id": "b76a54b5b309",
+      "title": "【モンハンストーリーズ3】キャラ・声優一覧【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79518029",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-24T11:25:20.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2025/11/111147_kl2nw.webp",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "effd54217c7e",
       "title": "【アウトランダーズ】主人公(双剣)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577469",
@@ -655,19 +659,19 @@
       "isNew": false
     },
     {
-      "id": "d3cd7084b2c3",
-      "title": "【モンハンストーリーズ3】最強装備まとめ【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79849634",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
+      "id": "188cd518008b",
+      "title": "【アウトランダーズ】ガチャおすすめと一覧│引くべきガチャ【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531924",
+      "host": "gamewith.jp",
+      "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-24T11:22:20.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/174453_f690s.webp",
+      "publishedAt": "2026-11-24T11:06:33.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531924.png?date=1793225649",
       "categories": [
         "guide"
       ],
       "series": [
-        "stories"
+        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -689,27 +693,6 @@
       ],
       "series": [
         "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "c1ce900bfe63",
-      "title": "【モンハンストーリーズ3】侵獣攻略一覧｜解放できる危惧種まとめ【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79844810",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-24T09:03:23.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/105921_5y7po.webp",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -760,27 +743,6 @@
       "isNew": false
     },
     {
-      "id": "fbd709240fd8",
-      "title": "【モンハンストーリーズ2】レベル上げにおすすめの方法・手順まとめ【MHST2】",
-      "url": "https://appmedia.jp/mhst2/6648013",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-24T06:12:29.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2021/07/cfd34185d634df738c4a56e4eec83502.jpg",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "e08e6c8ea2a8",
       "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/563104",
@@ -794,27 +756,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "188cd518008b",
-      "title": "【アウトランダーズ】ガチャおすすめと一覧│引くべきガチャ【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531924",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-24T05:23:13.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531924.png?date=1793225649",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1178,6 +1119,27 @@
       "isNew": false
     },
     {
+      "id": "521fd963ac23",
+      "title": "【アウトランダーズ】フォリオの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577462",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-23T06:13:22.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577462.png?date=1790214565",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "589a08725415",
       "title": "【アウトランダーズ】アップデート最新情報まとめ【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/587366",
@@ -1301,7 +1263,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c60cda9bca05",
@@ -1323,6 +1285,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "4eeb09dc0d5c",
+      "title": "【サンブレイク】傀異(怪異)クエストの解放と素材一覧",
+      "url": "https://gamewith.jp/mhrize/article/show/349492",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-22T09:16:14.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/349492.png?date=1656670328",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "aedfa70656d4",
@@ -1367,25 +1350,25 @@
       "isNew": false
     },
     {
-      "id": "f64870368a23",
-      "title": "【モンハンストーリーズ2】最強オトモンまとめ｜属性別に掲載【MHST2】",
-      "url": "https://appmedia.jp/mhst2/26677399",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
+      "id": "12d63f7f9732",
+      "title": "【サンブレイク】傀異(怪異)討究クエストのおすすめ周回とレベル上限【モンハンライズ】",
+      "url": "https://gamewith.jp/mhrize/article/show/358172",
+      "host": "gamewith.jp",
+      "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-22T06:47:36.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2021/07/8e879b5f3a4979f8a9f6cd734b23fa0f.jpg",
+      "publishedAt": "2026-11-22T05:07:17.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/358172.png?date=1660058535",
       "categories": [
         "guide"
       ],
       "series": [
-        "stories"
+        "rise"
       ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "405e4984797d",
@@ -1408,6 +1391,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "0f4d643ac16a",
+      "title": "『まどマギ』『シュタゲ』に着想を得たラヴクラフト系美少女経営シム『夜明けの笛吹き者』開発インタビュー/モバイル版『モンハン ライズ』が正式発表/初代『ダクソ』のプレイ感を呼び起こすソウルライクACT『False Hero』の開発者に聞く【…",
+      "url": "https://news.infoseek.co.jp/article/gamespark_175174/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
+      "summary": "",
+      "publishedAt": "2026-11-22T01:00:03.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/gamespark/gamespark_175174_0-enlarge.jpg",
+      "categories": [
+        "new"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "c1b19ea83418",
