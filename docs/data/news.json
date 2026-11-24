@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T22:30:16.673Z",
+  "updatedAt": "2026-11-24T23:00:17.772Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 63,
-  "todayCount": 3,
+  "todayCount": 4,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 40
+      "count": 41
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 19
+      "count": 18
     }
   ],
   "series": [
@@ -94,17 +94,17 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 32
+      "count": 33
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 60
+      "count": 61
     },
     {
       "name": "finders.me",
-      "count": 2
+      "count": 1
     },
     {
       "name": "Infoseek",
@@ -113,12 +113,12 @@
   ],
   "topics": [],
   "churn": {
-    "previousAt": "2026-11-24T22:00:30.310Z",
-    "previousCount": 0,
-    "newCount": 0
+    "previousAt": "2026-11-24T22:30:16.673Z",
+    "previousCount": 63,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-24T23:00:16.673Z",
+  "nextUpdateAt": "2026-11-24T23:30:17.772Z",
   "items": [
     {
       "id": "3c93af39972d",
@@ -131,6 +131,28 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577465.png?date=1790214699",
       "categories": [
         "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "2e13886299dc",
+      "title": "【アウトランダーズ】主人公のおすすめ武器種と心得｜最強武器種ランキング【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531944",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-24T20:45:12.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531944.png?date=1793082656",
+      "categories": [
+        "guide",
+        "sales"
       ],
       "series": [
         "outlanders"
@@ -207,12 +229,12 @@
     {
       "id": "3f0f828f5436",
       "title": "【アウトランダーズ】アケニアの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577458",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IWVJ5MnNTQUFZZ3c0MTRwcVNnT1JKRjA2ekZ0c2RydXZ3SGpyeTBJWXB2cnpWcUNHZE8yTVBsVjZ6bmVmaFdHUHdNY0lnVDk4?oc=5",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-24T14:07:10.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577458.png?date=1790214381",
+      "image": "",
       "categories": [
         "guide"
       ],
@@ -221,7 +243,7 @@
       ],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
@@ -236,28 +258,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577456.png?date=1790214292",
       "categories": [
         "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "2e13886299dc",
-      "title": "【アウトランダーズ】主人公のおすすめ武器種と心得｜最強武器種ランキング【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531944",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-24T13:38:10.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531944.png?date=1793082656",
-      "categories": [
-        "guide",
-        "sales"
       ],
       "series": [
         "outlanders"
@@ -560,6 +560,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "d1380a6141da",
+      "title": "【アウトランダーズ】主人公(ランス)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577468",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-24T11:25:04.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577468.png?date=1790214845",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "27a4249eeeed",
@@ -885,25 +906,6 @@
       "summary": "",
       "publishedAt": "2026-11-24T02:48:41.000Z",
       "image": "https://finders.me/assets/img/ogp.png",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "9216b9f2d8c0",
-      "title": "マリノアシティ福岡跡地が三井アウトレットパークに。海辺にモンハン立像、食の41店舗も",
-      "url": "https://finders.me/kqFQxAhZWwD814yLPQ",
-      "host": "finders.me",
-      "source": "finders.me",
-      "summary": "",
-      "publishedAt": "2026-11-23T23:48:38.000Z",
-      "image": "https://assets.finders.me/post/thumbnail/bq2c2bGvSr4u-i96_JIqE.jpg?v=20260829",
       "categories": [
         "other"
       ],
