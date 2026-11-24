@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-24T06:30:17.074Z",
+  "updatedAt": "2026-11-24T07:00:17.773Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 64,
-  "todayCount": 20,
+  "total": 65,
+  "todayCount": 22,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 36
+      "count": 37
     },
     {
       "id": "sale",
@@ -94,13 +94,13 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 33
+      "count": 34
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 48
+      "count": 49
     },
     {
       "name": "AppMedia",
@@ -119,7 +119,7 @@
       "count": 1
     },
     {
-      "name": "Infoseek",
+      "name": "Game*Spark",
       "count": 1
     },
     {
@@ -213,12 +213,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-24T06:00:19.064Z",
+    "previousAt": "2026-11-24T06:30:17.074Z",
     "previousCount": 64,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-24T07:00:17.074Z",
+  "nextUpdateAt": "2026-11-24T07:30:17.773Z",
   "items": [
     {
       "id": "3c93af39972d",
@@ -229,6 +229,27 @@
       "summary": "",
       "publishedAt": "2026-11-24T06:15:08.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577465.png?date=1790214699",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "ebe0f30bc1c3",
+      "title": "【アウトランダーズ】ルカの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577461",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-24T06:06:15.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577461.png?date=1790214525",
       "categories": [
         "guide"
       ],
@@ -369,14 +390,14 @@
       "isNew": false
     },
     {
-      "id": "648aa62e18c5",
-      "title": "【アウトランダーズ】ルガ・エアルダの弱点と攻略【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/586566",
+      "id": "43a8a4f07e27",
+      "title": "【アウトランダーズ】融光種ディアブロス亜種の弱点と攻略【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/585662",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-24T05:03:31.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586566.png?date=1793781037",
+      "publishedAt": "2026-11-24T05:03:52.000Z",
+      "image": "",
       "categories": [
         "guide"
       ],
@@ -386,6 +407,27 @@
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "648aa62e18c5",
+      "title": "【アウトランダーズ】ルガ・エアルダの弱点と攻略【モンハンアウトランダーズ】",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zMUVrRmdqcXhFTHVEeWlJQnBNVkc2elpXNEJFc1I3amFLWEVDSkp0SFYwYlFyTWIwQUUwMXExd3lKcDJraGE0RlF1OWJVbWVU?oc=5",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-24T05:03:31.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
@@ -516,27 +558,6 @@
       "isNew": false
     },
     {
-      "id": "ebe0f30bc1c3",
-      "title": "【アウトランダーズ】ルカの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577461",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-24T00:23:18.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577461.png?date=1790214525",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "9216b9f2d8c0",
       "title": "マリノアシティ福岡跡地が三井アウトレットパークに。海辺にモンハン立像、食の41店舗も",
       "url": "https://finders.me/kqFQxAhZWwD814yLPQ",
@@ -558,12 +579,12 @@
     {
       "id": "b7e7b3e1b618",
       "title": "【アウトランダーズ】ヘイズの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/583505",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81blJ2bkYyWnpsV3RHak9NTHR4QVY3TjEzQ3ZzNkhIQTdmZGg3eER0d3FUWk0zZTFmOFNZM2FkZDZMOWxmNnBiendqMndrTFlP?oc=5",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-23T23:42:54.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583505.png?date=1792581250",
+      "image": "",
       "categories": [
         "guide"
       ],
@@ -572,7 +593,7 @@
       ],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
@@ -591,6 +612,25 @@
       "series": [
         "outlanders"
       ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "e6d79acfa4bd",
+      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
+      "url": "https://gamewith.jp/mhwilds/563096",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-23T18:35:43.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
+      "categories": [
+        "guide"
+      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1123,25 +1163,6 @@
       "isNew": false
     },
     {
-      "id": "e6d79acfa4bd",
-      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
-      "url": "https://gamewith.jp/mhwilds/563096",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-23T00:48:09.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
-      "categories": [
-        "guide"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "e08e6c8ea2a8",
       "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/563104",
@@ -1186,12 +1207,12 @@
     {
       "id": "778fbb3d5344",
       "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/577281",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE90d3JTbEFiUjdtc1Q2ZzQ2ZER5Umk1eV83MFk1UXhtR3dMZEZ3bmR2cHIzVEt1dExGZEQ3eVhHU2lPc3dCZVowRGxB?oc=5",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-22T15:34:42.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577281.png?date=1789571405",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1200,7 +1221,7 @@
       ],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
@@ -1291,12 +1312,12 @@
     {
       "id": "0f4d643ac16a",
       "title": "『まどマギ』『シュタゲ』に着想を得たラヴクラフト系美少女経営シム『夜明けの笛吹き者』開発インタビュー/モバイル版『モンハン ライズ』が正式発表/初代『ダクソ』のプレイ感を呼び起こすソウルライクACT『False Hero』の開発者に聞く【…",
-      "url": "https://news.infoseek.co.jp/article/gamespark_175174/",
-      "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
+      "url": "https://www.gamespark.jp/article/img/2026/11/22/175174/1222100.html",
+      "host": "gamespark.jp",
+      "source": "Game*Spark",
       "summary": "",
       "publishedAt": "2026-11-22T01:00:03.000Z",
-      "image": "https://media.image.infoseek.co.jp/isnews/photos/gamespark/gamespark_175174_0-enlarge.jpg",
+      "image": "https://www.gamespark.jp/imgs/ogp_f/1222100.jpg",
       "categories": [
         "new"
       ],
@@ -1305,7 +1326,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ce5953ef1ee6",
