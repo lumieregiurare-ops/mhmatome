@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-25T10:00:16.176Z",
+  "updatedAt": "2026-11-25T10:30:17.153Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 64,
-  "todayCount": 30,
+  "total": 65,
+  "todayCount": 31,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 2
+      "count": 3
     },
     {
       "id": "update",
@@ -22,7 +22,7 @@
     {
       "id": "event",
       "label": "イベント・クエスト",
-      "count": 1
+      "count": 0
     },
     {
       "id": "collab",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 42
+      "count": 45
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 17
+      "count": 16
     }
   ],
   "series": [
@@ -74,7 +74,7 @@
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 8
+      "count": 6
     },
     {
       "id": "world",
@@ -89,22 +89,22 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 3
+      "count": 6
     },
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 34
+      "count": 33
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 57
+      "count": 54
     },
     {
       "name": "AppMedia",
-      "count": 3
+      "count": 7
     },
     {
       "name": "Game*Spark",
@@ -123,15 +123,108 @@
       "count": 1
     }
   ],
-  "topics": [],
+  "topics": [
+    {
+      "id": "96b4d1361268",
+      "title": "アセンダンス攻略｜モンハンアセンダンス発売日・最新情報",
+      "summary": "",
+      "url": "https://appmedia.jp/mhwilds/80539066",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/095900_rwfub.webp",
+      "leadSource": "AppMedia",
+      "publishedAt": "2026-11-25T08:44:07.000Z",
+      "sourceCount": 2,
+      "articleCount": 8,
+      "categories": [
+        "new",
+        "guide"
+      ],
+      "keywords": [
+        "アセンダンス",
+        "最新情報",
+        "モンハンワイルズ"
+      ],
+      "articles": [
+        {
+          "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/575036",
+          "source": "GameWith",
+          "publishedAt": "2026-11-24T12:58:03.000Z",
+          "isPR": false
+        },
+        {
+          "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
+          "url": "https://gamewith.jp/mhwilds/563096",
+          "source": "GameWith",
+          "publishedAt": "2026-11-24T12:37:23.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】Switch2版の発売日はいつ？【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563066",
+          "source": "GameWith",
+          "publishedAt": "2026-11-24T11:32:11.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563040",
+          "source": "GameWith",
+          "publishedAt": "2026-11-24T08:42:34.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/577281",
+          "source": "GameWith",
+          "publishedAt": "2026-11-24T07:26:15.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563104",
+          "source": "GameWith",
+          "publishedAt": "2026-11-24T05:42:03.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/575038",
+          "source": "GameWith",
+          "publishedAt": "2026-11-23T23:12:04.000Z",
+          "isPR": false
+        }
+      ]
+    }
+  ],
   "churn": {
-    "previousAt": "2026-11-25T09:30:15.821Z",
-    "previousCount": 67,
-    "newCount": 2
+    "previousAt": "2026-11-25T10:00:16.176Z",
+    "previousCount": 64,
+    "newCount": 5
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-25T10:30:16.176Z",
+  "nextUpdateAt": "2026-11-25T11:00:17.153Z",
   "items": [
+    {
+      "id": "c2e889543125",
+      "title": "【アウトランダーズ】絵装の厳選方法とおすすめ効果【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/575851",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-25T10:05:54.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575851.png?date=1789454673",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "f4dcf06f9b2a",
       "title": "『モンスターハンターライズ』iOS/Android版Netflix会員向けに配信開始。スマホでも一狩り行こうぜ！",
@@ -151,7 +244,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c1ce900bfe63",
@@ -167,6 +260,89 @@
       ],
       "series": [
         "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "c5a9ba790304",
+      "title": "【アウトランダーズ】ブリックスの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577456",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-25T08:52:09.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577456.png?date=1790214292",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "96b4d1361268",
+      "title": "アセンダンス攻略｜モンハンアセンダンス発売日・最新情報",
+      "url": "https://appmedia.jp/mhwilds/80539066",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T08:44:07.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/095900_rwfub.webp",
+      "categories": [
+        "new",
+        "guide"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "ebe0f30bc1c3",
+      "title": "【アウトランダーズ】ルカの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577461",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-25T08:41:07.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577461.png?date=1790214525",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "9ad974a0f0ba",
+      "title": "【アウトランダーズ】主人公(弓)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577466",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-25T07:53:17.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577466.png?date=1790214739",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -259,14 +435,14 @@
       "isNew": false
     },
     {
-      "id": "ebe0f30bc1c3",
-      "title": "【アウトランダーズ】ルカの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577461",
+      "id": "0faedde303b7",
+      "title": "【アウトランダーズ】鋭精武器の入手方法とおすすめ武器種【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/575991",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-25T06:56:11.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577461.png?date=1790214525",
+      "publishedAt": "2026-11-25T07:03:11.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575991.png?date=1794028151",
       "categories": [
         "guide"
       ],
@@ -352,6 +528,27 @@
       "summary": "",
       "publishedAt": "2026-11-25T06:46:55.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577467.png?date=1790214807",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "27a4249eeeed",
+      "title": "【アウトランダーズ】マドレの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577464",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-25T06:46:53.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577464.png?date=1790214658",
       "categories": [
         "guide"
       ],
@@ -492,48 +689,6 @@
       "isNew": false
     },
     {
-      "id": "c2e889543125",
-      "title": "【アウトランダーズ】絵装の厳選方法とおすすめ効果【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/575851",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-25T05:21:20.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575851.png?date=1789454673",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "0faedde303b7",
-      "title": "【アウトランダーズ】鋭精武器の入手方法とおすすめ武器種【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/575991",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-25T04:03:04.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575991.png?date=1794028151",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "b7e7b3e1b618",
       "title": "【アウトランダーズ】ヘイズの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/583505",
@@ -598,48 +753,6 @@
       "isNew": false
     },
     {
-      "id": "c5a9ba790304",
-      "title": "【アウトランダーズ】ブリックスの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577456",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-25T03:28:23.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577456.png?date=1790214292",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "31a0464673f0",
-      "title": "【モンハンストーリーズ2】共闘探索チケットSRの効率的な入手方法【MHST2】",
-      "url": "https://appmedia.jp/mhst2/6661393",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T03:28:09.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2021/07/fbfb02930f31951f67a4020f6ec34913.jpg",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "f7b53c6298f3",
       "title": "「モンスターハンター」とコラボ企画 バンタン文化祭2026開催",
       "url": "https://getnews.jp/archives/3757798",
@@ -652,48 +765,6 @@
         "collab"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "27a4249eeeed",
-      "title": "【アウトランダーズ】マドレの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577464",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-25T02:54:06.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577464.png?date=1790214658",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "9ad974a0f0ba",
-      "title": "【アウトランダーズ】主人公(弓)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577466",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-25T01:57:25.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577466.png?date=1790214739",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -720,6 +791,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "f64870368a23",
+      "title": "【モンハンストーリーズ2】最強オトモンまとめ｜属性別に掲載【MHST2】",
+      "url": "https://appmedia.jp/mhst2/26677399",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T00:37:25.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2021/07/8e879b5f3a4979f8a9f6cd734b23fa0f.jpg",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "4cd467a24cc4",
@@ -783,6 +875,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "ced5755e5db0",
+      "title": "【モンハンストーリーズ3】おすすめオトモン｜進行度別に掲載【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79833716",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-24T12:49:01.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/173337_x0wn3.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "e6d79acfa4bd",
@@ -972,6 +1085,27 @@
       "isNew": false
     },
     {
+      "id": "d3cd7084b2c3",
+      "title": "【モンハンストーリーズ3】最強装備まとめ【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79849634",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-24T11:22:20.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/174453_f690s.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "188cd518008b",
       "title": "【アウトランダーズ】ガチャおすすめと一覧│引くべきガチャ【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/531924",
@@ -1075,6 +1209,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "fbd709240fd8",
+      "title": "【モンハンストーリーズ2】レベル上げにおすすめの方法・手順まとめ【MHST2】",
+      "url": "https://appmedia.jp/mhst2/6648013",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-24T06:12:29.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2021/07/cfd34185d634df738c4a56e4eec83502.jpg",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "75bf2f179001",
@@ -1264,27 +1419,6 @@
       "isNew": false
     },
     {
-      "id": "24ca3d4e1da5",
-      "title": "【アウトランダーズ】タイショウの性能とおすすめキャラ【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577649",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-23T10:17:44.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577649.png?date=1790215598",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "d605748fb698",
       "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/574841",
@@ -1424,48 +1558,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ef391a3ae33a",
-      "title": "【サンブレイク】傀異化（怪異化）素材一覧と集め方【モンハンライズ】",
-      "url": "https://gamewith.jp/mhrize/article/show/350235",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-22T10:22:30.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/350235.png?date=1656860849",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "rise"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d31eab580cf5",
-      "title": "【サンブレイク】イベントクエスト一覧と報酬",
-      "url": "https://gamewith.jp/mhrize/article/show/358171",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-22T10:22:16.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/358171.png?date=1660054501",
-      "categories": [
-        "event"
-      ],
-      "series": [
-        "rise"
       ],
       "isOfficial": false,
       "isPR": false,
