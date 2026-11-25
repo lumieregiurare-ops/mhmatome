@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-25T12:30:25.528Z",
+  "updatedAt": "2026-11-25T13:00:15.904Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 58,
-  "todayCount": 36,
+  "total": 57,
+  "todayCount": 32,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 38
+      "count": 37
     },
     {
       "id": "sale",
@@ -57,7 +57,7 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 4
+      "count": 3
     },
     {
       "id": "other",
@@ -89,25 +89,25 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 5
+      "count": 3
     },
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 29
+      "count": 30
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 47
+      "count": 48
     },
     {
       "name": "AppMedia",
-      "count": 6
+      "count": 4
     },
     {
-      "name": "Yahoo!ニュース",
+      "name": "ファミ通",
       "count": 1
     },
     {
@@ -137,15 +137,15 @@
       "leadSource": "AppMedia",
       "publishedAt": "2026-11-25T08:44:07.000Z",
       "sourceCount": 2,
-      "articleCount": 9,
+      "articleCount": 7,
       "categories": [
         "new",
         "guide"
       ],
       "keywords": [
         "アセンダンス",
-        "モンハンワイルズ",
-        "最新情報"
+        "最新情報",
+        "モンハンワイルズ"
       ],
       "articles": [
         {
@@ -189,20 +189,6 @@
           "source": "GameWith",
           "publishedAt": "2026-11-23T23:12:04.000Z",
           "isPR": false
-        },
-        {
-          "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/563077",
-          "source": "GameWith",
-          "publishedAt": "2026-11-23T17:41:19.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/574841",
-          "source": "GameWith",
-          "publishedAt": "2026-11-23T10:09:36.000Z",
-          "isPR": false
         }
       ]
     },
@@ -226,9 +212,9 @@
       ],
       "articles": [
         {
-          "title": "『モンハンライズ』モバイル版が配信開始、Netflix会員向けに提供。スマホでの狩猟をサポートする新機能を搭載（ファミ通.com）",
-          "url": "https://news.yahoo.co.jp/articles/3fa293785339b8461d6d36cf2f3b20b8d13e94f9",
-          "source": "Yahoo!ニュース",
+          "title": "『モンハンライズ』モバイル版が配信開始、Netflix会員向けに提供。スマホでの狩猟をサポートする新機能を搭載",
+          "url": "https://www.famitsu.com/article/202611/95064",
+          "source": "ファミ通",
           "publishedAt": "2026-11-25T10:30:00.000Z",
           "isPR": false
         }
@@ -236,13 +222,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-25T12:00:18.906Z",
-    "previousCount": 62,
-    "newCount": 3
+    "previousAt": "2026-11-25T12:30:25.528Z",
+    "previousCount": 58,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-25T13:00:25.528Z",
+  "nextUpdateAt": "2026-11-25T13:30:15.904Z",
   "items": [
+    {
+      "id": "c5a9ba790304",
+      "title": "【アウトランダーズ】ブリックスの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577456",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-25T11:43:09.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577456.png?date=1790214292",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "d848c47c8e0c",
       "title": "【アウトランダーズ】最強キャラランキング【モンハンアウトランダーズ】",
@@ -255,6 +262,27 @@
       "categories": [
         "guide",
         "sales"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "3c93af39972d",
+      "title": "【アウトランダーズ】ミドリの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577465",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-25T11:33:15.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577465.png?date=1790214699",
+      "categories": [
+        "guide"
       ],
       "series": [
         "outlanders"
@@ -288,13 +316,13 @@
     },
     {
       "id": "2395f3327a21",
-      "title": "『モンハンライズ』モバイル版が配信開始、Netflix会員向けに提供。スマホでの狩猟をサポートする新機能を搭載（ファミ通.com）",
-      "url": "https://news.yahoo.co.jp/articles/3fa293785339b8461d6d36cf2f3b20b8d13e94f9",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "title": "『モンハンライズ』モバイル版が配信開始、Netflix会員向けに提供。スマホでの狩猟をサポートする新機能を搭載",
+      "url": "https://www.famitsu.com/article/202611/95064",
+      "host": "famitsu.com",
+      "source": "ファミ通",
       "summary": "",
       "publishedAt": "2026-11-25T10:30:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261125-00095064-famitsu-000-2-view.jpg?exp=10800",
+      "image": "https://cimg.kgl-systems.io/camion/files/95064/thumbnail_cREo.jpg?x=1280",
       "categories": [
         "other"
       ],
@@ -331,12 +359,33 @@
     {
       "id": "648aa62e18c5",
       "title": "【アウトランダーズ】ルガ・エアルダの弱点と攻略【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/586566",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zMUVrRmdqcXhFTHVEeWlJQnBNVkc2elpXNEJFc1I3amFLWEVDSkp0SFYwYlFyTWIwQUUwMXExd3lKcDJraGE0RlF1OWJVbWVU?oc=5",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-25T10:25:05.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586566.png?date=1793781037",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "140b6b8decfd",
+      "title": "【アウトランダーズ】クレスの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577459",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-25T10:22:11.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577459.png?date=1790214418",
       "categories": [
         "guide"
       ],
@@ -352,12 +401,12 @@
     {
       "id": "2e13886299dc",
       "title": "【アウトランダーズ】主人公のおすすめ武器種と心得｜最強武器種ランキング【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531944",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1aY3EyS1JsbjhEVHBJNkZMQnl2a1JFMFlEb3lFY1RIS0JsSkMzNV80bkhXdGh2WklGOGctN2RIdFBDYjBsdnlPSkN6TEVPcGJl?oc=5",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-25T09:50:27.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531944.png?date=1793082656",
+      "image": "",
       "categories": [
         "guide",
         "sales"
@@ -367,7 +416,7 @@
       ],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
@@ -393,56 +442,14 @@
       "isNew": false
     },
     {
-      "id": "1a84f5bbd0bd",
-      "title": "【モンハンストーリーズ3】アルシュベルドの攻略情報｜出現場所・入手素材【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79852925",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T09:10:00.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2020/01/home_image.png",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "c1ce900bfe63",
-      "title": "【モンハンストーリーズ3】侵獣攻略一覧｜解放できる危惧種まとめ【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79844810",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T08:55:45.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/105921_5y7po.webp",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "c5a9ba790304",
-      "title": "【アウトランダーズ】ブリックスの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577456",
+      "id": "21de9b7fb3e2",
+      "title": "【アウトランダーズ】リュウノスケの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577455",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-25T08:52:09.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577456.png?date=1790214292",
+      "publishedAt": "2026-11-25T09:11:16.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577455.png?date=1790214244",
       "categories": [
         "guide"
       ],
@@ -454,27 +461,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "5cb07b2b0347",
-      "title": "【モンハンストーリーズ3】序盤の効率的な進め方｜押さえておきたいポイントまとめ【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79832135",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T08:51:04.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/135446_cduob.webp",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "96b4d1361268",
@@ -644,48 +630,6 @@
       "isNew": false
     },
     {
-      "id": "e97a50c5c638",
-      "title": "【アウトランダーズ】主人公(太刀)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577470",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-25T06:46:58.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577470.png?date=1790214930",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3c93af39972d",
-      "title": "【アウトランダーズ】ミドリの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577465",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-25T06:46:55.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577465.png?date=1790214699",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "b0b9c4fb9f93",
       "title": "【アウトランダーズ】主人公(ヘビィボウガン)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577467",
@@ -715,48 +659,6 @@
       "summary": "",
       "publishedAt": "2026-11-25T06:46:53.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577464.png?date=1790214658",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "140b6b8decfd",
-      "title": "【アウトランダーズ】クレスの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577459",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-25T06:46:47.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577459.png?date=1790214418",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "21de9b7fb3e2",
-      "title": "【アウトランダーズ】リュウノスケの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577455",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-25T06:46:45.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577455.png?date=1790214244",
       "categories": [
         "guide"
       ],
@@ -875,28 +777,6 @@
       "isNew": false
     },
     {
-      "id": "573c89f6733d",
-      "title": "【モンハンストーリーズ3】最強オトモンランキング【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79852682",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T03:44:20.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/205551_ovsmj.webp",
-      "categories": [
-        "guide",
-        "sales"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "f7b53c6298f3",
       "title": "「モンスターハンター」とコラボ企画 バンタン文化祭2026開催",
       "url": "https://getnews.jp/archives/3757798",
@@ -929,6 +809,27 @@
       ],
       "series": [
         "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "46ab930cbc6c",
+      "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/563077",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-25T00:53:20.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1124,6 +1025,27 @@
       "isNew": false
     },
     {
+      "id": "d3cd7084b2c3",
+      "title": "【モンハンストーリーズ3】最強装備まとめ【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79849634",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-24T11:22:20.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/174453_f690s.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "188cd518008b",
       "title": "【アウトランダーズ】ガチャおすすめと一覧│引くべきガチャ【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/531924",
@@ -1208,6 +1130,27 @@
       "isNew": false
     },
     {
+      "id": "fbd709240fd8",
+      "title": "【モンハンストーリーズ2】レベル上げにおすすめの方法・手順まとめ【MHST2】",
+      "url": "https://appmedia.jp/mhst2/6648013",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-24T06:12:29.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2021/07/cfd34185d634df738c4a56e4eec83502.jpg",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "75bf2f179001",
       "title": "【完全初見】超今更！！モンハンワイルズ！！雷神の狩猟生活五日目 #モンハンワイルズ",
       "url": "https://t.co/aaoEXfU2VW",
@@ -1248,6 +1191,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "aae59a4ec7dd",
+      "title": "【アウトランダーズ】ディアブロスの弱点と攻略【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/585672",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-24T05:04:08.000Z",
+      "image": "",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "ba708ad1ce88",
@@ -1332,27 +1296,6 @@
       "isNew": false
     },
     {
-      "id": "46ab930cbc6c",
-      "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563077",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-23T17:41:19.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "488c58093be3",
       "title": "【アセンダンス】ガンランスの操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/577811",
@@ -1372,6 +1315,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "24797f96cd63",
+      "title": "【アウトランダーズ】デルシャンの性能とおすすめキャラ【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577654",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-23T10:17:45.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577654.png?date=1790215839",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "d605748fb698",
