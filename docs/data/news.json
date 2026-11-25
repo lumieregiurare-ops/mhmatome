@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-25T00:00:16.142Z",
+  "updatedAt": "2026-11-25T00:30:17.120Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 64,
-  "todayCount": 7,
+  "total": 69,
+  "todayCount": 5,
   "categories": [
     {
       "id": "new",
@@ -17,7 +17,7 @@
     {
       "id": "update",
       "label": "アップデート",
-      "count": 0
+      "count": 1
     },
     {
       "id": "event",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 41
+      "count": 46
     },
     {
       "id": "sale",
@@ -57,12 +57,12 @@
     {
       "id": "sales",
       "label": "売上・記録",
-      "count": 3
+      "count": 4
     },
     {
       "id": "other",
       "label": "その他",
-      "count": 18
+      "count": 17
     }
   ],
   "series": [
@@ -89,22 +89,22 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 2
+      "count": 6
     },
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 32
+      "count": 33
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 60
+      "count": 61
     },
     {
       "name": "AppMedia",
-      "count": 2
+      "count": 6
     },
     {
       "name": "finders.me",
@@ -117,12 +117,12 @@
   ],
   "topics": [],
   "churn": {
-    "previousAt": "2026-11-24T23:30:15.428Z",
-    "previousCount": 68,
-    "newCount": 3
+    "previousAt": "2026-11-25T00:00:16.142Z",
+    "previousCount": 64,
+    "newCount": 7
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-25T00:30:16.142Z",
+  "nextUpdateAt": "2026-11-25T01:00:17.120Z",
   "items": [
     {
       "id": "2a17573b9861",
@@ -144,27 +144,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "1522d4cef7f3",
-      "title": "【モンハンストーリーズ3】天変古龍一覧と出現条件【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79838603",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-24T23:22:47.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/191512_qv645.webp",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "3c93af39972d",
@@ -210,27 +189,6 @@
       "isNew": false
     },
     {
-      "id": "f791b5f05428",
-      "title": "【モンハンストーリーズ3】レベル上げの効率的なやり方【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79833866",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-24T18:34:01.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/183830_lg0m4.webp",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "c2e889543125",
       "title": "【アウトランダーズ】絵装の厳選方法とおすすめ効果【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/575851",
@@ -271,6 +229,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "573c89f6733d",
+      "title": "【モンハンストーリーズ3】最強オトモンランキング【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79852682",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-24T14:32:40.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/205551_ovsmj.webp",
+      "categories": [
+        "guide",
+        "sales"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "b7e7b3e1b618",
@@ -376,6 +356,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "ced5755e5db0",
+      "title": "【モンハンストーリーズ3】おすすめオトモン｜進行度別に掲載【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79833716",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-24T12:49:01.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/173337_x0wn3.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "e6d79acfa4bd",
@@ -691,6 +692,27 @@
       "isNew": false
     },
     {
+      "id": "d3cd7084b2c3",
+      "title": "【モンハンストーリーズ3】最強装備まとめ【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79849634",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-24T11:22:20.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/174453_f690s.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "188cd518008b",
       "title": "【アウトランダーズ】ガチャおすすめと一覧│引くべきガチャ【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/531924",
@@ -731,6 +753,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "c1ce900bfe63",
+      "title": "【モンハンストーリーズ3】侵獣攻略一覧｜解放できる危惧種まとめ【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79844810",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-24T09:03:23.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/105921_5y7po.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "d8b95bbbc335",
@@ -794,6 +837,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "fbd709240fd8",
+      "title": "【モンハンストーリーズ2】レベル上げにおすすめの方法・手順まとめ【MHST2】",
+      "url": "https://appmedia.jp/mhst2/6648013",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-24T06:12:29.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2021/07/cfd34185d634df738c4a56e4eec83502.jpg",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "e08e6c8ea2a8",
@@ -1109,6 +1173,27 @@
       "isNew": false
     },
     {
+      "id": "589a08725415",
+      "title": "【アウトランダーズ】アップデート最新情報まとめ【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/587366",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-23T03:04:22.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/587366.png?date=1794371151",
+      "categories": [
+        "update"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "eb7f7ee727a3",
       "title": "【サンブレイク】傀異(怪異)錬成リセマラのやり方 | スキル特化型の解放条件【モンハンライズ】",
       "url": "https://gamewith.jp/mhrize/article/show/352670",
@@ -1253,7 +1338,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c60cda9bca05",
@@ -1338,6 +1423,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "f64870368a23",
+      "title": "【モンハンストーリーズ2】最強オトモンまとめ｜属性別に掲載【MHST2】",
+      "url": "https://appmedia.jp/mhst2/26677399",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-22T06:47:36.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2021/07/8e879b5f3a4979f8a9f6cd734b23fa0f.jpg",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "12d63f7f9732",
