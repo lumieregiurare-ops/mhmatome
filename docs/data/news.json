@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T03:00:19.264Z",
+  "updatedAt": "2026-11-25T03:30:20.409Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 63,
-  "todayCount": 14,
+  "todayCount": 16,
   "categories": [
     {
       "id": "new",
@@ -27,7 +27,7 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 0
+      "count": 1
     },
     {
       "id": "goods",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 18
+      "count": 17
     }
   ],
   "series": [
@@ -89,7 +89,7 @@
     {
       "id": "stories",
       "label": "ストーリーズ",
-      "count": 5
+      "count": 4
     },
     {
       "id": "outlanders",
@@ -104,7 +104,11 @@
     },
     {
       "name": "AppMedia",
-      "count": 5
+      "count": 4
+    },
+    {
+      "name": "Nicheee! （ニッチー！）",
+      "count": 1
     },
     {
       "name": "finders.me",
@@ -113,13 +117,53 @@
   ],
   "topics": [],
   "churn": {
-    "previousAt": "2026-11-25T02:30:19.912Z",
-    "previousCount": 66,
-    "newCount": 3
+    "previousAt": "2026-11-25T03:00:19.264Z",
+    "previousCount": 63,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-25T03:30:19.264Z",
+  "nextUpdateAt": "2026-11-25T04:00:20.409Z",
   "items": [
+    {
+      "id": "f7b53c6298f3",
+      "title": "「モンスターハンター」とコラボ企画 バンタン文化祭2026開催",
+      "url": "http://www.nicheee.com/archives/2590725.html",
+      "host": "nicheee.com",
+      "source": "Nicheee! （ニッチー！）",
+      "summary": "",
+      "publishedAt": "2026-11-25T03:00:15.000Z",
+      "image": "https://livedoor.blogimg.jp/fulltimeblog/imgs/6/f/6f8931f3-s.jpg",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "32957bedf320",
+      "title": "【アウトランダーズ】エンショウの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577460",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-25T02:08:14.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577460.png?date=1790214483",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "d848c47c8e0c",
       "title": "【アウトランダーズ】最強キャラランキング【モンハンアウトランダーズ】",
@@ -132,6 +176,27 @@
       "categories": [
         "guide",
         "sales"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "b0b9c4fb9f93",
+      "title": "【アウトランダーズ】主人公(ヘビィボウガン)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577467",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-25T01:41:37.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577467.png?date=1790214807",
+      "categories": [
+        "guide"
       ],
       "series": [
         "outlanders"
@@ -246,7 +311,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2a17573b9861",
@@ -268,27 +333,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "1522d4cef7f3",
-      "title": "【モンハンストーリーズ3】天変古龍一覧と出現条件【MHST3】",
-      "url": "https://appmedia.jp/mhst3/79838603",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-24T23:22:47.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/03/191512_qv645.webp",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "b76a54b5b309",
@@ -330,7 +374,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3c93af39972d",
@@ -583,27 +627,6 @@
       "isNew": false
     },
     {
-      "id": "b0b9c4fb9f93",
-      "title": "【アウトランダーズ】主人公(ヘビィボウガン)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577467",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-24T11:42:17.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577467.png?date=1790214807",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "620baae43e82",
       "title": "【アウトランダーズ】課金要素まとめとおすすめパック【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/560244",
@@ -612,27 +635,6 @@
       "summary": "",
       "publishedAt": "2026-11-24T11:37:08.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560244.png?date=1793262813",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "32957bedf320",
-      "title": "【アウトランダーズ】エンショウの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577460",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-24T11:33:12.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577460.png?date=1790214483",
       "categories": [
         "guide"
       ],
