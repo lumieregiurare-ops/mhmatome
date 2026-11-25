@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-25T16:30:23.694Z",
+  "updatedAt": "2026-11-25T17:00:19.869Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 58,
-  "todayCount": 0,
+  "total": 57,
+  "todayCount": 2,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 37
+      "count": 35
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 17
+      "count": 18
     }
   ],
   "series": [
@@ -94,13 +94,13 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 31
+      "count": 30
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 46
+      "count": 45
     },
     {
       "name": "AppMedia",
@@ -222,13 +222,76 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-25T16:00:16.135Z",
-    "previousCount": 55,
-    "newCount": 8
+    "previousAt": "2026-11-25T16:30:23.694Z",
+    "previousCount": 58,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-25T17:00:23.694Z",
+  "nextUpdateAt": "2026-11-25T17:30:19.869Z",
   "items": [
+    {
+      "id": "3fd92acbcf5a",
+      "title": "【モンハンストーリーズ2】取り返しのつかない要素【MHST2】",
+      "url": "https://appmedia.jp/mhst2/6589636",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T15:58:51.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2021/06/c1d07259827744cb0d9bce0092a2e8f7.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "335359f79d55",
+      "title": "【モンハンストーリーズ3】生態ランクの効率的な上げ方とメリット【MHST3】",
+      "url": "https://appmedia.jp/mhst3/79835498",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T15:11:05.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/03/132829_c93zd.webp",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "stories"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "ebe0f30bc1c3",
+      "title": "【アウトランダーズ】ルカの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577461",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-25T14:15:09.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577461.png?date=1790214525",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "ec70473e034f",
       "title": "【モンハンストーリーズ2】オトモン図鑑｜タマゴの模様・生息地・所持ライドアクションまとめ【MHST2】",
@@ -248,7 +311,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "188cd518008b",
@@ -259,27 +322,6 @@
       "summary": "",
       "publishedAt": "2026-11-25T13:09:07.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531924.png?date=1793225649",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ebe0f30bc1c3",
-      "title": "【アウトランダーズ】ルカの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577461",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-25T13:04:25.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577461.png?date=1790214525",
       "categories": [
         "guide"
       ],
@@ -375,7 +417,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2a17573b9861",
@@ -504,27 +546,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "43a8a4f07e27",
-      "title": "【アウトランダーズ】融光種ディアブロス亜種の弱点と攻略【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/585662",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-25T11:23:33.000Z",
-      "image": "",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "648aa62e18c5",
@@ -753,28 +774,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "c1ce900bfe63",
-      "title": "【モンハンストーリーズ3】侵獣攻略一覧｜解放できる危惧種まとめ【MHST3】",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE10Y0NtQmxZQUtxT1ZxMGtkUV9sdGRTTHBjcnVnblhGdWJOakt3VGdsRGdZWU5NU21kX09qaDBDYWZNdGtCZEZVcHBB?oc=5",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T08:55:45.000Z",
-      "image": "",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5cb07b2b0347",
@@ -795,7 +795,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "96b4d1361268",
@@ -900,6 +900,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "8dcd7cb0e74b",
+      "title": "【アウトランダーズ】主人公(大剣)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577471",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-25T06:47:02.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577471.png?date=1790214971",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "d1380a6141da",
@@ -1007,27 +1028,6 @@
       "isNew": false
     },
     {
-      "id": "df305938f24a",
-      "title": "【アウトランダーズ】主人公(チャージアックス)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/583503",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-25T06:46:42.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583503.png?date=1792581391",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "087d4277661f",
       "title": "『モンスターハンターライズ』アプリ版が2026年11月24日（火）リリース！アイテムが自動で使用される「リカバリーボタン」が追加",
       "url": "https://gamewith.jp/gamedb/6355/articles/66217",
@@ -1068,27 +1068,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "31a0464673f0",
-      "title": "【モンハンストーリーズ2】共闘探索チケットSRの効率的な入手方法【MHST2】",
-      "url": "https://appmedia.jp/mhst2/6661393",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T03:28:09.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2021/07/fbfb02930f31951f67a4020f6ec34913.jpg",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "stories"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "f7b53c6298f3",
