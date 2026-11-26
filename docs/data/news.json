@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T22:00:15.820Z",
+  "updatedAt": "2026-11-26T22:30:17.163Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -12,7 +12,7 @@
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 5
+      "count": 4
     },
     {
       "id": "update",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 30
+      "count": 29
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 27
+      "count": 28
     }
   ],
   "series": [
@@ -94,20 +94,16 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 28
+      "count": 29
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 44
+      "count": 45
     },
     {
       "name": "ファミ通",
-      "count": 3
-    },
-    {
-      "name": "ガジェット通信",
       "count": 3
     },
     {
@@ -115,11 +111,11 @@
       "count": 2
     },
     {
-      "name": "AppBank",
+      "name": "ガジェット通信",
       "count": 2
     },
     {
-      "name": "AppMedia",
+      "name": "AppBank",
       "count": 2
     },
     {
@@ -151,11 +147,15 @@
       "count": 1
     },
     {
+      "name": "AppMedia",
+      "count": 1
+    },
+    {
       "name": "PR TIMES",
       "count": 1
     },
     {
-      "name": "にじめん",
+      "name": "Excite エキサイト",
       "count": 1
     },
     {
@@ -164,6 +164,10 @@
     },
     {
       "name": "Game*Spark",
+      "count": 1
+    },
+    {
+      "name": "Nicheee! （ニッチー！）",
       "count": 1
     }
   ],
@@ -247,12 +251,48 @@
       ]
     },
     {
+      "id": "91586cd81f91",
+      "title": "『モンスターハンター』バンタン文化祭2026に潜入。謎解きクエストでジンオウガ討伐に挑戦、アイルーの3Dラテアートは思わず撮りたくなるかわいさ",
+      "summary": "",
+      "url": "https://www.famitsu.com/article/202611/94080",
+      "image": "https://cimg.kgl-systems.io/camion/files/94080/thumbnail_hrmq.jpeg?x=1280",
+      "leadSource": "ファミ通",
+      "publishedAt": "2026-11-26T10:40:00.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "other",
+        "collab"
+      ],
+      "keywords": [
+        "バンタン",
+        "文化祭",
+        "謎解"
+      ],
+      "articles": [
+        {
+          "title": "「モンハン」が「バンタン」文化祭とコラボ！ ハイクオリティな謎解きやフードがお目見え",
+          "url": "https://getnews.jp/archives/3758098",
+          "source": "ガジェット通信",
+          "publishedAt": "2026-11-26T10:30:47.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「モンスターハンター」とコラボ企画 バンタン文化祭2026開催",
+          "url": "http://www.nicheee.com/archives/2590725.html",
+          "source": "Nicheee! （ニッチー！）",
+          "publishedAt": "2026-11-25T03:00:54.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "fa9b89464a93",
       "title": "Netflix会員向けに『モンスターハンターライズ』モバイル版が配信開始！スマホ向けにタッチ操作を再構成",
       "summary": "",
-      "url": "https://nijimen.kusuguru.co.jp/topics/668031",
-      "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/9f967fe058824c46ba20ab0cc6c26a75.png",
-      "leadSource": "にじめん",
+      "url": "http://www.excite.co.jp/news/article/Nijimen_0000000000668031/",
+      "image": "https://cimg.kgl-systems.io/camion/files/95064/thumbnail_cREo.jpg?x=1280",
+      "leadSource": "Excite エキサイト",
       "publishedAt": "2026-11-26T02:43:00.000Z",
       "sourceCount": 3,
       "articleCount": 3,
@@ -277,120 +317,6 @@
           "url": "https://www.gamespark.jp/article/2026/11/25/175292.html",
           "source": "Game*Spark",
           "publishedAt": "2026-11-25T09:45:02.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "46ab930cbc6c",
-      "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
-      "summary": "",
-      "url": "https://gamewith.jp/mhwilds/563077",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
-      "leadSource": "GameWith",
-      "publishedAt": "2026-11-26T10:20:12.000Z",
-      "sourceCount": 2,
-      "articleCount": 11,
-      "categories": [
-        "other",
-        "guide"
-      ],
-      "keywords": [
-        "アセンダンス",
-        "モンハンワイルズ",
-        "最新情報"
-      ],
-      "articles": [
-        {
-          "title": "【アセンダンス】大剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/485475",
-          "source": "GameWith",
-          "publishedAt": "2026-11-26T03:07:08.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】双剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/577734",
-          "source": "GameWith",
-          "publishedAt": "2026-11-26T02:55:35.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/575038",
-          "source": "GameWith",
-          "publishedAt": "2026-11-25T23:11:06.000Z",
-          "isPR": false
-        },
-        {
-          "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
-          "url": "https://gamewith.jp/mhwilds/563096",
-          "source": "GameWith",
-          "publishedAt": "2026-11-25T16:58:01.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/563104",
-          "source": "GameWith",
-          "publishedAt": "2026-11-25T15:53:13.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/575036",
-          "source": "GameWith",
-          "publishedAt": "2026-11-25T13:55:03.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】ガンランスの操作と新要素・ブーストアクション【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/577811",
-          "source": "GameWith",
-          "publishedAt": "2026-11-25T13:44:11.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/577281",
-          "source": "GameWith",
-          "publishedAt": "2026-11-25T11:44:23.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "91586cd81f91",
-      "title": "『モンスターハンター』バンタン文化祭2026に潜入。謎解きクエストでジンオウガ討伐に挑戦、アイルーの3Dラテアートは思わず撮りたくなるかわいさ",
-      "summary": "",
-      "url": "https://www.famitsu.com/article/202611/94080",
-      "image": "https://cimg.kgl-systems.io/camion/files/94080/thumbnail_hrmq.jpeg?x=1280",
-      "leadSource": "ファミ通",
-      "publishedAt": "2026-11-26T10:40:00.000Z",
-      "sourceCount": 2,
-      "articleCount": 3,
-      "categories": [
-        "other",
-        "collab"
-      ],
-      "keywords": [
-        "バンタン",
-        "文化祭",
-        "謎解"
-      ],
-      "articles": [
-        {
-          "title": "「モンハン」が「バンタン」文化祭とコラボ！ ハイクオリティな謎解きやフードがお目見え",
-          "url": "https://getnews.jp/archives/3758098",
-          "source": "ガジェット通信",
-          "publishedAt": "2026-11-26T10:30:47.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「モンスターハンター」とコラボ企画 バンタン文化祭2026開催",
-          "url": "https://getnews.jp/archives/3757798",
-          "source": "ガジェット通信",
-          "publishedAt": "2026-11-25T03:00:15.000Z",
           "isPR": false
         }
       ]
@@ -451,12 +377,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-26T21:30:13.939Z",
+    "previousAt": "2026-11-26T22:00:15.820Z",
     "previousCount": 68,
     "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-26T22:30:15.820Z",
+  "nextUpdateAt": "2026-11-26T23:00:17.163Z",
   "items": [
     {
       "id": "0205fd7e36ce",
@@ -541,27 +467,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "df305938f24a",
-      "title": "【アウトランダーズ】主人公(チャージアックス)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/583503",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-26T14:55:27.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583503.png?date=1792581391",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "4d8236f8bea1",
@@ -744,27 +649,6 @@
       "isNew": false
     },
     {
-      "id": "0faedde303b7",
-      "title": "【アウトランダーズ】鋭精武器の入手方法とおすすめ武器種【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/575991",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-26T08:56:58.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575991.png?date=1794028151",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "39696a248b98",
       "title": "2026年10月の国内ゲームアプリ DL数ランキングに『モンハン』新作など登場",
       "url": "https://xtrend.nikkei.com/atcl/contents/18/01276/00015/",
@@ -890,14 +774,14 @@
       "isNew": false
     },
     {
-      "id": "9ad974a0f0ba",
-      "title": "【アウトランダーズ】主人公(弓)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577466",
+      "id": "b0b9c4fb9f93",
+      "title": "【アウトランダーズ】主人公(ヘビィボウガン)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577467",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-26T08:08:26.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577466.png?date=1790214739",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577467.png?date=1790214807",
       "categories": [
         "guide"
       ],
@@ -911,14 +795,14 @@
       "isNew": false
     },
     {
-      "id": "b0b9c4fb9f93",
-      "title": "【アウトランダーズ】主人公(ヘビィボウガン)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577467",
+      "id": "9ad974a0f0ba",
+      "title": "【アウトランダーズ】主人公(弓)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577466",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-26T08:08:26.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577467.png?date=1790214807",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577466.png?date=1790214739",
       "categories": [
         "guide"
       ],
@@ -1246,6 +1130,27 @@
       "isNew": false
     },
     {
+      "id": "da6774683cf4",
+      "title": "【アウトランダーズ】リセマラのやり方と所要時間｜何連引ける？【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531931",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-26T03:17:08.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531931.png?date=1793082187",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "55810afd948e",
       "title": "『モンスターハンターNow』が、なんばの街をジャック。リアルイベント「カーニバル 2026：大阪」現地レポート。巨大ジンオウガが駅前にやってきた",
       "url": "https://automaton-media.com/articles/reportjp/monster-20261126-481016/",
@@ -1328,6 +1233,27 @@
       "isNew": false
     },
     {
+      "id": "648aa62e18c5",
+      "title": "【アウトランダーズ】ルガ・エアルダの弱点と攻略【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/586566",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-26T02:59:23.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586566.png?date=1793781037",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "4cd467a24cc4",
       "title": "【アセンダンス】双剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/577734",
@@ -1351,12 +1277,12 @@
     {
       "id": "fa9b89464a93",
       "title": "Netflix会員向けに『モンスターハンターライズ』モバイル版が配信開始！スマホ向けにタッチ操作を再構成",
-      "url": "https://nijimen.kusuguru.co.jp/topics/668031",
-      "host": "nijimen.kusuguru.co.jp",
-      "source": "にじめん",
+      "url": "http://www.excite.co.jp/news/article/Nijimen_0000000000668031/",
+      "host": "excite.co.jp",
+      "source": "Excite エキサイト",
       "summary": "",
       "publishedAt": "2026-11-26T02:43:00.000Z",
-      "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/9f967fe058824c46ba20ab0cc6c26a75.png",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1431,6 +1357,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "188cd518008b",
+      "title": "【アウトランダーズ】ガチャおすすめと一覧│引くべきガチャ【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531924",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-26T00:57:07.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531924.png?date=1793225649",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "c2e889543125",
@@ -1727,26 +1674,6 @@
       "isNew": false
     },
     {
-      "id": "96b4d1361268",
-      "title": "アセンダンス攻略｜モンハンアセンダンス発売日・最新情報",
-      "url": "https://appmedia.jp/mhwilds/80539066",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T08:44:07.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/095900_rwfub.webp",
-      "categories": [
-        "new",
-        "guide"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "087d4277661f",
       "title": "『モンスターハンターライズ』アプリ版が2026年11月24日（火）リリース！アイテムが自動で使用される「リカバリーボタン」が追加",
       "url": "https://gamewith.jp/gamedb/6355/articles/66217",
@@ -1791,11 +1718,11 @@
     {
       "id": "f7b53c6298f3",
       "title": "「モンスターハンター」とコラボ企画 バンタン文化祭2026開催",
-      "url": "https://getnews.jp/archives/3757798",
-      "host": "getnews.jp",
-      "source": "ガジェット通信",
+      "url": "http://www.nicheee.com/archives/2590725.html",
+      "host": "nicheee.com",
+      "source": "Nicheee! （ニッチー！）",
       "summary": "",
-      "publishedAt": "2026-11-25T03:00:15.000Z",
+      "publishedAt": "2026-11-25T03:00:54.000Z",
       "image": "https://livedoor.blogimg.jp/fulltimeblog/imgs/6/f/6f8931f3-s.jpg",
       "categories": [
         "collab"
