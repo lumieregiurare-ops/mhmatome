@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-26T07:00:16.184Z",
+  "updatedAt": "2026-11-26T07:30:20.347Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 59,
-  "todayCount": 34,
+  "total": 57,
+  "todayCount": 37,
   "categories": [
     {
       "id": "new",
@@ -22,7 +22,7 @@
     {
       "id": "event",
       "label": "イベント・クエスト",
-      "count": 0
+      "count": 1
     },
     {
       "id": "collab",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 28
+      "count": 27
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 25
+      "count": 23
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 22
+      "count": 21
     },
     {
       "id": "rise",
@@ -94,13 +94,17 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 28
+      "count": 27
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 45
+      "count": 42
+    },
+    {
+      "name": "ファミ通",
+      "count": 2
     },
     {
       "name": "インサイド",
@@ -135,10 +139,6 @@
       "count": 1
     },
     {
-      "name": "ファミ通",
-      "count": 1
-    },
-    {
       "name": "Game*Spark",
       "count": 1
     },
@@ -155,12 +155,12 @@
       "url": "https://www.inside-games.jp/article/2026/11/26/191590.html",
       "image": "https://www.inside-games.jp/imgs/rss/1811978.jpg",
       "leadSource": "インサイド",
-      "publishedAt": "2026-11-26T06:45:03.000Z",
-      "sourceCount": 4,
-      "articleCount": 4,
+      "publishedAt": "2026-11-26T07:10:00.000Z",
+      "sourceCount": 6,
+      "articleCount": 6,
       "categories": [
-        "collab",
-        "other"
+        "event",
+        "collab"
       ],
       "keywords": [
         "発売",
@@ -168,6 +168,13 @@
         "ジョッキ"
       ],
       "articles": [
+        {
+          "title": "『モンハンワイルズ』木樽ジョッキが発売。アルシュベルドや調査隊エンブレムをデザイン。大タル爆弾型アイテムBOXが当たるキャンペーンも開催",
+          "url": "https://www.famitsu.com/article/202611/95152",
+          "source": "ファミ通",
+          "publishedAt": "2026-11-26T07:10:00.000Z",
+          "isPR": false
+        },
         {
           "title": "『モンハンワイルズ』の木樽ジョッキが発売。「アルシュベルド」や「調査隊エンブレム」など全5種のデザインがラインナップ",
           "url": "https://news.denfaminicogamer.jp/news/2611262k",
@@ -186,7 +193,14 @@
           "title": "【モンハンワイルズ】Switch2版の発売日はいつ？【モンスターハンターワイルズ】",
           "url": "https://gamewith.jp/mhwilds/563066",
           "source": "GameWith",
-          "publishedAt": "2026-11-24T23:52:10.000Z",
+          "publishedAt": "2026-11-25T10:21:36.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「モンスターハンター」とコラボ企画 バンタン文化祭2026開催",
+          "url": "https://getnews.jp/archives/3757798",
+          "source": "ガジェット通信",
+          "publishedAt": "2026-11-25T03:00:15.000Z",
           "isPR": false
         }
       ]
@@ -219,7 +233,7 @@
         },
         {
           "title": "『モンハンライズ』モバイル版が配信開始、Netflix会員向けに提供。スマホでの狩猟をサポートする新機能を搭載",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LeXBIQ0ZPTVdLVGJkYWw4aHpmN0EteU11MWtCWG0zWWdnOEZfTW1DS25UaFBSYUU1S0VwM3FtZTlHb1VVX0l0bFQ2d0FOdFZTVm5nbU5oNA?oc=5",
+          "url": "https://www.famitsu.com/article/202611/95064",
           "source": "ファミ通",
           "publishedAt": "2026-11-25T10:30:00.000Z",
           "isPR": false
@@ -235,7 +249,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-11-26T03:42:17.000Z",
       "sourceCount": 2,
-      "articleCount": 10,
+      "articleCount": 11,
       "categories": [
         "other",
         "guide"
@@ -246,6 +260,20 @@
         "最新情報"
       ],
       "articles": [
+        {
+          "title": "【アセンダンス】大剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/485475",
+          "source": "GameWith",
+          "publishedAt": "2026-11-26T03:07:08.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】双剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/577734",
+          "source": "GameWith",
+          "publishedAt": "2026-11-26T02:55:35.000Z",
+          "isPR": false
+        },
         {
           "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/575038",
@@ -268,10 +296,10 @@
           "isPR": false
         },
         {
-          "title": "【アセンダンス】護竜リオレイアの最新情報まとめ【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/575037",
+          "title": "【アセンダンス】ガンランスの操作と新要素・ブーストアクション【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/577811",
           "source": "GameWith",
-          "publishedAt": "2026-11-25T12:05:06.000Z",
+          "publishedAt": "2026-11-25T13:44:11.000Z",
           "isPR": false
         },
         {
@@ -286,20 +314,6 @@
           "url": "https://appmedia.jp/mhwilds/80539066",
           "source": "AppMedia",
           "publishedAt": "2026-11-25T08:44:07.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/574841",
-          "source": "GameWith",
-          "publishedAt": "2026-11-25T04:41:08.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/563040",
-          "source": "GameWith",
-          "publishedAt": "2026-11-24T08:42:34.000Z",
           "isPR": false
         }
       ]
@@ -334,13 +348,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-26T06:30:18.511Z",
-    "previousCount": 57,
-    "newCount": 7
+    "previousAt": "2026-11-26T07:00:16.184Z",
+    "previousCount": 59,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-26T07:30:16.184Z",
+  "nextUpdateAt": "2026-11-26T08:00:20.347Z",
   "items": [
+    {
+      "id": "6800a7b9298a",
+      "title": "『モンハンワイルズ』木樽ジョッキが発売。アルシュベルドや調査隊エンブレムをデザイン。大タル爆弾型アイテムBOXが当たるキャンペーンも開催",
+      "url": "https://www.famitsu.com/article/202611/95152",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-11-26T07:10:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/95152/thumbnail_lTyM.jpg?x=1280",
+      "categories": [
+        "event"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "90a584ed74d9",
       "title": "『モンハンワイルズ』木樽ジョッキが発売！ アルシュベルド、オトモアイルーデザインの「ぷっくり箔」に触れて楽しめる",
@@ -360,7 +395,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "420c9a46d25d",
@@ -381,7 +416,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3aaab509971d",
@@ -444,7 +479,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3c93af39972d",
@@ -457,6 +492,28 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577465.png?date=1790214699",
       "categories": [
         "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "2e13886299dc",
+      "title": "【アウトランダーズ】主人公のおすすめ武器種と心得｜最強武器種ランキング【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531944",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-26T03:56:13.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531944.png?date=1793082656",
+      "categories": [
+        "guide",
+        "sales"
       ],
       "series": [
         "outlanders"
@@ -550,6 +607,27 @@
       "isNew": false
     },
     {
+      "id": "40bccce677c8",
+      "title": "【アセンダンス】大剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/485475",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-26T03:07:08.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485475.png?date=1789753003",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "785e2df10dff",
       "title": "「モンスターハンターワイルズ」の世界観をその手に！見て、触れて楽しむ《ぷっくり箔 木樽ジョッキ》新発売！",
       "url": "https://www.iza.ne.jp/pressrelease/prtimes/EXW44GWTENKHZFMSM22TATPWHA/",
@@ -568,7 +646,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "648aa62e18c5",
@@ -605,6 +683,27 @@
       ],
       "series": [
         "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "4cd467a24cc4",
+      "title": "【アセンダンス】双剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/577734",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-26T02:55:35.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577734.png?date=1789765976",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -781,14 +880,14 @@
       "isNew": false
     },
     {
-      "id": "620baae43e82",
-      "title": "【アウトランダーズ】課金要素まとめとおすすめパック【モンハンアウトランダーズ】",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Zc0tuVFJ4cGMwNXdqaDM0TFpVcDZ5VnlPMXdvVnYtNkR6NjFFd0llMUlaV05sR3ZBY2Qzc1pyeTZPcl8wTFhnLWs3ZG1Lazhv?oc=5",
+      "id": "27a4249eeeed",
+      "title": "【アウトランダーズ】マドレの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577464",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-26T01:05:14.000Z",
-      "image": "",
+      "publishedAt": "2026-11-26T01:14:10.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577464.png?date=1790214658",
       "categories": [
         "guide"
       ],
@@ -797,7 +896,28 @@
       ],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "620baae43e82",
+      "title": "【アウトランダーズ】課金要素まとめとおすすめパック【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/560244",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-26T01:05:14.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560244.png?date=1793262813",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
@@ -831,28 +951,6 @@
       "summary": "",
       "publishedAt": "2026-11-26T00:45:04.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531927.png?date=1793082334",
-      "categories": [
-        "guide",
-        "sales"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "2e13886299dc",
-      "title": "【アウトランダーズ】主人公のおすすめ武器種と心得｜最強武器種ランキング【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531944",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-26T00:32:09.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531944.png?date=1793082656",
       "categories": [
         "guide",
         "sales"
@@ -1033,27 +1131,6 @@
       "isNew": false
     },
     {
-      "id": "27a4249eeeed",
-      "title": "【アウトランダーズ】マドレの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577464",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-25T15:30:11.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577464.png?date=1790214658",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "f4f222ac2e2d",
       "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/575036",
@@ -1062,6 +1139,27 @@
       "summary": "",
       "publishedAt": "2026-11-25T13:55:03.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575036.png?date=1789770113",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "488c58093be3",
+      "title": "【アセンダンス】ガンランスの操作と新要素・ブーストアクション【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/577811",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-25T13:44:11.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577811.png?date=1789764143",
       "categories": [
         "other"
       ],
@@ -1138,27 +1236,6 @@
       "isNew": false
     },
     {
-      "id": "b5d6fe40ab2e",
-      "title": "【アセンダンス】護竜リオレイアの最新情報まとめ【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/575037",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-25T12:05:06.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575037.png?date=1789770931",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "778fbb3d5344",
       "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/577281",
@@ -1178,27 +1255,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "979ad3a87c4b",
-      "title": "【アウトランダーズ】マスター闘技場第2期の攻略｜おすすめ編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/587010",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-25T11:24:11.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/587010.png?date=1794213273",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "aae59a4ec7dd",
@@ -1240,17 +1296,17 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2395f3327a21",
       "title": "『モンハンライズ』モバイル版が配信開始、Netflix会員向けに提供。スマホでの狩猟をサポートする新機能を搭載",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LeXBIQ0ZPTVdLVGJkYWw4aHpmN0EteU11MWtCWG0zWWdnOEZfTW1DS25UaFBSYUU1S0VwM3FtZTlHb1VVX0l0bFQ2d0FOdFZTVm5nbU5oNA?oc=5",
+      "url": "https://www.famitsu.com/article/202611/95064",
       "host": "famitsu.com",
       "source": "ファミ通",
       "summary": "",
       "publishedAt": "2026-11-25T10:30:00.000Z",
-      "image": "",
+      "image": "https://cimg.kgl-systems.io/camion/files/95064/thumbnail_cREo.jpg?x=1280",
       "categories": [
         "other"
       ],
@@ -1259,7 +1315,28 @@
       ],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "f529da9f5ece",
+      "title": "【モンハンワイルズ】Switch2版の発売日はいつ？【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/563066",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-25T10:21:36.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563066.png?date=1780886791",
+      "categories": [
+        "new"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
@@ -1347,27 +1424,6 @@
       "isNew": false
     },
     {
-      "id": "40bccce677c8",
-      "title": "【アセンダンス】大剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/485475",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-25T03:26:16.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/485475.png?date=1789753003",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "f7b53c6298f3",
       "title": "「モンスターハンター」とコラボ企画 バンタン文化祭2026開催",
       "url": "https://getnews.jp/archives/3757798",
@@ -1380,69 +1436,6 @@
         "collab"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f529da9f5ece",
-      "title": "【モンハンワイルズ】Switch2版の発売日はいつ？【モンスターハンターワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563066",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-24T23:52:10.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563066.png?date=1780886791",
-      "categories": [
-        "new"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4cd467a24cc4",
-      "title": "【アセンダンス】双剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/577734",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-24T17:53:25.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577734.png?date=1789765976",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d8b95bbbc335",
-      "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563040",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-24T08:42:34.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563040.png?date=1789770455",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1532,27 +1525,6 @@
       "isNew": false
     },
     {
-      "id": "488c58093be3",
-      "title": "【アセンダンス】ガンランスの操作と新要素・ブーストアクション【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/577811",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-23T15:21:20.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577811.png?date=1789764143",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "4d347bcffd72",
       "title": "【モンハンワイルズ】一夜花の月華粉の場所と使い道【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/487905",
@@ -1571,7 +1543,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     }
   ]
 }
