@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-26T06:30:18.511Z",
+  "updatedAt": "2026-11-26T07:00:16.184Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 57,
-  "todayCount": 29,
+  "total": 59,
+  "todayCount": 34,
   "categories": [
     {
       "id": "new",
@@ -17,7 +17,7 @@
     {
       "id": "update",
       "label": "アップデート",
-      "count": 0
+      "count": 1
     },
     {
       "id": "event",
@@ -27,7 +27,7 @@
     {
       "id": "collab",
       "label": "コラボ",
-      "count": 1
+      "count": 2
     },
     {
       "id": "goods",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 31
+      "count": 28
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 22
+      "count": 25
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 18
+      "count": 22
     },
     {
       "id": "rise",
@@ -94,13 +94,17 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 30
+      "count": 28
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 46
+      "count": 45
+    },
+    {
+      "name": "インサイド",
+      "count": 2
     },
     {
       "name": "AppMedia",
@@ -111,6 +115,10 @@
       "count": 2
     },
     {
+      "name": "AppBank",
+      "count": 1
+    },
+    {
       "name": "電ファミニコゲーマー",
       "count": 1
     },
@@ -119,11 +127,11 @@
       "count": 1
     },
     {
-      "name": "ニコニコニュース",
+      "name": "イザ！",
       "count": 1
     },
     {
-      "name": "インサイド",
+      "name": "ニコニコニュース",
       "count": 1
     },
     {
@@ -140,6 +148,49 @@
     }
   ],
   "topics": [
+    {
+      "id": "90a584ed74d9",
+      "title": "『モンハンワイルズ』木樽ジョッキが発売！ アルシュベルド、オトモアイルーデザインの「ぷっくり箔」に触れて楽しめる",
+      "summary": "URAKITA工房が『モンスターハンターワイルズ』コラボの「ぷっくり箔 木樽ジョッキ」を発売",
+      "url": "https://www.inside-games.jp/article/2026/11/26/191590.html",
+      "image": "https://www.inside-games.jp/imgs/rss/1811978.jpg",
+      "leadSource": "インサイド",
+      "publishedAt": "2026-11-26T06:45:03.000Z",
+      "sourceCount": 4,
+      "articleCount": 4,
+      "categories": [
+        "collab",
+        "other"
+      ],
+      "keywords": [
+        "発売",
+        "モンハンワイルズ",
+        "ジョッキ"
+      ],
+      "articles": [
+        {
+          "title": "『モンハンワイルズ』の木樽ジョッキが発売。「アルシュベルド」や「調査隊エンブレム」など全5種のデザインがラインナップ",
+          "url": "https://news.denfaminicogamer.jp/news/2611262k",
+          "source": "電ファミニコゲーマー",
+          "publishedAt": "2026-11-26T05:51:43.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「モンスターハンターワイルズ」の世界観をその手に！見て、触れて楽しむ《ぷっくり箔 木樽ジョッキ》新発売！",
+          "url": "https://www.iza.ne.jp/pressrelease/prtimes/EXW44GWTENKHZFMSM22TATPWHA/",
+          "source": "イザ！",
+          "publishedAt": "2026-11-26T03:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】Switch2版の発売日はいつ？【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563066",
+          "source": "GameWith",
+          "publishedAt": "2026-11-24T23:52:10.000Z",
+          "isPR": false
+        }
+      ]
+    },
     {
       "id": "f4dcf06f9b2a",
       "title": "『モンスターハンターライズ』iOS/Android版Netflix会員向けに配信開始。スマホでも一狩り行こうぜ！",
@@ -168,7 +219,7 @@
         },
         {
           "title": "『モンハンライズ』モバイル版が配信開始、Netflix会員向けに提供。スマホでの狩猟をサポートする新機能を搭載",
-          "url": "https://www.famitsu.com/article/202611/95064",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LeXBIQ0ZPTVdLVGJkYWw4aHpmN0EteU11MWtCWG0zWWdnOEZfTW1DS25UaFBSYUU1S0VwM3FtZTlHb1VVX0l0bFQ2d0FOdFZTVm5nbU5oNA?oc=5",
           "source": "ファミ通",
           "publishedAt": "2026-11-25T10:30:00.000Z",
           "isPR": false
@@ -176,71 +227,162 @@
       ]
     },
     {
-      "id": "3aaab509971d",
-      "title": "『モンハンワイルズ』の木樽ジョッキが発売。「アルシュベルド」や「調査隊エンブレム」など全5種のデザインがラインナップ",
-      "summary": "11月26日、株式会社愛鷹製作所が展開する「URAKITA工房」は、「『モンスターハンターワイルズ』《ぷっくり箔 木樽ジョッキ》」の販売を開始した。 同商品は、国産天然木を組み上げた木樽ジョッキに、指先で触れて楽しめる特殊な装飾加工「ぷっくり箔」を施した、『モンスターハンターワイルズ』の世界観を取り入れたアイテムだ。",
-      "url": "https://news.denfaminicogamer.jp/news/2611262k",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/main-73-1024x576.jpg",
-      "leadSource": "電ファミニコゲーマー",
-      "publishedAt": "2026-11-26T05:51:43.000Z",
+      "id": "46ab930cbc6c",
+      "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
+      "summary": "",
+      "url": "https://gamewith.jp/mhwilds/563077",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
+      "leadSource": "GameWith",
+      "publishedAt": "2026-11-26T03:42:17.000Z",
       "sourceCount": 2,
-      "articleCount": 2,
+      "articleCount": 10,
       "categories": [
         "other",
-        "new"
-      ],
-      "keywords": [
-        "モンハンワイルズ",
-        "発売"
-      ],
-      "articles": [
-        {
-          "title": "【モンハンワイルズ】Switch2版の発売日はいつ？【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/563066",
-          "source": "GameWith",
-          "publishedAt": "2026-11-24T23:52:10.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "e6d79acfa4bd",
-      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
-      "summary": "",
-      "url": "https://gamewith.jp/mhwilds/563096",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
-      "leadSource": "GameWith",
-      "publishedAt": "2026-11-25T16:58:01.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "guide",
-        "new"
+        "guide"
       ],
       "keywords": [
         "アセンダンス",
-        "モンハンアセンダンス",
-        "攻略"
+        "モンハンワイルズ",
+        "最新情報"
       ],
       "articles": [
+        {
+          "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/575038",
+          "source": "GameWith",
+          "publishedAt": "2026-11-25T23:11:06.000Z",
+          "isPR": false
+        },
+        {
+          "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
+          "url": "https://gamewith.jp/mhwilds/563096",
+          "source": "GameWith",
+          "publishedAt": "2026-11-25T16:58:01.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/575036",
+          "source": "GameWith",
+          "publishedAt": "2026-11-25T13:55:03.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】護竜リオレイアの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/575037",
+          "source": "GameWith",
+          "publishedAt": "2026-11-25T12:05:06.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/577281",
+          "source": "GameWith",
+          "publishedAt": "2026-11-25T11:44:23.000Z",
+          "isPR": false
+        },
         {
           "title": "アセンダンス攻略｜モンハンアセンダンス発売日・最新情報",
           "url": "https://appmedia.jp/mhwilds/80539066",
           "source": "AppMedia",
           "publishedAt": "2026-11-25T08:44:07.000Z",
           "isPR": false
+        },
+        {
+          "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/574841",
+          "source": "GameWith",
+          "publishedAt": "2026-11-25T04:41:08.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】ラオシャンロンの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563040",
+          "source": "GameWith",
+          "publishedAt": "2026-11-24T08:42:34.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "420c9a46d25d",
+      "title": "土佐兄弟がSwitch 2版『ドラゴンズドグマ 2：ダークアリズン』『モンスターハンターワイルズ』に挑戦！ カプコンTVチャレンジ!!が11月26日よる8時配信",
+      "summary": "",
+      "url": "https://www.appbank.net/2026/11/26/game/3178260.php",
+      "image": "https://www.appbank.net/wp-content/uploads/2026/11/20261126_121510_454_01.webp",
+      "leadSource": "AppBank",
+      "publishedAt": "2026-11-26T06:34:45.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "モンスターハンターワイルズ",
+        "カプコン",
+        "ドラゴンズドグマ"
+      ],
+      "articles": [
+        {
+          "title": "「カプコンTVチャレンジ!!」11月26日(木)よる8時配信決定！ 『ドラゴンズドグマ 2：ダークアリズン』と『モンスターハンターワイルズ』をNintendo Switch 2 版でプレイ!!",
+          "url": "https://www.inside-games.jp/release/prtimes/20261126/320228.html",
+          "source": "インサイド",
+          "publishedAt": "2026-11-26T02:00:00.000Z",
+          "isPR": false
         }
       ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-26T06:00:19.489Z",
-    "previousCount": 59,
-    "newCount": 0
+    "previousAt": "2026-11-26T06:30:18.511Z",
+    "previousCount": 57,
+    "newCount": 7
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-26T07:00:18.511Z",
+  "nextUpdateAt": "2026-11-26T07:30:16.184Z",
   "items": [
+    {
+      "id": "90a584ed74d9",
+      "title": "『モンハンワイルズ』木樽ジョッキが発売！ アルシュベルド、オトモアイルーデザインの「ぷっくり箔」に触れて楽しめる",
+      "url": "https://www.inside-games.jp/article/2026/11/26/191590.html",
+      "host": "inside-games.jp",
+      "source": "インサイド",
+      "summary": "URAKITA工房が『モンスターハンターワイルズ』コラボの「ぷっくり箔 木樽ジョッキ」を発売",
+      "publishedAt": "2026-11-26T06:45:03.000Z",
+      "image": "https://www.inside-games.jp/imgs/rss/1811978.jpg",
+      "categories": [
+        "collab"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "420c9a46d25d",
+      "title": "土佐兄弟がSwitch 2版『ドラゴンズドグマ 2：ダークアリズン』『モンスターハンターワイルズ』に挑戦！ カプコンTVチャレンジ!!が11月26日よる8時配信",
+      "url": "https://www.appbank.net/2026/11/26/game/3178260.php",
+      "host": "appbank.net",
+      "source": "AppBank",
+      "summary": "",
+      "publishedAt": "2026-11-26T06:34:45.000Z",
+      "image": "https://www.appbank.net/wp-content/uploads/2026/11/20261126_121510_454_01.webp",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "3aaab509971d",
       "title": "『モンハンワイルズ』の木樽ジョッキが発売。「アルシュベルド」や「調査隊エンブレム」など全5種のデザインがラインナップ",
@@ -284,6 +426,27 @@
       "isNew": false
     },
     {
+      "id": "0faedde303b7",
+      "title": "【アウトランダーズ】鋭精武器の入手方法とおすすめ武器種【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/575991",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-26T04:42:17.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575991.png?date=1794028151",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "3c93af39972d",
       "title": "【アウトランダーズ】ミドリの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577465",
@@ -318,6 +481,27 @@
       ],
       "series": [
         "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "46ab930cbc6c",
+      "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/563077",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-26T03:42:17.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -366,19 +550,61 @@
       "isNew": false
     },
     {
-      "id": "4cd467a24cc4",
-      "title": "【アセンダンス】双剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/577734",
-      "host": "gamewith.jp",
-      "source": "GameWith",
+      "id": "785e2df10dff",
+      "title": "「モンスターハンターワイルズ」の世界観をその手に！見て、触れて楽しむ《ぷっくり箔 木樽ジョッキ》新発売！",
+      "url": "https://www.iza.ne.jp/pressrelease/prtimes/EXW44GWTENKHZFMSM22TATPWHA/",
+      "host": "iza.ne.jp",
+      "source": "イザ！",
       "summary": "",
-      "publishedAt": "2026-11-26T02:55:35.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577734.png?date=1789765976",
+      "publishedAt": "2026-11-26T03:00:00.000Z",
+      "image": "https://www.iza.ne.jp/common/images/ogp_default_iza.png",
       "categories": [
         "other"
       ],
       "series": [
         "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "648aa62e18c5",
+      "title": "【アウトランダーズ】ルガ・エアルダの弱点と攻略【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/586566",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-26T02:59:23.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586566.png?date=1793781037",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "b7e7b3e1b618",
+      "title": "【アウトランダーズ】ヘイズの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/583505",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-26T02:59:17.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583505.png?date=1792581250",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -557,12 +783,12 @@
     {
       "id": "620baae43e82",
       "title": "【アウトランダーズ】課金要素まとめとおすすめパック【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/560244",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Zc0tuVFJ4cGMwNXdqaDM0TFpVcDZ5VnlPMXdvVnYtNkR6NjFFd0llMUlaV05sR3ZBY2Qzc1pyeTZPcl8wTFhnLWs3ZG1Lazhv?oc=5",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-26T01:05:14.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560244.png?date=1793262813",
+      "image": "",
       "categories": [
         "guide"
       ],
@@ -571,7 +797,7 @@
       ],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
@@ -607,27 +833,6 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531927.png?date=1793082334",
       "categories": [
         "guide",
-        "sales"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4d8236f8bea1",
-      "title": "【アウトランダーズ】リセマラ当たりランキング【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531925",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-26T00:32:23.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531925.png?date=1793082273",
-      "categories": [
         "sales"
       ],
       "series": [
@@ -704,6 +909,27 @@
       "isNew": false
     },
     {
+      "id": "411bb4076b94",
+      "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/575038",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-25T23:11:06.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575038.png?date=1789770323",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "c79b0d1709be",
       "title": "【アウトランダーズ】序盤おすすめ装備【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/581392",
@@ -746,16 +972,16 @@
       "isNew": false
     },
     {
-      "id": "140b6b8decfd",
-      "title": "【アウトランダーズ】クレスの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577459",
+      "id": "4d8236f8bea1",
+      "title": "【アウトランダーズ】リセマラ当たりランキング【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/531925",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-25T19:02:38.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577459.png?date=1790214418",
+      "publishedAt": "2026-11-25T20:09:24.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531925.png?date=1793082273",
       "categories": [
-        "guide"
+        "sales"
       ],
       "series": [
         "outlanders"
@@ -767,14 +993,14 @@
       "isNew": false
     },
     {
-      "id": "648aa62e18c5",
-      "title": "【アウトランダーズ】ルガ・エアルダの弱点と攻略【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/586566",
+      "id": "140b6b8decfd",
+      "title": "【アウトランダーズ】クレスの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577459",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-25T17:50:50.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586566.png?date=1793781037",
+      "publishedAt": "2026-11-25T19:02:38.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577459.png?date=1790214418",
       "categories": [
         "guide"
       ],
@@ -807,27 +1033,6 @@
       "isNew": false
     },
     {
-      "id": "46ab930cbc6c",
-      "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/563077",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-25T16:54:13.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563077.png?date=1789769506",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "27a4249eeeed",
       "title": "【アウトランダーズ】マドレの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577464",
@@ -836,27 +1041,6 @@
       "summary": "",
       "publishedAt": "2026-11-25T15:30:11.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577464.png?date=1790214658",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "b7e7b3e1b618",
-      "title": "【アウトランダーズ】ヘイズの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/583505",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-25T14:14:11.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583505.png?date=1792581250",
       "categories": [
         "guide"
       ],
@@ -954,6 +1138,27 @@
       "isNew": false
     },
     {
+      "id": "b5d6fe40ab2e",
+      "title": "【アセンダンス】護竜リオレイアの最新情報まとめ【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/575037",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-25T12:05:06.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575037.png?date=1789770931",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "778fbb3d5344",
       "title": "【アセンダンス】テオテスカトルの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/577281",
@@ -973,6 +1178,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "979ad3a87c4b",
+      "title": "【アウトランダーズ】マスター闘技場第2期の攻略｜おすすめ編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/587010",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-25T11:24:11.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/587010.png?date=1794213273",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "aae59a4ec7dd",
@@ -996,14 +1222,35 @@
       "isNew": false
     },
     {
+      "id": "589a08725415",
+      "title": "【アウトランダーズ】アップデート最新情報まとめ【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/587366",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-25T11:19:16.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/587366.png?date=1794371151",
+      "categories": [
+        "update"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "2395f3327a21",
       "title": "『モンハンライズ』モバイル版が配信開始、Netflix会員向けに提供。スマホでの狩猟をサポートする新機能を搭載",
-      "url": "https://www.famitsu.com/article/202611/95064",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LeXBIQ0ZPTVdLVGJkYWw4aHpmN0EteU11MWtCWG0zWWdnOEZfTW1DS25UaFBSYUU1S0VwM3FtZTlHb1VVX0l0bFQ2d0FOdFZTVm5nbU5oNA?oc=5",
       "host": "famitsu.com",
       "source": "ファミ通",
       "summary": "",
       "publishedAt": "2026-11-25T10:30:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/95064/thumbnail_cREo.jpg?x=1280",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1012,7 +1259,7 @@
       ],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
@@ -1051,111 +1298,6 @@
         "guide"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "8dcd7cb0e74b",
-      "title": "【アウトランダーズ】主人公(大剣)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577471",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-25T06:47:02.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577471.png?date=1790214971",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d1380a6141da",
-      "title": "【アウトランダーズ】主人公(ランス)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577468",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-25T06:46:58.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577468.png?date=1790214845",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "521fd963ac23",
-      "title": "【アウトランダーズ】フォリオの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577462",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-25T06:46:50.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577462.png?date=1790214565",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "24484d2a1bbd",
-      "title": "【アウトランダーズ】ロードの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/583506",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-25T06:46:45.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583506.png?date=1792581205",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "0205fd7e36ce",
-      "title": "【アウトランダーズ】主人公(ハンマー)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/583504",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-25T06:46:42.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583504.png?date=1792581337",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1266,14 +1408,14 @@
       "isNew": false
     },
     {
-      "id": "411bb4076b94",
-      "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/575038",
+      "id": "4cd467a24cc4",
+      "title": "【アセンダンス】双剣の操作と新要素・ブーストアクション【モンハンワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/577734",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-24T22:12:22.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575038.png?date=1789770323",
+      "publishedAt": "2026-11-24T17:53:25.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577734.png?date=1789765976",
       "categories": [
         "other"
       ],
@@ -1411,14 +1553,14 @@
       "isNew": false
     },
     {
-      "id": "b5d6fe40ab2e",
-      "title": "【アセンダンス】護竜リオレイアの最新情報まとめ【モンハンワイルズ】",
-      "url": "https://gamewith.jp/mhwilds/575037",
+      "id": "4d347bcffd72",
+      "title": "【モンハンワイルズ】一夜花の月華粉の場所と使い道【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/487905",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-23T07:05:13.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575037.png?date=1789770931",
+      "publishedAt": "2026-11-23T11:40:21.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/487905.png?date=1741656883",
       "categories": [
         "other"
       ],
@@ -1429,7 +1571,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     }
   ]
 }
