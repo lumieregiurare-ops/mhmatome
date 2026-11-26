@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-26T17:30:20.087Z",
+  "updatedAt": "2026-11-26T18:00:15.150Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 65,
+  "total": 66,
   "todayCount": 1,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 29
+      "count": 30
     },
     {
       "id": "sale",
@@ -94,13 +94,13 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 28
+      "count": 29
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 42
+      "count": 43
     },
     {
       "name": "ファミ通",
@@ -443,12 +443,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-26T17:00:16.561Z",
-    "previousCount": 66,
-    "newCount": 2
+    "previousAt": "2026-11-26T17:30:20.087Z",
+    "previousCount": 65,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-26T18:00:20.087Z",
+  "nextUpdateAt": "2026-11-26T18:30:15.150Z",
   "items": [
     {
       "id": "785e2df10dff",
@@ -464,6 +464,27 @@
       ],
       "series": [
         "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "df305938f24a",
+      "title": "【アウトランダーズ】主人公(チャージアックス)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/583503",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-26T14:55:27.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583503.png?date=1792581391",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -670,7 +691,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ebe0a77e5b92",
@@ -1030,27 +1051,6 @@
       "isNew": false
     },
     {
-      "id": "df305938f24a",
-      "title": "【アウトランダーズ】主人公(チャージアックス)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/583503",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-26T08:08:12.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583503.png?date=1792581391",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "7d288ff90910",
       "title": "モンスターハンター 捕獲し隊4の設置場所・発売日・ラインナップ｜ガチャガチャ",
       "url": "https://charagoo.jp/gacha/item/819871da58d2/",
@@ -1277,6 +1277,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "648aa62e18c5",
+      "title": "【アウトランダーズ】ルガ・エアルダの弱点と攻略【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/586566",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-26T02:59:23.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586566.png?date=1793781037",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "4cd467a24cc4",
