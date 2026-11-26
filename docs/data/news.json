@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T20:30:18.811Z",
+  "updatedAt": "2026-11-26T21:00:14.168Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 68,
-  "todayCount": 4,
+  "todayCount": 3,
   "categories": [
     {
       "id": "new",
@@ -69,7 +69,7 @@
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 24
+      "count": 25
     },
     {
       "id": "rise",
@@ -94,13 +94,13 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 29
+      "count": 28
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 44
+      "count": 43
     },
     {
       "name": "ファミ通",
@@ -136,6 +136,10 @@
     },
     {
       "name": "リアルサウンド",
+      "count": 1
+    },
+    {
+      "name": "ライブドアニュース",
       "count": 1
     },
     {
@@ -175,33 +179,19 @@
       "url": "https://www.inside-games.jp/article/2026/11/26/191590.html",
       "image": "https://www.inside-games.jp/imgs/rss/1811978.jpg",
       "leadSource": "インサイド",
-      "publishedAt": "2026-11-26T08:15:19.000Z",
-      "sourceCount": 7,
-      "articleCount": 8,
+      "publishedAt": "2026-11-26T07:10:00.000Z",
+      "sourceCount": 5,
+      "articleCount": 6,
       "categories": [
-        "other",
-        "event"
+        "event",
+        "collab"
       ],
       "keywords": [
-        "ジョッキ",
-        "木樽",
-        "発売"
+        "モンハンワイルズ",
+        "発売",
+        "ジョッキ"
       ],
       "articles": [
-        {
-          "title": "『モンスターハンターワイルズ』の木樽ジョッキが登場 ハンターのように豪快に呑んでみよう",
-          "url": "https://realsound.jp/tech/2026/11/post-2595444.html/amp",
-          "source": "リアルサウンド",
-          "publishedAt": "2026-11-26T08:15:19.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『モンスターハンターワイルズ』の「ぷっくり箔 木樽ジョッキ」が11月26日発売！ 全5デザイン・2サイズ",
-          "url": "https://www.appbank.net/2026/11/26/goods-books/3178369.php",
-          "source": "AppBank",
-          "publishedAt": "2026-11-26T08:02:29.000Z",
-          "isPR": false
-        },
         {
           "title": "『モンハンワイルズ』木樽ジョッキが発売。アルシュベルドや調査隊エンブレムをデザイン。大タル爆弾型アイテムBOXが当たるキャンペーンも開催",
           "url": "https://www.famitsu.com/article/202611/95152",
@@ -235,6 +225,41 @@
           "url": "https://gamewith.jp/mhwilds/563066",
           "source": "GameWith",
           "publishedAt": "2026-11-25T10:21:36.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "ebe0a77e5b92",
+      "title": "『モンスターハンターワイルズ』の木樽ジョッキが登場 ハンターのように豪快に呑んでみよう",
+      "summary": "",
+      "url": "https://realsound.jp/tech/2026/11/post-2595444.html/amp",
+      "image": "https://realsound.jp/wp-content/uploads/2026/11/20261126-urakita-99.jpeg",
+      "leadSource": "リアルサウンド",
+      "publishedAt": "2026-11-26T08:15:19.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "モンスターハンターワイルズ",
+        "ジョッキ",
+        "ハンター"
+      ],
+      "articles": [
+        {
+          "title": "【画像】『モンスターハンターワイルズ』の木樽ジョッキが登場 ハンターのように豪快に呑んでみよう",
+          "url": "https://news.livedoor.com/article/image_detail/32908133/?img_id",
+          "source": "ライブドアニュース",
+          "publishedAt": "2026-11-26T08:15:19.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『モンスターハンターワイルズ』の「ぷっくり箔 木樽ジョッキ」が11月26日発売！ 全5デザイン・2サイズ",
+          "url": "https://www.appbank.net/2026/11/26/goods-books/3178369.php",
+          "source": "AppBank",
+          "publishedAt": "2026-11-26T08:02:29.000Z",
           "isPR": false
         }
       ]
@@ -444,34 +469,13 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-26T20:00:20.560Z",
+    "previousAt": "2026-11-26T20:30:18.811Z",
     "previousCount": 68,
-    "newCount": 0
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-26T21:00:18.811Z",
+  "nextUpdateAt": "2026-11-26T21:30:14.168Z",
   "items": [
-    {
-      "id": "0205fd7e36ce",
-      "title": "【アウトランダーズ】主人公(ハンマー)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/583504",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-26T19:12:05.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583504.png?date=1792581337",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
     {
       "id": "3c93af39972d",
       "title": "【アウトランダーズ】ミドリの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
@@ -534,6 +538,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "df305938f24a",
+      "title": "【アウトランダーズ】主人公(チャージアックス)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/583503",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-26T14:55:27.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583503.png?date=1792581391",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "4d8236f8bea1",
@@ -716,6 +741,27 @@
       "isNew": false
     },
     {
+      "id": "0faedde303b7",
+      "title": "【アウトランダーズ】鋭精武器の入手方法とおすすめ武器種【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/575991",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-26T08:56:58.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575991.png?date=1794028151",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "39696a248b98",
       "title": "2026年10月の国内ゲームアプリ DL数ランキングに『モンハン』新作など登場",
       "url": "https://xtrend.nikkei.com/atcl/contents/18/01276/00015/",
@@ -755,6 +801,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "ad351127694d",
+      "title": "【画像】『モンスターハンターワイルズ』の木樽ジョッキが登場 ハンターのように豪快に呑んでみよう",
+      "url": "https://news.livedoor.com/article/image_detail/32908133/?img_id",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
+      "summary": "",
+      "publishedAt": "2026-11-26T08:15:19.000Z",
+      "image": "https://image.news.livedoor.com/newsimage/stf/2/1/2120f_1830_f4fea537_9eaaba0a.jpeg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "8dcd7cb0e74b",
@@ -1030,6 +1097,27 @@
       "isNew": false
     },
     {
+      "id": "0205fd7e36ce",
+      "title": "【アウトランダーズ】主人公(ハンマー)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/583504",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-26T08:08:12.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583504.png?date=1792581337",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "7d288ff90910",
       "title": "モンスターハンター 捕獲し隊4の設置場所・発売日・ラインナップ｜ガチャガチャ",
       "url": "https://charagoo.jp/gacha/item/819871da58d2/",
@@ -1197,27 +1285,6 @@
       "isNew": false
     },
     {
-      "id": "da6774683cf4",
-      "title": "【アウトランダーズ】リセマラのやり方と所要時間｜何連引ける？【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531931",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-26T03:17:08.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531931.png?date=1793082187",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "55810afd948e",
       "title": "『モンスターハンターNow』が、なんばの街をジャック。リアルイベント「カーニバル 2026：大阪」現地レポート。巨大ジンオウガが駅前にやってきた",
       "url": "https://automaton-media.com/articles/reportjp/monster-20261126-481016/",
@@ -1295,27 +1362,6 @@
       ],
       "isOfficial": false,
       "isPR": true,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "648aa62e18c5",
-      "title": "【アウトランダーズ】ルガ・エアルダの弱点と攻略【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/586566",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-26T02:59:23.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586566.png?date=1793781037",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -1413,27 +1459,6 @@
       "summary": "",
       "publishedAt": "2026-11-26T01:05:14.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560244.png?date=1793262813",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "188cd518008b",
-      "title": "【アウトランダーズ】ガチャおすすめと一覧│引くべきガチャ【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/531924",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-26T00:57:07.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531924.png?date=1793225649",
       "categories": [
         "guide"
       ],
