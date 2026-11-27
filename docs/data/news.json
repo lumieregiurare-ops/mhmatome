@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-27T21:00:17.778Z",
+  "updatedAt": "2026-11-27T21:29:02.830Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 77,
+  "total": 76,
   "todayCount": 5,
   "categories": [
     {
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 37
+      "count": 36
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 27
+      "count": 26
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 1
+      "count": 0
     },
     {
       "id": "now",
@@ -127,6 +127,10 @@
       "count": 1
     },
     {
+      "name": "ニコニコニュース",
+      "count": 1
+    },
+    {
       "name": "AppMedia",
       "count": 1
     },
@@ -136,10 +140,6 @@
     },
     {
       "name": "Saiga NAK",
-      "count": 1
-    },
-    {
-      "name": "Koubo",
       "count": 1
     },
     {
@@ -163,11 +163,7 @@
       "count": 1
     },
     {
-      "name": "ニコニコニュース",
-      "count": 1
-    },
-    {
-      "name": "YouTube",
+      "name": "Excite エキサイト",
       "count": 1
     },
     {
@@ -298,10 +294,10 @@
       "id": "fa9b89464a93",
       "title": "Netflix会員向けに『モンスターハンターライズ』モバイル版が配信開始！スマホ向けにタッチ操作を再構成",
       "summary": "",
-      "url": "https://news.nicovideo.jp/watch/nw20033398?from",
+      "url": "http://www.excite.co.jp/news/article/Nijimen_0000000000668031/",
       "image": "https://cimg.kgl-systems.io/camion/files/95064/thumbnail_cREo.jpg?x=1280",
-      "leadSource": "ニコニコニュース",
-      "publishedAt": "2026-11-26T02:45:26.000Z",
+      "leadSource": "Excite エキサイト",
+      "publishedAt": "2026-11-26T02:43:00.000Z",
       "sourceCount": 3,
       "articleCount": 3,
       "categories": [
@@ -463,12 +459,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-27T20:30:14.761Z",
-    "previousCount": 76,
-    "newCount": 1
+    "previousAt": "2026-11-27T21:00:17.778Z",
+    "previousCount": 77,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-27T21:30:17.778Z",
+  "nextUpdateAt": "2026-11-27T21:59:02.830Z",
   "items": [
     {
       "id": "c5a9ba790304",
@@ -1242,6 +1238,25 @@
       "isNew": false
     },
     {
+      "id": "f3e985fdd3f3",
+      "title": "『モンスターハンターNow』の世界観を渋谷で体験",
+      "url": "https://news.nicovideo.jp/watch/nw20038995?from",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-11-27T05:51:28.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "dbe559f13032",
       "title": "【アウトランダーズ】霜冠の華章の進め方と報酬【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/590497",
@@ -1363,25 +1378,6 @@
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f3e985fdd3f3",
-      "title": "『モンスターハンターNow』の世界観を渋谷で体験",
-      "url": "https://koubo.jp/press-release/prtimes/c117325_r169",
-      "host": "koubo.jp",
-      "source": "Koubo",
-      "summary": "",
-      "publishedAt": "2026-11-27T01:00:00.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
@@ -1777,11 +1773,11 @@
     {
       "id": "fa9b89464a93",
       "title": "Netflix会員向けに『モンスターハンターライズ』モバイル版が配信開始！スマホ向けにタッチ操作を再構成",
-      "url": "https://news.nicovideo.jp/watch/nw20033398?from",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
+      "url": "http://www.excite.co.jp/news/article/Nijimen_0000000000668031/",
+      "host": "excite.co.jp",
+      "source": "Excite エキサイト",
       "summary": "",
-      "publishedAt": "2026-11-26T02:45:26.000Z",
+      "publishedAt": "2026-11-26T02:43:00.000Z",
       "image": "",
       "categories": [
         "other"
@@ -1836,28 +1832,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "15a57120ea8d",
-      "title": "【MHWilds】今日のラギアクルス 2026.11.25 - 19.02",
-      "url": "https://youtu.be/UGDtUW3xfcY",
-      "host": "youtu.be",
-      "source": "YouTube",
-      "summary": "",
-      "publishedAt": "2026-11-25T13:45:23.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds",
-        "world"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "488c58093be3",
