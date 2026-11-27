@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-27T19:30:18.340Z",
+  "updatedAt": "2026-11-27T20:00:20.132Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 75,
-  "todayCount": 2,
+  "total": 76,
+  "todayCount": 3,
   "categories": [
     {
       "id": "new",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 35
+      "count": 36
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 25
+      "count": 26
     },
     {
       "id": "rise",
@@ -100,15 +100,11 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 51
+      "count": 52
     },
     {
       "name": "ファミ通",
       "count": 3
-    },
-    {
-      "name": "ニコニコニュース",
-      "count": 2
     },
     {
       "name": "AUTOMATON",
@@ -147,6 +143,10 @@
       "count": 1
     },
     {
+      "name": "Koubo",
+      "count": 1
+    },
+    {
       "name": "リアルサウンド",
       "count": 1
     },
@@ -156,6 +156,10 @@
     },
     {
       "name": "電ファミニコゲーマー",
+      "count": 1
+    },
+    {
+      "name": "Excite エキサイト",
       "count": 1
     },
     {
@@ -283,10 +287,10 @@
       "id": "fa9b89464a93",
       "title": "Netflix会員向けに『モンスターハンターライズ』モバイル版が配信開始！スマホ向けにタッチ操作を再構成",
       "summary": "",
-      "url": "https://news.nicovideo.jp/watch/nw20033398?from",
-      "image": "https://cimg.kgl-systems.io/camion/files/95064/thumbnail_cREo.jpg?x=1280",
-      "leadSource": "ニコニコニュース",
-      "publishedAt": "2026-11-26T02:45:26.000Z",
+      "url": "http://www.excite.co.jp/news/article/Nijimen_0000000000668031/",
+      "image": "https://s.eximg.jp/exnews/feed/Nijimen/e9/Nijimen_0000000000668031/Nijimen_0000000000668031_1.jpg",
+      "leadSource": "Excite エキサイト",
+      "publishedAt": "2026-11-26T02:43:00.000Z",
       "sourceCount": 3,
       "articleCount": 3,
       "categories": [
@@ -315,18 +319,18 @@
       ]
     },
     {
-      "id": "411bb4076b94",
-      "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
+      "id": "e6d79acfa4bd",
+      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
       "summary": "",
-      "url": "https://gamewith.jp/mhwilds/575038",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/575038.png?date=1789770323",
+      "url": "https://gamewith.jp/mhwilds/563096",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
       "leadSource": "GameWith",
-      "publishedAt": "2026-11-27T13:50:06.000Z",
+      "publishedAt": "2026-11-27T16:27:11.000Z",
       "sourceCount": 2,
       "articleCount": 9,
       "categories": [
-        "other",
-        "new"
+        "guide",
+        "other"
       ],
       "keywords": [
         "モンハンワイルズ",
@@ -334,6 +338,13 @@
         "最新情報"
       ],
       "articles": [
+        {
+          "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/575038",
+          "source": "GameWith",
+          "publishedAt": "2026-11-27T13:50:06.000Z",
+          "isPR": false
+        },
         {
           "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
           "url": "https://gamewith.jp/mhwilds/563077",
@@ -367,13 +378,6 @@
           "url": "https://gamewith.jp/mhwilds/563066",
           "source": "GameWith",
           "publishedAt": "2026-11-26T20:19:11.000Z",
-          "isPR": false
-        },
-        {
-          "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
-          "url": "https://gamewith.jp/mhwilds/563096",
-          "source": "GameWith",
-          "publishedAt": "2026-11-26T19:51:25.000Z",
           "isPR": false
         },
         {
@@ -448,13 +452,32 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-27T19:00:16.359Z",
-    "previousCount": 74,
-    "newCount": 4
+    "previousAt": "2026-11-27T19:30:18.340Z",
+    "previousCount": 75,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-27T20:00:18.340Z",
+  "nextUpdateAt": "2026-11-27T20:30:20.132Z",
   "items": [
+    {
+      "id": "e6d79acfa4bd",
+      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
+      "url": "https://gamewith.jp/mhwilds/563096",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-27T16:27:11.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
+      "categories": [
+        "guide"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "21de9b7fb3e2",
       "title": "【アウトランダーズ】リュウノスケの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
@@ -529,6 +552,27 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531925.png?date=1793082273",
       "categories": [
         "sales"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "ebe0f30bc1c3",
+      "title": "【アウトランダーズ】ルカの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577461",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-27T14:39:16.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577461.png?date=1790214525",
+      "categories": [
+        "guide"
       ],
       "series": [
         "outlanders"
@@ -684,7 +728,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3c93af39972d",
@@ -1145,27 +1189,6 @@
       "isNew": false
     },
     {
-      "id": "ebe0f30bc1c3",
-      "title": "【アウトランダーズ】ルカの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577461",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-27T07:17:11.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577461.png?date=1790214525",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "24484d2a1bbd",
       "title": "【アウトランダーズ】ロードの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/583506",
@@ -1208,25 +1231,6 @@
       "isNew": false
     },
     {
-      "id": "f3e985fdd3f3",
-      "title": "『モンスターハンターNow』の世界観を渋谷で体験",
-      "url": "https://news.nicovideo.jp/watch/nw20038995?news_ref",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-11-27T05:51:28.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "dbe559f13032",
       "title": "【アウトランダーズ】霜冠の華章の進め方と報酬【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/590497",
@@ -1245,7 +1249,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "46ab930cbc6c",
@@ -1307,7 +1311,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0595b5447607",
@@ -1352,6 +1356,25 @@
       "isNew": false
     },
     {
+      "id": "f3e985fdd3f3",
+      "title": "『モンスターハンターNow』の世界観を渋谷で体験",
+      "url": "https://koubo.jp/press-release/prtimes/c117325_r169",
+      "host": "koubo.jp",
+      "source": "Koubo",
+      "summary": "",
+      "publishedAt": "2026-11-27T01:00:00.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "f4f222ac2e2d",
       "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
       "url": "https://gamewith.jp/mhwilds/575036",
@@ -1387,25 +1410,6 @@
       "series": [
         "wilds"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e6d79acfa4bd",
-      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
-      "url": "https://gamewith.jp/mhwilds/563096",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-26T19:51:25.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
-      "categories": [
-        "guide"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1741,12 +1745,12 @@
     {
       "id": "fa9b89464a93",
       "title": "Netflix会員向けに『モンスターハンターライズ』モバイル版が配信開始！スマホ向けにタッチ操作を再構成",
-      "url": "https://news.nicovideo.jp/watch/nw20033398?from",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
+      "url": "http://www.excite.co.jp/news/article/Nijimen_0000000000668031/",
+      "host": "excite.co.jp",
+      "source": "Excite エキサイト",
       "summary": "",
-      "publishedAt": "2026-11-26T02:45:26.000Z",
-      "image": "",
+      "publishedAt": "2026-11-26T02:43:00.000Z",
+      "image": "https://s.eximg.jp/exnews/feed/Nijimen/e9/Nijimen_0000000000668031/Nijimen_0000000000668031_1.jpg",
       "categories": [
         "other"
       ],
@@ -1821,7 +1825,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "488c58093be3",
@@ -1988,6 +1992,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "7c2744d36694",
+      "title": "【モンハンワイルズ】古びた竜彫貨の入手方法と使い道【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/487713",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-25T00:14:12.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/487713.png?date=1740846703",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "4f6f3ae01d7b",
