@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-27T13:30:16.538Z",
+  "updatedAt": "2026-11-27T14:00:16.072Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 67,
+  "total": 69,
   "todayCount": 39,
   "categories": [
     {
@@ -62,19 +62,19 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 30
+      "count": 32
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 23
+      "count": 24
     },
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 4
+      "count": 5
     },
     {
       "id": "world",
@@ -147,6 +147,10 @@
       "count": 1
     },
     {
+      "name": "ライブドアニュース",
+      "count": 1
+    },
+    {
       "name": "インサイド",
       "count": 1
     },
@@ -156,6 +160,10 @@
     },
     {
       "name": "にじめん",
+      "count": 1
+    },
+    {
+      "name": "games.gg",
       "count": 1
     },
     {
@@ -176,8 +184,8 @@
       "image": "https://realsound.jp/wp-content/uploads/2026/11/20261126-urakita-99.jpeg",
       "leadSource": "Saiga NAK",
       "publishedAt": "2026-11-27T01:29:33.000Z",
-      "sourceCount": 8,
-      "articleCount": 8,
+      "sourceCount": 9,
+      "articleCount": 9,
       "categories": [
         "event",
         "other"
@@ -185,13 +193,20 @@
       "keywords": [
         "ジョッキ",
         "木樽",
-        "発売"
+        "モンスターハンターワイルズ"
       ],
       "articles": [
         {
           "title": "『モンスターハンターワイルズ』の木樽ジョッキが登場 ハンターのように豪快に呑んでみよう",
           "url": "https://realsound.jp/tech/2026/11/post-2595444.html/amp",
           "source": "リアルサウンド",
+          "publishedAt": "2026-11-26T08:15:19.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【画像】『モンスターハンターワイルズ』の木樽ジョッキが登場 ハンターのように豪快に呑んでみよう",
+          "url": "https://news.livedoor.com/article/image_detail/32908133/?img_id",
+          "source": "ライブドアニュース",
           "publishedAt": "2026-11-26T08:15:19.000Z",
           "isPR": false
         },
@@ -247,17 +262,24 @@
       "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/9f967fe058824c46ba20ab0cc6c26a75.png",
       "leadSource": "にじめん",
       "publishedAt": "2026-11-26T02:43:00.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
+      "sourceCount": 4,
+      "articleCount": 4,
       "categories": [
         "other"
       ],
       "keywords": [
         "netflix",
-        "スマホ",
-        "会員向"
+        "モンスターハンターライズ",
+        "モバイル"
       ],
       "articles": [
+        {
+          "title": "『モンスターハンターライズ』モバイル版がNetflixゲームに登場！加入者は追加料金なしでプレイ可能",
+          "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOb1ZoQTJIV3RPaVJYZlo4cWdyV1RmdGJaUkZ1U2tRQ1RFNE4wRmtTS1lnX3pDaGQ0LW05Y3VwdEpnTm9wazkyUmhIY2l0OFdUNFVaOU1LbTBYbEpqNnVSWElGbGp0d2hWQnBNdy0teTdHeUtlYXY3a2FUaV8zZnJ5LTJBblN3c01CRGhkcHQ0ZHFJekRTMERPR2VUZW5rZWRYaG5zd25qTGY3dlpmZnUyZ09hRzNZcGVGT0s1dVNMR0FsNGNSTEJTMFNtUXFoOWhvaC1KNEdxejFkUThDeEkyQnVTUFVveGhUYVZGb2xfXzdGeXlWNlNjQ1RxYXhJUjR6cTFTc1pjZ3hnblhBLXZreGx1NlBFUk83X282WVBRMk1GV1JMZEZ0OHZGZzR1SFdtNm9wNl9lMTRZaWRwS2tKdU90cWl2QjhqT2VyMm9ZdFQzN2g2X25nNjdwWGhQS2hudGtnZnRRZGI?oc=5",
+          "source": "games.gg",
+          "publishedAt": "2026-11-25T17:43:10.000Z",
+          "isPR": false
+        },
         {
           "title": "『モンハンライズ』モバイル版が配信開始、Netflix会員向けに提供。スマホでの狩猟をサポートする新機能を搭載",
           "url": "https://www.famitsu.com/article/202611/95064",
@@ -423,13 +445,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-27T13:00:18.041Z",
-    "previousCount": 69,
-    "newCount": 0
+    "previousAt": "2026-11-27T13:30:16.538Z",
+    "previousCount": 67,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-27T14:00:16.538Z",
+  "nextUpdateAt": "2026-11-27T14:30:16.072Z",
   "items": [
+    {
+      "id": "3c93af39972d",
+      "title": "【アウトランダーズ】ミドリの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577465",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-27T13:17:17.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577465.png?date=1790214699",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "140b6b8decfd",
       "title": "【アウトランダーズ】クレスの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
@@ -452,35 +495,14 @@
       "isNew": false
     },
     {
-      "id": "0b22c1244f6f",
-      "title": "【アウトランダーズ】ヘビィボウガンの最強装備【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/584348",
+      "id": "c5a9ba790304",
+      "title": "【アウトランダーズ】ブリックスの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577456",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-27T12:36:18.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/584348.png?date=1793226863",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "effd54217c7e",
-      "title": "【アウトランダーズ】主人公(双剣)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577469",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-27T11:51:08.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577469.png?date=1790214889",
+      "publishedAt": "2026-11-27T11:44:19.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577456.png?date=1790214292",
       "categories": [
         "guide"
       ],
@@ -681,27 +703,6 @@
       "isNew": false
     },
     {
-      "id": "3c93af39972d",
-      "title": "【アウトランダーズ】ミドリの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577465",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-27T09:16:56.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577465.png?date=1790214699",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "1822a68ef9e9",
       "title": "【アウトランダーズ】SSRキャラのおすすめ凸数と心得一覧【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/589366",
@@ -889,6 +890,27 @@
       "isNew": false
     },
     {
+      "id": "effd54217c7e",
+      "title": "【アウトランダーズ】主人公(双剣)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577469",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-27T07:17:18.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577469.png?date=1790214889",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "9ad974a0f0ba",
       "title": "【アウトランダーズ】主人公(弓)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577466",
@@ -960,27 +982,6 @@
       "summary": "",
       "publishedAt": "2026-11-27T07:17:11.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577461.png?date=1790214525",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "c5a9ba790304",
-      "title": "【アウトランダーズ】ブリックスの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577456",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-27T07:17:08.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577456.png?date=1790214292",
       "categories": [
         "guide"
       ],
@@ -1086,6 +1087,27 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/590497.png?date=1795756332",
       "categories": [
         "other"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "0b22c1244f6f",
+      "title": "【アウトランダーズ】ヘビィボウガンの最強装備【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/584348",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-27T04:46:43.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/584348.png?date=1793226863",
+      "categories": [
+        "guide"
       ],
       "series": [
         "outlanders"
@@ -1336,6 +1358,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "ad351127694d",
+      "title": "【画像】『モンスターハンターワイルズ』の木樽ジョッキが登場 ハンターのように豪快に呑んでみよう",
+      "url": "https://news.livedoor.com/article/image_detail/32908133/?img_id",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
+      "summary": "",
+      "publishedAt": "2026-11-26T08:15:19.000Z",
+      "image": "https://image.news.livedoor.com/newsimage/stf/2/1/2120f_1830_f4fea537_9eaaba0a.jpeg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "806bdde3083a",
@@ -1607,6 +1650,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "8d3b4d79f057",
+      "title": "『モンスターハンターライズ』モバイル版がNetflixゲームに登場！加入者は追加料金なしでプレイ可能",
+      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOb1ZoQTJIV3RPaVJYZlo4cWdyV1RmdGJaUkZ1U2tRQ1RFNE4wRmtTS1lnX3pDaGQ0LW05Y3VwdEpnTm9wazkyUmhIY2l0OFdUNFVaOU1LbTBYbEpqNnVSWElGbGp0d2hWQnBNdy0teTdHeUtlYXY3a2FUaV8zZnJ5LTJBblN3c01CRGhkcHQ0ZHFJekRTMERPR2VUZW5rZWRYaG5zd25qTGY3dlpmZnUyZ09hRzNZcGVGT0s1dVNMR0FsNGNSTEJTMFNtUXFoOWhvaC1KNEdxejFkUThDeEkyQnVTUFVveGhUYVZGb2xfXzdGeXlWNlNjQ1RxYXhJUjR6cTFTc1pjZ3hnblhBLXZreGx1NlBFUk83X282WVBRMk1GV1JMZEZ0OHZGZzR1SFdtNm9wNl9lMTRZaWRwS2tKdU90cWl2QjhqT2VyMm9ZdFQzN2g2X25nNjdwWGhQS2hudGtnZnRRZGI?oc=5",
+      "host": "games.gg",
+      "source": "games.gg",
+      "summary": "",
+      "publishedAt": "2026-11-25T17:43:10.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "rise"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "f4f222ac2e2d",
