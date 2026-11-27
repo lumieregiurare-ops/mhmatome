@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-27T11:30:15.511Z",
+  "updatedAt": "2026-11-27T12:00:18.464Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 66,
-  "todayCount": 37,
+  "total": 67,
+  "todayCount": 38,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 26
+      "count": 28
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 32
+      "count": 31
     }
   ],
   "series": [
@@ -94,13 +94,13 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 29
+      "count": 30
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 43
+      "count": 44
     },
     {
       "name": "ファミ通",
@@ -109,6 +109,10 @@
     {
       "name": "ガジェット通信",
       "count": 3
+    },
+    {
+      "name": "Infoseek",
+      "count": 2
     },
     {
       "name": "AUTOMATON",
@@ -121,10 +125,6 @@
     {
       "name": "YouTube",
       "count": 2
-    },
-    {
-      "name": "Excite エキサイト",
-      "count": 1
     },
     {
       "name": "CGWORLD.jp",
@@ -156,10 +156,6 @@
     },
     {
       "name": "にじめん",
-      "count": 1
-    },
-    {
-      "name": "Infoseek",
       "count": 1
     },
     {
@@ -394,22 +390,22 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-27T11:00:20.115Z",
+    "previousAt": "2026-11-27T11:30:15.511Z",
     "previousCount": 66,
-    "newCount": 1
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-27T12:00:15.511Z",
+  "nextUpdateAt": "2026-11-27T12:30:18.464Z",
   "items": [
     {
       "id": "779d197325a3",
       "title": "【ラジオ番組】「モンハン部のラジオ -ゆるふわ集会所-」が11月30日(月)、12月1日(火)のよる7時から2夜連続で配信！ ゲストはゲーム実況者のガンサーの抹茶さん！",
-      "url": "http://www.excite.co.jp/news/article/Prtimes_2026-11-27-13450-6184/",
-      "host": "excite.co.jp",
-      "source": "Excite エキサイト",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000006184_000013450/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
       "summary": "",
-      "publishedAt": "2026-11-27T10:15:00.000Z",
-      "image": "",
+      "publishedAt": "2026-11-27T10:15:36.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
       "categories": [
         "community"
       ],
@@ -545,6 +541,48 @@
       "isNew": false
     },
     {
+      "id": "2a17573b9861",
+      "title": "【アウトランダーズ】ペペの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/561564",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-27T08:35:10.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/561564.png?date=1790214134",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "620baae43e82",
+      "title": "【アウトランダーズ】課金要素まとめとおすすめパック【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/560244",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-27T08:29:11.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560244.png?date=1793262813",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "b0b9c4fb9f93",
       "title": "【アウトランダーズ】主人公(ヘビィボウガン)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577467",
@@ -618,6 +656,27 @@
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/531925.png?date=1793082273",
       "categories": [
         "sales"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "27c9fc4d4dbe",
+      "title": "【アウトランダーズ】フィーヤの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/586524",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-27T07:34:43.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586524.png?date=1795762138",
+      "categories": [
+        "guide"
       ],
       "series": [
         "outlanders"
@@ -713,27 +772,6 @@
       "isNew": false
     },
     {
-      "id": "2a17573b9861",
-      "title": "【アウトランダーズ】ペペの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/561564",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-27T07:17:15.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/561564.png?date=1790214134",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "9ad974a0f0ba",
       "title": "【アウトランダーズ】主人公(弓)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577466",
@@ -763,6 +801,27 @@
       "summary": "",
       "publishedAt": "2026-11-27T07:17:13.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577462.png?date=1790214565",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "32957bedf320",
+      "title": "【アウトランダーズ】エンショウの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577460",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-27T07:17:11.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577460.png?date=1790214483",
       "categories": [
         "guide"
       ],
@@ -860,14 +919,14 @@
       "isNew": false
     },
     {
-      "id": "0205fd7e36ce",
-      "title": "【アウトランダーズ】主人公(ハンマー)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/583504",
+      "id": "24484d2a1bbd",
+      "title": "【アウトランダーズ】ロードの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/583506",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-27T07:17:02.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583504.png?date=1792581337",
+      "publishedAt": "2026-11-27T07:17:05.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583506.png?date=1792581205",
       "categories": [
         "guide"
       ],
@@ -878,17 +937,17 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
-      "id": "32957bedf320",
-      "title": "【アウトランダーズ】エンショウの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577460",
+      "id": "0205fd7e36ce",
+      "title": "【アウトランダーズ】主人公(ハンマー)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/583504",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-11-27T06:30:54.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577460.png?date=1790214483",
+      "publishedAt": "2026-11-27T07:17:02.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583504.png?date=1792581337",
       "categories": [
         "guide"
       ],
@@ -935,27 +994,6 @@
         "other"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "27c9fc4d4dbe",
-      "title": "【アウトランダーズ】フィーヤの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577457",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-27T05:46:28.000Z",
-      "image": "",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1143,27 +1181,6 @@
         "guide"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "9f6d8bb79247",
-      "title": "【アウトランダーズ】鋼翼が落とす影の進め方と報酬│クシャルダオラ討伐イベント【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/587689",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-26T16:02:10.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/587689.png?date=1794549915",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1579,7 +1596,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "488c58093be3",
