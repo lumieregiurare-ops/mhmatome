@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-27T22:00:17.487Z",
+  "updatedAt": "2026-11-27T22:30:16.144Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 76,
-  "todayCount": 5,
+  "total": 81,
+  "todayCount": 6,
   "categories": [
     {
       "id": "new",
       "label": "新作・発表",
-      "count": 1
+      "count": 2
     },
     {
       "id": "update",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 32
+      "count": 34
     },
     {
       "id": "sale",
@@ -62,14 +62,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 37
+      "count": 40
     }
   ],
   "series": [
     {
       "id": "wilds",
       "label": "ワイルズ",
-      "count": 27
+      "count": 30
     },
     {
       "id": "rise",
@@ -79,7 +79,7 @@
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 0
+      "count": 1
     },
     {
       "id": "now",
@@ -100,7 +100,7 @@
   "sources": [
     {
       "name": "GameWith",
-      "count": 54
+      "count": 55
     },
     {
       "name": "ファミ通",
@@ -108,6 +108,10 @@
     },
     {
       "name": "ニコニコニュース",
+      "count": 2
+    },
+    {
+      "name": "Infoseek",
       "count": 2
     },
     {
@@ -119,19 +123,19 @@
       "count": 2
     },
     {
+      "name": "ライブドアニュース",
+      "count": 2
+    },
+    {
       "name": "AppBank",
       "count": 2
     },
     {
-      "name": "PR TIMES",
-      "count": 2
-    },
-    {
-      "name": "Infoseek",
+      "name": "CGWORLD.jp",
       "count": 1
     },
     {
-      "name": "CGWORLD.jp",
+      "name": "AppMedia",
       "count": 1
     },
     {
@@ -155,11 +159,19 @@
       "count": 1
     },
     {
-      "name": "Game*Spark",
+      "name": "PR TIMES",
       "count": 1
     },
     {
-      "name": "Nicheee! （ニッチー！）",
+      "name": "Excite エキサイト",
+      "count": 1
+    },
+    {
+      "name": "YouTube",
+      "count": 1
+    },
+    {
+      "name": "Game*Spark",
       "count": 1
     }
   ],
@@ -172,8 +184,8 @@
       "image": "https://realsound.jp/wp-content/uploads/2026/11/20261126-urakita-99.jpeg",
       "leadSource": "Saiga NAK",
       "publishedAt": "2026-11-27T01:29:33.000Z",
-      "sourceCount": 8,
-      "articleCount": 9,
+      "sourceCount": 9,
+      "articleCount": 10,
       "categories": [
         "event",
         "other"
@@ -188,6 +200,13 @@
           "title": "『モンスターハンターワイルズ』の木樽ジョッキが登場 ハンターのように豪快に呑んでみよう",
           "url": "https://realsound.jp/tech/2026/11/post-2595444.html/amp",
           "source": "リアルサウンド",
+          "publishedAt": "2026-11-26T08:15:19.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【画像】『モンスターハンターワイルズ』の木樽ジョッキが登場 ハンターのように豪快に呑んでみよう",
+          "url": "https://news.livedoor.com/article/image_detail/32908133/?img_id",
+          "source": "ライブドアニュース",
           "publishedAt": "2026-11-26T08:15:19.000Z",
           "isPR": false
         },
@@ -232,12 +251,40 @@
           "source": "GameWith",
           "publishedAt": "2026-11-25T11:49:27.000Z",
           "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "c8832ed762cf",
+      "title": "『モンスターハンターNow』開発者インタビュー。大阪を巡る回遊型リアルイベントの狙いから、電車プレイ対応、スコープリー買収後の開発体制まで聞いた",
+      "summary": "大阪で開催された「モンスターハンターNowカーニバル 2026：大阪」の会場にて、スコープリー・エクスプロアの大隅栄氏とカプコンの砂野元気氏にインタビュー。回遊型リアルイベントの狙いや3年間の運営の手応え、電車プレイ対応、スコープリー買収後の開発体制などについて訊いた。",
+      "url": "https://automaton-media.com/articles/interviewsjp/monster-hunter-now-20261126-481197/",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/11/monster-hunter-now-20261126-481197-001.jpg",
+      "leadSource": "AUTOMATON",
+      "publishedAt": "2026-11-27T22:09:17.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "now",
+        "ハンター",
+        "カーニバル"
+      ],
+      "articles": [
+        {
+          "title": "大阪・ミナミにハンターが集結！「モンスターハンターNowカーニバル 2026：大阪」のオープニングセレモニーをレポート",
+          "url": "https://news.nicovideo.jp/watch/nw20042023?news_ref",
+          "source": "ニコニコニュース",
+          "publishedAt": "2026-11-27T22:09:17.000Z",
+          "isPR": false
         },
         {
-          "title": "【モンハンワイルズ】サイドミッション一覧と解放条件【モンスターハンターワイルズ】",
-          "url": "https://gamewith.jp/mhwilds/485962",
+          "title": "『モンスターハンターNowカーニバル 2026：グローバル』11月28日(土)開催！古龍アマツマガツチが登場",
+          "url": "https://gamewith.jp/gamedb/9422/articles/66330",
           "source": "GameWith",
-          "publishedAt": "2026-11-25T08:28:08.000Z",
+          "publishedAt": "2026-11-26T09:45:16.000Z",
           "isPR": false
         }
       ]
@@ -271,9 +318,9 @@
         },
         {
           "title": "「モンスターハンター」とコラボ企画 バンタン文化祭2026開催",
-          "url": "http://www.nicheee.com/archives/2590725.html",
-          "source": "Nicheee! （ニッチー！）",
-          "publishedAt": "2026-11-25T03:00:54.000Z",
+          "url": "https://news.livedoor.com/article/detail/32895365/",
+          "source": "ライブドアニュース",
+          "publishedAt": "2026-11-26T00:27:14.000Z",
           "isPR": false
         }
       ]
@@ -282,10 +329,10 @@
       "id": "fa9b89464a93",
       "title": "Netflix会員向けに『モンスターハンターライズ』モバイル版が配信開始！スマホ向けにタッチ操作を再構成",
       "summary": "",
-      "url": "https://news.nicovideo.jp/watch/nw20033398?from",
+      "url": "http://www.excite.co.jp/news/article/Nijimen_0000000000668031/",
       "image": "https://cimg.kgl-systems.io/camion/files/95064/thumbnail_cREo.jpg?x=1280",
-      "leadSource": "ニコニコニュース",
-      "publishedAt": "2026-11-26T02:45:26.000Z",
+      "leadSource": "Excite エキサイト",
+      "publishedAt": "2026-11-26T02:43:00.000Z",
       "sourceCount": 3,
       "articleCount": 3,
       "categories": [
@@ -314,27 +361,79 @@
       ]
     },
     {
-      "id": "c8832ed762cf",
-      "title": "『モンスターハンターNow』開発者インタビュー。大阪を巡る回遊型リアルイベントの狙いから、電車プレイ対応、スコープリー買収後の開発体制まで聞いた",
-      "summary": "大阪で開催された「モンスターハンターNowカーニバル 2026：大阪」の会場にて、スコープリー・エクスプロアの大隅栄氏とカプコンの砂野元気氏にインタビュー。回遊型リアルイベントの狙いや3年間の運営の手応え、電車プレイ対応、スコープリー買収後の開発体制などについて訊いた。",
-      "url": "https://automaton-media.com/articles/interviewsjp/monster-hunter-now-20261126-481197/",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/monster-hunter-now-20261126-481197-001.jpg",
-      "leadSource": "AUTOMATON",
-      "publishedAt": "2026-11-26T12:23:19.000Z",
+      "id": "e6d79acfa4bd",
+      "title": "アセンダンス攻略｜モンハンアセンダンスの最新情報",
+      "summary": "",
+      "url": "https://gamewith.jp/mhwilds/563096",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563096.png?date=1789769608",
+      "leadSource": "GameWith",
+      "publishedAt": "2026-11-27T16:27:11.000Z",
       "sourceCount": 2,
-      "articleCount": 2,
+      "articleCount": 9,
       "categories": [
+        "guide",
         "other"
       ],
       "keywords": [
-        "now"
+        "モンハンワイルズ",
+        "アセンダンス",
+        "最新情報"
       ],
       "articles": [
         {
-          "title": "『モンスターハンターNowカーニバル 2026：グローバル』11月28日(土)開催！古龍アマツマガツチが登場",
-          "url": "https://gamewith.jp/gamedb/9422/articles/66330",
+          "title": "【アセンダンス】アラケータの最新情報【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/575038",
           "source": "GameWith",
-          "publishedAt": "2026-11-26T09:45:16.000Z",
+          "publishedAt": "2026-11-27T13:50:06.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】登場モンスター一覧【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563077",
+          "source": "GameWith",
+          "publishedAt": "2026-11-27T04:22:06.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】ブーストブレイサーのアクション一覧【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/574841",
+          "source": "GameWith",
+          "publishedAt": "2026-11-27T03:57:08.000Z",
+          "isPR": false
+        },
+        {
+          "title": "アセンダンス攻略｜モンハンアセンダンス発売日・最新情報",
+          "url": "https://appmedia.jp/mhwilds/80539066",
+          "source": "AppMedia",
+          "publishedAt": "2026-11-27T03:06:02.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】グンドラージャの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/575036",
+          "source": "GameWith",
+          "publishedAt": "2026-11-26T22:53:26.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】Switch2版の発売日はいつ？【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563066",
+          "source": "GameWith",
+          "publishedAt": "2026-11-26T20:19:11.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アセンダンス】クシャルダオラの最新情報まとめ【モンハンワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/563104",
+          "source": "GameWith",
+          "publishedAt": "2026-11-26T06:56:07.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【モンハンワイルズ】序盤おすすめ装備まとめ｜下位装備おすすめ【モンスターハンターワイルズ】",
+          "url": "https://gamewith.jp/mhwilds/485430",
+          "source": "GameWith",
+          "publishedAt": "2026-11-26T04:55:11.000Z",
           "isPR": false
         }
       ]
@@ -359,23 +458,42 @@
       ],
       "articles": [
         {
-          "title": "「カプコンTVチャレンジ!!」11月26日(木)よる8時配信決定！ 『ドラゴンズドグマ 2：ダークアリズン』と『モンスターハンターワイルズ』をNintendo Switch 2 版でプレイ‼",
-          "url": "https://prtimes.jp/main/html/rd/p/000006179.000013450.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-11-26T02:00:02.000Z",
-          "isPR": true
+          "title": "「カプコンTVチャレンジ!!」11月26日(木)よる8時配信決定！ 『ドラゴンズドグマ 2：ダークアリズン』と『モンスターハンターワイルズ』をNintendo Switch 2 版でプレイ!!",
+          "url": "https://news.infoseek.co.jp/article/prtimes_000006179_000013450/",
+          "source": "Infoseek",
+          "publishedAt": "2026-11-26T02:00:00.000Z",
+          "isPR": false
         }
       ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-27T21:29:02.830Z",
+    "previousAt": "2026-11-27T22:00:17.487Z",
     "previousCount": 76,
-    "newCount": 2
+    "newCount": 5
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-27T22:30:17.487Z",
+  "nextUpdateAt": "2026-11-27T23:00:16.144Z",
   "items": [
+    {
+      "id": "9a133714f397",
+      "title": "大阪・ミナミにハンターが集結！「モンスターハンターNowカーニバル 2026：大阪」のオープニングセレモニーをレポート",
+      "url": "https://news.nicovideo.jp/watch/nw20042023?news_ref",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-11-27T22:09:17.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "c5a9ba790304",
       "title": "【アウトランダーズ】ブリックスの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
@@ -1230,6 +1348,26 @@
       "isNew": false
     },
     {
+      "id": "96b4d1361268",
+      "title": "アセンダンス攻略｜モンハンアセンダンス発売日・最新情報",
+      "url": "https://appmedia.jp/mhwilds/80539066",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-27T03:06:02.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/095900_rwfub.webp",
+      "categories": [
+        "new",
+        "guide"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "0595b5447607",
       "title": "【モンハンNow】グローバルイベント攻略、大阪の情報全部盛り込んだぞ【帝国戦略作戦室】",
       "url": "https://t.co/nrIbhydt3y",
@@ -1409,6 +1547,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "ad351127694d",
+      "title": "【画像】『モンスターハンターワイルズ』の木樽ジョッキが登場 ハンターのように豪快に呑んでみよう",
+      "url": "https://news.livedoor.com/article/image_detail/32908133/?img_id",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
+      "summary": "",
+      "publishedAt": "2026-11-26T08:15:19.000Z",
+      "image": "https://image.news.livedoor.com/newsimage/stf/2/1/2120f_1830_f4fea537_9eaaba0a.jpeg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "806bdde3083a",
@@ -1642,11 +1801,11 @@
     {
       "id": "fa9b89464a93",
       "title": "Netflix会員向けに『モンスターハンターライズ』モバイル版が配信開始！スマホ向けにタッチ操作を再構成",
-      "url": "https://news.nicovideo.jp/watch/nw20033398?from",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
+      "url": "http://www.excite.co.jp/news/article/Nijimen_0000000000668031/",
+      "host": "excite.co.jp",
+      "source": "Excite エキサイト",
       "summary": "",
-      "publishedAt": "2026-11-26T02:45:26.000Z",
+      "publishedAt": "2026-11-26T02:43:00.000Z",
       "image": "",
       "categories": [
         "other"
@@ -1683,13 +1842,13 @@
     },
     {
       "id": "b0608d709186",
-      "title": "「カプコンTVチャレンジ!!」11月26日(木)よる8時配信決定！ 『ドラゴンズドグマ 2：ダークアリズン』と『モンスターハンターワイルズ』をNintendo Switch 2 版でプレイ‼",
-      "url": "https://prtimes.jp/main/html/rd/p/000006179.000013450.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
+      "title": "「カプコンTVチャレンジ!!」11月26日(木)よる8時配信決定！ 『ドラゴンズドグマ 2：ダークアリズン』と『モンスターハンターワイルズ』をNintendo Switch 2 版でプレイ!!",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000006179_000013450/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
       "summary": "",
-      "publishedAt": "2026-11-26T02:00:02.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/13450/6179/13450-6179-214693fc464b6f54fe19a82f0b07e9db-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "publishedAt": "2026-11-26T02:00:00.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
       "categories": [
         "other"
       ],
@@ -1697,10 +1856,51 @@
         "wilds"
       ],
       "isOfficial": false,
-      "isPR": true,
+      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "f7b53c6298f3",
+      "title": "「モンスターハンター」とコラボ企画 バンタン文化祭2026開催",
+      "url": "https://news.livedoor.com/article/detail/32895365/",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
+      "summary": "",
+      "publishedAt": "2026-11-26T00:27:14.000Z",
+      "image": "https://image.news.livedoor.com/newsimage/stf/o/g/ogp_image_32895365_77bfd8b311c8.jpg",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "15a57120ea8d",
+      "title": "【MHWilds】今日のラギアクルス 2026.11.25 - 19.02",
+      "url": "https://youtu.be/UGDtUW3xfcY",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-25T13:45:23.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "wilds",
+        "world"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "488c58093be3",
@@ -1826,7 +2026,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "087d4277661f",
@@ -1843,25 +2043,6 @@
       "series": [
         "rise"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f7b53c6298f3",
-      "title": "「モンスターハンター」とコラボ企画 バンタン文化祭2026開催",
-      "url": "http://www.nicheee.com/archives/2590725.html",
-      "host": "nicheee.com",
-      "source": "Nicheee! （ニッチー！）",
-      "summary": "",
-      "publishedAt": "2026-11-25T03:00:54.000Z",
-      "image": "https://livedoor.blogimg.jp/fulltimeblog/imgs/6/f/6f8931f3-s.jpg",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1911,6 +2092,27 @@
       "isNew": false
     },
     {
+      "id": "90d6b22d1743",
+      "title": "【モンハンワイルズ】よりどり高級お食事券のおすすめの集め方と使い道【モンスターハンターワイルズ】",
+      "url": "https://gamewith.jp/mhwilds/492659",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-25T00:12:21.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/492659.png?date=1753325228",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "wilds"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "b2d77891fb45",
       "title": "【モンハンワイルズ】タルコロチャレンジ券の入手方法と使い道【モンスターハンターワイルズ】",
       "url": "https://gamewith.jp/mhwilds/492660",
@@ -1929,7 +2131,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4f6f3ae01d7b",
