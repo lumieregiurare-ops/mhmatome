@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-28T07:00:21.446Z",
+  "updatedAt": "2026-11-28T07:30:15.547Z",
   "site": {
     "title": "モンハン速報",
     "tagline": "モンスターハンター関連のニュースを、あちこちから集めてまとめています。",
     "url": "https://mhmatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 79,
-  "todayCount": 34,
+  "total": 75,
+  "todayCount": 35,
   "categories": [
     {
       "id": "new",
@@ -42,7 +42,7 @@
     {
       "id": "guide",
       "label": "攻略・データ",
-      "count": 30
+      "count": 28
     },
     {
       "id": "sale",
@@ -62,7 +62,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 42
+      "count": 40
     }
   ],
   "series": [
@@ -74,12 +74,12 @@
     {
       "id": "rise",
       "label": "ライズ / サンブレイク",
-      "count": 5
+      "count": 4
     },
     {
       "id": "world",
       "label": "ワールド / アイスボーン",
-      "count": 0
+      "count": 1
     },
     {
       "id": "now",
@@ -94,24 +94,24 @@
     {
       "id": "outlanders",
       "label": "アウトランダーズ",
-      "count": 31
+      "count": 28
     }
   ],
   "sources": [
     {
       "name": "GameWith",
-      "count": 47
-    },
-    {
-      "name": "AppBank",
-      "count": 4
-    },
-    {
-      "name": "PR TIMES",
-      "count": 3
+      "count": 44
     },
     {
       "name": "ファミ通",
+      "count": 4
+    },
+    {
+      "name": "AppBank",
+      "count": 3
+    },
+    {
+      "name": "PR TIMES",
       "count": 3
     },
     {
@@ -124,10 +124,6 @@
     },
     {
       "name": "ガジェット通信",
-      "count": 2
-    },
-    {
-      "name": "ライブドアニュース",
       "count": 2
     },
     {
@@ -147,10 +143,6 @@
       "count": 1
     },
     {
-      "name": "ニコニコニュース",
-      "count": 1
-    },
-    {
       "name": "AppMedia",
       "count": 1
     },
@@ -163,6 +155,10 @@
       "count": 1
     },
     {
+      "name": "Koubo",
+      "count": 1
+    },
+    {
       "name": "インサイド",
       "count": 1
     },
@@ -171,11 +167,15 @@
       "count": 1
     },
     {
-      "name": "Excite エキサイト",
+      "name": "ニコニコニュース",
       "count": 1
     },
     {
-      "name": "games.gg",
+      "name": "ライブドアニュース",
+      "count": 1
+    },
+    {
+      "name": "YouTube",
       "count": 1
     },
     {
@@ -196,16 +196,16 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261128-00010016-realsound-000-1-view.jpg?exp=10800",
       "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-11-28T01:02:54.000Z",
-      "sourceCount": 5,
-      "articleCount": 5,
+      "sourceCount": 7,
+      "articleCount": 7,
       "categories": [
         "other",
         "event"
       ],
       "keywords": [
-        "モンスターハンターワイルズ",
         "ジョッキ",
-        "ハンター"
+        "木樽",
+        "発売"
       ],
       "articles": [
         {
@@ -216,17 +216,31 @@
           "isPR": false
         },
         {
-          "title": "【画像】『モンスターハンターワイルズ』の木樽ジョッキが登場 ハンターのように豪快に呑んでみよう",
-          "url": "https://news.livedoor.com/article/image_detail/32908133/?img_id",
-          "source": "ライブドアニュース",
-          "publishedAt": "2026-11-26T08:15:19.000Z",
-          "isPR": false
-        },
-        {
           "title": "『モンスターハンターワイルズ』の「ぷっくり箔 木樽ジョッキ」が11月26日発売！ 全5デザイン・2サイズ",
           "url": "https://www.appbank.net/2026/11/26/goods-books/3178369.php",
           "source": "AppBank",
           "publishedAt": "2026-11-26T08:02:29.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『モンハンワイルズ』木樽ジョッキが発売。アルシュベルドや調査隊エンブレムをデザイン。大タル爆弾型アイテムBOXが当たるキャンペーンも開催",
+          "url": "https://www.famitsu.com/article/202611/95152",
+          "source": "ファミ通",
+          "publishedAt": "2026-11-26T07:10:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『モンハンワイルズ』木樽ジョッキが発売！ アルシュベルド、オトモアイルーデザインの「ぷっくり箔」に触れて楽しめる",
+          "url": "https://www.inside-games.jp/article/2026/11/26/191590.html",
+          "source": "インサイド",
+          "publishedAt": "2026-11-26T06:45:03.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『モンハンワイルズ』の木樽ジョッキが発売。「アルシュベルド」や「調査隊エンブレム」など全5種のデザインがラインナップ",
+          "url": "https://news.denfaminicogamer.jp/news/2611262k",
+          "source": "電ファミニコゲーマー",
+          "publishedAt": "2026-11-26T05:51:00.000Z",
           "isPR": false
         },
         {
@@ -242,12 +256,12 @@
       "id": "fa9b89464a93",
       "title": "Netflix会員向けに『モンスターハンターライズ』モバイル版が配信開始！スマホ向けにタッチ操作を再構成",
       "summary": "",
-      "url": "http://www.excite.co.jp/news/article/Nijimen_0000000000668031/",
+      "url": "https://news.nicovideo.jp/watch/nw20033398?from",
       "image": "https://cimg.kgl-systems.io/camion/files/95064/thumbnail_cREo.jpg?x=1280",
-      "leadSource": "Excite エキサイト",
-      "publishedAt": "2026-11-26T02:43:00.000Z",
-      "sourceCount": 5,
-      "articleCount": 5,
+      "leadSource": "ニコニコニュース",
+      "publishedAt": "2026-11-26T02:45:26.000Z",
+      "sourceCount": 4,
+      "articleCount": 4,
       "categories": [
         "other"
       ],
@@ -257,13 +271,6 @@
         "配信開始"
       ],
       "articles": [
-        {
-          "title": "『モンスターハンターライズ』モバイル版がNetflixゲームに登場！加入者は追加料金なしでプレイ可能",
-          "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOb1ZoQTJIV3RPaVJYZlo4cWdyV1RmdGJaUkZ1U2tRQ1RFNE4wRmtTS1lnX3pDaGQ0LW05Y3VwdEpnTm9wazkyUmhIY2l0OFdUNFVaOU1LbTBYbEpqNnVSWElGbGp0d2hWQnBNdy0teTdHeUtlYXY3a2FUaV8zZnJ5LTJBblN3c01CRGhkcHQ0ZHFJekRTMERPR2VUZW5rZWRYaG5zd25qTGY3dlpmZnUyZ09hRzNZcGVGT0s1dVNMR0FsNGNSTEJTMFNtUXFoOWhvaC1KNEdxejFkUThDeEkyQnVTUFVveGhUYVZGb2xfXzdGeXlWNlNjQ1RxYXhJUjR6cTFTc1pjZ3hnblhBLXZreGx1NlBFUk83X282WVBRMk1GV1JMZEZ0OHZGZzR1SFdtNm9wNl9lMTRZaWRwS2tKdU90cWl2QjhqT2VyMm9ZdFQzN2g2X25nNjdwWGhQS2hudGtnZnRRZGI?oc=5",
-          "source": "games.gg",
-          "publishedAt": "2026-11-25T17:43:10.000Z",
-          "isPR": false
-        },
         {
           "title": "『モンハンライズ』モバイル版が配信開始、Netflix会員向けに提供。スマホでの狩猟をサポートする新機能を搭載",
           "url": "https://www.famitsu.com/article/202611/95064",
@@ -315,9 +322,9 @@
         },
         {
           "title": "『モンスターハンターNow』の世界観を渋谷で体験",
-          "url": "https://news.nicovideo.jp/watch/nw20038995?news_ref",
-          "source": "ニコニコニュース",
-          "publishedAt": "2026-11-27T05:51:28.000Z",
+          "url": "https://koubo.jp/press-release/prtimes/c117325_r169",
+          "source": "Koubo",
+          "publishedAt": "2026-11-27T01:00:00.000Z",
           "isPR": false
         }
       ]
@@ -354,42 +361,6 @@
           "url": "https://news.livedoor.com/article/detail/32895365/",
           "source": "ライブドアニュース",
           "publishedAt": "2026-11-26T00:27:14.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "6800a7b9298a",
-      "title": "『モンハンワイルズ』木樽ジョッキが発売。アルシュベルドや調査隊エンブレムをデザイン。大タル爆弾型アイテムBOXが当たるキャンペーンも開催",
-      "summary": "",
-      "url": "https://www.famitsu.com/article/202611/95152",
-      "image": "https://cimg.kgl-systems.io/camion/files/95152/thumbnail_lTyM.jpg?x=1280",
-      "leadSource": "ファミ通",
-      "publishedAt": "2026-11-26T07:10:00.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "event",
-        "other"
-      ],
-      "keywords": [
-        "モンハンワイルズ",
-        "アルシュベルド",
-        "ジョッキ"
-      ],
-      "articles": [
-        {
-          "title": "『モンハンワイルズ』木樽ジョッキが発売！ アルシュベルド、オトモアイルーデザインの「ぷっくり箔」に触れて楽しめる",
-          "url": "https://www.inside-games.jp/article/2026/11/26/191590.html",
-          "source": "インサイド",
-          "publishedAt": "2026-11-26T06:45:03.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『モンハンワイルズ』の木樽ジョッキが発売。「アルシュベルド」や「調査隊エンブレム」など全5種のデザインがラインナップ",
-          "url": "https://news.denfaminicogamer.jp/news/2611262k",
-          "source": "電ファミニコゲーマー",
-          "publishedAt": "2026-11-26T05:51:00.000Z",
           "isPR": false
         }
       ]
@@ -494,31 +465,30 @@
       ]
     },
     {
-      "id": "727d40036cbd",
-      "title": "『モンハン部のラジオ』が2夜連続配信！ ゲストはガンサーの抹茶さん、11月30日・12月1日よる7時から",
+      "id": "4e5e0dc9b5c5",
+      "title": "画像ページ (9/11) 【モンハン】『MHX（クロス）』が発売された日。4種のメインモンスターにワクワクが止まらなかった。ハンターの行動を特化させる狩猟スタイルと狩技も魅力【今日は何の日？】",
       "summary": "",
-      "url": "https://www.appbank.net/2026/11/28/game/3180978.php",
-      "image": "https://www.appbank.net/wp-content/uploads/2026/11/20261127_175855_595_01.webp",
-      "leadSource": "AppBank",
-      "publishedAt": "2026-11-28T00:32:46.000Z",
+      "url": "https://www.famitsu.com/article/images/202611/94971/940538",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/94971/a1058abae0dc372f4432cbea7fa123512.jpg?x=1280",
+      "leadSource": "ファミ通",
+      "publishedAt": "2026-11-28T03:38:54.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
-        "other",
-        "community"
+        "other"
       ],
       "keywords": [
-        "ラジオ",
-        "ゲスト",
-        "ガンサー"
+        "mhx",
+        "クロス",
+        "メインモンスター"
       ],
       "articles": [
         {
-          "title": "【ラジオ番組】「モンハン部のラジオ －ゆるふわ集会所－」が11月30日(月)、12月1日(火)のよる7時から2夜連続で配信！ ゲストはゲーム実況者のガンサーの抹茶さん！",
-          "url": "https://prtimes.jp/main/html/rd/p/000006184.000013450.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-11-27T07:06:24.000Z",
-          "isPR": true
+          "title": "【モンハン】『MHX（クロス）』が発売された日。4種のメインモンスターにワクワクが止まらなかった。ハンターの行動を特化させる狩猟スタイルと狩技も魅力【今日は何の日？】（ファミ通.com）",
+          "url": "https://news.yahoo.co.jp/articles/cec5004873c1cb8e05e632656486e89d4b2aa599",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-27T22:30:00.000Z",
+          "isPR": false
         }
       ]
     },
@@ -608,12 +578,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-28T06:30:16.794Z",
+    "previousAt": "2026-11-28T07:00:21.446Z",
     "previousCount": 79,
-    "newCount": 2
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-28T07:30:21.446Z",
+  "nextUpdateAt": "2026-11-28T08:00:15.547Z",
   "items": [
     {
       "id": "9ac4ffde6662",
@@ -632,7 +602,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "27c9fc4d4dbe",
@@ -719,6 +689,27 @@
       "isNew": false
     },
     {
+      "id": "32957bedf320",
+      "title": "【アウトランダーズ】エンショウの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577460",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-28T04:02:07.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577460.png?date=1790214483",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "36184fedda04",
       "title": "「モンスターハンターNowカーニバル 2026：グローバル」が開催！古龍アマツマガツチへの直接迎撃や次元変異ナルガクルガの狩猟に挑戦しよう",
       "url": "https://www.gamer.ne.jp/news/202611280008/",
@@ -736,6 +727,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "4e5e0dc9b5c5",
+      "title": "画像ページ (9/11) 【モンハン】『MHX（クロス）』が発売された日。4種のメインモンスターにワクワクが止まらなかった。ハンターの行動を特化させる狩猟スタイルと狩技も魅力【今日は何の日？】",
+      "url": "https://www.famitsu.com/article/images/202611/94971/940538",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-11-28T03:38:54.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/94971/a1058abae0dc372f4432cbea7fa123512.jpg?x=1280",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "730fd9a62551",
@@ -927,6 +937,27 @@
       "isNew": false
     },
     {
+      "id": "8dcd7cb0e74b",
+      "title": "【アウトランダーズ】主人公(大剣)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
+      "url": "https://gamewith.jp/mhoutlanders/577471",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-28T02:45:10.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577471.png?date=1790214971",
+      "categories": [
+        "guide"
+      ],
+      "series": [
+        "outlanders"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "dcc60bf853dc",
       "title": "【アウトランダーズ】スティリアの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/588284",
@@ -1074,25 +1105,6 @@
       "isNew": false
     },
     {
-      "id": "727d40036cbd",
-      "title": "『モンハン部のラジオ』が2夜連続配信！ ゲストはガンサーの抹茶さん、11月30日・12月1日よる7時から",
-      "url": "https://www.appbank.net/2026/11/28/game/3180978.php",
-      "host": "appbank.net",
-      "source": "AppBank",
-      "summary": "",
-      "publishedAt": "2026-11-28T00:32:46.000Z",
-      "image": "https://www.appbank.net/wp-content/uploads/2026/11/20261127_175855_595_01.webp",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "21de9b7fb3e2",
       "title": "【アウトランダーズ】リュウノスケの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
       "url": "https://gamewith.jp/mhoutlanders/577455",
@@ -1228,27 +1240,6 @@
       ],
       "series": [
         "wilds"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "32957bedf320",
-      "title": "【アウトランダーズ】エンショウの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577460",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-27T19:50:23.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577460.png?date=1790214483",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1444,27 +1435,6 @@
       "isNew": false
     },
     {
-      "id": "ccda035e87ea",
-      "title": "【アウトランダーズ】特別招集券(限定ガチャ券)の集め方【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/574939",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-27T08:45:58.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574939.png?date=1789017229",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "64138cd9754e",
       "title": "12面の4K映像と「次世代の風」。 『モンスターハンター ブリッジ』と「VORTEXEL」の開発秘話～CAPCOM オープンカンファレンス RE:2026（後編）",
       "url": "https://cgworld.jp/article/202611-capcom-re02.html",
@@ -1477,69 +1447,6 @@
         "other"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d1380a6141da",
-      "title": "【アウトランダーズ】主人公(ランス)の評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577468",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-27T07:17:18.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577468.png?date=1790214845",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "521fd963ac23",
-      "title": "【アウトランダーズ】フォリオの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/577462",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-27T07:17:13.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/577462.png?date=1790214565",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "24484d2a1bbd",
-      "title": "【アウトランダーズ】ロードの評価とおすすめ最強装備・編成【モンハンアウトランダーズ】",
-      "url": "https://gamewith.jp/mhoutlanders/583506",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-27T07:17:05.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583506.png?date=1792581205",
-      "categories": [
-        "guide"
-      ],
-      "series": [
-        "outlanders"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1561,25 +1468,6 @@
       "series": [],
       "isOfficial": false,
       "isPR": true,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f3e985fdd3f3",
-      "title": "『モンスターハンターNow』の世界観を渋谷で体験",
-      "url": "https://news.nicovideo.jp/watch/nw20038995?news_ref",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-11-27T05:51:28.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -1664,6 +1552,25 @@
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "f3e985fdd3f3",
+      "title": "『モンスターハンターNow』の世界観を渋谷で体験",
+      "url": "https://koubo.jp/press-release/prtimes/c117325_r169",
+      "host": "koubo.jp",
+      "source": "Koubo",
+      "summary": "",
+      "publishedAt": "2026-11-27T01:00:00.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
@@ -1758,27 +1665,6 @@
         "other"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ad351127694d",
-      "title": "【画像】『モンスターハンターワイルズ』の木樽ジョッキが登場 ハンターのように豪快に呑んでみよう",
-      "url": "https://news.livedoor.com/article/image_detail/32908133/?img_id",
-      "host": "news.livedoor.com",
-      "source": "ライブドアニュース",
-      "summary": "",
-      "publishedAt": "2026-11-26T08:15:19.000Z",
-      "image": "https://image.news.livedoor.com/newsimage/stf/2/1/2120f_1830_f4fea537_9eaaba0a.jpeg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "wilds"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1975,11 +1861,11 @@
     {
       "id": "fa9b89464a93",
       "title": "Netflix会員向けに『モンスターハンターライズ』モバイル版が配信開始！スマホ向けにタッチ操作を再構成",
-      "url": "http://www.excite.co.jp/news/article/Nijimen_0000000000668031/",
-      "host": "excite.co.jp",
-      "source": "Excite エキサイト",
+      "url": "https://news.nicovideo.jp/watch/nw20033398?from",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
       "summary": "",
-      "publishedAt": "2026-11-26T02:43:00.000Z",
+      "publishedAt": "2026-11-26T02:45:26.000Z",
       "image": "",
       "categories": [
         "other"
@@ -2043,7 +1929,7 @@
       "source": "ライブドアニュース",
       "summary": "",
       "publishedAt": "2026-11-26T00:27:14.000Z",
-      "image": "https://image.news.livedoor.com/newsimage/stf/o/g/ogp_image_32895365_479c2bc5ada5.jpg",
+      "image": "https://image.news.livedoor.com/newsimage/stf/o/g/ogp_image_32895365_762d383723f4.jpg",
       "categories": [
         "collab"
       ],
@@ -2055,25 +1941,26 @@
       "isNew": false
     },
     {
-      "id": "8d3b4d79f057",
-      "title": "『モンスターハンターライズ』モバイル版がNetflixゲームに登場！加入者は追加料金なしでプレイ可能",
-      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOb1ZoQTJIV3RPaVJYZlo4cWdyV1RmdGJaUkZ1U2tRQ1RFNE4wRmtTS1lnX3pDaGQ0LW05Y3VwdEpnTm9wazkyUmhIY2l0OFdUNFVaOU1LbTBYbEpqNnVSWElGbGp0d2hWQnBNdy0teTdHeUtlYXY3a2FUaV8zZnJ5LTJBblN3c01CRGhkcHQ0ZHFJekRTMERPR2VUZW5rZWRYaG5zd25qTGY3dlpmZnUyZ09hRzNZcGVGT0s1dVNMR0FsNGNSTEJTMFNtUXFoOWhvaC1KNEdxejFkUThDeEkyQnVTUFVveGhUYVZGb2xfXzdGeXlWNlNjQ1RxYXhJUjR6cTFTc1pjZ3hnblhBLXZreGx1NlBFUk83X282WVBRMk1GV1JMZEZ0OHZGZzR1SFdtNm9wNl9lMTRZaWRwS2tKdU90cWl2QjhqT2VyMm9ZdFQzN2g2X25nNjdwWGhQS2hudGtnZnRRZGI?oc=5",
-      "host": "games.gg",
-      "source": "games.gg",
+      "id": "15a57120ea8d",
+      "title": "【MHWilds】今日のラギアクルス 2026.11.25 - 19.02",
+      "url": "https://youtu.be/UGDtUW3xfcY",
+      "host": "youtu.be",
+      "source": "YouTube",
       "summary": "",
-      "publishedAt": "2026-11-25T17:43:10.000Z",
+      "publishedAt": "2026-11-25T13:45:23.000Z",
       "image": "",
       "categories": [
         "other"
       ],
       "series": [
-        "rise"
+        "wilds",
+        "world"
       ],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "488c58093be3",
